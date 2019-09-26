@@ -1,0 +1,499 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Telephone numbers in Suriname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Telephone_numbers_in_Suriname","wgTitle":"Telephone numbers in Suriname","wgCurRevisionId":911015517,"wgRevisionId":911015517,"wgArticleId":32921561,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with too few wikilinks from August 2019","All articles with too few wikilinks","Articles covered by WikiProject Wikify from August 2019","All articles covered by WikiProject Wikify","All stub articles","Telephone numbers by country","Suriname communications-related lists","Suriname stubs","Telephone number stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July",
+"August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Telephone_numbers_in_Suriname","wgRelevantArticleId":32921561,"wgRequestId":"XYs9KQpAICwAAEFE15oAAABI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7696672","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Telephone_numbers_in_Suriname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Telephone_numbers_in_Suriname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Telephone_numbers_in_Suriname rootpage-Telephone_numbers_in_Suriname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Telephone numbers in Suriname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Underlinked plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/40px-Ambox_wikify.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/60px-Ambox_wikify.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ambox_wikify.svg/80px-Ambox_wikify.svg.png 2x" data-file-width="620" data-file-height="620" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs more <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">links to other articles</a> to help <a href="/wiki/Wikipedia:Manual_of_Style/Linking#Principles" title="Wikipedia:Manual of Style/Linking">integrate it into the encyclopedia</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit">improve this article</a> by adding links <a href="/wiki/Wikipedia:Manual_of_Style/Linking#Overlinking_and_underlinking" title="Wikipedia:Manual of Style/Linking">that are relevant to the context</a> within the existing text.</span>  <small class="date-container"><i>(<span class="date">August 2019</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox" style="width:22em"><caption>Suriname telephone numbers</caption><tbody><tr><th colspan="2" style="text-align:center;background:lavender;">Location</th></tr><tr><th scope="row">Country</th><td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr><th scope="row">Continent</th><td><a href="/wiki/Telephone_numbers_in_South_America" class="mw-redirect" title="Telephone numbers in South America">South America</a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;">Access codes</th></tr><tr><th scope="row"><a href="/wiki/List_of_country_calling_codes" title="List of country calling codes">Country calling code</a></th><td>+597</td></tr><tr><th scope="row"><a href="/wiki/International_call_prefix" class="mw-redirect" title="International call prefix">International call prefix</a></th><td>00</td></tr><tr><th scope="row"><a href="/wiki/Trunk_prefix" title="Trunk prefix">Trunk prefix</a></th><td>0</td></tr></tbody></table>
+<p>National Significant Numbers (NSN):
+</p>
+<ul><li>Minimum number length (excluding the country code): six digits.</li>
+<li>Maximum number length (excluding the country code): seven digits.</li></ul>
+<p>International dialling format:
+</p>
+<ul><li>Mobile: +597 XXX XXXX</li>
+<li>Fixed: +597 XXX XXX</li></ul>
+<p><a href="/wiki/Suriname" title="Suriname">Suriname</a> uses a number plan introduced in 2008.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Allocations">Allocations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit&amp;section=1" title="Edit section: Allocations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" border="1">
+<tbody><tr>
+<th rowspan="2">NDC (National Destination Code)<br />or leading digits of<br />NSN (National Significant Number)</th>
+<th colspan="2">NSN number length</th>
+<th rowspan="2">Usage of E.164 Number</th>
+<th rowspan="2">Additional information
+</th></tr>
+<tr>
+<th>Maximum length</th>
+<th>Minimum length
+</th></tr>
+<tr>
+<td>1XX</td>
+<td>4</td>
+<td>3</td>
+<td>Non-geographic</td>
+<td>Abbreviated numbers
+</td></tr>
+<tr>
+<td>21 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – West Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>22 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – West Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>23 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – West Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>30 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>31 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>32 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>33 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>34 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>35 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>36 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>37 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Mid and East Suriname</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>4 XXXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Paramaribo (Capital city)</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>52 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Paramaribo (Capital city)</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>53 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Paramaribo (Capital city)</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>54 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Paramaribo (Capital city)</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>55 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number – Paramaribo (Capital city)</td>
+<td>Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>56 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Non-geographic number</td>
+<td>VoIP – Telesur
+</td></tr>
+<tr>
+<td>58 XXXX</td>
+<td>6</td>
+<td>6</td>
+<td>Geographic number</td>
+<td>Paramaribo (Capital city) Fixed telephony services – Telesur
+</td></tr>
+<tr>
+<td>68 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>WLL – Telesur<br />CDMA (Fixed version)
+</td></tr>
+<tr>
+<td>71 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Digicel Suriname N.V.
+</td></tr>
+<tr>
+<td>72 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – reserved
+</td></tr>
+<tr>
+<td>75 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr>
+<tr>
+<td>81 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Digicel Suriname N.V.
+</td></tr>
+<tr>
+<td>82 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Digicel Suriname N.V.
+</td></tr>
+<tr>
+<td>83 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Intelsur (Uniqa)
+</td></tr>
+<tr>
+<td>84 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic number</td>
+<td>Mobile (GSM) telephony services – Intelsur (Uniqa)
+</td></tr>
+<tr>
+<td>85 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr>
+<tr>
+<td>86 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr>
+<tr>
+<td>87 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr>
+<tr>
+<td>88 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr>
+<tr>
+<td>89 XXXXX</td>
+<td>7</td>
+<td>7</td>
+<td>Non-geographic  number</td>
+<td>Mobile (GSM) telephony services – Telesur
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Until 1969, a system was used with 2-digit area codes and local numbers varying from 2 to 5 digits depending on the area. Around 1969/1970 this was changed to a closed numbering system with 5-digit numbers nationwide; a zero had to be dialled before the number. At that time, some areas were not automated yet.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">&lt;%=hdrContact%&gt;. <a rel="nofollow" class="external text" href="http://www.itu.int/oth/T02020000C5/en">"Suriname"</a>. <i>www.itu.int</i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.itu.int&amp;rft.atitle=Suriname&amp;rft.au=%3C%25%3DhdrContact%25%3E&amp;rft_id=http%3A%2F%2Fwww.itu.int%2Foth%2FT02020000C5%2Fen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATelephone+numbers+in+Suriname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://resolver.kb.nl/resolve?urn=ddd:011020622:mpeg21:a0056">Einde telefoon misère in zicht: nieuw net over 3 maanden in gebruik</a>, Vrije Stem, 26 August 1969 <i>(Dutch)</i></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Telephone_numbers_in_South_America" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:South_America_topic" title="Template:South America topic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:South_America_topic" title="Template talk:South America topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:South_America_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Telephone_numbers_in_South_America" style="font-size:114%;margin:0 4em"><a href="/wiki/Telephone_numbers_in_South_America" class="mw-redirect" title="Telephone numbers in South America">Telephone numbers in South America </a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign states</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Telephone_numbers_in_Argentina" title="Telephone numbers in Argentina">Argentina</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Bolivia" title="Telephone numbers in Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Brazil" title="Telephone numbers in Brazil">Brazil</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Chile" title="Telephone numbers in Chile">Chile</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Colombia" title="Telephone numbers in Colombia">Colombia</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Ecuador" title="Telephone numbers in Ecuador">Ecuador</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Guyana" title="Telephone numbers in Guyana">Guyana</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Paraguay" title="Telephone numbers in Paraguay">Paraguay</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Peru" title="Telephone numbers in Peru">Peru</a></li>
+<li><a class="mw-selflink selflink">Suriname</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Uruguay" title="Telephone numbers in Uruguay">Uruguay</a></li>
+<li><a href="/wiki/Telephone_numbers_in_Venezuela" title="Telephone numbers in Venezuela">Venezuela</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Dependent_territory" title="Dependent territory">Dependencies</a> and<br />other territories</div></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Telephone_numbers_in_the_Falkland_Islands" title="Telephone numbers in the Falkland Islands">Falkland Islands</a></li>
+<li><a href="/wiki/Telephone_numbers_in_French_Guiana" class="mw-redirect" title="Telephone numbers in French Guiana">French Guiana</a></li>
+<li><a href="/wiki/Telephone_numbers_in_South_Georgia_and_the_South_Sandwich_Islands" title="Telephone numbers in South Georgia and the South Sandwich Islands"><span style="white-space:normal;">South Georgia and the South Sandwich Islands</span></a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Suriname.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/30px-Flag_of_Suriname.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/60px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td><td><i>This <a href="/wiki/Suriname" title="Suriname">Suriname</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-stub" title="Template:Suriname-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-stub" title="Template talk:Suriname-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Phone_icon_rotated.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Phone_icon_rotated.svg/40px-Phone_icon_rotated.svg.png" decoding="async" width="40" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Phone_icon_rotated.svg/60px-Phone_icon_rotated.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Phone_icon_rotated.svg/80px-Phone_icon_rotated.svg.png 2x" data-file-width="427" data-file-height="186" /></a></td><td><i>This article related to <a href="/wiki/Telephone_number" title="Telephone number">telephone numbers</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Telephonenumber-stub" title="Template:Telephonenumber-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Telephonenumber-stub" title="Template talk:Telephonenumber-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Telephonenumber-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20190907102614
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.260 seconds
+Real time usage: 0.356 seconds
+Preprocessor visited node count: 540/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22601/2097152 bytes
+Template argument size: 628/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3268/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 2.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  286.774      1 -total
+ 41.95%  120.309      1 Template:Reflist
+ 35.68%  102.329      1 Template:Cite_web
+ 22.67%   65.023      1 Template:Underlinked
+ 16.37%   46.957      1 Template:Ambox
+ 15.00%   43.028      1 Template:Infobox_country_telephone_plan
+ 13.45%   38.563      1 Template:Infobox
+ 10.05%   28.835      1 Template:South_America_topic
+  7.53%   21.593      1 Template:Navbox
+  6.88%   19.729      2 Template:Asbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32921561-0!canonical and timestamp 20190907102614 and revision id 911015517
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;oldid=911015517">https://en.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;oldid=911015517</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Telephone_numbers_by_country" title="Category:Telephone numbers by country">Telephone numbers by country</a></li><li><a href="/wiki/Category:Suriname_communications-related_lists" title="Category:Suriname communications-related lists">Suriname communications-related lists</a></li><li><a href="/wiki/Category:Suriname_stubs" title="Category:Suriname stubs">Suriname stubs</a></li><li><a href="/wiki/Category:Telephone_number_stubs" title="Category:Telephone number stubs">Telephone number stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_too_few_wikilinks_from_August_2019" title="Category:Articles with too few wikilinks from August 2019">Articles with too few wikilinks from August 2019</a></li><li><a href="/wiki/Category:All_articles_with_too_few_wikilinks" title="Category:All articles with too few wikilinks">All articles with too few wikilinks</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_August_2019" title="Category:Articles covered by WikiProject Wikify from August 2019">Articles covered by WikiProject Wikify from August 2019</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Telephone+numbers+in+Suriname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Telephone+numbers+in+Suriname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Telephone_numbers_in_Suriname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Telephone_numbers_in_Suriname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Telephone_numbers_in_Suriname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Telephone_numbers_in_Suriname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Telephone_numbers_in_Suriname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;oldid=911015517" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7696672" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Telephone_numbers_in_Suriname&amp;id=911015517" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Telephone+numbers+in+Suriname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Telephone+numbers+in+Suriname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Telephone_numbers_in_Suriname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7696672#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 August 2019, at 01:11<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Telephone_numbers_in_Suriname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.356","ppvisitednodes":{"value":540,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22601,"limit":2097152},"templateargumentsize":{"value":628,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3268,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  286.774      1 -total"," 41.95%  120.309      1 Template:Reflist"," 35.68%  102.329      1 Template:Cite_web"," 22.67%   65.023      1 Template:Underlinked"," 16.37%   46.957      1 Template:Ambox"," 15.00%   43.028      1 Template:Infobox_country_telephone_plan"," 13.45%   38.563      1 Template:Infobox"," 10.05%   28.835      1 Template:South_America_topic","  7.53%   21.593      1 Template:Navbox","  6.88%   19.729      2 Template:Asbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":2735393,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20190907102614","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Telephone numbers in Suriname","url":"https:\/\/en.wikipedia.org\/wiki\/Telephone_numbers_in_Suriname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7696672","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7696672","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-08-30T14:07:32Z","dateModified":"2019-08-16T01:11:13Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

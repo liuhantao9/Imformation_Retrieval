@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>State crime - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"State_crime","wgTitle":"State crime","wgCurRevisionId":780720945,"wgRevisionId":780720945,"wgArticleId":3842996,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Criminology","Nationality"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"State_crime","wgRelevantArticleId":3842996,"wgRequestId":"XYpIbApAIC8AAGu3BTgAAAGD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":
+!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q857833","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pentonvilleiso19.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/State_crime"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=State_crime&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=State_crime&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/State_crime"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-State_crime rootpage-State_crime skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">State crime</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Criminology" title="Criminology">Criminology</a><br />and <a href="/wiki/Penology" title="Penology">penology</a></th></tr><tr><td style="padding:0.2em 0 0.4em;padding:0.5em 1.0em 1.0em;"><a href="/wiki/File:Pentonvilleiso19.jpg" class="image"><img alt="Pentonvilleiso19.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pentonvilleiso19.jpg/220px-Pentonvilleiso19.jpg" decoding="async" width="220" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pentonvilleiso19.jpg/330px-Pentonvilleiso19.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Pentonvilleiso19.jpg/440px-Pentonvilleiso19.jpg 2x" data-file-width="797" data-file-height="525" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Theory</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:0.75em;padding-right:0.75em;">
+<ul><li><a href="/wiki/Anomie" title="Anomie">Anomie</a></li>
+<li><a href="/wiki/Biosocial_criminology" title="Biosocial criminology">Biosocial criminology</a></li>
+<li><a href="/wiki/Broken_windows_theory" title="Broken windows theory">Broken windows</a></li>
+<li><a href="/wiki/Collective_efficacy" title="Collective efficacy">Collective efficacy</a></li>
+<li><a href="/wiki/Crime_analysis" title="Crime analysis">Crime analysis</a></li>
+<li><a href="/wiki/Criminalization" title="Criminalization">Criminalization</a></li>
+<li><a href="/wiki/Differential_association" title="Differential association">Differential association</a></li>
+<li><a href="/wiki/Deviance_(sociology)" title="Deviance (sociology)">Deviance</a></li>
+<li><a href="/wiki/Labeling_theory" title="Labeling theory">Labeling theory</a></li>
+<li><a href="/wiki/Psychopathy" title="Psychopathy">Psychopathy</a></li>
+<li><a href="/wiki/Rational_choice_theory_(criminology)" title="Rational choice theory (criminology)">Rational choice</a></li>
+<li><a href="/wiki/Social_control_theory" title="Social control theory">Social control</a></li>
+<li><a href="/wiki/Social_disorganization_theory" title="Social disorganization theory">Social disorganization</a></li>
+<li><a href="/wiki/Social_learning_theory" title="Social learning theory">Social learning</a></li>
+<li><a href="/wiki/Strain_theory_(sociology)" title="Strain theory (sociology)">Strain</a></li>
+<li><a href="/wiki/Subcultural_theory" title="Subcultural theory">Subculture</a></li>
+<li><a href="/wiki/Symbolic_interactionism" title="Symbolic interactionism">Symbolic interactionism</a></li>
+<li><a href="/wiki/Victimology" title="Victimology">Victimology</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Types of <a href="/wiki/Crime" title="Crime">crime</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Crimes_against_humanity" title="Crimes against humanity">Against humanity</a></li>
+<li><a href="/wiki/Blue-collar_crime" title="Blue-collar crime">Blue-collar</a></li>
+<li><a href="/wiki/Corporate_crime" title="Corporate crime">Corporate</a></li>
+<li><a href="/wiki/Juvenile_delinquency" title="Juvenile delinquency">Juvenile</a></li>
+<li><a href="/wiki/Organized_crime" title="Organized crime">Organized</a></li>
+<li><a href="/wiki/Political_crime" title="Political crime">Political</a></li>
+<li><a href="/wiki/Public-order_crime" title="Public-order crime"><span class="nowrap">Public-order</span></a></li>
+<li><a class="mw-selflink selflink">State</a></li>
+<li><a href="/wiki/State-corporate_crime" title="State-corporate crime">State-corporate</a></li>
+<li><a href="/wiki/Victimless_crime" title="Victimless crime">Victimless</a></li>
+<li><a href="/wiki/White-collar_crime" title="White-collar crime">White-collar</a></li>
+<li><a href="/wiki/War_crime" title="War crime">War</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Methods</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Comparative_historical_research" title="Comparative historical research">Comparative</a></li>
+<li><a href="/wiki/Offender_profiling" title="Offender profiling">Profiling</a></li>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Ethnography" title="Ethnography">Ethnography</a></li>
+<li><a href="/wiki/Uniform_Crime_Reports" title="Uniform Crime Reports">Uniform Crime Reports</a></li>
+<li><a href="/wiki/Crime_mapping" title="Crime mapping">Crime mapping</a></li>
+<li><a href="/wiki/Positivist_school" class="mw-redirect" title="Positivist school">Positivist school</a></li>
+<li><a href="/wiki/Qualitative_research" title="Qualitative research">Qualitative</a></li>
+<li><a href="/wiki/Quantitative_research" title="Quantitative research">Quantitative</a></li>
+<li><a href="/wiki/Bureau_of_Justice_Statistics" title="Bureau of Justice Statistics">BJS</a></li>
+<li><a href="/wiki/National_Incident-Based_Reporting_System" title="National Incident-Based Reporting System">NIBRS</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Penology" title="Penology">Penology</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;">
+<ul><li><a href="/wiki/Denunciation_(penology)" title="Denunciation (penology)">Denunciation</a></li>
+<li><a href="/wiki/Deterrence_(penology)" title="Deterrence (penology)">Deterrence</a></li>
+<li><a href="/wiki/Incapacitation_(penology)" title="Incapacitation (penology)">Incapacitation</a></li>
+<li><a href="/wiki/Trial" title="Trial">Trial</a></li>
+<li><a href="/wiki/Prison" title="Prison">Prison</a>
+<ul><li><a href="/wiki/Prison_abolition_movement" title="Prison abolition movement">abolition</a></li>
+<li><a href="/wiki/Open_prison" title="Open prison">open</a></li>
+<li><a href="/wiki/Prison_reform" title="Prison reform">reform</a></li></ul></li>
+<li><a href="/wiki/Prisoner" title="Prisoner">Prisoner</a>
+<ul><li><a href="/wiki/Prisoner_abuse" title="Prisoner abuse">Prisoner abuse</a></li>
+<li><a href="/wiki/Prisoners%27_rights" title="Prisoners&#39; rights">Prisoners' rights</a></li></ul></li>
+<li><a href="/wiki/Rehabilitation_(penology)" title="Rehabilitation (penology)">Rehabilitation</a></li>
+<li><a href="/wiki/Recidivism" title="Recidivism">Recidivism</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e9e9ff;font-weight:normal;padding-bottom:0.2em;">
+<a href="/wiki/Justice" title="Justice">Justice</a> in penology</th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.15em;padding-bottom:0.6em;;padding-bottom:0;">
+<ul><li><a href="/wiki/Participatory_justice" title="Participatory justice">Participatory</a></li>
+<li><a href="/wiki/Restorative_justice" title="Restorative justice">Restorative</a></li>
+<li><a href="/wiki/Retributive_justice" title="Retributive justice">Retributive</a></li>
+<li><a href="/wiki/Solitary_confinement" title="Solitary confinement">Solitary confinement</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Schools</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Chicago_school_(sociology)" title="Chicago school (sociology)">Chicago school</a></li>
+<li><a href="/wiki/Classical_school_(criminology)" title="Classical school (criminology)">Classical school</a></li>
+<li><a href="/wiki/Conflict_criminology" title="Conflict criminology">Conflict criminology</a></li>
+<li><a href="/wiki/Critical_criminology" title="Critical criminology">Critical criminology</a></li>
+<li><a href="/wiki/Environmental_criminology" title="Environmental criminology">Environmental criminology</a></li>
+<li><a href="/wiki/Feminist_school_of_criminology" title="Feminist school of criminology">Feminist school</a></li>
+<li><a href="/wiki/Integrative_criminology" title="Integrative criminology">Integrative criminology</a></li>
+<li><a href="/wiki/Italian_school_of_criminology" title="Italian school of criminology">Italian school</a></li>
+<li><a href="/wiki/Left_realism" title="Left realism">Left realism</a></li>
+<li><a href="/wiki/Marxist_criminology" title="Marxist criminology">Marxist criminology</a></li>
+<li><a href="/wiki/Neo-classical_school_(criminology)" title="Neo-classical school (criminology)">Neo-classical school</a></li>
+<li><a href="/wiki/Positivist_school" class="mw-redirect" title="Positivist school">Positivist school</a></li>
+<li><a href="/wiki/Postmodernist_school" class="mw-redirect" title="Postmodernist school">Postmodernist school</a></li>
+<li><a href="/wiki/Right_realism" title="Right realism">Right realism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Subfields</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/American_Society_of_Criminology" title="American Society of Criminology">American</a></li>
+<li><a href="/wiki/Anthropological_criminology" title="Anthropological criminology">Anthropological</a></li>
+<li><a href="/wiki/Biosocial_criminology" title="Biosocial criminology">Biosocial criminology</a></li>
+<li><a href="/wiki/Conflict_criminology" title="Conflict criminology">Conflict</a></li>
+<li><a href="/wiki/Criminology" title="Criminology">Criminology</a></li>
+<li><a href="/wiki/Critical_criminology" title="Critical criminology">Critical</a></li>
+<li><a href="/wiki/Cultural_criminology" title="Cultural criminology">Culture</a></li>
+<li><a href="/wiki/Cybercrime" title="Cybercrime"> Cyber</a></li>
+<li><a href="/wiki/Demography" title="Demography">Demography</a></li>
+<li><a href="/wiki/Development_theory" title="Development theory">Development</a></li>
+<li><a href="/wiki/Environmental_criminology" title="Environmental criminology">Environmental</a></li>
+<li><a href="/wiki/Experimental_criminology" title="Experimental criminology">Experimental</a></li>
+<li><a href="/wiki/Organizational_theory" title="Organizational theory">Organizational</a></li>
+<li><a href="/wiki/Political_crime" title="Political crime">Political</a></li>
+<li><a href="/wiki/Public_criminology" title="Public criminology">Public</a></li>
+<li><a href="/wiki/Radical_criminology" title="Radical criminology">Radical criminology</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Browse</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Index_of_criminology_articles" title="Index of criminology articles">Index</a></li>
+<li><a href="/wiki/Category:Criminology_journals" title="Category:Criminology journals">Journals</a></li>
+<li><a href="/wiki/Category:Criminology_organizations" title="Category:Criminology organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_criminologists" title="List of criminologists">People</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Criminology_and_penology" title="Template:Criminology and penology"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Criminology_and_penology" title="Template talk:Criminology and penology"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Criminology_and_penology&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>In <a href="/wiki/Criminology" title="Criminology">criminology</a>, <b>state crime</b> is activity or <a href="/wiki/Omission_(criminal_law)" class="mw-redirect" title="Omission (criminal law)">failures</a> to act that break the <a href="/wiki/State_(polity)" title="State (polity)">state</a>'s own <a href="/wiki/Criminal_law" title="Criminal law">criminal law</a> or <a href="/wiki/Public_international_law" class="mw-redirect" title="Public international law">public international law</a>. For these purposes, Ross (2000b) defines a "state" as the elected and appointed officials, the bureaucracy, and the institutions, bodies and organisations comprising the apparatus of the <a href="/wiki/Government" title="Government">government</a>. Initially, the state was the agency of <a href="/wiki/Deterrence_(legal)" class="mw-redirect" title="Deterrence (legal)">deterrence</a>, using the threat of <a href="/wiki/Punishment" title="Punishment">punishment</a> as a <a href="/wiki/Utilitarian" class="mw-redirect" title="Utilitarian">utilitarian</a> tool to shape the behaviour of its citizens. Then, it became the mediator, interpreting society's wishes for conflict resolution. Theorists then identified the state as the "victim" in <a href="/wiki/Public_order_crime" class="mw-redirect" title="Public order crime">victimless crimes</a>. Now, theorists are examining the role of the state as one of the possible perpetrators of crime (Ross, 2000b) whether directly or in the context of <a href="/wiki/State-corporate_crime" title="State-corporate crime">state-corporate crime</a>.
+</p><p>Green &amp; Ward (2004) adopt <a href="/wiki/Max_Weber" title="Max Weber">Max Weber</a>'s thesis of a <a href="/wiki/Sovereignty" title="Sovereignty">sovereign</a> “state” as claiming a <a href="/wiki/Monopoly_on_the_legitimate_use_of_force" class="mw-redirect" title="Monopoly on the legitimate use of force">monopoly on the legitimate use of force</a>. Thus, the criteria for determining whether a state is "deviant" will draw on international norms and standards of behaviour for achieving the state’s usual operating goals. One of those standards will be whether the state respects <a href="/wiki/Human_rights" title="Human rights">human rights</a> in the exercise of its powers. But, one of the definitional difficulties is that the states themselves define what is criminal within their own territories, and as sovereign powers, they are not accountable to the international community unless they submit to international <a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a> generally, or <a href="/wiki/Criminal_jurisdiction" title="Criminal jurisdiction">criminal jurisdiction</a> in particular.
+</p>
+<h2><span class="mw-headline" id="Discussion">Discussion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=State_crime&amp;action=edit&amp;section=1" title="Edit section: Discussion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As <a href="/wiki/Crime_against_international_law" class="mw-redirect" title="Crime against international law">international crimes</a>, a state may engage in state terror and <a href="/wiki/Terrorism" title="Terrorism">terrorism</a>, <a href="/wiki/Torture" title="Torture">torture</a>, <a href="/wiki/War_crimes" class="mw-redirect" title="War crimes">war crimes</a>, and <a href="/wiki/Genocide" title="Genocide">genocide</a>. Both internationally and nationally, there may be <a href="/wiki/Political_corruption" title="Political corruption">corruption</a>, <a href="/wiki/State-corporate_crime" title="State-corporate crime">state-corporate crime</a>, and <a href="/wiki/Organized_crime" title="Organized crime">organized crime</a>. Within its territorial borders, some crimes are either the result of situations where the state is not the direct criminal actor, e.g. arising from natural disasters or through the agency of bodies such as the <a href="/wiki/Police" title="Police">police</a>. More usually, the state is directly involved in excessive secrecy and cover-ups, disinformation, and unaccountability (including tax evasion by officials) which often reflect upper-class and nonpluralistic interests, and infringe human rights (Ross, 2000a). One of the key issues is the extent to which, if at all, state crime can be controlled. Often state crimes are revealed by an investigative news agency resulting in scandals but, even among first world democratic states, it is difficult to maintain genuinely independent control over the criminal enforcement mechanisms and few senior officers of the state are held personally accountable. When the <a href="/wiki/Citizen" class="mw-redirect" title="Citizen">citizens</a> of second and third world countries which may be of a more authoritarian nature, seek to hold their leaders accountable, the problems become more acute. Public opinion, media attention, and public protests, whether violent or nonviolent, may all be criminalised as <a href="/wiki/Political_crime" title="Political crime">political crimes</a> and suppressed, while critical international comments are of little real value. 
+</p><p>Barak (1991) examines recent history through Reaganism and <a href="/wiki/Thatcherism" title="Thatcherism">Thatcherism</a> which led to a decline in the provision of social services and an increase in public security functions. In turn, this created the opportunity for injustices and state crimes involving the suppression of democratic functions within the state. As Johns and Johnson (1994) note, "The concern of the U.S. policy elites is not, therefore, with the establishment or protection of democracy; it is with the establishment of capitalism world-wide and with the unimpeded control of resources and markets" (p7) "Panama is an especially good example of how the rollback strategy involves subverting or overthrowing not only governments that are socialist or left-wing but the governments of countries that seek full independence from the economic, political, or military influence of the United States" (pp9/10) But, in terms of accountability, they argue that the coverage of the invasion demonstrated "just how subservient the corporate media had become to the political elite in the United States" (p63) Hence, even in democratic countries, it can be difficult to hold political leaders accountable, whether politically or legally, because access to reliable factual information can be limited.
+</p><p>Within the context of state-corporate crime, Green and Ward (2004) examine how the debt repayment schemes in developing countries place such a financial burden on states that they often collude with corporations offering prospects of capital growth. Such collusion frequently entails the softening of environmental and other regulations. The debt service obligation can also exacerbate political instability in countries where the legitimacy of state power is questioned. Such political volatility leads states to adopt clientelistic or patrimonialist patterns of governance, fostering organized crime, corruption, and authoritarianism. In some third world countries, this political atmosphere has encouraged repression and the use of torture. Exceptionally, genocide has occurred. 
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=State_crime&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Barak, G. (ed.). (1991). <i>Crimes by the capitalist state: An introduction to state criminality</i>. Albany: State University of New York Press.</li>
+<li>Chambliss, W. (1989). "State-organized crime". <i>Criminology</i>, 27, 183-208</li>
+<li>Cohen, S. (2002). "Human Rights and Crimes of the State: The Culture of Denial" in <i>Criminological Perspectives</i>, 2nd Edition. (E. McLaughlin, J. Muncie and G. Hughes eds.). London: Sage.</li>
+<li>Doig, A. (1996). "From Lynskey to Nolan: The Corruption of British Politics and Public Service", <i>Journal of Law and Society</i>, Vol.23, No.1, pp36-56.</li>
+<li>Green, Penny &amp; Ward, Tony. (2004) <i>State Crime: Governments, Violence and Corruption</i>. London: Pluto Press.</li>
+<li>Johns, Christina Jacqueline &amp; Johnson, P. Ward (1994). <i>State Crime, The Media, And The Invasion of Panama</i>. Westport, Connecticut: Praeger.</li>
+<li>Kramer, R. C. (1994). "State violence and violent crime". <i>Peace Review</i>, 6(2), pp171-175</li>
+<li>Ross, Jeffrey Ian (ed.). (2000a). <i>Controlling State Crime</i>, 2nd edition, New Brunswick, NJ: Transaction Publishers.</li>
+<li>Ross, Jeffrey Ian (ed.). (2000b). <i>Varieties of State Crime and Its Control</i>. Monsey, NJ: Criminal Justice Press.</li>
+<li>Transparency International. Global Corruption Report. 2003 <a rel="nofollow" class="external autonumber" href="http://www.globalcorruptionreport.org/">[1]</a></li>
+<li>International State Crime Initiative (ISCI: <a rel="nofollow" class="external free" href="http://statecrime.org">http://statecrime.org</a>). State Crime Journal. 2012, Pluto Journals <a rel="nofollow" class="external autonumber" href="http://www.plutojournals.com/scj">[2]</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20190827072302
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.092 seconds
+Real time usage: 0.118 seconds
+Preprocessor visited node count: 201/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24582/2097152 bytes
+Template argument size: 18/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.019/10.000 seconds
+Lua memory usage: 806 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   61.179      1 Template:Criminology_and_penology
+100.00%   61.179      1 -total
+ 94.14%   57.591      1 Template:Sidebar_with_collapsible_lists
+ 16.80%   10.279      2 Template:Engvar
+ 12.73%    7.789      1 Template:Sidebar
+  6.56%    4.012      1 Template:Subsidebar_bodystyle
+  3.37%    2.064      1 Template:Nowrap
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3842996-0!canonical and timestamp 20190827072302 and revision id 780720945
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=State_crime&amp;oldid=780720945">https://en.wikipedia.org/w/index.php?title=State_crime&amp;oldid=780720945</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Criminology" title="Category:Criminology">Criminology</a></li><li><a href="/wiki/Category:Nationality" title="Category:Nationality">Nationality</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=State+crime" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=State+crime" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/State_crime" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:State_crime" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/State_crime">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=State_crime&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=State_crime&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/State_crime" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/State_crime" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=State_crime&amp;oldid=780720945" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=State_crime&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q857833" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=State_crime&amp;id=780720945" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=State+crime">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=State+crime&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=State_crime&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kok-ka_ho%C4%81n-ch%C5%8De" title="Kok-ka hoān-chōe – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Regierungskriminalit%C3%A4t" title="Regierungskriminalität – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Crime_d%27%C3%89tat" title="Crime d&#039;État – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B5%AD%EA%B0%80%EB%B2%94%EC%A3%84" title="국가범죄 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Statsorganiserad_brottslighet" title="Statsorganiserad brottslighet – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%94%BF%E5%BA%9C%E7%8A%AF%E7%BD%AA" title="政府犯罪 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q857833#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 May 2017, at 20:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=State_crime&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.118","ppvisitednodes":{"value":201,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24582,"limit":2097152},"templateargumentsize":{"value":18,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   61.179      1 Template:Criminology_and_penology","100.00%   61.179      1 -total"," 94.14%   57.591      1 Template:Sidebar_with_collapsible_lists"," 16.80%   10.279      2 Template:Engvar"," 12.73%    7.789      1 Template:Sidebar","  6.56%    4.012      1 Template:Subsidebar_bodystyle","  3.37%    2.064      1 Template:Nowrap"]},"scribunto":{"limitreport-timeusage":{"value":"0.019","limit":"10.000"},"limitreport-memusage":{"value":825209,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190827072302","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"State crime","url":"https:\/\/en.wikipedia.org\/wiki\/State_crime","sameAs":"http:\/\/www.wikidata.org\/entity\/Q857833","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q857833","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-25T17:55:11Z","dateModified":"2017-05-16T20:05:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6e\/Pentonvilleiso19.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1326"});});</script>
+</body>
+</html>

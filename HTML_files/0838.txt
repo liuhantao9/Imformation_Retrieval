@@ -1,0 +1,1148 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kennedy Doctrine - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kennedy_Doctrine","wgTitle":"Kennedy Doctrine","wgCurRevisionId":907884789,"wgRevisionId":907884789,"wgArticleId":1487027,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles lacking focus from February 2018","All Wikipedia articles lacking focus","Articles to be expanded from February 2018","Articles with multiple maintenance issues","Foreign policy doctrines of the United States","Presidency of John F. Kennedy","History of the foreign relations of the United States","1961 in international relations"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July",
+"August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kennedy_Doctrine","wgRelevantArticleId":1487027,"wgRequestId":"XYo3cwpAIC0AAEMe3E8AAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2709647","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/df/October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kennedy_Doctrine"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kennedy_Doctrine"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kennedy_Doctrine rootpage-Kennedy_Doctrine skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Kennedy Doctrine</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Kennedy_Doctrine&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Kennedy_Doctrine" title="Talk:Kennedy Doctrine">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Unfocused plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>may lack focus or may be about more than one topic</b>. In particular, the article should be about the term "Kennedy Doctrine", not the Kennedy administration's policy towards Latin America.<span class="hide-when-compact"> Please help improve this article, possibly by <a href="/wiki/Wikipedia:Splitting" title="Wikipedia:Splitting">splitting</a> the article and/or by introducing a <a href="/wiki/Wikipedia:Disambiguation" title="Wikipedia:Disambiguation">disambiguation page</a>, or discuss this issue on the <a href="/wiki/Talk:Kennedy_Doctrine" title="Talk:Kennedy Doctrine">talk page</a>.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small></div></td></tr></tbody></table>
+<table class="box-Missing_information plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/66px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/88px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is missing information about the various ways in which the term "Kennedy Doctrine" has been used</b>.<span class="hide-when-compact"> Please expand the article to include this information. Further details may exist on the <a href="/wiki/Talk:Kennedy_Doctrine" title="Talk:Kennedy Doctrine">talk page</a>.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:272px;"><a href="/wiki/File:October_23,_1962-_President_Kennedy_signs_Proclamation_3504,_authorizing_the_naval_quarantine_of_Cuba.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg/270px-October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg" decoding="async" width="270" height="211" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg/405px-October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg/540px-October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg 2x" data-file-width="1000" data-file-height="781" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:October_23,_1962-_President_Kennedy_signs_Proclamation_3504,_authorizing_the_naval_quarantine_of_Cuba.jpg" class="internal" title="Enlarge"></a></div>President <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a> signing Proclamation 3504, authorizing the naval quarantine of <a href="/wiki/Communism" title="Communism">Communist</a> <a href="/wiki/Cuba" title="Cuba">Cuba</a></div></div></div>
+<table class="vertical-navbox nowraplinks vcard hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border: 4px double #d69d36;"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 110%; padding: 0; line-height: 150%;"><table><tbody><tr>
+<td style="background: #002466; vertical-align:middle; padding:5px;"><a href="/wiki/File:John_F._Kennedy,_White_House_photo_portrait,_looking_up.jpg" class="image"><img alt="John F. Kennedy, White House photo portrait, looking up.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg/75px-John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg" decoding="async" width="75" height="97" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg/113px-John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg/150px-John_F._Kennedy%2C_White_House_photo_portrait%2C_looking_up.jpg 2x" data-file-width="748" data-file-height="970" /></a></td>
+<td style="background: #002466; vertical-align:middle; padding:6px; width:100%;"><div style="font-size:85%; line-height:normal;"><span style="color: #FFF">This article is part of <br />a series about</span></div><span class="vcard"><span class="fn"><a href="/wiki/John_F._Kennedy" title="John F. Kennedy"><span style="color: #FFF">John F. Kennedy</span></a></span></span></td>
+</tr></tbody></table></th></tr><tr><td style="padding:0 0.1em 0.4em;padding:0.3em;">
+<ul><li><a href="/wiki/Motor_Torpedo_Boat_PT-109#Under_Kennedy&#39;s_command" class="mw-redirect" title="Motor Torpedo Boat PT-109">Military service in WWII</a></li>
+<li><a href="/wiki/Electoral_history_of_John_F._Kennedy" title="Electoral history of John F. Kennedy">Electoral history</a></li></ul>
+<ul><li><i><a href="/wiki/Why_England_Slept" title="Why England Slept">Why England Slept</a></i></li>
+<li><i><a href="/wiki/Profiles_in_Courage" title="Profiles in Courage">Profiles in Courage</a></i></li>
+<li><i><a href="/wiki/A_Nation_of_Immigrants" title="A Nation of Immigrants">A Nation of Immigrants</a></i></li></ul>
+<ul><li><a href="/wiki/Kennedy_family" title="Kennedy family">Family</a></li></ul>
+<hr />
+<div style="font-weight: bold;line-height:normal;">President of the United States</div>
+<ul><li><a href="/wiki/Presidency_of_John_F._Kennedy" title="Presidency of John F. Kennedy">Presidency</a>
+<ul><li><a href="/wiki/Timeline_of_the_presidency_of_John_F._Kennedy" class="mw-redirect" title="Timeline of the presidency of John F. Kennedy">Timeline</a></li></ul></li></ul>
+<hr />
+<ul><li><a href="/wiki/Democratic_Party_presidential_primaries,_1960" class="mw-redirect" title="Democratic Party presidential primaries, 1960">1960 campaign</a>
+<ul><li><a href="/wiki/1960_United_States_presidential_election" title="1960 United States presidential election">Election</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Inauguration_of_John_F._Kennedy" title="Inauguration of John F. Kennedy">Inauguration</a></li></ul>
+<ul><li><a href="/wiki/New_Frontier" title="New Frontier">New Frontier</a></li>
+<li><a href="/wiki/Foreign_policy_of_the_John_F._Kennedy_administration" title="Foreign policy of the John F. Kennedy administration">Foreign Policy</a>
+<ul><li><a class="mw-selflink selflink">Doctrine</a></li></ul></li></ul>
+<ul><li><a href="/wiki/American_University_speech" title="American University speech">"A Strategy of Peace"</a></li>
+<li><a href="/wiki/Bay_of_Pigs_Invasion" title="Bay of Pigs Invasion">Bay of Pigs</a></li></ul>
+<ul><li><a href="/wiki/Cuban_Missile_Crisis" title="Cuban Missile Crisis">Cuban Missile Crisis</a></li>
+<li><a href="/wiki/Report_to_the_American_People_on_Civil_Rights" title="Report to the American People on Civil Rights">Civil Rights Address</a></li></ul>
+<ul><li><a href="/wiki/Partial_Nuclear_Test_Ban_Treaty" title="Partial Nuclear Test Ban Treaty">Partial Nuclear Test Ban Treaty</a></li></ul>
+<ul><li><a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air</a></li>
+<li><a href="/wiki/Peace_Corps" title="Peace Corps">Peace Corps</a></li></ul>
+<ul><li><a href="/wiki/We_choose_to_go_to_the_Moon" title="We choose to go to the Moon">"We choose to go to the Moon"</a></li></ul>
+<ul><li><a href="/wiki/Space_policy_of_the_United_States#Kennedy_administration" title="Space policy of the United States">Space programs</a>
+<ul><li><a href="/wiki/Mercury_program" class="mw-redirect" title="Mercury program">Mercury</a></li>
+<li><a href="/wiki/Gemini_program" class="mw-redirect" title="Gemini program">Gemini</a></li>
+<li><a href="/wiki/Apollo_program" title="Apollo program">Apollo</a></li></ul></li></ul>
+<div style="font-weight: bold;line-height:normal;">Appointments</div>
+<div class="plainlist">
+<ul><li><a href="/wiki/Presidency_of_John_F._Kennedy#Cabinet" title="Presidency of John F. Kennedy">Cabinet</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_John_F._Kennedy" title="List of federal judges appointed by John F. Kennedy">Judges</a></li></ul>
+</div>
+<hr />
+<div style="font-weight: bold;line-height:normal;">Assassination and legacy</div>
+<ul><li><a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">November 22, 1963</a>
+<ul><li><a href="/wiki/Timeline_of_the_John_F._Kennedy_assassination" title="Timeline of the John F. Kennedy assassination">timeline</a></li></ul></li>
+<li><a href="/wiki/State_funeral_of_John_F._Kennedy" title="State funeral of John F. Kennedy">State Funeral</a></li>
+<li><a href="/wiki/John_F._Kennedy_Eternal_Flame" title="John F. Kennedy Eternal Flame">Eternal Flame</a></li>
+<li><a href="/wiki/List_of_memorials_to_John_F._Kennedy" title="List of memorials to John F. Kennedy">Memorials</a></li>
+<li><a href="/wiki/John_F._Kennedy_Presidential_Library_and_Museum" title="John F. Kennedy Presidential Library and Museum">Library</a></li>
+<li><a href="/wiki/John_F._Kennedy#Historical_evaluations_and_legacy" title="John F. Kennedy">Legacy</a></li>
+<li><a href="/wiki/Cultural_depictions_of_John_F._Kennedy" title="Cultural depictions of John F. Kennedy">Cultural depictions</a></li></ul>
+<hr />
+<p><a href="/wiki/John_F._Kennedy" title="John F. Kennedy&#39;s signature"><img alt="John F. Kennedy&#39;s signature" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/John_F_Kennedy_Signature_2.svg/150px-John_F_Kennedy_Signature_2.svg.png" decoding="async" width="150" height="35" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/John_F_Kennedy_Signature_2.svg/225px-John_F_Kennedy_Signature_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/John_F_Kennedy_Signature_2.svg/300px-John_F_Kennedy_Signature_2.svg.png 2x" data-file-width="391" data-file-height="91" /></a><br />
+<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/70px-Seal_of_the_President_of_the_United_States.svg.png" decoding="async" width="70" height="70" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/105px-Seal_of_the_President_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/140px-Seal_of_the_President_of_the_United_States.svg.png 2x" data-file-width="2424" data-file-height="2425" />
+</p>
+<a href="/wiki/List_of_personal_coats_of_arms_of_Presidents_of_the_United_States" title="List of personal coats of arms of Presidents of the United States"><img alt="Coat of Arms of John F. Kennedy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_Arms_of_John_F._Kennedy.svg/40px-Coat_of_Arms_of_John_F._Kennedy.svg.png" decoding="async" width="40" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_Arms_of_John_F._Kennedy.svg/60px-Coat_of_Arms_of_John_F._Kennedy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Coat_of_Arms_of_John_F._Kennedy.svg/80px-Coat_of_Arms_of_John_F._Kennedy.svg.png 2x" data-file-width="395" data-file-height="588" /></a></td>
+</tr><tr><td style="text-align:right;font-size:115%;text-align:center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:JFK_series" class="mw-redirect" title="Template:JFK series"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:JFK_series" class="mw-redirect" title="Template talk:JFK series"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:JFK_series&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Kennedy Doctrine</b> refers to foreign policy initiatives of the 35th <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a>, <a href="/wiki/John_Fitzgerald_Kennedy" class="mw-redirect" title="John Fitzgerald Kennedy">John Fitzgerald Kennedy</a>, towards <a href="/wiki/Latin_America" title="Latin America">Latin America</a> during his administration between 1961 and 1963. Kennedy voiced support for the <a href="/wiki/Containment" title="Containment">containment</a> of <a href="/wiki/Communism" title="Communism">communism</a> as well as the reversal of communist progress in the <a href="/wiki/Western_Hemisphere" title="Western Hemisphere">Western Hemisphere</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Inaugural_address:_&quot;Pay_any_price,_bear_any_burden&quot;"><span class="tocnumber">1</span> <span class="toctext">Inaugural address: "Pay any price, bear any burden"</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Cold_War_containment"><span class="tocnumber">2</span> <span class="toctext">Cold War containment</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Historical_background"><span class="tocnumber">3</span> <span class="toctext">Historical background</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Alliance_for_Progress"><span class="tocnumber">4</span> <span class="toctext">Alliance for Progress</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Debate_over_international_role_of_United_States"><span class="tocnumber">5</span> <span class="toctext">Debate over international role of United States</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Derived_events"><span class="tocnumber">6</span> <span class="toctext">Derived events</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Inaugural_address:_.22Pay_any_price.2C_bear_any_burden.22"></span><span class="mw-headline" id="Inaugural_address:_&quot;Pay_any_price,_bear_any_burden&quot;">Inaugural address: "Pay any price, bear any burden"</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=1" title="Edit section: Inaugural address: &quot;Pay any price, bear any burden&quot;">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his <a href="/wiki/Inaugural_Address" class="mw-redirect" title="Inaugural Address">Inaugural Address</a> on January 20, 1961, President Kennedy presented the American public with a blueprint upon which the future foreign policy initiatives of his administration would later follow and come to represent. In this Address, Kennedy warned <i>"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty."</i><sup><a href="#Notes">1</a></sup> He also called upon the public to assist in <i>"a struggle against the common enemies of man: tyranny, poverty, disease, and war itself."</i><sup><a href="#Notes">1</a></sup> It is in this address that one begins to see the <a href="/wiki/Cold_War" title="Cold War">Cold War</a>, us-versus-them mentality that came to dominate the Kennedy administration.
+</p>
+<h2><span class="mw-headline" id="Cold_War_containment">Cold War containment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=2" title="Edit section: Cold War containment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A dominant premise during the Kennedy years was the need to contain <a href="/wiki/Communism" title="Communism">communism</a> at any cost. In this Cold War environment, Kennedy's "call for military strength and unison in the struggle against communism were balanced with... [hopes] for disarmament and global cooperation."<sup><a href="#Notes">2</a></sup> Another common theme in Kennedy's foreign policy was the belief that because the United States had the ability and power to control events in the international system, they should. Kennedy expressed this idea in his address when he stated, <i>"In the long history of the world only a few generations have been granted the role of defending freedom from its hour of maximum danger. I do not shrink from this responsibility – I welcome it." <a href="#Notes">1</a></i>
+</p>
+<h2><span class="mw-headline" id="Historical_background">Historical background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=3" title="Edit section: Historical background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Kennedy Doctrine was essentially an expansion of the foreign policy prerogatives of the administrations of <a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a> and <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">Harry S. Truman</a>. The foreign policies of these presidents all revolved around the threat of communism and the means by which the US would try containing the spread of it. The <a href="/wiki/Truman_Doctrine" title="Truman Doctrine">Truman Doctrine</a> focused on the containment of communism by providing assistance to countries resisting communism in <a href="/wiki/Europe" title="Europe">Europe</a>.
+</p><p>The <a href="/wiki/Eisenhower_Doctrine" title="Eisenhower Doctrine">Eisenhower Doctrine</a> was focused upon providing both military and economic assistance to nations resisting communism in the <a href="/wiki/Middle_East" title="Middle East">Middle East</a>, and by increasing the flow of trade from the US into Latin America. The Kennedy Doctrine was based on these same objectives, but was more concerned with the spread of communism and Soviet influence in Latin America following the <a href="/wiki/Cuban_revolution" class="mw-redirect" title="Cuban revolution">Cuban revolution</a> that brought <a href="/wiki/Fidel_Castro" title="Fidel Castro">Fidel Castro</a> to power under Eisenhower.
+</p>
+<h2><span class="mw-headline" id="Alliance_for_Progress">Alliance for Progress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=4" title="Edit section: Alliance for Progress">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In his inaugural address, Kennedy talks of an alliance for progress with countries in Latin America. In his <a href="/wiki/Alliance_for_Progress" title="Alliance for Progress">Alliance for Progress</a> address for Latin American Diplomats and Members of Congress on March 13th 1961 he expanded on his promises from his inaugural speech. <i>"I have called on all the people of the hemisphere to join in a new Alliance for Progress – alianza para el Progreso – a vast cooperative effort, unparalleled in magnitude and nobility of purpose, to satisfy the basic needs of the American people for homes, work and land, health and schools – techo, trabajo y tierra, salud y escuela."</i><sup><a href="#Notes">3</a></sup>
+</p><p>In the address, Kennedy reaffirmed the United States' pledge of coming to the defense of any nation whose independence was endangered, promised to increase the food-for-peace emergency program and to provide economic aid to nations in need. He requested that Latin American countries promote social change within their borders and called upon all American nations to move towards increased economic integration. <i>"To achieve this goal political freedom must accompany material progress. Our Alliance for Progress is an alliance of free governments – and it must work to eliminate tyranny from a hemisphere in which it has no rightful place. Therefore let us express our special friendship to the people of Cuba and the Dominican Republic – and the hope they will soon rejoin the society of free men, uniting with us in our common effort."</i><sup><a href="#Notes">3</a></sup>
+</p>
+<h2><span class="mw-headline" id="Debate_over_international_role_of_United_States">Debate over international role of United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=5" title="Edit section: Debate over international role of United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many have questioned whether Kennedy's Inaugural Address, and the foreign policy stemming from the vision he expressed in it "describes an appropriate, rational, and prudent role for the United States in the world; whether it is an outline for an era of negotiation and accommodation and friendship; or whether it is a prescription for an untenable globalism, leading inevitably to increased areas of conflict, to a heightening of the arms race, and to American concern with and involvement, to one degree or another, in the affairs of almost every country in the world."<sup><a href="#Notes">4</a></sup>
+</p><p>What remains clear is that Kennedy was deeply involved and committed to every aspect of the foreign policy under his administration. <a href="/wiki/W._Averell_Harriman" title="W. Averell Harriman">W. Averell Harriman</a> served in and on behalf of Kennedy's Administration in several capacities, and noted, "President Kennedy was the first President, that I know of, who was really his own secretary of state. He dealt with every aspect of foreign policy, and he knew about everything that was going on."<sup><a href="#Notes">5</a></sup>
+</p>
+<h2><span class="mw-headline" id="Derived_events">Derived events</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=6" title="Edit section: Derived events">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some of the most notable events that stemmed from tenets of JFK's foreign policy initiatives in regard to Latin America and the spread of communism were:<sup><a href="#Notes">6</a></sup>
+</p>
+<ul><li>The <a href="/wiki/Bay_of_Pigs_Invasion" title="Bay of Pigs Invasion">Bay of Pigs Invasion</a>, April 17, 1961.</li>
+<li>Increase of U.S. involvement in <a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a>, 1962.</li>
+<li><a href="/wiki/Cuban_Missile_Crisis" title="Cuban Missile Crisis">Cuban Missile Crisis</a>, October 1962.</li>
+<li>Ratification of <a href="/wiki/Nuclear_Test_Ban_Treaty" class="mw-redirect" title="Nuclear Test Ban Treaty">Nuclear Test Ban Treaty</a>, July 1963.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Flexible_response" title="Flexible response">Flexible response</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=8" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><small>
+</small></p><small></small><ol><small><li>The Avalon Project at Yale Law School. Inaugural Address of John F. Kennedy. Available online at: <a rel="nofollow" class="external free" href="https://web.archive.org/web/20070514235348/http://www.yale.edu/lawweb/avalon/presiden/inaug/kennedy.htm">https://web.archive.org/web/20070514235348/http://www.yale.edu/lawweb/avalon/presiden/inaug/kennedy.htm</a></li>
+<li>Viotti, Paul R, American Foreign Policy and National Security: A Documentary Record (Pearson Prentice Hall: 2005), 222.</li>
+<li>Modern History Sourcebook. President John F. Kennedy: On the Alliance for Progress, 1961. Available Online at: <a rel="nofollow" class="external free" href="http://www.fordham.edu/halsall/mod/1961kennedy-afp1.html">http://www.fordham.edu/halsall/mod/1961kennedy-afp1.html</a></li>
+<li>Fitzsimons, Louise. The Kennedy Doctrine (New York: Random House, 1972), 10.</li>
+<li>The John F. Kennedy Presidential Oral History Collection. Available Online at: <a rel="nofollow" class="external free" href="http://www.lexisnexis.com/academic/2upa/Aph/KennedyOral.asp">http://www.lexisnexis.com/academic/2upa/Aph/KennedyOral.asp</a></li>
+</small><li><small>Weidman, Lisa Menéndez. A Biography of John F. Kennedy: The 35th President of the United States. Available Online at The JFK Library: <a rel="nofollow" class="external free" href="http://www.jfklibrary.org/jfk_biography.html">http://www.jfklibrary.org/jfk_biography.html</a></small></li></ol>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="https://en.wikisource.org/wiki/John_F._Kennedy%27s_Inaugural_Address" class="extiw" title="wikisource:John F. Kennedy&#39;s Inaugural Address">John F. Kennedy's Inaugural Address</a></b></div></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.jfklibrary.org/">John F. Kennedy Library and Museum</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="John_F._Kennedy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:John_F._Kennedy" title="Template:John F. Kennedy"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:John_F._Kennedy" title="Template talk:John F. Kennedy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:John_F._Kennedy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="John_F._Kennedy" style="font-size:114%;margin:0 4em"><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_35th_President_of_the_United_States_(1961–1963)&amp;#10;*_U.S._Senator_from_Massachusetts_(1953–1960)&amp;#10;*_U.S._Representative_for_MA-11_(1947–1953)">
+<ul><li><span class="nowrap"><a href="/wiki/List_of_presidents_of_the_United_States" title="List of presidents of the United States">35th</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (1961–1963)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Senate" title="United States Senate">U.S. Senator</a> <a href="/wiki/List_of_United_States_senators_from_Massachusetts" title="List of United States senators from Massachusetts">from Massachusetts</a> (1953–1960)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">U.S. Representative</a> for <a href="/wiki/Massachusetts%27s_11th_congressional_district" title="Massachusetts&#39;s 11th congressional district">MA-11</a> (1947–1953)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Presidency_of_John_F._Kennedy" title="Presidency of John F. Kennedy">Presidency</a><br />(<a href="/wiki/Timeline_of_the_John_F._Kennedy_presidency" title="Timeline of the John F. Kennedy presidency">timeline</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Presidential office:</b> <a href="/wiki/Inauguration_of_John_F._Kennedy" title="Inauguration of John F. Kennedy">Inauguration</a></li>
+<li><a href="/wiki/John_F._Kennedy#Administration,_Cabinet,_and_judicial_appointments_1961–63" title="John F. Kennedy">Cabinet</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_John_F._Kennedy" title="List of federal judges appointed by John F. Kennedy">Judicial appointments</a>
+<ul><li><a href="/wiki/John_F._Kennedy_Supreme_Court_candidates" title="John F. Kennedy Supreme Court candidates">Supreme Court</a></li></ul></li>
+<li><a href="https://en.wikisource.org/wiki/Author:John_Fitzgerald_Kennedy/Executive_orders" class="extiw" title="wikisource:Author:John Fitzgerald Kennedy/Executive orders">Executive Orders</a></li>
+<li><a href="https://en.wikisource.org/wiki/Author:John_Fitzgerald_Kennedy/Presidential_Proclamations" class="extiw" title="wikisource:Author:John Fitzgerald Kennedy/Presidential Proclamations">Presidential Proclamations</a></li>
+<li><a href="/wiki/List_of_people_pardoned_or_granted_clemency_by_the_President_of_the_United_States#John_F._Kennedy" class="mw-redirect" title="List of people pardoned or granted clemency by the President of the United States">Presidential pardons</a></li></ul>
+<ul><li><b>Domestic policy:</b> <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act</a></li>
+<li><a href="/wiki/Communications_Satellite_Act_of_1962" title="Communications Satellite Act of 1962">Communications Satellite Act</a></li>
+<li><a href="/wiki/Community_Mental_Health_Act" title="Community Mental Health Act">Community Mental Health Act</a></li>
+<li><a href="/wiki/Equal_Pay_Act_of_1963" title="Equal Pay Act of 1963">Equal Pay Act</a></li>
+<li><a href="/wiki/Executive_Order_10925" title="Executive Order 10925">Federal affirmative action</a></li>
+<li><a href="/wiki/Executive_Order_11063" title="Executive Order 11063">Federal housing segregation ban</a></li>
+<li><a href="/wiki/Kennedy_march" title="Kennedy march">Fifty-mile hikes</a></li>
+<li><a href="/wiki/Food_for_Peace" title="Food for Peace">Food for Peace</a></li>
+<li><a href="/wiki/New_Frontier" title="New Frontier">New Frontier</a></li>
+<li><a href="/wiki/Supplemental_Nutrition_Assistance_Program#Pilot_Food_Stamp_Program_(1961–1964)" title="Supplemental Nutrition Assistance Program">Pilot Food Stamp Program</a></li>
+<li><a href="/wiki/Space_policy_of_the_United_States#Kennedy_administration" title="Space policy of the United States">Space policy</a></li>
+<li><a href="/wiki/Presidential_Commission_on_the_Status_of_Women" title="Presidential Commission on the Status of Women">Status of Women (Presidential Commission)</a></li>
+<li><a href="/wiki/Stand_in_the_Schoolhouse_Door" title="Stand in the Schoolhouse Door">University of Alabama integration</a></li>
+<li><a href="/wiki/Voter_Education_Project" title="Voter Education Project">Voter Education Project</a></li></ul>
+<ul><li><b><a href="/wiki/Foreign_policy_of_the_John_F._Kennedy_administration" title="Foreign policy of the John F. Kennedy administration">Foreign policy</a>:</b> <a href="/wiki/Alliance_for_Progress" title="Alliance for Progress">Alliance for Progress</a></li>
+<li><a href="/wiki/Arms_Control_and_Disarmament_Agency" title="Arms Control and Disarmament Agency">Arms Control and Disarmament Agency</a>
+<ul><li><a href="/wiki/Partial_Nuclear_Test_Ban_Treaty" title="Partial Nuclear Test Ban Treaty">Partial Nuclear Test Ban Treaty</a></li></ul></li>
+<li><a href="/wiki/Flexible_response" title="Flexible response">Flexible response</a></li>
+<li><a class="mw-selflink selflink">Kennedy Doctrine</a></li>
+<li><a href="/wiki/Peace_Corps" title="Peace Corps">Peace Corps</a></li>
+<li><a href="/wiki/Trade_Expansion_Act" title="Trade Expansion Act">Trade Expansion Act</a></li>
+<li><a href="/wiki/United_States_Agency_for_International_Development" title="United States Agency for International Development">USAID</a></li>
+<li><a href="/wiki/Vietnam_War#The_Kennedy_years,_1961–63" title="Vietnam War">Vietnam War</a></li>
+<li>Cuba: <a href="/wiki/Bay_of_Pigs_Invasion" title="Bay of Pigs Invasion">Bay of Pigs Invasion</a></li>
+<li><a href="/wiki/Cuban_Project" title="Cuban Project">Cuban Project</a></li>
+<li><a href="/wiki/Cuban_Missile_Crisis" title="Cuban Missile Crisis">Cuban Missile Crisis</a>
+<ul><li><a href="/wiki/EXCOMM" title="EXCOMM">ExComm</a></li></ul></li>
+<li>Soviet Union: <a href="/wiki/Berlin_Crisis_of_1961" title="Berlin Crisis of 1961">Berlin Crisis</a></li>
+<li><a href="/wiki/Moscow%E2%80%93Washington_hotline" title="Moscow–Washington hotline">Moscow–Washington hotline</a></li>
+<li><a href="/wiki/Vienna_summit" title="Vienna summit">Vienna summit</a></li></ul>
+<ul><li><b>White House:</b> <a href="/wiki/SS-100-X" title="SS-100-X">Presidential limousine</a></li>
+<li><a href="/wiki/S/Y_Manitou" title="S/Y Manitou">Presidential yacht</a></li>
+<li><a href="/wiki/Resolute_desk" title="Resolute desk"><i>Resolute</i> desk</a></li>
+<li><a href="/wiki/Situation_Room" title="Situation Room">Situation Room</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Presidential<br />speeches</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Inauguration_of_John_F._Kennedy#The_inaugural_address" title="Inauguration of John F. Kennedy">Inaugural address</a></li>
+<li><a href="/wiki/American_University_speech" title="American University speech">American University speech</a></li>
+<li>"<a href="/wiki/We_choose_to_go_to_the_Moon" title="We choose to go to the Moon">We choose to go to the Moon</a>"</li>
+<li><a href="/wiki/Report_to_the_American_People_on_Civil_Rights" title="Report to the American People on Civil Rights">Report to the American People on Civil Rights</a></li>
+<li>"<a href="/wiki/Ich_bin_ein_Berliner" title="Ich bin ein Berliner">Ich bin ein Berliner</a>"</li>
+<li>"<a href="/wiki/A_rising_tide_lifts_all_boats" title="A rising tide lifts all boats">A rising tide lifts all boats</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electoral_history_of_John_F._Kennedy" title="Electoral history of John F. Kennedy">Elections</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>U.S. States House of Representatives elections: <a href="/wiki/1946_United_States_House_of_Representatives_elections" title="1946 United States House of Representatives elections">1946</a></li>
+<li><a href="/wiki/1948_United_States_House_of_Representatives_elections" title="1948 United States House of Representatives elections">1948</a></li>
+<li><a href="/wiki/1950_United_States_House_of_Representatives_elections" title="1950 United States House of Representatives elections">1950</a></li>
+<li>U.S. Senate elections in Massachusetts: <a href="/wiki/1952_United_States_Senate_election_in_Massachusetts" title="1952 United States Senate election in Massachusetts">1952</a></li>
+<li><a href="/wiki/1958_United_States_Senate_election_in_Massachusetts" title="1958 United States Senate election in Massachusetts">1958</a></li>
+<li><a href="/wiki/1960_Democratic_Party_presidential_primaries" title="1960 Democratic Party presidential primaries">1960 presidential primaries</a></li>
+<li><a href="/wiki/John_F._Kennedy_1960_presidential_campaign" title="John F. Kennedy 1960 presidential campaign">1960 presidential campaign</a></li>
+<li>Democratic National Conventions: <a href="/wiki/1956_Democratic_National_Convention" title="1956 Democratic National Convention">1956</a></li>
+<li><a href="/wiki/1960_Democratic_National_Convention" title="1960 Democratic National Convention">1960</a></li>
+<li><a href="/wiki/1960_United_States_presidential_election" title="1960 United States presidential election">U.S. presidential election 1960</a>
+<ul><li><a href="/wiki/United_States_presidential_debates#1960_Kennedy-Nixon_debates" title="United States presidential debates">debates</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personal life</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Fitzgerald_Kennedy_National_Historic_Site" title="John Fitzgerald Kennedy National Historic Site">Birthplace and childhood home</a></li>
+<li><a href="/wiki/Kennedy_Compound" title="Kennedy Compound">Kennedy Compound</a></li>
+<li>Navy service: <a href="/wiki/Patrol_torpedo_boat_PT-109" title="Patrol torpedo boat PT-109"><i>PT-109</i></a>
+<ul><li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Biuku Gasa and Eroni Kumana</a></li>
+<li><a href="/wiki/Arthur_Reginald_Evans" title="Arthur Reginald Evans">Arthur Evans</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-59" class="mw-redirect" title="Motor Torpedo Boat PT-59"><i>PT-59</i></a></li>
+<li><a href="/wiki/Castle_Hot_Springs_(Arizona)" title="Castle Hot Springs (Arizona)">Castle Hot Springs</a></li></ul></li>
+<li><a href="/wiki/Hammersmith_Farm" title="Hammersmith Farm">Hammersmith Farm</a></li>
+<li><a href="/wiki/Coretta_Scott_King#John_F._Kennedy_phone_call" title="Coretta Scott King">Coretta Scott King phone call</a></li>
+<li><a href="/wiki/Rocking_chair#The_John_F._Kennedy_Rocking_Chair" title="Rocking chair">Rocking chair</a></li>
+<li>"<a href="/wiki/Happy_Birthday,_Mr._President" title="Happy Birthday, Mr. President">Happy Birthday, Mr. President</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Why_England_Slept" title="Why England Slept"><i>Why England Slept</i> <small>(1940)</small></a></li>
+<li><a href="/wiki/Profiles_in_Courage" title="Profiles in Courage"><i>Profiles in Courage</i> <small>(1956)</small></a></li>
+<li><a href="/wiki/A_Nation_of_Immigrants" title="A Nation of Immigrants"><i>A Nation of Immigrants</i> <small>(1958)</small></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Death</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">Assassination</a>
+<ul><li><a href="/wiki/Timeline_of_the_John_F._Kennedy_assassination" title="Timeline of the John F. Kennedy assassination">timeline</a></li>
+<li><a href="/wiki/Reactions_to_the_assassination_of_John_F._Kennedy" title="Reactions to the assassination of John F. Kennedy">reactions</a></li>
+<li><a href="/wiki/Assassination_of_John_F._Kennedy_in_popular_culture" title="Assassination of John F. Kennedy in popular culture">in popular culture</a></li></ul></li>
+<li><a href="/wiki/State_funeral_of_John_F._Kennedy" title="State funeral of John F. Kennedy">State funeral</a>
+<ul><li><a href="/wiki/Black_Jack_(horse)" title="Black Jack (horse)">Riderless horse</a></li>
+<li><a href="/wiki/List_of_dignitaries_at_the_state_funeral_of_John_F._Kennedy" title="List of dignitaries at the state funeral of John F. Kennedy">attending dignitaries</a></li></ul></li>
+<li><a href="/wiki/John_F._Kennedy_Eternal_Flame" title="John F. Kennedy Eternal Flame">Gravesite and Eternal Flame</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Legacy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy_Presidential_Library_and_Museum" title="John F. Kennedy Presidential Library and Museum">John F. Kennedy Presidential Library and Museum</a></li>
+<li><a href="/wiki/Civil_Rights_Act_of_1964" title="Civil Rights Act of 1964">Civil Rights Act of 1964</a></li>
+<li><a href="/wiki/Apollo_11" title="Apollo 11">Apollo 11 Moon landing</a></li>
+<li><a href="/wiki/Equal_Employment_Opportunity_Commission" title="Equal Employment Opportunity Commission">Equal Employment Opportunity Commission</a></li>
+<li><a href="/wiki/Kennedy_Space_Center" title="Kennedy Space Center">Kennedy Space Center</a></li>
+<li><a href="/wiki/Kennedy_Round" title="Kennedy Round">Kennedy Round</a></li>
+<li><a href="/wiki/United_States_Department_of_Housing_and_Urban_Development" title="United States Department of Housing and Urban Development">U.S. Department of Housing and Urban Development</a></li>
+<li><a href="/wiki/AmeriCorps_VISTA" title="AmeriCorps VISTA">VISTA</a></li>
+<li><a href="/wiki/Cultural_depictions_of_John_F._Kennedy" title="Cultural depictions of John F. Kennedy">Cultural depictions</a>
+<ul><li><a href="/wiki/Category:Films_about_John_F._Kennedy" title="Category:Films about John F. Kennedy">films</a></li>
+<li><a href="/wiki/Kennedy_half_dollar" title="Kennedy half dollar">Kennedy half dollar</a></li>
+<li><a href="/wiki/Presidents_of_the_United_States_on_U.S._postage_stamps#John_F._Kennedy" title="Presidents of the United States on U.S. postage stamps">U.S. postage stamps</a></li>
+<li><a href="/wiki/Five_cents_John_Kennedy" title="Five cents John Kennedy">U.S. five cent stamp</a></li>
+<li><a href="/wiki/Lincoln%E2%80%93Kennedy_coincidences_urban_legend" title="Lincoln–Kennedy coincidences urban legend">Lincoln–Kennedy coincidences</a></li></ul></li>
+<li><a href="/wiki/Operation_Sail" title="Operation Sail">Operation Sail</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_memorials_to_John_F._Kennedy" title="List of memorials to John F. Kennedy">Memorials,<br />namesakes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy_Center_for_the_Performing_Arts" title="John F. Kennedy Center for the Performing Arts">Kennedy Center for the Performing Arts</a></li>
+<li><a href="/wiki/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport">John F. Kennedy International Airport</a></li>
+<li><a href="/wiki/John_F._Kennedy_Memorial,_London" title="John F. Kennedy Memorial, London">John F. Kennedy London Memorial</a></li>
+<li><a href="/wiki/John_Fitzgerald_Kennedy_Memorial" title="John Fitzgerald Kennedy Memorial">John Fitzgerald Kennedy Dallas Memorial</a></li>
+<li><a href="/wiki/John_Fitzgerald_Kennedy_Memorial_(Portland,_Oregon)" title="John Fitzgerald Kennedy Memorial (Portland, Oregon)">John Fitzgerald Kennedy Portland Memorial</a></li>
+<li><a href="/wiki/Runnymede#John_F._Kennedy_Memorial" title="Runnymede">John F. Kennedy Runnymede Memorial</a></li>
+<li><a href="/wiki/John_F._Kennedy_Memorial_Bridge" title="John F. Kennedy Memorial Bridge">John F. Kennedy Memorial Bridge</a></li>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li><a href="/wiki/John_F._Kennedy_Special_Warfare_Center_and_School" title="John F. Kennedy Special Warfare Center and School">John F. Kennedy Special Warfare Center and School</a></li>
+<li><a href="/wiki/John_F._Kennedy_University" title="John F. Kennedy University">John F. Kennedy University</a></li>
+<li><a href="/wiki/John_Kennedy_College" title="John Kennedy College">John Kennedy College</a></li>
+<li><a href="/wiki/Kennedy_Expressway" title="Kennedy Expressway">Kennedy Expressway</a></li>
+<li><a href="/wiki/MV_John_F._Kennedy" title="MV John F. Kennedy">MV <i>John F. Kennedy</i></a></li>
+<li><a href="/wiki/USS_John_F._Kennedy_(CV-67)" title="USS John F. Kennedy (CV-67)">USS&#160;<i>John F. Kennedy</i>&#160;<span class="nowrap">(CV-67)</span></a></li>
+<li><a href="/wiki/USS_John_F._Kennedy_(CVN-79)" title="USS John F. Kennedy (CVN-79)">USS&#160;<i>John F. Kennedy</i>&#160;<span class="nowrap">(CVN-79)</span></a></li>
+<li><a href="/wiki/Yad_Kennedy" title="Yad Kennedy">Yad Kennedy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kennedy_family" title="Kennedy family">Family</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jacqueline_Kennedy_Onassis" title="Jacqueline Kennedy Onassis">Jacqueline Bouvier</a> (wife)</li>
+<li><a href="/wiki/Caroline_Kennedy" title="Caroline Kennedy">Caroline Kennedy</a> (daughter)</li>
+<li><a href="/wiki/John_F._Kennedy_Jr." title="John F. Kennedy Jr.">John F. Kennedy Jr.</a> (son)</li>
+<li><a href="/wiki/Patrick_Bouvier_Kennedy" title="Patrick Bouvier Kennedy">Patrick Bouvier Kennedy</a> (son)</li>
+<li><a href="/wiki/Jack_Schlossberg" title="Jack Schlossberg">Jack Schlossberg</a> (grandson)</li>
+<li><a href="/wiki/Rose_Schlossberg" title="Rose Schlossberg">Rose Schlossberg</a> (granddaughter)</li>
+<li><a href="/wiki/Joseph_P._Kennedy_Sr." title="Joseph P. Kennedy Sr.">Joseph P. Kennedy Sr.</a> (father)</li>
+<li><a href="/wiki/Rose_Kennedy" title="Rose Kennedy">Rose Fitzgerald</a> (mother)</li>
+<li><a href="/wiki/Joseph_P._Kennedy_Jr." title="Joseph P. Kennedy Jr.">Joseph P. Kennedy Jr.</a> (brother)</li>
+<li><a href="/wiki/Rosemary_Kennedy" title="Rosemary Kennedy">Rosemary Kennedy</a> (sister)</li>
+<li><a href="/wiki/Kathleen_Cavendish,_Marchioness_of_Hartington" title="Kathleen Cavendish, Marchioness of Hartington">Kathleen Cavendish, Marchioness of Hartington</a> (sister)</li>
+<li><a href="/wiki/Eunice_Kennedy_Shriver" title="Eunice Kennedy Shriver">Eunice Kennedy Shriver</a> (sister)</li>
+<li><a href="/wiki/Patricia_Kennedy_Lawford" title="Patricia Kennedy Lawford">Patricia Kennedy Lawford</a> (sister)</li>
+<li><a href="/wiki/Robert_F._Kennedy" title="Robert F. Kennedy">Robert F. Kennedy</a> (brother)</li>
+<li><a href="/wiki/Jean_Kennedy_Smith" title="Jean Kennedy Smith">Jean Kennedy Smith</a> (sister)</li>
+<li><a href="/wiki/Ted_Kennedy" title="Ted Kennedy">Ted Kennedy</a> (brother)</li>
+<li><a href="/wiki/P._J._Kennedy" title="P. J. Kennedy">P. J. Kennedy</a> (grandfather)</li>
+<li><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a> (grandfather)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><b><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">← Dwight D. Eisenhower</a></b></li>
+<li><b><a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">Lyndon B. Johnson →</a></b></li></ul>
+<ul><li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:John_F._Kennedy" title="Category:John F. Kennedy">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Cold_War" style=";wide;padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cold_War" title="Template:Cold War"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cold_War" title="Template talk:Cold War"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cold_War&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cold_War" style="font-size:114%;margin:0 4em"><a href="/wiki/Cold_War" title="Cold War">Cold War</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color:#DCDCDC;"><div id="*_USA&amp;#10;*_USSR&amp;#10;*_ANZUS&amp;#10;*_NATO&amp;#10;*_Non-Aligned_Movement&amp;#10;*_SEATO&amp;#10;*_Warsaw_Pact&amp;#10;*_Cold_War_II">
+<ul><li><b><a href="/wiki/United_States" title="United States">USA</a></b></li>
+<li><b><a href="/wiki/Soviet_Union" title="Soviet Union">USSR</a></b></li>
+<li><a href="/wiki/ANZUS" title="ANZUS">ANZUS</a></li>
+<li><a href="/wiki/NATO" title="NATO">NATO</a></li>
+<li><a href="/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">Non-Aligned Movement</a></li>
+<li><a href="/wiki/Southeast_Asia_Treaty_Organization" title="Southeast Asia Treaty Organization">SEATO</a></li>
+<li><a href="/wiki/Warsaw_Pact" title="Warsaw Pact">Warsaw Pact</a></li>
+<li><a href="/wiki/Cold_War_II" class="mw-redirect" title="Cold War II">Cold War II</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1940s</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Morgenthau_Plan" title="Morgenthau Plan">Morgenthau Plan</a></li>
+<li><a href="/wiki/Hukbalahap_Rebellion" title="Hukbalahap Rebellion">Hukbalahap Rebellion</a></li>
+<li><a href="/wiki/Jamaican_political_conflict" title="Jamaican political conflict">Jamaican conflict</a></li>
+<li><a href="/wiki/Dekemvriana" title="Dekemvriana">Dekemvriana</a></li>
+<li><a href="/wiki/Percentages_agreement" title="Percentages agreement">Percentages agreement</a></li>
+<li><a href="/wiki/Yalta_Conference" title="Yalta Conference">Yalta Conference</a></li>
+<li><a href="/wiki/Guerrilla_war_in_the_Baltic_states" title="Guerrilla war in the Baltic states">Guerrilla war in the Baltic states</a>
+<ul><li><a href="/wiki/Forest_Brothers" title="Forest Brothers">Forest Brothers</a></li>
+<li><a href="/wiki/Operation_Priboi" title="Operation Priboi">Operation Priboi</a></li>
+<li><a href="/wiki/Operation_Jungle" title="Operation Jungle">Operation Jungle</a></li>
+<li><a href="/wiki/Occupation_of_the_Baltic_states" title="Occupation of the Baltic states">Occupation of the Baltic states</a></li></ul></li>
+<li><a href="/wiki/Cursed_soldiers" title="Cursed soldiers">Cursed soldiers</a></li>
+<li><a href="/wiki/Operation_Unthinkable" title="Operation Unthinkable">Operation <i>Unthinkable</i></a></li>
+<li><a href="/wiki/Operation_Downfall" title="Operation Downfall">Operation <i>Downfall</i></a></li>
+<li><a href="/wiki/Potsdam_Conference" title="Potsdam Conference">Potsdam Conference</a></li>
+<li><a href="/wiki/Igor_Gouzenko" title="Igor Gouzenko">Gouzenko Affair</a></li>
+<li><a href="/wiki/Division_of_Korea" title="Division of Korea">Division of Korea</a></li>
+<li><a href="/wiki/War_in_Vietnam_(1945%E2%80%9346)" title="War in Vietnam (1945–46)">Operation <i>Masterdom</i></a></li>
+<li><a href="/wiki/Operation_Beleaguer" title="Operation Beleaguer">Operation <i>Beleaguer</i></a></li>
+<li><a href="/wiki/Operation_Blacklist_Forty" title="Operation Blacklist Forty">Operation <i>Blacklist Forty</i></a></li>
+<li><a href="/wiki/Iran_crisis_of_1946" title="Iran crisis of 1946">Iran crisis of 1946</a></li>
+<li><a href="/wiki/Greek_Civil_War" title="Greek Civil War">Greek Civil War</a></li>
+<li><a href="/wiki/Baruch_Plan" title="Baruch Plan">Baruch Plan</a></li>
+<li><a href="/wiki/Corfu_Channel_incident" title="Corfu Channel incident">Corfu Channel incident</a></li>
+<li><a href="/wiki/Turkish_Straits_crisis" title="Turkish Straits crisis">Turkish Straits crisis</a></li>
+<li><a href="/wiki/Restatement_of_Policy_on_Germany" title="Restatement of Policy on Germany">Restatement of Policy on Germany</a></li>
+<li><a href="/wiki/First_Indochina_War" title="First Indochina War">First Indochina War</a></li>
+<li><a href="/wiki/Truman_Doctrine" title="Truman Doctrine">Truman Doctrine</a></li>
+<li><a href="/wiki/Asian_Relations_Conference" title="Asian Relations Conference">Asian Relations Conference</a></li>
+<li><a href="/wiki/May_1947_crises" title="May 1947 crises">May 1947 Crises</a></li>
+<li><a href="/wiki/Marshall_Plan" title="Marshall Plan">Marshall Plan</a></li>
+<li><a href="/wiki/Comecon" title="Comecon">Comecon</a></li>
+<li><a href="/wiki/1948_Czechoslovak_coup_d%27%C3%A9tat" title="1948 Czechoslovak coup d&#39;état">1948 Czechoslovak coup d'état</a></li>
+<li><a href="/wiki/Al-Wathbah_uprising" title="Al-Wathbah uprising">Al-Wathbah uprising</a></li>
+<li><a href="/wiki/1947%E2%80%931949_Palestine_war" title="1947–1949 Palestine war">1947–1949 Palestine war</a>
+<ul><li><a href="/wiki/1947%E2%80%931948_Civil_War_in_Mandatory_Palestine" class="mw-redirect" title="1947–1948 Civil War in Mandatory Palestine">1947–1948 Civil War in Mandatory Palestine</a></li>
+<li><a href="/wiki/1948_Arab%E2%80%93Israeli_War" title="1948 Arab–Israeli War">1948 Arab–Israeli War</a></li>
+<li><a href="/wiki/1948_Palestinian_exodus" title="1948 Palestinian exodus">1948 Palestinian exodus</a></li></ul></li>
+<li><a href="/wiki/Tito%E2%80%93Stalin_split" title="Tito–Stalin split">Tito–Stalin split</a></li>
+<li><a href="/wiki/Berlin_Blockade" title="Berlin Blockade">Berlin Blockade</a></li>
+<li><a href="/wiki/Western_betrayal" title="Western betrayal">Western betrayal</a></li>
+<li><a href="/wiki/Iron_Curtain" title="Iron Curtain">Iron Curtain</a></li>
+<li><a href="/wiki/Eastern_Bloc" title="Eastern Bloc">Eastern Bloc</a></li>
+<li><a href="/wiki/Western_Bloc" title="Western Bloc">Western Bloc</a></li>
+<li><a href="/wiki/Chinese_Civil_War" title="Chinese Civil War">Chinese Civil War (Second round)</a></li>
+<li><a href="/wiki/Malayan_Emergency" title="Malayan Emergency">Malayan Emergency</a></li>
+<li><a href="/wiki/Albanian_Subversion" title="Albanian Subversion">Albanian Subversion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1950s</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Papua_conflict" title="Papua conflict">Papua conflict</a></li>
+<li><a href="/wiki/Bamboo_Curtain" title="Bamboo Curtain">Bamboo Curtain</a></li>
+<li><a href="/wiki/Korean_War" title="Korean War">Korean War</a></li>
+<li><a href="/wiki/McCarthyism" title="McCarthyism">McCarthyism</a></li>
+<li><a href="/wiki/Algerian_War" title="Algerian War">Algerian War</a></li>
+<li><a href="/wiki/Egyptian_revolution_of_1952" title="Egyptian revolution of 1952">Egyptian Revolution of 1952</a></li>
+<li><a href="/wiki/1953_Iranian_coup_d%27%C3%A9tat" title="1953 Iranian coup d&#39;état">1953 Iranian coup d'état</a></li>
+<li><a href="/wiki/Uprising_of_1953_in_East_Germany" class="mw-redirect" title="Uprising of 1953 in East Germany">Uprising of 1953 in East Germany</a></li>
+<li><a href="/wiki/Bricker_Amendment" title="Bricker Amendment">Bricker Amendment</a></li>
+<li><a href="/wiki/1954_Guatemalan_coup_d%27%C3%A9tat" title="1954 Guatemalan coup d&#39;état">1954 Guatemalan coup d'état</a></li>
+<li><a href="/wiki/1954_Geneva_Conference" title="1954 Geneva Conference">Partition of Vietnam</a></li>
+<li><a href="/wiki/Jebel_Akhdar_War" title="Jebel Akhdar War">Jebel Akhdar War</a></li>
+<li><a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a></li>
+<li><a href="/wiki/First_Taiwan_Strait_Crisis" title="First Taiwan Strait Crisis">First Taiwan Strait Crisis</a></li>
+<li><a href="/wiki/Cyprus_Emergency" title="Cyprus Emergency">Cyprus Emergency</a></li>
+<li><a href="/wiki/Geneva_Summit_(1955)" title="Geneva Summit (1955)">Geneva Summit (1955)</a></li>
+<li><a href="/wiki/Bandung_Conference" title="Bandung Conference">Bandung Conference</a></li>
+<li><a href="/wiki/Pozna%C5%84_1956_protests" class="mw-redirect" title="Poznań 1956 protests">Poznań 1956 protests</a></li>
+<li><a href="/wiki/Hungarian_Revolution_of_1956" title="Hungarian Revolution of 1956">Hungarian Revolution of 1956</a></li>
+<li><a href="/wiki/Yemeni%E2%80%93Adenese_clan_violence" title="Yemeni–Adenese clan violence">Yemeni–Adenese clan violence</a></li>
+<li><a href="/wiki/Suez_Crisis" title="Suez Crisis">Suez Crisis</a></li>
+<li>"<a href="/wiki/We_will_bury_you" title="We will bury you">We will bury you</a>"</li>
+<li><a href="/wiki/Ifni_War" title="Ifni War">Ifni War</a></li>
+<li><a href="/wiki/Operation_Gladio" title="Operation Gladio">Operation Gladio</a></li>
+<li><a href="/wiki/Arab_Cold_War" title="Arab Cold War">Arab Cold War</a>
+<ul><li><a href="/wiki/Syrian_Crisis_of_1957" title="Syrian Crisis of 1957">Syrian Crisis of 1957</a></li>
+<li><a href="/wiki/1958_Lebanon_crisis" title="1958 Lebanon crisis">1958 Lebanon crisis</a></li>
+<li><a href="/wiki/14_July_Revolution" title="14 July Revolution">Iraqi 14 July Revolution</a></li></ul></li>
+<li><a href="/wiki/Sputnik_crisis" title="Sputnik crisis">Sputnik crisis</a></li>
+<li><a href="/wiki/Second_Taiwan_Strait_Crisis" title="Second Taiwan Strait Crisis">Second Taiwan Strait Crisis</a></li>
+<li><a href="/wiki/1959_Tibetan_uprising" title="1959 Tibetan uprising">1959 Tibetan uprising</a></li>
+<li><a href="/wiki/1959_Mosul_uprising" title="1959 Mosul uprising">1959 Mosul uprising</a></li>
+<li><a href="/wiki/Cuban_Revolution" title="Cuban Revolution">Cuban Revolution</a></li>
+<li><a href="/wiki/Kitchen_Debate" title="Kitchen Debate">Kitchen Debate</a></li>
+<li><a href="/wiki/Sino-Soviet_split" title="Sino-Soviet split">Sino-Soviet split</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1960s</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Congo_Crisis" title="Congo Crisis">Congo Crisis</a></li>
+<li><a href="/wiki/Simba_rebellion" title="Simba rebellion">Simba rebellion</a></li>
+<li><a href="/wiki/1960_U-2_incident" title="1960 U-2 incident">1960 U-2 incident</a></li>
+<li><a href="/wiki/Bay_of_Pigs_Invasion" title="Bay of Pigs Invasion">Bay of Pigs Invasion</a></li>
+<li><a href="/wiki/1960_Turkish_coup_d%27%C3%A9tat" title="1960 Turkish coup d&#39;état">1960 Turkish coup d'état</a></li>
+<li><a href="/wiki/Soviet%E2%80%93Albanian_split" title="Soviet–Albanian split">Soviet–Albanian split</a></li>
+<li><a href="/wiki/Iraqi%E2%80%93Kurdish_conflict" title="Iraqi–Kurdish conflict">Iraqi–Kurdish conflict</a>
+<ul><li><a href="/wiki/First_Iraqi%E2%80%93Kurdish_War" title="First Iraqi–Kurdish War">First Iraqi–Kurdish War</a></li></ul></li>
+<li><a href="/wiki/Berlin_Crisis_of_1961" title="Berlin Crisis of 1961">Berlin Crisis of 1961</a></li>
+<li><a href="/wiki/Berlin_Wall" title="Berlin Wall">Berlin Wall</a></li>
+<li><a href="/wiki/Dirty_War_(Mexico)" title="Dirty War (Mexico)">Dirty War (Mexico)</a></li>
+<li><a href="/wiki/Portuguese_Colonial_War" title="Portuguese Colonial War">Portuguese Colonial War</a>
+<ul><li><a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">Angolan War of Independence</a></li>
+<li><a href="/wiki/Guinea-Bissau_War_of_Independence" title="Guinea-Bissau War of Independence">Guinea-Bissau War of Independence</a></li>
+<li><a href="/wiki/Mozambican_War_of_Independence" title="Mozambican War of Independence">Mozambican War of Independence</a></li></ul></li>
+<li><a href="/wiki/Cuban_Missile_Crisis" title="Cuban Missile Crisis">Cuban Missile Crisis</a></li>
+<li><a href="/wiki/El_Porte%C3%B1azo" title="El Porteñazo">El Porteñazo</a></li>
+<li><a href="/wiki/Sino-Indian_War" title="Sino-Indian War">Sino-Indian War</a></li>
+<li><a href="/wiki/Communist_insurgency_in_Sarawak" title="Communist insurgency in Sarawak">Communist insurgency in Sarawak</a></li>
+<li><a href="/wiki/Ramadan_Revolution" title="Ramadan Revolution">Iraqi Ramadan Revolution</a></li>
+<li><a href="/wiki/Eritrean_War_of_Independence" title="Eritrean War of Independence">Eritrean War of Independence</a></li>
+<li><a href="/wiki/Sand_War" title="Sand War">Sand War</a></li>
+<li><a href="/wiki/North_Yemen_Civil_War" title="North Yemen Civil War">North Yemen Civil War</a></li>
+<li><a href="/wiki/Aden_Emergency" title="Aden Emergency">Aden Emergency</a></li>
+<li><a href="/wiki/1963_Syrian_coup_d%27%C3%A9tat" title="1963 Syrian coup d&#39;état">1963 Syrian coup d'état</a></li>
+<li><a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">Assassination of John F. Kennedy</a></li>
+<li><a href="/wiki/Cyprus_crisis_of_1963%E2%80%9364" class="mw-redirect" title="Cyprus crisis of 1963–64">Cyprus crisis of 1963–64</a></li>
+<li><a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a></li>
+<li><a href="/wiki/Shifta_War" title="Shifta War">Shifta War</a></li>
+<li><a href="/wiki/Guatemalan_Civil_War" title="Guatemalan Civil War">Guatemalan Civil War</a></li>
+<li><a href="/wiki/Colombian_conflict" title="Colombian conflict">Colombian conflict</a></li>
+<li><a href="/wiki/1964_Brazilian_coup_d%27%C3%A9tat" title="1964 Brazilian coup d&#39;état">1964 Brazilian coup d'état</a></li>
+<li><a href="/wiki/Dominican_Civil_War" title="Dominican Civil War">Dominican Civil War</a></li>
+<li><a href="/wiki/Rhodesian_Bush_War" title="Rhodesian Bush War">Rhodesian Bush War</a></li>
+<li><a href="/wiki/South_African_Border_War" title="South African Border War">South African Border War</a></li>
+<li><a href="/wiki/Transition_to_the_New_Order" title="Transition to the New Order">Transition to the New Order (Indonesia)</a></li>
+<li><a href="/wiki/Domino_theory" title="Domino theory">Domino theory</a></li>
+<li><a href="/wiki/ASEAN_Declaration" title="ASEAN Declaration">ASEAN Declaration</a></li>
+<li><a href="/wiki/Laotian_Civil_War" title="Laotian Civil War">Laotian Civil War</a></li>
+<li><a href="/wiki/1966_Syrian_coup_d%27%C3%A9tat" title="1966 Syrian coup d&#39;état">1966 Syrian coup d'état</a></li>
+<li><a href="/wiki/Argentine_Revolution" title="Argentine Revolution">Argentine Revolution</a></li>
+<li><a href="/wiki/Korean_DMZ_Conflict" title="Korean DMZ Conflict">Korean DMZ Conflict</a></li>
+<li><a href="/wiki/Greek_military_junta_of_1967%E2%80%931974" title="Greek military junta of 1967–1974">Greek military junta of 1967–1974</a></li>
+<li><a href="/wiki/Years_of_Lead_(Italy)" title="Years of Lead (Italy)">Years of Lead (Italy)</a></li>
+<li><a href="/wiki/USS_Pueblo_(AGER-2)#USS_Pueblo_incident" title="USS Pueblo (AGER-2)">USS <i>Pueblo</i> incident</a></li>
+<li><a href="/wiki/Six-Day_War" title="Six-Day War">Six-Day War</a></li>
+<li><a href="/wiki/War_of_Attrition" title="War of Attrition">War of Attrition</a></li>
+<li><a href="/wiki/Dhofar_Rebellion" title="Dhofar Rebellion">Dhofar Rebellion</a></li>
+<li><a href="/wiki/Al-Wadiah_War" title="Al-Wadiah War">Al-Wadiah War</a></li>
+<li><a href="/wiki/Biafran_War" class="mw-redirect" title="Biafran War">Biafran War</a></li>
+<li><a href="/wiki/Protests_of_1968" title="Protests of 1968">Protests of 1968</a></li>
+<li><a href="/wiki/May_1968_events_in_France" title="May 1968 events in France">French May</a></li>
+<li><a href="/wiki/Tlatelolco_massacre" title="Tlatelolco massacre">Tlatelolco massacre</a></li>
+<li><a href="/wiki/Cultural_Revolution" title="Cultural Revolution">Cultural Revolution</a></li>
+<li><a href="/wiki/Prague_Spring" title="Prague Spring">Prague Spring</a></li>
+<li><a href="/wiki/1968_Polish_political_crisis" title="1968 Polish political crisis">1968 Polish political crisis</a></li>
+<li><a href="/wiki/Communist_insurgency_in_Malaysia_(1968%E2%80%9389)" title="Communist insurgency in Malaysia (1968–89)">Communist insurgency in Malaysia</a></li>
+<li><a href="/wiki/Warsaw_Pact_invasion_of_Czechoslovakia" title="Warsaw Pact invasion of Czechoslovakia">Invasion of Czechoslovakia</a></li>
+<li><a href="/wiki/17_July_Revolution" title="17 July Revolution">Iraqi Ba'athist Revolution</a></li>
+<li><a href="/wiki/1969_Libyan_coup_d%27%C3%A9tat" title="1969 Libyan coup d&#39;état">1969 Libyan coup d'état</a></li>
+<li><a href="/wiki/Football_War" title="Football War">Football War</a></li>
+<li><a href="/wiki/Goulash_Communism" title="Goulash Communism">Goulash Communism</a></li>
+<li><a href="/wiki/Sino-Soviet_border_conflict" title="Sino-Soviet border conflict">Sino-Soviet border conflict</a></li>
+<li><a href="/wiki/CPP%E2%80%93NPA%E2%80%93NDF_rebellion" class="mw-redirect" title="CPP–NPA–NDF rebellion">CPP–NPA–NDF rebellion</a></li>
+<li><a href="/wiki/Corrective_Move" title="Corrective Move">Corrective Move</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1970s</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/D%C3%A9tente" title="Détente">Détente</a></li>
+<li><a href="/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons" title="Treaty on the Non-Proliferation of Nuclear Weapons">Nuclear Non-Proliferation Treaty</a></li>
+<li><a href="/wiki/Black_September" title="Black September">Black September in Jordan</a></li>
+<li><a href="/wiki/Corrective_Movement_(Syria)" title="Corrective Movement (Syria)">Corrective Movement (Syria)</a></li>
+<li><a href="/wiki/Western_Sahara_conflict" title="Western Sahara conflict">Western Sahara conflict</a></li>
+<li><a href="/wiki/Nicaraguan_Revolution" title="Nicaraguan Revolution">Nicaraguan Revolution</a></li>
+<li><a href="/wiki/Cambodian_Civil_War" title="Cambodian Civil War">Cambodian Civil War</a></li>
+<li><a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War</a></li>
+<li><a href="/wiki/Koza_riot" title="Koza riot">Koza riot</a></li>
+<li><a href="/wiki/Realpolitik" title="Realpolitik">Realpolitik</a></li>
+<li><a href="/wiki/Ping-pong_diplomacy" title="Ping-pong diplomacy">Ping-pong diplomacy</a></li>
+<li><a href="/wiki/Corrective_Revolution_(Egypt)" title="Corrective Revolution (Egypt)">Corrective Revolution (Egypt)</a></li>
+<li><a href="/wiki/1971_Turkish_military_memorandum" title="1971 Turkish military memorandum">1971 Turkish military memorandum</a></li>
+<li><a href="/wiki/1971_Sudanese_coup_d%27%C3%A9tat" title="1971 Sudanese coup d&#39;état">1971 Sudanese coup d'état</a></li>
+<li><a href="/wiki/Four_Power_Agreement_on_Berlin" title="Four Power Agreement on Berlin">Four Power Agreement on Berlin</a></li>
+<li><a href="/wiki/Bangladesh_Liberation_War" title="Bangladesh Liberation War">Bangladesh Liberation War</a></li>
+<li><a href="/wiki/Richard_Nixon%27s_1972_visit_to_China" title="Richard Nixon&#39;s 1972 visit to China">1972 Nixon visit to China</a></li>
+<li><a href="/wiki/South_Yemen#Disputes_with_North_Yemen" title="South Yemen">North Yemen-South Yemen Border conflict of 1972</a></li>
+<li><a href="/wiki/Modern_history_of_Yemen#Relations_between_the_North_Yemen_and_the_South_Yemen" title="Modern history of Yemen">Yemenite War of 1972</a></li>
+<li><a href="/wiki/1972%E2%80%931975_Bangladesh_insurgency" title="1972–1975 Bangladesh insurgency">Communist insurgency in Bangladesh</a></li>
+<li><a href="/wiki/Eritrean_Civil_Wars" title="Eritrean Civil Wars">Eritrean Civil Wars</a></li>
+<li><a href="/wiki/1973_Uruguayan_coup_d%27%C3%A9tat" title="1973 Uruguayan coup d&#39;état">1973 Uruguayan coup d'état</a></li>
+<li><a href="/wiki/1973_Chilean_coup_d%27%C3%A9tat" title="1973 Chilean coup d&#39;état">1973 Chilean coup d'état</a></li>
+<li><a href="/wiki/Yom_Kippur_War" title="Yom Kippur War">Yom Kippur War</a></li>
+<li><a href="/wiki/1973_oil_crisis" title="1973 oil crisis">1973 oil crisis</a></li>
+<li><a href="/wiki/Carnation_Revolution" title="Carnation Revolution">Carnation Revolution</a></li>
+<li><a href="/wiki/Spanish_transition_to_democracy" title="Spanish transition to democracy">Spanish transition</a></li>
+<li><a href="/wiki/Metapolitefsi" title="Metapolitefsi">Metapolitefsi</a></li>
+<li><a href="/wiki/Strategic_Arms_Limitation_Talks" title="Strategic Arms Limitation Talks">Strategic Arms Limitation Talks</a></li>
+<li><a href="/wiki/Second_Iraqi%E2%80%93Kurdish_War" title="Second Iraqi–Kurdish War">Second Iraqi–Kurdish War</a></li>
+<li><a href="/wiki/Turkish_invasion_of_Cyprus" title="Turkish invasion of Cyprus">Turkish invasion of Cyprus</a></li>
+<li><a href="/wiki/Angolan_Civil_War" title="Angolan Civil War">Angolan Civil War</a></li>
+<li><a href="/wiki/Mozambican_Civil_War" title="Mozambican Civil War">Mozambican Civil War</a></li>
+<li><a href="/wiki/Oromo_conflict" title="Oromo conflict">Oromo conflict</a></li>
+<li><a href="/wiki/Ogaden_War" title="Ogaden War">Ogaden War</a></li>
+<li><a href="/wiki/Western_Sahara_War" title="Western Sahara War">Western Sahara War</a></li>
+<li><a href="/wiki/Ethiopian_Civil_War" title="Ethiopian Civil War">Ethiopian Civil War</a></li>
+<li><a href="/wiki/Lebanese_Civil_War" title="Lebanese Civil War">Lebanese Civil War</a></li>
+<li><a href="/wiki/Sino-Albanian_split" title="Sino-Albanian split">Sino-Albanian split</a></li>
+<li><a href="/wiki/Cambodian%E2%80%93Vietnamese_War" title="Cambodian–Vietnamese War">Cambodian–Vietnamese War</a></li>
+<li><a href="/wiki/Operation_Condor" title="Operation Condor">Operation <i>Condor</i></a></li>
+<li><a href="/wiki/Dirty_War" title="Dirty War">Dirty War (Argentina)</a></li>
+<li><a href="/wiki/1976_Argentine_coup_d%27%C3%A9tat" title="1976 Argentine coup d&#39;état">1976 Argentine coup d'état</a></li>
+<li><a href="/wiki/Libyan%E2%80%93Egyptian_War" title="Libyan–Egyptian War">Libyan–Egyptian War</a></li>
+<li><a href="/wiki/Uganda%E2%80%93Tanzania_War" title="Uganda–Tanzania War">Uganda–Tanzania War</a></li>
+<li><a href="/wiki/German_Autumn" title="German Autumn">German Autumn</a></li>
+<li><a href="/wiki/Korean_Air_Lines_Flight_902" title="Korean Air Lines Flight 902">Korean Air Lines Flight 902</a></li>
+<li><a href="/wiki/NDF_Rebellion" title="NDF Rebellion">NDF Rebellion</a></li>
+<li><a href="/wiki/Chadian%E2%80%93Libyan_conflict" title="Chadian–Libyan conflict">Chadian–Libyan conflict</a></li>
+<li><a href="/wiki/Yemenite_War_of_1979" title="Yemenite War of 1979">Yemenite War of 1979</a></li>
+<li><a href="/wiki/Grand_Mosque_seizure" class="mw-redirect" title="Grand Mosque seizure">Grand Mosque seizure</a></li>
+<li><a href="/wiki/Iranian_Revolution" title="Iranian Revolution">Iranian Revolution</a></li>
+<li><a href="/wiki/Saur_Revolution" title="Saur Revolution">Saur Revolution</a></li>
+<li><a href="/wiki/Sino-Vietnamese_War" title="Sino-Vietnamese War">Sino-Vietnamese War</a></li>
+<li><a href="/wiki/New_Jewel_Movement" title="New Jewel Movement">New Jewel Movement</a></li>
+<li><a href="/wiki/1979_Herat_uprising" title="1979 Herat uprising">1979 Herat uprising</a></li>
+<li><a href="/wiki/Seven_Days_to_the_River_Rhine" title="Seven Days to the River Rhine">Seven Days to the River Rhine</a></li>
+<li><a href="/wiki/Struggle_against_political_abuse_of_psychiatry_in_the_Soviet_Union" title="Struggle against political abuse of psychiatry in the Soviet Union">Struggle against political abuse of psychiatry in the Soviet Union</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1980s</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Soviet%E2%80%93Afghan_War" title="Soviet–Afghan War">Soviet–Afghan War</a></li>
+<li><a href="/wiki/1980_Summer_Olympics_boycott" title="1980 Summer Olympics boycott">1980</a> and <a href="/wiki/1984_Summer_Olympics_boycott" title="1984 Summer Olympics boycott">1984 Summer Olympics boycotts</a></li>
+<li><a href="/wiki/Internal_conflict_in_Peru" title="Internal conflict in Peru">Peruvian conflict</a></li>
+<li><a href="/wiki/1980_Turkish_coup_d%27%C3%A9tat" title="1980 Turkish coup d&#39;état">1980 Turkish coup d'état</a></li>
+<li><a href="/wiki/Gulf_of_Sidra_incident_(1981)" title="Gulf of Sidra incident (1981)">Gulf of Sidra incident</a></li>
+<li><a href="/wiki/Casamance_conflict" title="Casamance conflict">Casamance conflict</a></li>
+<li><a href="/wiki/Ugandan_Bush_War" title="Ugandan Bush War">Ugandan Bush War</a></li>
+<li><a href="/wiki/Lord%27s_Resistance_Army_insurgency" title="Lord&#39;s Resistance Army insurgency">Lord's Resistance Army insurgency</a></li>
+<li><a href="/wiki/Eritrean_Civil_Wars" title="Eritrean Civil Wars">Eritrean Civil Wars</a></li>
+<li><a href="/wiki/1982_Ethiopian%E2%80%93Somali_Border_War" title="1982 Ethiopian–Somali Border War">1982 Ethiopian–Somali Border War</a></li>
+<li><a href="/wiki/Ndogboyosoi_War" title="Ndogboyosoi War">Ndogboyosoi War</a></li>
+<li><a href="/wiki/United_States_invasion_of_Grenada" title="United States invasion of Grenada">United States invasion of Grenada</a></li>
+<li><a href="/wiki/Able_Archer_83" title="Able Archer 83">Able Archer 83</a></li>
+<li><a href="/wiki/Strategic_Defense_Initiative" title="Strategic Defense Initiative">Star Wars</a></li>
+<li><a href="/wiki/Iran%E2%80%93Iraq_War" title="Iran–Iraq War">Iran–Iraq War</a></li>
+<li><a href="/wiki/Somali_Rebellion" title="Somali Rebellion">Somali Rebellion</a></li>
+<li><a href="/wiki/1986_Black_Sea_incident" title="1986 Black Sea incident">1986 Black Sea incident</a></li>
+<li><a href="/wiki/South_Yemen_Civil_War" title="South Yemen Civil War">South Yemen Civil War</a></li>
+<li><a href="/wiki/Toyota_War" title="Toyota War">Toyota War</a></li>
+<li><a href="/wiki/1988_Black_Sea_bumping_incident" title="1988 Black Sea bumping incident">1988 Black Sea bumping incident</a></li>
+<li><a href="/wiki/Bougainville_Civil_War" title="Bougainville Civil War">Bougainville Civil War</a></li>
+<li><a href="/wiki/8888_Uprising" title="8888 Uprising">8888 Uprising</a></li>
+<li><a href="/wiki/History_of_Solidarity" title="History of Solidarity">Solidarity</a>
+<ul><li><a href="/wiki/Soviet_reaction_to_the_Polish_crisis_of_1980%E2%80%931981" title="Soviet reaction to the Polish crisis of 1980–1981">Soviet reaction</a></li></ul></li>
+<li><a href="/wiki/Contras" title="Contras">Contras</a></li>
+<li><a href="/wiki/Central_American_crisis" title="Central American crisis">Central American crisis</a></li>
+<li><a href="/wiki/RYAN" title="RYAN">RYAN</a></li>
+<li><a href="/wiki/Korean_Air_Lines_Flight_007" title="Korean Air Lines Flight 007">Korean Air Lines Flight 007</a></li>
+<li><a href="/wiki/People_Power_Revolution" title="People Power Revolution">People Power Revolution</a></li>
+<li><a href="/wiki/Glasnost" title="Glasnost">Glasnost</a></li>
+<li><a href="/wiki/Perestroika" title="Perestroika">Perestroika</a></li>
+<li><a href="/wiki/Nagorno-Karabakh_War" title="Nagorno-Karabakh War">Nagorno-Karabakh War</a></li>
+<li><a href="/wiki/Afghan_Civil_War_(1989%E2%80%9392)" class="mw-redirect" title="Afghan Civil War (1989–92)">Afghan Civil War</a></li>
+<li><a href="/wiki/United_States_invasion_of_Panama" title="United States invasion of Panama">United States invasion of Panama</a></li>
+<li><a href="/wiki/1988_Polish_strikes" title="1988 Polish strikes">1988 Polish strikes</a></li>
+<li><a href="/wiki/Tiananmen_Square_protests_of_1989" class="mw-redirect" title="Tiananmen Square protests of 1989">Tiananmen Square protests of 1989</a></li>
+<li><a href="/wiki/Revolutions_of_1989" title="Revolutions of 1989">Revolutions of 1989</a></li>
+<li><a href="/wiki/Berlin_Wall#The_Fall" title="Berlin Wall">Fall of the Berlin Wall</a></li>
+<li><a href="/wiki/Velvet_Revolution" title="Velvet Revolution">Velvet Revolution</a></li>
+<li><a href="/wiki/Romanian_Revolution" title="Romanian Revolution">Romanian Revolution</a></li>
+<li><a href="/wiki/Peaceful_Revolution" title="Peaceful Revolution">Peaceful Revolution</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">1990s</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mongolian_Revolution_of_1990" title="Mongolian Revolution of 1990">Mongolian Revolution of 1990</a></li>
+<li><a href="/wiki/Gulf_War" title="Gulf War">Gulf War</a></li>
+<li><a href="/wiki/German_reunification" title="German reunification">German reunification</a></li>
+<li><a href="/wiki/Yemeni_unification" title="Yemeni unification">Yemeni unification</a></li>
+<li><a href="/wiki/Fall_of_communism_in_Albania" title="Fall of communism in Albania">Fall of communism in Albania</a></li>
+<li><a href="/wiki/Breakup_of_Yugoslavia" title="Breakup of Yugoslavia">Breakup of Yugoslavia</a></li>
+<li><a href="/wiki/Dissolution_of_Czechoslovakia" title="Dissolution of Czechoslovakia">Dissolution of Czechoslovakia</a></li>
+<li><a href="/wiki/Dissolution_of_the_Soviet_Union" title="Dissolution of the Soviet Union">Dissolution of the Soviet Union</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Frozen_conflict" title="Frozen conflict">Frozen conflicts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abkhaz%E2%80%93Georgian_conflict" title="Abkhaz–Georgian conflict">Abkhazia</a></li>
+<li><a href="/wiki/Political_status_of_Taiwan" title="Political status of Taiwan">China-Taiwan</a></li>
+<li><a href="/wiki/Division_of_Korea" title="Division of Korea">Korea</a></li>
+<li><a href="/wiki/Political_status_of_Puerto_Rico" title="Political status of Puerto Rico">Puerto Rico</a></li>
+<li><a href="/wiki/Political_status_of_Kosovo" title="Political status of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Political_status_of_Nagorno-Karabakh" title="Political status of Nagorno-Karabakh">Nagorno-Karabakh</a></li>
+<li><a href="/wiki/Georgian%E2%80%93Ossetian_conflict" title="Georgian–Ossetian conflict">South Ossetia</a></li>
+<li><a href="/wiki/Transnistria_War" title="Transnistria War">Transnistria</a></li>
+<li><a href="/wiki/Sino-Indian_border_dispute" title="Sino-Indian border dispute">Sino-Indian border dispute</a></li>
+<li><a href="/wiki/North_Borneo_dispute" title="North Borneo dispute">North Borneo dispute</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Foreign policy</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Truman_Doctrine" title="Truman Doctrine">Truman Doctrine</a></li>
+<li><a href="/wiki/Containment" title="Containment">Containment</a></li>
+<li><a href="/wiki/Eisenhower_Doctrine" title="Eisenhower Doctrine">Eisenhower Doctrine</a></li>
+<li><a href="/wiki/Domino_theory" title="Domino theory">Domino theory</a></li>
+<li><a href="/wiki/Hallstein_Doctrine" title="Hallstein Doctrine">Hallstein Doctrine</a></li>
+<li><a class="mw-selflink selflink">Kennedy Doctrine</a></li>
+<li><a href="/wiki/Peaceful_coexistence" title="Peaceful coexistence">Peaceful coexistence</a></li>
+<li><a href="/wiki/Ostpolitik" title="Ostpolitik">Ostpolitik</a></li>
+<li><a href="/wiki/Johnson_Doctrine" title="Johnson Doctrine">Johnson Doctrine</a></li>
+<li><a href="/wiki/Brezhnev_Doctrine" title="Brezhnev Doctrine">Brezhnev Doctrine</a></li>
+<li><a href="/wiki/Nixon_Doctrine" title="Nixon Doctrine">Nixon Doctrine</a></li>
+<li><a href="/wiki/Ulbricht_Doctrine" title="Ulbricht Doctrine">Ulbricht Doctrine</a></li>
+<li><a href="/wiki/Carter_Doctrine" title="Carter Doctrine">Carter Doctrine</a></li>
+<li><a href="/wiki/Reagan_Doctrine" title="Reagan Doctrine">Reagan Doctrine</a></li>
+<li><a href="/wiki/Rollback" title="Rollback">Rollback</a></li>
+<li><a href="/wiki/Sovereignty_of_Puerto_Rico_during_the_Cold_War" title="Sovereignty of Puerto Rico during the Cold War">Sovereignty of Puerto Rico during the Cold War</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Ideologies</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Capitalism" title="Capitalism">Capitalism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Liberalism" title="Liberalism">Liberalism</a></li>
+<li><a href="/wiki/Chicago_school_of_economics" title="Chicago school of economics">Chicago school</a></li>
+<li><a href="/wiki/Keynesian_economics" title="Keynesian economics">Keynesianism</a></li>
+<li><a href="/wiki/Monetarism" title="Monetarism">Monetarism</a></li>
+<li><a href="/wiki/Neoclassical_economics" title="Neoclassical economics">Neoclassical economics</a></li>
+<li><a href="/wiki/Reaganomics" title="Reaganomics">Reaganomics</a></li>
+<li><a href="/wiki/Supply-side_economics" title="Supply-side economics">Supply-side economics</a></li>
+<li><a href="/wiki/Thatcherism" title="Thatcherism">Thatcherism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Communism" title="Communism">Communism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Marxism%E2%80%93Leninism" title="Marxism–Leninism">Marxism–Leninism</a></li>
+<li><a href="/wiki/Politics_of_Fidel_Castro" title="Politics of Fidel Castro">Castroism</a></li>
+<li><a href="/wiki/Eurocommunism" title="Eurocommunism">Eurocommunism</a></li>
+<li><a href="/wiki/Guevarism" title="Guevarism">Guevarism</a></li>
+<li><a href="/wiki/Hoxhaism" title="Hoxhaism">Hoxhaism</a></li>
+<li><a href="/wiki/Juche" title="Juche">Juche</a></li>
+<li><a href="/wiki/Maoism" title="Maoism">Maoism</a></li>
+<li><a href="/wiki/Trotskyism" title="Trotskyism">Trotskyism</a></li>
+<li><a href="/wiki/Naxalite" title="Naxalite">Naxalism</a></li>
+<li><a href="/wiki/Stalinism" title="Stalinism">Stalinism</a></li>
+<li><a href="/wiki/Titoism" title="Titoism">Titoism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
+<li><a href="/wiki/Anti-imperialism" title="Anti-imperialism">Anti-imperialism</a></li>
+<li><a href="/wiki/Nationalism" title="Nationalism">Nationalism</a></li>
+<li><a href="/wiki/Ultranationalism" title="Ultranationalism">Ultranationalism</a></li>
+<li><a href="/wiki/Chauvinism" title="Chauvinism">Chauvinism</a></li>
+<li><a href="/wiki/Ethnic_nationalism" title="Ethnic nationalism">Ethnic nationalism</a></li>
+<li><a href="/wiki/Racism" title="Racism">Racism</a></li>
+<li><a href="/wiki/Zionism" title="Zionism">Zionism</a></li>
+<li><a href="/wiki/Fascism" title="Fascism">Fascism</a></li>
+<li><a href="/wiki/Neo-Nazism" title="Neo-Nazism">Neo-Nazism</a></li>
+<li><a href="/wiki/Islamism" title="Islamism">Islamism</a></li>
+<li><a href="/wiki/Totalitarianism" title="Totalitarianism">Totalitarianism</a></li>
+<li><a href="/wiki/Authoritarianism" title="Authoritarianism">Authoritarianism</a></li>
+<li><a href="/wiki/Autocracy" title="Autocracy">Autocracy</a></li>
+<li><a href="/wiki/Liberal_democracy" title="Liberal democracy">Liberal democracy</a></li>
+<li><a href="/wiki/Illiberal_democracy" title="Illiberal democracy">Illiberal democracy</a></li>
+<li><a href="/wiki/Guided_democracy" title="Guided democracy">Guided democracy</a></li>
+<li><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></li>
+<li><a href="/wiki/Third-Worldism" title="Third-Worldism">Third-Worldism</a></li>
+<li><a href="/wiki/White_supremacy" title="White supremacy">White supremacy</a></li>
+<li><a href="/wiki/White_nationalism" title="White nationalism">White nationalism</a></li>
+<li><a href="/wiki/White_separatism" class="mw-redirect" title="White separatism">White separatism</a></li>
+<li><a href="/wiki/Apartheid" title="Apartheid">Apartheid</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NATO" title="NATO">NATO</a></li>
+<li><a href="/wiki/Warsaw_Pact" title="Warsaw Pact">Warsaw Pact</a></li>
+<li><a href="/wiki/Andean_Community" title="Andean Community">Andean Community</a></li>
+<li><a href="/wiki/Association_of_Southeast_Asian_Nations" title="Association of Southeast Asian Nations">ASEAN</a></li>
+<li><a href="/wiki/Central_Intelligence_Agency" title="Central Intelligence Agency">CIA</a></li>
+<li><a href="/wiki/Comecon" title="Comecon">Comecon</a></li>
+<li><a href="/wiki/European_Economic_Community" title="European Economic Community">EEC</a></li>
+<li><a href="/wiki/KGB" title="KGB">KGB</a></li>
+<li><a href="/wiki/Secret_Intelligence_Service" title="Secret Intelligence Service">MI6</a></li>
+<li><a href="/wiki/Non-Aligned_Movement" title="Non-Aligned Movement">Non-Aligned Movement</a></li>
+<li><a href="/wiki/South_Asian_Association_for_Regional_Cooperation" title="South Asian Association for Regional Cooperation">SAARC</a></li>
+<li><a href="/wiki/Safari_Club" title="Safari Club">Safari Club</a></li>
+<li><a href="/wiki/Stasi" title="Stasi">Stasi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Propaganda</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_measures" title="Active measures">Active measures</a></li>
+<li><a href="/wiki/Crusade_for_Freedom" title="Crusade for Freedom">Crusade for Freedom</a></li>
+<li><i><a href="/wiki/Izvestia" title="Izvestia">Izvestia</a></i></li>
+<li><i><a href="/wiki/Pravda" title="Pravda">Pravda</a></i></li>
+<li><a href="/wiki/Radio_Free_Europe/Radio_Liberty" title="Radio Free Europe/Radio Liberty">Radio Free Europe/Radio Liberty</a></li>
+<li><a href="/wiki/Red_Scare" title="Red Scare">Red Scare</a></li>
+<li><a href="/wiki/Telegraph_Agency_of_the_Soviet_Union" class="mw-redirect" title="Telegraph Agency of the Soviet Union">TASS</a></li>
+<li><a href="/wiki/Voice_of_America" title="Voice of America">Voice of America</a></li>
+<li><a href="/wiki/Voice_of_Russia" title="Voice of Russia">Voice of Russia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Races</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arms_race" title="Arms race">Arms race</a></li>
+<li><a href="/wiki/Nuclear_arms_race" title="Nuclear arms race">Nuclear arms race</a></li>
+<li><a href="/wiki/Space_Race" title="Space Race">Space Race</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">See also</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allied_intervention_in_the_Russian_Civil_War" title="Allied intervention in the Russian Civil War">Allied intervention in the Russian Civil War</a></li>
+<li><a href="/wiki/List_of_Eastern_Bloc_agents_in_the_United_States" title="List of Eastern Bloc agents in the United States">List of Eastern Bloc agents in the United States</a></li>
+<li><a href="/wiki/Soviet_espionage_in_the_United_States" title="Soviet espionage in the United States">Soviet espionage in the United States</a></li>
+<li><a href="/wiki/Soviet_Union%E2%80%93United_States_relations" title="Soviet Union–United States relations">Soviet Union–United States relations</a></li>
+<li><a href="/wiki/List_of_Soviet_Union%E2%80%93United_States_summits" title="List of Soviet Union–United States summits">USSR–USA summits</a></li>
+<li><a href="/wiki/Russian_espionage_in_the_United_States" title="Russian espionage in the United States">Russian espionage in the United States</a></li>
+<li><a href="/wiki/American_espionage_in_the_Soviet_Union_and_Russian_Federation" title="American espionage in the Soviet Union and Russian Federation">American espionage in the Soviet Union and Russian Federation</a></li>
+<li><a href="/wiki/Russia%E2%80%93NATO_relations" title="Russia–NATO relations">Russia–NATO relations</a></li>
+<li><a href="/wiki/Brinkmanship_(Cold_War)" class="mw-redirect" title="Brinkmanship (Cold War)">Brinkmanship</a></li>
+<li><a href="/wiki/CIA_and_the_Cultural_Cold_War" title="CIA and the Cultural Cold War">CIA and the Cultural Cold War</a></li>
+<li><a href="/wiki/Cold_War_II" class="mw-redirect" title="Cold War II">Cold War II</a></li>
+<li><a href="/wiki/Russian_Revolution" title="Russian Revolution">Russian Revolution</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background-color:#DCDCDC;font-weight:bold;"><div>
+<ul><li><a href="/wiki/Category:Cold_War" title="Category:Cold War">Category</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Category:Cold_War" class="extiw" title="commons:Category:Cold War">Commons</a></li>
+<li><a href="/wiki/Timeline_of_events_in_the_Cold_War" title="Timeline of events in the Cold War">Timeline</a></li>
+<li><a href="/wiki/List_of_conflicts_related_to_the_Cold_War" title="List of conflicts related to the Cold War">List of conflicts</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Foreign_relations_of_the_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Foreign_relations_of_the_United_States" title="Template:Foreign relations of the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Foreign_relations_of_the_United_States" title="Template talk:Foreign relations of the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Foreign_relations_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=United_States&amp;#124;link=United_States_Foreign_relations_of_the_United_States" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Foreign_relations_of_the_United_States" title="Foreign relations of the United States">Foreign relations of the United States</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="padding-left:75px;"><div id="Bilateral_relations" style="font-size:114%;margin:0 4em"><a href="/wiki/Bilateralism" title="Bilateralism">Bilateral</a> relations</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Central</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angola%E2%80%93United_States_relations" title="Angola–United States relations">Angola</a></li>
+<li><a href="/wiki/Cameroon%E2%80%93United_States_relations" title="Cameroon–United States relations">Cameroon</a></li>
+<li><a href="/wiki/Central_African_Republic%E2%80%93United_States_relations" title="Central African Republic–United States relations">Central African Republic</a></li>
+<li><a href="/wiki/Chad%E2%80%93United_States_relations" title="Chad–United States relations">Chad</a></li>
+<li><a href="/wiki/Democratic_Republic_of_the_Congo%E2%80%93United_States_relations" title="Democratic Republic of the Congo–United States relations">Democratic Republic of the Congo</a></li>
+<li><a href="/wiki/Republic_of_the_Congo%E2%80%93United_States_relations" title="Republic of the Congo–United States relations">Republic of the Congo</a></li>
+<li><a href="/wiki/Equatorial_Guinea%E2%80%93United_States_relations" title="Equatorial Guinea–United States relations">Equatorial Guinea</a></li>
+<li><a href="/wiki/Gabon%E2%80%93United_States_relations" title="Gabon–United States relations">Gabon</a></li>
+<li><a href="/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe%E2%80%93United_States_relations" title="São Tomé and Príncipe–United States relations">São Tomé and Príncipe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">East</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burundi%E2%80%93United_States_relations" title="Burundi–United States relations">Burundi</a></li>
+<li><a href="/wiki/Comoros%E2%80%93United_States_relations" title="Comoros–United States relations">Comoros</a></li>
+<li><a href="/wiki/Djibouti%E2%80%93United_States_relations" title="Djibouti–United States relations">Djibouti</a></li>
+<li><a href="/wiki/Eritrea%E2%80%93United_States_relations" title="Eritrea–United States relations">Eritrea</a></li>
+<li><a href="/wiki/Ethiopia%E2%80%93United_States_relations" title="Ethiopia–United States relations">Ethiopia</a></li>
+<li><a href="/wiki/Kenya%E2%80%93United_States_relations" title="Kenya–United States relations">Kenya</a></li>
+<li><a href="/wiki/Madagascar%E2%80%93United_States_relations" title="Madagascar–United States relations">Madagascar</a></li>
+<li><a href="/wiki/Malawi%E2%80%93United_States_relations" title="Malawi–United States relations">Malawi</a></li>
+<li><a href="/wiki/Mauritius%E2%80%93United_States_relations" title="Mauritius–United States relations">Mauritius</a></li>
+<li><a href="/wiki/Mozambique%E2%80%93United_States_relations" title="Mozambique–United States relations">Mozambique</a></li>
+<li><a href="/wiki/Rwanda%E2%80%93United_States_relations" title="Rwanda–United States relations">Rwanda</a></li>
+<li><a href="/wiki/Seychelles%E2%80%93United_States_relations" title="Seychelles–United States relations">Seychelles</a></li>
+<li><a href="/wiki/Somalia%E2%80%93United_States_relations" title="Somalia–United States relations">Somalia</a></li>
+<li><a href="/wiki/South_Sudan%E2%80%93United_States_relations" title="South Sudan–United States relations">South Sudan</a></li>
+<li><a href="/wiki/Sudan%E2%80%93United_States_relations" title="Sudan–United States relations">Sudan</a></li>
+<li><a href="/wiki/Tanzania%E2%80%93United_States_relations" title="Tanzania–United States relations">Tanzania</a></li>
+<li><a href="/wiki/Uganda%E2%80%93United_States_relations" title="Uganda–United States relations">Uganda</a></li>
+<li><a href="/wiki/United_States%E2%80%93Zambia_relations" title="United States–Zambia relations">Zambia</a></li>
+<li><a href="/wiki/United_States%E2%80%93Zimbabwe_relations" title="United States–Zimbabwe relations">Zimbabwe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algeria%E2%80%93United_States_relations" title="Algeria–United States relations">Algeria</a></li>
+<li><a href="/wiki/Egypt%E2%80%93United_States_relations" title="Egypt–United States relations">Egypt</a></li>
+<li><a href="/wiki/Libya%E2%80%93United_States_relations" title="Libya–United States relations">Libya</a></li>
+<li><a href="/wiki/Morocco%E2%80%93United_States_relations" title="Morocco–United States relations">Morocco</a></li>
+<li><a href="/wiki/Tunisia%E2%80%93United_States_relations" title="Tunisia–United States relations">Tunisia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Southern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Botswana%E2%80%93United_States_relations" title="Botswana–United States relations">Botswana</a></li>
+<li><a href="/wiki/Eswatini%E2%80%93United_States_relations" title="Eswatini–United States relations">Eswatini</a></li>
+<li><a href="/wiki/Lesotho%E2%80%93United_States_relations" title="Lesotho–United States relations">Lesotho</a></li>
+<li><a href="/wiki/Namibia%E2%80%93United_States_relations" title="Namibia–United States relations">Namibia</a></li>
+<li><a href="/wiki/South_Africa%E2%80%93United_States_relations" title="South Africa–United States relations">South Africa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">West</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Benin%E2%80%93United_States_relations" title="Benin–United States relations">Benin</a></li>
+<li><a href="/wiki/Burkina_Faso%E2%80%93United_States_relations" title="Burkina Faso–United States relations">Burkina Faso</a></li>
+<li><a href="/wiki/Cape_Verde%E2%80%93United_States_relations" title="Cape Verde–United States relations">Cape Verde</a></li>
+<li><a href="/wiki/C%C3%B4te_d%27Ivoire%E2%80%93United_States_relations" class="mw-redirect" title="Côte d&#39;Ivoire–United States relations">Ivory Coast</a></li>
+<li><a href="/wiki/The_Gambia%E2%80%93United_States_relations" class="mw-redirect" title="The Gambia–United States relations">The Gambia</a></li>
+<li><a href="/wiki/Ghana%E2%80%93United_States_relations" title="Ghana–United States relations">Ghana</a></li>
+<li><a href="/wiki/Guinea%E2%80%93United_States_relations" title="Guinea–United States relations">Guinea</a></li>
+<li><a href="/wiki/Guinea-Bissau%E2%80%93United_States_relations" title="Guinea-Bissau–United States relations">Guinea-Bissau</a></li>
+<li><a href="/wiki/Liberia%E2%80%93United_States_relations" title="Liberia–United States relations">Liberia</a></li>
+<li><a href="/wiki/Mali%E2%80%93United_States_relations" title="Mali–United States relations">Mali</a></li>
+<li><a href="/wiki/Mauritania%E2%80%93United_States_relations" title="Mauritania–United States relations">Mauritania</a></li>
+<li><a href="/wiki/Niger%E2%80%93United_States_relations" title="Niger–United States relations">Niger</a></li>
+<li><a href="/wiki/Nigeria%E2%80%93United_States_relations" title="Nigeria–United States relations">Nigeria</a></li>
+<li><a href="/wiki/Senegal%E2%80%93United_States_relations" title="Senegal–United States relations">Senegal</a></li>
+<li><a href="/wiki/Sierra_Leone%E2%80%93United_States_relations" title="Sierra Leone–United States relations">Sierra Leone</a></li>
+<li><a href="/wiki/Togo%E2%80%93United_States_relations" title="Togo–United States relations">Togo</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Caribbean</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antigua_and_Barbuda%E2%80%93United_States_relations" title="Antigua and Barbuda–United States relations">Antigua and Barbuda</a></li>
+<li><a href="/wiki/Aruba%E2%80%93United_States_relations" title="Aruba–United States relations">Aruba</a></li>
+<li><a href="/wiki/Bahamas%E2%80%93United_States_relations" title="Bahamas–United States relations">Bahamas</a></li>
+<li><a href="/wiki/Barbados%E2%80%93United_States_relations" title="Barbados–United States relations">Barbados</a></li>
+<li><a href="/wiki/Cayman_Islands%E2%80%93United_States_relations" title="Cayman Islands–United States relations">Cayman Islands</a></li>
+<li><a href="/wiki/Cuba%E2%80%93United_States_relations" title="Cuba–United States relations">Cuba</a></li>
+<li><a href="/wiki/Dominica%E2%80%93United_States_relations" title="Dominica–United States relations">Dominica</a></li>
+<li><a href="/wiki/Dominican_Republic%E2%80%93United_States_relations" title="Dominican Republic–United States relations">Dominican Republic</a></li>
+<li><a href="/wiki/Grenada%E2%80%93United_States_relations" title="Grenada–United States relations">Grenada</a></li>
+<li><a href="/wiki/Haiti%E2%80%93United_States_relations" title="Haiti–United States relations">Haiti</a></li>
+<li><a href="/wiki/Jamaica%E2%80%93United_States_relations" title="Jamaica–United States relations">Jamaica</a></li>
+<li><a href="/wiki/Saint_Kitts_and_Nevis%E2%80%93United_States_relations" title="Saint Kitts and Nevis–United States relations">St. Kitts and Nevis</a></li>
+<li><a href="/wiki/Saint_Lucia%E2%80%93United_States_relations" title="Saint Lucia–United States relations">St. Lucia</a></li>
+<li><a href="/wiki/Saint_Vincent_and_the_Grenadines%E2%80%93United_States_relations" title="Saint Vincent and the Grenadines–United States relations">St. Vincent and the Grenadines</a></li>
+<li><a href="/wiki/Trinidad_and_Tobago%E2%80%93United_States_relations" title="Trinidad and Tobago–United States relations">Trinidad and Tobago</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Central</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Belize%E2%80%93United_States_relations" title="Belize–United States relations">Belize</a></li>
+<li><a href="/wiki/Costa_Rica%E2%80%93United_States_relations" title="Costa Rica–United States relations">Costa Rica</a></li>
+<li><a href="/wiki/El_Salvador%E2%80%93United_States_relations" title="El Salvador–United States relations">El Salvador</a></li>
+<li><a href="/wiki/Guatemala%E2%80%93United_States_relations" title="Guatemala–United States relations">Guatemala</a></li>
+<li><a href="/wiki/Honduras%E2%80%93United_States_relations" title="Honduras–United States relations">Honduras</a></li>
+<li><a href="/wiki/Nicaragua%E2%80%93United_States_relations" title="Nicaragua–United States relations">Nicaragua</a></li>
+<li><a href="/wiki/Panama%E2%80%93United_States_relations" title="Panama–United States relations">Panama</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Northern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bermuda%E2%80%93United_States_relations" title="Bermuda–United States relations">Bermuda</a></li>
+<li><a href="/wiki/Canada%E2%80%93United_States_relations" title="Canada–United States relations">Canada</a>
+<ul><li><a href="/wiki/Canada%E2%80%93United_States_trade_relations" title="Canada–United States trade relations">trade relations</a></li></ul></li>
+<li><a href="/wiki/Mexico%E2%80%93United_States_relations" title="Mexico–United States relations">Mexico</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">South</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Argentina%E2%80%93United_States_relations" title="Argentina–United States relations">Argentina</a></li>
+<li><a href="/wiki/Bolivia%E2%80%93United_States_relations" title="Bolivia–United States relations">Bolivia</a></li>
+<li><a href="/wiki/Brazil%E2%80%93United_States_relations" title="Brazil–United States relations">Brazil</a></li>
+<li><a href="/wiki/Chile%E2%80%93United_States_relations" title="Chile–United States relations">Chile</a></li>
+<li><a href="/wiki/Colombia%E2%80%93United_States_relations" title="Colombia–United States relations">Colombia</a></li>
+<li><a href="/wiki/Ecuador%E2%80%93United_States_relations" title="Ecuador–United States relations">Ecuador</a></li>
+<li><a href="/wiki/Guyana%E2%80%93United_States_relations" title="Guyana–United States relations">Guyana</a></li>
+<li><a href="/wiki/Paraguay%E2%80%93United_States_relations" title="Paraguay–United States relations">Paraguay</a></li>
+<li><a href="/wiki/Peru%E2%80%93United_States_relations" title="Peru–United States relations">Peru</a></li>
+<li><a href="/wiki/Suriname%E2%80%93United_States_relations" title="Suriname–United States relations">Suriname</a></li>
+<li><a href="/wiki/United_States%E2%80%93Uruguay_relations" title="United States–Uruguay relations">Uruguay</a></li>
+<li><a href="/wiki/United_States%E2%80%93Venezuela_relations" title="United States–Venezuela relations">Venezuela</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Central</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Afghanistan%E2%80%93United_States_relations" title="Afghanistan–United States relations">Afghanistan</a></li>
+<li><a href="/wiki/Kazakhstan%E2%80%93United_States_relations" title="Kazakhstan–United States relations">Kazakhstan</a></li>
+<li><a href="/wiki/Kyrgyzstan%E2%80%93United_States_relations" title="Kyrgyzstan–United States relations">Kyrgyzstan</a></li>
+<li><a href="/wiki/Tajikistan%E2%80%93United_States_relations" title="Tajikistan–United States relations">Tajikistan</a></li>
+<li><a href="/wiki/Turkmenistan%E2%80%93United_States_relations" title="Turkmenistan–United States relations">Turkmenistan</a></li>
+<li><a href="/wiki/United_States%E2%80%93Uzbekistan_relations" title="United States–Uzbekistan relations">Uzbekistan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/China%E2%80%93United_States_relations" title="China–United States relations">China</a>
+<ul><li><a href="/wiki/Hong_Kong%E2%80%93United_States_relations" title="Hong Kong–United States relations">Hong Kong</a></li>
+<li><a href="/wiki/Macau%E2%80%93United_States_relations" title="Macau–United States relations">Macau</a></li></ul></li>
+<li><a href="/wiki/Japan%E2%80%93United_States_relations" title="Japan–United States relations">Japan</a></li>
+<li><a href="/wiki/Mongolia%E2%80%93United_States_relations" title="Mongolia–United States relations">Mongolia</a></li>
+<li><a href="/wiki/North_Korea%E2%80%93United_States_relations" title="North Korea–United States relations">North Korea</a></li>
+<li><a href="/wiki/South_Korea%E2%80%93United_States_relations" title="South Korea–United States relations">South Korea</a></li>
+<li><a href="/wiki/Taiwan%E2%80%93United_States_relations" title="Taiwan–United States relations">Taiwan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">South</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bangladesh%E2%80%93United_States_relations" title="Bangladesh–United States relations">Bangladesh</a></li>
+<li><a href="/wiki/Bhutan%E2%80%93United_States_relations" title="Bhutan–United States relations">Bhutan</a></li>
+<li><a href="/wiki/India%E2%80%93United_States_relations" title="India–United States relations">India</a></li>
+<li><a href="/wiki/Maldives%E2%80%93United_States_relations" title="Maldives–United States relations">Maldives</a></li>
+<li><a href="/wiki/Nepal%E2%80%93United_States_relations" title="Nepal–United States relations">Nepal</a></li>
+<li><a href="/wiki/Pakistan%E2%80%93United_States_relations" title="Pakistan–United States relations">Pakistan</a> (<a href="/wiki/Pakistan%E2%80%93United_States_military_relations" title="Pakistan–United States military relations">military relations</a>)</li>
+<li><a href="/wiki/Sri_Lanka%E2%80%93United_States_relations" title="Sri Lanka–United States relations">Sri Lanka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Southeast</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brunei%E2%80%93United_States_relations" title="Brunei–United States relations">Brunei</a></li>
+<li><a href="/wiki/Cambodia%E2%80%93United_States_relations" title="Cambodia–United States relations">Cambodia</a></li>
+<li><a href="/wiki/East_Timor%E2%80%93United_States_relations" title="East Timor–United States relations">East Timor</a></li>
+<li><a href="/wiki/Indonesia%E2%80%93United_States_relations" title="Indonesia–United States relations">Indonesia</a></li>
+<li><a href="/wiki/Laos%E2%80%93United_States_relations" title="Laos–United States relations">Laos</a></li>
+<li><a href="/wiki/Myanmar%E2%80%93United_States_relations" title="Myanmar–United States relations">Myanmar</a></li>
+<li><a href="/wiki/Malaysia%E2%80%93United_States_relations" title="Malaysia–United States relations">Malaysia</a></li>
+<li><a href="/wiki/Philippines%E2%80%93United_States_relations" title="Philippines–United States relations">Philippines</a></li>
+<li><a href="/wiki/Singapore%E2%80%93United_States_relations" title="Singapore–United States relations">Singapore</a></li>
+<li><a href="/wiki/Thailand%E2%80%93United_States_relations" title="Thailand–United States relations">Thailand</a></li>
+<li><a href="/wiki/United_States%E2%80%93Vietnam_relations" title="United States–Vietnam relations">Vietnam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Western</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armenia%E2%80%93United_States_relations" title="Armenia–United States relations">Armenia</a></li>
+<li><a href="/wiki/Azerbaijan%E2%80%93United_States_relations" title="Azerbaijan–United States relations">Azerbaijan</a></li>
+<li><a href="/wiki/Bahrain%E2%80%93United_States_relations" title="Bahrain–United States relations">Bahrain</a></li>
+<li><a href="/wiki/Georgia%E2%80%93United_States_relations" title="Georgia–United States relations">Georgia</a></li>
+<li><a href="/wiki/Iran%E2%80%93United_States_relations" title="Iran–United States relations">Iran</a></li>
+<li><a href="/wiki/Iraq%E2%80%93United_States_relations" title="Iraq–United States relations">Iraq</a></li>
+<li><a href="/wiki/Israel%E2%80%93United_States_relations" title="Israel–United States relations">Israel</a>
+<ul><li><a href="/wiki/Israel%E2%80%93United_States_military_relations" title="Israel–United States military relations">military relations</a></li></ul></li>
+<li><a href="/wiki/Jordan%E2%80%93United_States_relations" title="Jordan–United States relations">Jordan</a></li>
+<li><a href="/wiki/Kuwait%E2%80%93United_States_relations" title="Kuwait–United States relations">Kuwait</a></li>
+<li><a href="/wiki/Lebanon%E2%80%93United_States_relations" title="Lebanon–United States relations">Lebanon</a></li>
+<li><a href="/wiki/Oman%E2%80%93United_States_relations" title="Oman–United States relations">Oman</a></li>
+<li><a href="/wiki/Palestine%E2%80%93United_States_relations" title="Palestine–United States relations">Palestine</a></li>
+<li><a href="/wiki/Qatar%E2%80%93United_States_relations" title="Qatar–United States relations">Qatar</a></li>
+<li><a href="/wiki/Saudi_Arabia%E2%80%93United_States_relations" title="Saudi Arabia–United States relations">Saudi Arabia</a></li>
+<li><a href="/wiki/Syria%E2%80%93United_States_relations" title="Syria–United States relations">Syria</a></li>
+<li><a href="/wiki/Turkey%E2%80%93United_States_relations" title="Turkey–United States relations">Turkey</a></li>
+<li><a href="/wiki/United_Arab_Emirates%E2%80%93United_States_relations" title="United Arab Emirates–United States relations">United Arab Emirates</a></li>
+<li><a href="/wiki/United_States%E2%80%93Yemen_relations" title="United States–Yemen relations">Yemen</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Eastern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Belarus%E2%80%93United_States_relations" title="Belarus–United States relations">Belarus</a></li>
+<li><a href="/wiki/Bulgaria%E2%80%93United_States_relations" title="Bulgaria–United States relations">Bulgaria</a></li>
+<li><a href="/wiki/Czech_Republic%E2%80%93United_States_relations" title="Czech Republic–United States relations">Czech Republic</a></li>
+<li><a href="/wiki/Hungary%E2%80%93United_States_relations" title="Hungary–United States relations">Hungary</a></li>
+<li><a href="/wiki/Moldova%E2%80%93United_States_relations" title="Moldova–United States relations">Moldova</a></li>
+<li><a href="/wiki/Poland%E2%80%93United_States_relations" title="Poland–United States relations">Poland</a></li>
+<li><a href="/wiki/Romania%E2%80%93United_States_relations" title="Romania–United States relations">Romania</a></li>
+<li><a href="/wiki/Russia%E2%80%93United_States_relations" title="Russia–United States relations">Russia</a></li>
+<li><a href="/wiki/Slovakia%E2%80%93United_States_relations" title="Slovakia–United States relations">Slovakia</a></li>
+<li><a href="/wiki/Ukraine%E2%80%93United_States_relations" title="Ukraine–United States relations">Ukraine</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Northern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Denmark%E2%80%93United_States_relations" title="Denmark–United States relations">Denmark</a></li>
+<li><a href="/wiki/Estonia%E2%80%93United_States_relations" title="Estonia–United States relations">Estonia</a></li>
+<li><a href="/wiki/Finland%E2%80%93United_States_relations" title="Finland–United States relations">Finland</a></li>
+<li><a href="/wiki/Iceland%E2%80%93United_States_relations" title="Iceland–United States relations">Iceland</a></li>
+<li><a href="/wiki/Ireland%E2%80%93United_States_relations" title="Ireland–United States relations">Ireland</a></li>
+<li><a href="/wiki/Latvia%E2%80%93United_States_relations" title="Latvia–United States relations">Latvia</a></li>
+<li><a href="/wiki/Lithuania%E2%80%93United_States_relations" title="Lithuania–United States relations">Lithuania</a></li>
+<li><a href="/wiki/Norway%E2%80%93United_States_relations" title="Norway–United States relations">Norway</a></li>
+<li><a href="/wiki/Sweden%E2%80%93United_States_relations" title="Sweden–United States relations">Sweden</a></li>
+<li><a href="/wiki/United_Kingdom%E2%80%93United_States_relations" title="United Kingdom–United States relations">United Kingdom</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Southern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Andorra%E2%80%93United_States_relations" title="Andorra–United States relations">Andorra</a></li>
+<li><a href="/wiki/Albania%E2%80%93United_States_relations" title="Albania–United States relations">Albania</a></li>
+<li><a href="/wiki/Bosnia_and_Herzegovina%E2%80%93United_States_relations" title="Bosnia and Herzegovina–United States relations">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Croatia%E2%80%93United_States_relations" title="Croatia–United States relations">Croatia</a></li>
+<li><a href="/wiki/Cyprus%E2%80%93United_States_relations" title="Cyprus–United States relations">Cyprus</a></li>
+<li><a href="/wiki/Greece%E2%80%93United_States_relations" title="Greece–United States relations">Greece</a></li>
+<li><a href="/wiki/Italy%E2%80%93United_States_relations" title="Italy–United States relations">Italy</a></li>
+<li><a href="/wiki/Kosovo%E2%80%93United_States_relations" title="Kosovo–United States relations">Kosovo</a></li>
+<li><a href="/wiki/Malta%E2%80%93United_States_relations" title="Malta–United States relations">Malta</a></li>
+<li><a href="/wiki/Montenegro%E2%80%93United_States_relations" title="Montenegro–United States relations">Montenegro</a></li>
+<li><a href="/wiki/North_Macedonia%E2%80%93United_States_relations" title="North Macedonia–United States relations">North Macedonia</a></li>
+<li><a href="/wiki/Portugal%E2%80%93United_States_relations" title="Portugal–United States relations">Portugal</a></li>
+<li><a href="/wiki/San_Marino%E2%80%93United_States_relations" title="San Marino–United States relations">San Marino</a></li>
+<li><a href="/wiki/Serbia%E2%80%93United_States_relations" title="Serbia–United States relations">Serbia</a></li>
+<li><a href="/wiki/Slovenia%E2%80%93United_States_relations" title="Slovenia–United States relations">Slovenia</a></li>
+<li><a href="/wiki/Spain%E2%80%93United_States_relations" title="Spain–United States relations">Spain</a></li>
+<li><a href="/wiki/Holy_See%E2%80%93United_States_relations" title="Holy See–United States relations">Vatican City</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Western</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austria%E2%80%93United_States_relations" title="Austria–United States relations">Austria</a></li>
+<li><a href="/wiki/Belgium%E2%80%93United_States_relations" title="Belgium–United States relations">Belgium</a></li>
+<li><a href="/wiki/France%E2%80%93United_States_relations" title="France–United States relations">France</a></li>
+<li><a href="/wiki/Germany%E2%80%93United_States_relations" title="Germany–United States relations">Germany</a></li>
+<li><a href="/wiki/Liechtenstein%E2%80%93United_States_relations" title="Liechtenstein–United States relations">Liechtenstein</a></li>
+<li><a href="/wiki/Luxembourg%E2%80%93United_States_relations" title="Luxembourg–United States relations">Luxembourg</a></li>
+<li><a href="/wiki/Monaco%E2%80%93United_States_relations" title="Monaco–United States relations">Monaco</a></li>
+<li><a href="/wiki/Netherlands%E2%80%93United_States_relations" title="Netherlands–United States relations">Netherlands</a></li>
+<li><a href="/wiki/Switzerland%E2%80%93United_States_relations" title="Switzerland–United States relations">Switzerland</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Australasia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australia%E2%80%93United_States_relations" title="Australia–United States relations">Australia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Melanesia</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fiji%E2%80%93United_States_relations" title="Fiji–United States relations">Fiji</a></li>
+<li><a href="/wiki/Papua_New_Guinea%E2%80%93United_States_relations" title="Papua New Guinea–United States relations">Papua New Guinea</a></li>
+<li><a href="/wiki/Solomon_Islands%E2%80%93United_States_relations" title="Solomon Islands–United States relations">Solomon Islands</a></li>
+<li><a href="/wiki/United_States%E2%80%93Vanuatu_relations" title="United States–Vanuatu relations">Vanuatu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Micronesia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kiribati%E2%80%93United_States_relations" title="Kiribati–United States relations">Kiribati</a></li>
+<li><a href="/wiki/Marshall_Islands%E2%80%93United_States_relations" title="Marshall Islands–United States relations">Marshall Islands</a></li>
+<li><a href="/wiki/Federated_States_of_Micronesia%E2%80%93United_States_relations" title="Federated States of Micronesia–United States relations">Micronesia</a></li>
+<li><a href="/wiki/Nauru%E2%80%93United_States_relations" class="mw-redirect" title="Nauru–United States relations">Nauru</a></li>
+<li><a href="/wiki/Palau%E2%80%93United_States_relations" title="Palau–United States relations">Palau</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal">Polynesia</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/New_Zealand%E2%80%93United_States_relations" title="New Zealand–United States relations">New Zealand</a></li>
+<li><a href="/wiki/Samoa%E2%80%93United_States_relations" title="Samoa–United States relations">Samoa</a></li>
+<li><a href="/wiki/Tonga%E2%80%93United_States_relations" title="Tonga–United States relations">Tonga</a></li>
+<li><a href="/wiki/Tuvalu%E2%80%93United_States_relations" title="Tuvalu–United States relations">Tuvalu</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former states</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hawaiian_Kingdom%E2%80%93United_States_relations" title="Hawaiian Kingdom–United States relations">Hawaiian Kingdom</a></li>
+<li><a href="/wiki/Republic_of_Texas%E2%80%93United_States_relations" title="Republic of Texas–United States relations">Republic of Texas</a></li>
+<li><a href="/wiki/Russian_Empire%E2%80%93United_States_relations" title="Russian Empire–United States relations">Russian Empire</a></li>
+<li><a href="/wiki/Ottoman_Empire%E2%80%93United_States_relations" title="Ottoman Empire–United States relations">Ottoman Empire</a></li>
+<li><a href="/wiki/Soviet_Union%E2%80%93United_States_relations" title="Soviet Union–United States relations">Soviet Union</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="padding-left:75px;"><div id="Multilateral_relations" style="font-size:114%;margin:0 4em"><a href="/wiki/Multilateralism" title="Multilateralism">Multilateral</a> relations</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arab%E2%80%93American_relations" title="Arab–American relations">Arab League</a></li>
+<li><a href="/wiki/United_States%E2%80%93European_Union_relations" title="United States–European Union relations">European Union</a></li>
+<li><a href="/wiki/Latin_America%E2%80%93United_States_relations" title="Latin America–United States relations">Latin America</a></li>
+<li><a href="/wiki/United_States_and_the_United_Nations" title="United States and the United Nations">United Nations</a></li>
+<li><a href="/wiki/Third_Border_Initiative" title="Third Border Initiative">Third Border Initiative</a></li>
+<li><a href="/wiki/International_organization_membership_of_the_United_States" title="International organization membership of the United States">International organizations</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible uncollapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="padding-left:75px;"><div id="Doctrines,_policies,_concepts" style="font-size:114%;margin:0 4em">Doctrines, <a href="/wiki/Foreign_policy_of_the_United_States" title="Foreign policy of the United States">policies</a>, concepts</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_States_presidential_doctrines" title="United States presidential doctrines">Presidential<br />doctrines</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proclamation_of_Neutrality" title="Proclamation of Neutrality">Proclamation of Neutrality</a></li>
+<li><a href="/wiki/Monroe_Doctrine" title="Monroe Doctrine">Monroe</a></li>
+<li><a href="/wiki/Roosevelt_Corollary" title="Roosevelt Corollary">Roosevelt Corollary</a></li>
+<li><a href="/wiki/Good_Neighbor_policy" title="Good Neighbor policy">Good Neighbor policy</a></li>
+<li><a href="/wiki/Truman_Doctrine" title="Truman Doctrine">Truman</a></li>
+<li><a href="/wiki/Eisenhower_Doctrine" title="Eisenhower Doctrine">Eisenhower</a></li>
+<li><a class="mw-selflink selflink">Kennedy</a></li>
+<li><a href="/wiki/Johnson_Doctrine" title="Johnson Doctrine">Johnson</a></li>
+<li><a href="/wiki/Nixon_Doctrine" title="Nixon Doctrine">Nixon</a></li>
+<li><a href="/wiki/Carter_Doctrine" title="Carter Doctrine">Carter</a></li>
+<li><a href="/wiki/Reagan_Doctrine" title="Reagan Doctrine">Reagan</a></li>
+<li><a href="/wiki/Clinton_Doctrine" title="Clinton Doctrine">Clinton</a></li>
+<li><a href="/wiki/Bush_Doctrine" title="Bush Doctrine">Bush</a></li>
+<li><a href="/wiki/Obama_Doctrine" title="Obama Doctrine">Obama</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other doctrines</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lodge_Corollary" title="Lodge Corollary">Lodge Corollary</a></li>
+<li><a href="/wiki/Stimson_Doctrine" title="Stimson Doctrine">Stimson</a></li>
+<li><a href="/wiki/Kirkpatrick_Doctrine" title="Kirkpatrick Doctrine">Kirkpatrick</a></li>
+<li><a href="/wiki/Weinberger_Doctrine" title="Weinberger Doctrine">Weinberger</a></li>
+<li><a href="/wiki/Powell_Doctrine" title="Powell Doctrine">Powell</a></li>
+<li><a href="/wiki/Rumsfeld_Doctrine" title="Rumsfeld Doctrine">Rumsfeld</a></li>
+<li><a href="/wiki/Wolfowitz_Doctrine" title="Wolfowitz Doctrine">Wolfowitz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Policies and<br />concepts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blowback_(intelligence)" title="Blowback (intelligence)">Blowback</a></li>
+<li><a href="/wiki/Containment" title="Containment">Containment</a></li>
+<li><a href="/wiki/Domino_theory" title="Domino theory">Domino theory</a></li>
+<li><a href="/wiki/United_States_non-interventionism" title="United States non-interventionism">Non-interventionism</a></li>
+<li><a href="/wiki/Progressive_realism" title="Progressive realism">Progressive realism</a></li>
+<li><a href="/wiki/Rollback" title="Rollback">Rollback</a></li>
+<li><a href="/wiki/Special_Relationship" title="Special Relationship">Special Relationship</a></li>
+<li><a href="/wiki/Taiwan_Relations_Act" title="Taiwan Relations Act">Taiwan Relations Act</a> (<a href="/wiki/Taiwan_Travel_Act" title="Taiwan Travel Act">Taiwan Travel Act</a>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20190916232044
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.324 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 1753/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 284723/2097152 bytes
+Template argument size: 11913/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  248.691      1 -total
+ 33.76%   83.946      3 Template:Ambox
+ 33.72%   83.868      1 Template:Multiple_issues
+ 27.13%   67.461      8 Template:Navbox
+ 18.27%   45.430      1 Template:John_F._Kennedy_series
+ 17.92%   44.559      1 Template:John_F._Kennedy
+ 17.36%   43.180      1 Template:Foreign_relations_of_the_United_States
+ 17.06%   42.426      1 Template:Sidebar/US_President
+ 15.77%   39.229      1 Template:Navbox_with_collapsible_groups
+ 15.07%   37.474      1 Template:Sidebar_person
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1487027-0!canonical and timestamp 20190916232043 and revision id 907884789
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kennedy_Doctrine&amp;oldid=907884789">https://en.wikipedia.org/w/index.php?title=Kennedy_Doctrine&amp;oldid=907884789</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Foreign_policy_doctrines_of_the_United_States" title="Category:Foreign policy doctrines of the United States">Foreign policy doctrines of the United States</a></li><li><a href="/wiki/Category:Presidency_of_John_F._Kennedy" title="Category:Presidency of John F. Kennedy">Presidency of John F. Kennedy</a></li><li><a href="/wiki/Category:History_of_the_foreign_relations_of_the_United_States" title="Category:History of the foreign relations of the United States">History of the foreign relations of the United States</a></li><li><a href="/wiki/Category:1961_in_international_relations" title="Category:1961 in international relations">1961 in international relations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_lacking_focus_from_February_2018" title="Category:Wikipedia articles lacking focus from February 2018">Wikipedia articles lacking focus from February 2018</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_lacking_focus" title="Category:All Wikipedia articles lacking focus">All Wikipedia articles lacking focus</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_February_2018" title="Category:Articles to be expanded from February 2018">Articles to be expanded from February 2018</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kennedy+Doctrine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kennedy+Doctrine" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Kennedy_Doctrine" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Kennedy_Doctrine" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Kennedy_Doctrine">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kennedy_Doctrine" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kennedy_Doctrine" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kennedy_Doctrine&amp;oldid=907884789" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kennedy_Doctrine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2709647" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kennedy_Doctrine&amp;id=907884789" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kennedy+Doctrine">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kennedy+Doctrine&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kennedy_Doctrine&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Doctrina_Kennedy" title="Doctrina Kennedy – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Doctrine_Kennedy" title="Doctrine Kennedy – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Doktrin_Kennedy" title="Doktrin Kennedy – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dottrina_Kennedy" title="Dottrina Kennedy – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Doutrina_Kennedy" title="Doutrina Kennedy – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D1%80%D0%B8%D0%BD%D0%B0_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8" title="Доктрина Кеннеди – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Kennedyho_doktr%C3%ADna" title="Kennedyho doktrína – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kennedy-oppi" title="Kennedy-oppi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kennedy_Doktrini" title="Kennedy Doktrini – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D1%80%D0%B8%D0%BD%D0%B0_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D1%96" title="Доктрина Кеннеді – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2709647#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 July 2019, at 22:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kennedy_Doctrine&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.446","ppvisitednodes":{"value":1753,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":284723,"limit":2097152},"templateargumentsize":{"value":11913,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  248.691      1 -total"," 33.76%   83.946      3 Template:Ambox"," 33.72%   83.868      1 Template:Multiple_issues"," 27.13%   67.461      8 Template:Navbox"," 18.27%   45.430      1 Template:John_F._Kennedy_series"," 17.92%   44.559      1 Template:John_F._Kennedy"," 17.36%   43.180      1 Template:Foreign_relations_of_the_United_States"," 17.06%   42.426      1 Template:Sidebar/US_President"," 15.77%   39.229      1 Template:Navbox_with_collapsible_groups"," 15.07%   37.474      1 Template:Sidebar_person"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":2860503,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190916232044","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kennedy Doctrine","url":"https:\/\/en.wikipedia.org\/wiki\/Kennedy_Doctrine","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2709647","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2709647","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-09T23:04:29Z","dateModified":"2019-07-25T22:49:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/df\/October_23%2C_1962-_President_Kennedy_signs_Proclamation_3504%2C_authorizing_the_naval_quarantine_of_Cuba.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

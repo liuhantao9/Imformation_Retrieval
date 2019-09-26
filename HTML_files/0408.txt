@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ndyuka language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ndyuka_language","wgTitle":"Ndyuka language","wgCurRevisionId":911687970,"wgRevisionId":911687970,"wgArticleId":2062347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","Language articles with old Ethnologue 18 speaker data","All articles with unsourced statements","Articles with unsourced statements from May 2013","Articles with unsourced statements from March 2010","All stub articles","Ndyuka language","Pidgins and creoles","Languages of Suriname","Languages of French Guiana","English-based pidgins and creoles","African-based pidgins and creoles","Languages of the African diaspora","Suriname stubs","Pidgin and creole language stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ndyuka_language","wgRelevantArticleId":2062347,"wgRequestId":"XYqTdgpAMFYAAE679yQAAACP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ndyuka_(language)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,
+"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Ndyuka_language","wgWikibaseItemId":"Q35037","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ndyuka_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ndyuka_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ndyuka_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ndyuka_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ndyuka_language rootpage-Ndyuka_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ndyuka language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Ndyuka_(language)&amp;redirect=no" class="mw-redirect" title="Ndyuka (language)">Ndyuka (language)</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color: tan;">Ndyuka</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color: tan;">Aukan</td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Ndyuka.png" class="image"><img alt="Ndyuka.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ndyuka.png/75px-Ndyuka.png" decoding="async" width="75" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/a/a3/Ndyuka.png 1.5x" data-file-width="106" data-file-height="52" /></a><div><i>Ndyuka</i> written in the <a href="/wiki/Afaka_syllabary" title="Afaka syllabary">Afaka syllabary</a></div></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a>, <a href="/wiki/Aluku" title="Aluku">Aluku</a>, <a href="/wiki/Paramaccan" class="mw-redirect" title="Paramaccan">Paramaccan</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">(34,000 cited 1980–2011)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/English-based_creole_languages" class="mw-redirect" title="English-based creole languages">English Creole</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+Atlantic<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Suriname<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Ndyuka</b></li></ul></li></ul></li></ul></div></td></tr><tr class="plainlist"><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Dialects</th><td style="line-height:1.35em;">
+<ul><li><a href="/wiki/Aluku#Language" title="Aluku">Aluku</a></li></ul>
+</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Writing_system" title="Writing system">Writing system</a></span></div></th><td style="line-height:1.35em;"><a href="/wiki/Afaka_syllabary" title="Afaka syllabary">Afaka syllabary</a>, <a href="/wiki/Latin_script" title="Latin script">Latin script</a></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color: tan;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;"><code><a href="https://iso639-3.sil.org/code/djk" class="extiw" title="iso639-3:djk">djk</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/ndyu1242">ndyu1242</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Linguasphere_Observatory" title="Linguasphere Observatory">Linguasphere</a></th><td style="line-height:1.35em;"><code>52-ABB-ay (varieties: <br />52-ABB-aya to -aye)</code></td></tr></tbody></table>
+<p><b>Ndyuka</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/dʒ/: &#39;j&#39; in &#39;jam&#39;">dʒ</span><span title="/uː/: &#39;oo&#39; in &#39;goose&#39;">uː</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span></span>/</a></span></span>, also called <b>Aukan</b>, <i>Okanisi, Ndyuka tongo</i>, <b>Aukaans</b>, <i>Businenge Tongo</i> (considered by some to be pejorative), <b>Eastern Maroon Creole</b>, or <i>Nenge</i> is a <a href="/wiki/Creole_language" title="Creole language">creole language</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a>, spoken by the <a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka people</a>. The speakers are one of six <a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroon peoples</a> (formerly called "Bush Negroes") in the Republic of <a href="/wiki/Suriname" title="Suriname">Suriname</a> and one of the Maroon peoples in <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>. Most of the 25 to 30 thousand speakers live in the interior of the country, which is a part of the country covered with <a href="/wiki/Tropical_rainforest" title="Tropical rainforest">tropical rainforests</a>. <a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a> lists <a rel="nofollow" class="external text" href="http://www.ethnologue.com/show_family.asp?subid=2806-16">two related languages</a> under the name <i>Ndyuka</i>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Phonology"><span class="tocnumber">1</span> <span class="toctext">Phonology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Orthography"><span class="tocnumber">2</span> <span class="toctext">Orthography</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Dialects"><span class="tocnumber">3</span> <span class="toctext">Dialects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Example"><span class="tocnumber">4</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=1" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ndyuka is based on <a href="/wiki/English_language" title="English language">English</a> vocabulary, with influence from <a href="/wiki/African_languages" class="mw-redirect" title="African languages">African languages</a> in its grammar and sounds. For example, the difference between <i>na</i> ("is") and <i>ná</i> ("isn't") is <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">tone</a>; words can start with consonants such as <i>mb</i> and <i>ng</i>, and some speakers use the consonants <i><a href="/wiki/Voiceless_labial-velar_plosive" class="mw-redirect" title="Voiceless labial-velar plosive">kp</a></i> and <i><a href="/wiki/Voiced_labial-velar_plosive" class="mw-redirect" title="Voiced labial-velar plosive">gb</a></i>. (For other Ndyuka speakers, these are pronounced <i>kw</i> and <i>gw</i>, respectively. For example, the word "to leave" is <i>gwé</i> or <i>gbé</i>, from English "go away".)  There are also influences from  <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> and other languages.
+</p>
+<h2><span class="mw-headline" id="Orthography">Orthography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=2" title="Edit section: Orthography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Modern <a href="/wiki/Orthography" title="Orthography">orthography</a> differs from an older <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>-based orthography in substituting <i>u</i> for <i>oe</i> and <i>y</i> for <i>j</i>. The <a href="/wiki/Digraph_(orthography)" title="Digraph (orthography)">digraphs</a> <i>ty</i> and <i>dy</i> are pronounced somewhat like the English <i><a href="/wiki/Ch_(digraph)" title="Ch (digraph)">ch</a></i> and <i><a href="/wiki/J" title="J">j</a></i>, respectively. Tone is infrequently written, but it is required for words such as <i>ná</i> ("isn't"). The syllabic <a href="/wiki/Afaka_script" class="mw-redirect" title="Afaka script">Afaka script</a> was devised for Ndyuka in 1908.
+</p>
+<h2><span class="mw-headline" id="Dialects">Dialects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=3" title="Edit section: Dialects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Ndyuka language has three dialects: proper Ndyuka (or <i>Okanisi</i>), <a href="/wiki/Aluku_language" class="mw-redirect" title="Aluku language">Aluku</a>, and <a href="/wiki/Paramaccan_language" class="mw-redirect" title="Paramaccan language">Paramaccan</a>, which are ethnically distinct.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2013)">citation needed</span></a></i>&#93;</sup>
+</p><p>Kwinti is distinct enough linguistically to be considered a separate language, but it is sometimes included as well under the name <i>Ndyuka</i>.
+</p><p>Ndyuka was also a basis of the <a href="/wiki/Ndyuka-Tiriy%C3%B3_Pidgin" title="Ndyuka-Tiriyó Pidgin">Ndyuka-Tiriyó Pidgin</a>.
+</p>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=4" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Afaka_letter.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/42/Afaka_letter.png/220px-Afaka_letter.png" decoding="async" width="220" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/42/Afaka_letter.png/330px-Afaka_letter.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/42/Afaka_letter.png/440px-Afaka_letter.png 2x" data-file-width="712" data-file-height="591" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Afaka_letter.png" class="internal" title="Enlarge"></a></div>A Ndyuka letter written in the <a href="/wiki/Afaka_syllabary" title="Afaka syllabary">Afaka syllabary</a></div></div></div>
+<p>Here is an example of Ndyuka text, and its translation into English (showing the similitarities as well as the lexical evolution), adapted from <i>Languages of the Guianas (SIL Publications)</i>:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>En so den be abaa na a líba, dísi wi kai Kawína Líba. Di den abaa de, den abaa teke gwe na opu fu Kawína. En so den be waka langa langa gwe te na Mama Ndyuka ede, pe wi kai Mama Ndyuka.
+</p></blockquote>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047036"/><blockquote class="templatequote"><p>And so they crossed the river, which we call "Kawina [Commewijne] River". Having crossed it, they went way upstream along the Commewijne. Thus they travelled a long, long way, clear to the upper Tapanahony, the place we call "Mama Ndyuka".
+</p></blockquote>
+<p>The language bears some similarity to <a href="/wiki/Twi" title="Twi">Twi</a> and other <a href="/wiki/Akan_languages" class="mw-redirect" title="Akan languages">Akan languages</a> spoken by the <a href="/wiki/Akan_people" title="Akan people">Akan people</a> of Ghana.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroon (people)</a></li>
+<li><a href="/wiki/Afaka_script" class="mw-redirect" title="Afaka script">Afaka script</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/djk/">Ndyuka</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/ndyu1242">"Aukan"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Aukan&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fndyu1242&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANdyuka+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Huttar, George&#160;L.; Huttar, Mary&#160;L. (1994). <i>Ndyuka</i>. Routledge. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-415-05992-3" title="Special:BookSources/978-0-415-05992-3"><bdi>978-0-415-05992-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ndyuka&amp;rft.pub=Routledge&amp;rft.date=1994&amp;rft.isbn=978-0-415-05992-3&amp;rft.aulast=Huttar&amp;rft.aufirst=George+L.&amp;rft.au=Huttar%2C+Mary+L.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANdyuka+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.suriname-languages.sil.org/Aukan/English/AukanEngLLIndex.html">Aukan–English Language Learning Library</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_French_Guiana" title="Template:Languages of French Guiana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_French_Guiana" title="Template talk:Languages of French Guiana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_French_Guiana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_French_Guiana" class="mw-redirect" title="Languages of French Guiana">Languages</a> of <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_language" title="French language">French</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a class="mw-selflink selflink">Aukan</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Emerillon_language" title="Emerillon language">Emerillon</a></li>
+<li><a href="/wiki/French_Guianese_Creole" title="French Guianese Creole">Guianese Creole</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Wayampi_language" title="Wayampi language">Wayampi</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_Sign_Language" title="French Sign Language">French Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Suriname.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/30px-Flag_of_Suriname.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/60px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td><td><i>This <a href="/wiki/Suriname" title="Suriname">Suriname</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ndyuka_language&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-stub" title="Template:Suriname-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-stub" title="Template talk:Suriname-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><i>This <a href="/wiki/Pidgin" title="Pidgin">pidgin</a> and <a href="/wiki/Creole_language" title="Creole language">creole language</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ndyuka_language&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Pidgincreole-lang-stub" title="Template:Pidgincreole-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Pidgincreole-lang-stub" title="Template talk:Pidgincreole-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Pidgincreole-lang-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190924160705
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.348 seconds
+Real time usage: 0.493 seconds
+Preprocessor visited node count: 2630/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46463/2097152 bytes
+Template argument size: 3332/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5844/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  431.849      1 -total
+ 57.27%  247.305      1 Template:Infobox_language
+ 48.04%  207.476      1 Template:Infobox
+ 21.11%   91.174      2 Template:Cite_book
+ 20.76%   89.655      1 Template:Glottolog
+ 10.74%   46.373      2 Template:Citation_needed
+ 10.12%   43.693      1 Template:IPAc-en
+  8.34%   36.013      2 Template:Fix
+  7.74%   33.422      3 Template:Main_other
+  7.73%   33.385      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2062347-0!canonical and timestamp 20190924160704 and revision id 911687970
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ndyuka_language&amp;oldid=911687970">https://en.wikipedia.org/w/index.php?title=Ndyuka_language&amp;oldid=911687970</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ndyuka_language" title="Category:Ndyuka language">Ndyuka language</a></li><li><a href="/wiki/Category:Pidgins_and_creoles" title="Category:Pidgins and creoles">Pidgins and creoles</a></li><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Languages_of_French_Guiana" title="Category:Languages of French Guiana">Languages of French Guiana</a></li><li><a href="/wiki/Category:English-based_pidgins_and_creoles" title="Category:English-based pidgins and creoles">English-based pidgins and creoles</a></li><li><a href="/wiki/Category:African-based_pidgins_and_creoles" title="Category:African-based pidgins and creoles">African-based pidgins and creoles</a></li><li><a href="/wiki/Category:Languages_of_the_African_diaspora" title="Category:Languages of the African diaspora">Languages of the African diaspora</a></li><li><a href="/wiki/Category:Suriname_stubs" title="Category:Suriname stubs">Suriname stubs</a></li><li><a href="/wiki/Category:Pidgin_and_creole_language_stubs" title="Category:Pidgin and creole language stubs">Pidgin and creole language stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Language_articles_with_old_Ethnologue_18_speaker_data" title="Category:Language articles with old Ethnologue 18 speaker data">Language articles with old Ethnologue 18 speaker data</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2013" title="Category:Articles with unsourced statements from May 2013">Articles with unsourced statements from May 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ndyuka+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ndyuka+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ndyuka_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ndyuka_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ndyuka_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ndyuka_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ndyuka_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ndyuka_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ndyuka_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ndyuka_language&amp;oldid=911687970" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ndyuka_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35037" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ndyuka_language&amp;id=911687970" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ndyuka+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ndyuka+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ndyuka_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Ndyuka" title="Ndyuka – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ndyuka" title="Ndyuka – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Aukaans" title="Aukaans – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ndyuka" title="Ndyuka – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ndjuka_(langue)" title="Ndjuka (langue) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%80%EC%A5%AC%EC%B9%B4%EC%96%B4" title="은쥬카어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Basa_Aukaans" title="Basa Aukaans – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ndyuka_(taal)" title="Ndyuka (taal) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_aukan" title="Lenga aukan – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyk_ndyuka" title="Język ndyuka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_ndyuka" title="Língua ndyuka – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B4%D1%8E%D0%BA%D0%B0" title="Ндюка – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q35037#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 August 2019, at 13:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ndyuka_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.348","walltime":"0.493","ppvisitednodes":{"value":2630,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46463,"limit":2097152},"templateargumentsize":{"value":3332,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5844,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  431.849      1 -total"," 57.27%  247.305      1 Template:Infobox_language"," 48.04%  207.476      1 Template:Infobox"," 21.11%   91.174      2 Template:Cite_book"," 20.76%   89.655      1 Template:Glottolog"," 10.74%   46.373      2 Template:Citation_needed"," 10.12%   43.693      1 Template:IPAc-en","  8.34%   36.013      2 Template:Fix","  7.74%   33.422      3 Template:Main_other","  7.73%   33.385      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3816423,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190924160705","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ndyuka language","url":"https:\/\/en.wikipedia.org\/wiki\/Ndyuka_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q35037","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q35037","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-17T13:08:57Z","dateModified":"2019-08-20T13:47:27Z","headline":"creole language of Suriname"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":149,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

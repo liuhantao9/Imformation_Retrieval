@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Surinamese Dutch - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Surinamese_Dutch","wgTitle":"Surinamese Dutch","wgCurRevisionId":915503136,"wgRevisionId":915503136,"wgArticleId":8115689,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from April 2015","All articles lacking in-text citations","Articles needing additional references from April 2015","All articles needing additional references","Articles with multiple maintenance issues","All stub articles","Languages of Suriname","Dutch language","Suriname stubs","Germanic language stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Surinamese_Dutch","wgRelevantArticleId":8115689,"wgRequestId":"XYo7tQpAIDEAAKtnPiAAAACV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q750939","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":
+"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Surinamese_Dutch"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Surinamese_Dutch&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Surinamese_Dutch&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Surinamese_Dutch"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Surinamese_Dutch rootpage-Surinamese_Dutch skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Surinamese Dutch</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Surinamese_Dutch" title="Talk:Surinamese Dutch">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">April 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-One_source plainlinks metadata ambox ambox-content ambox-one_source" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies largely or entirely on a single <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">source</a></b>.<span class="hide-when-compact"> Relevant discussion may be found on the <a href="/wiki/Talk:Surinamese_Dutch##" title="Talk:Surinamese Dutch">talk page</a>. Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;action=edit">improve this article</a> by introducing <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> to additional sources.</span>  <small class="date-container"><i>(<span class="date">April 2015</span>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width: auto;"><tbody><tr><td class="navbox-title" style="padding-top:0.4em;line-height:1.2em">This article is a part of a series on</td></tr><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul><li><a href="/wiki/Languages_of_the_Netherlands" title="Languages of the Netherlands">Languages of the Netherlands</a></li>
+<li><a href="/wiki/Dutch_dialects" title="Dutch dialects">Dutch dialects</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;text-align: left; font-weight: normal">
+<i>Dutch Low Saxon dialects</i></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul><li><a href="/wiki/Tweants_dialect" title="Tweants dialect">Tweants</a></li>
+<li><a href="/wiki/Gronings_dialect" title="Gronings dialect">Gronings</a></li>
+<li><a href="/wiki/Dr%C3%A8ents_dialects" title="Drèents dialects">Drèents</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;text-align: left; font-weight: normal">
+<i>West Low Franconian dialects</i></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul><li><a href="/wiki/West_Flemish" title="West Flemish">West Flemish</a>/<a href="/wiki/French_Flemish" title="French Flemish">French Flemish</a></li>
+<li><a href="/wiki/East_Flemish" title="East Flemish">East Flemish</a></li>
+<li><a href="/wiki/Zeelandic" title="Zeelandic">Zeelandic</a></li>
+<li><a href="/wiki/Hollandic_dialect" title="Hollandic dialect">Hollandic</a></li>
+<li><a href="/wiki/Brabantian_dialect" title="Brabantian dialect">Brabantian</a></li>
+<li><a href="/wiki/South_Guelderish" title="South Guelderish">South Guelderish</a></li>
+<li><a class="mw-selflink selflink">Surinamese Dutch</a></li>
+<li><a href="/wiki/Jersey_Dutch" title="Jersey Dutch">Jersey Dutch</a></li>
+<li><a href="/wiki/Mohawk_Dutch" title="Mohawk Dutch">Mohawk Dutch</a></li>
+<li><a href="/wiki/Stadsfries_dialects" title="Stadsfries dialects">Stadsfries</a></li>
+<li><a href="/wiki/Bildts" title="Bildts">Bildts</a></li>
+<li><a href="/wiki/Meuse-Rhenish" title="Meuse-Rhenish">Meuse-Rhenish</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;text-align: left; font-weight: normal">
+<i>East Low Franconian dialects</i></th></tr><tr><td style="padding:0 0.1em 0.4em;text-align: left;">
+<ul><li><a href="/wiki/Limburgish_language" class="mw-redirect" title="Limburgish language">Limburgish</a></li>
+<li><a href="/wiki/Southeast_Limburgish_dialect" title="Southeast Limburgish dialect">Southeast Limburgish</a></li>
+<li><a href="/wiki/Low_Dietsch_dialects" title="Low Dietsch dialects">Low Dietsch</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Dutch_and_Low_Saxon_dialects" title="Template:Dutch and Low Saxon dialects"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dutch_and_Low_Saxon_dialects" title="Template talk:Dutch and Low Saxon dialects"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Dutch_and_Low_Saxon_dialects&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Surinamese Dutch</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i>Surinaams-Nederlands</i>, <small>Dutch pronunciation:&#32;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Dutch" title="Help:IPA/Dutch">[ˌsyːriˈnaːms ˈneːdərˌlɑnts]</a></span>) is the form of <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> spoken in <a href="/wiki/Suriname" title="Suriname">Suriname</a> and is the official language in Suriname, a former <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> colony. Dutch is spoken as a native language by about 60% of the population, most of them being bilingual with <a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a> (national <i><a href="/wiki/Lingua_franca" title="Lingua franca">lingua franca</a></i>), <a href="/wiki/Caribbean_Hindustani#Sarnami_Hindustani" title="Caribbean Hindustani">Hindustani</a>, <a href="/wiki/Javanese_language#Surinamese-Javanese" title="Javanese language">Javanese</a>, and other languages. Nevertheless, Dutch is the sole official language of the country. Surinamese Dutch is easily intelligible with other forms of Dutch. Furthermore, as opposed to other languages that have different forms in the Americas (e.g., <a href="/wiki/American_English" title="American English">American English</a> vs. <a href="/wiki/British_English" title="British English">British English</a>) the regulation and thus standardised spelling of the Dutch language is done through a joint Dutch-Belgian-Surinamese organization, the <a href="/wiki/Dutch_Language_Union" title="Dutch Language Union">Dutch Language Union</a>, and thus has no regional differences regarding spelling. Suriname has been an associate member of this <a href="/wiki/Dutch_Language_Union" title="Dutch Language Union">Nederlandse Taalunie</a> since 2005. Therefore, many typical Surinamese words were added to the official <a href="/wiki/Wordlist_of_the_Dutch_language" class="mw-redirect" title="Wordlist of the Dutch language">Wordlist of Standard Dutch</a>, known as "the Green Booklet" (<i>Groene Boekje</i>).
+</p><p>Surinamese Dutch is generally easily distinguishable from other standardized forms of Dutch due to many <a href="/wiki/Loanword" title="Loanword">loanwords</a> and phrases adopted from <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">other languages spoken in Suriname</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Phonology"><span class="tocnumber">1</span> <span class="toctext">Phonology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History_of_Surinamese_Dutch"><span class="tocnumber">2</span> <span class="toctext">History of Surinamese Dutch</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Bibliography"><span class="tocnumber">4</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=edit&amp;section=1" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Surinamese Dutch, the voiced fricatives <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/v, z, ɣ/</span> have completely merged with the voiceless <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/f, s, x/</span> into voiceless <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[<a href="/wiki/Voiceless_labiodental_fricative" title="Voiceless labiodental fricative">f</a>, <a href="/wiki/Voiceless_alveolar_sibilant" class="mw-redirect" title="Voiceless alveolar sibilant">s</a>, <a href="/wiki/Voiceless_velar_fricative" title="Voiceless velar fricative">x</a>]</span>.<sup id="cite_ref-FOOTNOTEDe_Schutter2013448,_451_1-0" class="reference"><a href="#cite_note-FOOTNOTEDe_Schutter2013448,_451-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History_of_Surinamese_Dutch">History of Surinamese Dutch</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=edit&amp;section=2" title="Edit section: History of Surinamese Dutch">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dutch was introduced in what is now Suriname when <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a> and its environs became a Dutch colony. The remainder of Suriname, however, remained in <a href="/wiki/British_Empire" title="British Empire">British</a> hands. Only after the Dutch had lost <a href="/wiki/New_Netherland" title="New Netherland">New Netherland</a> (including present-day <a href="/wiki/New_York_City" title="New York City">New York City</a>) to the British did they in exchange receive the rest of Suriname. After this, Dutch became the language of communication between <a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Native Surinamese</a>, <a href="/wiki/Africans" class="mw-redirect" title="Africans">Africans</a> and the Dutch colonial administration. In 1876, the language in addition became official in the <a href="/wiki/Education_in_Suriname" title="Education in Suriname">Surinamese education system</a> whilst new immigrants from <a href="/wiki/British_India" class="mw-redirect" title="British India">British India</a> and <a href="/wiki/Java" title="Java">Java</a> also picked up the language. These immigrants also added features to spoken Dutch that are not present in the original <a href="/wiki/Europe" title="Europe">European</a> variants of Dutch.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-FOOTNOTEDe_Schutter2013448,_451-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDe_Schutter2013448,_451_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDe_Schutter2013">De Schutter (2013)</a>, pp.&#160;448, 451.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=edit&amp;section=4" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite id="CITEREFDe_Schutter2013" class="citation">De Schutter, Georges (2013) [First published 1994], "14 Dutch",  in van der Auwera, Johan; König, Ekkehard (eds.), <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DVBdAgAAQBAJ"><i>The Germanic Languages</i></a>, Routledge, pp.&#160;439–477, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-415-05768-X" title="Special:BookSources/0-415-05768-X"><bdi>0-415-05768-X</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=14+Dutch&amp;rft.btitle=The+Germanic+Languages&amp;rft.pages=439-477&amp;rft.pub=Routledge&amp;rft.date=2013&amp;rft.isbn=0-415-05768-X&amp;rft.aulast=De+Schutter&amp;rft.aufirst=Georges&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDVBdAgAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASurinamese+Dutch" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li></ul>
+</div>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/32px-Flag_of_Suriname.svg.png" decoding="async" width="32" height="21" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/48px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/64px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Suriname" title="Portal:Suriname">Suriname portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Globe_of_letters.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/28px-Globe_of_letters.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/42px-Globe_of_letters.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Globe_of_letters.svg/56px-Globe_of_letters.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Languages" class="mw-redirect" title="Portal:Languages">Languages portal</a></span></li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Germanic_languages" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Germanic_languages" title="Template:Germanic languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Germanic_languages" title="Template talk:Germanic languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Germanic_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Germanic_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Germanic_languages" title="Germanic languages">Germanic languages</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="According_to_contemporary_philology">According to contemporary <a href="/wiki/Germanic_philology" title="Germanic philology">philology</a></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="West_Germanic" style="font-size:114%;margin:0 4em"><a href="/wiki/West_Germanic_languages" title="West Germanic languages">West Germanic</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Anglo-Frisian_languages" title="Anglo-Frisian languages">Anglo-Frisian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Anglic_languages" title="Anglic languages">Anglic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/English_language" title="English language">English</a>
+<ul><li><a href="/wiki/List_of_dialects_of_the_English_language" class="mw-redirect" title="List of dialects of the English language">dialects</a></li>
+<li><i><a href="/wiki/Forth_and_Bargy_dialect" title="Forth and Bargy dialect">Yola</a></i></li>
+<li><i><a href="/wiki/Fingallian" title="Fingallian">Fingallian</a></i></li></ul></li>
+<li><a href="/wiki/Scots_language" title="Scots language">Scots</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Frisian_languages" title="Frisian languages">Frisian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Saterland_Frisian_language" class="mw-redirect" title="Saterland Frisian language">East Frisian</a>
+<ul><li><a href="/wiki/Saterland_Frisian_language" class="mw-redirect" title="Saterland Frisian language">Saterland Frisian</a></li>
+<li><i><a href="/wiki/Wangerooge_Frisian" title="Wangerooge Frisian">Wangerooge Frisian</a></i></li>
+<li><i><a href="/wiki/Wursten_Frisian" title="Wursten Frisian">Wursten Frisian</a></i></li></ul></li>
+<li><a href="/wiki/North_Frisian_language" title="North Frisian language">North Frisian</a>
+<ul><li><a href="/wiki/S%C3%B6l%27ring" class="mw-redirect" title="Söl&#39;ring">Söl'ring</a></li>
+<li><a href="/wiki/Fering" class="mw-redirect" title="Fering">Fering</a></li>
+<li><a href="/wiki/%C3%96%C3%B6mrang" class="mw-redirect" title="Öömrang">Öömrang</a></li>
+<li><a href="/wiki/Heligolandic_dialect" class="mw-redirect" title="Heligolandic dialect">Heligolandic</a></li>
+<li><a href="/wiki/Mooring_(North_Frisian_dialect)" class="mw-redirect" title="Mooring (North Frisian dialect)">Mooring</a></li>
+<li><a href="/wiki/Halligen_Frisian" title="Halligen Frisian">Halligen Frisian</a></li>
+<li><i><a href="/wiki/Strand_Frisian" title="Strand Frisian">Strand Frisian</a></i></li>
+<li><i><a href="/wiki/Eiderstedt_Frisian" title="Eiderstedt Frisian">Eiderstedt Frisian</a></i></li></ul></li>
+<li><a href="/wiki/West_Frisian_language" title="West Frisian language">West Frisian</a>
+<ul><li><a href="/wiki/Clay_Frisian" class="mw-redirect" title="Clay Frisian">Clay Frisian</a></li>
+<li><a href="/wiki/Wood_Frisian" class="mw-redirect" title="Wood Frisian">Wood Frisian</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Low_German" title="Low German">Low German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/West_Low_German" title="West Low German">West Low German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dutch_Low_Saxon" title="Dutch Low Saxon">Dutch Low Saxon</a>
+<ul><li><a href="/wiki/Stellingwarfs" class="mw-redirect" title="Stellingwarfs">Stellingwarfs</a></li>
+<li><a href="/wiki/Tweants" class="mw-redirect" title="Tweants">Tweants</a></li>
+<li><a href="/wiki/Gronings" class="mw-redirect" title="Gronings">Gronings</a></li>
+<li><a href="/wiki/Dr%C3%A8ents" class="mw-redirect" title="Drèents">Drèents</a></li>
+<li>Gelders-Overijssels
+<ul><li><a href="/wiki/Achterhooks" title="Achterhooks">Achterhooks</a></li>
+<li><a href="/wiki/Sallaans" class="mw-redirect" title="Sallaans">Sallaans</a></li>
+<li><a href="/wiki/Urkers" class="mw-redirect" title="Urkers">Urkers</a></li></ul></li>
+<li><a href="/wiki/Veluws" class="mw-redirect" title="Veluws">Veluws</a></li></ul></li>
+<li><a href="/wiki/Northern_Low_Saxon" title="Northern Low Saxon">Northern Low Saxon</a>
+<ul><li><a href="/wiki/East_Frisian_Low_Saxon" title="East Frisian Low Saxon">East Frisian Low Saxon</a></li>
+<li><a href="/wiki/Schleswigsch" class="mw-redirect" title="Schleswigsch">Schleswigsch</a></li>
+<li><a href="/wiki/Holsteinisch" class="mw-redirect" title="Holsteinisch">Holsteinisch</a></li>
+<li><a href="/wiki/Hamburgisch" class="mw-redirect" title="Hamburgisch">Hamburgisch</a></li>
+<li>Ollnborger</li>
+<li>North Hanoveranian</li>
+<li>Dithmarsch</li>
+<li>Emsländisch</li></ul></li>
+<li><a href="/wiki/Westphalian_language" title="Westphalian language">Westphalian</a></li>
+<li><a href="/wiki/Eastphalian_dialect" class="mw-redirect" title="Eastphalian dialect">Eastphalian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/East_Low_German" title="East Low German">East Low German</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mecklenburgisch-Vorpommersch_dialect" title="Mecklenburgisch-Vorpommersch dialect">Mecklenburg-Western Pomeranian</a>
+<ul><li><a href="/wiki/Mecklenburgisch_dialect" title="Mecklenburgisch dialect">Mecklenburgish</a></li>
+<li><a href="/wiki/West_Pomeranian_dialect" title="West Pomeranian dialect">West Pomeranian</a></li></ul></li>
+<li><a href="/wiki/Brandenburgisch_dialect" title="Brandenburgisch dialect">Brandenburgisch</a></li>
+<li><a href="/wiki/East_Pomeranian" class="mw-redirect" title="East Pomeranian">East Pomeranian</a>-West Prussian
+<ul><li>Western East Pomeranian</li>
+<li>Eastern East Pomeranian</li>
+<li>Bublitzisch</li>
+<li>Pommerellisch</li></ul></li>
+<li>Central Pomeranian
+<ul><li>West Central Pomeranian</li></ul></li>
+<li><a href="/wiki/Low_Prussian_dialect" title="Low Prussian dialect">Low Prussian</a>
+<ul><li><a href="/wiki/Plautdietsch" class="mw-redirect" title="Plautdietsch">Mennonite Low German</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Low_Franconian_languages" title="Low Franconian languages">Low Franconian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Standard_language" title="Standard language">Standard variants</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dutch_language" title="Dutch language">Dutch</a></li>
+<li><a href="/wiki/Afrikaans" title="Afrikaans">Afrikaans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/West_Low_Franconian" class="mw-redirect" title="West Low Franconian">West Low Franconian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hollandic_dialect" title="Hollandic dialect">Hollandic</a></li>
+<li><a href="/wiki/West_Flemish" title="West Flemish">West Flemish</a>
+<ul><li><a href="/wiki/French_Flemish" title="French Flemish">French Flemish</a></li></ul></li>
+<li><a href="/wiki/Zeelandic" title="Zeelandic">Zeelandic</a></li>
+<li><a href="/wiki/East_Flemish" title="East Flemish">East Flemish</a></li>
+<li><a href="/wiki/Brabantian" class="mw-redirect" title="Brabantian">Brabantian</a></li>
+<li><a class="mw-selflink selflink">Surinamese Dutch</a></li>
+<li><a href="/wiki/Jersey_Dutch" title="Jersey Dutch">Jersey Dutch</a></li>
+<li><a href="/wiki/Mohawk_Dutch" title="Mohawk Dutch">Mohawk Dutch</a></li>
+<li><a href="/wiki/Stadsfries" class="mw-redirect" title="Stadsfries">Stadsfries</a></li>
+<li><a href="/wiki/Bildts" title="Bildts">Bildts</a></li>
+<li>Yiddish Dutch</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/East_Low_Franconian" class="mw-redirect" title="East Low Franconian">East Low Franconian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Meuse-Rhenish" title="Meuse-Rhenish">Meuse-Rhenish</a>
+<ul><li><a href="/wiki/Limburgish_language" class="mw-redirect" title="Limburgish language">Limburgish</a>
+<ul><li><a href="/wiki/Southeast_Limburgish_dialect" title="Southeast Limburgish dialect">Southeast Limburgish</a></li></ul></li>
+<li><a href="/wiki/South_Guelderish" title="South Guelderish">South Guelderish</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center">Transitional</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Low_Dietsch_dialects" title="Low Dietsch dialects">Low Dietsch</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/High_German_languages" title="High German languages">High German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Standard_language" title="Standard language">Standard variants</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_language" title="German language">German</a>
+<ul><li><a href="/wiki/Namibian_German" class="mw-redirect" title="Namibian German">Namibian German</a>
+<ul><li><a href="/wiki/Namibian_Black_German" title="Namibian Black German">Namibian Black German</a></li></ul></li>
+<li><a href="/wiki/Brazilian_German" title="Brazilian German">Brazilian German</a></li>
+<li><a href="/wiki/Unserdeutsch" title="Unserdeutsch">Unserdeutsch</a></li>
+<li><a href="/wiki/Barossa_German" title="Barossa German">Barossa German</a></li>
+<li><a href="/wiki/Belgranodeutsch" title="Belgranodeutsch">Belgranodeutsch</a></li>
+<li><a href="/wiki/Paran%C3%A1-Wolga-Deutsch" title="Paraná-Wolga-Deutsch">Parana Volga German</a></li>
+<li><a href="/wiki/Kiautschou_Pidgin_German" class="mw-redirect" title="Kiautschou Pidgin German">Kiautschou Pidgin German</a></li></ul></li>
+<li><a href="/wiki/Yiddish" title="Yiddish">Yiddish</a>
+<ul><li>Eastern</li>
+<li>Western</li>
+<li>Litvish</li>
+<li>Poylish</li>
+<li>Ukrainish</li>
+<li>Galitzish</li>
+<li><a href="/wiki/History_of_the_Jews_in_Scotland#&quot;Scots-Yiddish&quot;" title="History of the Jews in Scotland">Scots Yiddish</a></li>
+<li>Alsatian Yiddish</li>
+<li><i><a href="/wiki/Klezmer-loshn" title="Klezmer-loshn">Klezmer-loshn</a></i></li>
+<li>Ganovim</li>
+<li>Balagole</li>
+<li>Katsoves</li>
+<li><a href="/wiki/Lachoudisch" title="Lachoudisch">Lachoudisch</a></li></ul></li>
+<li><a href="/wiki/Yenish_language" title="Yenish language">Yenish</a></li>
+<li><a href="/wiki/Rotwelsch" title="Rotwelsch">Rotwelsch</a>
+<ul><li><a href="/wiki/Lotegorisch" title="Lotegorisch">Lotegorisch</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Central_German" title="Central German">Central German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/West_Central_German" title="West Central German">West Central German</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Central_Franconian" class="mw-redirect" title="Central Franconian">Central Franconian</a>
+<ul><li><a href="/wiki/Ripuarian_language" title="Ripuarian language">Ripuarian</a>
+<ul><li><a href="/wiki/Colognian_dialect" title="Colognian dialect">Colognian</a></li></ul></li>
+<li><a href="/wiki/Moselle_Franconian_dialects" class="mw-redirect" title="Moselle Franconian dialects">Moselle Franconian</a>
+<ul><li><a href="/wiki/Luxembourgish_language" class="mw-redirect" title="Luxembourgish language">Luxembourgish</a></li>
+<li><a href="/wiki/Transylvanian_Saxon_dialect" title="Transylvanian Saxon dialect">Transylvanian Saxon</a></li>
+<li><a href="/wiki/Riograndenser_Hunsr%C3%BCckisch_German" title="Riograndenser Hunsrückisch German">Hunsrückisch</a></li></ul></li></ul></li>
+<li><a href="/wiki/Rhine_Franconian_dialects" class="mw-redirect" title="Rhine Franconian dialects">Rhine Franconian</a>
+<ul><li><a href="/wiki/Lorraine_Franconian" title="Lorraine Franconian">Lorraine Franconian</a></li>
+<li><a href="/wiki/Palatine_German_language" title="Palatine German language">Palatine</a>
+<ul><li><a href="/wiki/Volga_Germans#Language" title="Volga Germans">Volga German</a></li>
+<li><a href="/wiki/Pennsylvania_German_language" title="Pennsylvania German language">Pennsylvania German</a></li></ul></li>
+<li><a href="/wiki/Hessian_dialects" title="Hessian dialects">Hessian</a>
+<ul><li><a href="/wiki/Amana_German" title="Amana German">Amana</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/East_Central_German" title="East Central German">East Central German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Thuringian_dialect" title="Thuringian dialect">Thuringian</a></li>
+<li><a href="/wiki/Upper_Saxon_German" title="Upper Saxon German">Upper Saxon</a></li>
+<li><a href="/wiki/Erzgebirgisch" title="Erzgebirgisch">Ore Mountainian</a></li>
+<li><a href="/wiki/Lausitzisch-neum%C3%A4rkisch_dialects" class="mw-redirect" title="Lausitzisch-neumärkisch dialects">Lusatian-Neumarkish</a>
+<ul><li><a href="/wiki/Berlinerisch_dialect" class="mw-redirect" title="Berlinerisch dialect">Berlinerisch</a></li></ul></li>
+<li><a href="/wiki/Silesian_German" title="Silesian German">Silesian German</a></li>
+<li><a href="/wiki/High_Prussian_dialect" title="High Prussian dialect">High Prussian</a></li>
+<li><a href="/wiki/Wymysorys_language" title="Wymysorys language">Wymysorys</a></li>
+<li><i><a href="/wiki/Prague_German" title="Prague German">Prague German</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/High_Franconian_German" title="High Franconian German">High Franconian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/South_Franconian_German" title="South Franconian German">South Franconian</a></li>
+<li><a href="/wiki/East_Franconian_German" title="East Franconian German">East Franconian</a>
+<ul><li><a href="/wiki/Main-Franconian_dialects" title="Main-Franconian dialects">Main Franconian</a></li>
+<li><a href="/wiki/Vogtl%C3%A4ndisch_dialect" class="mw-redirect" title="Vogtländisch dialect">Vogtlandian</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Upper_German" title="Upper German">Upper German</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alemannic_German" title="Alemannic German">Alemannic</a>
+<ul><li><a href="/wiki/Low_Alemannic_German" title="Low Alemannic German">Low Alemannic</a>
+<ul><li><a href="/wiki/Alsatian_dialect" title="Alsatian dialect">Alsatian</a></li>
+<li><a href="/wiki/Colonia_Tovar_dialect" title="Colonia Tovar dialect">Coloniero</a></li></ul></li>
+<li><a href="/wiki/High_Alemannic_German" title="High Alemannic German">High Alemannic</a>
+<ul><li><a href="/wiki/Swiss_German" title="Swiss German">Swiss German</a></li></ul></li>
+<li><a href="/wiki/Highest_Alemannic_German" title="Highest Alemannic German">Highest Alemannic</a>
+<ul><li><a href="/wiki/Walser_German" title="Walser German">Walser German</a></li></ul></li>
+<li><a href="/wiki/Swabian_German" title="Swabian German">Swabian</a></li></ul></li>
+<li><a href="/wiki/Bavarian_language" title="Bavarian language">Bavarian</a>
+<ul><li><a href="/wiki/Northern_Bavarian" title="Northern Bavarian">Northern Bavarian</a></li>
+<li><a href="/wiki/Central_Bavarian" title="Central Bavarian">Central Bavarian</a>
+<ul><li><a href="/wiki/Viennese_German" title="Viennese German">Viennese German</a></li></ul></li>
+<li><a href="/wiki/Southern_Bavarian" title="Southern Bavarian">Southern Bavarian</a>
+<ul><li><a href="/wiki/South_Tyrolean_dialect" title="South Tyrolean dialect">South Tyrolean</a></li>
+<li><a href="/wiki/Cimbrian_language" title="Cimbrian language">Cimbrian</a></li>
+<li><a href="/wiki/M%C3%B2cheno_language" title="Mòcheno language">Mòcheno</a></li>
+<li><a href="/wiki/Hutterite_German" title="Hutterite German">Hutterite German</a></li></ul></li></ul></li>
+<li><i><a href="/wiki/Lombardic_language" title="Lombardic language">Langobardic</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/Standard_German" title="Standard German">Standard German</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_Standard_German" title="German Standard German">German Standard German</a></li>
+<li><a href="/wiki/Austrian_German" title="Austrian German">Austrian Standard German</a></li>
+<li><a href="/wiki/Swiss_Standard_German" title="Swiss Standard German">Swiss Standard German</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="North_Germanic_and_East_Germanic" style="font-size:114%;margin:0 4em"><a href="/wiki/North_Germanic_languages" title="North Germanic languages">North Germanic</a> and <a href="/wiki/East_Germanic_languages" title="East Germanic languages">East Germanic</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><a href="/wiki/North_Germanic_languages" title="North Germanic languages">North Germanic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center">West Scandinavian</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Norwegian_language" title="Norwegian language">Norwegian</a>
+<ul><li><a href="/wiki/Bokm%C3%A5l" title="Bokmål">Bokmål</a>
+<ul><li><a href="/wiki/Bergensk" title="Bergensk">Bergensk</a></li>
+<li><a href="/wiki/Kebabnorsk" title="Kebabnorsk">Kebabnorsk</a></li>
+<li><a href="/wiki/Sognam%C3%A5l_dialect" title="Sognamål dialect">Sognamål</a></li>
+<li><a href="/wiki/Tr%C3%B8ndersk" title="Trøndersk">Trøndersk</a></li>
+<li><a href="/wiki/Valdris" class="mw-redirect" title="Valdris">Valdris</a></li>
+<li><a href="/wiki/Vestlandsk" title="Vestlandsk">Vestlandsk</a></li>
+<li><a href="/wiki/Vikv%C3%A6rsk" title="Vikværsk">Vikværsk</a></li></ul></li>
+<li><a href="/wiki/Nynorsk" title="Nynorsk">Nynorsk</a></li></ul></li>
+<li>Insular Scandinavian
+<ul><li><a href="/wiki/Faroese_language" title="Faroese language">Faroese</a></li>
+<li><a href="/wiki/Icelandic_language" title="Icelandic language">Icelandic</a></li>
+<li><i><a href="/wiki/Greenlandic_Norse" title="Greenlandic Norse">Gronlandsk</a></i></li>
+<li><i><a href="/wiki/Norn_language" title="Norn language">Norn</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center">East Scandinavian</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Swedish_language" title="Swedish language">Swedish</a>
+<ul><li><a href="/wiki/%C3%85land_Swedish" title="Åland Swedish">Åland</a></li>
+<li><a href="/wiki/Estonian_Swedish" title="Estonian Swedish">Estonian</a></li>
+<li><a href="/wiki/Finland_Swedish" title="Finland Swedish">Finlandic</a></li>
+<li><a href="/wiki/Gutnish" title="Gutnish">Gotlandic/Gutnish</a></li>
+<li><a href="/wiki/Jamtlandic_dialects" class="mw-redirect" title="Jamtlandic dialects">Jamtlandic</a></li>
+<li><a href="/wiki/Kalix_dialect" title="Kalix dialect">Kalix</a></li>
+<li><a href="/wiki/Kiruna_dialect" title="Kiruna dialect">Kiruna</a></li>
+<li><a href="/wiki/Lule%C3%A5_dialects" title="Luleå dialects">Luleå</a></li>
+<li><a href="/wiki/Norrland_dialects" title="Norrland dialects">Norrland</a></li>
+<li><a href="/wiki/Swedish_dialects_in_Ostrobothnia" title="Swedish dialects in Ostrobothnia">Ostrobothnian</a></li>
+<li><a href="/wiki/Sm%C3%A5l%C3%A4ndska" title="Småländska">Småländska</a></li>
+<li><a href="/wiki/South_Swedish_dialects" title="South Swedish dialects">South Swedish</a>
+<ul><li><a href="/wiki/Scanian_dialect" title="Scanian dialect">Scanian</a></li></ul></li>
+<li><a href="/wiki/Stockholm_dialects" title="Stockholm dialects">Stockholm</a></li>
+<li><a href="/wiki/Rinkeby_Swedish" title="Rinkeby Swedish">Rinkeby</a></li>
+<li><a href="/wiki/Uppl%C3%A4ndska_dialect" title="Uppländska dialect">Uppländska</a></li>
+<li><a href="/wiki/V%C3%A4stg%C3%B6tska" title="Västgötska">Västgötska</a></li>
+<li><a href="/wiki/Westrobothnian" title="Westrobothnian">Westrobothnian</a></li></ul></li>
+<li><a href="/wiki/Danish_language" title="Danish language">Danish</a>
+<ul><li><a href="/wiki/Bornholmsk_dialect" title="Bornholmsk dialect">Bornholmsk</a></li>
+<li><a href="/wiki/G%C3%B8tudanskt_accent" title="Gøtudanskt accent">Gøtudanskt</a></li>
+<li><a href="/wiki/Insular_Danish" title="Insular Danish">Insular Danish</a></li>
+<li><a href="/wiki/Jutlandic_dialect" title="Jutlandic dialect">Jutlandic</a></li>
+<li><a href="/wiki/South_Jutlandic" title="South Jutlandic">South Jutlandic</a></li>
+<li><a href="/wiki/Perkerdansk" title="Perkerdansk">Perkerdansk</a></li></ul></li>
+<li><a href="/wiki/Dalecarlian_dialects" class="mw-redirect" title="Dalecarlian dialects">Dalecarlian</a>
+<ul><li><a href="/wiki/Elfdalian" title="Elfdalian">Elfdalian</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center"><i><a href="/wiki/East_Germanic_languages" title="East Germanic languages">East Germanic</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Gothic_language" title="Gothic language">Gothic</a></i>
+<ul><li><i><a href="/wiki/Crimean_Gothic" title="Crimean Gothic">Crimean Gothic</a></i></li></ul></li>
+<li><i><a href="/wiki/Burgundians" title="Burgundians">Burgundian</a></i></li>
+<li><i><a href="/wiki/Vandalic" class="mw-redirect" title="Vandalic">Vandalic</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist hlist-separated"><ul><li><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></li><li>Languages between parentheses are <a href="/wiki/Variety_(linguistics)" title="Variety (linguistics)">varieties</a> of the language on their left.</li></ul></div></div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Suriname.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/30px-Flag_of_Suriname.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/60px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td><td><i>This <a href="/wiki/Suriname" title="Suriname">Suriname</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-stub" title="Template:Suriname-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-stub" title="Template talk:Suriname-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Germanic_tribes_(750BC-1AD).png" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Germanic_tribes_%28750BC-1AD%29.png/40px-Germanic_tribes_%28750BC-1AD%29.png" decoding="async" width="40" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Germanic_tribes_%28750BC-1AD%29.png/60px-Germanic_tribes_%28750BC-1AD%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Germanic_tribes_%28750BC-1AD%29.png/80px-Germanic_tribes_%28750BC-1AD%29.png 2x" data-file-width="537" data-file-height="376" /></a></td><td><i>This article about <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic languages</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Germanic-lang-stub" title="Template:Germanic-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Germanic-lang-stub" title="Template talk:Germanic-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Germanic-lang-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20190920210310
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.356 seconds
+Real time usage: 0.497 seconds
+Preprocessor visited node count: 1115/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 150410/2097152 bytes
+Template argument size: 6448/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2831/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  385.869      1 -total
+ 29.85%  115.183      3 Template:Ambox
+ 27.71%  106.931      1 Template:Multiple_issues
+ 23.73%   91.579      1 Template:Citation
+ 14.11%   54.437      9 Template:Navbox
+ 12.07%   46.556      1 Template:Germanic_languages
+ 11.39%   43.950      1 Template:More_footnotes
+ 10.77%   41.555      1 Template:Navbox_with_collapsible_groups
+  5.77%   22.271      1 Template:Languages_of_Suriname
+  5.74%   22.152      1 Template:Refbegin
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8115689-0!canonical and timestamp 20190920210309 and revision id 915503136
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;oldid=915503136">https://en.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;oldid=915503136</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Dutch_language" title="Category:Dutch language">Dutch language</a></li><li><a href="/wiki/Category:Suriname_stubs" title="Category:Suriname stubs">Suriname stubs</a></li><li><a href="/wiki/Category:Germanic_language_stubs" title="Category:Germanic language stubs">Germanic language stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2015" title="Category:Articles lacking in-text citations from April 2015">Articles lacking in-text citations from April 2015</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2015" title="Category:Articles needing additional references from April 2015">Articles needing additional references from April 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Surinamese+Dutch" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Surinamese+Dutch" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Surinamese_Dutch" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Surinamese_Dutch" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Surinamese_Dutch">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Surinamese_Dutch&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Surinamese_Dutch" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Surinamese_Dutch" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Surinamese_Dutch&amp;oldid=915503136" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Surinamese_Dutch&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q750939" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Surinamese_Dutch&amp;id=915503136" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Surinamese+Dutch">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Surinamese+Dutch&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Surinamese_Dutch&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Surinaamsk-Nederl%C3%A2nsk" title="Surinaamsk-Nederlânsk – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Surinaams-Nederlands" title="Surinaams-Nederlands – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_%D0%B2_%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B5" title="Нидерландский язык в Суринаме – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q750939#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 17:02<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Surinamese_Dutch&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.356","walltime":"0.497","ppvisitednodes":{"value":1115,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":150410,"limit":2097152},"templateargumentsize":{"value":6448,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2831,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  385.869      1 -total"," 29.85%  115.183      3 Template:Ambox"," 27.71%  106.931      1 Template:Multiple_issues"," 23.73%   91.579      1 Template:Citation"," 14.11%   54.437      9 Template:Navbox"," 12.07%   46.556      1 Template:Germanic_languages"," 11.39%   43.950      1 Template:More_footnotes"," 10.77%   41.555      1 Template:Navbox_with_collapsible_groups","  5.77%   22.271      1 Template:Languages_of_Suriname","  5.74%   22.152      1 Template:Refbegin"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":4841954,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20190920210310","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Surinamese Dutch","url":"https:\/\/en.wikipedia.org\/wiki\/Surinamese_Dutch","sameAs":"http:\/\/www.wikidata.org\/entity\/Q750939","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q750939","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-25T16:41:28Z","dateModified":"2019-09-13T17:02:50Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1328"});});</script>
+</body>
+</html>

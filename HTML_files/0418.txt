@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lelydorp - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lelydorp","wgTitle":"Lelydorp","wgCurRevisionId":886767530,"wgRevisionId":886767530,"wgArticleId":3947940,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Commons category link is on Wikidata","Resorts of Suriname","Populated places in Wanica District","Lelydorp"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lelydorp",
+"wgRelevantArticleId":3947940,"wgRequestId":"XYrUPApAMFwAAGX16DUAAADJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":5.7,"lon":-55.233333333333334},"wgWikibaseItemId":"Q935545","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
+"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lelydorp2010.jpg/1200px-Lelydorp2010.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lelydorp"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lelydorp&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lelydorp&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lelydorp"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lelydorp rootpage-Lelydorp skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lelydorp</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Resort and town in Wanica District, Suriname</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Lelydorp</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname">Resort</a> and town</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Lelydorp2010.jpg" class="image"><img alt="Lelydorp2010.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lelydorp2010.jpg/250px-Lelydorp2010.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lelydorp2010.jpg/375px-Lelydorp2010.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Lelydorp2010.jpg/500px-Lelydorp2010.jpg 2x" data-file-width="4000" data-file-height="3000" /></a></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Wanica_resorts.png" class="image" title="Map showing resorts in Wanica District"><img alt="Map showing resorts in Wanica District" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanica_resorts.png/250px-Wanica_resorts.png" decoding="async" width="250" height="193" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanica_resorts.png/375px-Wanica_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Wanica_resorts.png/500px-Wanica_resorts.png 2x" data-file-width="1056" data-file-height="816" /></a><div style="padding:0.3em 0 0 0;">Map showing resorts in <a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:300px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:300px;padding:0"><div style="position:relative;width:300px"><a href="/wiki/File:Suriname_location_map.svg" class="image" title="Lelydorp is located in Suriname"><img alt="Lelydorp is located in Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/300px-Suriname_location_map.svg.png" decoding="async" width="300" height="306" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/450px-Suriname_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/600px-Suriname_location_map.svg.png 2x" data-file-width="1181" data-file-height="1205" /></a><div style="position:absolute;top:13.693%;left:67.333%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Lelydorp" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Lelydorp" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:4px;left:-3em;text-align:center"><div style="display:inline;padding:1px">Lelydorp</div></div></div></div><div>Map showing resorts in <a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lelydorp&amp;params=5_42_06_N_55_14_00_W_region:SR_type:city(19910)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°42′06″N</span> <span class="longitude">55°14′00″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.70167°N 55.23333°W</span><span style="display:none">&#xfeff; / <span class="geo">5.70167; -55.23333</span></span></span></a></span></td></tr><tr class="mergedtoprow"><th scope="row">Country</th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">District</a></th><td><a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>149&#160;km<sup>2</sup> (58&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>9&#160;m (30&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2012)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>19,910</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>130/km<sup>2</sup> (350/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC-3" class="mw-redirect" title="UTC-3">UTC-3</a> (AST)</td></tr></tbody></table>
+<p><b>Lelydorp</b> is the capital city of <a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a>, located in <a href="/wiki/Suriname" title="Suriname">Suriname</a>. With a population of 18,663 (2012), it is the second largest city in <a href="/wiki/Suriname" title="Suriname">Suriname</a>, after <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It is located at around <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lelydorp&amp;params=5_42_N_55_14_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°42′N</span> <span class="longitude">55°14′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.700°N 55.233°W</span><span style="display:none">&#xfeff; / <span class="geo">5.700; -55.233</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Lelydorp&amp;params=5_42_N_55_14_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°42′N</span> <span class="longitude">55°14′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.700°N 55.233°W</span><span style="display:none">&#xfeff; / <span class="geo">5.700; -55.233</span></span></span></a></span></span></span>.
+</p><p>It was originally called <i>Kofi Djompo</i> but was renamed by <a href="/wiki/Cornelis_Lely" title="Cornelis Lely">Cornelis Lely</a> (the <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> <a href="/wiki/List_of_colonial_heads_of_Suriname_(Netherlands_Guiana)" class="mw-redirect" title="List of colonial heads of Suriname (Netherlands Guiana)">governor</a> of Suriname in 1905) and since then it is known as <i>Lelydorp</i>. Lely was responsible for many large water construction projects in the Netherlands.
+</p><p>The original name <i>Kofi Djompo</i> is said to refer to a <a href="/wiki/Maroon_(people)" title="Maroon (people)">maroon</a> rebel leader called Kofi, who was captured by the Dutch and then decapitated. The Dutch took his head on a boat and attached it to a stick as a warning to the other slaves who had escaped and were wandering in the forest. It is said that when the boat reached the middle of the river, the head of Kofi jumped out the boat and disappeared. Kofi means "born on Friday" (<a href="/wiki/Kofi_Annan" title="Kofi Annan">Kofi Annan</a>, for example, was born on a Friday). Djompo means "jump". 
+</p><p>Lelydorp is more like a big village instead of a city. <a href="/wiki/Wanica" class="mw-redirect" title="Wanica">Wanica</a> has a population of about 80,000 and an area of about 440&#160;km². With a population of this size, Wanica is one of Suriname's most populated and most urbanised districts. Wanica is divided into resorts: De Nieuwe Grond, Domburg, Houttuin, Koewarasan, Kwatta, Lelydorp, Saramacca Polder. In the 1950s, a test was made in Lelydorp with a medical center that also had to function as mini-hospital. 
+</p><p>Lelydorp is also the most important halfway stopping point between Paramaribo and Zanderij, where the <a href="/wiki/Johan_Adolf_Pengel_Airport" class="mw-redirect" title="Johan Adolf Pengel Airport">Johan Adolf Pengel Airport</a> is located. Its population consists of a mixture of <a href="/wiki/Javanese_people" title="Javanese people">Javanese</a>, <a href="/wiki/Indian_people" title="Indian people">East Indian</a>, <a href="/wiki/Surinamese_Creole_people" class="mw-redirect" title="Surinamese Creole people">Creoles</a>, <a href="/wiki/Europeans" class="mw-redirect" title="Europeans">Europeans</a> and <a href="/wiki/Portuguese_Jews" class="mw-redirect" title="Portuguese Jews">Portuguese Jews</a>. Names of roads and streets in Lelydorp, like Dessa <a rel="nofollow" class="external text" href="http://www.indexmundi.com/zp/id/42360.htm">Sidodadi</a> and Tawajari, are typical original names from <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>. The small river known as "Tawajari Creek" divides Lelydorp from <a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca</a>.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 285px"><div style="width: 285px">
+			<div class="thumb" style="width: 280px;"><div style="margin:15px auto;"><a href="/wiki/File:Lelydorpmonument.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lelydorpmonument.jpg/67px-Lelydorpmonument.jpg" decoding="async" width="67" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lelydorpmonument.jpg/101px-Lelydorpmonument.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Lelydorpmonument.jpg/135px-Lelydorpmonument.jpg 2x" data-file-width="2988" data-file-height="5312" /></a></div></div>
+			<div class="gallerytext">
+<p>A monument in Lelydorp
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lelydorp&amp;action=edit&amp;section=1" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110718113912/http://world-gazetteer.com/wg.php?x=&amp;men=gcis&amp;lng=en&amp;dat=32&amp;geo=-199&amp;srt=n2pn&amp;col=ohq">"World Gazetteer/ Suriname"</a>. Archived from <a rel="nofollow" class="external text" href="http://world-gazetteer.com/wg.php?x=&amp;men=gcis&amp;lng=en&amp;dat=32&amp;geo=-199&amp;srt=n2pn&amp;col=ohq">the original</a> on 2011-07-18.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+Gazetteer%2F+Suriname&amp;rft_id=http%3A%2F%2Fworld-gazetteer.com%2Fwg.php%3Fx%3D%26men%3Dgcis%26lng%3Den%26dat%3D32%26geo%3D-199%26srt%3Dn2pn%26col%3Dohq&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALelydorp" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<p><br />
+</p>
+<table role="presentation" class="mbox-small-left plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Lelydorp" class="extiw" title="commons:Category:Lelydorp">Lelydorp</a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#228B22;color:#FFFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Resorts_of_Suriname" title="Template:Resorts of Suriname"><abbr title="View this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Resorts_of_Suriname" title="Template talk:Resorts of Suriname"><abbr title="Discuss this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Resorts_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname"><span style="color:#FFFFFF">Districts</span></a>  and   <a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname"><span style="color:#FFFFFF">resorts of Suriname</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Brokopondo_District" title="Brokopondo District">Brokopondo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a></li>
+<li><a href="/wiki/Centrum,_Brokopondo" title="Centrum, Brokopondo">Centrum</a></li>
+<li><a href="/wiki/Klaaskreek" title="Klaaskreek">Klaaskreek</a></li>
+<li><a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a></li>
+<li><a href="/wiki/Marshallkreek" title="Marshallkreek">Marshallkreek</a></li>
+<li><a href="/wiki/Sarakreek" title="Sarakreek">Sarakreek</a></li></ul>
+</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Suriname_resorts.png" class="image"><img alt="Suriname resorts.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/200px-Suriname_resorts.png" decoding="async" width="200" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/300px-Suriname_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/400px-Suriname_resorts.png 2x" data-file-width="1281" data-file-height="878" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commewijne_District" title="Commewijne District">Commewijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alkmaar,_Suriname" title="Alkmaar, Suriname">Alkmaar</a></li>
+<li><a href="/wiki/Bakkie,_Suriname" title="Bakkie, Suriname">Bakkie</a></li>
+<li><a href="/wiki/Johan_%26_Margaretha" title="Johan &amp; Margaretha">Margaretha</a></li>
+<li><a href="/wiki/Meerzorg" title="Meerzorg">Meerzorg</a></li>
+<li><a href="/wiki/Nieuw_Amsterdam,_Suriname" title="Nieuw Amsterdam, Suriname">Nieuw Amsterdam</a></li>
+<li><a href="/wiki/Tamanredjo" title="Tamanredjo">Tamanredjo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coronie_District" title="Coronie District">Coronie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Johanna_Maria" title="Johanna Maria">Johanna Maria</a></li>
+<li><a href="/wiki/Totness,_Suriname" title="Totness, Suriname">Totness</a></li>
+<li><a href="/wiki/Welgelegen,_Coronie_District" title="Welgelegen, Coronie District">Welgelegen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Marowijne_District" title="Marowijne District">Marowijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a></li>
+<li><a href="/wiki/Galibi,_Suriname" title="Galibi, Suriname">Galibi</a></li>
+<li><a href="/wiki/Moengo" title="Moengo">Moengo</a></li>
+<li><a href="/wiki/Moengotapoe" title="Moengotapoe">Moengotapoe</a></li>
+<li><a href="/wiki/Patamacca" title="Patamacca">Patamacca</a></li>
+<li><a href="/wiki/Wanhatti" title="Wanhatti">Wanhatti</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Groot_Henar" title="Groot Henar">Groot Henar</a></li>
+<li><a href="/wiki/Nieuw_Nickerie" title="Nieuw Nickerie">Nieuw Nickerie</a></li>
+<li><a href="/wiki/Oostelijke_Polders" title="Oostelijke Polders">Oostelijke Polders</a></li>
+<li><a href="/wiki/Wageningen,_Suriname" title="Wageningen, Suriname">Wageningen</a></li>
+<li><a href="/wiki/Westelijke_Polders" title="Westelijke Polders">Westelijke Polders</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Para_District" title="Para District">Para District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bigi_Poika" title="Bigi Poika">Bigi Poika</a></li>
+<li><a href="/wiki/Carolina,_Suriname" title="Carolina, Suriname">Carolina</a></li>
+<li><a href="/wiki/Noord,_Suriname" title="Noord, Suriname">Noord</a></li>
+<li><a href="/wiki/Oost,_Suriname" title="Oost, Suriname">Oost</a></li>
+<li><a href="/wiki/Zuid,_Suriname" title="Zuid, Suriname">Zuid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paramaribo_District" title="Paramaribo District">Paramaribo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beekhuizen" title="Beekhuizen">Beekhuizen</a></li>
+<li><a href="/wiki/Blauwgrond" title="Blauwgrond">Blauwgrond</a></li>
+<li><a href="/wiki/Centrum,_Paramaribo" title="Centrum, Paramaribo">Centrum</a></li>
+<li><a href="/wiki/Flora,_Suriname" title="Flora, Suriname">Flora</a></li>
+<li><a href="/wiki/Latour,_Suriname" title="Latour, Suriname">Latour</a></li>
+<li><a href="/wiki/Livorno,_Suriname" title="Livorno, Suriname">Livorno</a></li>
+<li><a href="/wiki/Munder,_Suriname" title="Munder, Suriname">Munder</a></li>
+<li><a href="/wiki/Pontbuiten" title="Pontbuiten">Pontbuiten</a></li>
+<li><a href="/wiki/Rainville,_Suriname" title="Rainville, Suriname">Rainville</a></li>
+<li><a href="/wiki/Tammenga" title="Tammenga">Tammenga</a></li>
+<li><a href="/wiki/Weg_naar_See" class="mw-redirect" title="Weg naar See">Weg naar See</a></li>
+<li><a href="/wiki/Welgelegen,_Paramaribo_District" title="Welgelegen, Paramaribo District">Welgelegen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Calcutta,_Suriname" title="Calcutta, Suriname">Calcutta</a></li>
+<li><a href="/wiki/Groningen,_Suriname" title="Groningen, Suriname">Groningen</a></li>
+<li><a href="/wiki/Jarikaba" title="Jarikaba">Jarikaba</a></li>
+<li><a href="/wiki/Kampong_Baroe" title="Kampong Baroe">Kampong Baroe</a></li>
+<li><a href="/wiki/Tijgerkreek" title="Tijgerkreek">Tijgerkreek</a></li>
+<li><a href="/wiki/Wayamboweg" title="Wayamboweg">Wayamboweg</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boven_Coppename" title="Boven Coppename">Boven Coppename</a></li>
+<li><a href="/wiki/Boven_Saramacca" title="Boven Saramacca">Boven Saramacca</a></li>
+<li><a href="/wiki/Boven_Suriname" title="Boven Suriname">Boven Suriname</a></li>
+<li><a href="/wiki/Coeroeni" title="Coeroeni">Coeroeni</a></li>
+<li><a href="/wiki/Kabalebo" title="Kabalebo">Kabalebo</a></li>
+<li><a href="/wiki/Tapanahony" title="Tapanahony">Tapanahony</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/De_Nieuwe_Grond" title="De Nieuwe Grond">De Nieuwe Grond</a></li>
+<li><a href="/wiki/Domburg,_Suriname" title="Domburg, Suriname">Domburg</a></li>
+<li><a href="/wiki/Houttuin" title="Houttuin">Houttuin</a></li>
+<li><a href="/wiki/Koewarasan" title="Koewarasan">Koewarasan</a></li>
+<li><a href="/wiki/Kwatta" title="Kwatta">Kwatta</a></li>
+<li><a class="mw-selflink selflink">Lelydorp</a></li>
+<li><a href="/wiki/Saramacca_Polder" title="Saramacca Polder">Saramacca Polder</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20190925024308
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.492 seconds
+Real time usage: 0.680 seconds
+Preprocessor visited node count: 3796/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46020/2097152 bytes
+Template argument size: 6868/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3799/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 4.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  605.419      1 -total
+ 60.72%  367.617      1 Template:Infobox_settlement
+ 42.12%  255.007      1 Template:Infobox
+ 14.22%   86.089      1 Template:Reflist
+ 12.95%   78.413      1 Template:Cite_web
+ 11.34%   68.639      3 Template:Main_other
+  8.84%   53.511      2 Template:Coord
+  8.01%   48.487      1 Template:Commons_category
+  6.56%   39.745      3 Template:Infobox_settlement/metric
+  6.41%   38.789      1 Template:Infobox_settlement/areadisp
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3947940-0!canonical and timestamp 20190925024308 and revision id 886767530
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lelydorp&amp;oldid=886767530">https://en.wikipedia.org/w/index.php?title=Lelydorp&amp;oldid=886767530</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Resorts_of_Suriname" title="Category:Resorts of Suriname">Resorts of Suriname</a></li><li><a href="/wiki/Category:Populated_places_in_Wanica_District" title="Category:Populated places in Wanica District">Populated places in Wanica District</a></li><li><a href="/wiki/Category:Lelydorp" title="Category:Lelydorp">Lelydorp</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lelydorp" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lelydorp" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Lelydorp" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Lelydorp" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Lelydorp">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Lelydorp&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lelydorp&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lelydorp" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lelydorp" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lelydorp&amp;oldid=886767530" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lelydorp&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q935545" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lelydorp&amp;id=886767530" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Lelydorp" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lelydorp">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lelydorp&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lelydorp&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D1%80%D0%BF" title="Лелидорп – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Lelydorp" title="Lelydorp – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D9%84%DB%8C%D8%AF%D9%88%D8%B1%D9%BE" title="للیدورپ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Lelydorp" title="Lelydorp – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A0%90%EB%A6%AC%EB%8F%84%EB%A5%B4%ED%94%84" title="렐리도르프 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Lelidorpas" title="Lelidorpas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D0%B8%D0%B4%D0%BE%D1%80%D0%BF" title="Лелидорп – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Lelydorp" title="Lelydorp – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BB%D1%96%D0%B4%D0%BE%D1%80%D0%BF" title="Лелідорп – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%84%DB%8C%D9%84%DB%8C%DA%88%D8%B1%D8%A7%D9%BE" title="لیلیڈراپ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Lelidorp" title="Lelidorp – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%9B%B7%E5%88%A9%E5%A4%9A%E7%88%BE%E6%99%AE" title="雷利多爾普 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q935545#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 8 March 2019, at 11:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lelydorp&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.680","ppvisitednodes":{"value":3796,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46020,"limit":2097152},"templateargumentsize":{"value":6868,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3799,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  605.419      1 -total"," 60.72%  367.617      1 Template:Infobox_settlement"," 42.12%  255.007      1 Template:Infobox"," 14.22%   86.089      1 Template:Reflist"," 12.95%   78.413      1 Template:Cite_web"," 11.34%   68.639      3 Template:Main_other","  8.84%   53.511      2 Template:Coord","  8.01%   48.487      1 Template:Commons_category","  6.56%   39.745      3 Template:Infobox_settlement/metric","  6.41%   38.789      1 Template:Infobox_settlement/areadisp"]},"scribunto":{"limitreport-timeusage":{"value":"0.189","limit":"10.000"},"limitreport-memusage":{"value":4638724,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20190925024308","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lelydorp","url":"https:\/\/en.wikipedia.org\/wiki\/Lelydorp","sameAs":"http:\/\/www.wikidata.org\/entity\/Q935545","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q935545","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-02-03T19:31:03Z","dateModified":"2019-03-08T11:48:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/Lelydorp2010.jpg","headline":"resort of Suriname"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":831,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

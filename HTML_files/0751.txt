@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Inter-American Commission on Human Rights - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Inter-American_Commission_on_Human_Rights","wgTitle":"Inter-American Commission on Human Rights","wgCurRevisionId":917189120,"wgRevisionId":917189120,"wgArticleId":322281,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2013","Articles needing additional references from September 2013","All articles needing additional references","Intergovernmental human rights organizations","Organization of American States","Quasi-judicial bodies","Human rights in Latin America"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October",
+"November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Inter-American_Commission_on_Human_Rights","wgRelevantArticleId":322281,"wgRequestId":"XYojoApAAEEAAFo0tGkAAABS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1589444","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":
+"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Inter-American_Commission_on_Human_Rights"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Inter-American_Commission_on_Human_Rights"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Inter-American_Commission_on_Human_Rights rootpage-Inter-American_Commission_on_Human_Rights skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Inter-American Commission on Human Rights</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Inter-American Commission on Human Rights</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Logo_of_the_Inter-American_Commission_on_Human_Rights.png" class="image"><img alt="Logo of the Inter-American Commission on Human Rights.png" src="//upload.wikimedia.org/wikipedia/commons/b/b6/Logo_of_the_Inter-American_Commission_on_Human_Rights.png" decoding="async" width="200" height="56" data-file-width="200" data-file-height="56" /></a><div>English abbreviation logo</div></td></tr><tr><th scope="row" style="padding-right:0.6em;">Abbreviation</th><td class="nickname">IACHR</td></tr><tr><th scope="row" style="padding-right:0.6em;">Formation</th><td class="note">1959</td></tr><tr><th scope="row" style="padding-right:0.6em;">Purpose</th><td><a href="/wiki/Human_Rights" class="mw-redirect" title="Human Rights">Human Rights</a> monitoring in the <a href="/wiki/Americas" title="Americas">Americas</a></td></tr><tr><th scope="row" style="padding-right:0.6em;">Location</th><td class="label"><div class="plainlist"><ul><li><a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, U.S.</li></ul></div></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Region served </div></th><td><b><a href="/wiki/Americas" title="Americas">Americas</a></b><br />(<a href="/wiki/American_Convention_on_Human_Rights" title="American Convention on Human Rights">ACHR signatories</a>,<br /><a href="/wiki/Organization_of_American_States" title="Organization of American States">OAS members</a>)</td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Membership  </div></th><td><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>, <a href="/wiki/Barbados" title="Barbados">Barbados</a>, <a href="/wiki/Belize" title="Belize">Belize</a>, <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Chile" title="Chile">Chile</a>, <a href="/wiki/Colombia" title="Colombia">Colombia</a>, <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>, <a href="/wiki/Cuba" title="Cuba">Cuba</a>, <a href="/wiki/Dominica" title="Dominica">Dominica</a>, <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>, <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a>, <a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a>, <a href="/wiki/Grenada" title="Grenada">Grenada</a>, <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>, <a href="/wiki/Guyana" title="Guyana">Guyana</a>, <a href="/wiki/Haiti" title="Haiti">Haiti</a>, <a href="/wiki/Honduras" title="Honduras">Honduras</a>, <a href="/wiki/Jamaica" title="Jamaica">Jamaica</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a>, <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a>, <a href="/wiki/Panama" title="Panama">Panama</a>, <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>, <a href="/wiki/Peru" title="Peru">Peru</a>, <a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a>, <a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a>, <a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/The_Bahamas" title="The Bahamas">The Bahamas</a>, <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>, <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>, <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Executive Secretary</div></th><td><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> <a href="/w/index.php?title=Paulo_Abrao&amp;action=edit&amp;redlink=1" class="new" title="Paulo Abrao (page does not exist)">Paulo Abrao</a></td></tr><tr><th scope="row" style="padding-right:0.6em;"><div style="padding:0.1em 0;line-height:1.2em;">Parent organization</div></th><td><a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a></td></tr><tr><th scope="row" style="padding-right:0.6em;">Website</th><td><a rel="nofollow" class="external text" href="http://www.cidh.org">IACHR</a></td></tr></tbody></table>
+<p>The <b>Inter-American Commission on Human Rights</b> (the <b>IACHR</b> or, in the three other official languages&#160;&#8211;&#32; Spanish, French, and <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>&#160;&#8211;&#32; <b>CIDH</b>, <i>Comisión Interamericana de los Derechos Humanos</i>, <i>Commission Interaméricaine des Droits de l'Homme</i>, <i>Comissão Interamericana de Direitos Humanos</i>) is an autonomous organ of the <a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a> (OAS).
+</p><p>Along with the <a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a>, it is one of the bodies that comprise the inter-American system for the promotion and protection of human rights.
+</p><p>The IACHR is a permanent body, with headquarters in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, United States, and it meets in regular and special sessions several times a year to examine allegations of human rights violations in the hemisphere.
+</p><p>Its <a href="/wiki/Human_rights" title="Human rights">human rights</a> duties stem from three documents:
+</p>
+<ul><li>the <a href="/wiki/OAS_Charter" class="mw-redirect" title="OAS Charter">OAS Charter</a></li>
+<li>the <a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a></li>
+<li>the <a href="/wiki/American_Convention_on_Human_Rights" title="American Convention on Human Rights">American Convention on Human Rights</a></li></ul>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_of_the_Inter-American_human_rights_system"><span class="tocnumber">1</span> <span class="toctext">History of the Inter-American human rights system</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Functions_of_the_Inter-American_Commission"><span class="tocnumber">2</span> <span class="toctext">Functions of the Inter-American Commission</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Rapporteurships_and_units"><span class="tocnumber">3</span> <span class="toctext">Rapporteurships and units</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Petitions"><span class="tocnumber">4</span> <span class="toctext">Petitions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Criticisms"><span class="tocnumber">5</span> <span class="toctext">Criticisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Politicization_and_position_in_debatable_matters"><span class="tocnumber">5.1</span> <span class="toctext">Politicization and position in debatable matters</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Location_of_its_headquarters"><span class="tocnumber">5.2</span> <span class="toctext">Location of its headquarters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Composition"><span class="tocnumber">6</span> <span class="toctext">Composition</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Current_Commissioners"><span class="tocnumber">6.1</span> <span class="toctext">Current Commissioners</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Past_Commissioners"><span class="tocnumber">6.2</span> <span class="toctext">Past Commissioners</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Human_rights_violations_investigated_by_the_Inter-American_Commission"><span class="tocnumber">7</span> <span class="toctext">Human rights violations investigated by the Inter-American Commission</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History_of_the_Inter-American_human_rights_system">History of the Inter-American human rights system</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=1" title="Edit section: History of the Inter-American human rights system">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">September 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The inter-American system for the protection of human rights emerged with the adoption of the <a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a> in April 1948&#160;&#8211;&#32; the  first international human rights instrument of a general nature, predating the <a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a> by more than six months.
+</p><p>The IACHR was created in 1959. It held its first meeting in 1960, and it conducted its first on-site visit to inspect the human rights situation in the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a> in 1961.
+</p><p>A major step in the development of the system was taken in 1965 when the Commission was expressly authorized to examine specific cases of human rights violations. Since that date the IACHR has received thousands of petitions and has processed in excess of 12,000 individual cases.
+</p><p>In 1969, the guiding principles behind the American Declaration were taken, reshaped, and restated in the <a href="/wiki/American_Convention_on_Human_Rights" title="American Convention on Human Rights">American Convention on Human Rights</a>. The Convention defines the human rights that the states parties are required to respect and guarantee, and it also ordered the establishment of the <a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a>. It is currently binding on 24 of the OAS's 35 member states.
+</p>
+<h2><span class="mw-headline" id="Functions_of_the_Inter-American_Commission">Functions of the Inter-American Commission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=2" title="Edit section: Functions of the Inter-American Commission">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">September 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The main task of the IACHR is to promote the observance and defense of human rights in the <a href="/wiki/Americas" title="Americas">Americas</a>.
+</p><p>In pursuit of this mandate it:
+</p>
+<ul><li>Receives, analyzes, and investigates individual petitions alleging violations of specific human rights protected by the American Convention on Human Rights.</li>
+<li>Works to resolve petitions in a collaborative way that is amiable to both parties.</li>
+<li>Monitors the general human rights situation in the OAS's member states and, when necessary, prepares and publishes country-specific human rights reports.</li>
+<li>Conducts on-site visits to examine members' general human rights situation or to investigate specific cases.</li>
+<li>Encourages public awareness about human rights and related issues throughout the <a href="/wiki/Western_Hemisphere" title="Western Hemisphere">hemisphere</a>.</li>
+<li>Holds conferences, seminars, and meetings with governments, NGOs, academic institutions, etc. to inform and raise awareness about issues relating to the inter-American human rights system.</li>
+<li>Issues member states with recommendations that, if adopted, would further the cause of human rights protection.</li>
+<li>Requests that states adopt <a href="/w/index.php?title=Precautionary_measures&amp;action=edit&amp;redlink=1" class="new" title="Precautionary measures (page does not exist)">precautionary measures</a> to prevent serious and irreparable harm to human rights in urgent cases.<sup id="cite_ref-IACHR_precautionary_measures-2012-06_1-0" class="reference"><a href="#cite_note-IACHR_precautionary_measures-2012-06-1">&#91;1&#93;</a></sup></li>
+<li>Refers cases to the Inter-American Court of Human Rights, and litigates those same cases before the Court.</li>
+<li>Asks the Inter-American Court to provide advisory opinions on matters relating to the interpretation of the Convention or other related instruments.</li></ul>
+<h2><span class="mw-headline" id="Rapporteurships_and_units">Rapporteurships and units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=3" title="Edit section: Rapporteurships and units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span id="Special_rapporteur"></span></p><table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">September 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The IACHR has created several rapporteurships, a special rapporteurship and a unit to monitor OAS states' compliance with inter-American human rights treaties in the following areas:
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cidh.org/Migrantes/defaultmigrants.htm">Rapporteurship on Migrant Workers and their Families</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cidh.org/women/Default.eng.htm">Rapporteurship on the Rights of Women</a> (the first rapporteurship created by the IACHR in 1994)</li>
+<li><a rel="nofollow" class="external text" href="http://www.cidh.org/Ninez/default_eng.htm">Rapporteurship on the Rights of the Child</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/indigenous/default.asp">Rapporteurship on the Rights of Indigenous Peoples</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/pdl/default.asp">Rapporteurship on the Rights of Persons Deprived of Liberty</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/afro-descendants/default.asp">Rapporteurship on the Rights of Afro-Descendants and against Racial Discrimination</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/defenders/default.asp">Rapporteurship on Human Rights Defenders</a></li></ul>
+<p>The <a href="/wiki/Special_Rapporteur_for_Freedom_of_Expression" class="mw-redirect" title="Special Rapporteur for Freedom of Expression">Special Rapporteur for Freedom of Expression</a> is the only special rapporteurship of the IACHR, meaning that it has a rapporteur dedicated full-time to the job. The other rapporteurships are in the hands of the commissioners, who have other functions at the IACHR and also their own jobs in their home countries, since their work as commissioners is unpaid.
+</p><p>The <a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/lgtbi/">Unit on the Rights of Lesbian, Gay, Trans, Bisexual, and Intersex Persons</a> was created in 2011.
+</p><p>The IACHR also has a Press and Outreach Office.
+</p>
+<h2><span class="mw-headline" id="Petitions">Petitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=4" title="Edit section: Petitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">September 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The Commission processes petitions lodged with it pursuant to its <a rel="nofollow" class="external text" href="http://www.iachr.org/Basicos/basic16.htm">Rules of Procedure</a>.
+</p><p>Petitions may be filed by NGOs or individuals. Unlike most court filings, petitions are confidential documents and are not made public. Petitions must meet three requirements; domestic remedies must have already been tried and failed (exhaustion), petitions must be filed within six months of the last action taken in a domestic system (timeliness), petitions can not be before another court (duplication of procedure).
+</p><p>Once a petition has been filed, it follows the  following procedure:
+</p>
+<ul><li>Petition is forwarded to the Secretariat and reviewed for completeness; if complete, it is registered and is given a case number. This is where the state is notified of the petition.</li>
+<li>Petition reviewed for admissibility.</li>
+<li>The Commission tries to find a friendly settlement.</li>
+<li>If no settlement is found, then briefs are filed by each side on the merits of the case.</li>
+<li>The Commission then files a report on the merits, known as an Article 50 report from relevant article of the Convention. This is a basically a ruling by the Commission with recommendations on how to solve the conflict. The Article 50 report is sent to the state. This is a confidential report; the petitioner does not get a full copy of this report.</li>
+<li>The state is given two months to comply with the recommendations of the report.</li>
+<li>The petitioner then has one month to file a petition asking for the issue to be sent to the Inter-American Court (only applicable if the State in question has recognized the competence of the Inter-American Court).</li>
+<li>The Commission has three months, from the date the Article 50 report is given to the state, to either publish the Article 50 report or send the case to the Inter-American Court of Human Rights. Alternatively, the Commission can also choose to monitor the situation. The American Convention establishes that if the report is not submitted to the Court within three months it may not be submitted in the future, but if the State asks for more time in order to comply with the recommendations of the Article 50 report, the Commission might grant it on the condition that the State signs a waiver on this requirement.</li></ul>
+<h2><span class="mw-headline" id="Criticisms">Criticisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=5" title="Edit section: Criticisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Politicization_and_position_in_debatable_matters">Politicization and position in debatable matters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=6" title="Edit section: Politicization and position in debatable matters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Commission's performance has not been always welcomed. Among others, <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a> has criticized its politicization. Many others criticize the Commission's stress in some rights instead of some others. These criticisms have given rise to what was called the "Strengthening process of the Commission". This process began in 2011, led by the States belonging to the <a href="/wiki/Bolivarian_Alliance_for_the_Americas" class="mw-redirect" title="Bolivarian Alliance for the Americas">Bolivarian Alliance for the Americas</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Location_of_its_headquarters">Location of its headquarters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=7" title="Edit section: Location of its headquarters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Officers of Ecuador, Argentina, Bolivia, Guatemala, Nicaragua, and Venezuela, supported the motion for moving the Commission's headquarters, which are currently in Washington D.C. These countries suggested moving the IACHR's headquarters to a Member State to the American Convention of Human Rights. Among the suggested countries were Argentina, Costa Rica and Peru.
+</p>
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=8" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The IACHR's ranking officers are its seven <b>commissioners</b>.
+The commissioners are elected by the <a href="/wiki/General_Assembly_of_the_Organization_of_American_States" title="General Assembly of the Organization of American States">OAS General Assembly</a>, for four-year terms, with the possibility of re-election on one occasion, for a maximum period in office of eight years.
+They serve in a personal capacity and are not considered to represent their countries of origin but rather "all the member countries of the Organization" (Art. 35 of the Convention).
+The Convention (Art. 34) says that they must "be persons of high moral character and recognized competence in the field of human rights".
+No two nationals of the same member state may be commissioners simultaneously (Art. 37), and commissioners are required to refrain from participating in the discussion of cases involving their home countries.
+</p>
+<h3><span class="mw-headline" id="Current_Commissioners">Current Commissioners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=9" title="Edit section: Current Commissioners">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table border="1" class="wikitable" style="text-align:left">
+<tbody><tr>
+<th>Name</th>
+<th>State</th>
+<th>Position</th>
+<th>Elected</th>
+<th>Term
+</th></tr>
+<tr>
+<td><a href="/w/index.php?title=Margarette_May_Macaulay&amp;action=edit&amp;redlink=1" class="new" title="Margarette May Macaulay (page does not exist)">Margarette May Macaulay</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://es.wikipedia.org/wiki/Margarette_May_Macaulay" class="extiw" title="es:Margarette May Macaulay">es</a>&#93;</span></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></td>
+<td>President</td>
+<td>2015</td>
+<td>2016–2019
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Esmeralda_Arosemena_de_Troiti%C3%B1o&amp;action=edit&amp;redlink=1" class="new" title="Esmeralda Arosemena de Troitiño (page does not exist)">Esmeralda Arosemena de Troitiño</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/35px-Flag_of_Panama.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/45px-Flag_of_Panama.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Panama" title="Panama">Panama</a></td>
+<td>First Vice-President</td>
+<td>2015</td>
+<td>2016–2019
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Luis_Ernesto_Vargas_Silva&amp;action=edit&amp;redlink=1" class="new" title="Luis Ernesto Vargas Silva (page does not exist)">Luis Ernesto Vargas Silva</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td>Second Vice-President</td>
+<td>2017</td>
+<td>2017–2019
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Francisco_Jos%C3%A9_Eguiguren_Praeli&amp;action=edit&amp;redlink=1" class="new" title="Francisco José Eguiguren Praeli (page does not exist)">Francisco José Eguiguren Praeli </a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td>Commissioner</td>
+<td>2015</td>
+<td>2016–2019
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Joel_Hern%C3%A1ndez_Garc%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Joel Hernández García (page does not exist)">Joel Hernández García</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" />&#160;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td>Commissioner</td>
+<td>2017</td>
+<td>2017–2021
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Antonia_Urrejola_Noguera&amp;action=edit&amp;redlink=1" class="new" title="Antonia Urrejola Noguera (page does not exist)">Antonia Urrejola Noguera</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td>Commissioner</td>
+<td>2017</td>
+<td>2017–2021
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Fl%C3%A1via_Piovesan&amp;action=edit&amp;redlink=1" class="new" title="Flávia Piovesan (page does not exist)">Flávia Piovesan</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td>Commissioner</td>
+<td>2017</td>
+<td>2017–2021
+</td></tr>
+<tr>
+<td colspan="5"><small>Source: <a rel="nofollow" class="external text" href="https://www.oas.org/en/iachr/media_center/PReleases/2018/002.asp">IACHR Starts 2018 with New Composition and Distributes Rapporteurships</a> (10 January 2018). See also: <a rel="nofollow" class="external text" href="https://www.oas.org/en/iachr/mandate/composition.asp">IACHR Composition</a>.</small>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Past_Commissioners">Past Commissioners</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=10" title="Edit section: Past Commissioners">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:OAS.JoseZalaquett.01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/OAS.JoseZalaquett.01.jpg/220px-OAS.JoseZalaquett.01.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/OAS.JoseZalaquett.01.jpg/330px-OAS.JoseZalaquett.01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/OAS.JoseZalaquett.01.jpg/440px-OAS.JoseZalaquett.01.jpg 2x" data-file-width="480" data-file-height="640" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:OAS.JoseZalaquett.01.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Jos%C3%A9_Zalaquett" title="José Zalaquett">José Zalaquett</a>, President 2004</div></div></div>
+<table border="1" class="wikitable" style="text-align:left">
+<tbody><tr>
+<th>Year</th>
+<th>State</th>
+<th>Commissioners</th>
+<th>President <small>(post-2001)</small><br />Chairman<small> (pre-2001)</small>
+</th></tr>
+<tr>
+<td>1960–1963</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/wiki/R%C3%B3mulo_Gallegos" title="Rómulo Gallegos">Rómulo Gallegos</a></td>
+<td>1960
+</td></tr>
+<tr>
+<td>1960–1964</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567" />&#160;</span><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td><a href="/wiki/Reynaldo_Galindo_Pohl" title="Reynaldo Galindo Pohl">Reynaldo Galindo Pohl</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1960–1968</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/35px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/45px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" />&#160;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td>
+<td><a href="/wiki/Gonzalo_Escudero" title="Gonzalo Escudero">Gonzalo Escudero</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1960–1972</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></td>
+<td><a href="/wiki/%C3%81ngela_Acu%C3%B1a_Braun" title="Ángela Acuña Braun">Ángela Acuña de Chacón</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1960–1972</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Durwood_V._Sandifer&amp;action=edit&amp;redlink=1" class="new" title="Durwood V. Sandifer (page does not exist)">Durwood V. Sandifer</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1960–1972</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td><a href="/w/index.php?title=Manuel_Bianchi_Gundi%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="Manuel Bianchi Gundián (page does not exist)">Manuel Bianchi Gundián</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1960–1979</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" />&#160;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td><a href="/w/index.php?title=Gabino_Fraga&amp;action=edit&amp;redlink=1" class="new" title="Gabino Fraga (page does not exist)">Gabino Fraga</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1964–1968</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630" />&#160;</span><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></td>
+<td><a href="/w/index.php?title=Daniel_Hugo_Martins&amp;action=edit&amp;redlink=1" class="new" title="Daniel Hugo Martins (page does not exist)">Daniel Hugo Martins</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1964–1983</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td><a href="/w/index.php?title=Carlos_A._Dunshee_de_Abranches&amp;action=edit&amp;redlink=1" class="new" title="Carlos A. Dunshee de Abranches (page does not exist)">Carlos A. Dunshee de Abranches</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1968–1972</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td><a href="/w/index.php?title=Mario_Alzamora_Valdez&amp;action=edit&amp;redlink=1" class="new" title="Mario Alzamora Valdez (page does not exist)">Mario Alzamora Valdez</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1968–1972</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="945" data-file-height="630" />&#160;</span><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></td>
+<td><a href="/w/index.php?title=Justino_Jim%C3%A9nez_de_Arechega&amp;action=edit&amp;redlink=1" class="new" title="Justino Jiménez de Arechega (page does not exist)">Justino Jiménez de Arechega</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1972–1976</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/w/index.php?title=Genaro_R._Carri%C3%B3&amp;action=edit&amp;redlink=1" class="new" title="Genaro R. Carrió (page does not exist)">Genaro R. Carrió</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1972–1976</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/wiki/Robert_F._Woodward" title="Robert F. Woodward">Robert F. Woodward</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1972–1985</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/wiki/Andr%C3%A9s_Aguilar" class="mw-redirect" title="Andrés Aguilar">Andrés Aguilar</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1976–1979</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/35px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/46px-Flag_of_Guatemala.svg.png 2x" data-file-width="960" data-file-height="600" />&#160;</span><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></td>
+<td><a href="/w/index.php?title=Carlos_Garc%C3%ADa_Bauer&amp;action=edit&amp;redlink=1" class="new" title="Carlos García Bauer (page does not exist)">Carlos García Bauer</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1976–1979</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></td>
+<td><a href="/wiki/Fernando_Volio_Jim%C3%A9nez" title="Fernando Volio Jiménez">Fernando Volio Jiménez</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1976–1983</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Tom_J._Farer&amp;action=edit&amp;redlink=1" class="new" title="Tom J. Farer (page does not exist)">Tom J. Farer</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1976–1978</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td><a href="/w/index.php?title=Jos%C3%A9_Joaqu%C3%ADn_Gori&amp;action=edit&amp;redlink=1" class="new" title="José Joaquín Gori (page does not exist)">José Joaquín Gori</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1978–1987</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td><a href="/w/index.php?title=Marco_Gerardo_Monroy_Cabra&amp;action=edit&amp;redlink=1" class="new" title="Marco Gerardo Monroy Cabra (page does not exist)">Marco Gerardo Monroy Cabra</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1980–1987</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567" />&#160;</span><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td><a href="/w/index.php?title=Franciso_Bertrand_Galindo&amp;action=edit&amp;redlink=1" class="new" title="Franciso Bertrand Galindo (page does not exist)">Franciso Bertrand Galindo</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1980–1985</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/35px-Flag_of_Mexico.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/46px-Flag_of_Mexico.svg.png 2x" data-file-width="980" data-file-height="560" />&#160;</span><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td><a href="/w/index.php?title=C%C3%A9sar_Sep%C3%BAlveda&amp;action=edit&amp;redlink=1" class="new" title="César Sepúlveda (page does not exist)">César Sepúlveda</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1980–1985</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/35px-Flag_of_Costa_Rica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/46px-Flag_of_Costa_Rica.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></td>
+<td><a href="/w/index.php?title=Luis_Demetrio_Tinoco_Castro&amp;action=edit&amp;redlink=1" class="new" title="Luis Demetrio Tinoco Castro (page does not exist)">Luis Demetrio Tinoco Castro</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1984–1988</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=R._Bruce_McColm&amp;action=edit&amp;redlink=1" class="new" title="R. Bruce McColm (page does not exist)">R. Bruce McColm</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1984–1987</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/34px-Flag_of_Bolivia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/44px-Flag_of_Bolivia.svg.png 2x" data-file-width="1100" data-file-height="750" />&#160;</span><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></td>
+<td><a href="/wiki/Luis_Adolfo_Siles_Salinas" title="Luis Adolfo Siles Salinas">Luis Adolfo Siles Salinas</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1984–1991</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td><a href="/w/index.php?title=Gilda_Maciel_Correa_Russomano&amp;action=edit&amp;redlink=1" class="new" title="Gilda Maciel Correa Russomano (page does not exist)">Gilda Maciel Correa Russomano</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1986–1989</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/wiki/Elsa_Kelly" title="Elsa Kelly">Elsa Kelly</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1986–1993</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/w/index.php?title=Marco_Tulio_Bruni-Celli&amp;action=edit&amp;redlink=1" class="new" title="Marco Tulio Bruni-Celli (page does not exist)">Marco Tulio Bruni-Celli</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1986–1993</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/35px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Barbados" title="Barbados">Barbados</a></td>
+<td><a href="/w/index.php?title=Oliver_H._Jackman&amp;action=edit&amp;redlink=1" class="new" title="Oliver H. Jackman (page does not exist)">Oliver H. Jackman</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1988–1991</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=John_Reese_Stevenson&amp;action=edit&amp;redlink=1" class="new" title="John Reese Stevenson (page does not exist)">John Reese Stevenson</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1988–1995</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/35px-Flag_of_Honduras.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/46px-Flag_of_Honduras.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/Honduras" title="Honduras">Honduras</a></td>
+<td><a href="/w/index.php?title=Leo_Valladares_Lanza&amp;action=edit&amp;redlink=1" class="new" title="Leo Valladares Lanza (page does not exist)">Leo Valladares Lanza</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1988–1995</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></td>
+<td><a href="/wiki/Patrick_Lipton_Robinson" title="Patrick Lipton Robinson">Patrick Lipton Robinson</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1990–1997</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/w/index.php?title=%C3%93scar_Luj%C3%A1n_Fappiano&amp;action=edit&amp;redlink=1" class="new" title="Óscar Luján Fappiano (page does not exist)">Óscar Luján Fappiano</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1992–1995</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Michael_Reisman&amp;action=edit&amp;redlink=1" class="new" title="Michael Reisman (page does not exist)">Michael Reisman</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1994–1997</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/35px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/46px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></td>
+<td><a href="/w/index.php?title=John_S._Donaldson&amp;action=edit&amp;redlink=1" class="new" title="John S. Donaldson (page does not exist)">John S. Donaldson</a></td>
+<td>1997
+</td></tr>
+<tr>
+<td>1998–1999</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/35px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Barbados" title="Barbados">Barbados</a></td>
+<td><a href="/w/index.php?title=Sir_Henry_de_Boulay_Forde&amp;action=edit&amp;redlink=1" class="new" title="Sir Henry de Boulay Forde (page does not exist)">Sir Henry de Boulay Forde</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1992–1999</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td><a href="/w/index.php?title=%C3%81lvaro_Tirado_Mej%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Álvaro Tirado Mejía (page does not exist)">Álvaro Tirado Mejía</a></td>
+<td>1995
+</td></tr>
+<tr>
+<td>1996–1999</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/w/index.php?title=Carlos_Ayala_Corao&amp;action=edit&amp;redlink=1" class="new" title="Carlos Ayala Corao (page does not exist)">Carlos Ayala Corao</a></td>
+<td>1998
+</td></tr>
+<tr>
+<td>1996–1999</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/35px-Flag_of_Haiti.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/46px-Flag_of_Haiti.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Haiti" title="Haiti">Haiti</a></td>
+<td><a href="/w/index.php?title=Jean-Joseph_Exum%C3%A9&amp;action=edit&amp;redlink=1" class="new" title="Jean-Joseph Exumé (page does not exist)">Jean-Joseph Exumé</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1994–2001</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td><a href="/wiki/Claudio_Grossman" title="Claudio Grossman">Claudio Grossman</a></td>
+<td>1996<br />2001
+</td></tr>
+<tr>
+<td>1998–2001</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td><a href="/wiki/H%C3%A9lio_Bicudo" title="Hélio Bicudo">Hélio Bicudo</a></td>
+<td>2000
+</td></tr>
+<tr>
+<td>1999–2001</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/35px-Flag_of_Barbados.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/45px-Flag_of_Barbados.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Barbados" title="Barbados">Barbados</a></td>
+<td><a href="/wiki/Peter_Laurie" title="Peter Laurie">Peter Laurie</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2002–2002</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td><a href="/wiki/Diego_Garc%C3%ADa_Say%C3%A1n" title="Diego García Sayán">Diego García Sayán</a></td>
+<td>
+</td></tr>
+<tr>
+<td>1996–2003</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Robert_K._Goldman&amp;action=edit&amp;redlink=1" class="new" title="Robert K. Goldman (page does not exist)">Robert K. Goldman</a></td>
+<td>1999
+</td></tr>
+<tr>
+<td>2000–2003</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/35px-Flag_of_Guatemala.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/46px-Flag_of_Guatemala.svg.png 2x" data-file-width="960" data-file-height="600" />&#160;</span><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></td>
+<td><a href="/w/index.php?title=Marta_Altolaguirre_Larraondo&amp;action=edit&amp;redlink=1" class="new" title="Marta Altolaguirre Larraondo (page does not exist)">Marta Altolaguirre Larraondo</a></td>
+<td>2003
+</td></tr>
+<tr>
+<td>2000–2003</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/wiki/Juan_E._M%C3%A9ndez" title="Juan E. Méndez">Juan E. Méndez</a></td>
+<td>2002
+</td></tr>
+<tr>
+<td>2000–2003</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/35px-Flag_of_Ecuador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/45px-Flag_of_Ecuador.svg.png 2x" data-file-width="1440" data-file-height="960" />&#160;</span><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td>
+<td><a href="/w/index.php?title=Julio_Prado_Vallejo&amp;action=edit&amp;redlink=1" class="new" title="Julio Prado Vallejo (page does not exist)">Julio Prado Vallejo</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2002–2005</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/35px-Flag_of_Peru.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/45px-Flag_of_Peru.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td><a href="/wiki/Susana_Villar%C3%A1n" title="Susana Villarán">Susana Villarán</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2001–2005</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td><a href="/wiki/Jos%C3%A9_Zalaquett" title="José Zalaquett">José Zalaquett</a></td>
+<td>2004
+</td></tr>
+<tr>
+<td>2004–2007</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/35px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/46px-Flag_of_Paraguay.svg.png 2x" data-file-width="1200" data-file-height="660" />&#160;</span><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></td>
+<td><a href="/w/index.php?title=Evelio_Fern%C3%A1ndez_Ar%C3%A9valos&amp;action=edit&amp;redlink=1" class="new" title="Evelio Fernández Arévalos (page does not exist)">Evelio Fernández Arévalos</a></td>
+<td>2006
+</td></tr>
+<tr>
+<td>2004–2007</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/w/index.php?title=Freddy_Guti%C3%A9rrez&amp;action=edit&amp;redlink=1" class="new" title="Freddy Gutiérrez (page does not exist)">Freddy Gutiérrez</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2002–2009</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/35px-Flag_of_Antigua_and_Barbuda.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/45px-Flag_of_Antigua_and_Barbuda.svg.png 2x" data-file-width="690" data-file-height="460" />&#160;</span><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></td>
+<td><a href="/w/index.php?title=Sir_Clare_Kamau_Roberts&amp;action=edit&amp;redlink=1" class="new" title="Sir Clare Kamau Roberts (page does not exist)">Sir Clare Kamau Roberts</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2004–2009</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567" />&#160;</span><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td><a href="/w/index.php?title=Florent%C3%ADn_Mel%C3%A9ndez&amp;action=edit&amp;redlink=1" class="new" title="Florentín Meléndez (page does not exist)">Florentín Meléndez</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2006–2009</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td><a href="/w/index.php?title=V%C3%ADctor_Abramovich&amp;action=edit&amp;redlink=1" class="new" title="Víctor Abramovich (page does not exist)">Víctor Abramovich</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2006–2009</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Paolo_Carozza&amp;action=edit&amp;redlink=1" class="new" title="Paolo Carozza (page does not exist)">Paolo Carozza</a></td>
+<td>2008
+</td></tr>
+<tr>
+<td>2004–2011</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td><a href="/wiki/Paulo_S%C3%A9rgio_Pinheiro" title="Paulo Sérgio Pinheiro">Paulo Sérgio Pinheiro</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2008–2011</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td><a href="/w/index.php?title=Luz_Patricia_Mej%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Luz Patricia Mejía (page does not exist)">Luz Patricia Mejía</a></td>
+<td>2009
+</td></tr>
+<tr>
+<td>2009–2011</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/35px-Flag_of_El_Salvador.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/46px-Flag_of_El_Salvador.svg.png 2x" data-file-width="1005" data-file-height="567" />&#160;</span><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td><a href="/w/index.php?title=Mar%C3%ADa_Silvia_Guill%C3%A9n&amp;action=edit&amp;redlink=1" class="new" title="María Silvia Guillén (page does not exist)">María Silvia Guillén</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2010–2013</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/35px-Flag_of_Colombia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/45px-Flag_of_Colombia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td><a href="/w/index.php?title=Rodrigo_Escobar_Gil&amp;action=edit&amp;redlink=1" class="new" title="Rodrigo Escobar Gil (page does not exist)">Rodrigo Escobar Gil</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2010–2013</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">USA</a></td>
+<td><a href="/w/index.php?title=Dinah_Shelton&amp;action=edit&amp;redlink=1" class="new" title="Dinah Shelton (page does not exist)">Dinah Shelton</a></td>
+<td>
+</td></tr>
+<tr>
+<td>2008–2015</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td><a href="/wiki/Felipe_Gonz%C3%A1lez" title="Felipe González">Felipe González</a></td>
+<td>2010
+</td></tr>
+<tr>
+<td>2012–2015</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/35px-Flag_of_Saint_Lucia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/46px-Flag_of_Saint_Lucia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Saint_Lucia" title="Saint Lucia">Saint Lucia</a> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/35px-Flag_of_Trinidad_and_Tobago.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/46px-Flag_of_Trinidad_and_Tobago.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></td>
+<td><a href="/wiki/Rose-Marie_Belle_Antoine" title="Rose-Marie Belle Antoine">Rose-Marie Belle Antoine</a></td>
+<td>2015
+</td></tr>
+<tr>
+<td>2012–2015</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/35px-Flag_of_Jamaica.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/46px-Flag_of_Jamaica.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></td>
+<td><a href="/wiki/Tracy_Robinson" title="Tracy Robinson">Tracy Robinson</a></td>
+<td>2014
+</td></tr>
+<tr>
+<td>2012–2015</td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png" decoding="async" width="23" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/35px-Flag_of_Paraguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/46px-Flag_of_Paraguay.svg.png 2x" data-file-width="1200" data-file-height="660" />&#160;</span><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></td>
+<td><a href="/w/index.php?title=Rosa_Mar%C3%ADa_Ortiz&amp;action=edit&amp;redlink=1" class="new" title="Rosa María Ortiz (page does not exist)">Rosa María Ortiz</a></td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Human_rights_violations_investigated_by_the_Inter-American_Commission">Human rights violations investigated by the Inter-American Commission</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=11" title="Edit section: Human rights violations investigated by the Inter-American Commission">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Massacre_of_Trujillo" title="Massacre of Trujillo">Massacre of Trujillo</a> (<a href="/wiki/Colombia" title="Colombia">Colombia</a>)</li>
+<li><a href="/wiki/Barrios_Altos_massacre" title="Barrios Altos massacre">Barrios Altos massacre</a> (<a href="/wiki/Peru" title="Peru">Peru</a>)</li>
+<li><a href="/wiki/Lori_Berenson" title="Lori Berenson">Lori Berenson</a> (Peru)</li>
+<li><a href="/wiki/La_Cantuta_massacre" title="La Cantuta massacre">La Cantuta massacre</a> (Peru)</li>
+<li><i><a href="/wiki/Caracazo" title="Caracazo">El Caracazo</a></i> (<a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>)</li>
+<li><a href="/wiki/Japanese_embassy_hostage_crisis" title="Japanese embassy hostage crisis">Japanese embassy hostage crisis</a> (Peru)<sup id="cite_ref-dmi25july_3-0" class="reference"><a href="#cite_note-dmi25july-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/Deaths_in_Ciudad_Ju%C3%A1rez" class="mw-redirect" title="Deaths in Ciudad Juárez">Deaths in Ciudad Juárez</a> (<a href="/wiki/Mexico" title="Mexico">Mexico</a>)</li>
+<li><a href="/wiki/Antoine_Izm%C3%A9ry" title="Antoine Izméry">Antoine Izméry</a> (<a href="/wiki/Haiti" title="Haiti">Haiti</a>)</li>
+<li><a href="/wiki/Plan_de_S%C3%A1nchez_massacre" title="Plan de Sánchez massacre">Plan de Sánchez massacre</a> (<a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>)</li>
+<li><a href="/wiki/Censorship_in_Venezuela" title="Censorship in Venezuela">Censorship in Venezuela</a> (Venezuela)</li>
+<li><a href="/wiki/District_of_Columbia_voting_rights" title="District of Columbia voting rights">District of Columbia voting rights</a> (United States of America) <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>Domestic violence protection in the case of <a href="/wiki/Castle_Rock_v._Gonzales" class="mw-redirect" title="Castle Rock v. Gonzales">Jessica Gonzales</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Extrajudicial_detention" class="mw-redirect" title="Extrajudicial detention">Extrajudicial detention</a> in <a href="/wiki/Guantanamo_Bay_detention_camp" title="Guantanamo Bay detention camp">Guantanamo</a> of <a href="/wiki/Djamel_Ameziane" title="Djamel Ameziane">Djamel Ameziane</a>.<sup id="cite_ref-TheJurist2012-03-31_6-0" class="reference"><a href="#cite_note-TheJurist2012-03-31-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/2014_Iguala_mass_kidnapping" title="2014 Iguala mass kidnapping">2014 Iguala mass kidnapping</a> (Mexico)<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-IACHR_precautionary_measures-2012-06-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-IACHR_precautionary_measures-2012-06_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/decisions/precautionary.asp">"Precautionary Measures"</a>. <a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a>. June 2012. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120805221111/http://www.oas.org/en/iachr/decisions/precautionary.asp">Archived</a> from the original on 5 August 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Precautionary+Measures&amp;rft.pub=Organization+of+American+States&amp;rft.date=2012-06&amp;rft_id=http%3A%2F%2Fwww.oas.org%2Fen%2Fiachr%2Fdecisions%2Fprecautionary.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.ipsnews.net/2013/03/controversial-inter-american-reforms-process-to-continue/">http://www.ipsnews.net/2013/03/controversial-inter-american-reforms-process-to-continue/</a>, and <a rel="nofollow" class="external free" href="http://www.economist.com/node/21556599">http://www.economist.com/node/21556599</a></span>
+</li>
+<li id="cite_note-dmi25july-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dmi25july_3-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://dmilt.com/index.php?option=com_content&amp;view=article&amp;id=3756:peru-new-defense-minister-takes-office&amp;catid=35:latin-america&amp;Itemid=58">"Peru; New Defense Minister takes office"</a>. <i>Defense Market Intelligence</i>. 25 July 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">13 April</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Defense+Market+Intelligence&amp;rft.atitle=Peru%3B+New+Defense+Minister+takes+office&amp;rft.date=2012-07-25&amp;rft_id=http%3A%2F%2Fdmilt.com%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3756%3Aperu-new-defense-minister-takes-office%26catid%3D35%3Alatin-america%26Itemid%3D58&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111001020855/http://www.dcvote.org/pdfs/oas1203w.pdf">"Inter-American Commission on Human Rights (Organization of American States) REPORT Nº 98/03*"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.dcvote.org/pdfs/oas1203w.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 1 October 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Inter-American+Commission+on+Human+Rights+%28Organization+of+American+States%29+REPORT+N%C2%BA+98%2F03%2A&amp;rft_id=http%3A%2F%2Fwww.dcvote.org%2Fpdfs%2Foas1203w.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Malone, Patrick (16 August 2011). <a rel="nofollow" class="external text" href="http://www.chieftain.com/news/local/human-rights-group-questions-court-ruling/article_84180e20-c7d1-11e0-88de-001cc4c002e0.html">"Human rights group questions court ruling"</a>. <i>The Pueblo Chieftain</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Pueblo+Chieftain&amp;rft.atitle=Human+rights+group+questions+court+ruling&amp;rft.date=2011-08-16&amp;rft.aulast=Malone&amp;rft.aufirst=Patrick&amp;rft_id=http%3A%2F%2Fwww.chieftain.com%2Fnews%2Flocal%2Fhuman-rights-group-questions-court-ruling%2Farticle_84180e20-c7d1-11e0-88de-001cc4c002e0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-TheJurist2012-03-31-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-TheJurist2012-03-31_6-0">^</a></b></span> <span class="reference-text">
+<cite class="citation news">Michael Haggerson (31 March 2012). <a rel="nofollow" class="external text" href="http://jurist.org/paperchase/2012/03/human-rights-court-agrees-to-hear-guantanamo-detainee-case.php">"Human rights court agrees to hear Guantanamo detainee case"</a>. <i><a href="/wiki/The_Jurist" class="mw-redirect" title="The Jurist">The Jurist</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120402153328/http://jurist.org/paperchase/2012/03/human-rights-court-agrees-to-hear-guantanamo-detainee-case.php">Archived</a> from the original on 2 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2012</span>. <q>The IACHR will investigate whether the US's failure to transfer Ameziane is in compliance with international human rights law.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Jurist&amp;rft.atitle=Human+rights+court+agrees+to+hear+Guantanamo+detainee+case&amp;rft.date=2012-03-31&amp;rft.au=Michael+Haggerson&amp;rft_id=http%3A%2F%2Fjurist.org%2Fpaperchase%2F2012%2F03%2Fhuman-rights-court-agrees-to-hear-guantanamo-detainee-case.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.amnesty.org/en/latest/news/2015/09/mexico-informe-de-expertos-sobre-ayotzinapa-deja-a-la-luz-incompetencia-gubernamental/">"Mexico: Expert report on Ayotzinapa disappearances highlights government's incompetence"</a>. <i><a href="/wiki/Amnesty_International" title="Amnesty International">Amnesty International</a></i>. 6 September 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2015</span>. <q>A new report by a group of experts from the Inter-American Commission of Human Rights on the investigation of the disappearance of 43 students in Guerrero, Mexico, uncovers the authorities’ utter incompetence and lack of will to find the students and bring those responsible to justice, said Amnesty International.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Amnesty+International&amp;rft.atitle=Mexico%3A+Expert+report+on+Ayotzinapa+disappearances+highlights+government%E2%80%99s+incompetence&amp;rft.date=2015-09-06&amp;rft_id=https%3A%2F%2Fwww.amnesty.org%2Fen%2Flatest%2Fnews%2F2015%2F09%2Fmexico-informe-de-expertos-sobre-ayotzinapa-deja-a-la-luz-incompetencia-gubernamental%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AInter-American+Commission+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www1.umn.edu/humanrts/cases/commissn.htm">IACHR case law</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oas.org/en/iachr/expression/index.asp">OAS Special Rapporteur on Freedom of Expression</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Organization_of_American_States_(OAS)" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Organization_of_American_States" title="Template:Organization of American States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Organization_of_American_States" title="Template talk:Organization of American States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Organization_of_American_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Organization_of_American_States_(OAS)" style="font-size:114%;margin:0 4em"><a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States (OAS)</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Member_states_of_the_Organization_of_American_States" title="Member states of the Organization of American States">Members</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li>
+<li><a href="/wiki/Argentina" title="Argentina">Argentina</a></li>
+<li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li>
+<li><a href="/wiki/Brazil" title="Brazil">Brazil</a></li>
+<li><a href="/wiki/Belize" title="Belize">Belize</a></li>
+<li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li>
+<li><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Canada" title="Canada">Canada</a></li>
+<li><a href="/wiki/Chile" title="Chile">Chile</a></li>
+<li><a href="/wiki/Colombia" title="Colombia">Colombia</a></li>
+<li><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li>
+<li><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></li>
+<li><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></li>
+<li><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></li>
+<li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li>
+<li><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></li>
+<li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li>
+<li><a href="/wiki/Haiti" title="Haiti">Haiti</a></li>
+<li><a href="/wiki/Honduras" title="Honduras">Honduras</a></li>
+<li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li>
+<li><a href="/wiki/Mexico" title="Mexico">Mexico</a></li>
+<li><a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a></li>
+<li><a href="/wiki/Panama" title="Panama">Panama</a></li>
+<li><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></li>
+<li><a href="/wiki/Peru" title="Peru">Peru</a></li>
+<li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li>
+<li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li>
+<li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li>
+<li><a href="/wiki/Suriname" title="Suriname">Suriname</a></li>
+<li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li>
+<li><a href="/wiki/United_States" title="United States">United States</a></li>
+<li><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></li>
+<li><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organization</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Organization_of_American_States_Secretariat_for_Political_Affairs" title="Organization of American States Secretariat for Political Affairs">Secretariat for Political Affairs</a></li>
+<li><a href="/wiki/Organization_of_American_States_Secretariat_for_Multidimensional_Security" title="Organization of American States Secretariat for Multidimensional Security">Secretariat for Multidimensional Security</a></li>
+<li><a href="/wiki/General_Assembly_of_the_Organization_of_American_States" title="General Assembly of the Organization of American States">General Assembly</a></li>
+<li><a href="/wiki/Inter-American_Commission_of_Women" title="Inter-American Commission of Women">Inter-American Commission of Women</a></li>
+<li><a class="mw-selflink selflink">Inter-American Commission on Human Rights</a></li>
+<li><a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a></li>
+<li><a href="/wiki/Pan_American_Union_Building" title="Pan American Union Building">Pan American Union Building</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Politics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charter_of_the_Organization_of_American_States" title="Charter of the Organization of American States">Charter</a></li>
+<li><a href="/wiki/Inter-American_Treaty_of_Reciprocal_Assistance" title="Inter-American Treaty of Reciprocal Assistance">Inter-American Treaty of Reciprocal Assistance</a></li>
+<li><a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a></li>
+<li><a href="/wiki/American_Convention_on_Human_Rights" title="American Convention on Human Rights">American Convention on Human Rights</a></li>
+<li><a href="/wiki/Pan-American_Conference" title="Pan-American Conference">Pan-American Conference</a></li>
+<li><a href="/wiki/Summits_of_the_Americas" title="Summits of the Americas">Summits of the Americas</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Americas" title="Americas">Americas</a></li>
+<li><a href="/wiki/Pan_American_Sports_Organization" class="mw-redirect" title="Pan American Sports Organization">Pan American Sports Organization</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="International_human_rights_organisations_and_institutions" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:International_human_rights_organizations" title="Template:International human rights organizations"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:International_human_rights_organizations" title="Template talk:International human rights organizations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:International_human_rights_organizations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="International_human_rights_organisations_and_institutions" style="font-size:114%;margin:0 4em">International <a href="/wiki/Human_rights" title="Human rights">human rights</a> <a href="/wiki/List_of_human_rights_organisations" title="List of human rights organisations">organisations</a> and <a href="/wiki/National_human_rights_institution" title="National human rights institution">institutions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_rights_group" title="Human rights group">Human rights group</a></li>
+<li><a href="/wiki/Human_rights_commission" title="Human rights commission">Human rights commission</a></li>
+<li><a href="/wiki/National_human_rights_institution" title="National human rights institution">Human rights institutions</a></li>
+<li><a href="/wiki/Truth_and_reconciliation_commission" title="Truth and reconciliation commission">Truth and reconciliation commission</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">International institutions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Committee_on_the_Rights_of_the_Child" title="Committee on the Rights of the Child">Committee on the Rights of the Child</a></li>
+<li><a href="/wiki/Committee_on_the_Rights_of_Persons_with_Disabilities" title="Committee on the Rights of Persons with Disabilities">Committee on the Rights of Persons with Disabilities</a></li>
+<li><a href="/wiki/International_Criminal_Court" title="International Criminal Court">International Criminal Court</a></li>
+<li><a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">Office of the United Nations High Commissioner for Human Rights</a></li>
+<li><a href="/wiki/United_Nations_Human_Rights_Committee" title="United Nations Human Rights Committee">UN Human Rights Committee</a></li>
+<li><a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">UN Human Rights Council</a></li>
+<li><a href="/wiki/United_Nations_Security_Council" title="United Nations Security Council">UN Security Council</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Regional bodies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_Commission_on_Human_and_Peoples%27_Rights" title="African Commission on Human and Peoples&#39; Rights">African Commission on Human and Peoples' Rights</a></li>
+<li><a href="/wiki/African_Court_on_Human_and_Peoples%27_Rights" title="African Court on Human and Peoples&#39; Rights">African Court on Human and Peoples' Rights</a></li>
+<li><a href="/wiki/Court_of_Justice_of_the_African_Union" title="Court of Justice of the African Union">African Court of Justice</a></li>
+<li><a href="/wiki/European_Court_of_Human_Rights" title="European Court of Human Rights">European Court of Human Rights</a></li>
+<li><a href="/wiki/Committee_for_the_Prevention_of_Torture" title="Committee for the Prevention of Torture">European Committee for the Prevention of Torture</a></li>
+<li><a class="mw-selflink selflink">Inter-American Commission on Human Rights</a></li>
+<li><a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Multi-lateral bodies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Union" title="European Union">European Union</a></li>
+<li><a href="/wiki/Council_of_Europe" title="Council of Europe">Council of Europe</a></li>
+<li><a href="/wiki/Organization_of_American_States" title="Organization of American States">Organisation of American States (OAS)</a></li>
+<li><a href="/wiki/United_Nations_High_Commissioner_for_Refugees" title="United Nations High Commissioner for Refugees">UN High Commissioner for Refugees (UNHCR)</a></li>
+<li><a href="/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs" title="United Nations Office for the Coordination of Humanitarian Affairs">UN Office for the Coordination of Humanitarian Affairs (UNOCHA)</a></li>
+<li><a href="/wiki/International_Labour_Organization" title="International Labour Organization">International Labour Organization (ILO)</a></li>
+<li><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization (WHO)</a></li>
+<li><a href="/wiki/UNESCO" title="UNESCO">UN Educational, Scientific and Cultural Organization (UNESCO)</a></li>
+<li><a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">Joint UN Programme on HIV/AIDS (UNAIDS)</a></li>
+<li><a href="/wiki/United_Nations_Department_of_Economic_and_Social_Affairs" title="United Nations Department of Economic and Social Affairs">UN Department of Economic and Social Affairs (UNDESA)</a></li>
+<li><a href="/wiki/United_Nations_Commission_on_the_Status_of_Women" title="United Nations Commission on the Status of Women">Commission on the Status of Women (CSW)</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">UN Population Fund (UNFPA)</a></li>
+<li><a href="/wiki/UNICEF" title="UNICEF">UN Children's Fund (UNICEF)</a></li>
+<li><a href="/wiki/United_Nations_Development_Fund_for_Women" title="United Nations Development Fund for Women">UN Development Fund for Women (UNIFEM)</a></li>
+<li><a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">UN Development Programme (UNDP)</a></li>
+<li><a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization of the UN (FAO)</a></li>
+<li><a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">UN Human Settlements Programme (UN-HABITAT)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Major <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">NGOs</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amnesty_International" title="Amnesty International">Amnesty International</a></li>
+<li><a href="/wiki/International_Federation_for_Human_Rights" title="International Federation for Human Rights">FIDH</a></li>
+<li><a href="/wiki/Human_Rights_Watch" title="Human Rights Watch">Human Rights Watch</a></li>
+<li><a href="/wiki/International_Committee_of_the_Red_Cross" title="International Committee of the Red Cross">International Committee of the Red Cross (ICRC)</a></li>
+<li><a href="/wiki/Emergency_(organization)" title="Emergency (organization)">Emergency NGO</a></li>
+<li><a href="/wiki/Human_Rights_First" title="Human Rights First">Human Rights First</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1293
+Cached time: 20190922174516
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.488 seconds
+Real time usage: 0.704 seconds
+Preprocessor visited node count: 7341/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106795/2097152 bytes
+Template argument size: 9269/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19859/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.128/10.000 seconds
+Lua memory usage: 4.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  523.897      1 -total
+ 23.14%  121.218     71 Template:Flag
+ 21.33%  111.759      1 Template:Infobox_Organization
+ 19.75%  103.491      1 Template:Reflist
+ 18.43%   96.560      1 Template:Infobox
+ 14.01%   73.405      3 Template:Cite_web
+ 10.74%   56.253      4 Template:Unreferenced_section
+  9.58%   50.211      4 Template:Unreferenced
+  8.16%   42.737      4 Template:Ambox
+  8.09%   42.401      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:322281-0!canonical and timestamp 20190922174516 and revision id 917189120
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;oldid=917189120">https://en.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;oldid=917189120</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Intergovernmental_human_rights_organizations" title="Category:Intergovernmental human rights organizations">Intergovernmental human rights organizations</a></li><li><a href="/wiki/Category:Organization_of_American_States" title="Category:Organization of American States">Organization of American States</a></li><li><a href="/wiki/Category:Quasi-judicial_bodies" title="Category:Quasi-judicial bodies">Quasi-judicial bodies</a></li><li><a href="/wiki/Category:Human_rights_in_Latin_America" title="Category:Human rights in Latin America">Human rights in Latin America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2013" title="Category:Articles needing additional references from September 2013">Articles needing additional references from September 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Inter-American+Commission+on+Human+Rights" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Inter-American+Commission+on+Human+Rights" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Inter-American_Commission_on_Human_Rights" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Inter-American_Commission_on_Human_Rights" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Inter-American_Commission_on_Human_Rights">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Inter-American_Commission_on_Human_Rights" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Inter-American_Commission_on_Human_Rights" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;oldid=917189120" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1589444" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Inter-American_Commission_on_Human_Rights&amp;id=917189120" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Comisi%C3%B3n_Interamericana_de_Derechos_Humanos" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Inter-American+Commission+on+Human+Rights">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Inter-American+Commission+on+Human+Rights&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%AC%D9%86%D8%A9_%D8%A7%D9%84%D8%AF%D9%88%D9%84_%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9_%D9%84%D8%AD%D9%82%D9%88%D9%82_%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86" title="لجنة الدول الأمريكية لحقوق الإنسان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Interamerikanische_Kommission_f%C3%BCr_Menschenrechte" title="Interamerikanische Kommission für Menschenrechte – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Comisi%C3%B3n_Interamericana_de_Derechos_Humanos" title="Comisión Interamericana de Derechos Humanos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Commission_interam%C3%A9ricaine_des_droits_de_l%27homme" title="Commission interaméricaine des droits de l&#039;homme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Comisi%C3%B3n_Interamericana_de_Dereitos_Humanos" title="Comisión Interamericana de Dereitos Humanos – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Komisi_Hak_Asasi_Manusia_Antar-Amerika" title="Komisi Hak Asasi Manusia Antar-Amerika – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Comiss%C3%A3o_Interamericana_de_Direitos_Humanos" title="Comissão Interamericana de Direitos Humanos – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B6%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8F_%D0%BF%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%D0%BC_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="Межамериканская комиссия по правам человека – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%E1%BB%A6y_ban_Nh%C3%A2n_quy%E1%BB%81n_li%C3%AAn_M%E1%BB%B9" title="Ủy ban Nhân quyền liên Mỹ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1589444#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 17:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Inter-American_Commission_on_Human_Rights&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.704","ppvisitednodes":{"value":7341,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106795,"limit":2097152},"templateargumentsize":{"value":9269,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19859,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  523.897      1 -total"," 23.14%  121.218     71 Template:Flag"," 21.33%  111.759      1 Template:Infobox_Organization"," 19.75%  103.491      1 Template:Reflist"," 18.43%   96.560      1 Template:Infobox"," 14.01%   73.405      3 Template:Cite_web"," 10.74%   56.253      4 Template:Unreferenced_section","  9.58%   50.211      4 Template:Unreferenced","  8.16%   42.737      4 Template:Ambox","  8.09%   42.401      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.128","limit":"10.000"},"limitreport-memusage":{"value":4474986,"limit":52428800}},"cachereport":{"origin":"mw1293","timestamp":"20190922174516","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Inter-American Commission on Human Rights","url":"https:\/\/en.wikipedia.org\/wiki\/Inter-American_Commission_on_Human_Rights","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1589444","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1589444","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-19T23:28:03Z","dateModified":"2019-09-22T17:45:13Z","headline":"organization"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1270"});});</script>
+</body>
+</html>

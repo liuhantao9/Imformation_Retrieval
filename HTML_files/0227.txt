@@ -1,0 +1,559 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Warao people - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Warao_people","wgTitle":"Warao people","wgCurRevisionId":911136831,"wgRevisionId":911136831,"wgArticleId":3031720,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles using infobox ethnic group with image parameters","Commons category link is on Wikidata","Wikipedia articles with BNF identifiers","Wikipedia articles with LCCN identifiers","Indigenous peoples in Guyana","Indigenous peoples in Venezuela","Indigenous peoples in Suriname","Ethnic groups in Suriname","Indigenous peoples of the Guianas","Indigenous peoples in Trinidad and Tobago"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March",
+"April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Warao_people","wgRelevantArticleId":3031720,"wgRequestId":"XYpJZApAMFYAAIZx@sEAAACS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Warrau","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Warao_people","wgWikibaseItemId":"Q1261048",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/87/A_Warao_family_in_their_canoe.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Warao_people"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Warao_people&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Warao_people&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Warao_people"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Warao_people rootpage-Warao_people skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Warao people</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Warrau&amp;redirect=no" class="mw-redirect" title="Warrau">Warrau</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Warao</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:A_Warao_family_in_their_canoe.jpg" class="image"><img alt="A Warao family in their canoe.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/A_Warao_family_in_their_canoe.jpg/220px-A_Warao_family_in_their_canoe.jpg" decoding="async" width="220" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/A_Warao_family_in_their_canoe.jpg/330px-A_Warao_family_in_their_canoe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/A_Warao_family_in_their_canoe.jpg/440px-A_Warao_family_in_their_canoe.jpg 2x" data-file-width="600" data-file-height="393" /></a><div>A Warao family in their canoe.</div></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Total population</th></tr><tr><td colspan="2" style="text-align:center">36,000 (2011)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Regions with significant populations</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a><br /><a href="/wiki/Guyana" title="Guyana">Guyana</a><br /><a href="/wiki/Suriname" title="Suriname">Suriname</a><br /><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Languages</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Warao_language" title="Warao language">Warao</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Religion</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Native_American_religion" title="Native American religion">Traditional beliefs</a>, <a href="/wiki/Christianity" title="Christianity">Christianity</a></td></tr></tbody></table>
+<p>The <b>Warao</b> are an <a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">indigenous Amerindian people</a> inhabiting northeastern <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>, <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>, <a href="/wiki/Guyana" title="Guyana">Guyana</a>, and <a href="/wiki/Suriname" title="Suriname">Suriname</a>. Alternate common spellings of Warao are Waroa, Guarauno, Guarao, and Warrau. The term <i>Warao</i> translates as "the boat people," after the Warao's lifelong and intimate connection to the water. Most of the approximately 20,000 Warao inhabit Venezuela's <a href="/wiki/Orinoco_Delta" title="Orinoco Delta">Orinoco Delta</a> region, with smaller numbers in neighboring <a href="/wiki/Guyana" title="Guyana">Guyana</a>, <a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a>, and <a href="/wiki/Suriname" title="Suriname">Suriname</a>.
+They speak an <a href="/wiki/Agglutinative" class="mw-redirect" title="Agglutinative">agglutinative</a> language, <a href="/wiki/Warao_language" title="Warao language">Warao</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Lifestyle"><span class="tocnumber">1</span> <span class="toctext">Lifestyle</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Dwellings"><span class="tocnumber">1.1</span> <span class="toctext">Dwellings</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Transportation"><span class="tocnumber">1.2</span> <span class="toctext">Transportation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Diet"><span class="tocnumber">1.3</span> <span class="toctext">Diet</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Religion"><span class="tocnumber">1.4</span> <span class="toctext">Religion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#First_contact_with_Europeans"><span class="tocnumber">2</span> <span class="toctext">First contact with Europeans</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Contemporary_issues"><span class="tocnumber">3</span> <span class="toctext">Contemporary issues</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Film_treatment"><span class="tocnumber">4</span> <span class="toctext">Film treatment</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Tourism"><span class="tocnumber">5</span> <span class="toctext">Tourism</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Crime"><span class="tocnumber">6</span> <span class="toctext">Crime</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Lifestyle">Lifestyle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=1" title="Edit section: Lifestyle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Dwellings">Dwellings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=2" title="Edit section: Dwellings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On the wide Orinoco River and its fertile delta composed of islands and marshes, Warao people inhabit wall-less thatched-roof huts built upon stilts for protection against <a href="/wiki/Flood" title="Flood">floods</a>. These houses are usually built on the highest ground to avoid the annual floods. Sometimes a group of houses is built upon a single large platform of trees. The huts each possess a clay cooking pit or oven located in the center, with sleeping hammocks encircling it. Besides the hammocks, the only other furniture sometimes present are wooden stools, sometimes carved in the shapes of animals.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Or5.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Or5.jpg/120px-Or5.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Or5.jpg/180px-Or5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Or5.jpg/240px-Or5.jpg 2x" data-file-width="1691" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical opensided hut on stilts.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37.5px auto;"><a href="/wiki/File:Or4.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Or4.jpg/120px-Or4.jpg" decoding="async" width="120" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Or4.jpg/180px-Or4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Or4.jpg/240px-Or4.jpg 2x" data-file-width="1716" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical opensided hut on stilts.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37.5px auto;"><a href="/wiki/File:Or7.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Or7.jpg/120px-Or7.jpg" decoding="async" width="120" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Or7.jpg/180px-Or7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Or7.jpg/240px-Or7.jpg 2x" data-file-width="1703" data-file-height="1067" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical opensided hut on stilts.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37.5px auto;"><a href="/wiki/File:Or9.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Or9.jpg/120px-Or9.jpg" decoding="async" width="120" height="75" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Or9.jpg/180px-Or9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Or9.jpg/240px-Or9.jpg 2x" data-file-width="1709" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical opensided hut on stilts.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Or11.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Or11.jpg/120px-Or11.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Or11.jpg/180px-Or11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Or11.jpg/240px-Or11.jpg 2x" data-file-width="1691" data-file-height="1067" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical opensided hut on stilts.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:38px auto;"><a href="/wiki/File:Orin2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Orin2.jpg/120px-Orin2.jpg" decoding="async" width="120" height="74" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Orin2.jpg/180px-Orin2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Orin2.jpg/240px-Orin2.jpg 2x" data-file-width="1733" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical Warao canoe
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Orin3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Orin3.jpg/120px-Orin3.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Orin3.jpg/180px-Orin3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Orin3.jpg/240px-Orin3.jpg 2x" data-file-width="1691" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical Warao village.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Orcanomanamo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Orcanomanamo.jpg/120px-Orcanomanamo.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Orcanomanamo.jpg/180px-Orcanomanamo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Orcanomanamo.jpg/240px-Orcanomanamo.jpg 2x" data-file-width="1698" data-file-height="1074" /></a></div></div>
+			<div class="gallerytext">
+<p>Caño Manamo. One of the major branches of the Orinoco river delta.
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Transportation">Transportation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=3" title="Edit section: Transportation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Warao use canoes as their main form of transportation. Other modes, such as walking, are hampered by the hundreds of streams, rivulets, marshes, and high waters created by the Orinoco. Warao babies, toddlers, and small children are famed for their ability to hold tight to their mothers' necks, as well as to paddle. They often learn to swim before they learn to walk.
+</p><p>The Warao use two types of canoes. <i>Bongos</i>, which carry up to 5 people, are built in an arduous process that starts with the search for large trees. When an old <i>bongo</i> is no longer usable, a consensus is reached by the male leaders of each household on which tree is best. At the start of the dry season, they find the tree and kill it. At the end of the dry season, they return to cut it down. It is then hollowed out and flattened with stone tools traded from the mountains (or local <a href="/wiki/Seashell" title="Seashell">shell</a> tools) along with fire.
+</p><p>The other type of canoe is a small, seating only three people, and is used for daily travel to and from food sources.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Orboatbuilders1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orboatbuilders1.jpg/82px-Orboatbuilders1.jpg" decoding="async" width="82" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orboatbuilders1.jpg/124px-Orboatbuilders1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orboatbuilders1.jpg/165px-Orboatbuilders1.jpg 2x" data-file-width="1127" data-file-height="1637" /></a></div></div>
+			<div class="gallerytext">
+<p>Warao Indians constructing a traditional dugout canoe, Orinoco delta. Simoina area, Delta Amacuro, Venezuela.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Oremptycanoe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Oremptycanoe.jpg/83px-Oremptycanoe.jpg" decoding="async" width="83" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Oremptycanoe.jpg/124px-Oremptycanoe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Oremptycanoe.jpg/165px-Oremptycanoe.jpg 2x" data-file-width="1133" data-file-height="1643" /></a></div></div>
+			<div class="gallerytext">
+<p>Traditional bongo.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:54px auto;"><a href="/wiki/File:Orcindiansincanoe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Orcindiansincanoe.jpg/120px-Orcindiansincanoe.jpg" decoding="async" width="120" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Orcindiansincanoe.jpg/180px-Orcindiansincanoe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Orcindiansincanoe.jpg/240px-Orcindiansincanoe.jpg 2x" data-file-width="2832" data-file-height="983" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical Warao canoe.
+</p>
+			</div>
+		</div></li>
+</ul>
+<h3><span class="mw-headline" id="Diet">Diet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=4" title="Edit section: Diet">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Warao diet is varied with an emphasis on the products of the delta, mostly fish. By 1500 they had acquired basic <a href="/wiki/Horticulture" title="Horticulture">horticulture</a>, although many of their daily fruits and vegetables come from the wild orchards of the delta. In July and August, Warao feast on crabs when they come to the delta from the beach. Hunting is generally avoided due to cultural taboos. They occasionally also eat grubs found in the  moriche palm tree.
+</p>
+<h3><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=5" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Warao are, according to their own reports, descended from an adventurous heavenly figure &#8212; the primordial hunter. This man originally dwelt in a sky world which had men, but was completely devoid of all animals except birds. Hunting these heavenly birds, the founding man used his bow and arrow to strike a bird in mid-air. The bird fell from the sky and eventually hit the heavenly floor. The birds burst through the floor and proceeded through the clouds and towards terrestrial land (<a href="/wiki/Earth" title="Earth">Earth</a>) below. The hunter went to the hole in the floor made by the bird and looked through. He saw lush and fertile land (Earth) and resolved to descend to it to partake of its pleasures: beauty, abundant game, fruit, et cetera. The hunter took a long rope of heavenly cotton, tied it to a tree, and threw it through the hole and lowered himself through the clouds to what is now Earth, forsaking his sky world.
+</p><p>The Warao have shamans, who perform music such as rain dances and songs.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="First_contact_with_Europeans">First contact with Europeans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=6" title="Edit section: First contact with Europeans">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Warao of eastern Venezuela's Orinoco first had contact with Europeans when, soon after <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a> reached the Orinoco river delta, <a href="/wiki/Alonso_de_Ojeda" title="Alonso de Ojeda">Alonso de Ojeda</a> decided to navigate the river upstream. There, in the delta, Ojeda saw the distinctively stilted Warao huts, balanced over the water. Similar architecture in <a href="/wiki/Sinamaica" title="Sinamaica">Sinamaica</a> far to the west had been likened to <a href="/wiki/Venice" title="Venice">Venice</a>, with its famous canals below and buildings above; this new encounter propagated the name of <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a> ("little Venice") for the whole land.
+</p>
+<h2><span class="mw-headline" id="Contemporary_issues">Contemporary issues</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=7" title="Edit section: Contemporary issues">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The inaccessibility of the Warao's lands makes access to health care difficult. <a href="/wiki/Tuberculosis" title="Tuberculosis">Tuberculosis</a> is common.<sup id="cite_ref-warao.org_3-0" class="reference"><a href="#cite_note-warao.org-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/HIV" title="HIV">HIV</a> was first detected in 2007 in the Waroa communities of the lower Orinoco Delta region of Venezuela.  Sex between men is a common practice among young Warao, especially before they are married, and, is thought to be a major factor in the rapid spread of the disease. In some communities already 35% test positive for the <a href="/wiki/HIV_virus" class="mw-redirect" title="HIV virus">HIV virus</a>. With Venezuela's failing health care system, there is an absence of prevention programs; this, together, with severe language barriers — many Warao are illiterate and do not speak fluent Spanish — have allowed ignorance about the disease to flourish. The culture is felt to be severely threatened.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>.
+</p><p>In the summer of 2008, indigenous leaders and researchers from the <a href="/wiki/University_of_California,_Berkeley" title="University of California, Berkeley">University of California, Berkeley</a> issued a report detailing the deaths of 38 Warao in the <a href="/wiki/Delta_Amacuro" title="Delta Amacuro">Delta Amacuro</a> state from a mysterious illness. The disease, which causes "partial <a href="/wiki/Paralysis" title="Paralysis">paralysis</a>, <a href="/wiki/Convulsion" title="Convulsion">convulsions</a> and an extreme fear of water"<sup id="cite_ref-NYTimes_5-0" class="reference"><a href="#cite_note-NYTimes-5">&#91;5&#93;</a></sup> is believed to be a form of <a href="/wiki/Rabies" title="Rabies">rabies</a> transmitted by <a href="/wiki/Bat" title="Bat">bats</a>. Upon reaching <a href="/wiki/Caracas" title="Caracas">Caracas</a> to inform the government of the outbreak and request assistance, the leaders and researchers "met with disrespect on every level, as if the deaths of indigenous people are not even worth anything."<sup id="cite_ref-NYTimes_5-1" class="reference"><a href="#cite_note-NYTimes-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Film_treatment">Film treatment</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=8" title="Edit section: Film treatment">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In April 2017, The Museum of Modern Art in New York presented a film by Cuban-Venezuelan director Mario Crespo with a cast of nonprofessional actors. The film presents the difficulty of choosing to stay with the Warao traditions and life or to leave to gain an education among the "Creoles". The film includes a detailed look at Warao culture and life along the river. The film is: "Dauna. Lo que lleva el río (Gone with the River). 2015, Venezuela, in the Spanish and Warao languages.
+</p>
+<h2><span class="mw-headline" id="Tourism">Tourism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=9" title="Edit section: Tourism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tourism has come to the Warao which brings relative wealth for some.  Several individuals have set up rough and ready tourist accommodation in their own homes.  They offer canoe trips (hand and power) to see the wild life of the delta, also a chance to experience their traditional life and culture. These visits can be arranged in the state capital town of <a href="/wiki/Tucupita" title="Tucupita">Tucupita</a> through one of many travel agents.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Orin1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Orin1.jpg/120px-Orin1.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Orin1.jpg/180px-Orin1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Orin1.jpg/240px-Orin1.jpg 2x" data-file-width="1686" data-file-height="1068" /></a></div></div>
+			<div class="gallerytext">
+<p>Steel tourist bongo with outboard motor
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Orhotelhut1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Orhotelhut1.jpg/120px-Orhotelhut1.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Orhotelhut1.jpg/180px-Orhotelhut1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Orhotelhut1.jpg/240px-Orhotelhut1.jpg 2x" data-file-width="1686" data-file-height="1068" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical open sided hut on stilts.(Tourist accommodation.)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Orhotelhut2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Orhotelhut2.jpg/120px-Orhotelhut2.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Orhotelhut2.jpg/180px-Orhotelhut2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Orhotelhut2.jpg/240px-Orhotelhut2.jpg 2x" data-file-width="1709" data-file-height="1079" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical open sided hut on stilts.(Tourist accommodation.)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:54px auto;"><a href="/wiki/File:Orhotelhut3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orhotelhut3.jpg/120px-Orhotelhut3.jpg" decoding="async" width="120" height="42" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orhotelhut3.jpg/180px-Orhotelhut3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Orhotelhut3.jpg/240px-Orhotelhut3.jpg 2x" data-file-width="2832" data-file-height="990" /></a></div></div>
+			<div class="gallerytext">
+<p>Typical open sided hut on stilts.(Tourist accommodation.)
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Crime">Crime</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=10" title="Edit section: Crime">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There is little local crime in the area.  However drugs are smuggled down the Orinoco river into the delta for transshipment to the USA. The Venezuelan Navy patrols the main river branches and the river police have stations at key points.  The traffic movements of everyone are monitored and recorded. However they are tourist friendly.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:36.5px auto;"><a href="/wiki/File:Orpolice.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orpolice.jpg/120px-Orpolice.jpg" decoding="async" width="120" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orpolice.jpg/180px-Orpolice.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orpolice.jpg/240px-Orpolice.jpg 2x" data-file-width="1679" data-file-height="1079" /></a></div></div>
+			<div class="gallerytext">
+<p>At the River Police station. All visitors are logged in and out.
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/language/wba">"Warao"</a>. <i>Ethnologue</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-03-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethnologue&amp;rft.atitle=Warao&amp;rft_id=https%3A%2F%2Fwww.ethnologue.com%2Flanguage%2Fwba&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/w/index.php?title=Dale_Alan_Olsen&amp;action=edit&amp;redlink=1" class="new" title="Dale Alan Olsen (page does not exist)">Dale Alan Olsen</a> Music of the Warao of Venezuela: Song People of the Rain Forest  1996- Page 253  "By contrast, his elderly friend Jaime Zapata, who sang several songs with him during our recording sessions, studied hoarotu shamanism for only three days."</span>
+</li>
+<li id="cite_note-warao.org-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-warao.org_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Mendoza, Servelion Victor (2002). <a rel="nofollow" class="external text" href="http://www.warao.org">"The Orinoco Delta Warao Indians"</a>. <i>warao.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=warao.org&amp;rft.atitle=The+Orinoco+Delta+Warao+Indians&amp;rft.date=2002&amp;rft.aulast=Mendoza&amp;rft.aufirst=Servelion+Victor&amp;rft_id=http%3A%2F%2Fwww.warao.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Semple, Kirk (2018-05-07). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2018/05/07/world/americas/aids-venezuela-indigenous-people-threatened.html">"AIDS Runs Rampant in Venezuela, Putting an Ancient Culture at Risk"</a>. <i>The New York Times</i>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0362-4331">0362-4331</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=AIDS+Runs+Rampant+in+Venezuela%2C+Putting+an+Ancient+Culture+at+Risk&amp;rft.date=2018-05-07&amp;rft.issn=0362-4331&amp;rft.aulast=Semple&amp;rft.aufirst=Kirk&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2018%2F05%2F07%2Fworld%2Famericas%2Faids-venezuela-indigenous-people-threatened.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-NYTimes-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-NYTimes_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NYTimes_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Romero, Simon (2008-08-06). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2008/08/07/world/americas/07venez.html?ref=americas">"Mystery Disease Kills Dozens in Venezuela"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Mystery+Disease+Kills+Dozens+in+Venezuela&amp;rft.date=2008-08-06&amp;rft.aulast=Romero&amp;rft.aufirst=Simon&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2008%2F08%2F07%2Fworld%2Famericas%2F07venez.html%3Fref%3Damericas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051030040136/http://indian-cultures.com/Cultures/waroa.html">Warao Indians</a></li>
+<li><cite class="citation web">Mendoza, Servelion Victor (2002). <a rel="nofollow" class="external text" href="http://www.warao.org/">"The Orinoco Delta Warao Indians"</a>. <i>warao.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=warao.org&amp;rft.atitle=The+Orinoco+Delta+Warao+Indians&amp;rft.date=2002&amp;rft.aulast=Mendoza&amp;rft.aufirst=Servelion+Victor&amp;rft_id=http%3A%2F%2Fwww.warao.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation news">Romero, Simon (2008-08-06). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2008/08/07/world/americas/07venez.html?ref=americas">"Mystery Disease Kills Dozens in Venezuela"</a>. <i>New York Times</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Times&amp;rft.atitle=Mystery+Disease+Kills+Dozens+in+Venezuela&amp;rft.date=2008-08-06&amp;rft.aulast=Romero&amp;rft.aufirst=Simon&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2008%2F08%2F07%2Fworld%2Famericas%2F07venez.html%3Fref%3Damericas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWarao+people" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<ul><li><i>America in 1492: The World of the Indian Peoples Before the Arrival of Columbus.</i>  Edited by Alvin M. Josephy Jr. (Knopf 1992).</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Warao_people&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Warao" class="extiw" title="commons:Category:Warao">Warao</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.warao.org/">www.warao.org</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Ancestry_and_ethnicity_in_Guyana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ancestry_and_ethnicity_in_Guyana" title="Template:Ancestry and ethnicity in Guyana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ancestry_and_ethnicity_in_Guyana" title="Template talk:Ancestry and ethnicity in Guyana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ancestry_and_ethnicity_in_Guyana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Ancestry_and_ethnicity_in_Guyana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/35px-Flag_of_Guyana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/46px-Flag_of_Guyana.svg.png 2x" data-file-width="1000" data-file-height="600" /></span> <a href="/wiki/Demographics_of_Guyana#Ethnic_groups" title="Demographics of Guyana">Ancestry and ethnicity</a> in <a href="/wiki/Guyana" title="Guyana">Guyana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_peoples_in_Guyana" title="Indigenous peoples in Guyana">Indigenous</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akawaio_people" class="mw-redirect" title="Akawaio people">Ingarikó</a></li>
+<li><a href="/wiki/Arawak_people" class="mw-redirect" title="Arawak people">Arawak</a>
+<ul><li><a href="/wiki/Lokono" title="Lokono">Lokono</a></li></ul></li>
+<li><a href="/wiki/Kalina_people" title="Kalina people">Carib</a></li>
+<li><a href="/wiki/Macushi_people" class="mw-redirect" title="Macushi people">Macushi</a></li>
+<li><a href="/wiki/Patamona_people" title="Patamona people">Patamona</a></li>
+<li><a href="/wiki/Pemon_people" class="mw-redirect" title="Pemon people">Pemon</a></li>
+<li><a href="/wiki/Wai-Wai_people" class="mw-redirect" title="Wai-Wai people">Wai-Wai</a></li>
+<li><a href="/wiki/Wapishana_people" class="mw-redirect" title="Wapishana people">Wapishana</a></li>
+<li><a class="mw-selflink selflink">Warao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-Indigenous</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Afro-Guyanese" title="Afro-Guyanese">African</a></li>
+<li><a href="/wiki/Brazilians_in_Guyana" title="Brazilians in Guyana">Brazilian</a></li>
+<li><a href="/wiki/Chinese_Guyanese" title="Chinese Guyanese">Chinese</a></li>
+<li><a href="/wiki/Indo-Guyanese" title="Indo-Guyanese">Indian</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Guyana" title="History of the Jews in Guyana">Jewish</a></li>
+<li><a href="/wiki/Portuguese_Guyanese" title="Portuguese Guyanese">Portuguese</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Surinamese_people" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Surinamese_people" title="Template:Surinamese people"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Surinamese_people" title="Template talk:Surinamese people"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Surinamese_people&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Surinamese_people" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Surinamese_people#Ethnic_groups" title="Surinamese people">Surinamese people</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_peoples" class="mw-redirect" title="Arawak peoples">Arawak</a>
+<ul><li><a href="/wiki/Lokono" title="Lokono">Lokono</a></li></ul></li>
+<li><a href="/wiki/Kalina_people" title="Kalina people">Carib</a>
+<ul><li><a href="/wiki/Akurio_people" title="Akurio people">Akurio</a></li>
+<li><a href="/wiki/Kali%27na_people" class="mw-redirect" title="Kali&#39;na people">Kali'na</a></li>
+<li><a href="/wiki/Sikiana_people" class="mw-redirect" title="Sikiana people">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_people" class="mw-redirect" title="Tiriyó people">Tiriyó</a></li>
+<li><a href="/wiki/Wayana_people" class="mw-redirect" title="Wayana people">Wayana</a></li></ul></li>
+<li><a class="mw-selflink selflink">Warao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Afro-Surinamese" title="Afro-Surinamese">African</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroons</a>
+<ul><li><a href="/wiki/Kwinti_people" title="Kwinti people">Kwinti</a></li>
+<li><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a></li>
+<li><a href="/wiki/Paramaccan_people" title="Paramaccan people">Paramaccan</a></li>
+<li><a href="/wiki/Saramaka" title="Saramaka">Saramaka</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Asian_Surinamese" title="Asian Surinamese">Asian</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chinese_Surinamese" title="Chinese Surinamese">Chinese</a></li>
+<li><a href="/wiki/Indo-Surinamese" title="Indo-Surinamese">Indian</a></li>
+<li><a href="/wiki/Javanese_Surinamese" title="Javanese Surinamese">Javanese</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Suriname" title="History of the Jews in Suriname">Jewish</a></li>
+<li><a href="/wiki/Lebanese_Surinamese" title="Lebanese Surinamese">Lebanese</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/White_Surinamese" title="White Surinamese">European</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dutch_Surinamese" title="Dutch Surinamese">Dutch</a></li>
+<li><a href="/wiki/Portuguese_Surinamese" title="Portuguese Surinamese">Portuguese</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South American</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilians_in_Suriname" title="Brazilians in Suriname">Brazilian</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Venezuelan_people" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Venezuelan_people" title="Template:Venezuelan people"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Venezuelan_people" title="Template talk:Venezuelan people"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Venezuelan_people&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Venezuelan_people" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Venezuelans#Ethnic_groups" title="Venezuelans">Venezuelan people</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_peoples_in_Venezuela" title="Indigenous peoples in Venezuela">Indigenous</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Achagua" title="Achagua">Achagua</a></li>
+<li><a href="/wiki/Akawaio" title="Akawaio">Akawaio</a></li>
+<li><a href="/wiki/Auak%C3%A9" title="Auaké">Auaké</a></li>
+<li><a href="/wiki/Baniwa" title="Baniwa">Baniwa</a></li>
+<li><a href="/wiki/Bar%C3%A9_people" title="Baré people">Baré</a></li>
+<li><a href="/wiki/Caquetio" title="Caquetio">Caquetio</a></li>
+<li><a href="/wiki/Chitarero" title="Chitarero">Chitarero</a></li>
+<li><a href="/wiki/Cumanagoto_people" title="Cumanagoto people">Cumanagoto</a></li>
+<li><a href="/wiki/Guahibo" title="Guahibo">Guahibo</a></li>
+<li><a href="/wiki/Hiwi_people" title="Hiwi people">Hiwi</a></li>
+<li><a href="/wiki/Kalina_people" title="Kalina people">Kalina</a></li>
+<li><a href="/wiki/Lokono" title="Lokono">Lokono</a></li>
+<li><a href="/wiki/Macushi" title="Macushi">Macushi</a></li>
+<li><a href="/wiki/Mariche_people" title="Mariche people">Mariche</a></li>
+<li><a href="/wiki/Marueta_people" title="Marueta people">Marueta</a></li>
+<li><a href="/wiki/Motilon" title="Motilon">Motilon</a></li>
+<li><a href="/wiki/Panare_people" title="Panare people">Panare</a></li>
+<li><a href="/wiki/Pemon" title="Pemon">Pemon</a></li>
+<li><a href="/wiki/Piaroa_people" title="Piaroa people">Piaroa</a></li>
+<li><a href="/wiki/Saladoid" title="Saladoid">Saladoid</a></li>
+<li><a href="/wiki/Sanum%C3%A1" title="Sanumá">Sanumá</a></li>
+<li><a href="/wiki/Timoto%E2%80%93Cuica_people" title="Timoto–Cuica people">Timoto–Cuica</a></li>
+<li><a href="/wiki/Waiker%C3%AD" title="Waikerí">Waikerí</a></li>
+<li><a class="mw-selflink selflink">Warao</a></li>
+<li><a href="/wiki/Wayuu_people" title="Wayuu people">Wayuu</a></li>
+<li><a href="/wiki/Yanomami" title="Yanomami">Yanomami</a></li>
+<li><a href="/wiki/Yaruro_people" title="Yaruro people">Yaruro</a></li>
+<li><a href="/wiki/Ye%27kuana" title="Ye&#39;kuana">Ye'kuana</a></li>
+<li><a href="/wiki/Yukpa_people" title="Yukpa people">Yukpa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arab_Venezuelan" class="mw-redirect" title="Arab Venezuelan">North African</a></li>
+<li><a href="/wiki/Afro-Venezuelan" title="Afro-Venezuelan">Black</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chileans_in_Venezuela" class="mw-redirect" title="Chileans in Venezuela">Chileans</a></li>
+<li><a href="/wiki/Indians_in_Venezuela" title="Indians in Venezuela">Indo-Caribbean</a></li>
+<li><a href="/wiki/Uruguayans_in_Venezuela" title="Uruguayans in Venezuela">Uruguayans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arab_Venezuelan" class="mw-redirect" title="Arab Venezuelan">Arab</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Lebanese_Venezuelan" class="mw-redirect" title="Lebanese Venezuelan">Lebanese</a></span></li>
+<li><span style="font-size:85%;"><a href="/wiki/Syrian_Venezuelan" class="mw-redirect" title="Syrian Venezuelan">Syrian</a></span></li></ul></li>
+<li><a href="/wiki/Armenians_in_Venezuela" class="mw-redirect" title="Armenians in Venezuela">Armenian</a></li>
+<li><a href="/wiki/Chinese_Venezuelan" class="mw-redirect" title="Chinese Venezuelan">Chinese</a></li>
+<li><a href="/wiki/Indians_in_Venezuela" title="Indians in Venezuela">Indian</a></li>
+<li><a href="/wiki/Japanese_Venezuelans" title="Japanese Venezuelans">Japanese</a></li>
+<li><a href="/wiki/Koreans_in_Venezuela" title="Koreans in Venezuela">Korean</a></li>
+<li><a href="/wiki/Turkish_Venezuelan" title="Turkish Venezuelan">Turkish</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Venezuelan_of_European_descent" class="mw-redirect" title="Venezuelan of European descent">Europe</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basque_Venezuelans" class="mw-redirect" title="Basque Venezuelans">Basque</a></li>
+<li><a href="/wiki/Czechs_in_Venezuela" title="Czechs in Venezuela">Czech</a></li>
+<li><a href="/wiki/Croatian_Venezuelans" title="Croatian Venezuelans">Croatian</a></li>
+<li><a href="/wiki/Corsican_immigration_to_Venezuela" class="mw-redirect" title="Corsican immigration to Venezuela">French (<span style="font-size:85%;">Corsican</span>)</a></li>
+<li><a href="/wiki/German_Venezuelans" title="German Venezuelans">German</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Coloniero" class="mw-redirect" title="Coloniero">Coloniero</a></span></li></ul></li>
+<li><a href="/wiki/Greek_Venezuelan" class="mw-redirect" title="Greek Venezuelan">Greek</a></li>
+<li><a href="/wiki/Hungarians_in_Venezuela" title="Hungarians in Venezuela">Hungarian</a></li>
+<li><a href="/wiki/Italo-Venezuelans" title="Italo-Venezuelans">Italian</a></li>
+<li><a href="/wiki/Polish_Venezuelans" title="Polish Venezuelans">Polish</a></li>
+<li><a href="/wiki/Portuguese_Venezuelans" title="Portuguese Venezuelans">Portuguese</a></li>
+<li><a href="/wiki/Romanian_Venezuelan" title="Romanian Venezuelan">Romanian</a></li>
+<li><a href="/wiki/Russians_in_Venezuela" title="Russians in Venezuela">Russian</a></li>
+<li><a href="/wiki/Spanish_immigration_to_Venezuela" title="Spanish immigration to Venezuela">Spanish</a>
+<ul><li><span style="font-size:85%;"><a href="/wiki/Isle%C3%B1o#Venezuela" title="Isleño">Isleño</a></span></li></ul></li>
+<li><a href="/wiki/Scandinavian_Venezuelan" title="Scandinavian Venezuelan">Scandinavia</a></li>
+<li><a href="/wiki/Serbian_Venezuelan" class="mw-redirect" title="Serbian Venezuelan">Serbian</a></li>
+<li><a href="/wiki/Slovene_Venezuelan" class="mw-redirect" title="Slovene Venezuelan">Slovene</a></li>
+<li><a href="/wiki/Swiss_Venezuelan" title="Swiss Venezuelan">Swiss</a></li>
+<li><a href="/wiki/Ukrainian_Venezuelan" title="Ukrainian Venezuelan">Ukrainian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_the_Jews_in_Venezuela" title="History of the Jews in Venezuela">Jews</a></li>
+<li><a href="/wiki/Mestizos_in_Venezuela" title="Mestizos in Venezuela">Mestizos</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Colonial_Venezuela" title="Colonial Venezuela">Colonization</a></li>
+<li><a href="/wiki/Immigration_to_Venezuela" title="Immigration to Venezuela">Immigration</a></li>
+<li><a href="/wiki/Venezuelan_diaspora" title="Venezuelan diaspora">Diaspora</a></li>
+<li><a href="/wiki/Venezuelan_refugee_crisis" title="Venezuelan refugee crisis">Refugee crisis</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1261048&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1261048&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1261048" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11955064b">cb11955064b</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11955064b">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/subjects/sh85145286">sh85145286</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20190923225648
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.716 seconds
+Real time usage: 0.898 seconds
+Preprocessor visited node count: 1659/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 53548/2097152 bytes
+Template argument size: 1437/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27337/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.264/10.000 seconds
+Lua memory usage: 3.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  703.669      1 -total
+ 27.99%  196.986      1 Template:Reflist
+ 24.58%  172.992      4 Template:Cite_news
+ 16.15%  113.662      1 Template:Infobox_ethnic_group
+ 15.76%  110.865      3 Template:Navbox
+ 12.11%   85.201      1 Template:Infobox
+ 11.09%   78.006      1 Template:Authority_control
+ 10.30%   72.446      1 Template:Commons_category
+  9.00%   63.310      1 Template:Ethnic_groups_in_Guyana
+  7.77%   54.692      3 Template:Flagdeco
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3031720-0!canonical and timestamp 20190923225647 and revision id 911136831
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Warao_people&amp;oldid=911136831">https://en.wikipedia.org/w/index.php?title=Warao_people&amp;oldid=911136831</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Indigenous_peoples_in_Guyana" title="Category:Indigenous peoples in Guyana">Indigenous peoples in Guyana</a></li><li><a href="/wiki/Category:Indigenous_peoples_in_Venezuela" title="Category:Indigenous peoples in Venezuela">Indigenous peoples in Venezuela</a></li><li><a href="/wiki/Category:Indigenous_peoples_in_Suriname" title="Category:Indigenous peoples in Suriname">Indigenous peoples in Suriname</a></li><li><a href="/wiki/Category:Ethnic_groups_in_Suriname" title="Category:Ethnic groups in Suriname">Ethnic groups in Suriname</a></li><li><a href="/wiki/Category:Indigenous_peoples_of_the_Guianas" title="Category:Indigenous peoples of the Guianas">Indigenous peoples of the Guianas</a></li><li><a href="/wiki/Category:Indigenous_peoples_in_Trinidad_and_Tobago" title="Category:Indigenous peoples in Trinidad and Tobago">Indigenous peoples in Trinidad and Tobago</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_using_infobox_ethnic_group_with_image_parameters" title="Category:Articles using infobox ethnic group with image parameters">Articles using infobox ethnic group with image parameters</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Warao+people" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Warao+people" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Warao_people" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Warao_people" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Warao_people">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Warao_people&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Warao_people&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Warao_people" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Warao_people" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Warao_people&amp;oldid=911136831" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Warao_people&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1261048" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Warao_people&amp;id=911136831" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Warao" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Warao+people">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Warao+people&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Warao_people&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B0%D0%B0" title="Вараа – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Warao" title="Warao – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Warao" title="Warao – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Waraos" title="Waraos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Guaraoj" title="Guaraoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Warao" title="Warao – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Pobo_warao" title="Pobo warao – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Warrau" title="Warrau – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Warao_(popolo)" title="Warao (popolo) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%90%E1%83%A0%E1%83%90%E1%83%9D" title="ვარაო – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Varao" title="Varao – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Warau_(volk)" title="Warau (volk) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Waraoar" title="Waraoar – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Warao" title="Warao – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Waraos" title="Waraos – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D1%80%D0%B0%D1%83" title="Варрау – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Warrau" title="Warrau – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1261048#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 August 2019, at 19:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Warao_people&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.716","walltime":"0.898","ppvisitednodes":{"value":1659,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":53548,"limit":2097152},"templateargumentsize":{"value":1437,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27337,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  703.669      1 -total"," 27.99%  196.986      1 Template:Reflist"," 24.58%  172.992      4 Template:Cite_news"," 16.15%  113.662      1 Template:Infobox_ethnic_group"," 15.76%  110.865      3 Template:Navbox"," 12.11%   85.201      1 Template:Infobox"," 11.09%   78.006      1 Template:Authority_control"," 10.30%   72.446      1 Template:Commons_category","  9.00%   63.310      1 Template:Ethnic_groups_in_Guyana","  7.77%   54.692      3 Template:Flagdeco"]},"scribunto":{"limitreport-timeusage":{"value":"0.264","limit":"10.000"},"limitreport-memusage":{"value":4088225,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20190923225648","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Warao people","url":"https:\/\/en.wikipedia.org\/wiki\/Warao_people","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1261048","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1261048","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-30T00:37:07Z","dateModified":"2019-08-16T19:15:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/87\/A_Warao_family_in_their_canoe.jpg","headline":"indigenous people inhabiting northeastern Venezuela and western Guyana"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

@@ -1,0 +1,1793 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mayor of Boston - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mayor_of_Boston","wgTitle":"Mayor of Boston","wgCurRevisionId":915252389,"wgRevisionId":915252389,"wgArticleId":853502,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","Use mdy dates from June 2013","Articles with hCards","Commons category link is on Wikidata","Commons category link is on Wikidata using P373","Lists of mayors of places in Massachusetts","Mayors of Boston","Boston-related lists","Government of Boston"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mayor_of_Boston","wgRelevantArticleId":853502,"wgRequestId":"XYrUuApAICkAAD5NpBEAAACH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1837807","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/1200px-Seal_of_Boston%2C_Massachusetts.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mayor_of_Boston"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mayor_of_Boston&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mayor_of_Boston&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mayor_of_Boston"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mayor_of_Boston rootpage-Mayor_of_Boston skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mayor of Boston</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Mayor of Boston</th></tr><tr><td colspan="2" style="text-align:center;padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9;"><a href="/wiki/File:Seal_of_Boston,_Massachusetts.svg" class="image"><img alt="Seal of Boston, Massachusetts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/120px-Seal_of_Boston%2C_Massachusetts.svg.png" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/180px-Seal_of_Boston%2C_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/240px-Seal_of_Boston%2C_Massachusetts.svg.png 2x" data-file-width="390" data-file-height="390" /></a><div>Seal of Boston</div></td></tr><tr><td colspan="2" style="text-align:center"><div style="padding-bottom:0.4em; border-bottom:solid 1px #ccd2d9; line-height:1.4em;"><div style="padding-bottom:0.4em;"><a href="/wiki/File:Marty_Walsh.jpg" class="image"><img alt="Marty Walsh.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marty_Walsh.jpg/220px-Marty_Walsh.jpg" decoding="async" width="220" height="304" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marty_Walsh.jpg/330px-Marty_Walsh.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Marty_Walsh.jpg/440px-Marty_Walsh.jpg 2x" data-file-width="1842" data-file-height="2549" /></a></div><b>Incumbent<br /><a href="/wiki/Marty_Walsh_(politician)" title="Marty Walsh (politician)">Marty Walsh</a></b><br />since&#160;January 6, 2014</div></td></tr><tr><th scope="row"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Style</a></th><td><a href="/wiki/His_Honor" class="mw-redirect" title="His Honor">His/Her Honor</a></td></tr><tr><th scope="row"><a href="/wiki/Seat_(legal_entity)" title="Seat (legal entity)">Seat</a></th><td><a href="/wiki/Boston_City_Hall" title="Boston City Hall">Boston City Hall</a></td></tr><tr><th scope="row"><a href="/wiki/Term_of_office" title="Term of office">Term length</a></th><td>Four years</td></tr><tr><th scope="row">Constituting instrument</th><td><a rel="nofollow" class="external text" href="https://www.cityofboston.gov/images_documents/2007%20the%20charter%20draft20%20%28final%20draft1%20with%20jumps%29_tcm3-16428.pdf">Boston City Charter</a></td></tr><tr><th scope="row">Formation</th><td>1822</td></tr><tr><th scope="row">First holder</th><td><a href="/wiki/John_Phillips_(mayor)" title="John Phillips (mayor)">John Phillips</a></td></tr><tr><th scope="row">Salary</th><td>$199,000<sup id="cite_ref-Valencia_1-0" class="reference"><a href="#cite_note-Valencia-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="https://www.boston.gov/departments/mayors-office">www<wbr />.boston<wbr />.gov<wbr />/departments<wbr />/mayors-office</a></span></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:John_Phillips_First_Mayor_of_Boston.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_Phillips_First_Mayor_of_Boston.png/170px-John_Phillips_First_Mayor_of_Boston.png" decoding="async" width="170" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_Phillips_First_Mayor_of_Boston.png/255px-John_Phillips_First_Mayor_of_Boston.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/John_Phillips_First_Mayor_of_Boston.png/340px-John_Phillips_First_Mayor_of_Boston.png 2x" data-file-width="366" data-file-height="328" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:John_Phillips_First_Mayor_of_Boston.png" class="internal" title="Enlarge"></a></div>John Phillips, first mayor of Boston</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:ThomasMenino.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ThomasMenino.jpg/170px-ThomasMenino.jpg" decoding="async" width="170" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ThomasMenino.jpg/255px-ThomasMenino.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ThomasMenino.jpg/340px-ThomasMenino.jpg 2x" data-file-width="600" data-file-height="526" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ThomasMenino.jpg" class="internal" title="Enlarge"></a></div>Thomas Menino, longest-serving mayor of Boston</div></div></div>
+<p>The <b>mayor of Boston</b> is the head of the municipal government in <a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston, Massachusetts</a>. Boston has a <a href="/wiki/Mayor-council_government" class="mw-redirect" title="Mayor-council government">mayor-council system of government</a>. Boston's mayoral elections are non-partisan (as are all municipal elections in Boston), and elect a mayor to a four-year term; there are no term limits. The mayor's office is in <a href="/wiki/Boston_City_Hall" title="Boston City Hall">Boston City Hall</a>, in <a href="/wiki/Government_Center,_Boston,_Massachusetts" class="mw-redirect" title="Government Center, Boston, Massachusetts">Government Center</a>.
+</p><p>The current mayor is <a href="/wiki/Marty_Walsh_(politician)" title="Marty Walsh (politician)">Martin J. "Marty" Walsh</a>. Currently, there is one living former mayor, <a href="/wiki/Raymond_Flynn" title="Raymond Flynn">Raymond Flynn</a>, born <span style="display:none"> (<span class="bday">1939-07-22</span>) </span>July 22, 1939<span class="noprint ForceAgeToShow"> (age&#160;80)</span>. The most recent mayor to die was <a href="/wiki/Thomas_Menino" title="Thomas Menino">Thomas Menino</a>, on October 30, 2014.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Salary"><span class="tocnumber">1.1</span> <span class="toctext">Salary</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#List"><span class="tocnumber">2</span> <span class="toctext">List</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Acting_mayors"><span class="tocnumber">2.1</span> <span class="toctext">Acting mayors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">4</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prior to 1822, there was no Mayor of Boston, because Boston was incorporated as a town. In Massachusetts, a town is typically governed by a <a href="/wiki/Town_meeting" title="Town meeting">town meeting</a>, with a <a href="/wiki/Board_of_selectmen" title="Board of selectmen">board of selectmen</a> handling regular business. Boston was the first community in Massachusetts to receive a city charter, which was granted in 1822.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Under the terms of the new charter, the mayor was elected annually. In June 1895, the charter was amended, and the mayor's term was increased to two years.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>In 1909, the <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>-controlled <a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">state legislature</a> enacted <a href="/wiki/Strong-mayor" class="mw-redirect" title="Strong-mayor">strong-mayor</a> charter changes it hoped would dampen the rising power of <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a> <a href="/wiki/Irish_American" class="mw-redirect" title="Irish American">Irish Americans</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Adopted by public vote in the November 1909 <a href="/wiki/General_election" title="General election">general election</a>, changes included extending the mayoral term to four years, and making the post formally non-partisan.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The reforms did not work; the first mayor elected under the new charter was Democrat <a href="/wiki/Honey_Fitz" class="mw-redirect" title="Honey Fitz">John "Honey Fitz" Fitzgerald</a>, and every mayor since Republican <a href="/wiki/Malcolm_Nichols" title="Malcolm Nichols">Malcolm Nichols</a> (1926–1930) has been a Democrat.
+</p><p>In a bid to temper the rising power of <a href="/wiki/James_Michael_Curley" title="James Michael Curley">James Michael Curley</a>, the state legislature in 1918 passed legislation barring the Mayor of Boston from serving consecutive terms in office;<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Curley was prevented from running for re-election twice by this law (<a href="/wiki/Boston_mayoral_election,_1925" class="mw-redirect" title="Boston mayoral election, 1925">November 1925</a> and <a href="/wiki/Boston_mayoral_election,_1933" class="mw-redirect" title="Boston mayoral election, 1933">November 1933</a>). The law was repealed in 1939,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> after Curley's political career appeared to be in decline.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Another charter change was enacted in 1949, partly in response to Curley's fourth term (1946–1950), during which he served prison time for crimes committed in an earlier term. Changes included adding a <a href="/wiki/Primary_election" title="Primary election">preliminary election</a> to narrow the field to two mayoral candidates in advance of the general election, changing the <a href="/wiki/Boston_City_Council" title="Boston City Council">Boston City Council</a> from having 22 members (one from each city <a href="/wiki/Ward_(electoral_subdivision)" title="Ward (electoral subdivision)">ward</a>) to having nine members (elected <a href="/wiki/At-large" title="At-large">at-large</a>), and giving the council ability to override some mayoral vetoes.<sup id="cite_ref-cc1949_9-0" class="reference"><a href="#cite_note-cc1949-9">&#91;9&#93;</a></sup> These changes went into effect in 1951, resulting in the first term of <a href="/wiki/John_B._Hynes" class="mw-redirect" title="John B. Hynes">John B. Hynes</a> being shortened to two years.
+</p><p>From 1951 through 1991, Boston mayoral elections were held the year before presidential elections (e.g. mayoral election in <a href="/wiki/Boston_mayoral_election,_1951" class="mw-redirect" title="Boston mayoral election, 1951">1951</a>, presidential election in <a href="/wiki/1952_United_States_presidential_election" title="1952 United States presidential election">1952</a>). Starting in 1993, due to the election held following <a href="/wiki/Raymond_Flynn" title="Raymond Flynn">Raymond Flynn</a>'s appointment as <a href="/wiki/United_States_Ambassador_to_the_Holy_See" class="mw-redirect" title="United States Ambassador to the Holy See">United States Ambassador to the Holy See</a>, Boston mayoral elections are held the year following presidential elections (e.g. presidential election in <a href="/wiki/1992_United_States_presidential_election" title="1992 United States presidential election">1992</a>, mayoral election in <a href="/wiki/Boston_mayoral_election,_1993" class="mw-redirect" title="Boston mayoral election, 1993">1993</a>).
+</p>
+<h3><span class="mw-headline" id="Salary">Salary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=2" title="Edit section: Salary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As of 2018, salary for the mayor is $199,000.<sup id="cite_ref-Valencia_1-1" class="reference"><a href="#cite_note-Valencia-1">&#91;1&#93;</a></sup> Members of the <a href="/wiki/Boston_City_Council" title="Boston City Council">Boston City Council</a> receive a salary that is 50% of that amount, currently $99,500.<sup id="cite_ref-Valencia_1-2" class="reference"><a href="#cite_note-Valencia-1">&#91;1&#93;</a></sup> Every four years, the Council votes on whether or not to raise the mayor's salary, thereby also raising its own salaries or not.
+</p><p>In June 2018, the Council voted to increase the salary of the mayor to $207,000, effective after the next mayoral election of <a href="/w/index.php?title=2021_Boston_mayoral_election&amp;action=edit&amp;redlink=1" class="new" title="2021 Boston mayoral election (page does not exist)">November 2021</a> (term starting in January 2022); this will increase the salary of councillors to $103,500, effective after the next council elections of <a href="/wiki/2019_Boston_City_Council_election" title="2019 Boston City Council election">November 2019</a> (terms starting in January 2020).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-Valencia_1-3" class="reference"><a href="#cite_note-Valencia-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="List">List</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=3" title="Edit section: List">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Use of (&#160;) denotes non-consecutive terms for a mayor.</i>
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th rowspan="2" align="center">#
+</th>
+<th rowspan="2">Mayor
+</th>
+<th colspan="2">Term
+</th>
+<th colspan="2">In office
+</th>
+<th rowspan="2" class="unsortable">&#160;
+</th>
+<th rowspan="2" style="border-left-style:hidden;padding:0.1em 0em">Party
+</th></tr>
+<tr>
+<th><small>Start</small>
+</th>
+<th><small>End</small>
+</th>
+<th><small>Terms won</small>
+</th>
+<th><small>Duration</small>
+</th></tr>
+<tr>
+<td align="center"><span data-sort-value="01&#160;!">1</span>
+</td>
+<td><span data-sort-value="Phillips, John"><span class="vcard"><span class="fn"><a href="/wiki/John_Phillips_(mayor)" title="John Phillips (mayor)">John Phillips</a></span></span></span>
+</td>
+<td>May 1, 1822
+</td>
+<td>May 1, 1823
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#EA9978">
+</td>
+<td><a href="/wiki/Federalist_Party" title="Federalist Party">Federalist</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="02&#160;!">2</span>
+</td>
+<td><span data-sort-value="Quincy III, Josiah"><span class="vcard"><span class="fn"><a href="/wiki/Josiah_Quincy_III" title="Josiah Quincy III">Josiah Quincy III</a></span></span></span>
+</td>
+<td>May 1, 1823
+</td>
+<td>January 5, 1829
+</td>
+<td align="center">6
+</td>
+<td align="center"><span data-sort-value="05y08m&#160;!">5 years, 8 months</span>
+</td>
+<td bgcolor="#EA9978">
+</td>
+<td><a href="/wiki/Federalist_Party" title="Federalist Party">Federalist</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="03&#160;!">3</span>
+</td>
+<td><span data-sort-value="Otis, Harrison G."><span class="vcard"><span class="fn"><a href="/wiki/Harrison_Gray_Otis_(politician)" title="Harrison Gray Otis (politician)">Harrison G. Otis</a></span></span></span>
+</td>
+<td>January 5, 1829
+</td>
+<td>January 2, 1832
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#EA9978">
+</td>
+<td><a href="/wiki/Federalist_Party" title="Federalist Party">Federalist</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="04&#160;!">4</span>
+</td>
+<td><span data-sort-value="Wells, Charles"><span class="vcard"><span class="fn"><a href="/wiki/Charles_Wells_(American_politician)" title="Charles Wells (American politician)">Charles Wells</a></span></span></span>
+</td>
+<td>January 2, 1832
+</td>
+<td>January 6, 1834
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="05&#160;!">5</span>
+</td>
+<td><span data-sort-value="Lyman, Theodore"><span class="vcard"><span class="fn"><a href="/wiki/Theodore_Lyman_(militiaman)" class="mw-redirect" title="Theodore Lyman (militiaman)">Theodore Lyman</a></span></span></span>
+</td>
+<td>January 6, 1834
+</td>
+<td>January 4, 1836
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="06&#160;!">6</span>
+</td>
+<td><span data-sort-value="Armstrong, Samuel T."><span class="vcard"><span class="fn"><a href="/wiki/Samuel_Turell_Armstrong" title="Samuel Turell Armstrong">Samuel T. Armstrong</a></span></span></span>
+</td>
+<td>January 4, 1836
+</td>
+<td>January 1, 1837
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="07&#160;!">7</span>
+</td>
+<td><span data-sort-value="Eliot, Samuel A."><span class="vcard"><span class="fn"><a href="/wiki/Samuel_Atkins_Eliot_(politician)" title="Samuel Atkins Eliot (politician)">Samuel A. Eliot</a></span></span></span>
+</td>
+<td>January 1, 1837
+</td>
+<td>January 6, 1840
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="08&#160;!">8</span>
+</td>
+<td><span data-sort-value="Chapman, Jonathan"><span class="vcard"><span class="fn"><a href="/wiki/Jonathan_Chapman" title="Jonathan Chapman">Jonathan Chapman</a></span></span></span>
+</td>
+<td>January 6, 1840
+</td>
+<td>January 2, 1843
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="09&#160;!">9</span>
+</td>
+<td><span data-sort-value="Brimmer, Martin"><span class="vcard"><span class="fn"><a href="/wiki/Martin_Brimmer" title="Martin Brimmer">Martin Brimmer</a></span></span></span>
+</td>
+<td>January 2, 1843
+</td>
+<td>January 6, 1845
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="09a&#160;!">—</span>
+</td>
+<td><span data-sort-value="Parker, William"><span class="vcard"><span class="fn"><a href="/wiki/William_Parker_(Boston)" title="William Parker (Boston)">William Parker</a></span></span></span> <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>January 6, 1845
+</td>
+<td>February 27, 1845
+</td>
+<td align="center"><span data-sort-value="0&#160;!">—</span>
+</td>
+<td align="center"><span data-sort-value="00y02m&#160;!">2 months</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="10&#160;!">10</span>
+</td>
+<td><span data-sort-value="Davis, Thomas A."><span class="vcard"><span class="fn"><a href="/wiki/Thomas_Aspinwall_Davis" title="Thomas Aspinwall Davis">Thomas A. Davis</a></span></span></span> <img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>February 27, 1845
+</td>
+<td>November 22, 1845
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="00y09m&#160;!">9 months</span>
+</td>
+<td bgcolor="#D99FE8">
+</td>
+<td><a href="/wiki/Know_Nothing" title="Know Nothing">Native American</a><sup class="reference plainlinks nourlexpansion" id="ref_KN"><a href="#endnote_KN">KN</a></sup>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="10a&#160;!">—</span>
+</td>
+<td><span data-sort-value="Leavitt, Benson"><span class="vcard"><span class="fn"><a href="/wiki/Benson_Leavitt" title="Benson Leavitt">Benson Leavitt</a></span></span></span> <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>November 22, 1845
+</td>
+<td>December 11, 1845
+</td>
+<td align="center"><span data-sort-value="0&#160;!">—</span>
+</td>
+<td align="center"><span data-sort-value="00y01m&#160;!">1 month</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="11&#160;!">11</span>
+</td>
+<td><span data-sort-value="Quincy Jr., Josiah"><span class="vcard"><span class="fn"><a href="/wiki/Josiah_Quincy_Jr." title="Josiah Quincy Jr.">Josiah Quincy Jr.</a></span></span></span>
+</td>
+<td>December 11, 1845
+</td>
+<td>January 1, 1849
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y01m&#160;!">3 years, 1 month</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="12&#160;!">12</span>
+</td>
+<td><span data-sort-value="Bigelow, John P."><span class="vcard"><span class="fn"><a href="/wiki/John_P._Bigelow" title="John P. Bigelow">John P. Bigelow</a></span></span></span>
+</td>
+<td>January 1, 1849
+</td>
+<td>January 5, 1852
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="13&#160;!">13</span>
+</td>
+<td><span data-sort-value="Seaver, Benjamin"><span class="vcard"><span class="fn"><a href="/wiki/Benjamin_Seaver" title="Benjamin Seaver">Benjamin Seaver</a></span></span></span>
+</td>
+<td>January 5, 1852
+</td>
+<td>January 2, 1854
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#F0C862">
+</td>
+<td><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="14&#160;!">14</span>
+</td>
+<td><span data-sort-value="Smith, Jerome V. C."><span class="vcard"><span class="fn"><a href="/wiki/Jerome_V._C._Smith" title="Jerome V. C. Smith">Jerome V. C. Smith</a></span></span></span>
+</td>
+<td>January 2, 1854
+</td>
+<td>January 7, 1856
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#D99FE8">
+</td>
+<td><a href="/wiki/Know_Nothing" title="Know Nothing">American</a><sup class="reference plainlinks nourlexpansion" id="ref_KN"><a href="#endnote_KN">KN</a></sup>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="15&#160;!">15</span>
+</td>
+<td><span data-sort-value="Rice, Alexander H."><span class="vcard"><span class="fn"><a href="/wiki/Alexander_H._Rice" title="Alexander H. Rice">Alexander H. Rice</a></span></span></span>
+</td>
+<td>January 7, 1856
+</td>
+<td>January 4, 1858
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="16&#160;!">16 (1)</span>
+</td>
+<td><span data-sort-value="Lincoln Jr., Frederic W."><span class="vcard"><span class="fn"><a href="/wiki/Frederic_W._Lincoln_Jr._(politician)" title="Frederic W. Lincoln Jr. (politician)">Frederic W. Lincoln Jr.</a></span></span></span>
+</td>
+<td>January 4, 1858
+</td>
+<td>January 7, 1861
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="17&#160;!">17</span>
+</td>
+<td><span data-sort-value="Wightman, Joseph"><span class="vcard"><span class="fn"><a href="/wiki/Joseph_Wightman" title="Joseph Wightman">Joseph Wightman</a></span></span></span>
+</td>
+<td>January 7, 1861
+</td>
+<td>January 5, 1863
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="18&#160;!">18 (2)</span>
+</td>
+<td><span data-sort-value="Lincoln Jr., Frederic W."><span class="vcard"><span class="fn"><a href="/wiki/Frederic_W._Lincoln_Jr._(politician)" title="Frederic W. Lincoln Jr. (politician)">Frederic W. Lincoln Jr.</a></span></span></span>
+</td>
+<td>January 5, 1863
+</td>
+<td>January 7, 1867
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="19&#160;!">19</span>
+</td>
+<td><span data-sort-value="Norcross, Otis"><span class="vcard"><span class="fn"><a href="/wiki/Otis_Norcross" title="Otis Norcross">Otis Norcross</a></span></span></span>
+</td>
+<td>January 7, 1867
+</td>
+<td>January 6, 1868
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="20&#160;!">20</span>
+</td>
+<td><span data-sort-value="Shurtleff, Nathaniel B."><span class="vcard"><span class="fn"><a href="/wiki/Nathaniel_B._Shurtleff" title="Nathaniel B. Shurtleff">Nathaniel B. Shurtleff</a></span></span></span>
+</td>
+<td>January 6, 1868
+</td>
+<td>January 2, 1871
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="21&#160;!">21</span>
+</td>
+<td><span data-sort-value="Gaston, William"><span class="vcard"><span class="fn"><a href="/wiki/William_Gaston_(Massachusetts)" title="William Gaston (Massachusetts)">William Gaston</a></span></span></span>
+</td>
+<td>January 2, 1871
+</td>
+<td>January 6, 1873
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="22&#160;!">22 (1)</span>
+</td>
+<td><span data-sort-value="Pierce, Henry L."><span class="vcard"><span class="fn"><a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Henry L. Pierce</a></span></span></span>
+</td>
+<td>January 6, 1873
+</td>
+<td>November 29, 1873
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="00y11m&#160;!">11 months</span>
+</td>
+<td bgcolor="#DDDDDD">
+</td>
+<td><a href="/wiki/Independent_politician" title="Independent politician">None</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="23&#160;!">23</span>
+</td>
+<td><span data-sort-value="Cutter, Leonard R."><span class="vcard"><span class="fn"><a href="/wiki/Leonard_R._Cutter" title="Leonard R. Cutter">Leonard R. Cutter</a></span></span></span> <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>November 29, 1873
+</td>
+<td>January 5, 1874
+</td>
+<td align="center"><span data-sort-value="0&#160;!">—</span>
+</td>
+<td align="center"><span data-sort-value="00y01m&#160;!">1 month</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="24&#160;!">24</span>
+</td>
+<td><span data-sort-value="Cobb, Samuel C."><span class="vcard"><span class="fn"><a href="/wiki/Samuel_C._Cobb" title="Samuel C. Cobb">Samuel C. Cobb</a></span></span></span>
+</td>
+<td>January 5, 1874
+</td>
+<td>January 1, 1877
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#DDDDDD">
+</td>
+<td><a href="/wiki/Independent_politician" title="Independent politician">None</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="25&#160;!">25 (1)</span>
+</td>
+<td><span data-sort-value="Prince, Frederick O."><span class="vcard"><span class="fn"><a href="/wiki/Frederick_O._Prince" title="Frederick O. Prince">Frederick O. Prince</a></span></span></span>
+</td>
+<td>January 1, 1877
+</td>
+<td>January 7, 1878
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="26&#160;!">26 (2)</span>
+</td>
+<td><span data-sort-value="Pierce, Henry L."><span class="vcard"><span class="fn"><a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Henry L. Pierce</a></span></span></span>
+</td>
+<td>January 7, 1878
+</td>
+<td>January 6, 1879
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="27&#160;!">27 (2)</span>
+</td>
+<td><span data-sort-value="Prince, Frederick O."><span class="vcard"><span class="fn"><a href="/wiki/Frederick_O._Prince" title="Frederick O. Prince">Frederick O. Prince</a></span></span></span>
+</td>
+<td>January 6, 1879
+</td>
+<td>January 2, 1882
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="03y00m&#160;!">3 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="28&#160;!">28</span>
+</td>
+<td><span data-sort-value="Green, Samuel A."><span class="vcard"><span class="fn"><a href="/wiki/Samuel_Abbott_Green" title="Samuel Abbott Green">Samuel A. Green</a></span></span></span>
+</td>
+<td>January 2, 1882
+</td>
+<td>January 1, 1883
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="29&#160;!">29</span>
+</td>
+<td><span data-sort-value="Palmer, Albert"><span class="vcard"><span class="fn"><a href="/wiki/Albert_Palmer_(American_politician)" title="Albert Palmer (American politician)">Albert Palmer</a></span></span></span>
+</td>
+<td>January 1, 1883
+</td>
+<td>January 7, 1884
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="30&#160;!">30</span>
+</td>
+<td><span data-sort-value="Martin, Augustus P."><span class="vcard"><span class="fn"><a href="/wiki/Augustus_Pearl_Martin" title="Augustus Pearl Martin">Augustus P. Martin</a></span></span></span>
+</td>
+<td>January 7, 1884
+</td>
+<td>January 5, 1885
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="31&#160;!">31</span>
+</td>
+<td><span data-sort-value="O&#39;Brien, Hugh"><span class="vcard"><span class="fn"><a href="/wiki/Hugh_O%27Brien" title="Hugh O&#39;Brien">Hugh O'Brien</a></span></span></span>
+</td>
+<td>January 5, 1885
+</td>
+<td>January 7, 1889
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="32&#160;!">32 (1)</span>
+</td>
+<td><span data-sort-value="Hart, Thomas N."><span class="vcard"><span class="fn"><a href="/wiki/Thomas_N._Hart" title="Thomas N. Hart">Thomas N. Hart</a></span></span></span>
+</td>
+<td>January 7, 1889
+</td>
+<td>December 31, 1890
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="33&#160;!">33</span>
+</td>
+<td><span data-sort-value="Matthews Jr., Nathan"><span class="vcard"><span class="fn"><a href="/wiki/Nathan_Matthews_Jr." title="Nathan Matthews Jr.">Nathan Matthews Jr.</a></span></span></span>
+</td>
+<td>January 1, 1891
+</td>
+<td>January 7, 1895
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="34&#160;!">34</span>
+</td>
+<td><span data-sort-value="Curtis, Edwin Upton"><span class="vcard"><span class="fn"><a href="/wiki/Edwin_Upton_Curtis" title="Edwin Upton Curtis">Edwin Upton Curtis</a></span></span></span>
+</td>
+<td>January 7, 1895
+</td>
+<td>January 6, 1896
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td colspan="1" bgcolor="lightgray"><span data-sort-value="34a&#160;!">&#160;</span>
+</td>
+<td colspan="3"><span data-sort-value="ZZname1&#160;!"><center><i>Mayoral term increased to two years.</i></center></span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="991&#160;!">&#160;</span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="ZZ1&#160;!">&#160;</span>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="35&#160;!">35</span>
+</td>
+<td><span data-sort-value="Quincy, Josiah"><span class="vcard"><span class="fn"><a href="/wiki/Josiah_Quincy_(1859%E2%80%931919)" title="Josiah Quincy (1859–1919)">Josiah Quincy</a></span></span></span>
+</td>
+<td>January 6, 1896
+</td>
+<td>January 1, 1900
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="36&#160;!">36 (2)</span>
+</td>
+<td><span data-sort-value="Hart, Thomas N."><span class="vcard"><span class="fn"><a href="/wiki/Thomas_N._Hart" title="Thomas N. Hart">Thomas N. Hart</a></span></span></span>
+</td>
+<td>January 1, 1900
+</td>
+<td>January 6, 1902
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="37&#160;!">37</span>
+</td>
+<td><span data-sort-value="Collins, Patrick"><span class="vcard"><span class="fn"><a href="/wiki/Patrick_Collins_(mayor)" title="Patrick Collins (mayor)">Patrick Collins</a></span></span></span> <img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>January 6, 1902
+</td>
+<td>September 13, 1905
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="03y09m&#160;!">3 years, 9 months</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="37a&#160;!">—</span>
+</td>
+<td><span data-sort-value="Whelton, Daniel A."><span class="vcard"><span class="fn"><a href="/wiki/Daniel_A._Whelton" title="Daniel A. Whelton">Daniel A. Whelton</a></span></span></span> <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>September 15, 1905
+</td>
+<td>January 1, 1906
+</td>
+<td align="center"><span data-sort-value="0&#160;!">—</span>
+</td>
+<td align="center"><span data-sort-value="00y03m&#160;!">3 months</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="38&#160;!">38 (1)</span>
+</td>
+<td><span data-sort-value="Fitzgerald, John F."><span class="vcard"><span class="fn"><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a></span></span></span>
+</td>
+<td>January 1, 1906
+</td>
+<td>January 6, 1908
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="39&#160;!">39</span>
+</td>
+<td><span data-sort-value="Hibbard, George A."><span class="vcard"><span class="fn"><a href="/wiki/George_A._Hibbard" title="George A. Hibbard">George A. Hibbard</a></span></span></span>
+</td>
+<td>January 6, 1908
+</td>
+<td>February 7, 1910
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="02y00m&#160;!">2 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td colspan="1" bgcolor="lightgray"><span data-sort-value="39a&#160;!">&#160;</span>
+</td>
+<td colspan="3"><span data-sort-value="ZZname2&#160;!"><center><i>Mayoral term increased to four years.</i></center></span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="992&#160;!">&#160;</span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="ZZ2&#160;!">&#160;</span>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="40&#160;!">40 (2)</span>
+</td>
+<td><span data-sort-value="Fitzgerald, John F."><span class="vcard"><span class="fn"><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a></span></span></span>
+</td>
+<td>February 7, 1910
+</td>
+<td>February 2, 1914
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="41&#160;!">41 (1)</span>
+</td>
+<td><span data-sort-value="Curley, James M."><span class="vcard"><span class="fn"><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a></span></span></span>
+</td>
+<td>February 2, 1914
+</td>
+<td>February 4, 1918
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="42&#160;!">42</span>
+</td>
+<td><span data-sort-value="Peters, Andrew J."><span class="vcard"><span class="fn"><a href="/wiki/Andrew_James_Peters" title="Andrew James Peters">Andrew J. Peters</a></span></span></span>
+</td>
+<td>February 4, 1918
+</td>
+<td>February 6, 1922
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="43&#160;!">43 (2)</span>
+</td>
+<td><span data-sort-value="Curley, James M."><span class="vcard"><span class="fn"><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a></span></span></span>
+</td>
+<td>February 6, 1922
+</td>
+<td>January 4, 1926
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="44&#160;!">44</span>
+</td>
+<td><span data-sort-value="Nichols, Malcolm"><span class="vcard"><span class="fn"><a href="/wiki/Malcolm_Nichols" title="Malcolm Nichols">Malcolm Nichols</a></span></span></span>
+</td>
+<td>January 4, 1926
+</td>
+<td>January 6, 1930
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="45&#160;!">45 (3)</span>
+</td>
+<td><span data-sort-value="Curley, James M."><span class="vcard"><span class="fn"><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a></span></span></span>
+</td>
+<td>January 6, 1930
+</td>
+<td>January 1, 1934
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="46&#160;!">46</span>
+</td>
+<td><span data-sort-value="Mansfield, Frederick"><span class="vcard"><span class="fn"><a href="/wiki/Frederick_Mansfield" title="Frederick Mansfield">Frederick Mansfield</a></span></span></span>
+</td>
+<td>January 1, 1934
+</td>
+<td>January 3, 1938
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="47&#160;!">47</span>
+</td>
+<td><span data-sort-value="Tobin, Maurice J."><span class="vcard"><span class="fn"><a href="/wiki/Maurice_J._Tobin" title="Maurice J. Tobin">Maurice J. Tobin</a></span></span></span>
+</td>
+<td>January 3, 1938
+</td>
+<td>January 4, 1945
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="07y00m&#160;!">7 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="47a&#160;!">—</span>
+</td>
+<td><span data-sort-value="Kerrigan, John E."><span class="vcard"><span class="fn"><a href="/wiki/John_E._Kerrigan" title="John E. Kerrigan">John E. Kerrigan</a></span></span></span> <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" />
+</td>
+<td>January 4, 1945
+</td>
+<td>January 7, 1946
+</td>
+<td align="center"><span data-sort-value="0&#160;!">—</span>
+</td>
+<td align="center"><span data-sort-value="01y00m&#160;!">1 year</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="48&#160;!">48 (4)</span>
+</td>
+<td><span data-sort-value="Curley, James M."><span class="vcard"><span class="fn"><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a></span></span></span>
+</td>
+<td>January 7, 1946
+</td>
+<td>January 2, 1950
+</td>
+<td align="center">1
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="49&#160;!">49</span>
+</td>
+<td><span data-sort-value="Hynes, John B."><span class="vcard"><span class="fn"><a href="/wiki/John_Hynes_(politician)" title="John Hynes (politician)">John B. Hynes</a></span></span></span>
+</td>
+<td>January 2, 1950
+</td>
+<td>January 4, 1960
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="10y00m&#160;!">10 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="50&#160;!">50</span>
+</td>
+<td><span data-sort-value="Collins, John F."><span class="vcard"><span class="fn"><a href="/wiki/John_F._Collins" title="John F. Collins">John F. Collins</a></span></span></span>
+</td>
+<td>January 4, 1960
+</td>
+<td>January 1, 1968
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="08y00m&#160;!">8 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="51&#160;!">51</span>
+</td>
+<td><span data-sort-value="White, Kevin"><span class="vcard"><span class="fn"><a href="/wiki/Kevin_White_(mayor)" class="mw-redirect" title="Kevin White (mayor)">Kevin White</a></span></span></span>
+</td>
+<td>January 1, 1968
+</td>
+<td>January 2, 1984
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="16y00m&#160;!">16 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="52&#160;!">52</span>
+</td>
+<td><span data-sort-value="Flynn, Raymond"><span class="vcard"><span class="fn"><a href="/wiki/Raymond_Flynn" title="Raymond Flynn">Raymond Flynn</a></span></span></span>
+</td>
+<td>January 2, 1984
+</td>
+<td>July 12, 1993
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="09y06m&#160;!">9 years, 6 months</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center"><span data-sort-value="53&#160;!">53</span>
+</td>
+<td><span data-sort-value="Menino, Thomas"><span class="vcard"><span class="fn"><a href="/wiki/Thomas_Menino" title="Thomas Menino">Thomas Menino</a></span></span></span>
+</td>
+<td>July 12, 1993
+</td>
+<td>January 6, 2014
+</td>
+<td align="center">5
+</td>
+<td align="center"><span data-sort-value="20y06m&#160;!">20 years, 6 months</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="yellow"><span data-sort-value="54&#160;!">54</span>
+</td>
+<td><span data-sort-value="Walsh, Marty"><span class="vcard"><span class="fn"><a href="/wiki/Marty_Walsh_(politician)" title="Marty Walsh (politician)">Marty Walsh</a></span></span></span>
+</td>
+<td>January 6, 2014
+</td>
+<td><i><b>Incumbent</b></i>
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="05y03m&#160;!">5 years+</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td colspan="1" bgcolor="white"><span data-sort-value="90&#160;!">&#160;</span>
+</td>
+<td colspan="3" bgcolor="white"><span data-sort-value="ZZname0&#160;!">&#160;</span>
+</td>
+<td colspan="2" bgcolor="white"><span data-sort-value="990&#160;!">&#160;</span>
+</td>
+<td colspan="2" bgcolor="white"><span data-sort-value="ZZ0&#160;!">&#160;</span>
+</td></tr>
+<tr>
+<td colspan="1" bgcolor="lightgray"><span data-sort-value="91&#160;!">&#160;</span>
+</td>
+<td colspan="3"><span data-sort-value="ZZname3&#160;!"><center><i>Mayors serving non-consecutive terms.</i></center></span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="993&#160;!">&#160;</span>
+</td>
+<td colspan="2" bgcolor="lightgray"><span data-sort-value="ZZ3&#160;!">&#160;</span>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="92&#160;!">M</span>
+</td>
+<td><span data-sort-value="Lincoln Jr., Frederic W."><span class="vcard"><span class="fn"><a href="/wiki/Frederic_W._Lincoln_Jr._(politician)" title="Frederic W. Lincoln Jr. (politician)">Frederic W. Lincoln Jr.</a></span></span></span>
+</td>
+<td><i>January 4, 1858</i>
+</td>
+<td><i>January 7, 1867</i>
+</td>
+<td align="center">7
+</td>
+<td align="center"><span data-sort-value="07y00m&#160;!">7 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="93&#160;!">M</span>
+</td>
+<td><span data-sort-value="Pierce, Henry L."><span class="vcard"><span class="fn"><a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Henry L. Pierce</a></span></span></span>
+</td>
+<td><i>January 6, 1873</i>
+</td>
+<td><i>January 6, 1879</i>
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="01y11m&#160;!">1 year, 11 months</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="94&#160;!">M</span>
+</td>
+<td><span data-sort-value="Prince, Frederick O."><span class="vcard"><span class="fn"><a href="/wiki/Frederick_O._Prince" title="Frederick O. Prince">Frederick O. Prince</a></span></span></span>
+</td>
+<td><i>January 1, 1877</i>
+</td>
+<td><i>January 2, 1882</i>
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="95&#160;!">M</span>
+</td>
+<td><span data-sort-value="Hart, Thomas N."><span class="vcard"><span class="fn"><a href="/wiki/Thomas_N._Hart" title="Thomas N. Hart">Thomas N. Hart</a></span></span></span>
+</td>
+<td><i>January 7, 1889</i>
+</td>
+<td><i>January 7, 1902</i>
+</td>
+<td align="center">3
+</td>
+<td align="center"><span data-sort-value="04y00m&#160;!">4 years</span>
+</td>
+<td bgcolor="#E81B23">
+</td>
+<td><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="96&#160;!">M</span>
+</td>
+<td><span data-sort-value="Fitzgerald, John F."><span class="vcard"><span class="fn"><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a></span></span></span>
+</td>
+<td><i>January 5, 1906</i>
+</td>
+<td><i>February 2, 1914</i>
+</td>
+<td align="center">2
+</td>
+<td align="center"><span data-sort-value="06y00m&#160;!">6 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr>
+<tr>
+<td align="center" bgcolor="lightpink"><span data-sort-value="97&#160;!">M</span>
+</td>
+<td><span data-sort-value="Curley, James M."><span class="vcard"><span class="fn"><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a></span></span></span>
+</td>
+<td><i>February 2, 1914</i>
+</td>
+<td><i>January 2, 1950</i>
+</td>
+<td align="center">4
+</td>
+<td align="center"><span data-sort-value="16y00m&#160;!">16 years</span>
+</td>
+<td bgcolor="#3333FF">
+</td>
+<td><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td></tr></tbody></table>
+<p><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /> died in office<br />
+<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /> acting mayor (only)
+<br />
+<span class="citation wikicite" id="endnote_KN"><b><a href="#ref_KN">^KN</a></b></span>  Native American Party and American Party were formal names of the "<a href="/wiki/Know_Nothing" title="Know Nothing">Know Nothing</a>" movement.
+</p>
+<h3><span class="mw-headline" id="Acting_mayors">Acting mayors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=4" title="Edit section: Acting mayors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th>Year
+</th>
+<th>Name
+</th>
+<th>Explanation
+</th>
+<th>Ref.
+</th></tr>
+<tr>
+<td>1845
+</td>
+<td><a href="/wiki/William_Parker_(Boston)" title="William Parker (Boston)">William Parker</a>
+</td>
+<td>Served as acting mayor during multiple deadlocked elections.
+</td>
+<td><sup id="cite_ref-bostonDOTgov_11-0" class="reference"><a href="#cite_note-bostonDOTgov-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1845
+</td>
+<td><a href="/wiki/Benson_Leavitt" title="Benson Leavitt">Benson Leavitt</a>
+</td>
+<td>Served as acting mayor following the death of <a href="/wiki/Thomas_Aspinwall_Davis" title="Thomas Aspinwall Davis">Thomas A. Davis</a>.
+</td>
+<td><sup id="cite_ref-bostonDOTgov_11-1" class="reference"><a href="#cite_note-bostonDOTgov-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1853
+</td>
+<td>Benjamin L. Allen
+</td>
+<td>Served as acting mayor during multiple deadlocked elections.
+</td>
+<td><sup id="cite_ref-bostonDOTgov_11-2" class="reference"><a href="#cite_note-bostonDOTgov-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1873
+</td>
+<td><a href="/wiki/Leonard_R._Cutter" title="Leonard R. Cutter">Leonard R. Cutter</a>
+</td>
+<td>Served as acting mayor following <a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Henry L. Pierce</a>'s election to Congress.<br />Was not a candidate in the <a href="/w/index.php?title=Boston_mayoral_election,_1873&amp;action=edit&amp;redlink=1" class="new" title="Boston mayoral election, 1873 (page does not exist)">1873 Boston mayoral election</a>.
+</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1905
+</td>
+<td><a href="/wiki/Daniel_A._Whelton" title="Daniel A. Whelton">Daniel A. Whelton</a>
+</td>
+<td>Served as acting mayor following the death of <a href="/wiki/Patrick_Collins_(mayor)" title="Patrick Collins (mayor)">Patrick Collins</a>.<br />Was not a candidate in the <a href="/wiki/Boston_mayoral_election,_1905" class="mw-redirect" title="Boston mayoral election, 1905">1905 Boston mayoral election</a>.
+</td>
+<td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1945
+</td>
+<td><a href="/wiki/John_E._Kerrigan" title="John E. Kerrigan">John E. Kerrigan</a>
+</td>
+<td>Served as acting mayor upon <a href="/wiki/Maurice_J._Tobin" title="Maurice J. Tobin">Maurice J. Tobin</a> becoming <a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">Governor of Massachusetts</a>.<br />Subsequently lost the <a href="/wiki/Boston_mayoral_election,_1945" class="mw-redirect" title="Boston mayoral election, 1945">1945 Boston mayoral election</a>.
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1947
+</td>
+<td><a href="/wiki/John_Hynes_(politician)" title="John Hynes (politician)">John B. Hynes</a>
+</td>
+<td>Served as acting mayor during the absence (incarceration) of <a href="/wiki/James_Michael_Curley" title="James Michael Curley">James M. Curley</a>.<br />Subsequently won the <a href="/wiki/Boston_mayoral_election,_1949" class="mw-redirect" title="Boston mayoral election, 1949">1949 Boston mayoral election</a>.
+</td>
+<td><sup id="cite_ref-bostonDOTgov_11-3" class="reference"><a href="#cite_note-bostonDOTgov-11">&#91;11&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td>1993
+</td>
+<td><a href="/wiki/Thomas_Menino" title="Thomas Menino">Thomas Menino</a>
+</td>
+<td>Served as acting mayor upon <a href="/wiki/Raymond_Flynn" title="Raymond Flynn">Raymond Flynn</a> becoming <a href="/wiki/United_States_Ambassador_to_the_Holy_See" class="mw-redirect" title="United States Ambassador to the Holy See">Ambassador to the Holy See</a><br />Subsequently won the <a href="/wiki/Boston_mayoral_election,_1993" class="mw-redirect" title="Boston mayoral election, 1993">1993 Boston mayoral election</a>.
+</td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</td></tr></tbody></table>
+<p>Only Cutter and Menino are listed by the City of Boston as having been "Acting Mayor"; others are said to have "acted as Mayor" or similar verbiage.<sup id="cite_ref-bostonDOTgov_11-4" class="reference"><a href="#cite_note-bostonDOTgov-11">&#91;11&#93;</a></sup> The former are numbered in a list of Boston's mayors, the latter are not. Hynes' time acting as Mayor is not numbered; his time as elected Mayor is.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em">Boston mayoral elections</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<p><a href="/wiki/1894_Boston_mayoral_election" title="1894 Boston mayoral election">1894</a>
+<a href="/wiki/1895_Boston_mayoral_election" title="1895 Boston mayoral election">1895</a>
+<a href="/wiki/1897_Boston_mayoral_election" title="1897 Boston mayoral election">1897</a>
+<a href="/wiki/1899_Boston_mayoral_election" title="1899 Boston mayoral election">1899</a>
+<a href="/wiki/1901_Boston_mayoral_election" title="1901 Boston mayoral election">1901</a>
+<a href="/wiki/1903_Boston_mayoral_election" title="1903 Boston mayoral election">1903</a>
+<a href="/wiki/1905_Boston_mayoral_election" title="1905 Boston mayoral election">1905</a>
+<a href="/wiki/1907_Boston_mayoral_election" title="1907 Boston mayoral election">1907</a>
+<a href="/wiki/1910_Boston_mayoral_election" title="1910 Boston mayoral election">1910</a>
+<a href="/wiki/1914_Boston_mayoral_election" title="1914 Boston mayoral election">1914</a>
+<a href="/wiki/1917_Boston_mayoral_election" title="1917 Boston mayoral election">1917</a>
+<a href="/wiki/1921_Boston_mayoral_election" title="1921 Boston mayoral election">1921</a>
+<a href="/wiki/1925_Boston_mayoral_election" title="1925 Boston mayoral election">1925</a>
+<a href="/wiki/1929_Boston_mayoral_election" title="1929 Boston mayoral election">1929</a>
+<a href="/wiki/1933_Boston_mayoral_election" title="1933 Boston mayoral election">1933</a>
+<a href="/wiki/1937_Boston_mayoral_election" title="1937 Boston mayoral election">1937</a>
+<a href="/wiki/1941_Boston_mayoral_election" title="1941 Boston mayoral election">1941</a>
+<a href="/wiki/1945_Boston_mayoral_election" title="1945 Boston mayoral election">1945</a>
+<a href="/wiki/1949_Boston_mayoral_election" title="1949 Boston mayoral election">1949</a>
+<a href="/wiki/1951_Boston_mayoral_election" title="1951 Boston mayoral election">1951</a>
+<a href="/wiki/1955_Boston_mayoral_election" title="1955 Boston mayoral election">1955</a>
+<a href="/wiki/1959_Boston_mayoral_election" title="1959 Boston mayoral election">1959</a>
+<a href="/wiki/1963_Boston_mayoral_election" title="1963 Boston mayoral election">1963</a>
+<a href="/wiki/1967_Boston_mayoral_election" title="1967 Boston mayoral election">1967</a>
+<a href="/wiki/1971_Boston_mayoral_election" title="1971 Boston mayoral election">1971</a>
+<a href="/wiki/1975_Boston_mayoral_election" title="1975 Boston mayoral election">1975</a>
+<a href="/wiki/1979_Boston_mayoral_election" title="1979 Boston mayoral election">1979</a>
+<a href="/wiki/1983_Boston_mayoral_election" title="1983 Boston mayoral election">1983</a>
+<a href="/wiki/1987_Boston_mayoral_election" title="1987 Boston mayoral election">1987</a>
+<a href="/wiki/1991_Boston_mayoral_election" title="1991 Boston mayoral election">1991</a>
+<a href="/wiki/1993_Boston_mayoral_election" title="1993 Boston mayoral election">1993</a>
+<a href="/wiki/1997_Boston_mayoral_election" title="1997 Boston mayoral election">1997</a>
+<a href="/wiki/2001_Boston_mayoral_election" title="2001 Boston mayoral election">2001</a>
+<a href="/wiki/2005_Boston_mayoral_election" title="2005 Boston mayoral election">2005</a>
+<a href="/wiki/2009_Boston_mayoral_election" title="2009 Boston mayoral election">2009</a>
+<a href="/wiki/2013_Boston_mayoral_election" title="2013 Boston mayoral election">2013</a> 
+<a href="/wiki/2017_Boston_mayoral_election" title="2017 Boston mayoral election">2017</a>
+</p>
+&#160;</td>
+</tr></tbody></table>
+<ul><li><a href="/wiki/Timeline_of_Boston" title="Timeline of Boston">Timeline of Boston</a></li>
+<li><a href="/wiki/List_of_elections_in_Massachusetts" title="List of elections in Massachusetts">List of elections in Massachusetts</a></li>
+<li><a href="/wiki/List_of_members_of_Boston_City_Council" title="List of members of Boston City Council">List of members of Boston City Council</a></li>
+<li><a href="/wiki/List_of_mayors_of_Roxbury,_Massachusetts" title="List of mayors of Roxbury, Massachusetts">List of mayors of Roxbury, Massachusetts</a></li>
+<li><a href="/wiki/List_of_mayors_of_Charlestown,_Massachusetts" title="List of mayors of Charlestown, Massachusetts">List of mayors of Charlestown, Massachusetts</a></li>
+<li><a href="/wiki/List_of_mayors_of_the_50_largest_cities_in_the_United_States" title="List of mayors of the 50 largest cities in the United States">List of mayors of the 50 largest cities in the United States</a></li></ul>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Allison, Robert; Bulger, William (2011). <a rel="nofollow" class="external text" href="https://www.amazon.com/James-Michael-Curley-paperback-Reminiscences/dp/1933212756/"><i>James Michael Curley</i></a>. Applewood Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781933212753" title="Special:BookSources/9781933212753"><bdi>9781933212753</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=James+Michael+Curley&amp;rft.pub=Applewood+Books&amp;rft.date=2011&amp;rft.isbn=9781933212753&amp;rft.aulast=Allison&amp;rft.aufirst=Robert&amp;rft.au=Bulger%2C+William&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FJames-Michael-Curley-paperback-Reminiscences%2Fdp%2F1933212756%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite class="citation book">O'Neill, Gerard (2012). <a rel="nofollow" class="external text" href="https://www.amazon.com/Rogues-Redeemers-Politics-Irish-Boston/dp/0307405362/"><i>Rogues and Redeemers</i></a>. New York: Crown Publisher. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780307405364" title="Special:BookSources/9780307405364"><bdi>9780307405364</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rogues+and+Redeemers&amp;rft.place=New+York&amp;rft.pub=Crown+Publisher&amp;rft.date=2012&amp;rft.isbn=9780307405364&amp;rft.aulast=O%27Neill&amp;rft.aufirst=Gerard&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2FRogues-Redeemers-Politics-Irish-Boston%2Fdp%2F0307405362%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Valencia-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Valencia_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Valencia_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Valencia_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Valencia_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Valencia, Milton J. (June 13, 2018). <a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/29817479/mayor_councilors_could_get_4_raises/">"Mayor, councilors could get 4% raises"</a>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. p.&#160;B5<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2019</span> &#8211; via newspapers.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Mayor%2C+councilors+could+get+4%25+raises&amp;rft.pages=B5&amp;rft.date=2018-06-13&amp;rft.aulast=Valencia&amp;rft.aufirst=Milton+J.&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F29817479%2Fmayor_councilors_could_get_4_raises%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/18595155/untitled/">"(untitled)"</a>. <i><a href="/wiki/The_Register-Herald" title="The Register-Herald">Weekly Raleigh Register</a></i>. <a href="/wiki/Raleigh,_North_Carolina" title="Raleigh, North Carolina">Raleigh, North Carolina</a>. March 22, 1822. p.&#160;3<span class="reference-accessdate">. Retrieved <span class="nowrap">March 24,</span> 2018</span> &#8211; via newspapers.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Weekly+Raleigh+Register&amp;rft.atitle=%28untitled%29&amp;rft.pages=3&amp;rft.date=1822-03-22&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F18595155%2Funtitled%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/498175747.html">"CHARTER AMENDED"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. June 2, 1895. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=CHARTER+AMENDED&amp;rft.pages=1&amp;rft.date=1895-06-02&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F498175747.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">O'Neill, pp. 39–42</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/18384700/new_boston_charter_is_the_worst_defeat/">"New Boston Charter is the Worst Defeat Ever Given Boss Rule"</a>. <i>The Marion Daily Mirror</i>. <a href="/wiki/Marion,_Ohio" title="Marion, Ohio">Marion, Ohio</a>. November 3, 1909<span class="reference-accessdate">. Retrieved <span class="nowrap">March 17,</span> 2018</span> &#8211; via newspapers.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Marion+Daily+Mirror&amp;rft.atitle=New+Boston+Charter+is+the+Worst+Defeat+Ever+Given+Boss+Rule&amp;rft.date=1909-11-03&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F18384700%2Fnew_boston_charter_is_the_worst_defeat%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/503359225.html">"REPORT BILL TO STOP CONSECUTIVE TERMS"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. February 26, 1918. p.&#160;6<span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=REPORT+BILL+TO+STOP+CONSECUTIVE+TERMS&amp;rft.pages=6&amp;rft.date=1918-02-26&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F503359225.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/816864666.html">"SECOND TERM WINS IN BOSTON"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. November 8, 1939. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 14,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=SECOND+TERM+WINS+IN+BOSTON&amp;rft.pages=1&amp;rft.date=1939-11-08&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F816864666.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Allison and Bulger, pp. 86–87</span>
+</li>
+<li id="cite_note-cc1949-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-cc1949_9-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/822180447.html">"Plan A Wins; Boston to Get New Charter"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. November 9, 1949. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Plan+A+Wins%3B+Boston+to+Get+New+Charter&amp;rft.pages=1&amp;rft.date=1949-11-09&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F822180447.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bostonherald.com/2018/06/29/editorial-elected-leaders-profit-as-we-pay/">"Editorial: Elected leaders profit as we pay"</a>. <i><a href="/wiki/Boston_Herald" title="Boston Herald">Boston Herald</a></i>. June 29, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boston+Herald&amp;rft.atitle=Editorial%3A+Elected+leaders+profit+as+we+pay&amp;rft.date=2018-06-29&amp;rft_id=https%3A%2F%2Fwww.bostonherald.com%2F2018%2F06%2F29%2Feditorial-elected-leaders-profit-as-we-pay%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-bostonDOTgov-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-bostonDOTgov_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bostonDOTgov_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bostonDOTgov_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-bostonDOTgov_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-bostonDOTgov_11-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.boston.gov/departments/archives-and-records-management/quick-look-bostons-history">"PAST MAYORS OF BOSTON"</a>. <i>boston.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=boston.gov&amp;rft.atitle=PAST+MAYORS+OF+BOSTON&amp;rft_id=https%3A%2F%2Fwww.boston.gov%2Fdepartments%2Farchives-and-records-management%2Fquick-look-bostons-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.newspapers.com/clip/18242397/resignation_of_the_mayor_of_boston/">"Resignation of the Mayor of Boston"</a>. <i><a href="/wiki/Brooklyn_Eagle" title="Brooklyn Eagle">The Brooklyn Daily Eagle</a></i>. November 25, 1873. p.&#160;4<span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span> &#8211; via newspapers.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Brooklyn+Daily+Eagle&amp;rft.atitle=Resignation+of+the+Mayor+of+Boston&amp;rft.pages=4&amp;rft.date=1873-11-25&amp;rft_id=https%3A%2F%2Fwww.newspapers.com%2Fclip%2F18242397%2Fresignation_of_the_mayor_of_boston%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ourcampaigns.com/RaceDetail.html?RaceID=727518">"Boston Mayor Race - Dec 09, 1873"</a>. <i>ourcampaigns.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ourcampaigns.com&amp;rft.atitle=Boston+Mayor+Race+-+Dec+09%2C+1873&amp;rft_id=https%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D727518&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/500471119.html">"WHELTON IS ACTING MAYOR"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. September 15, 1905. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=WHELTON+IS+ACTING+MAYOR&amp;rft.pages=1&amp;rft.date=1905-09-15&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F500471119.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ourcampaigns.com/RaceDetail.html?RaceID=696356">"Boston Mayor Race - Dec 12, 1905"</a>. <i>ourcampaigns.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ourcampaigns.com&amp;rft.atitle=Boston+Mayor+Race+-+Dec+12%2C+1905&amp;rft_id=https%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D696356&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news">Doherty, Joseph (January 26, 1945). <span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/839854226.html">"Kerrigan First World War II Vet to Head City Government"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. p.&#160;1<span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Kerrigan+First+World+War+II+Vet+to+Head+City+Government&amp;rft.pages=1&amp;rft.date=1945-01-26&amp;rft.aulast=Doherty&amp;rft.aufirst=Joseph&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F839854226.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ourcampaigns.com/RaceDetail.html?RaceID=546199">"Boston Mayor Race - Nov 06, 1945"</a>. <i>ourcampaigns.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ourcampaigns.com&amp;rft.atitle=Boston+Mayor+Race+-+Nov+06%2C+1945&amp;rft_id=https%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D546199&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ourcampaigns.com/RaceDetail.html?RaceID=546198">"Boston Mayor Race - Nov 08, 1949"</a>. <i>ourcampaigns.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ourcampaigns.com&amp;rft.atitle=Boston+Mayor+Race+-+Nov+08%2C+1949&amp;rft_id=https%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D546198&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">McGrory, Brian (July 13, 1993). <span class="cs1-lock-limited" title="Free access subject to limited trial, subscription normally required"><a rel="nofollow" class="external text" href="http://pqasb.pqarchiver.com/boston-sub/doc/294789672.html">"Menino, `a neighborhood guy,' now at center stage"</a></span>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i>. p.&#160;12<span class="reference-accessdate">. Retrieved <span class="nowrap">February 26,</span> 2018</span> &#8211; via pqarchiver.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Menino%2C+%60a+neighborhood+guy%2C%27+now+at+center+stage&amp;rft.pages=12&amp;rft.date=1993-07-13&amp;rft.aulast=McGrory&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Fpqasb.pqarchiver.com%2Fboston-sub%2Fdoc%2F294789672.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ourcampaigns.com/RaceDetail.html?RaceID=176291">"Boston Mayor Race - Nov 02, 1993"</a>. <i>ourcampaigns.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 12,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ourcampaigns.com&amp;rft.atitle=Boston+Mayor+Race+-+Nov+02%2C+1993&amp;rft_id=https%3A%2F%2Fwww.ourcampaigns.com%2FRaceDetail.html%3FRaceID%3D176291&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web">Ryan, Andrew (January 6, 2014). <a rel="nofollow" class="external text" href="https://www.boston.com/news/local-news/2014/01/06/is-walsh-mayor-54-or-48-or-58">"Is Walsh mayor 54? Or 48? Or 58?"</a>. <i><a href="/wiki/Boston.com" title="Boston.com">Boston.com</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Boston.com&amp;rft.atitle=Is+Walsh+mayor+54%3F+Or+48%3F+Or+58%3F&amp;rft.date=2014-01-06&amp;rft.aulast=Ryan&amp;rft.aufirst=Andrew&amp;rft_id=https%3A%2F%2Fwww.boston.com%2Fnews%2Flocal-news%2F2014%2F01%2F06%2Fis-walsh-mayor-54-or-48-or-58&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">State Street Trust Company (1914). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=L5oWAAAAYAAJ&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><i>Mayors of Boston: Illustrated Epitome of Who the Mayors Have Been and What They Have Done</i></a>. <a href="/wiki/Boston" title="Boston">Boston</a>: Walter Advertising and Printing &#8211; via <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mayors+of+Boston%3A+Illustrated+Epitome+of+Who+the+Mayors+Have+Been+and+What+They+Have+Done&amp;rft.place=Boston&amp;rft.pub=Walter+Advertising+and+Printing&amp;rft.date=1914&amp;rft.au=State+Street+Trust+Company&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DL5oWAAAAYAAJ%26pg%3DPP1%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMayor+of+Boston" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Mayors_of_Boston" class="extiw" title="commons:Category:Mayors of Boston">Mayors of Boston</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://politicalgraveyard.com/geo/MA/ofc/boston.html">Lists of Mayors of Boston at The Political Graveyard</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_City_of_Boston" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Boston,_Massachusetts" title="Template:Boston, Massachusetts"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Boston,_Massachusetts" title="Template talk:Boston, Massachusetts"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Boston,_Massachusetts&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_City_of_Boston" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/22px-Flag_of_Boston.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/33px-Flag_of_Boston.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Boston.svg/43px-Flag_of_Boston.svg.png 2x" data-file-width="500" data-file-height="350" /></span> <a href="/wiki/Boston" title="Boston">City of Boston</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_accent" title="Boston accent">Accent</a></li>
+<li><a href="/wiki/List_of_annual_events_in_Boston" title="List of annual events in Boston">Annual events</a></li>
+<li><a href="/wiki/Architecture_of_Boston" title="Architecture of Boston">Architecture</a></li>
+<li><a href="/wiki/List_of_arts_organizations_in_Boston" title="List of arts organizations in Boston">Arts</a></li>
+<li><a href="/wiki/Bibliography_of_Boston" title="Bibliography of Boston">Bibliography</a></li>
+<li><a href="/wiki/Culture_in_Boston" title="Culture in Boston">Culture</a></li>
+<li><a href="/wiki/Demographics_of_Boston" class="mw-redirect" title="Demographics of Boston">Demographics</a></li>
+<li><a href="/wiki/List_of_diplomatic_missions_in_Boston" title="List of diplomatic missions in Boston">Diplomatic missions</a></li>
+<li><a href="/wiki/Economy_of_Boston" class="mw-redirect" title="Economy of Boston">Economy</a></li>
+<li><a href="/wiki/Education_in_Boston" class="mw-redirect" title="Education in Boston">Education</a>
+<ul><li><a href="/wiki/List_of_colleges_and_universities_in_metropolitan_Boston" title="List of colleges and universities in metropolitan Boston">Colleges and universities</a></li></ul></li>
+<li><a href="/wiki/Geography_of_Boston" class="mw-redirect" title="Geography of Boston">Geography</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_Boston" title="National Register of Historic Places listings in Boston">Historic Places</a>
+<ul><li><a href="/wiki/National_Register_of_Historic_Places_listings_in_northern_Boston" title="National Register of Historic Places listings in northern Boston">Northern</a></li>
+<li><a href="/wiki/National_Register_of_Historic_Places_listings_in_southern_Boston" title="National Register of Historic Places listings in southern Boston">Southern</a></li></ul></li>
+<li><a href="/wiki/History_of_Boston" title="History of Boston">History</a>
+<ul><li><a href="/wiki/Timeline_of_Boston" title="Timeline of Boston">Timeline</a></li></ul></li>
+<li><a href="/wiki/Media_in_Boston" title="Media in Boston">Media</a></li>
+<li><a href="/wiki/Boston_nicknames" class="mw-redirect" title="Boston nicknames">Nicknames</a></li>
+<li><a href="/wiki/List_of_people_from_Boston" title="List of people from Boston">People</a></li>
+<li><a href="/wiki/Politics_of_Boston" class="mw-redirect" title="Politics of Boston">Politics</a></li>
+<li><a href="/wiki/Port_of_Boston" title="Port of Boston">Port</a></li>
+<li><a href="/wiki/Boston_Public_Library" title="Boston Public Library">Public Library</a></li>
+<li><a href="/wiki/Boston_Public_Schools" title="Boston Public Schools">Public Schools</a></li>
+<li><a href="/wiki/List_of_sister_cities_of_Boston" title="List of sister cities of Boston">Sister cities</a></li>
+<li><a href="/wiki/List_of_tallest_buildings_in_Boston" title="List of tallest buildings in Boston">Skyscrapers</a></li>
+<li><a href="/wiki/List_of_songs_about_Boston" title="List of songs about Boston">Songs</a></li>
+<li><a href="/wiki/Transportation_in_Boston" title="Transportation in Boston">Transportation</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Seal_of_Boston,_Massachusetts.svg" class="image" title="Seal of Boston"><img alt="Seal of Boston" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/80px-Seal_of_Boston%2C_Massachusetts.svg.png" decoding="async" width="80" height="80" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/120px-Seal_of_Boston%2C_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Seal_of_Boston%2C_Massachusetts.svg/160px-Seal_of_Boston%2C_Massachusetts.svg.png 2x" data-file-width="390" data-file-height="390" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_sites_of_interest_in_Boston" title="List of sites of interest in Boston">Attractions</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Common" title="Boston Common">Boston Common</a></li>
+<li><a href="/wiki/Boston_Convention_and_Exhibition_Center" title="Boston Convention and Exhibition Center">Boston Convention and Exhibition Center</a></li>
+<li><a href="/wiki/Boston_Irish_Famine_Memorial" title="Boston Irish Famine Memorial">Boston Irish Famine Memorial</a></li>
+<li><a href="/wiki/Boston_Tea_Party#Boston_Tea_Party_Ships_and_Museum" title="Boston Tea Party">Boston Tea Party Ships and Museum</a></li>
+<li><a href="/wiki/Bunker_Hill_Monument" title="Bunker Hill Monument">Bunker Hill Monument</a></li>
+<li><a href="/wiki/Faneuil_Hall" title="Faneuil Hall">Faneuil Hall</a></li>
+<li><a href="/wiki/Fenway_Park" title="Fenway Park">Fenway Park</a></li>
+<li><a href="/wiki/Franklin_Park_Zoo" title="Franklin Park Zoo">Franklin Park Zoo</a></li>
+<li><a href="/wiki/Freedom_Trail" title="Freedom Trail">Freedom Trail</a></li>
+<li><a href="/wiki/Hynes_Convention_Center" title="Hynes Convention Center">Hynes Convention Center</a></li>
+<li><a href="/wiki/Institute_of_Contemporary_Art,_Boston" title="Institute of Contemporary Art, Boston">Institute of Contemporary Art</a></li>
+<li><a href="/wiki/Isabella_Stewart_Gardner_Museum" title="Isabella Stewart Gardner Museum">Isabella Stewart Gardner Museum</a></li>
+<li><a href="/wiki/John_F._Kennedy_Presidential_Library_and_Museum" title="John F. Kennedy Presidential Library and Museum">John F. Kennedy Presidential Library and Museum</a></li>
+<li><a href="/wiki/Museum_of_Fine_Arts,_Boston" title="Museum of Fine Arts, Boston">Museum of Fine Arts</a></li>
+<li><a href="/wiki/Museum_of_Science_(Boston)" title="Museum of Science (Boston)">Museum of Science</a></li>
+<li><a href="/wiki/New_England_Aquarium" title="New England Aquarium">New England Aquarium</a></li>
+<li><a href="/wiki/Old_North_Church" title="Old North Church">Old North Church</a></li>
+<li><a href="/wiki/Paul_Revere_House" title="Paul Revere House">Paul Revere House</a></li>
+<li><a href="/wiki/Symphony_Hall,_Boston" title="Symphony Hall, Boston">Symphony Hall</a></li>
+<li><a href="/wiki/TD_Garden" title="TD Garden">TD Garden</a></li>
+<li><a href="/wiki/USS_Constitution" title="USS Constitution">USS <i>Constitution</i></a>
+<ul><li><a href="/wiki/USS_Constitution_Museum" title="USS Constitution Museum">Museum</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Business<br />districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Back_Bay,_Boston" title="Back Bay, Boston">Back Bay</a></li>
+<li><a href="/wiki/Downtown_Boston" title="Downtown Boston">Downtown</a></li>
+<li><a href="/wiki/Fenway%E2%80%93Kenmore" title="Fenway–Kenmore">Fenway–Kenmore</a></li>
+<li><a href="/wiki/Financial_District,_Boston" title="Financial District, Boston">Financial District</a></li>
+<li><a href="/wiki/Government_Center,_Boston" title="Government Center, Boston">Government Center</a></li>
+<li><a href="/wiki/Innovation_district" title="Innovation district">Innovation district</a></li>
+<li><a href="/wiki/North_End,_Boston" title="North End, Boston">North End</a></li>
+<li><a href="/wiki/Massachusetts_Route_128" title="Massachusetts Route 128">Route 128 corridor</a></li>
+<li><a href="/wiki/South_End,_Boston" title="South End, Boston">South End</a></li>
+<li><a href="/wiki/List_of_companies_in_Boston" class="mw-redirect" title="List of companies in Boston">List of companies in Boston</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Boston#Government" title="Boston">Government</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_City_Council" title="Boston City Council">City council</a></li>
+<li><a href="/wiki/Boston_City_Hall" title="Boston City Hall">City Hall</a></li>
+<li><a href="/wiki/2017_Boston_mayoral_election" title="2017 Boston mayoral election">Elections</a></li>
+<li><a href="/wiki/Boston_Emergency_Medical_Services" title="Boston Emergency Medical Services">Emergency Medical Services (EMS)</a></li>
+<li><a href="/wiki/Boston_Finance_Commission" title="Boston Finance Commission">FinComm</a></li>
+<li><a href="/wiki/Boston_Fire_Department" title="Boston Fire Department">Fire</a></li>
+<li><a href="/wiki/Boston_Housing_Authority" title="Boston Housing Authority">Housing (BHA)</a></li>
+<li><a class="mw-selflink selflink">Mayor</a></li>
+<li><a href="/wiki/Boston_Police_Department" title="Boston Police Department">Police</a></li>
+<li><a href="/wiki/Boston_Planning_and_Development_Agency" title="Boston Planning and Development Agency">Boston Planning and Development Agency</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Neighborhoods_in_Boston" title="Neighborhoods in Boston">Neighborhoods</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allston%E2%80%93Brighton" title="Allston–Brighton">Allston–Brighton</a>
+<ul><li><a href="/wiki/Allston" title="Allston">Allston</a></li>
+<li><a href="/wiki/Brighton,_Boston" title="Brighton, Boston">Brighton</a></li></ul></li>
+<li><a href="/wiki/Back_Bay,_Boston" title="Back Bay, Boston">Back Bay</a></li>
+<li><a href="/wiki/Bay_Village,_Boston" title="Bay Village, Boston">Bay Village</a></li>
+<li><a href="/wiki/Beacon_Hill,_Boston" title="Beacon Hill, Boston">Beacon Hill</a></li>
+<li><a href="/wiki/Downtown_Crossing" title="Downtown Crossing">Downtown Boston</a>
+<ul><li><a href="/wiki/Financial_District,_Boston" title="Financial District, Boston">Financial District</a></li>
+<li><a href="/wiki/Government_Center,_Boston" title="Government Center, Boston">Government Center</a></li></ul></li>
+<li><a href="/wiki/Charlestown,_Boston" title="Charlestown, Boston">Charlestown</a></li>
+<li><a href="/wiki/Chinatown,_Boston" title="Chinatown, Boston">Chinatown</a></li>
+<li><a href="/wiki/Dorchester,_Boston" title="Dorchester, Boston">Dorchester</a>
+<ul><li><a href="/wiki/Columbia_Point,_Boston" title="Columbia Point, Boston">Columbia Point</a></li>
+<li><a href="/wiki/South_Bay,_Boston" title="South Bay, Boston">South Bay</a></li></ul></li>
+<li><a href="/wiki/East_Boston" title="East Boston">East Boston</a></li>
+<li><a href="/wiki/Fenway%E2%80%93Kenmore" title="Fenway–Kenmore">Fenway–Kenmore</a></li>
+<li><a href="/wiki/Boston_Harbor_Islands_National_Recreation_Area" title="Boston Harbor Islands National Recreation Area">Harbor Islands</a></li>
+<li><a href="/wiki/Hyde_Park,_Boston" title="Hyde Park, Boston">Hyde Park</a>
+<ul><li><a href="/wiki/Readville,_Boston" title="Readville, Boston">Readville</a></li></ul></li>
+<li><a href="/wiki/Jamaica_Plain" title="Jamaica Plain">Jamaica Plain</a>
+<ul><li><a href="/wiki/Forest_Hills,_Boston" title="Forest Hills, Boston">Forest Hills</a></li></ul></li>
+<li><a href="/wiki/Leather_District" title="Leather District">Leather District</a></li>
+<li><a href="/wiki/Mattapan" title="Mattapan">Mattapan</a></li>
+<li><a href="/wiki/Mission_Hill,_Boston" title="Mission Hill, Boston">Mission Hill</a>
+<ul><li><a href="/wiki/Longwood_Medical_and_Academic_Area" title="Longwood Medical and Academic Area">Longwood</a></li></ul></li>
+<li><a href="/wiki/North_End,_Boston" title="North End, Boston">North End</a></li>
+<li><a href="/wiki/Roslindale" title="Roslindale">Roslindale</a></li>
+<li><a href="/wiki/Roxbury,_Boston" title="Roxbury, Boston">Roxbury</a>
+<ul><li><a href="/wiki/Fort_Hill,_Boston" title="Fort Hill, Boston">Fort Hill</a></li></ul></li>
+<li><a href="/wiki/South_Boston" title="South Boston">South Boston</a>
+<ul><li><a href="/wiki/Fort_Point,_Boston" title="Fort Point, Boston">Fort Point</a></li></ul></li>
+<li><a href="/wiki/South_End,_Boston" title="South End, Boston">South End</a></li>
+<li><a href="/wiki/West_End,_Boston" title="West End, Boston">West End</a></li>
+<li><a href="/wiki/West_Roxbury" title="West Roxbury">West Roxbury</a>
+<ul><li><a href="/wiki/Chestnut_Hill,_Massachusetts" title="Chestnut Hill, Massachusetts">Chestnut Hill</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sports_in_Boston" title="Sports in Boston">Sports</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Bruins" title="Boston Bruins">Boston Bruins</a></li>
+<li><a href="/wiki/Boston_Celtics" title="Boston Celtics">Boston Celtics</a></li>
+<li><a href="/wiki/Boston_Red_Sox" title="Boston Red Sox">Boston Red Sox</a></li>
+<li><a href="/wiki/New_England_Free_Jacks" title="New England Free Jacks">New England Free Jacks</a></li>
+<li><a href="/wiki/New_England_Patriots" title="New England Patriots">New England Patriots</a></li>
+<li><a href="/wiki/New_England_Revolution" title="New England Revolution">New England Revolution</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><a href="/wiki/Suffolk_County,_Massachusetts" title="Suffolk County, Massachusetts">Suffolk County</a></li>
+<li><a href="/wiki/Greater_Boston" title="Greater Boston">Boston-Cambridge Metro</a></li>
+<li><a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></li>
+<li><a href="/wiki/United_States" title="United States">United States</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Mayors_of_Boston,_Massachusetts" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:BostonMayors" title="Template:BostonMayors"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:BostonMayors" title="Template talk:BostonMayors"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:BostonMayors&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Mayors_of_Boston,_Massachusetts" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Mayors of Boston, Massachusetts</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Phillips_(mayor)" title="John Phillips (mayor)">Phillips</a></li>
+<li><a href="/wiki/Josiah_Quincy_III" title="Josiah Quincy III">Quincy III</a></li>
+<li><a href="/wiki/Harrison_Gray_Otis_(lawyer)" class="mw-redirect" title="Harrison Gray Otis (lawyer)">Otis</a></li>
+<li><a href="/wiki/Charles_Wells_(American_politician)" title="Charles Wells (American politician)">Wells</a></li>
+<li><a href="/wiki/Theodore_Lyman_(militiaman)" class="mw-redirect" title="Theodore Lyman (militiaman)">Lyman</a></li>
+<li><a href="/wiki/Samuel_Turell_Armstrong" title="Samuel Turell Armstrong">Armstrong</a></li>
+<li><a href="/wiki/Samuel_Atkins_Eliot_(politician)" title="Samuel Atkins Eliot (politician)">Eliot</a></li>
+<li><a href="/wiki/Jonathan_Chapman" title="Jonathan Chapman">Chapman</a></li>
+<li><a href="/wiki/Martin_Brimmer" title="Martin Brimmer">Brimmer</a></li>
+<li><a href="/wiki/Thomas_Aspinwall_Davis" title="Thomas Aspinwall Davis">Davis</a></li>
+<li><a href="/wiki/Josiah_Quincy,_Jr." class="mw-redirect" title="Josiah Quincy, Jr.">Quincy, Jr.</a></li>
+<li><a href="/wiki/John_P._Bigelow" title="John P. Bigelow">Bigelow</a></li>
+<li><a href="/wiki/Benjamin_Seaver" title="Benjamin Seaver">Seaver</a></li>
+<li><a href="/wiki/Jerome_V.C._Smith" class="mw-redirect" title="Jerome V.C. Smith">Smith</a></li>
+<li><a href="/wiki/Alexander_H._Rice" title="Alexander H. Rice">Rice</a></li>
+<li><a href="/wiki/Frederic_W._Lincoln,_Jr._(politician)" class="mw-redirect" title="Frederic W. Lincoln, Jr. (politician)">Lincoln</a></li>
+<li><a href="/wiki/Joseph_Wightman" title="Joseph Wightman">Wightman</a></li>
+<li><a href="/wiki/Frederic_W._Lincoln,_Jr._(politician)" class="mw-redirect" title="Frederic W. Lincoln, Jr. (politician)">Lincoln</a></li>
+<li><a href="/wiki/Otis_Norcross" title="Otis Norcross">Norcross</a></li>
+<li><a href="/wiki/Nathaniel_B._Shurtleff" title="Nathaniel B. Shurtleff">Shurtleff</a></li>
+<li><a href="/wiki/William_Gaston_(Massachusetts)" title="William Gaston (Massachusetts)">Gaston</a></li>
+<li><a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Pierce</a></li>
+<li><a href="/wiki/Leonard_R._Cutter" title="Leonard R. Cutter">Cutter*</a></li>
+<li><a href="/wiki/Samuel_C._Cobb" title="Samuel C. Cobb">Cobb</a></li>
+<li><a href="/wiki/Frederick_O._Prince" title="Frederick O. Prince">Prince</a></li>
+<li><a href="/wiki/Henry_L._Pierce" title="Henry L. Pierce">Pierce</a></li>
+<li><a href="/wiki/Frederick_O._Prince" title="Frederick O. Prince">Prince</a></li>
+<li><a href="/wiki/Samuel_Abbott_Green" title="Samuel Abbott Green">Green</a></li>
+<li><a href="/wiki/Albert_Palmer_(American_politician)" title="Albert Palmer (American politician)">Palmer</a></li>
+<li><a href="/wiki/Augustus_Pearl_Martin" title="Augustus Pearl Martin">Martin</a></li>
+<li><a href="/wiki/Hugh_O%27Brien" title="Hugh O&#39;Brien">O'Brien</a></li>
+<li><a href="/wiki/Thomas_N._Hart" title="Thomas N. Hart">Hart</a></li>
+<li><a href="/wiki/Nathan_Matthews,_Jr." class="mw-redirect" title="Nathan Matthews, Jr.">Matthews</a></li>
+<li><a href="/wiki/Edwin_Upton_Curtis" title="Edwin Upton Curtis">Curtis</a></li>
+<li><a href="/wiki/Josiah_Quincy_(1859%E2%80%931919)" title="Josiah Quincy (1859–1919)">Quincy</a></li>
+<li><a href="/wiki/Thomas_N._Hart" title="Thomas N. Hart">Hart</a></li>
+<li><a href="/wiki/Patrick_Collins_(mayor)" title="Patrick Collins (mayor)">Collins</a></li>
+<li><a href="/wiki/Daniel_A._Whelton" title="Daniel A. Whelton">Whelton*</a></li>
+<li><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">Fitzgerald</a></li>
+<li><a href="/wiki/George_A._Hibbard" title="George A. Hibbard">Hibbard</a></li>
+<li><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">Fitzgerald</a></li>
+<li><a href="/wiki/James_Michael_Curley" title="James Michael Curley">Curley</a></li>
+<li><a href="/wiki/Andrew_James_Peters" title="Andrew James Peters">Peters</a></li>
+<li><a href="/wiki/James_Michael_Curley" title="James Michael Curley">Curley</a></li>
+<li><a href="/wiki/Malcolm_Nichols" title="Malcolm Nichols">Nichols</a></li>
+<li><a href="/wiki/James_Michael_Curley" title="James Michael Curley">Curley</a></li>
+<li><a href="/wiki/Frederick_Mansfield" title="Frederick Mansfield">Mansfield</a></li>
+<li><a href="/wiki/Maurice_J._Tobin" title="Maurice J. Tobin">Tobin</a></li>
+<li><a href="/wiki/John_E._Kerrigan" title="John E. Kerrigan">Kerrigan</a>*</li>
+<li><a href="/wiki/James_Michael_Curley" title="James Michael Curley">Curley</a></li>
+<li><a href="/wiki/John_Bernard_Hynes" class="mw-redirect" title="John Bernard Hynes">Hynes</a>*</li>
+<li><a href="/wiki/James_Michael_Curley" title="James Michael Curley">Curley</a></li>
+<li><a href="/wiki/John_Bernard_Hynes" class="mw-redirect" title="John Bernard Hynes">Hynes</a></li>
+<li><a href="/wiki/John_F._Collins" title="John F. Collins">Collins</a></li>
+<li><a href="/wiki/Kevin_White_(politician)" title="Kevin White (politician)">White</a></li>
+<li><a href="/wiki/Raymond_Flynn" title="Raymond Flynn">Flynn</a></li>
+<li><a href="/wiki/Thomas_Menino" title="Thomas Menino">Menino</a></li>
+<li><a href="/wiki/Marty_Walsh_(politician)" title="Marty Walsh (politician)">Walsh</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>* denotes acting</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190925022609
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.128 seconds
+Real time usage: 1.336 seconds
+Preprocessor visited node count: 7047/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 115595/2097152 bytes
+Template argument size: 7418/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 62165/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.478/10.000 seconds
+Lua memory usage: 5.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  981.392      1 -total
+ 22.41%  219.952      1 Template:Reflist
+ 14.97%  146.944      3 Template:Cite_book
+ 14.96%  146.851    149 Template:Sort
+ 10.16%   99.701     11 Template:Cite_news
+  9.67%   94.918     64 Template:Sortname
+  7.12%   69.840      1 Template:Commons_category
+  6.39%   62.716      8 Template:Cite_web
+  6.27%   61.495      1 Template:Infobox_official_post
+  5.74%   56.365      1 Template:Infobox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:853502-0!canonical and timestamp 20190925022608 and revision id 915252389
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mayor_of_Boston&amp;oldid=915252389">https://en.wikipedia.org/w/index.php?title=Mayor_of_Boston&amp;oldid=915252389</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Lists_of_mayors_of_places_in_Massachusetts" title="Category:Lists of mayors of places in Massachusetts">Lists of mayors of places in Massachusetts</a></li><li><a href="/wiki/Category:Mayors_of_Boston" title="Category:Mayors of Boston">Mayors of Boston</a></li><li><a href="/wiki/Category:Boston-related_lists" title="Category:Boston-related lists">Boston-related lists</a></li><li><a href="/wiki/Category:Government_of_Boston" title="Category:Government of Boston">Government of Boston</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_June_2013" title="Category:Use mdy dates from June 2013">Use mdy dates from June 2013</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata_using_P373" title="Category:Commons category link is on Wikidata using P373">Commons category link is on Wikidata using P373</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mayor+of+Boston" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mayor+of+Boston" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mayor_of_Boston" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mayor_of_Boston" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mayor_of_Boston">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mayor_of_Boston&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mayor_of_Boston" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mayor_of_Boston" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mayor_of_Boston&amp;oldid=915252389" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mayor_of_Boston&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1837807" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mayor_of_Boston&amp;id=915252389" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Mayors_of_Boston" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mayor+of+Boston">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mayor+of+Boston&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mayor_of_Boston&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Liste_der_B%C3%BCrgermeister_der_Stadt_Boston" title="Liste der Bürgermeister der Stadt Boston – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Liste_des_maires_de_Boston" title="Liste des maires de Boston – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%88%E3%83%B3%E5%B8%82%E9%95%B7" title="ボストン市長 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1837807#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 03:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mayor_of_Boston&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.128","walltime":"1.336","ppvisitednodes":{"value":7047,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115595,"limit":2097152},"templateargumentsize":{"value":7418,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62165,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  981.392      1 -total"," 22.41%  219.952      1 Template:Reflist"," 14.97%  146.944      3 Template:Cite_book"," 14.96%  146.851    149 Template:Sort"," 10.16%   99.701     11 Template:Cite_news","  9.67%   94.918     64 Template:Sortname","  7.12%   69.840      1 Template:Commons_category","  6.39%   62.716      8 Template:Cite_web","  6.27%   61.495      1 Template:Infobox_official_post","  5.74%   56.365      1 Template:Infobox"]},"scribunto":{"limitreport-timeusage":{"value":"0.478","limit":"10.000"},"limitreport-memusage":{"value":5551016,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190925022609","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mayor of Boston","url":"https:\/\/en.wikipedia.org\/wiki\/Mayor_of_Boston","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1837807","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1837807","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-24T02:02:10Z","dateModified":"2019-09-12T03:08:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0d\/Seal_of_Boston%2C_Massachusetts.svg","headline":"head of municipal government in Boston, USA"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

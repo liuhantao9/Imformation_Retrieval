@@ -1,0 +1,615 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Temporary Home - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Temporary_Home","wgTitle":"Temporary Home","wgCurRevisionId":896982099,"wgRevisionId":896982099,"wgArticleId":24793358,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","Articles with hAudio microformats","Singlechart usages for Billboardcanadianhot100","Singlechart called without song","Singlechart usages for Billboardcanadacountry","Singlechart usages for Billboardhot100","Singlechart usages for Billboardchristiansongs","Singlechart usages for Billboardcountrysongs","Pages using certification Table Entry with unknown parameters","Certification Table Entry usages for United States","2009 singles","Carrie Underwood songs","Songs written by Carrie Underwood","Billboard Hot Country Songs number-one singles","Country ballads",
+"Arista Nashville singles","Songs written by Luke Laird","Music videos directed by Deaton-Flanigen Productions","Song recordings produced by Mark Bright (record producer)","Songs written by Zac Maloy","2009 songs","2000s ballads","Songs about death","Songs about homelessness"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Temporary_Home","wgRelevantArticleId":24793358,"wgRequestId":"XYqQ3wpAME8AAD07LfIAAADJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1768551","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/3/39/Temporary_home.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Temporary_Home"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Temporary_Home&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Temporary_Home&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Temporary_Home"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Temporary_Home rootpage-Temporary_Home skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Temporary Home</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: khaki;">"Temporary Home"</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Temporary_home.png" class="image"><img alt="Temporary home.png" src="//upload.wikimedia.org/wikipedia/en/thumb/3/39/Temporary_home.png/220px-Temporary_home.png" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/3/39/Temporary_home.png 1.5x" data-file-width="300" data-file-height="300" /></a></td></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></th></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;">from the album <i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i></th></tr><tr><th scope="row">Released</th><td class="plainlist">October&#160;20,&#160;2009<span style="display:none">&#160;(<span class="bday dtstart published updated">2009-10-20</span>)</span></td></tr><tr><th scope="row">Format</th><td class="hlist"><a href="/wiki/CD_single" title="CD single">CD single</a><br /><a href="/wiki/Music_download" title="Music download">Music download</a></td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><a href="/wiki/Country_music" title="Country music">Country</a>, <a href="/wiki/Christian_music" title="Christian music">Christian</a></td></tr><tr><th scope="row">Length</th><td class="plainlist"><span class="duration"><span class="min">4</span>:<span class="s">28</span></span> (album version) <br /> 4:19 (radio version)</td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Songwriter" title="Songwriter">Songwriter(s)</a></span></th><td class="hlist"><a href="/wiki/Luke_Laird" title="Luke Laird">Luke Laird</a><br />Zac Maloy<br />Carrie Underwood</td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th><td class="hlist"><a href="/wiki/Mark_Bright_(record_producer)" title="Mark Bright (record producer)">Mark Bright</a></td></tr><tr><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> singles chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse;">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0;">"<a href="/wiki/Cowboy_Casanova" title="Cowboy Casanova">Cowboy Casanova</a>" <br />(2009)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding:.2em .1em;">"<b>Temporary Home</b>" <br />(2009)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em;">"<a href="/wiki/Undo_It" title="Undo It">Undo It</a>" <br />(2010)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:khaki">Music videos</th></tr><tr><td colspan="2" style="text-align:center"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=LraOiHUltak"><span class="plainlinks">"Temporary Home"</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>"<b>Temporary Home</b>" is a song written by Zac Maloy, <a href="/wiki/Luke_Laird" title="Luke Laird">Luke Laird</a> and co-written and recorded by American <a href="/wiki/Country_music" title="Country music">country</a> artist <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a>. It is the second official single from her third studio album, <i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i>, and was released to country radio the week of December 14, 2009. Before being released as a single, the song was made available to iTunes on October 20, 2009. A promotional music video for the song was released in November 2009,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and an official music video followed in February 2010. In December 2010, the song was ranked at number 25 on <i>Billboard</i>'s Top Country Songs of 2010.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The song was nominated for <a href="/wiki/Best_Female_Country_Vocal_Performance" class="mw-redirect" title="Best Female Country Vocal Performance">Best Female Country Vocal Performance</a> at the <a href="/wiki/53rd_Grammy_Awards" class="mw-redirect" title="53rd Grammy Awards">53rd Grammy Awards</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Release_history"><span class="tocnumber">3</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Music_video"><span class="tocnumber">4</span> <span class="toctext">Music video</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Awards_and_nominations"><span class="tocnumber">5</span> <span class="toctext">Awards and nominations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#53rd_Grammy_Awards"><span class="tocnumber">5.1</span> <span class="toctext">53rd Grammy Awards</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#16th_Inspirational_Country_Music_Awards"><span class="tocnumber">5.2</span> <span class="toctext">16th Inspirational Country Music Awards</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#2010_CMT_Music_Awards"><span class="tocnumber">5.3</span> <span class="toctext">2010 CMT Music Awards</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#2010_CMA_Triple-Play_Awards"><span class="tocnumber">5.4</span> <span class="toctext">2010 CMA Triple-Play Awards</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#2011_BMI_Awards"><span class="tocnumber">5.5</span> <span class="toctext">2011 BMI Awards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Chart_performance"><span class="tocnumber">6</span> <span class="toctext">Chart performance</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Year-end_charts"><span class="tocnumber">6.1</span> <span class="toctext">Year-end charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Sales_and_certifications"><span class="tocnumber">7</span> <span class="toctext">Sales and certifications</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carrie Underwood was inspired by the book <i><a href="/wiki/The_Purpose_Driven_Life" title="The Purpose Driven Life">The Purpose Driven Life</a></i> by Pastor <a href="/wiki/Rick_Warren" title="Rick Warren">Rick Warren</a>, who wrote that this world is a "temporary home" and that when we leave here, it is not the end of existence.<sup id="cite_ref-top100idol_3-0" class="reference"><a href="#cite_note-top100idol-3">&#91;3&#93;</a></sup>  Carrie said, "I thought of a little boy in a foster situation, and he knows where he's going, and the place where he is isn't where he should be, but he'll get there someday."  She met with songwriters Luke Laird and Zac Maloy to write the song, provide the idea and the title, and had the melody.<sup id="cite_ref-top100idol_3-1" class="reference"><a href="#cite_note-top100idol-3">&#91;3&#93;</a></sup>
+</p><p>On November 16, 2009, Underwood performed the song on <i><a href="/wiki/The_Tonight_Show_with_Conan_O%27Brien" title="The Tonight Show with Conan O&#39;Brien">The Tonight Show with Conan O'Brien</a></i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> She also performed this song on 'Home for the Holidays', a CBS special that <a href="/wiki/Faith_Hill" title="Faith Hill">Faith Hill</a> hosted on December 23, 2009. Before her performance at Foxwoods Casino, <a href="/wiki/Connecticut" title="Connecticut">Connecticut</a>, Underwood's tour bus crashed and the driver was killed. During her performance, Underwood got emotional and said "This song means so much to me..." and gave a tearful performance.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small noprint" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;">
+<tbody><tr>
+<td class="mbox-image"><div class="center"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/50px-Gnome-mime-sound-openclipart.svg.png" decoding="async" width="50" height="50" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/75px-Gnome-mime-sound-openclipart.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gnome-mime-sound-openclipart.svg/100px-Gnome-mime-sound-openclipart.svg.png 2x" data-file-width="160" data-file-height="160" /></div></div></td>
+<td class="mbox-text plainlist" style="line-height:1.1em"><div class="haudio">
+<div style="padding:4px 0"><a href="/wiki/File:TemporaryHome.ogg" title="File:TemporaryHome.ogg">Carrie Underwood "Temporary Home" (2009)</a></div>
+<div><div class="mediaContainer" style="width:220px"><audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="25.966848072562" data-startoffset="0" data-mwtitle="TemporaryHome.ogg" data-mwprovider="local"><source src="//upload.wikimedia.org/wikipedia/en/a/a3/TemporaryHome.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (82 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="82146" /><source src="//upload.wikimedia.org/wikipedia/en/transcoded/a/a3/TemporaryHome.ogg/TemporaryHome.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="115464" /></audio></div></div>
+<div class="description" style="padding:2px 0 0 0">26 second sample from Carrie Underwood's "Temporary Home".</div></div></td></tr>
+<tr><td colspan="2" class="mbox-text" style="line-height:1.1em"><hr /><i class="selfreference">Problems playing this file? See <a href="/wiki/Help:Media" title="Help:Media">media help</a>.</i></td></tr>
+</tbody></table>
+<p>Reviews of the song have been mainly positive. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> gave a positive review saying that "Hope reverberates through the scenarios as each character senses that life on Earth is but a temporary trial....Vocally, she has never sounded more heartfelt and compelling. 'Temporary Home' is a powerful song that's stirring but not preachy, and Underwood's performance is sure to resonate strongly with listeners."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p><i>Country Universe</i> gave the track an A− grade saying "It’s not the narrative that powers this song, but the depth and strength of her personal conviction. From the inclusion of neglected members of society to the intricate shades of fully-invested emotion to the telling last line –“this is our temporary home”–, the song provides a glimpse at the person behind the artist."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p><i>Roughstock</i> was also positive in their review saying, "In 'Temporary Home', three characters all take on some interpretation of the title phrase: a literal sense for the foster child bounced from home to home, a struggling young mother in a halfway house, and a spiritual sense for the man on his deathbed. What could've easily been a mountain of <a href="https://en.wiktionary.org/wiki/glurge" class="extiw" title="wikt:glurge">glurge</a> instead becomes simple and effective."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Jim Malec of 9513 was less enthusiastic about the song, saying "It’s hard to relate to, or have much sympathy for, people who we know aren’t real. As a result, 'Temporary Home' has a very dull emotional affect—we’re sad because hard times are sad, and we’re happy because we hope tomorrow will be better, but we know the whole scenario is constructed to preach a particular point of view. Between the first note and the last, not a single lyric works to reveal something about ourselves or strives to tell us a story—its impact is blunt, hits fast and fades quickly." He was positive about Underwood's vocals saying, "Underwood shows off those refined chops on new single 'Temporary Home'; her vocal is beautifully delicate, and the downtempo pace of the song grants a welcome reprieve for her typically bombastic production."<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=3" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Region
+</th>
+<th>Date
+</th>
+<th>Format
+</th>
+<th>Label
+</th></tr>
+<tr>
+<td><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td rowspan="2">October 20, 2009
+</td>
+<td rowspan="2">Music download
+</td>
+<td>Arista Nashville
+</td></tr>
+<tr>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>
+</td>
+<td>Sony Music
+</td></tr>
+<tr>
+<td>United States
+</td>
+<td rowspan="2">December 14, 2009
+</td>
+<td rowspan="2">Airplay
+</td>
+<td>Arista Nashville
+</td></tr>
+<tr>
+<td>Canada
+</td>
+<td>Sony Music
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Music_video">Music video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=4" title="Edit section: Music video">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Originally, a live performance from CMT's <i>Invitation Only</i>, was released as a music video to promote the single. A concept music video for the song was filmed in <a href="/wiki/Nashville,_Tennessee" title="Nashville, Tennessee">Nashville, Tennessee</a>, and premiered on <a href="/wiki/Country_Music_Television" class="mw-redirect" title="Country Music Television">CMT</a> on February 4, 2010.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>The video was directed and produced by <a href="/wiki/Deaton-Flanigen_Productions" title="Deaton-Flanigen Productions">Deaton Flanigen</a>. In the song's music video Underwood is shown riding around town in a taxi cab. During her journey she watches a young boy with his new foster mother, and a mother trying desperately to get a job. Finally, she reaches her destination, a hospital room with an elderly man, presumably her grandfather, lying on his deathbed. Between the third verse and third chorus on the video, Underwood goes in and talks to her dying grandfather (portrayed by <a href="/wiki/Brian_Dennehy" title="Brian Dennehy">Brian Dennehy</a>) in the video, cries and hugs him.  Throughout the video, Underwood is also shown performing the song while standing among trees in the winter, with snowfall coming down behind her. Underwood said of the video,
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047036">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>"It's kind of like one person on their way somewhere, which is a theme of this song. You're headed someplace, and then they kind of share these special moments with the characters. But through that, I felt like everybody's on their own journey, and we all cross paths. So I felt like it was close enough to the story, but just far enough away to where it kind of provided a different angle."<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p></blockquote>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=5" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="53rd_Grammy_Awards">53rd Grammy Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=6" title="Edit section: 53rd Grammy Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">"Temporary Home"</td>
+<td align="center"><a href="/wiki/Grammy_Award_for_Best_Female_Country_Vocal_Performance" title="Grammy Award for Best Female Country Vocal Performance">Best Female Country Vocal Performance</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="16th_Inspirational_Country_Music_Awards">16th Inspirational Country Music Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=7" title="Edit section: 16th Inspirational Country Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">"Temporary Home"</td>
+<td align="center">Inspirational Music Video of the Year</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">"Temporary Home"</td>
+<td align="center">Inspirational Mainstream Country Song of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="2010_CMT_Music_Awards">2010 CMT Music Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=8" title="Edit section: 2010 CMT Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">"Temporary Home" <small>(from CMT Invitation Only)</small></td>
+<td align="center">CMT Performance of the Year</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="2010_CMA_Triple-Play_Awards">2010 CMA Triple-Play Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=9" title="Edit section: 2010 CMA Triple-Play Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2010</td>
+<td align="center">"Temporary Home"</td>
+<td align="center">Triple-Play Songwriter <small>(along with "<a href="/wiki/Cowboy_Casanova" title="Cowboy Casanova">Cowboy Casanova</a>" and "<a href="/wiki/Undo_It" title="Undo It">Undo It</a>")</small></td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="2011_BMI_Awards">2011 BMI Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=10" title="Edit section: 2011 BMI Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2011</td>
+<td align="center">"Temporary Home"</td>
+<td align="center">Songwriter of the Year</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Chart_performance">Chart performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=11" title="Edit section: Chart performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Temporary Home" debuted at number 92 on the U.S. <i>Billboard</i> Hot 100 and at number 66 on the Canadian Hot 100 and peaked at number 41 and 65 respectively. It also debuted at number 48 on the U.S. <i>Billboard</i> Hot Country Songs chart on the week ending December 12, 2009, and on the chart week of April 10, 2010, the song became her ninth number one single and peaked at number 34 on the U.S. <a href="/wiki/Christian_Songs" title="Christian Songs">Christian Songs</a> chart.
+</p><p>As of October 2015, "Temporary Home" has sold 1,093,000 copies in the United States. <sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2009–10)
+</th>
+<th>Peak<br />position
+</th></tr>
+<tr>
+<td>Canada (<a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a>)<sup id="cite_ref-sc_Billboardcanadianhot100_Carrie_Underwood_14-0" class="reference"><a href="#cite_note-sc_Billboardcanadianhot100_Carrie_Underwood-14">&#91;14&#93;</a></sup>
+</td>
+<td style="text-align:center;">65
+</td></tr>
+<tr>
+<td>Canada <a href="/wiki/Canada_Country" class="mw-redirect" title="Canada Country">Country</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcanadacountry_Carrie_Underwood_15-0" class="reference"><a href="#cite_note-sc_Billboardcanadacountry_Carrie_Underwood-15">&#91;15&#93;</a></sup>
+</td>
+<td style="text-align:center;">2
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a><sup id="cite_ref-sc_Billboardhot100_Carrie_Underwood_16-0" class="reference"><a href="#cite_note-sc_Billboardhot100_Carrie_Underwood-16">&#91;16&#93;</a></sup>
+</td>
+<td style="text-align:center;">41
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Christian_Songs" title="Christian Songs">Christian Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardchristiansongs_Carrie_Underwood_17-0" class="reference"><a href="#cite_note-sc_Billboardchristiansongs_Carrie_Underwood-17">&#91;17&#93;</a></sup>
+</td>
+<td style="text-align:center;">34
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcountrysongs_Carrie_Underwood_18-0" class="reference"><a href="#cite_note-sc_Billboardcountrysongs_Carrie_Underwood-18">&#91;18&#93;</a></sup>
+</td>
+<td style="text-align:center;">1
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=12" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th scope="col">Chart (2010)
+</th>
+<th scope="col">Position
+</th></tr>
+<tr>
+<td>US Country Songs (<i>Billboard</i>)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</td>
+<td align="center">25
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sales_and_certifications">Sales and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=13" title="Edit section: Sales and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a promotional single (before the release of <i>Play On</i>):
+</p><p><b>United States:</b> 31,000
+</p>
+<ul><li>These sales only count for the purchases of the song that were bought during the album's promotion period before it was released as an official single.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li></ul>
+<p>As a confirmed single (after the release of <i>Play On</i>):
+</p><p><b>United States:</b> 1,093,000<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>The song has been certified Platinum.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<table class="wikitable sortable plainrowheaders">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Region
+</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certified units</a>/sales
+</th></tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesCarrie_UnderwoodTemporary_HomesingleCertRef_23-0" class="reference"><a href="#cite_note-United_StatesCarrie_UnderwoodTemporary_HomesingleCertRef-23">&#91;23&#93;</a></sup>
+</th>
+<td>Platinum
+</td>
+<td>1,000,000<sup>^</sup>
+</td></tr>
+
+
+
+<tr class="sortbottom" style="text-align: center;">
+<td colspan="3">
+<p><small><sup>*</sup>sales figures based on certification alone</small><br /><small><sup>^</sup>shipments figures based on certification alone</small><br />
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.countrystandardtime.com/news/newsitem.asp?xid=3477">"Underwood's Temporary Home video out"</a>. Country Standard time<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Underwood%27s+Temporary+Home+video+out&amp;rft.pub=Country+Standard+time&amp;rft_id=http%3A%2F%2Fwww.countrystandardtime.com%2Fnews%2Fnewsitem.asp%3Fxid%3D3477&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/charts/year-end/2010/hot-country-songs?begin=21&amp;order=position">http://www.billboard.com/charts/year-end/2010/hot-country-songs?begin=21&amp;order=position</a></span>
+</li>
+<li id="cite_note-top100idol-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-top100idol_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-top100idol_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Bronson, Fred (March 5, 2013). <a rel="nofollow" class="external text" href="http://edit.billboard.com/articles/list/1550614/top-100-american-idol-hits-of-all-time?list_page=3">"Top 100 'American Idol' Hits of All Time"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 6,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Top+100+%27American+Idol%27+Hits+of+All+Time&amp;rft.date=2013-03-05&amp;rft.aulast=Bronson&amp;rft.aufirst=Fred&amp;rft_id=http%3A%2F%2Fedit.billboard.com%2Farticles%2Flist%2F1550614%2Ftop-100-american-idol-hits-of-all-time%3Flist_page%3D3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110723203423/http://www.carrieunderwoodofficial.com/us/event/2009/11/16">"The Tonight Show with Conan O'Brien"</a>. The Official Carrie Underwood Site. Archived from <a rel="nofollow" class="external text" href="http://www.carrieunderwoodofficial.com/us/event/2009/11/16">the original</a> on 2011-07-23<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Tonight+Show+with+Conan+O%27Brien&amp;rft.pub=The+Official+Carrie+Underwood+Site&amp;rft_id=http%3A%2F%2Fwww.carrieunderwoodofficial.com%2Fus%2Fevent%2F2009%2F11%2F16&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.newson6.com/Global/story.asp?S=12182984">http://www.newson6.com/Global/story.asp?S=12182984</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/articles/review/1069885/carrie-underwood-temporary-home">http://www.billboard.com/articles/review/1069885/carrie-underwood-temporary-home</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/idUSTRE6075F720100108">"Billboard singles reviews: Carrie Underwood, Young Money"</a>. <i>Reuters</i>. January 8, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Reuters&amp;rft.atitle=Billboard+singles+reviews%3A+Carrie+Underwood%2C+Young+Money&amp;rft.date=2010-01-08&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2FidUSTRE6075F720100108&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Seetharam, Tara (December 28, 2009). <a rel="nofollow" class="external text" href="http://www.countryuniverse.net/2009/12/28/review-carrie-underwood-temporary-home/">"Review: Carrie Underwood, "Temporary Home<span class="cs1-kern-right">"</span>"</a>. Country Universe<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Review%3A+Carrie+Underwood%2C+%22Temporary+Home%22&amp;rft.pub=Country+Universe&amp;rft.date=2009-12-28&amp;rft.aulast=Seetharam&amp;rft.aufirst=Tara&amp;rft_id=http%3A%2F%2Fwww.countryuniverse.net%2F2009%2F12%2F28%2Freview-carrie-underwood-temporary-home%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Peacock, Bobby (February 16, 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100529215303/http://www.roughstock.com/blog/carrie-underwood-temporary-home-">"Carrie Underwood - "Temporary Home<span class="cs1-kern-right">"</span>"</a>. Roughstock. Archived from <a rel="nofollow" class="external text" href="http://www.roughstock.com/blog/carrie-underwood-temporary-home-">the original</a> on May 29, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+-+%22Temporary+Home%22&amp;rft.pub=Roughstock&amp;rft.date=2010-02-16&amp;rft.aulast=Peacock&amp;rft.aufirst=Bobby&amp;rft_id=http%3A%2F%2Fwww.roughstock.com%2Fblog%2Fcarrie-underwood-temporary-home-&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Malec, Jim (December 18, 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091222055123/http://www.the9513.com/carrie-underwood-temporary-home/">"Carrie Underwood - "Temporary Home<span class="cs1-kern-right">"</span>"</a>. The 9513. Archived from <a rel="nofollow" class="external text" href="http://www.the9513.com/carrie-underwood-temporary-home/">the original</a> on December 22, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">May 2,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+-+%22Temporary+Home%22&amp;rft.pub=The+9513&amp;rft.date=2009-12-18&amp;rft.aulast=Malec&amp;rft.aufirst=Jim&amp;rft_id=http%3A%2F%2Fwww.the9513.com%2Fcarrie-underwood-temporary-home%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cmt.com/videos/carrie-underwood/478351/temporary-home.jhtml?id=1631127">"CMT Videos: Music Binge - 2.4.10&#160;: Temporary Home"</a>. CMT.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CMT+Videos%3A+Music+Binge+-+2.4.10+%3A+Temporary+Home&amp;rft.pub=CMT.com&amp;rft_id=http%3A%2F%2Fwww.cmt.com%2Fvideos%2Fcarrie-underwood%2F478351%2Ftemporary-home.jhtml%3Fid%3D1631127&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.songfacts.com/detail.php?id=17336">"Temporary Home by Carrie Underwood Songfacts"</a>. Songfacts.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-10-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Temporary+Home+by+Carrie+Underwood+Songfacts&amp;rft.pub=Songfacts.com&amp;rft_id=http%3A%2F%2Fwww.songfacts.com%2Fdetail.php%3Fid%3D17336&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/articles/columns/chart-beat/7476936/britney-spears-hot-100-make-me-video">http://www.billboard.com/articles/columns/chart-beat/7476936/britney-spears-hot-100-make-me-video</a></span>
+</li>
+<li id="cite_note-sc_Billboardcanadianhot100_Carrie_Underwood-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcanadianhot100_Carrie_Underwood_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/canadian-hot-100">"Carrie Underwood Chart History (Canadian Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved 2010-08-26.</span>
+</li>
+<li id="cite_note-sc_Billboardcanadacountry_Carrie_Underwood-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcanadacountry_Carrie_Underwood_15-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/canada-country">"Carrie Underwood Chart History (Canada Country)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved December 5, 2017.</span>
+</li>
+<li id="cite_note-sc_Billboardhot100_Carrie_Underwood-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardhot100_Carrie_Underwood_16-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/hot-100">"Carrie Underwood Chart History (Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved 2010-08-26.</span>
+</li>
+<li id="cite_note-sc_Billboardchristiansongs_Carrie_Underwood-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardchristiansongs_Carrie_Underwood_17-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/christian-songs">"Carrie Underwood Chart History (Hot Christian Songs)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved December 5, 2017.</span>
+</li>
+<li id="cite_note-sc_Billboardcountrysongs_Carrie_Underwood-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcountrysongs_Carrie_Underwood_18-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/country-songs">"Carrie Underwood Chart History (Hot Country Songs)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved 2010-08-26.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2010/hot-country-songs">"Best of 2010: Country Songs"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">December 13,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2010%3A+Country+Songs&amp;rft.date=2010&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2010%2Fhot-country-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Mansfield, Brian (November 4, 2009). <a rel="nofollow" class="external text" href="http://content.usatoday.com/communities/idolchatter/post/2009/11/your-weekly-sales-fix-kelly-clarkson-adam-lambert-kris-allen-tracks/1">"Your weekly sales fix: Kelly Clarkson, Adam Lambert, Kris Allen tracks"</a>. Idol Chatter - Candid commentary on American Idol Performances<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-05-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Your+weekly+sales+fix%3A+Kelly+Clarkson%2C+Adam+Lambert%2C+Kris+Allen+tracks&amp;rft.date=2009-11-04&amp;rft.aulast=Mansfield&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Fcontent.usatoday.com%2Fcommunities%2Fidolchatter%2Fpost%2F2009%2F11%2Fyour-weekly-sales-fix-kelly-clarkson-adam-lambert-kris-allen-tracks%2F1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.billboard.com/articles/columns/chart-beat/6722951/ask-billboard-chart-beats-piano-man-returns">http://www.billboard.com/articles/columns/chart-beat/6722951/ask-billboard-chart-beats-piano-man-returns</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS&amp;artist=Carrie%20Underwood&amp;format=SINGLE&amp;go=Search&amp;perPage=50">https://www.riaa.com/goldandplatinumdata.php?table=SEARCH_RESULTS&amp;artist=Carrie%20Underwood&amp;format=SINGLE&amp;go=Search&amp;perPage=50</a></span>
+</li>
+<li id="cite_note-United_StatesCarrie_UnderwoodTemporary_HomesingleCertRef-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesCarrie_UnderwoodTemporary_HomesingleCertRef_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=Carrie+Underwood&amp;ti=Temporary+Home#search_section">"American single  certifications – Carrie Underwood – Temporary Home"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 10,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+single++certifications+%E2%80%93+Carrie+Underwood+%E2%80%93+Temporary+Home&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3DCarrie%2BUnderwood%26ti%3DTemporary%2BHome%23search_section&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATemporary+Home" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <i>If necessary, click </i>Advanced<i>, then click </i>Format<i>, then select </i>Single<i>,  then click </i>SEARCH<i>.<span class="nowrap">&#160;</span></i></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Temporary_Home&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.metrolyrics.com/temporary-home-lyrics-carrie-underwood.html">Lyrics of this song</a> at <a href="/wiki/MetroLyrics" title="MetroLyrics">MetroLyrics</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Carrie_Underwood_songs" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carrie_Underwood_songs" title="Template:Carrie Underwood songs"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carrie_Underwood_songs" title="Template talk:Carrie Underwood songs"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carrie_Underwood_songs&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carrie_Underwood_songs" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> <a href="/wiki/List_of_songs_recorded_by_Carrie_Underwood" title="List of songs recorded by Carrie Underwood">songs</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Discography&amp;#10;*_Awards_and_nominations">
+<ul><li><a href="/wiki/Carrie_Underwood_discography" title="Carrie Underwood discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Carrie_Underwood" title="List of awards and nominations received by Carrie Underwood">Awards and nominations</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Some_Hearts" title="Some Hearts">Some Hearts</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"</li>
+<li>"<a href="/wiki/Some_Hearts_(song)" title="Some Hearts (song)">Some Hearts</a>"</li>
+<li>"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"</li>
+<li>"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"</li>
+<li>"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/So_Small" title="So Small">So Small</a>"</li>
+<li>"<a href="/wiki/All-American_Girl_(song)" title="All-American Girl (song)">All-American Girl</a>"</li>
+<li>"<a href="/wiki/Last_Name_(song)" title="Last Name (song)">Last Name</a>"</li>
+<li>"<a href="/wiki/Just_a_Dream_(Carrie_Underwood_song)" title="Just a Dream (Carrie Underwood song)">Just a Dream</a>"</li>
+<li>"<a href="/wiki/I_Told_You_So_(Randy_Travis_song)" title="I Told You So (Randy Travis song)">I Told You So</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cowboy_Casanova" title="Cowboy Casanova">Cowboy Casanova</a>"</li>
+<li>"<a class="mw-selflink selflink">Temporary Home</a>"</li>
+<li>"<a href="/wiki/Undo_It" title="Undo It">Undo It</a>"</li>
+<li>"<a href="/wiki/Mama%27s_Song" title="Mama&#39;s Song">Mama's Song</a>"</li>
+<li>"<a href="/wiki/Home_Sweet_Home_(M%C3%B6tley_Cr%C3%BCe_song)" title="Home Sweet Home (Mötley Crüe song)">Home Sweet Home</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Blown_Away_(album)" title="Blown Away (album)">Blown Away</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Good_Girl_(Carrie_Underwood_song)" title="Good Girl (Carrie Underwood song)">Good Girl</a>"</li>
+<li>"<a href="/wiki/Blown_Away_(Carrie_Underwood_song)" title="Blown Away (Carrie Underwood song)">Blown Away</a>"</li>
+<li>"<a href="/wiki/Two_Black_Cadillacs" title="Two Black Cadillacs">Two Black Cadillacs</a>"</li>
+<li>"<a href="/wiki/See_You_Again_(Carrie_Underwood_song)" title="See You Again (Carrie Underwood song)">See You Again</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Greatest_Hits:_Decade_Number_1" title="Greatest Hits: Decade Number 1">Greatest Hits: Decade #1</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Something_in_the_Water_(Carrie_Underwood_song)" title="Something in the Water (Carrie Underwood song)">Something in the Water</a>"</li>
+<li>"<a href="/wiki/Little_Toy_Guns" title="Little Toy Guns">Little Toy Guns</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Smoke_Break" title="Smoke Break">Smoke Break</a>"</li>
+<li>"<a href="/wiki/Heartbeat_(Carrie_Underwood_song)" title="Heartbeat (Carrie Underwood song)">Heartbeat</a>"</li>
+<li>"<a href="/wiki/Church_Bells_(song)" title="Church Bells (song)">Church Bells</a>"</li>
+<li>"<a href="/wiki/Dirty_Laundry_(Carrie_Underwood_song)" title="Dirty Laundry (Carrie Underwood song)">Dirty Laundry</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Cry_Pretty" title="Cry Pretty">Cry Pretty</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cry_Pretty_(song)" title="Cry Pretty (song)">Cry Pretty</a>"</li>
+<li>"<a href="/wiki/Love_Wins_(song)" title="Love Wins (song)">Love Wins</a>"</li>
+<li>"<a href="/wiki/The_Champion_(song)" title="The Champion (song)">The Champion</a>"</li>
+<li>"<a href="/wiki/Southbound_(Carrie_Underwood_song)" title="Southbound (Carrie Underwood song)">Southbound</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaborative songs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Just_Stand_Up!" title="Just Stand Up!">Just Stand Up!</a>"</li>
+<li>"<a href="/wiki/Remind_Me_(Brad_Paisley_and_Carrie_Underwood_song)" title="Remind Me (Brad Paisley and Carrie Underwood song)">Remind Me</a>"</li>
+<li>"<a href="/wiki/Can%27t_Stop_Lovin%27_You_(Aerosmith_song)" title="Can&#39;t Stop Lovin&#39; You (Aerosmith song)">Can't Stop Lovin' You</a>"</li>
+<li>"<a href="/wiki/Somethin%27_Bad" title="Somethin&#39; Bad">Somethin' Bad</a>"</li>
+<li>"<a href="/wiki/The_Fighter_(Keith_Urban_song)" title="The Fighter (Keith Urban song)">The Fighter</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>"</li>
+<li>"<a href="/wiki/I%27ll_Stand_by_You" title="I&#39;ll Stand by You">I'll Stand by You</a>"</li>
+<li>"<a href="/wiki/Ever_Ever_After" title="Ever Ever After">Ever Ever After</a>"</li>
+<li>"<a href="/wiki/Praying_for_Time" title="Praying for Time">Praying for Time</a>"</li>
+<li>"<a href="/wiki/There%27s_a_Place_for_Us_(song)" title="There&#39;s a Place for Us (song)">There's a Place for Us</a>"</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Carrie_Underwood" title="Book:Carrie Underwood">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Carrie_Underwood" title="Category:Carrie Underwood">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1261
+Cached time: 20190907093734
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.660 seconds
+Real time usage: 0.808 seconds
+Preprocessor visited node count: 4258/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74573/2097152 bytes
+Template argument size: 7837/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 42514/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.176/10.000 seconds
+Lua memory usage: 5.2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  710.392      1 -total
+ 26.90%  191.115      1 Template:Infobox_song
+ 26.74%  189.945      2 Template:Infobox
+ 24.61%  174.793      1 Template:Certification_Table_Entry
+ 22.42%  159.239      5 Template:Singlechart
+ 16.86%  119.746     10 Template:Cite_web
+ 16.70%  118.618      1 Template:Certification_Cite_Ref
+ 16.10%  114.339      1 Template:Cite_certification
+  9.63%   68.400      1 Template:Reflist
+  7.55%   53.612      1 Template:External_music_video
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24793358-0!canonical and timestamp 20190907093733 and revision id 896982099
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Temporary_Home&amp;oldid=896982099">https://en.wikipedia.org/w/index.php?title=Temporary_Home&amp;oldid=896982099</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2009_singles" title="Category:2009 singles">2009 singles</a></li><li><a href="/wiki/Category:Carrie_Underwood_songs" title="Category:Carrie Underwood songs">Carrie Underwood songs</a></li><li><a href="/wiki/Category:Songs_written_by_Carrie_Underwood" title="Category:Songs written by Carrie Underwood">Songs written by Carrie Underwood</a></li><li><a href="/wiki/Category:Billboard_Hot_Country_Songs_number-one_singles" title="Category:Billboard Hot Country Songs number-one singles">Billboard Hot Country Songs number-one singles</a></li><li><a href="/wiki/Category:Country_ballads" title="Category:Country ballads">Country ballads</a></li><li><a href="/wiki/Category:Arista_Nashville_singles" title="Category:Arista Nashville singles">Arista Nashville singles</a></li><li><a href="/wiki/Category:Songs_written_by_Luke_Laird" title="Category:Songs written by Luke Laird">Songs written by Luke Laird</a></li><li><a href="/wiki/Category:Music_videos_directed_by_Deaton-Flanigen_Productions" title="Category:Music videos directed by Deaton-Flanigen Productions">Music videos directed by Deaton-Flanigen Productions</a></li><li><a href="/wiki/Category:Song_recordings_produced_by_Mark_Bright_(record_producer)" title="Category:Song recordings produced by Mark Bright (record producer)">Song recordings produced by Mark Bright (record producer)</a></li><li><a href="/wiki/Category:Songs_written_by_Zac_Maloy" title="Category:Songs written by Zac Maloy">Songs written by Zac Maloy</a></li><li><a href="/wiki/Category:2009_songs" title="Category:2009 songs">2009 songs</a></li><li><a href="/wiki/Category:2000s_ballads" title="Category:2000s ballads">2000s ballads</a></li><li><a href="/wiki/Category:Songs_about_death" title="Category:Songs about death">Songs about death</a></li><li><a href="/wiki/Category:Songs_about_homelessness" title="Category:Songs about homelessness">Songs about homelessness</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcanadianhot100" title="Category:Singlechart usages for Billboardcanadianhot100">Singlechart usages for Billboardcanadianhot100</a></li><li><a href="/wiki/Category:Singlechart_called_without_song" title="Category:Singlechart called without song">Singlechart called without song</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcanadacountry" title="Category:Singlechart usages for Billboardcanadacountry">Singlechart usages for Billboardcanadacountry</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardhot100" title="Category:Singlechart usages for Billboardhot100">Singlechart usages for Billboardhot100</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardchristiansongs" title="Category:Singlechart usages for Billboardchristiansongs">Singlechart usages for Billboardchristiansongs</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcountrysongs" title="Category:Singlechart usages for Billboardcountrysongs">Singlechart usages for Billboardcountrysongs</a></li><li><a href="/wiki/Category:Pages_using_certification_Table_Entry_with_unknown_parameters" title="Category:Pages using certification Table Entry with unknown parameters">Pages using certification Table Entry with unknown parameters</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Temporary+Home" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Temporary+Home" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Temporary_Home" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Temporary_Home" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Temporary_Home">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Temporary_Home&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Temporary_Home&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Temporary_Home" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Temporary_Home" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Temporary_Home&amp;oldid=896982099" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Temporary_Home&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1768551" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Temporary_Home&amp;id=896982099" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Temporary+Home">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Temporary+Home&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Temporary_Home&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Temporary_Home" title="Temporary Home – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Temporary_Home" title="Temporary Home – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Temporary_Home" title="Temporary Home – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Temporary_Home" title="Temporary Home – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Temporary_Home" title="Temporary Home – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1768551#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 May 2019, at 01:11<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Temporary_Home&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.660","walltime":"0.808","ppvisitednodes":{"value":4258,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74573,"limit":2097152},"templateargumentsize":{"value":7837,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42514,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  710.392      1 -total"," 26.90%  191.115      1 Template:Infobox_song"," 26.74%  189.945      2 Template:Infobox"," 24.61%  174.793      1 Template:Certification_Table_Entry"," 22.42%  159.239      5 Template:Singlechart"," 16.86%  119.746     10 Template:Cite_web"," 16.70%  118.618      1 Template:Certification_Cite_Ref"," 16.10%  114.339      1 Template:Cite_certification","  9.63%   68.400      1 Template:Reflist","  7.55%   53.612      1 Template:External_music_video"]},"scribunto":{"limitreport-timeusage":{"value":"0.176","limit":"10.000"},"limitreport-memusage":{"value":5457653,"limit":52428800}},"cachereport":{"origin":"mw1261","timestamp":"20190907093734","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Temporary Home","url":"https:\/\/en.wikipedia.org\/wiki\/Temporary_Home","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1768551","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1768551","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-10-23T05:00:43Z","dateModified":"2019-05-14T01:11:43Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/3\/39\/Temporary_home.png","headline":"single by Carrie Underwood"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

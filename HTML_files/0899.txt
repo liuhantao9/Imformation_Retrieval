@@ -1,0 +1,1398 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Massachusetts Senate - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Massachusetts_Senate","wgTitle":"Massachusetts Senate","wgCurRevisionId":904543820,"wgRevisionId":904543820,"wgArticleId":722240,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from December 2011","Articles with hCards","All articles with dead external links","Articles with dead external links from December 2017","Articles with permanently dead external links","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Massachusetts state senators","State upper houses in the United States","Massachusetts General Court"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Massachusetts_Senate","wgRelevantArticleId":722240,"wgRequestId":"XYpaWwpAME4AAJpNBfQAAACK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q1494665","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest",
+"ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Seal_of_the_Senate_of_Massachusetts.svg/1200px-Seal_of_the_Senate_of_Massachusetts.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Massachusetts_Senate"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Massachusetts_Senate&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Massachusetts_Senate&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Massachusetts_Senate"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Massachusetts_Senate rootpage-Massachusetts_Senate skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Massachusetts Senate</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For a list of previous senators, see <a href="/wiki/List_of_Massachusetts_Senate_delegations" title="List of Massachusetts Senate delegations">List of Massachusetts Senate delegations</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046874">@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}</style><div class="mw-stack stack-container stack-right mobile-float-reset"><div class="stack-object">
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #ededed"><div style="display:inline" class="fn org">Massachusetts Senate</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">Massachusetts General Court</a></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Seal_of_the_Senate_of_Massachusetts.svg" class="image" title="Coat of arms or logo"><img alt="Coat of arms or logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Seal_of_the_Senate_of_Massachusetts.svg/170px-Seal_of_the_Senate_of_Massachusetts.svg.png" decoding="async" width="170" height="170" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Seal_of_the_Senate_of_Massachusetts.svg/255px-Seal_of_the_Senate_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Seal_of_the_Senate_of_Massachusetts.svg/340px-Seal_of_the_Senate_of_Massachusetts.svg.png 2x" data-file-width="527" data-file-height="527" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Type</th></tr><tr><th scope="row">Type</th><td><div style="padding:0.1em 0;line-height:1.3em;"><div style="display:inline" class="category"><a href="/wiki/Upper_house" title="Upper house">Upper house</a></div>  </div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Term limits</div></th><td>None</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">History</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">New session started</div></th><td>January 2, 2019</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Leadership</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/President_of_the_Massachusetts_Senate" title="President of the Massachusetts Senate">President of the Senate</a></div></th><td><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/Karen_Spilka" title="Karen Spilka">Karen Spilka</a>&#32;(<a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">D</a>) <br />since July 26, 2018 </div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em">President pro Tempore</div></th><td><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/Will_Brownsberger" title="Will Brownsberger">William N. Brownsberger</a>&#32;(<a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">D</a>) <br />since March 20, 2019 </div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em">Majority Leader</div></th><td><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/Cynthia_Stone_Creem" title="Cynthia Stone Creem">Cynthia Stone Creem</a>&#32;(<a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">D</a>) <br />since February 28, 2018 </div></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em">Minority Leader</div></th><td><div style="padding:0.1em 0;line-height:1.2em;line-height:1.3em"><a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a>&#32;(<a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">R</a>) <br />since January 5, 2011 </div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Structure</th></tr><tr><th scope="row">Seats</th><td>40</td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Massachusetts_State_Senate_2019-2021.svg" class="image"><img alt="Massachusetts State Senate 2019-2021.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Massachusetts_State_Senate_2019-2021.svg/250px-Massachusetts_State_Senate_2019-2021.svg.png" decoding="async" width="250" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Massachusetts_State_Senate_2019-2021.svg/375px-Massachusetts_State_Senate_2019-2021.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Massachusetts_State_Senate_2019-2021.svg/500px-Massachusetts_State_Senate_2019-2021.svg.png 2x" data-file-width="360" data-file-height="185" /></a></td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Political groups</div></th><td><b>Majority</b>
+<div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0000FF; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Massachusetts_Democratic_Party" title="Massachusetts Democratic Party">Democrat</a> (34)</div> 
+<p><b>Minority</b>
+</p>
+<div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #FF0000; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Massachusetts_Republican_Party" title="Massachusetts Republican Party">Republican</a> (6)</div>
+</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Length of term</div></th><td>2 years</td></tr><tr><th scope="row">Authority</th><td>Chapter 1, <a href="/wiki/Massachusetts_Constitution" class="mw-redirect" title="Massachusetts Constitution">Massachusetts Constitution</a></td></tr><tr><th scope="row">Salary</th><td>$62,500/year; set to increase every two years equal to the increase in the median salary of Massachusetts. Additional stipends are given to leaders of the majority and minority party.</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Elections</th></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Last election</div></th><td>November 6, 2018<br />(40 seats)</td></tr><tr><th scope="row"><div style="padding:0.1em 0;line-height:1.2em;">Next election</div></th><td>November 3, 2020<br />(40 seats)</td></tr><tr><th scope="row">Redistricting</th><td>Legislative Control</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Meeting place</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Holy_Mackerel_State_House.jpg" class="image"><img alt="Holy Mackerel State House.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Holy_Mackerel_State_House.jpg/220px-Holy_Mackerel_State_House.jpg" decoding="async" width="220" height="399" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Holy_Mackerel_State_House.jpg/330px-Holy_Mackerel_State_House.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Holy_Mackerel_State_House.jpg/440px-Holy_Mackerel_State_House.jpg 2x" data-file-width="1222" data-file-height="2219" /></a></td></tr><tr><td colspan="2" class="label" style="text-align:center">State Senate Chamber<br /><a href="/wiki/Massachusetts_State_House" title="Massachusetts State House">Massachusetts State House</a><br /><a href="/wiki/Boston,_MA" class="mw-redirect" title="Boston, MA">Boston</a>, Massachusetts</td></tr><tr><th colspan="2" style="text-align:center;background-color: #ededed">Website</th></tr><tr><td colspan="2" style="text-align:center"><a rel="nofollow" class="external text" href="http://www.malegislature.gov/People/Senate">Massachusetts Senate</a></td></tr></tbody></table>
+</div></div>
+<p>The <b>Massachusetts Senate</b> is the upper house of the <a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">Massachusetts General Court</a>, the <a href="/wiki/Bicameral" class="mw-redirect" title="Bicameral">bicameral</a> state legislature of the <a href="/wiki/Commonwealth_(U.S._state)" title="Commonwealth (U.S. state)">Commonwealth</a> of <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. The Senate comprises 40 elected members from 40 single-member senatorial districts in the state. All but one of the districts are named for the counties in which they are located (the "Cape and Islands" district covers <a href="/wiki/Dukes_County,_Massachusetts" title="Dukes County, Massachusetts">Dukes</a>, <a href="/wiki/Nantucket_County,_Massachusetts" class="mw-redirect" title="Nantucket County, Massachusetts">Nantucket</a>, and parts of <a href="/wiki/Barnstable_County,_Massachusetts" title="Barnstable County, Massachusetts">Barnstable</a> counties). Senators serve two-year terms, without <a href="/wiki/Term_limits_in_the_United_States" title="Term limits in the United States">term limits</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The Senate convenes in the <a href="/wiki/Massachusetts_State_House" title="Massachusetts State House">Massachusetts State House</a>, in Boston.
+</p><p>The current session is the 191st General Court, which convened January 2, 2019. It consists of 34 <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democrats</a> and 6 <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republicans</a>. The <a href="/wiki/President_of_the_Massachusetts_Senate" title="President of the Massachusetts Senate">President of the Senate</a> is <a href="/wiki/Karen_E._Spilka" class="mw-redirect" title="Karen E. Spilka">Karen E. Spilka</a> of <a href="/wiki/Ashland,_Massachusetts" title="Ashland, Massachusetts">Ashland</a>. The Senate <a href="/wiki/Minority_Leader" class="mw-redirect" title="Minority Leader">Minority Leader</a>, from the Republican Party, is <a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a> of <a href="/wiki/Gloucester,_Massachusetts" title="Gloucester, Massachusetts">Gloucester</a>. The last state general election was on November 6, 2018.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Recent_party_control"><span class="tocnumber">1</span> <span class="toctext">Recent party control</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Current_leadership"><span class="tocnumber">2</span> <span class="toctext">Current leadership</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Committees"><span class="tocnumber">3</span> <span class="toctext">Committees</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Current_members"><span class="tocnumber">4</span> <span class="toctext">Current members</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Past_composition_of_the_Senate"><span class="tocnumber">5</span> <span class="toctext">Past composition of the Senate</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Recent_party_control">Recent party control</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=1" title="Edit section: Recent party control">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democrats</a> hold a <a href="/wiki/Supermajority" title="Supermajority">supermajority</a> in the Senate.
+</p>
+<table class="wikitable" style="text-align:center">
+
+<tbody><tr style="vertical-align:bottom;">
+<th rowspan="3">Affiliation
+</th>
+<th colspan="2">Party <br /><div style="font-size:80%">(Shading indicates majority caucus)</div>
+</th>
+<th rowspan="3">Total
+</th>
+<th>
+</th></tr>
+<tr style="height:5px">
+<td style="background-color:#3333FF">
+</td>
+<td style="background-color:#E81B23">
+</td>
+<td style="background-color: #C9C9C9;">
+</td></tr>
+<tr>
+<th><a href="/wiki/Massachusetts_Democratic_Party" title="Massachusetts Democratic Party">Democratic</a>
+</th>
+<th><a href="/wiki/Massachusetts_Republican_Party" title="Massachusetts Republican Party">Republican</a>
+</th>
+<th>Vacant
+</th></tr>
+<tr>
+<th nowrap="" style="font-size:80%">Start of 189th General Court
+</th>
+<td style="background:#B0CEFF">34
+</td>
+<td rowspan="3">6
+</td>
+<th>40
+</th>
+<td>0
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">June 25, 2016<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</th>
+<td style="background:#B0CEFF">33
+</td>
+<th>39
+</th>
+<td>1
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">November 10, 2015<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</th>
+<td style="background:#B0CEFF" rowspan="2">34
+</td>
+<th>40
+</th>
+<td>0
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">January 4, 2016<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</th>
+<td rowspan="2">5
+</td>
+<th>39
+</th>
+<td>1
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">January 21, 2016<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</th>
+<td style="background:#B0CEFF">33
+</td>
+<th>38
+</th>
+<td>2
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">May 18, 2016<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</th>
+<td style="background:#B0CEFF">34
+</td>
+<td>6
+</td>
+<th>40
+</th>
+<td>0
+</td></tr>
+<tr>
+<td colspan="5">
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">Start of 190th General Court
+</th>
+<td style="background:#B0CEFF">34
+</td>
+<td>6
+</td>
+<th>40
+</th>
+<td>0
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">End of 190th General Court
+</th>
+<td style="background:#B0CEFF">31
+</td>
+<td>7
+</td>
+<th>38
+</th>
+<td>2
+</td></tr>
+<tr>
+<td colspan="5">
+</td></tr>
+<tr>
+<th nowrap="" style="font-size:80%">Start of 191st General Court
+</th>
+<td style="background:#B0CEFF">34
+</td>
+<td>6
+</td>
+<th>40
+</th>
+<td>0
+</td></tr>
+<tr>
+<th>Latest voting share
+</th>
+<th style="background:#B0CEFF"><span data-sort-value="7001850000000000000♠">85</span>%
+</th>
+<th><span data-sort-value="7001150000000000000♠">15</span>%
+</th>
+<th colspan="2">
+</th></tr></tbody></table>
+<h2><span class="mw-headline" id="Current_leadership">Current leadership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=2" title="Edit section: Current leadership">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Position
+</th>
+<th>Leader
+</th>
+<th>Municipality
+</th>
+<th>Party
+</th></tr>
+<tr>
+<th><a href="/wiki/President_of_the_Massachusetts_Senate" title="President of the Massachusetts Senate">President of the Senate</a>
+</th>
+<td><a href="/wiki/Karen_E._Spilka" class="mw-redirect" title="Karen E. Spilka">Karen E. Spilka</a>
+</td>
+<td><a href="/wiki/Ashland,_Massachusetts" title="Ashland, Massachusetts">Ashland</a>
+</td>
+<td rowspan="11" style="background:#B0CEFF"><a href="/wiki/Massachusetts_Democratic_Party" title="Massachusetts Democratic Party">Democratic</a>
+</td></tr>
+<tr>
+<th><b><a href="/wiki/Majority_Leader" class="mw-redirect" title="Majority Leader">Majority Leader</a></b>
+</th>
+<td><a href="/wiki/Cynthia_Stone_Creem" title="Cynthia Stone Creem">Cynthia Stone Creem</a>
+</td>
+<td><a href="/wiki/Newton,_Massachusetts" title="Newton, Massachusetts">Newton</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/President_Pro_Tempore" class="mw-redirect" title="President Pro Tempore">President Pro Tempore</a>
+</th>
+<td><a href="/wiki/Will_Brownsberger" title="Will Brownsberger">William N. Brownsberger</a>
+</td>
+<td><a href="/wiki/Belmont,_Massachusetts" title="Belmont, Massachusetts">Belmont</a>
+</td></tr>
+<tr>
+<th><b>Senate President Emerita</b>
+</th>
+<td><a href="/wiki/Harriette_Chandler" class="mw-redirect" title="Harriette Chandler">Harriette L. Chandler</a>
+</td>
+<td><a href="/wiki/Worcester,_Massachusetts" title="Worcester, Massachusetts">Worcester</a>
+</td></tr>
+<tr>
+<th rowspan="3">Assistant Majority Leader
+</th>
+<td><a href="/wiki/Joan_Lovely" title="Joan Lovely">Joan B. Lovely</a>
+</td>
+<td><a href="/wiki/Salem,_Massachusetts" title="Salem, Massachusetts">Salem</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Michael_J._Barrett" title="Michael J. Barrett">Michael J. Barrett</a>
+</td>
+<td><a href="/wiki/Lexington,_Massachusetts" title="Lexington, Massachusetts">Lexington</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sal_DiDomenico" title="Sal DiDomenico">Sal N. DiDomenico</a>
+</td>
+<td><a href="/wiki/Everett,_Massachusetts" title="Everett, Massachusetts">Everett</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Majority_Whip" class="mw-redirect" title="Majority Whip">Majority Whip</a>
+</th>
+<td><a href="/wiki/Mike_Rush" title="Mike Rush">Michael F. Rush</a>
+</td>
+<td><a href="/wiki/West_Roxbury" title="West Roxbury">West Roxbury</a>
+</td></tr>
+<tr>
+<th>Assistant Majority Whip
+</th>
+<td><a href="/wiki/Julian_Cyr" title="Julian Cyr">Julian Cyr</a>
+</td>
+<td><a href="/wiki/Truro,_Massachusetts" title="Truro, Massachusetts">Truro</a>
+</td></tr>
+<tr>
+<th>Senate <a href="/wiki/Ways_and_means_committee" title="Ways and means committee">Ways and Means</a> Chair
+</th>
+<td><a href="/wiki/Michael_Rodrigues_(politician)" title="Michael Rodrigues (politician)">Michael J. Rodrigues</a>
+</td>
+<td><a href="/wiki/Westport,_Massachusetts" title="Westport, Massachusetts">Westport</a>
+</td></tr>
+<tr>
+<th>Senate <a href="/wiki/Ways_and_means_committee" title="Ways and means committee">Ways and Means</a> Vice Chair
+</th>
+<td><a href="/wiki/Cindy_Friedman" title="Cindy Friedman">Cindy F. Friedman</a>
+</td>
+<td><a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Minority_Leader" class="mw-redirect" title="Minority Leader">Minority Leader</a>
+</th>
+<td><a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce E. Tarr</a>
+</td>
+<td><a href="/wiki/Gloucester,_Massachusetts" title="Gloucester, Massachusetts">Gloucester</a>
+</td>
+<td rowspan="6" style="background:#FFB6B6"><a href="/wiki/Massachusetts_Republican_Party" title="Massachusetts Republican Party">Republican</a>
+</td></tr>
+<tr>
+<th rowspan="2">Assistant Minority Leader
+</th>
+<td><a href="/wiki/Donald_Humason_Jr." title="Donald Humason Jr.">Donald F. Humason, Jr.</a>
+</td>
+<td><a href="/wiki/Westfield,_Massachusetts" title="Westfield, Massachusetts">Westfield</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ryan_Fattman" title="Ryan Fattman">Ryan C. Fattman</a>
+</td>
+<td><a href="/wiki/Sutton,_Massachusetts" title="Sutton, Massachusetts">Sutton</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Minority_Whip" class="mw-redirect" title="Minority Whip">Minority Whip</a>
+</th>
+<td><a href="/wiki/Patrick_O%27Connor_(Massachusetts_politician)" title="Patrick O&#39;Connor (Massachusetts politician)">Patrick M. O'Connor</a>
+</td>
+<td><a href="/wiki/Weymouth,_Massachusetts" title="Weymouth, Massachusetts">Weymouth</a>
+</td></tr>
+<tr>
+<th>Assistant Minority Whip
+</th>
+<td><a href="/wiki/Dean_Tran" title="Dean Tran">Dean A. Tran</a>
+</td>
+<td><a href="/wiki/Leominster,_Massachusetts" title="Leominster, Massachusetts">Leominster</a>
+</td></tr>
+<tr>
+<th>Senate <a href="/wiki/Ways_and_means_committee" title="Ways and means committee">Ways &amp; Means</a> Ranking Member
+</th>
+<td><a href="/wiki/Viriato_deMacedo" class="mw-redirect" title="Viriato deMacedo">Viriato M. deMacedo</a>
+</td>
+<td><a href="/wiki/Plymouth,_Massachusetts" title="Plymouth, Massachusetts">Plymouth</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Committees">Committees</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=3" title="Edit section: Committees">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The current <a href="/wiki/Committee#Standing_committee" title="Committee">standing committees</a> of the Massachusetts Senate are as follows:
+</p>
+<table class="wikitable sortable plainrowheaders">
+
+
+<tbody><tr>
+<th>Committee
+</th>
+<th>Chair
+</th>
+<th>Vice Chair
+</th>
+<th>Ranking Minority
+</th></tr>
+<tr>
+<th>Bills in the <a href="/wiki/Reading_(legislature)#Third_reading" title="Reading (legislature)">Third Reading</a>
+</th>
+<td>Sal N. DiDomenico
+</td>
+<td>Harriette L. Chandler
+</td>
+<td><a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a>
+</td></tr>
+<tr>
+<th>Bonding, Capital Expenditures and State Assets
+</th>
+<td>Michael O. Moore
+</td>
+<td>Nick Collins
+</td>
+<td>Donald F. Humason, Jr.
+</td></tr>
+<tr>
+<th>Ethics
+</th>
+<td>Eric P. Lesser
+</td>
+<td>Cynthia Stone Creem
+</td>
+<td><a href="/wiki/Donald_Humason" class="mw-redirect" title="Donald Humason">Donald F. Humason, Jr.</a>
+</td></tr>
+<tr>
+<th>Global Warming and Climate Change
+</th>
+<td>Marc R. Pacheco
+</td>
+<td>Michael J. Barrett
+</td>
+<td><a href="/wiki/Patrick_O%27Connor_(Massachusetts_politician)" title="Patrick O&#39;Connor (Massachusetts politician)">Patrick O'Connor</a>
+</td></tr>
+<tr>
+<th>Intergovernmental Affairs
+</th>
+<td>Michael F. Rush
+</td>
+<td>Sal N. DiDomenico
+</td>
+<td><a href="/wiki/Dean_Tran" title="Dean Tran">Dean Tran</a>
+</td></tr>
+<tr>
+<th>Personnel and Administration
+</th>
+<td>Cynthia Stone Creem
+</td>
+<td>Joan B. Lovely
+</td>
+<td>Patrick O'Connor
+</td></tr>
+<tr>
+<th>Post Audit and Oversight
+</th>
+<td>John F. Keenan
+</td>
+<td>Paul R. Feeney
+</td>
+<td>Ryan C. Fattman
+</td></tr>
+<tr>
+<th>Redistricting
+</th>
+<td>William N. Brownsberger
+</td>
+<td>Adam G. Hinds
+</td>
+<td>Bruce Tarr
+</td></tr>
+<tr>
+<th>Rules
+</th>
+<td>Joan B. Lovely
+</td>
+<td>Joseph A. Boncore
+</td>
+<td><a href="/wiki/Ryan_Fattman" title="Ryan Fattman">Ryan C. Fattman</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Committee#Steering_committee" title="Committee">Steering, Policy and Scheduling</a>
+</th>
+<td>Mark C. Montigny
+</td>
+<td>Michael J. Rodrigues
+</td>
+<td>Bruce Tarr
+</td></tr>
+<tr>
+<th><a href="/wiki/Ways_and_means_committee" title="Ways and means committee">Ways and Means</a>
+</th>
+<td>Michael J. Rodrigues
+</td>
+<td>Cindy F. Friedman
+</td>
+<td><a href="/wiki/Viriato_deMacedo" class="mw-redirect" title="Viriato deMacedo">Viriato M. deMacedo</a>
+</td></tr></tbody></table>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Current_members">Current members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=4" title="Edit section: Current members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Current members of the Senate, sorted by district name:
+</p>
+<table class="wikitable sortable" style="text-align:left;">
+<tbody><tr>
+<th>Senator
+</th>
+<th colspan="2">Party
+</th>
+<th>District
+</th>
+<th>Home Town/City
+</th>
+<th>Assumed office
+</th></tr>
+<tr>
+<td><span data-sort-value="Hinds, Adam G."><span class="vcard"><span class="fn"><a href="/wiki/Adam_G._Hinds" title="Adam G. Hinds">Adam G. Hinds</a></span></span></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="BeHsFHd" style="display:none;"></span><a href="/wiki/Massachusetts_Senate%27s_Berkshire,_Hampshire,_Franklin,_and_Hampden_district" title="Massachusetts Senate&#39;s Berkshire, Hampshire, Franklin, and Hampden district">Berkshire, Hampshire, Franklin, and Hampden</a>
+</td>
+<td><a href="/wiki/Pittsfield,_Massachusetts" title="Pittsfield, Massachusetts">Pittsfield</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Feeney, Paul"><span class="vcard"><span class="fn"><a href="/wiki/Paul_Feeney" title="Paul Feeney">Paul Feeney</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="BrN" style="display:none;"></span><a href="/wiki/Massachusetts_Senate%27s_Bristol_and_Norfolk_district" title="Massachusetts Senate&#39;s Bristol and Norfolk district">Bristol and Norfolk</a>
+</td>
+<td><a href="/wiki/Foxborough,_Massachusetts" title="Foxborough, Massachusetts">Foxborough</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>*<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span data-sort-value="Rodrigues, Michael"><span class="vcard"><span class="fn"><a href="/wiki/Michael_Rodrigues_(politician)" title="Michael Rodrigues (politician)">Michael Rodrigues</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="BrP1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Bristol_and_Plymouth_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Bristol and Plymouth district (page does not exist)">1st Bristol and Plymouth</a>
+</td>
+<td><a href="/wiki/Westport,_Massachusetts" title="Westport, Massachusetts">Westport</a>
+</td>
+<td><span data-sort-value="000000002011-01-01-0000" style="white-space:nowrap">2011</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Montigny, Mark"><span class="vcard"><span class="fn"><a href="/wiki/Mark_Montigny" title="Mark Montigny">Mark Montigny</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="BrP2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Bristol_and_Plymouth_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Bristol and Plymouth district (page does not exist)">2nd Bristol and Plymouth</a>
+</td>
+<td><a href="/wiki/New_Bedford,_Massachusetts" title="New Bedford, Massachusetts">New Bedford</a>
+</td>
+<td><span data-sort-value="000000001993-01-01-0000" style="white-space:nowrap">1993</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Cyr, Julian"><span class="vcard"><span class="fn"><a href="/wiki/Julian_Cyr" title="Julian Cyr">Julian Cyr</a></span></span></span><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="CI" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Cape_and_Islands_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Cape and Islands district (page does not exist)">Cape and Islands</a>
+</td>
+<td><a href="/wiki/Truro,_Massachusetts" title="Truro, Massachusetts">Truro</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="DiZoglio, Diana"><span class="vcard"><span class="fn"><a href="/wiki/Diana_DiZoglio" title="Diana DiZoglio">Diana DiZoglio</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="E1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Essex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Essex district (page does not exist)">1st Essex</a>
+</td>
+<td><a href="/wiki/Methuen,_Massachusetts" title="Methuen, Massachusetts">Methuen</a>
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Lovely, Joan"><span class="vcard"><span class="fn"><a href="/wiki/Joan_Lovely" title="Joan Lovely">Joan Lovely</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="E2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Essex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Essex district (page does not exist)">2nd Essex</a>
+</td>
+<td><a href="/wiki/Salem,_Massachusetts" title="Salem, Massachusetts">Salem</a>
+</td>
+<td><span data-sort-value="000000002013-01-01-0000" style="white-space:nowrap">2013</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Crighton, Brendan"><span class="vcard"><span class="fn"><a href="/wiki/Brendan_Crighton" title="Brendan Crighton">Brendan Crighton</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="E3" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_3rd_Essex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 3rd Essex district (page does not exist)">3rd Essex</a>
+</td>
+<td><a href="/wiki/Lynn,_Massachusetts" title="Lynn, Massachusetts">Lynn</a>
+</td>
+<td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Tarr, Bruce"><span class="vcard"><span class="fn"><a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="EM1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Essex_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Essex and Middlesex district (page does not exist)">1st Essex and Middlesex</a>
+</td>
+<td><a href="/wiki/Gloucester,_Massachusetts" title="Gloucester, Massachusetts">Gloucester</a>
+</td>
+<td><span data-sort-value="000000001995-01-01-0000" style="white-space:nowrap">1995</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Finegold, Barry"><span class="vcard"><span class="fn"><a href="/wiki/Barry_Finegold" title="Barry Finegold">Barry Finegold</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="EM2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Essex_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Essex and Middlesex district (page does not exist)">2nd Essex and Middlesex</a>
+</td>
+<td><a href="/wiki/Andover,_Massachusetts" title="Andover, Massachusetts">Andover</a>
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Welch, James T."><span class="vcard"><span class="fn"><a href="/wiki/James_T._Welch" title="James T. Welch">James T. Welch</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="Hd" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Hampden_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Hampden district (page does not exist)">Hampden</a>
+</td>
+<td><a href="/wiki/West_Springfield,_Massachusetts" title="West Springfield, Massachusetts">West Springfield</a>
+</td>
+<td><span data-sort-value="000000002011-01-01-0000" style="white-space:nowrap">2011</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Lesser, Eric"><span class="vcard"><span class="fn"><a href="/wiki/Eric_Lesser" title="Eric Lesser">Eric Lesser</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="HdHs1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Hampden_and_Hampshire_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Hampden and Hampshire district (page does not exist)">1st Hampden and Hampshire</a>
+</td>
+<td><a href="/wiki/Longmeadow,_Massachusetts" title="Longmeadow, Massachusetts">Longmeadow</a>
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Humason, Jr., Donald"><span class="vcard"><span class="fn"><a href="/wiki/Donald_Humason,_Jr." class="mw-redirect" title="Donald Humason, Jr.">Donald Humason, Jr.</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="HdHs2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Hampden_and_Hampshire_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Hampden and Hampshire district (page does not exist)">2nd Hampden and Hampshire</a>
+</td>
+<td><a href="/wiki/Westfield,_Massachusetts" title="Westfield, Massachusetts">Westfield</a>
+</td>
+<td><span data-sort-value="000000002013-01-01-0000" style="white-space:nowrap">2013</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Comerford, Jo"><span class="vcard"><span class="fn"><a href="/wiki/Jo_Comerford" title="Jo Comerford">Jo Comerford</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="HdHs1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Hampshire_and_Franklin_and_Worchester_District&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Hampshire and Franklin and Worchester District (page does not exist)">Hampshire and Franklin and Worchester</a>
+</td>
+<td><a href="/wiki/Northampton,_Massachusetts" title="Northampton, Massachusetts">Northampton</a>
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td></tr>
+<tr>
+<td>Edward Kennedy
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="HdHs1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_1st_Middlesex_District&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts 1st Middlesex District (page does not exist)">1st Middlesex</a>
+</td>
+<td><a href="/wiki/Lowell,_Massachusetts" title="Lowell, Massachusetts">Lowell</a>
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Jehlen, Patricia D."><span class="vcard"><span class="fn"><a href="/wiki/Patricia_D._Jehlen" title="Patricia D. Jehlen">Patricia D. Jehlen</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="M2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Middlesex district (page does not exist)">2nd Middlesex</a>
+</td>
+<td><a href="/wiki/Somerville,_Massachusetts" title="Somerville, Massachusetts">Somerville</a>
+</td>
+<td><span data-sort-value="000000002005-01-01-0000" style="white-space:nowrap">2005</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Barrett, Michael J."><span class="vcard"><span class="fn"><a href="/wiki/Michael_J._Barrett" title="Michael J. Barrett">Michael J. Barrett</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="M3" style="display:none;"></span><a href="/wiki/Massachusetts_Senate%27s_3rd_Middlesex_district" class="mw-redirect" title="Massachusetts Senate&#39;s 3rd Middlesex district">3rd Middlesex</a>
+</td>
+<td><a href="/wiki/Lexington,_Massachusetts" title="Lexington, Massachusetts">Lexington</a>
+</td>
+<td><span data-sort-value="000000002013-01-01-0000" style="white-space:nowrap">2013</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Friedman, Cindy"><span class="vcard"><span class="fn"><a href="/wiki/Cindy_Friedman" title="Cindy Friedman">Cindy Friedman</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="M4" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_4th_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 4th Middlesex district (page does not exist)">4th Middlesex</a>
+</td>
+<td><a href="/wiki/Arlington,_Massachusetts" title="Arlington, Massachusetts">Arlington</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Lewis, Jason"><span class="vcard"><span class="fn"><a href="/wiki/Jason_Lewis_(Massachusetts_politician)" title="Jason Lewis (Massachusetts politician)">Jason Lewis</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="M5" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_5th_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 5th Middlesex district (page does not exist)">5th Middlesex</a>
+</td>
+<td><a href="/wiki/Winchester,_Massachusetts" title="Winchester, Massachusetts">Winchester</a>
+</td>
+<td><span data-sort-value="000000002014-01-01-0000" style="white-space:nowrap">2014</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Creem, Cynthia Stone"><span class="vcard"><span class="fn"><a href="/wiki/Cynthia_Stone_Creem" title="Cynthia Stone Creem">Cynthia Stone Creem</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="MN1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Middlesex_and_Norfolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Middlesex and Norfolk district (page does not exist)">1st Middlesex and Norfolk</a>
+</td>
+<td><a href="/wiki/Newton,_Massachusetts" title="Newton, Massachusetts">Newton</a>
+</td>
+<td><span data-sort-value="000000001999-01-01-0000" style="white-space:nowrap">1999</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Spilka, Karen"><span class="vcard"><span class="fn"><a href="/wiki/Karen_Spilka" title="Karen Spilka">Karen Spilka</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="MN2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Middlesex_and_Norfolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Middlesex and Norfolk district (page does not exist)">2nd Middlesex and Norfolk</a>
+</td>
+<td><a href="/wiki/Ashland,_Massachusetts" title="Ashland, Massachusetts">Ashland</a>
+</td>
+<td><span data-sort-value="000000002005-01-01-0000" style="white-space:nowrap">2005</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="DiDomenico, Sal"><span class="vcard"><span class="fn"><a href="/wiki/Sal_DiDomenico" title="Sal DiDomenico">Sal DiDomenico</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="MS" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Middlesex_and_Suffolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Middlesex and Suffolk district (page does not exist)">Middlesex and Suffolk</a>
+</td>
+<td><a href="/wiki/Everett,_Massachusetts" title="Everett, Massachusetts">Everett</a>
+</td>
+<td><span data-sort-value="000000002010-01-01-0000" style="white-space:nowrap">2010</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Eldridge, James B."><span class="vcard"><span class="fn"><a href="/wiki/James_B._Eldridge" class="mw-redirect" title="James B. Eldridge">James B. Eldridge</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="MW" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Middlesex_and_Worcester_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Middlesex and Worcester district (page does not exist)">Middlesex and Worcester</a>
+</td>
+<td><a href="/wiki/Acton,_Massachusetts" title="Acton, Massachusetts">Acton</a>
+</td>
+<td><span data-sort-value="000000002009-01-01-0000" style="white-space:nowrap">2009</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Rausch, Rebecca L."><span class="vcard"><span class="fn"><a href="/wiki/Rebecca_L._Rausch" class="mw-redirect" title="Rebecca L. Rausch">Rebecca L. Rausch</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="NBrM" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Norfolk,_Bristol_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Norfolk, Bristol and Middlesex district (page does not exist)">Norfolk, Bristol and Middlesex</a>
+</td>
+<td><a href="/wiki/Needham,_Massachusetts" title="Needham, Massachusetts">Needham</a>
+</td>
+<td><span data-sort-value="000000002019-01-01-0000" style="white-space:nowrap">2019</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Timilty, Walter"><span class="vcard"><span class="fn"><a href="/wiki/Walter_Timilty" title="Walter Timilty">Walter Timilty</a></span></span></span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="NBrP" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Norfolk,_Bristol_and_Plymouth_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Norfolk, Bristol and Plymouth district (page does not exist)">Norfolk, Bristol and Plymouth</a>
+</td>
+<td><a href="/wiki/Milton,_Massachusetts" title="Milton, Massachusetts">Milton</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Keenan, John"><span class="vcard"><span class="fn"><a href="/wiki/John_F._Keenan_(State_Senator)" class="mw-redirect" title="John F. Keenan (State Senator)">John Keenan</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="NP" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Norfolk_and_Plymouth_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Norfolk and Plymouth district (page does not exist)">Norfolk and Plymouth</a>
+</td>
+<td><a href="/wiki/Quincy,_Massachusetts" title="Quincy, Massachusetts">Quincy</a>
+</td>
+<td><span data-sort-value="000000002011-01-01-0000" style="white-space:nowrap">2011</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Rush, Michael F."><span class="vcard"><span class="fn"><a href="/wiki/Michael_F._Rush" class="mw-redirect" title="Michael F. Rush">Michael F. Rush</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="NS" style="display:none;"></span><a href="/wiki/Massachusetts_Senate%27s_Norfolk_and_Suffolk_district" title="Massachusetts Senate&#39;s Norfolk and Suffolk district">Norfolk and Suffolk</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span data-sort-value="000000002011-01-01-0000" style="white-space:nowrap">2011</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="deMacedo, Vinny"><span class="vcard"><span class="fn"><a href="/wiki/Vinny_deMacedo" title="Vinny deMacedo">Vinny deMacedo</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="PBa" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Plymouth_and_Barnstable_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Plymouth and Barnstable district (page does not exist)">Plymouth and Barnstable</a>
+</td>
+<td><a href="/wiki/Plymouth,_Massachusetts" title="Plymouth, Massachusetts">Plymouth</a>
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Pacheco, Marc"><span class="vcard"><span class="fn"><a href="/wiki/Marc_Pacheco" title="Marc Pacheco">Marc Pacheco</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="PBr1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Plymouth_and_Bristol_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Plymouth and Bristol district (page does not exist)">1st Plymouth and Bristol</a>
+</td>
+<td><a href="/wiki/Taunton,_Massachusetts" title="Taunton, Massachusetts">Taunton</a>
+</td>
+<td><span data-sort-value="000000001993-01-01-0000" style="white-space:nowrap">1993</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Brady, Michael"><span class="vcard"><span class="fn"><a href="/wiki/Michael_Brady_(politician)" title="Michael Brady (politician)">Michael Brady</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="PBr2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Plymouth_and_Bristol_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Plymouth and Bristol district (page does not exist)">2nd Plymouth and Bristol</a>
+</td>
+<td><a href="/wiki/Brockton,_Massachusetts" title="Brockton, Massachusetts">Brockton</a>
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="O&#39;Connor, Patrick"><span class="vcard"><span class="fn"><a href="/wiki/Patrick_O%27Connor_(Massachusetts_politician)" title="Patrick O&#39;Connor (Massachusetts politician)">Patrick O'Connor</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="PN" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Plymouth_and_Norfolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Plymouth and Norfolk district (page does not exist)">Plymouth and Norfolk</a>
+</td>
+<td><a href="/wiki/Weymouth,_Massachusetts" title="Weymouth, Massachusetts">Weymouth</a>
+</td>
+<td><span data-sort-value="000000002016-01-01-0000" style="white-space:nowrap">2016</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Collins, Nick"><span class="vcard"><span class="fn"><a href="/wiki/Nick_Collins_(politician)" title="Nick Collins (politician)">Nick Collins</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="S1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Suffolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Suffolk district (page does not exist)">1st Suffolk</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span data-sort-value="000000002018-01-01-0000" style="white-space:nowrap">2018</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Chang-Diaz, Sonia"><span class="vcard"><span class="fn"><a href="/wiki/Sonia_Chang-Diaz" class="mw-redirect" title="Sonia Chang-Diaz">Sonia Chang-Diaz</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="S2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Suffolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Suffolk district (page does not exist)">2nd Suffolk</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span data-sort-value="000000002009-01-01-0000" style="white-space:nowrap">2009</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Boncore, Joseph A."><span class="vcard"><span class="fn"><a href="/wiki/Joseph_A._Boncore" class="mw-redirect" title="Joseph A. Boncore">Joseph A. Boncore</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="SM1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Suffolk_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Suffolk and Middlesex district (page does not exist)">1st Suffolk and Middlesex</a>
+</td>
+<td><a href="/wiki/Winthrop,_Massachusetts" title="Winthrop, Massachusetts">Winthrop</a>
+</td>
+<td><span data-sort-value="000000002016-01-01-0000" style="white-space:nowrap">2016</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Brownsberger, Will"><span class="vcard"><span class="fn"><a href="/wiki/Will_Brownsberger" title="Will Brownsberger">Will Brownsberger</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="SM2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Suffolk_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Suffolk and Middlesex district (page does not exist)">2nd Suffolk and Middlesex</a>
+</td>
+<td><a href="/wiki/Belmont,_Massachusetts" title="Belmont, Massachusetts">Belmont</a>
+</td>
+<td><span data-sort-value="000000002012-01-01-0000" style="white-space:nowrap">2012</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Chandler, Harriette"><span class="vcard"><span class="fn"><a href="/wiki/Harriette_Chandler" class="mw-redirect" title="Harriette Chandler">Harriette Chandler</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="W1" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_1st_Worcester_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 1st Worcester district (page does not exist)">1st Worcester</a>
+</td>
+<td><a href="/wiki/Worcester,_Massachusetts" title="Worcester, Massachusetts">Worcester</a>
+</td>
+<td><span data-sort-value="000000002001-01-01-0000" style="white-space:nowrap">2001</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Moore, Michael O."><span class="vcard"><span class="fn"><a href="/wiki/Michael_O._Moore" title="Michael O. Moore">Michael O. Moore</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="W2" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_2nd_Worcester_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s 2nd Worcester district (page does not exist)">2nd Worcester</a>
+</td>
+<td><a href="/wiki/Millbury,_Massachusetts" title="Millbury, Massachusetts">Millbury</a>
+</td>
+<td><span data-sort-value="000000002009-01-01-0000" style="white-space:nowrap">2009</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Gobi, Anne"><span class="vcard"><span class="fn"><a href="/wiki/Anne_Gobi" title="Anne Gobi">Anne Gobi</a></span></span></span>
+</td>
+<td style="background-color:#3333FF">&#160;
+</td>
+<td>Democratic
+</td>
+<td><span data-sort-value="WHdHsM" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Worcester,_Hampden,_Hampshire_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Worcester, Hampden, Hampshire and Middlesex district (page does not exist)">Worcester, Hampden, Hampshire and Middlesex</a>
+</td>
+<td><a href="/wiki/Spencer,_Massachusetts" title="Spencer, Massachusetts">Spencer</a>
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>
+</td></tr>
+<tr>
+<td><span data-sort-value="Tran, Dean"><span class="vcard"><span class="fn"><a href="/wiki/Dean_Tran" title="Dean Tran">Dean Tran</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="WHdHsM" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Worcester_and_Middlesex_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Worcester and Middlesex district (page does not exist)">Worcester and Middlesex</a>
+</td>
+<td><a href="/wiki/Fitchburg,_Massachusetts" title="Fitchburg, Massachusetts">Fitchburg</a>
+</td>
+<td><span data-sort-value="000000002017-01-01-0000" style="white-space:nowrap">2017</span>*
+</td></tr>
+<tr>
+<td><span data-sort-value="Fattman, Ryan"><span class="vcard"><span class="fn"><a href="/wiki/Ryan_Fattman" title="Ryan Fattman">Ryan Fattman</a></span></span></span>
+</td>
+<td style="background-color:#E81B23">&#160;
+</td>
+<td>Republican
+</td>
+<td><span data-sort-value="WN" style="display:none;"></span><a href="/w/index.php?title=Massachusetts_Senate%27s_Worcester_and_Norfolk_district&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Senate&#39;s Worcester and Norfolk district (page does not exist)">Worcester and Norfolk</a>
+</td>
+<td><a href="/wiki/Webster,_Massachusetts" title="Webster, Massachusetts">Webster</a>
+</td>
+<td><span data-sort-value="000000002015-01-01-0000" style="white-space:nowrap">2015</span>
+</td></tr></tbody></table>
+<ul><li>*Originally elected in a special election</li></ul>
+<h2><span class="mw-headline" id="Past_composition_of_the_Senate">Past composition of the Senate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=5" title="Edit section: Past composition of the Senate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Political_party_strength_in_Massachusetts" title="Political party strength in Massachusetts">Political party strength in Massachusetts</a></div>
+<style data-mw-deduplicate="TemplateStyles:r889293853/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{text-align:left;background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .thumbcaption{text-align:center}}</style><div class="thumb tmulti tnone center"><div class="thumbinner" style="width:656px;max-width:656px"><div class="trow"><div class="tsingle" style="width:162px;max-width:162px"><div class="thumbimage"><a href="/wiki/File:107th_MA-Senate_composition.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/107th_MA-Senate_composition.png/160px-107th_MA-Senate_composition.png" decoding="async" width="160" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/107th_MA-Senate_composition.png/240px-107th_MA-Senate_composition.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/107th_MA-Senate_composition.png/320px-107th_MA-Senate_composition.png 2x" data-file-width="788" data-file-height="466" /></a></div><div class="thumbcaption">Composition by municipality in the 187th and 188th General Courts.</div></div><div class="tsingle" style="width:162px;max-width:162px"><div class="thumbimage"><a href="/wiki/File:189th_MA-Senate_composition.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/189th_MA-Senate_composition.png/160px-189th_MA-Senate_composition.png" decoding="async" width="160" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/189th_MA-Senate_composition.png/240px-189th_MA-Senate_composition.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/189th_MA-Senate_composition.png/320px-189th_MA-Senate_composition.png 2x" data-file-width="788" data-file-height="467" /></a></div><div class="thumbcaption">Composition by municipality in the 189th General Court and at the opening of 190th General Court.</div></div><div class="tsingle" style="width:162px;max-width:162px"><div class="thumbimage"><a href="/wiki/File:190th_MA-Senate_composition_beginning_December_5_2017.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/190th_MA-Senate_composition_beginning_December_5_2017.png/160px-190th_MA-Senate_composition_beginning_December_5_2017.png" decoding="async" width="160" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/190th_MA-Senate_composition_beginning_December_5_2017.png/240px-190th_MA-Senate_composition_beginning_December_5_2017.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/190th_MA-Senate_composition_beginning_December_5_2017.png/320px-190th_MA-Senate_composition_beginning_December_5_2017.png 2x" data-file-width="788" data-file-height="467" /></a></div><div class="thumbcaption">Composition by municipality in the 190th General Court beginning on December 5, 2017.</div></div><div class="tsingle" style="width:162px;max-width:162px"><div class="thumbimage"><a href="/wiki/File:Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/65/Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg/160px-Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg.png" decoding="async" width="160" height="99" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/65/Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg/240px-Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/65/Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg/320px-Massachusetts_191st_General_Court_Senate_Composition_January_2019.svg.png 2x" data-file-width="2100" data-file-height="1300" /></a></div><div class="thumbcaption">Composition by municipality at the beginning of the 191st General Court.</div></div></div></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Massachusetts_Senate_Delegations" class="mw-redirect" title="Massachusetts Senate Delegations">Massachusetts Senate Delegations</a></li>
+<li><a href="/wiki/Massachusetts_House_of_Representatives" title="Massachusetts House of Representatives">Massachusetts House of Representatives</a></li>
+<li><a href="/wiki/Massachusetts_Senate_elections,_2004" class="mw-redirect" title="Massachusetts Senate elections, 2004">Massachusetts Senate elections, 2004</a>, <a href="/wiki/Massachusetts_Senate_elections,_2006" class="mw-redirect" title="Massachusetts Senate elections, 2006">Massachusetts Senate elections, 2006</a>, <a href="/wiki/Massachusetts_Senate_elections,_2008" class="mw-redirect" title="Massachusetts Senate elections, 2008">Massachusetts Senate elections, 2008</a>, <a href="/wiki/Massachusetts_Senate_elections,_2010" class="mw-redirect" title="Massachusetts Senate elections, 2010">Massachusetts Senate elections, 2010</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mass.gov/legis/const.htm">Constitution of the Commonwealth of Massachusetts</a>, Article LXXXII.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Democrat <a href="/wiki/Thomas_P._Kennedy" title="Thomas P. Kennedy">Thomas P. Kennedy</a> (2nd Plymouth and Bristol) died. <a rel="nofollow" class="external autonumber" href="http://www.masslive.com/politics/index.ssf/2015/06/state_sen_tom_kennedy_dies_at.html">[1]</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.enterprisenews.com/article/20151110/NEWS/151119369">Democrat Michael Brady sworn in to succeed Kennedy</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Republican <a href="/wiki/Robert_L._Hedlund" title="Robert L. Hedlund">Robert L. Hedlund</a> (Plymouth and Norfolk) resigned after being elected Mayor of <a href="/wiki/Weymouth,_Massachusetts" title="Weymouth, Massachusetts">Weymouth</a>. <a rel="nofollow" class="external autonumber" href="http://norwell.wickedlocal.com/article/20151224/NEWS/151227686">[2]</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Democrat <a href="/wiki/Anthony_Petruccelli" title="Anthony Petruccelli">Anthony Petruccelli</a> (1st Suffolk and Middlesex) resigned after accepting a job in the private sector. <a rel="nofollow" class="external autonumber" href="https://www.bostonglobe.com/metro/2015/12/04/another-state-senator-takes-lobbying-job/NrY9YGyrFnnaccoNHCGN6O/story.html">[3]</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Republican Patrick O' Connor and Democrat Joseph Boncore sworn in to succeed Hedlund and Petruccelli, respectively. <a rel="nofollow" class="external autonumber" href="http://www.patriotledger.com/news/20160518/oconnor-sworn-in-as-new-south-shore-state-senator">[4]</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://malegislature.gov/Legislators/Leadership/Senate">https://malegislature.gov/Legislators/Leadership/Senate</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://malegislature.gov/Legislators/Profile/AGH0">https://malegislature.gov/Legislators/Profile/AGH0</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Daniel Libon (October 17, 2017). <a rel="nofollow" class="external text" href="https://patch.com/massachusetts/foxborough/feeney-beats-ventura-shortsleeve-state-senate-race/">"Feeney Beats Ventura, Shortsleeve In State Senate Race"</a>. Patch.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Feeney+Beats+Ventura%2C+Shortsleeve+In+State+Senate+Race&amp;rft.pub=Patch&amp;rft.date=2017-10-17&amp;rft.au=Daniel+Libon&amp;rft_id=https%3A%2F%2Fpatch.com%2Fmassachusetts%2Ffoxborough%2Ffeeney-beats-ventura-shortsleeve-state-senate-race%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts+Senate" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://malegislature.gov/Legislators/Profile/JAC0">https://malegislature.gov/Legislators/Profile/JAC0</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://malegislature.gov/Legislators/Profile/WFT0">https://malegislature.gov/Legislators/Profile/WFT0</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book"><a rel="nofollow" class="external text" href="https://archive.org/stream/publicofficersof20052006bost#page/36/mode/2up">"Senate of the General Court of Massachusetts"</a>. <i>Public Officers of the Commonwealth of Massachusetts</i>. 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Senate+of+the+General+Court+of+Massachusetts&amp;rft.btitle=Public+Officers+of+the+Commonwealth+of+Massachusetts&amp;rft.date=2005&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fpublicofficersof20052006bost%23page%2F36%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts+Senate" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>, <a rel="nofollow" class="external text" href="https://archive.org/stream/publicofficersof20072008bost#page/36/mode/2up">2007</a></li>
+<li><cite class="citation"><a rel="nofollow" class="external text" href="https://www.bostonglobe.com/metro/2015/04/03/house-senate-power-struggle-brewing/bSabieBtmbwnmRXEzUHR5M/story.html">"House–Senate power struggle brewing"</a>, <i>Boston Globe</i>, April 4, 2015</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boston+Globe&amp;rft.atitle=House%E2%80%93Senate+power+struggle+brewing&amp;rft.date=2015-04-04&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2015%2F04%2F03%2Fhouse-senate-power-struggle-brewing%2FbSabieBtmbwnmRXEzUHR5M%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts+Senate" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.mass.gov/legis/memmenus.htm">Senate Members of the General Court</a> <i>official government website</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.sec.state.ma.us/ele/eledist/sen11idx.htm">Official Senate district definitions</a> as of 2011
+<ul><li><a rel="nofollow" class="external text" href="http://www.sec.state.ma.us/ele/eledist/sen02idx.htm">2002</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100304165150/http://www.mass.gov/legis/sendis03.htm">2010</a>, with names of senators</li></ul></li>
+<li><a rel="nofollow" class="external text" href="http://www.vote-smart.org/official_state_legislator.php?type=office&amp;state_id=MA&amp;criteria=upper">State Senate of Massachusetts</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since December 2017">permanent dead link</span></a></i>&#93;</span></sup> at <a href="/wiki/Project_Vote_Smart" class="mw-redirect" title="Project Vote Smart">Project Vote Smart</a></li>
+<li><a rel="nofollow" class="external text" href="https://ballotpedia.org/Massachusetts_State_Senate">Massachusetts Senate</a> at <a href="/wiki/Ballotpedia" title="Ballotpedia">Ballotpedia</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Members_of_the_Massachusetts_Senate" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Massachusetts_State_Senators" title="Template:Massachusetts State Senators"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Massachusetts_State_Senators" title="Template talk:Massachusetts State Senators"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Massachusetts_State_Senators&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Members_of_the_Massachusetts_Senate" style="font-size:114%;margin:0 4em">Members of the <a class="mw-selflink selflink">Massachusetts Senate</a></div></th></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div id="*_191st_General_Court_(2019–present)&amp;#10;&amp;#10;*_President_of_the_Senate:_Karen_Spilka_(D)&amp;#10;*_President_pro_Tempore:_Will_Brownsberger_(D)&amp;#10;*_Majority_Leader:_Cynthia_Stone_Creem_(D)&amp;#10;*_Minority_Leader:_Bruce_Tarr_(R)">
+<ul><li><b><a href="/wiki/List_of_Massachusetts_Senate_delegations" title="List of Massachusetts Senate delegations">191st General Court</a></b> (2019–present)</li></ul>
+<ul><li><a href="/wiki/President_of_the_Massachusetts_Senate" title="President of the Massachusetts Senate">President of the Senate</a>: <a href="/wiki/Karen_Spilka" title="Karen Spilka">Karen Spilka</a> (D)</li>
+<li>President pro Tempore: <a href="/wiki/Will_Brownsberger" title="Will Brownsberger">Will Brownsberger</a> (D)</li>
+<li>Majority Leader: <a href="/wiki/Cynthia_Stone_Creem" title="Cynthia Stone Creem">Cynthia Stone Creem</a> (D)</li>
+<li>Minority Leader: <a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a> (R)</li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd plainlist" style="width:100%;padding:0px;text-align:left;"><div style="padding:0em 0.25em"><div class="div-col columns column-width" style="-moz-column-width: 26em; -webkit-column-width: 26em; column-width: 26em;">
+<ul><li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Adam_G._Hinds" title="Adam G. Hinds">Adam G. Hinds</a> (D, Berk., Hpsh., Frnk., Hpdn.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Paul_Feeney" title="Paul Feeney">Paul Feeney</a> (D, Bris., Norf.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Michael_Rodrigues_(politician)" title="Michael Rodrigues (politician)">Michael Rodrigues</a> (D, 1st Bris., Plym.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Mark_Montigny" title="Mark Montigny">Mark Montigny</a> (D, 2nd Bris., Plym.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Julian_Cyr" title="Julian Cyr">Julian Cyr</a> (D, Cape., Isl.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Kathleen_O%27Connor_Ives" title="Kathleen O&#39;Connor Ives">Kathleen O'Connor Ives</a> (D, 1st Ess.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Joan_Lovely" title="Joan Lovely">Joan Lovely</a> (D, 2nd Ess.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Bruce_Tarr" title="Bruce Tarr">Bruce Tarr</a> (R, 1st Ess., Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Barbara_L%27Italien" title="Barbara L&#39;Italien">Barbara L'Italien</a> (D, 2nd Ess., Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Brendan_Crighton" title="Brendan Crighton">Brendan Crighton</a> (D, 3rd Ess.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/James_T._Welch" title="James T. Welch">James T. Welch</a> (D, Hpdn.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Eric_Lesser" title="Eric Lesser">Eric Lesser</a> (D, 1st Hpdn., Hpsh.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Donald_Humason_Jr." title="Donald Humason Jr.">Donald Humason Jr.</a> (R, 2nd Hpdn., Hpsh.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Stan_Rosenberg" title="Stan Rosenberg">Stan Rosenberg</a> (D, Hpsh., Frnk., Wor.)</li>
+<li><i>Vacant</i> (1st Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Patricia_D._Jehlen" title="Patricia D. Jehlen">Patricia D. Jehlen</a> (D, 2nd Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Michael_J._Barrett" title="Michael J. Barrett">Michael J. Barrett</a> (D, 3rd Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Cindy_Friedman" title="Cindy Friedman">Cindy Friedman</a> (D, 4th Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Jason_Lewis_(Massachusetts_politician)" title="Jason Lewis (Massachusetts politician)">Jason Lewis</a> (D, 5th Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Cynthia_Stone_Creem" title="Cynthia Stone Creem">Cynthia Stone Creem</a> (D, 1st Mid., Norf.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Karen_Spilka" title="Karen Spilka">Karen Spilka</a> (D, 2nd Mid., Norf.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Sal_DiDomenico" title="Sal DiDomenico">Sal DiDomenico</a> (D, Mid., Suff.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Jamie_Eldridge" title="Jamie Eldridge">Jamie Eldridge</a> (D, Mid., Wor.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Becca_Rausch" title="Becca Rausch">Becca Rausch</a> (D, Norf., Bris., Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Walter_Timilty" title="Walter Timilty">Walter Timilty</a> (D, Norf., Bris., Plym.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/John_F._Keenan_(state_senator)" title="John F. Keenan (state senator)">John F. Keenan</a> (D, Norf., Plym.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Mike_Rush" title="Mike Rush">Michael F. Rush</a> (D, Norf., Suff.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Vinny_deMacedo" title="Vinny deMacedo">Vinny deMacedo</a> (R, Plym., Barn.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Marc_Pacheco" title="Marc Pacheco">Marc Pacheco</a> (D, 1st Plym., Bris.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Michael_Brady_(politician)" title="Michael Brady (politician)">Michael Brady</a> (D, 2nd Plym., Bris.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Patrick_O%27Connor_(Massachusetts_politician)" title="Patrick O&#39;Connor (Massachusetts politician)">Patrick O'Connor</a> (R, Plym., Norf.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Nick_Collins_(politician)" title="Nick Collins (politician)">Nick Collins</a> (D, 1st Suff.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Sonia_Chang-D%C3%ADaz" title="Sonia Chang-Díaz">Sonia Chang-Díaz</a> (D, 2nd Suff.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Joseph_Boncore" title="Joseph Boncore">Joseph Boncore</a> (D, 1st Suff., Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Will_Brownsberger" title="Will Brownsberger">Will Brownsberger</a> (D, 2nd Suff., Mid.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Harriette_L._Chandler" title="Harriette L. Chandler">Harriette Chandler</a> (D, 1st Wor.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Michael_O._Moore" title="Michael O. Moore">Michael O. Moore</a> (D, 2nd Wor.)</li>
+<li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Anne_Gobi" title="Anne Gobi">Anne Gobi</a> (D, Wor., Hpdn., Hpsh., Midd.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Dean_Tran" title="Dean Tran">Dean Tran</a> (R, Wor., Mid.)</li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Ryan_Fattman" title="Ryan Fattman">Ryan Fattman</a> (R, Wor., Norf.)</li></ul>
+</div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><span style="background:#B0CEFF">&#160;&#160;</span> <a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic (34)</a></li>
+<li><span style="background:#FFB6B6">&#160;&#160;</span> <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican (6)</a></li>
+<li><a href="/wiki/List_of_Massachusetts_Senate_delegations" title="List of Massachusetts Senate delegations">List of Massachusetts Senate delegations</a></li>
+<li><a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">Massachusetts General Court</a></li>
+<li><a href="/wiki/Massachusetts_House_of_Representatives" title="Massachusetts House of Representatives">Massachusetts House of Representatives</a></li>
+<li><a class="mw-selflink selflink">Massachusetts Senate</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Legislatures_of_the_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:United_States_legislatures" title="Template:United States legislatures"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:United_States_legislatures" title="Template talk:United States legislatures"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:United_States_legislatures&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Legislatures_of_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Legislature" title="Legislature">Legislatures</a> of the <a href="/wiki/List_of_United_States_state_legislatures" title="List of United States state legislatures">United States</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/United_States_Congress" title="United States Congress">United States Congress</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">United States House of Representatives</a></span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Senate" title="United States Senate">United States Senate</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_United_States_state_legislatures" title="List of United States state legislatures">State legislatures</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Alabama_Legislature" title="Alabama Legislature">Alabama</a> (<a href="/wiki/Alabama_House_of_Representatives" title="Alabama House of Representatives">H</a>, <a href="/wiki/Alabama_Senate" title="Alabama Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Alaska_Legislature" title="Alaska Legislature">Alaska</a> (<a href="/wiki/Alaska_House_of_Representatives" title="Alaska House of Representatives">H</a>, <a href="/wiki/Alaska_Senate" title="Alaska Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Arizona_State_Legislature" title="Arizona State Legislature">Arizona</a> (<a href="/wiki/Arizona_House_of_Representatives" title="Arizona House of Representatives">H</a>, <a href="/wiki/Arizona_Senate" title="Arizona Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Arkansas_General_Assembly" title="Arkansas General Assembly">Arkansas</a> (<a href="/wiki/Arkansas_House_of_Representatives" title="Arkansas House of Representatives">H</a>, <a href="/wiki/Arkansas_Senate" title="Arkansas Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/California_State_Legislature" title="California State Legislature">California</a> (<a href="/wiki/California_State_Assembly" title="California State Assembly">A</a>, <a href="/wiki/California_State_Senate" title="California State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Colorado_General_Assembly" title="Colorado General Assembly">Colorado</a> (<a href="/wiki/Colorado_House_of_Representatives" title="Colorado House of Representatives">H</a>, <a href="/wiki/Colorado_Senate" title="Colorado Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Connecticut_General_Assembly" title="Connecticut General Assembly">Connecticut</a> (<a href="/wiki/Connecticut_House_of_Representatives" title="Connecticut House of Representatives">H</a>, <a href="/wiki/Connecticut_Senate" title="Connecticut Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Delaware_General_Assembly" title="Delaware General Assembly">Delaware</a> (<a href="/wiki/Delaware_House_of_Representatives" title="Delaware House of Representatives">H</a>, <a href="/wiki/Delaware_Senate" title="Delaware Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Florida_Legislature" title="Florida Legislature">Florida</a> (<a href="/wiki/Florida_House_of_Representatives" title="Florida House of Representatives">H</a>, <a href="/wiki/Florida_Senate" title="Florida Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Georgia_General_Assembly" title="Georgia General Assembly">Georgia</a> (<a href="/wiki/Georgia_House_of_Representatives" title="Georgia House of Representatives">H</a>, <a href="/wiki/Georgia_State_Senate" title="Georgia State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Hawaii_State_Legislature" title="Hawaii State Legislature">Hawaii</a> (<a href="/wiki/Hawaii_House_of_Representatives" title="Hawaii House of Representatives">H</a>, <a href="/wiki/Hawaii_Senate" title="Hawaii Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Idaho_Legislature" title="Idaho Legislature">Idaho</a> (<a href="/wiki/Idaho_House_of_Representatives" title="Idaho House of Representatives">H</a>, <a href="/wiki/Idaho_Senate" title="Idaho Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Illinois_General_Assembly" title="Illinois General Assembly">Illinois</a> (<a href="/wiki/Illinois_House_of_Representatives" title="Illinois House of Representatives">H</a>, <a href="/wiki/Illinois_Senate" title="Illinois Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Indiana_General_Assembly" title="Indiana General Assembly">Indiana</a> (<a href="/wiki/Indiana_House_of_Representatives" title="Indiana House of Representatives">H</a>, <a href="/wiki/Indiana_Senate" title="Indiana Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Iowa_General_Assembly" title="Iowa General Assembly">Iowa</a> (<a href="/wiki/Iowa_House_of_Representatives" title="Iowa House of Representatives">H</a>, <a href="/wiki/Iowa_Senate" title="Iowa Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Kansas_Legislature" title="Kansas Legislature">Kansas</a> (<a href="/wiki/Kansas_House_of_Representatives" title="Kansas House of Representatives">H</a>, <a href="/wiki/Kansas_Senate" title="Kansas Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Kentucky_General_Assembly" title="Kentucky General Assembly">Kentucky</a> (<a href="/wiki/Kentucky_House_of_Representatives" title="Kentucky House of Representatives">H</a>, <a href="/wiki/Kentucky_Senate" title="Kentucky Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Louisiana_State_Legislature" title="Louisiana State Legislature">Louisiana</a> (<a href="/wiki/Louisiana_House_of_Representatives" title="Louisiana House of Representatives">H</a>, <a href="/wiki/Louisiana_State_Senate" title="Louisiana State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Maine_Legislature" title="Maine Legislature">Maine</a> (<a href="/wiki/Maine_House_of_Representatives" title="Maine House of Representatives">H</a>, <a href="/wiki/Maine_Senate" title="Maine Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Maryland_General_Assembly" title="Maryland General Assembly">Maryland</a> (<a href="/wiki/Maryland_House_of_Delegates" title="Maryland House of Delegates">H</a>, <a href="/wiki/Maryland_Senate" title="Maryland Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">Massachusetts</a> (<a href="/wiki/Massachusetts_House_of_Representatives" title="Massachusetts House of Representatives">H</a>, <a class="mw-selflink selflink">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Michigan_Legislature" title="Michigan Legislature">Michigan</a> (<a href="/wiki/Michigan_House_of_Representatives" title="Michigan House of Representatives">H</a>, <a href="/wiki/Michigan_Senate" title="Michigan Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Minnesota_Legislature" title="Minnesota Legislature">Minnesota</a> (<a href="/wiki/Minnesota_House_of_Representatives" title="Minnesota House of Representatives">H</a>, <a href="/wiki/Minnesota_Senate" title="Minnesota Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Mississippi_Legislature" title="Mississippi Legislature">Mississippi</a> (<a href="/wiki/Mississippi_House_of_Representatives" title="Mississippi House of Representatives">H</a>, <a href="/wiki/Mississippi_State_Senate" title="Mississippi State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Missouri_General_Assembly" title="Missouri General Assembly">Missouri</a> (<a href="/wiki/Missouri_House_of_Representatives" title="Missouri House of Representatives">H</a>, <a href="/wiki/Missouri_Senate" title="Missouri Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Montana_Legislature" title="Montana Legislature">Montana</a> (<a href="/wiki/Montana_House_of_Representatives" title="Montana House of Representatives">H</a>, <a href="/wiki/Montana_Senate" title="Montana Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Nebraska_Legislature" title="Nebraska Legislature">Nebraska</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Nevada_Legislature" title="Nevada Legislature">Nevada</a> (<a href="/wiki/Nevada_Assembly" title="Nevada Assembly">A</a>, <a href="/wiki/Nevada_Senate" title="Nevada Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/New_Hampshire_General_Court" title="New Hampshire General Court">New Hampshire</a> (<a href="/wiki/New_Hampshire_House_of_Representatives" title="New Hampshire House of Representatives">H</a>, <a href="/wiki/New_Hampshire_Senate" title="New Hampshire Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/New_Jersey_Legislature" title="New Jersey Legislature">New Jersey</a> (<a href="/wiki/New_Jersey_General_Assembly" title="New Jersey General Assembly">GA</a>, <a href="/wiki/New_Jersey_Senate" title="New Jersey Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/New_Mexico_Legislature" title="New Mexico Legislature">New Mexico</a> (<a href="/wiki/New_Mexico_House_of_Representatives" title="New Mexico House of Representatives">H</a>, <a href="/wiki/New_Mexico_Senate" title="New Mexico Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/New_York_State_Legislature" title="New York State Legislature">New York</a> (<a href="/wiki/New_York_State_Assembly" title="New York State Assembly">A</a>, <a href="/wiki/New_York_State_Senate" title="New York State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/North_Carolina_General_Assembly" title="North Carolina General Assembly">North Carolina</a> (<a href="/wiki/North_Carolina_House_of_Representatives" title="North Carolina House of Representatives">H</a>, <a href="/wiki/North_Carolina_Senate" title="North Carolina Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/North_Dakota_Legislative_Assembly" title="North Dakota Legislative Assembly">North Dakota</a> (<a href="/wiki/North_Dakota_House_of_Representatives" title="North Dakota House of Representatives">H</a>, <a href="/wiki/North_Dakota_Senate" title="North Dakota Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Ohio_General_Assembly" title="Ohio General Assembly">Ohio</a> (<a href="/wiki/Ohio_House_of_Representatives" title="Ohio House of Representatives">H</a>, <a href="/wiki/Ohio_Senate" title="Ohio Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Oklahoma_Legislature" title="Oklahoma Legislature">Oklahoma</a> (<a href="/wiki/Oklahoma_House_of_Representatives" title="Oklahoma House of Representatives">H</a>, <a href="/wiki/Oklahoma_Senate" title="Oklahoma Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Oregon_Legislative_Assembly" title="Oregon Legislative Assembly">Oregon</a> (<a href="/wiki/Oregon_House_of_Representatives" title="Oregon House of Representatives">H</a>, <a href="/wiki/Oregon_State_Senate" title="Oregon State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Pennsylvania_General_Assembly" title="Pennsylvania General Assembly">Pennsylvania</a> (<a href="/wiki/Pennsylvania_House_of_Representatives" title="Pennsylvania House of Representatives">H</a>, <a href="/wiki/Pennsylvania_State_Senate" title="Pennsylvania State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Rhode_Island_General_Assembly" title="Rhode Island General Assembly">Rhode Island</a> (<a href="/wiki/Rhode_Island_House_of_Representatives" title="Rhode Island House of Representatives">H</a>, <a href="/wiki/Rhode_Island_Senate" title="Rhode Island Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/South_Carolina_General_Assembly" title="South Carolina General Assembly">South Carolina</a> (<a href="/wiki/South_Carolina_House_of_Representatives" title="South Carolina House of Representatives">H</a>, <a href="/wiki/South_Carolina_Senate" title="South Carolina Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/South_Dakota_Legislature" title="South Dakota Legislature">South Dakota</a> (<a href="/wiki/South_Dakota_House_of_Representatives" title="South Dakota House of Representatives">H</a>, <a href="/wiki/South_Dakota_Senate" title="South Dakota Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Tennessee_General_Assembly" title="Tennessee General Assembly">Tennessee</a> (<a href="/wiki/Tennessee_House_of_Representatives" title="Tennessee House of Representatives">H</a>, <a href="/wiki/Tennessee_Senate" title="Tennessee Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Texas_Legislature" title="Texas Legislature">Texas</a> (<a href="/wiki/Texas_House_of_Representatives" title="Texas House of Representatives">H</a>, <a href="/wiki/Texas_Senate" title="Texas Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Utah_State_Legislature" title="Utah State Legislature">Utah</a> (<a href="/wiki/Utah_House_of_Representatives" title="Utah House of Representatives">H</a>, <a href="/wiki/Utah_State_Senate" title="Utah State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Vermont_General_Assembly" title="Vermont General Assembly">Vermont</a> (<a href="/wiki/Vermont_House_of_Representatives" title="Vermont House of Representatives">H</a>, <a href="/wiki/Vermont_Senate" title="Vermont Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Virginia_General_Assembly" title="Virginia General Assembly">Virginia</a> (<a href="/wiki/Virginia_House_of_Delegates" title="Virginia House of Delegates">H</a>, <a href="/wiki/Senate_of_Virginia" title="Senate of Virginia">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Washington_State_Legislature" title="Washington State Legislature">Washington</a> (<a href="/wiki/Washington_House_of_Representatives" title="Washington House of Representatives">H</a>, <a href="/wiki/Washington_State_Senate" title="Washington State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/West_Virginia_Legislature" title="West Virginia Legislature">West Virginia</a> (<a href="/wiki/West_Virginia_House_of_Delegates" title="West Virginia House of Delegates">H</a>, <a href="/wiki/West_Virginia_Senate" title="West Virginia Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Wisconsin_Legislature" title="Wisconsin Legislature">Wisconsin</a> (<a href="/wiki/Wisconsin_State_Assembly" title="Wisconsin State Assembly">A</a>, <a href="/wiki/Wisconsin_State_Senate" title="Wisconsin State Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Wyoming_Legislature" title="Wyoming Legislature">Wyoming</a> (<a href="/wiki/Wyoming_House_of_Representatives" title="Wyoming House of Representatives">H</a>, <a href="/wiki/Wyoming_Senate" title="Wyoming Senate">S</a>)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_United_States_state_legislatures#Territorial_and_Federal_District_Legislatures" title="List of United States state legislatures">Other legislatures</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Council_of_the_District_of_Columbia" title="Council of the District of Columbia">District of Columbia</a></span></li>
+<li><span class="nowrap"><a href="/wiki/American_Samoa_Fono" title="American Samoa Fono">American Samoa</a> (<a href="/wiki/American_Samoa_House_of_Representatives" title="American Samoa House of Representatives">H</a>, <a href="/wiki/American_Samoa_Senate" title="American Samoa Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Legislature_of_Guam" title="Legislature of Guam">Guam</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Northern_Mariana_Islands_Commonwealth_Legislature" title="Northern Mariana Islands Commonwealth Legislature">Northern Mariana Islands</a> (<a href="/wiki/Northern_Mariana_Islands_House_of_Representatives" title="Northern Mariana Islands House of Representatives">H</a>, <a href="/wiki/Northern_Mariana_Islands_Senate" title="Northern Mariana Islands Senate">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Legislative_Assembly_of_Puerto_Rico" title="Legislative Assembly of Puerto Rico">Puerto Rico</a> (<a href="/wiki/House_of_Representatives_of_Puerto_Rico" title="House of Representatives of Puerto Rico">H</a>, <a href="/wiki/Senate_of_Puerto_Rico" title="Senate of Puerto Rico">S</a>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Legislature_of_the_Virgin_Islands" title="Legislature of the Virgin Islands">U.S. Virgin Islands</a></span></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b><a href="/wiki/List_of_U.S._state_legislators" title="List of U.S. state legislators">List of U.S. state legislators</a></b></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Government_of_Massachusetts" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#15317E; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Massachusetts_government" title="Template:Massachusetts government"><abbr title="View this template" style="background:#15317E; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Massachusetts_government" title="Template talk:Massachusetts government"><abbr title="Discuss this template" style="background:#15317E; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Massachusetts_government&amp;action=edit"><abbr title="Edit this template" style="background:#15317E; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Government_of_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/Government_of_Massachusetts" title="Government of Massachusetts"><span style="color:white">Government of Massachusetts</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#15317E; color:white;;width:1%"><span style="color:white">Legislative</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Massachusetts_General_Court" title="Massachusetts General Court">General Court</a></li>
+<li><a class="mw-selflink selflink">Senate</a> <small>(<a href="/w/index.php?title=List_of_current_members_of_the_Massachusetts_Senate&amp;action=edit&amp;redlink=1" class="new" title="List of current members of the Massachusetts Senate (page does not exist)">Members</a>, <a href="/wiki/President_of_the_Massachusetts_Senate" title="President of the Massachusetts Senate">President</a>)</small></li>
+<li><a href="/wiki/Massachusetts_House_of_Representatives" title="Massachusetts House of Representatives">House of Representatives</a> <small>(<a href="/w/index.php?title=List_of_current_members_of_the_Massachusetts_House_of_Representatives&amp;action=edit&amp;redlink=1" class="new" title="List of current members of the Massachusetts House of Representatives (page does not exist)">Members</a>, <a href="/wiki/Speaker_of_the_Massachusetts_House_of_Representatives" class="mw-redirect" title="Speaker of the Massachusetts House of Representatives">Speaker</a>)</small></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Coat_of_arms_of_Massachusetts.svg" class="image"><img alt="Coat of arms of Massachusetts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/80px-Coat_of_arms_of_Massachusetts.svg.png" decoding="async" width="80" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/120px-Coat_of_arms_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coat_of_arms_of_Massachusetts.svg/160px-Coat_of_arms_of_Massachusetts.svg.png 2x" data-file-width="202" data-file-height="270" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#15317E; color:white;;width:1%"><span style="color:white">Executive</span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Governor_of_Massachusetts" title="Governor of Massachusetts">Governor</a> <small>(<a href="/wiki/List_of_Governors_of_Massachusetts" class="mw-redirect" title="List of Governors of Massachusetts">List</a>)</small></li>
+<li><a href="/wiki/Lieutenant_Governor_of_Massachusetts" title="Lieutenant Governor of Massachusetts">Lt. Governor</a></li>
+<li><a href="/wiki/Massachusetts_Attorney_General" title="Massachusetts Attorney General">Attorney General</a></li>
+<li><a href="/wiki/Massachusetts_State_Auditor" title="Massachusetts State Auditor">Auditor</a></li>
+<li><a href="/wiki/Massachusetts_Secretary_of_the_Commonwealth" title="Massachusetts Secretary of the Commonwealth">Secretary of the Commonwealth</a></li>
+<li><a href="/wiki/Treasurer_and_Receiver-General_of_Massachusetts" title="Treasurer and Receiver-General of Massachusetts">Treasurer and Receiver-General</a></li>
+<li><a href="/w/index.php?title=Massachusetts_Executive_Office_for_Administration_and_Finance&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Executive Office for Administration and Finance (page does not exist)">Office for Administration and Finance</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Elementary_and_Secondary_Education" title="Massachusetts Department of Elementary and Secondary Education">Department of Elementary and Secondary Education</a></li>
+<li><a href="/wiki/Massachusetts_Emergency_Management_Agency" title="Massachusetts Emergency Management Agency">Emergency Management Agency</a></li>
+<li><a href="/wiki/Massachusetts_Executive_Office_of_Energy_and_Environmental_Affairs" title="Massachusetts Executive Office of Energy and Environmental Affairs">Office of Energy and Environmental Affairs</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Environmental_Protection" title="Massachusetts Department of Environmental Protection">Department of Environmental Protection</a></li>
+<li><a href="/wiki/Massachusetts_Executive_Office_of_Health_and_Human_Services" title="Massachusetts Executive Office of Health and Human Services">Office of Health and Human Services</a></li>
+<li><a href="/w/index.php?title=Massachusetts_Executive_Office_of_Housing_and_Economic_Development&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Executive Office of Housing and Economic Development (page does not exist)">Office of Housing and Economic Development</a></li>
+<li><a href="/wiki/Massachusetts_Executive_Office_of_Labor_and_Workforce_Development" title="Massachusetts Executive Office of Labor and Workforce Development">Office of Labor and Workforce Development</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Mental_Health" title="Massachusetts Department of Mental Health">Department of Mental Health</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Public_Health" title="Massachusetts Department of Public Health">Department of Public Health</a></li>
+<li><a href="/wiki/Massachusetts_Executive_Office_of_Public_Safety_and_Security" title="Massachusetts Executive Office of Public Safety and Security">Office of Public Safety and Security</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Public_Utilities" title="Massachusetts Department of Public Utilities">Department of Public Utilities</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Transportation" title="Massachusetts Department of Transportation">Department of Transportation</a></li>
+<li><a href="/wiki/Massachusetts_Department_of_Youth_Services" title="Massachusetts Department of Youth Services">Department of Youth Services</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#15317E; color:white;;width:1%"><span style="color:white">Judicial</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Municipal_Court" title="Boston Municipal Court">Boston Municipal Court</a></li>
+<li><a href="/wiki/Massachusetts_District_Court" title="Massachusetts District Court">District Court</a></li>
+<li><a href="/wiki/Massachusetts_Superior_Court" title="Massachusetts Superior Court">Superior Court</a></li>
+<li><a href="/wiki/Massachusetts_Land_Court" title="Massachusetts Land Court">Land Court</a></li>
+<li><a href="/wiki/Massachusetts_Juvenile_Court" title="Massachusetts Juvenile Court">Juvenile Court</a></li>
+<li><a href="/wiki/Massachusetts_Housing_Court" title="Massachusetts Housing Court">Housing Court</a></li>
+<li><a href="/wiki/Massachusetts_Probate_and_Family_Court" title="Massachusetts Probate and Family Court">Massachusetts Probate and Family Court</a></li>
+<li><a href="/wiki/Massachusetts_Appeals_Court" title="Massachusetts Appeals Court">Appeals Court</a> <small>(<a href="/w/index.php?title=List_of_Judges_of_the_Massachusetts_Appeals_Court&amp;action=edit&amp;redlink=1" class="new" title="List of Judges of the Massachusetts Appeals Court (page does not exist)">Judges</a>)</small></li>
+<li><a href="/wiki/Massachusetts_Supreme_Judicial_Court" title="Massachusetts Supreme Judicial Court">Supreme Judicial Court</a></li>
+<li><a href="/wiki/Essex_Probate_and_Family_Court" title="Essex Probate and Family Court">Essex Probate and Family Court</a></li>
+<li><a href="/wiki/Middlesex_Probate_and_Family_Court" title="Middlesex Probate and Family Court">Middlesex Probate and Family Court</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#15317E; color:white;;width:1%"><span style="color:white">Independent agencies</span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Massachusetts_Board_of_Library_Commissioners" title="Massachusetts Board of Library Commissioners">Board of Library Commissioners</a></li>
+<li><a href="/w/index.php?title=Commission_Against_Discrimination_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="Commission Against Discrimination (Massachusetts) (page does not exist)">Commission Against Discrimination</a></li>
+<li><a href="/w/index.php?title=Commission_on_the_Status_of_Women_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="Commission on the Status of Women (Massachusetts) (page does not exist)">Commission on the Status of Women</a></li>
+<li><a href="/w/index.php?title=Disabled_Persons_Protection_Commission_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="Disabled Persons Protection Commission (Massachusetts) (page does not exist)">Disabled Persons Protection Commission</a></li>
+<li><a href="/wiki/Massachusetts_Appellate_Tax_Board" title="Massachusetts Appellate Tax Board">Massachusetts Appellate Tax Board</a></li>
+<li><a href="/w/index.php?title=Massachusetts_District_Attorneys&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts District Attorneys (page does not exist)">Massachusetts District Attorneys</a></li>
+<li><a href="/w/index.php?title=Massachusetts_Inspector_General&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Inspector General (page does not exist)">Massachusetts Inspector General</a></li>
+<li><a href="/w/index.php?title=Office_of_Campaign_and_Political_Finance_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="Office of Campaign and Political Finance (Massachusetts) (page does not exist)">Office of Campaign and Political Finance</a></li>
+<li><a href="/w/index.php?title=Office_of_the_Comptroller_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="Office of the Comptroller (Massachusetts) (page does not exist)">Office of the Comptroller</a></li>
+<li><a href="/w/index.php?title=Massachusetts_Sheriffs&amp;action=edit&amp;redlink=1" class="new" title="Massachusetts Sheriffs (page does not exist)">Massachusetts Sheriffs</a></li>
+<li><a href="/w/index.php?title=State_Ethics_Commission_(Massachusetts)&amp;action=edit&amp;redlink=1" class="new" title="State Ethics Commission (Massachusetts) (page does not exist)">State Ethics Commission</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#15317E; color:white;;width:1%"><span style="color:white">Law</span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Constitution_of_Massachusetts" title="Constitution of Massachusetts">Constitution</a></li>
+<li><a href="/wiki/General_Laws_of_Massachusetts" title="General Laws of Massachusetts">General Laws</a></li>
+<li><a href="/wiki/Code_of_Massachusetts_Regulations" title="Code of Massachusetts Regulations">Code of Massachusetts Regulations</a></li>
+<li><a href="/wiki/Abortion_in_Massachusetts" title="Abortion in Massachusetts">Abortion</a></li>
+<li><a href="/wiki/Alcohol_laws_of_Massachusetts" title="Alcohol laws of Massachusetts">Alcohol</a></li>
+<li><a href="/wiki/Cannabis_in_Massachusetts" title="Cannabis in Massachusetts">Cannabis</a></li>
+<li><a href="/wiki/Capital_punishment_in_Massachusetts" title="Capital punishment in Massachusetts">Capital punishment</a></li>
+<li><a href="/wiki/Crime_in_Massachusetts" title="Crime in Massachusetts">Crime</a></li>
+<li><a href="/wiki/Elder_law_(Massachusetts)" title="Elder law (Massachusetts)">Elder law</a></li>
+<li><a href="/wiki/Gambling_in_Massachusetts" title="Gambling in Massachusetts">Gaming</a></li>
+<li><a href="/wiki/Gun_laws_in_Massachusetts" title="Gun laws in Massachusetts">Gun laws</a></li>
+<li><a href="/wiki/LGBT_rights_in_Massachusetts" title="LGBT rights in Massachusetts">LGBT rights</a></li>
+<li><a href="/w/index.php?title=Taxation_in_Massachusetts&amp;action=edit&amp;redlink=1" class="new" title="Taxation in Massachusetts (page does not exist)">Taxation</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1494665&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1494665&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1494665" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/253991-3">253991-3</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n79059262">n79059262</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/161514970">161514970</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/161514970">161514970</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20190924170059
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.680 seconds
+Real time usage: 0.905 seconds
+Preprocessor visited node count: 5313/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 138680/2097152 bytes
+Template argument size: 8907/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12591/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.258/10.000 seconds
+Lua memory usage: 4.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  686.202      1 -total
+ 13.25%   90.951      2 Template:Reflist
+ 11.53%   79.086      1 Template:Infobox_legislature
+ 10.71%   73.513      1 Template:Cite_web
+  9.87%   67.745      1 Template:Infobox
+  8.45%   57.957      1 Template:Authority_control
+  8.43%   57.877     39 Template:Sortname
+  8.35%   57.312     40 Template:Dts
+  5.90%   40.483      3 Template:Navbox
+  5.82%   39.938     40 Template:Hs
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:722240-0!canonical and timestamp 20190924170058 and revision id 904543820
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Massachusetts_Senate&amp;oldid=904543820">https://en.wikipedia.org/w/index.php?title=Massachusetts_Senate&amp;oldid=904543820</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Massachusetts_state_senators" title="Category:Massachusetts state senators">Massachusetts state senators</a></li><li><a href="/wiki/Category:State_upper_houses_in_the_United_States" title="Category:State upper houses in the United States">State upper houses in the United States</a></li><li><a href="/wiki/Category:Massachusetts_General_Court" title="Category:Massachusetts General Court">Massachusetts General Court</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_December_2011" title="Category:Use mdy dates from December 2011">Use mdy dates from December 2011</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_December_2017" title="Category:Articles with dead external links from December 2017">Articles with dead external links from December 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Massachusetts+Senate" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Massachusetts+Senate" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Massachusetts_Senate" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Massachusetts_Senate" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Massachusetts_Senate">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Massachusetts_Senate&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Massachusetts_Senate" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Massachusetts_Senate" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Massachusetts_Senate&amp;oldid=904543820" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Massachusetts_Senate&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1494665" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Massachusetts_Senate&amp;id=904543820" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Massachusetts+Senate">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Massachusetts+Senate&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Massachusetts_Senate&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AC%D9%84%D8%B3_%D8%B4%D9%8A%D9%88%D8%AE_%D9%85%D8%A7%D8%B3%D8%A7%D8%AA%D8%B4%D9%88%D8%B3%D8%AA%D8%B3" title="مجلس شيوخ ماساتشوستس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Senat_von_Massachusetts" title="Senat von Massachusetts – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Senado_de_Massachusetts" title="Senado de Massachusetts – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/S%C3%A9nat_du_Massachusetts" title="Sénat du Massachusetts – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Senado_de_Massachusetts" title="Senado de Massachusetts – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E8%90%A8%E8%AF%B8%E5%A1%9E%E5%B7%9E%E5%8F%82%E8%AE%AE%E9%99%A2" title="马萨诸塞州参议院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1494665#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 2 July 2019, at 21:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Massachusetts_Senate&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.680","walltime":"0.905","ppvisitednodes":{"value":5313,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":138680,"limit":2097152},"templateargumentsize":{"value":8907,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12591,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  686.202      1 -total"," 13.25%   90.951      2 Template:Reflist"," 11.53%   79.086      1 Template:Infobox_legislature"," 10.71%   73.513      1 Template:Cite_web","  9.87%   67.745      1 Template:Infobox","  8.45%   57.957      1 Template:Authority_control","  8.43%   57.877     39 Template:Sortname","  8.35%   57.312     40 Template:Dts","  5.90%   40.483      3 Template:Navbox","  5.82%   39.938     40 Template:Hs"]},"scribunto":{"limitreport-timeusage":{"value":"0.258","limit":"10.000"},"limitreport-memusage":{"value":4629286,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20190924170059","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Massachusetts Senate","url":"https:\/\/en.wikipedia.org\/wiki\/Massachusetts_Senate","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1494665","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1494665","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-13T05:16:47Z","dateModified":"2019-07-02T21:42:53Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/62\/Seal_of_the_Senate_of_Massachusetts.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Smoke Break - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Smoke_Break","wgTitle":"Smoke Break","wgCurRevisionId":908889822,"wgRevisionId":908889822,"wgArticleId":47582041,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: markup","CS1 errors: deprecated parameters","All articles with dead external links","Articles with dead external links from August 2019","Articles with permanently dead external links","Articles with hAudio microformats","Singlechart usages for Canada","Singlechart called without song","Singlechart usages for Billboardcanadacountry","Singlechart usages for Billboardhot100","Singlechart usages for Billboardcountryairplay","Singlechart usages for Billboardcountrysongs","2015 songs","2015 singles","Carrie Underwood songs","Arista Nashville singles","Song recordings produced by Jay Joyce",
+"Songs written by Chris DeStefano","Songs written by Hillary Lindsey","Songs written by Carrie Underwood","Billboard Canada Country number-one singles"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Smoke_Break","wgRelevantArticleId":47582041,"wgRequestId":"XYrUCQpAAEMAAFSXJkkAAAAO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q20871397","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":
+"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/2/28/Carrie_Underwood_-_Smoke_Break_%28Official_Single_Cover%29.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Smoke_Break"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Smoke_Break&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Smoke_Break&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Smoke_Break"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Smoke_Break rootpage-Smoke_Break skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Smoke Break</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: khaki;">"Smoke Break"</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Carrie_Underwood_-_Smoke_Break_(Official_Single_Cover).png" class="image"><img alt="Carrie Underwood - Smoke Break (Official Single Cover).png" src="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Carrie_Underwood_-_Smoke_Break_%28Official_Single_Cover%29.png/220px-Carrie_Underwood_-_Smoke_Break_%28Official_Single_Cover%29.png" decoding="async" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/2/28/Carrie_Underwood_-_Smoke_Break_%28Official_Single_Cover%29.png 1.5x" data-file-width="300" data-file-height="300" /></a></td></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></th></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;">from the album <i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i></th></tr><tr><th scope="row">Released</th><td class="plainlist">August&#160;21,&#160;2015<span style="display:none">&#160;(<span class="bday dtstart published updated">2015-08-21</span>)</span></td></tr><tr><th scope="row">Format</th><td class="hlist"><a href="/wiki/Music_download" title="Music download">Digital download</a></td></tr><tr><th scope="row">Recorded</th><td class="plainlist">2015</td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><a href="/wiki/Country_rock" title="Country rock">Country rock</a></td></tr><tr><th scope="row">Length</th><td class="plainlist"><span class="duration"><span class="min">3</span>:<span class="s">18</span></span></td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Songwriter" title="Songwriter">Songwriter(s)</a></span></th><td class="hlist"><div class="hlist hlist-separated"><ul><li>Carrie Underwood</li><li><a href="/wiki/Chris_DeStefano" title="Chris DeStefano">Chris DeStefano</a></li><li><a href="/wiki/Hillary_Lindsey" title="Hillary Lindsey">Hillary Lindsey</a></li></ul></div></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th><td class="hlist"><a href="/wiki/Jay_Joyce" title="Jay Joyce">Jay Joyce</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> singles chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse;">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0;">"<a href="/wiki/Little_Toy_Guns" title="Little Toy Guns">Little Toy Guns</a>" <br />(2015)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding:.2em .1em;">"<b>Smoke Break</b>" <br />(2015)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em;">"<a href="/wiki/Heartbeat_(Carrie_Underwood_song)" title="Heartbeat (Carrie Underwood song)">Heartbeat</a>" <br />(2015)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:khaki">Music videos</th></tr><tr><td colspan="2" style="text-align:center"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=3ealNayCkaU"><span class="plainlinks">"Smoke Break"</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>"<b>Smoke Break</b>" is a song recorded by American <a href="/wiki/Country_music" title="Country music">country music</a> artist <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> from her fifth studio album, <i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i>. It was released on August 21, 2015, through <a href="/wiki/Sony_Music_Nashville" title="Sony Music Nashville">Sony Music Nashville</a>, as the album's lead single. It was written by Underwood, <a href="/wiki/Chris_DeStefano" title="Chris DeStefano">Chris DeStefano</a>, and <a href="/wiki/Hillary_Lindsey" title="Hillary Lindsey">Hillary Lindsey</a>, and was produced by <a href="/wiki/Jay_Joyce" title="Jay Joyce">Jay Joyce</a>. Musically, it has lyrics about escaping life's many stresses.
+</p><p>"Smoke Break" was met with critical acclaim, with music critics describing it as "a homage to hard working people in need of a breather". It quickly became a commercial success, setting an all-time record for the largest first-week adds at <a href="/wiki/Country_radio" title="Country radio">country radio</a>. It went on to reach number one on the <i>Billboard</i> <a href="/wiki/Canada_Country" class="mw-redirect" title="Canada Country">Canada Country</a> chart and number two on the <i>Billboard</i> <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> chart in the US, becoming her 20th top-two single on the chart.
+</p><p>The song's accompanying music video was directed by Randee St. Nicholas and won the 2016 <a href="/wiki/CMT_Music_Award" class="mw-redirect" title="CMT Music Award">CMT Music Award</a> for Female Video of the Year. The song received its first televised performance at <i><a href="/wiki/The_Tonight_Show_Starring_Jimmy_Fallon" title="The Tonight Show Starring Jimmy Fallon">The Tonight Show Starring Jimmy Fallon</a></i>, on September 10, 2015.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Composition"><span class="tocnumber">1</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Controversy"><span class="tocnumber">2.1</span> <span class="toctext">Controversy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Commercial_performance"><span class="tocnumber">3</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Music_video"><span class="tocnumber">4</span> <span class="toctext">Music video</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">5</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Live_performances"><span class="tocnumber">6</span> <span class="toctext">Live performances</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">7</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Year-end_charts"><span class="tocnumber">7.1</span> <span class="toctext">Year-end charts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Release_history"><span class="tocnumber">8</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Awards_and_nominations"><span class="tocnumber">9</span> <span class="toctext">Awards and nominations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#CMT_Music_Awards"><span class="tocnumber">9.1</span> <span class="toctext">CMT Music Awards</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#British_Country_Music_Awards"><span class="tocnumber">9.2</span> <span class="toctext">British Country Music Awards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=1" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Smoke Break" is a <a href="/wiki/Country_rock" title="Country rock">country rock</a> song that critics have described as "a homage to hard working people in need of a breather".<sup id="cite_ref-Rolling_Stone_2-0" class="reference"><a href="#cite_note-Rolling_Stone-2">&#91;2&#93;</a></sup> It has lyrics about escaping life's many stresses.<sup id="cite_ref-Smoke_Break_lyrics_3-0" class="reference"><a href="#cite_note-Smoke_Break_lyrics-3">&#91;3&#93;</a></sup> About the writing process, Underwood stated that she, Chris DeStefano and Hillary Lindsey "were writing and kept taking breaks to go outside because we were getting a little stuck on a song we were already working on. It was so beautiful outside that we had a hard time focusing, so we decided to write a song about taking breaks! 'Smoke Break' seemed like a great title, so we ran with it!"<sup id="cite_ref-Smoke_Break_lyrics_3-1" class="reference"><a href="#cite_note-Smoke_Break_lyrics-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Smoke Break" has received rave reviews from music critics. Grady Smith of UK's <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> acclaimed it, by stating "among all the great music we've been treated to this summer, no song has carried more significance than Carrie Underwood’s excellent new single 'Smoke Break'. Here we have an <a href="/wiki/A-list" title="A-list">A-list</a> star releasing an unabashed <a href="/wiki/Country_rock" title="Country rock">country rock</a> song that isn't trying to chase any sonic trends". He also added that Underwood "has emerged as the leader of country music".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Denise Quan of <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i> praised the song, saying that the singer "pays homage to hard working people in need of a breather" and adding that Underwood puts "a bit more twang in her vocals than usual — a welcome dose of laid-back country cool after a string of glossy, high-octane arena rockers and soaring ballads".<sup id="cite_ref-Rolling_Stone_2-1" class="reference"><a href="#cite_note-Rolling_Stone-2">&#91;2&#93;</a></sup> Jason Lipshutz of <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> awarded it 3.5 starts out of a possible five, noting Underwood's departure from previous material and stating that "the normally overpolished <i>American Idol</i> winner wears the song's blue-collar country-rock vibe well".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Hugh McIntyre of <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i> praised it, saying its lines evokes "some pretty sentimental themes that likely connect with a lot of people" and the song "has the makings of another runaway hit on radio".<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>Dee Lockett of <i><a href="/wiki/Vulture.com" class="mw-redirect" title="Vulture.com">Vulture</a></i> praised it, pointing out that "just as songs about getting trashed will remain a rite of passage in country music, its superstars like Carrie Underwood will continue to find ways to keep them meaningful".<sup id="cite_ref-Vulture_7-0" class="reference"><a href="#cite_note-Vulture-7">&#91;7&#93;</a></sup> Kevin John of <i>Country Universe</i> praised Underwood's songwriting by saying that "she has the finest singing voice of her generation, but her greatest gift is her ability to express empathy for others through song".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> <i><a href="/wiki/Taste_of_Country" class="mw-redirect" title="Taste of Country">Taste of Country</a></i> praised the song as well, stating that "it's a song everyone can relate to" and "is easy to wear, and adaptable to life's changing circumstances", and praised Underwood's delivery, saying "she starts soft before soaring into the chorus".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> <a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a> deemed it as <i>Storyteller</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s most impressive song, "cross-regional, cross-gender, class-conscious ... in which neither the mother of four working three jobs nor the farm family's first college man can do without the occasional drag or drink, sincere Christians though they be".<sup id="cite_ref-Christgau_10-0" class="reference"><a href="#cite_note-Christgau-10">&#91;10&#93;</a></sup>
+</p><p><a href="/wiki/WSM-FM" title="WSM-FM">WSM-FM</a> and <a href="/wiki/WKDF" title="WKDF">WKDF</a> Nashville Program Director Charlie Cook praised the song as well, saying "the lyrics
+address the hectic lives everyone now lives, and the production stands out as a testament that she is willing to take chances, yet play within what her fans expect". <a href="/wiki/IHeartMedia" title="IHeartMedia">iHeartMedia</a> Senior VP of Programming Gator Harrison said the song is “an anthem for the overwhelmed, something we can all relate to, and amen. It's a smash".<sup id="cite_ref-Billboard_11-0" class="reference"><a href="#cite_note-Billboard-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Controversy">Controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=3" title="Edit section: Controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>"Smoke Break" garnered some controversy upon its release, after some listeners accused the song of "trying to promote <a href="/wiki/Smoking" title="Smoking">smoking</a>".<sup id="cite_ref-Vulture_7-1" class="reference"><a href="#cite_note-Vulture-7">&#91;7&#93;</a></sup> Journalists for vehicles such as <i>Vulture</i> and <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i> went on to defend the song. Dee Lockett of <i>Vulture</i> stated that the accusation "misses the point" and defended it by saying that "like many of Carrie's narrative-driven songs, though, she's making a larger point. A 'stiff drink' and a 'long drag' are just <a href="/wiki/Placeholder_name" title="Placeholder name">placeholders</a> for any vice the overworked might depend on to survive. The concern isn't how Americans cope with their blue-collar lives (though she's by no means undermining the severity of addiction); it's the culture of stress that suffocates everyone that should piss people off".<sup id="cite_ref-Vulture_7-2" class="reference"><a href="#cite_note-Vulture-7">&#91;7&#93;</a></sup> Maeve McDermott of <i>USA Today</i> says "the song is less a pro-cigarette anthem as it is a tribute to sneaking away from your responsibilities and taking a minute to breathe".<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=4" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Smoke Break" set, according to <i>Taste of Country</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s Sterling Whitaker, "an all-time record for the largest first-week radio adds in the history of <i>Country Aircheck</i>, with 145 <a href="/wiki/Mediabase" title="Mediabase">Mediabase</a> adds and 159 total <i><a href="/wiki/Billboard_charts" title="Billboard charts">Billboard</a></i> and <i>Country Aircheck</i> reporting stations lined up for the song’s official airplay impact date".<sup id="cite_ref-Rolling_Stone_2-2" class="reference"><a href="#cite_note-Rolling_Stone-2">&#91;2&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Additionally, the single had opening week sales of 56,000 in the United States, debuting at the top of the <i>Billboard</i> Country Digital Singles chart – her fifth leader on the chart – and moving from number 36 to number five on the <i>Billboard</i> <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> in its second week on the chart; it eventually peaked on <i>Billboard</i> <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> at number four on November 24, 2015. It peaked at number one on <i>Billboard</i> <a href="/wiki/Canada_Country" class="mw-redirect" title="Canada Country">Canada Country</a> chart, becoming her second single to top that chart, the other being "<a href="/wiki/Blown_Away_(Carrie_Underwood_song)" title="Blown Away (Carrie Underwood song)">Blown Away</a>". The song peaked at number two on the <i>Billboard</i> <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> chart and both debuted and peaked at number 43 on the <i>Billboard</i> <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a> chart.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>The song was certified Gold by the RIAA on April 29, 2016.<sup id="cite_ref-United_StatesCarrie_UnderwoodSmoke_BreaksingleCertRef_15-0" class="reference"><a href="#cite_note-United_StatesCarrie_UnderwoodSmoke_BreaksingleCertRef-15">&#91;15&#93;</a></sup> As of May 2016, it has sold 447,000 copies in the United States.<sup id="cite_ref-us_sales_16-0" class="reference"><a href="#cite_note-us_sales-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_video">Music video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=5" title="Edit section: Music video">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The accompanying music video was directed by Randee St. Nicholas, who directed Underwood's "<a href="/wiki/Blown_Away_(Carrie_Underwood_song)" title="Blown Away (Carrie Underwood song)">Blown Away</a>" music video in 2012, and was shot over two days.<sup id="cite_ref-music_video_17-0" class="reference"><a href="#cite_note-music_video-17">&#91;17&#93;</a></sup> It premiered on <i><a href="/wiki/Entertainment_Tonight" title="Entertainment Tonight">Entertainment Tonight</a></i> on August 24, 2015.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Underwood cast "gorgeous, strong women" to play a horse trainer, a truck driver and a waitress. "It just tells a story," Underwood said of featuring blue collar characters. "These are everyday jobs, and we need a break."<sup id="cite_ref-music_video_17-1" class="reference"><a href="#cite_note-music_video-17">&#91;17&#93;</a></sup>
+</p><p>The video begins with Underwood driving through the dusty, <a href="/wiki/Sepia_(color)" title="Sepia (color)">sepia</a>-washed desert in a vintage <a href="/wiki/Ford_trucks" class="mw-redirect" title="Ford trucks">Ford truck</a>. She passes a busy waitress in a <a href="/wiki/Diner" title="Diner">diner</a>, and a businessman struggling with his responsibilities. Then her truck overheats, and she has to hoof it, while a patient <a href="/wiki/Horse_trainer" title="Horse trainer">horse trainer</a> and weary welder toil nearby. Underwood hitchhikes the rest of the way to her gig at a neighborhood bar. She takes the stage in front of a small crowd of patrons that includes all the local characters met earlier who were working hard and could use a break. She sings their life story, then moves on to the next dusty town, "like an angel of mercy in <a href="/wiki/Daisy_Dukes_(clothing)" class="mw-redirect" title="Daisy Dukes (clothing)">Daisy Dukes</a>", <i>Rolling Stone</i> describes.<sup id="cite_ref-Rolling_Stone_2-3" class="reference"><a href="#cite_note-Rolling_Stone-2">&#91;2&#93;</a></sup>
+</p><p>The video won Female Video of the Year at the 2016 <a href="/wiki/CMT_Music_Awards" title="CMT Music Awards">CMT Music Awards</a>, and was also nominated for Video of the Year.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b>Digital download</b><sup id="cite_ref-US_Release_21-0" class="reference"><a href="#cite_note-US_Release-21">&#91;21&#93;</a></sup></li></ul>
+<ol><li>"Smoke Break" – 3:19</li></ol>
+<h2><span class="mw-headline" id="Live_performances">Live performances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=7" title="Edit section: Live performances">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Underwood performed the song on television for the first time at <i><a href="/wiki/The_Tonight_Show_Starring_Jimmy_Fallon" title="The Tonight Show Starring Jimmy Fallon">The Tonight Show Starring Jimmy Fallon</a></i>, on September 10, 2015.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Underwood also performed the song at the 2015 <a href="/wiki/CMA_Awards" class="mw-redirect" title="CMA Awards">CMA Awards</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p><p>Underwood's live performance at <a href="/wiki/CMT_(U.S._TV_channel)" class="mw-redirect" title="CMT (U.S. TV channel)">CMT</a>'s <i>Instant Jam</i> won the 2016 <a href="/wiki/CMT_Music_Award" class="mw-redirect" title="CMT Music Award">CMT Music Award</a> for CMT Performance of the Year.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2015–16)
+</th>
+<th>Peak<br />position
+</th></tr>
+<tr>
+<td>Canada (<a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a>)<sup id="cite_ref-sc_Canada_Carrie_Underwood_25-0" class="reference"><a href="#cite_note-sc_Canada_Carrie_Underwood-25">&#91;25&#93;</a></sup>
+</td>
+<td style="text-align:center;">53
+</td></tr>
+<tr>
+<td>Canada <a href="/wiki/Canada_Country" class="mw-redirect" title="Canada Country">Country</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcanadacountry_Carrie_Underwood_26-0" class="reference"><a href="#cite_note-sc_Billboardcanadacountry_Carrie_Underwood-26">&#91;26&#93;</a></sup>
+</td>
+<td style="text-align:center;">1
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a><sup id="cite_ref-sc_Billboardhot100_Carrie_Underwood_27-0" class="reference"><a href="#cite_note-sc_Billboardhot100_Carrie_Underwood-27">&#91;27&#93;</a></sup>
+</td>
+<td style="text-align:center;">43
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcountryairplay_Carrie_Underwood_28-0" class="reference"><a href="#cite_note-sc_Billboardcountryairplay_Carrie_Underwood-28">&#91;28&#93;</a></sup>
+</td>
+<td style="text-align:center;">2
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcountrysongs_Carrie_Underwood_29-0" class="reference"><a href="#cite_note-sc_Billboardcountrysongs_Carrie_Underwood-29">&#91;29&#93;</a></sup>
+</td>
+<td style="text-align:center;">4
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=9" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th scope="col">Chart (2015)
+</th>
+<th scope="col">Position
+</th></tr>
+<tr>
+<td>US <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</td>
+<td align="center">52
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</td>
+<td align="center">53
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=10" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders">
+<caption>List of release dates, showing region, formats, label and reference
+</caption>
+<tbody><tr>
+<th scope="col">Region
+</th>
+<th scope="col">Date
+</th>
+<th scope="col">Format(s)
+</th>
+<th scope="col">Label
+</th>
+<th scope="col"><abbr title="References">Ref.</abbr>
+</th></tr>
+<tr>
+<th scope="row">Australia
+</th>
+<td rowspan="3">August 21, 2015
+</td>
+<td rowspan="3"><a href="/wiki/Music_download" title="Music download">Digital download</a>
+</td>
+<td rowspan="2"><a href="/wiki/Sony_Music_Nashville" title="Sony Music Nashville">Sony Music Nashville</a>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-Australian_Release_32-0" class="reference"><a href="#cite_note-Australian_Release-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row">United Kingdom
+</th>
+<td style="text-align:center;"><sup id="cite_ref-UK_Release_33-0" class="reference"><a href="#cite_note-UK_Release-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row" rowspan="2">United States
+</th>
+<td rowspan="2"><a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-US_Release_21-1" class="reference"><a href="#cite_note-US_Release-21">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td>August 24, 2015
+</td>
+<td><a href="/wiki/Country_radio" title="Country radio">Country radio</a>
+</td>
+<td style="text-align:center;"><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup><sup id="cite_ref-Rolling_Stone_new_single_36-0" class="reference"><a href="#cite_note-Rolling_Stone_new_single-36">&#91;36&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=11" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="CMT_Music_Awards"><a href="/wiki/CMT_Music_Awards" title="CMT Music Awards">CMT Music Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=12" title="Edit section: CMT Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2016</td>
+<td align="center">"Smoke Break"</td>
+<td align="center">Video of the Year<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr>
+<tr>
+<td align="center">2016</td>
+<td align="center">"Smoke Break"</td>
+<td align="center">Female Video of the Year</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="British_Country_Music_Awards">British Country Music Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=13" title="Edit section: British Country Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center"><a href="/w/index.php?title=British_Country_Music_Awards_Awards&amp;action=edit&amp;redlink=1" class="new" title="British Country Music Awards Awards (page does not exist)">2016</a></td>
+<td align="center">"Smoke Break"</td>
+<td align="center">International  Song of the Year<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tasteofcountry.com/carrie-underwood-smoke-break/">"Carrie Underwood, 'Smoke Break' &#91;Listen&#93;"</a>. <i>Taste of Country</i>. August 20, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">August 25,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Taste+of+Country&amp;rft.atitle=Carrie+Underwood%2C+%E2%80%98Smoke+Break%E2%80%99+%5BListen%5D&amp;rft.date=2015-08-20&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fcarrie-underwood-smoke-break%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Rolling_Stone-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rolling_Stone_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rolling_Stone_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rolling_Stone_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Rolling_Stone_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Denise Quan (August 25, 2015). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/see-carrie-underwoods-smoldering-smoke-break-video-20150825">"See Carrie Underwood's Smoldering 'Smoke Break' Video"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=See+Carrie+Underwood%27s+Smoldering+%27Smoke+Break%27+Video&amp;rft.date=2015-08-25&amp;rft.au=Denise+Quan&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fsee-carrie-underwoods-smoldering-smoke-break-video-20150825&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Smoke_Break_lyrics-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Smoke_Break_lyrics_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Smoke_Break_lyrics_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/carrie-underwood-announces-new-album-storyteller-20150820">"Carrie Underwood Announces New Album 'Storyteller<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. August 21, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Carrie+Underwood+Announces+New+Album+%27Storyteller%27&amp;rft.date=2015-08-21&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fcarrie-underwood-announces-new-album-storyteller-20150820&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Grady Smith (September 1, 2015). <a rel="nofollow" class="external text" href="https://www.theguardian.com/music/2015/sep/01/dry-summer-country-music-carrie-underwood-sizzles?CMP=share_btn_tw">"Carrie Underwood's 'Smoke Break' sizzles in dry summer for country music"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Carrie+Underwood%27s+%27Smoke+Break%27+sizzles+in+dry+summer+for+country+music&amp;rft.date=2015-09-01&amp;rft.au=Grady+Smith&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2015%2Fsep%2F01%2Fdry-summer-country-music-carrie-underwood-sizzles%3FCMP%3Dshare_btn_tw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Jason Lipshutz (August 26, 2015). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/pop-shop/6677680/carrie-underwood-smoke-break-nick-jonas-jojo-gorgon-city">"Is Carrie Underwood's 'Smoke Break' a Smash Hit? Plus More of the Week's Best and Worst Singles"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Is+Carrie+Underwood%27s+%27Smoke+Break%27+a+Smash+Hit%3F+Plus+More+of+the+Week%27s+Best+and+Worst+Singles&amp;rft.date=2015-08-26&amp;rft.au=Jason+Lipshutz&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fpop-shop%2F6677680%2Fcarrie-underwood-smoke-break-nick-jonas-jojo-gorgon-city&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Hugh McIntyre (August 21, 2015). <a rel="nofollow" class="external text" href="https://www.forbes.com/sites/hughmcintyre/2015/08/21/carrie-underwood-releases-surprise-new-single-announces-new-album-storyteller/">"Carrie Underwood Releases Surprise New Single, Announces New Album 'Storyteller<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Forbes&amp;rft.atitle=Carrie+Underwood+Releases+Surprise+New+Single%2C+Announces+New+Album+%27Storyteller%27&amp;rft.date=2015-08-21&amp;rft.au=Hugh+McIntyre&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fhughmcintyre%2F2015%2F08%2F21%2Fcarrie-underwood-releases-surprise-new-single-announces-new-album-storyteller%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Vulture-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Vulture_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Vulture_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Vulture_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Dee Lockett (August 21, 2015). <a rel="nofollow" class="external text" href="http://www.vulture.com/2015/08/listen-to-carrie-underwoods-new-song.html">"Carrie Underwood's New Song Ruffles Feathers With Supposed Pro-Smoking Message, But That Misses the Point"</a>. <i><a href="/wiki/Vulture.com" class="mw-redirect" title="Vulture.com">Vulture</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vulture&amp;rft.atitle=Carrie+Underwood%E2%80%99s+New+Song+Ruffles+Feathers+With+Supposed+Pro-Smoking+Message%2C+But+That+Misses+the+Point&amp;rft.date=2015-08-21&amp;rft.au=Dee+Lockett&amp;rft_id=http%3A%2F%2Fwww.vulture.com%2F2015%2F08%2Flisten-to-carrie-underwoods-new-song.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Italic or bold markup not allowed in: <code class="cs1-code">&#124;work=</code> (<a href="/wiki/Help:CS1_errors#apostrophe_markup" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Kevin John (August 21, 2015). <a rel="nofollow" class="external text" href="http://www.countryuniverse.net/2015/08/21/single-review-carrie-underwood-smoke-break/">"Single Review: Carrie Underwood, 'Smoke Break<span class="cs1-kern-right">'</span>"</a>. <i>Country Universe</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Country+Universe&amp;rft.atitle=Single+Review%3A+Carrie+Underwood%2C+%27Smoke+Break%27&amp;rft.date=2015-08-21&amp;rft.au=Kevin+John&amp;rft_id=http%3A%2F%2Fwww.countryuniverse.net%2F2015%2F08%2F21%2Fsingle-review-carrie-underwood-smoke-break%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tasteofcountry.com/carrie-underwood-smoke-break">"Carrie Underwood, 'Smoke Break' &#91;Listen&#93;"</a>. <i>Taste of Country</i>. August 20, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Taste+of+Country&amp;rft.atitle=Carrie+Underwood%2C+%E2%80%98Smoke+Break%E2%80%99+%5BListen%5D&amp;rft.date=2015-08-20&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fcarrie-underwood-smoke-break&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Christgau-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Christgau_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a> (July 1, 2016). <a rel="nofollow" class="external text" href="http://noisey.vice.com/blog/expert-witness-brandy-clark-carrie-underwood">"Tall Tales and Big Country Expert Witness with Robert Christgau"</a>. <i><a href="/wiki/Vice_(magazine)" title="Vice (magazine)">Vice</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 15,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Vice&amp;rft.atitle=Tall+Tales+and+Big+Country+Expert+Witness+with+Robert+Christgau&amp;rft.date=2016-07-01&amp;rft.aulast=Christgau&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fnoisey.vice.com%2Fblog%2Fexpert-witness-brandy-clark-carrie-underwood&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Billboard-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Billboard_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jim Asker (September 2, 2015). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/6685147/carrie-underwood-smoke-break-country-charts-sam-hunt">"Carrie Underwood's 'Smoke' Rises, Sam Hunt Parties His Way to Another No. 1"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Carrie+Underwood%27s+%27Smoke%27+Rises%2C+Sam+Hunt+Parties+His+Way+to+Another+No.+1&amp;rft.date=2015-09-02&amp;rft.au=Jim+Asker&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F6685147%2Fcarrie-underwood-smoke-break-country-charts-sam-hunt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Maeve McDermott (August 21, 2015). <a rel="nofollow" class="external text" href="http://entertainthis.usatoday.com/2015/08/21/carrie-underwood-smoke-break/">"Carrie Underwood tries to make smoking cool again on 'Smoke Break<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=USA+Today&amp;rft.atitle=Carrie+Underwood+tries+to+make+smoking+cool+again+on+%27Smoke+Break%27&amp;rft.date=2015-08-21&amp;rft.au=Maeve+McDermott&amp;rft_id=http%3A%2F%2Fentertainthis.usatoday.com%2F2015%2F08%2F21%2Fcarrie-underwood-smoke-break%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Sterling Whitaker (August 25, 2015). <a rel="nofollow" class="external text" href="http://tasteofcountry.com/carrie-underwood-smoke-break-radio-adds/">"Carrie Underwood's 'Smoke Break' Makes History at Country Radio"</a>. <i><a href="/wiki/Taste_of_Country" class="mw-redirect" title="Taste of Country">Taste of Country</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Taste+of+Country&amp;rft.atitle=Carrie+Underwood%E2%80%99s+%E2%80%98Smoke+Break%E2%80%99+Makes+History+at+Country+Radio&amp;rft.date=2015-08-25&amp;rft.au=Sterling+Whitaker&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fcarrie-underwood-smoke-break-radio-adds%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/country-airplay">"Country Radio Music Chart – Billboard"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Country+Radio+Music+Chart+%E2%80%93+Billboard&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fcountry-airplay&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-United_StatesCarrie_UnderwoodSmoke_BreaksingleCertRef-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesCarrie_UnderwoodSmoke_BreaksingleCertRef_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=Carrie+Underwood&amp;ti=Smoke+Break#search_section">"American single  certifications – Carrie Underwood – Smoke Break"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+single++certifications+%E2%80%93+Carrie+Underwood+%E2%80%93+Smoke+Break&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3DCarrie%2BUnderwood%26ti%3DSmoke%2BBreak%23search_section&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <i>If necessary, click </i>Advanced<i>, then click </i>Format<i>, then select </i>Single<i>,  then click </i>SEARCH<i>.<span class="nowrap">&#160;</span></i></span>
+</li>
+<li id="cite_note-us_sales-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-us_sales_16-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Bjorke, Matt (May 5, 2016). <a rel="nofollow" class="external text" href="http://roughstock.com/news/2016/05/40235-top-30-digital-singles-report-may-5-2016">"Top 30 Digital Singles Report: May 5, 2016"</a>. <i>Roughstock</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Roughstock&amp;rft.atitle=Top+30+Digital+Singles+Report%3A+May+5%2C+2016&amp;rft.date=2016-05-05&amp;rft.aulast=Bjorke&amp;rft.aufirst=Matt&amp;rft_id=http%3A%2F%2Froughstock.com%2Fnews%2F2016%2F05%2F40235-top-30-digital-singles-report-may-5-2016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-music_video-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-music_video_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-music_video_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Zach Johnson (September 1, 2015). <a rel="nofollow" class="external text" href="http://www.eonline.com/news/691812/carrie-underwood-takes-fans-behind-the-scenes-of-her-smoke-break-music-video-watch-the-exclusive-video-now">"Carrie Underwood Takes Fans Behind the Scenes of Her "Smoke Break" Music Video: Watch the Exclusive Video Now<span class="cs1-kern-right">"</span>"</a>. <i>E! Online</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=E%21+Online&amp;rft.atitle=Carrie+Underwood+Takes+Fans+Behind+the+Scenes+of+Her+%22Smoke+Break%22+Music+Video%3A+Watch+the+Exclusive+Video+Now%22&amp;rft.date=2015-09-01&amp;rft.au=Zach+Johnson&amp;rft_id=http%3A%2F%2Fwww.eonline.com%2Fnews%2F691812%2Fcarrie-underwood-takes-fans-behind-the-scenes-of-her-smoke-break-music-video-watch-the-exclusive-video-now&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Sophie Schillaci (August 24, 2015). <a rel="nofollow" class="external text" href="http://www.etonline.com/music/170567_exclusive_watch_carrie_underwood_brand_new_smoke_break_video/">"EXCLUSIVE: Watch Carrie Underwood's Brand New 'Smoke Break' Video"</a>. <i><a href="/wiki/Entertainment_Tonight" title="Entertainment Tonight">Entertainment Tonight</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Entertainment+Tonight&amp;rft.atitle=EXCLUSIVE%3A+Watch+Carrie+Underwood%27s+Brand+New+%27Smoke+Break%27+Video&amp;rft.date=2015-08-24&amp;rft.au=Sophie+Schillaci&amp;rft_id=http%3A%2F%2Fwww.etonline.com%2Fmusic%2F170567_exclusive_watch_carrie_underwood_brand_new_smoke_break_video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.carrieunderwoodofficial.com/carrie-underwood-owned-the-night-at-2016-cmt-music-awards/">"Carrie Underwood owned the night at 2016 CMT Music Awards"</a>. carrieunderwoodofficial.com. 2016-06-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+owned+the+night+at+2016+CMT+Music+Awards&amp;rft.pub=carrieunderwoodofficial.com&amp;rft.date=2016-06-10&amp;rft_id=http%3A%2F%2Fwww.carrieunderwoodofficial.com%2Fcarrie-underwood-owned-the-night-at-2016-cmt-music-awards%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Hudak, Joseph. <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/carrie-underwood-chris-stapleton-cam-lead-cmt-awards-nominations-20160509">"Carrie Underwood, Chris Stapleton, Cam Lead CMT Awards Nominees"</a>. <i>rollingstone.com</i>. Rolling Stone<span class="reference-accessdate">. Retrieved <span class="nowrap">10 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rollingstone.com&amp;rft.atitle=Carrie+Underwood%2C+Chris+Stapleton%2C+Cam+Lead+CMT+Awards+Nominees&amp;rft.aulast=Hudak&amp;rft.aufirst=Joseph&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fcarrie-underwood-chris-stapleton-cam-lead-cmt-awards-nominations-20160509&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-US_Release-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-US_Release_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US_Release_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/smoke-break-single/id1031328445">"iTunes – Music – Smoke Break by Carrie Underwood"</a>. <i><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></i>. United States: <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> August 21, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes+Store&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Smoke+Break+by+Carrie+Underwood&amp;rft.date=2015-08-21&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fus%2Falbum%2Fsmoke-break-single%2Fid1031328445&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://carrieunderwoodofficial.com/carrie-underwood-to-debut-smoke-break-on-the-tonight-show-starring-jimmy-fallon/">"Carrie Underwood to Debut "Smoke Break" on The Tonight Show Starring Jimmy Fallon"</a>. <i>Carrie Underwood Official Website</i>. August 20, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Carrie+Underwood+Official+Website&amp;rft.atitle=Carrie+Underwood+to+Debut+%22Smoke+Break%22+on+The+Tonight+Show+Starring+Jimmy+Fallon&amp;rft.date=2015-08-20&amp;rft_id=http%3A%2F%2Fcarrieunderwoodofficial.com%2Fcarrie-underwood-to-debut-smoke-break-on-the-tonight-show-starring-jimmy-fallon%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">McClellan, Laura. <a rel="nofollow" class="external text" href="http://tasteofcountry.com/carrie-underwood-smoke-break-2015-cma-awards/">"Carrie Underwood Gives Audience A "Smoke Break" At 2015 CMA Awards"</a>. <i>tasteofcountry.com</i>. Taste of Country<span class="reference-accessdate">. Retrieved <span class="nowrap">17 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=tasteofcountry.com&amp;rft.atitle=Carrie+Underwood+Gives+Audience+A+%22Smoke+Break%22+At+2015+CMA+Awards&amp;rft.aulast=McClellan&amp;rft.aufirst=Laura&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fcarrie-underwood-smoke-break-2015-cma-awards%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.carrieunderwoodofficial.com/carrie-underwood-owned-the-night-at-2016-cmt-music-awards/">"Carrie Underwood owned the night at 2016 CMT Music Awards"</a>. carrieunderwoodofficial.com. 2016-06-10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+owned+the+night+at+2016+CMT+Music+Awards&amp;rft.pub=carrieunderwoodofficial.com&amp;rft.date=2016-06-10&amp;rft_id=http%3A%2F%2Fwww.carrieunderwoodofficial.com%2Fcarrie-underwood-owned-the-night-at-2016-cmt-music-awards%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-sc_Canada_Carrie_Underwood-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Canada_Carrie_Underwood_25-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/canadian-hot-100">"Carrie Underwood Chart History (Canadian Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-sc_Billboardcanadacountry_Carrie_Underwood-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcanadacountry_Carrie_Underwood_26-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/canada-country">"Carrie Underwood Chart History (Canada Country)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-sc_Billboardhot100_Carrie_Underwood-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardhot100_Carrie_Underwood_27-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/hot-100">"Carrie Underwood Chart History (Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-sc_Billboardcountryairplay_Carrie_Underwood-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcountryairplay_Carrie_Underwood_28-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/country-airplay">"Carrie Underwood Chart History (Country Airplay)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-sc_Billboardcountrysongs_Carrie_Underwood-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcountrysongs_Carrie_Underwood_29-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/country-songs">"Carrie Underwood Chart History (Hot Country Songs)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2015/country-airplay-songs">"Best of 2015: Country Airplay"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2015%3A+Country+Airplay&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2015%2Fcountry-airplay-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2015/hot-country-songs">"Best of 2015: Hot Country Songs"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2015%3A+Hot+Country+Songs&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2015%2Fhot-country-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Australian_Release-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Australian_Release_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/au/album/smoke-break-single/id1031328445">"iTunes – Music – Smoke Break by Carrie Underwood"</a>. <i><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></i>. Australia: <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> August 21, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes+Store&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Smoke+Break+by+Carrie+Underwood&amp;rft.date=2015-08-21&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fau%2Falbum%2Fsmoke-break-single%2Fid1031328445&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-UK_Release-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-UK_Release_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://itunes.apple.com/gb/album/smoke-break-single/id1031328445">"iTunes – Music – Smoke Break by Carrie Underwood"</a>. <i><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></i>. United Kingdom: <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> August 21, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iTunes+Store&amp;rft.atitle=iTunes+%E2%80%93+Music+%E2%80%93+Smoke+Break+by+Carrie+Underwood&amp;rft.date=2015-08-21&amp;rft_id=https%3A%2F%2Fitunes.apple.com%2Fgb%2Falbum%2Fsmoke-break-single%2Fid1031328445&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.allaccess.com/country/future-releases">"Future Releases for Country Radio Stations"</a>. <i>Allaccess.com</i>. United States: All Access Music Group. August 24, 2015. <a rel="nofollow" class="external text" href="https://www.webcitation.org/6b0LOzUYk?url=http://www.allaccess.com/country/future-releases">Archived</a> from the original on August 23, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Allaccess.com&amp;rft.atitle=Future+Releases+for+Country+Radio+Stations&amp;rft.date=2015-08-24&amp;rft_id=http%3A%2F%2Fwww.allaccess.com%2Fcountry%2Ffuture-releases&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;dead-url=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://daily.plaympe.com/carrie-underwood-smoke-break">"PlayMPE&#160;:: Going For Adds&#160;:: Country"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 20,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PlayMPE+%3A%3A+Going+For+Adds+%3A%3A+Country&amp;rft_id=http%3A%2F%2Fdaily.plaympe.com%2Fcarrie-underwood-smoke-break&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Rolling_Stone_new_single-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-Rolling_Stone_new_single_36-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/carrie-underwood-announces-new-album-storyteller-20150820">"New Single: Carrie Underwood's "Smoke Break<span class="cs1-kern-right">"</span>"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. 20 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=New+Single%3A+Carrie+Underwood%E2%80%99s+%22Smoke+Break%22&amp;rft.date=2015-08-20&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fcarrie-underwood-announces-new-album-storyteller-20150820&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff, Billboard. <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/country/7400243/cmt-music-awards-2016-winners-list">"CMT Music Awards 2016: See the Full Winners List"</a>. <i>billboard.com</i>. Billboard<span class="reference-accessdate">. Retrieved <span class="nowrap">16 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=billboard.com&amp;rft.atitle=CMT+Music+Awards+2016%3A+See+the+Full+Winners+List&amp;rft.aulast=Staff&amp;rft.aufirst=Billboard&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fcountry%2F7400243%2Fcmt-music-awards-2016-winners-list&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASmoke+Break" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://countrymusictattletale.com/2016/07/11/2016-british-country-music-awards-nominees-announced/">http://countrymusictattletale.com/2016/07/11/2016-british-country-music-awards-nominees-announced/</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since August 2019">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Smoke_Break&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.metrolyrics.com/smoke-break-lyrics-carrie-underwood.html">Lyrics of this song</a> at <a href="/wiki/MetroLyrics" title="MetroLyrics">MetroLyrics</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Carrie_Underwood_songs" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carrie_Underwood_songs" title="Template:Carrie Underwood songs"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carrie_Underwood_songs" title="Template talk:Carrie Underwood songs"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carrie_Underwood_songs&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carrie_Underwood_songs" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> <a href="/wiki/List_of_songs_recorded_by_Carrie_Underwood" title="List of songs recorded by Carrie Underwood">songs</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Discography&amp;#10;*_Awards_and_nominations">
+<ul><li><a href="/wiki/Carrie_Underwood_discography" title="Carrie Underwood discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Carrie_Underwood" title="List of awards and nominations received by Carrie Underwood">Awards and nominations</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Some_Hearts" title="Some Hearts">Some Hearts</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"</li>
+<li>"<a href="/wiki/Some_Hearts_(song)" title="Some Hearts (song)">Some Hearts</a>"</li>
+<li>"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"</li>
+<li>"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"</li>
+<li>"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/So_Small" title="So Small">So Small</a>"</li>
+<li>"<a href="/wiki/All-American_Girl_(song)" title="All-American Girl (song)">All-American Girl</a>"</li>
+<li>"<a href="/wiki/Last_Name_(song)" title="Last Name (song)">Last Name</a>"</li>
+<li>"<a href="/wiki/Just_a_Dream_(Carrie_Underwood_song)" title="Just a Dream (Carrie Underwood song)">Just a Dream</a>"</li>
+<li>"<a href="/wiki/I_Told_You_So_(Randy_Travis_song)" title="I Told You So (Randy Travis song)">I Told You So</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cowboy_Casanova" title="Cowboy Casanova">Cowboy Casanova</a>"</li>
+<li>"<a href="/wiki/Temporary_Home" title="Temporary Home">Temporary Home</a>"</li>
+<li>"<a href="/wiki/Undo_It" title="Undo It">Undo It</a>"</li>
+<li>"<a href="/wiki/Mama%27s_Song" title="Mama&#39;s Song">Mama's Song</a>"</li>
+<li>"<a href="/wiki/Home_Sweet_Home_(M%C3%B6tley_Cr%C3%BCe_song)" title="Home Sweet Home (Mötley Crüe song)">Home Sweet Home</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Blown_Away_(album)" title="Blown Away (album)">Blown Away</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Good_Girl_(Carrie_Underwood_song)" title="Good Girl (Carrie Underwood song)">Good Girl</a>"</li>
+<li>"<a href="/wiki/Blown_Away_(Carrie_Underwood_song)" title="Blown Away (Carrie Underwood song)">Blown Away</a>"</li>
+<li>"<a href="/wiki/Two_Black_Cadillacs" title="Two Black Cadillacs">Two Black Cadillacs</a>"</li>
+<li>"<a href="/wiki/See_You_Again_(Carrie_Underwood_song)" title="See You Again (Carrie Underwood song)">See You Again</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Greatest_Hits:_Decade_Number_1" title="Greatest Hits: Decade Number 1">Greatest Hits: Decade #1</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Something_in_the_Water_(Carrie_Underwood_song)" title="Something in the Water (Carrie Underwood song)">Something in the Water</a>"</li>
+<li>"<a href="/wiki/Little_Toy_Guns" title="Little Toy Guns">Little Toy Guns</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a class="mw-selflink selflink">Smoke Break</a>"</li>
+<li>"<a href="/wiki/Heartbeat_(Carrie_Underwood_song)" title="Heartbeat (Carrie Underwood song)">Heartbeat</a>"</li>
+<li>"<a href="/wiki/Church_Bells_(song)" title="Church Bells (song)">Church Bells</a>"</li>
+<li>"<a href="/wiki/Dirty_Laundry_(Carrie_Underwood_song)" title="Dirty Laundry (Carrie Underwood song)">Dirty Laundry</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Cry_Pretty" title="Cry Pretty">Cry Pretty</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cry_Pretty_(song)" title="Cry Pretty (song)">Cry Pretty</a>"</li>
+<li>"<a href="/wiki/Love_Wins_(song)" title="Love Wins (song)">Love Wins</a>"</li>
+<li>"<a href="/wiki/The_Champion_(song)" title="The Champion (song)">The Champion</a>"</li>
+<li>"<a href="/wiki/Southbound_(Carrie_Underwood_song)" title="Southbound (Carrie Underwood song)">Southbound</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaborative songs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Just_Stand_Up!" title="Just Stand Up!">Just Stand Up!</a>"</li>
+<li>"<a href="/wiki/Remind_Me_(Brad_Paisley_and_Carrie_Underwood_song)" title="Remind Me (Brad Paisley and Carrie Underwood song)">Remind Me</a>"</li>
+<li>"<a href="/wiki/Can%27t_Stop_Lovin%27_You_(Aerosmith_song)" title="Can&#39;t Stop Lovin&#39; You (Aerosmith song)">Can't Stop Lovin' You</a>"</li>
+<li>"<a href="/wiki/Somethin%27_Bad" title="Somethin&#39; Bad">Somethin' Bad</a>"</li>
+<li>"<a href="/wiki/The_Fighter_(Keith_Urban_song)" title="The Fighter (Keith Urban song)">The Fighter</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>"</li>
+<li>"<a href="/wiki/I%27ll_Stand_by_You" title="I&#39;ll Stand by You">I'll Stand by You</a>"</li>
+<li>"<a href="/wiki/Ever_Ever_After" title="Ever Ever After">Ever Ever After</a>"</li>
+<li>"<a href="/wiki/Praying_for_Time" title="Praying for Time">Praying for Time</a>"</li>
+<li>"<a href="/wiki/There%27s_a_Place_for_Us_(song)" title="There&#39;s a Place for Us (song)">There's a Place for Us</a>"</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Carrie_Underwood" title="Book:Carrie Underwood">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Carrie_Underwood" title="Category:Carrie Underwood">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20190912000942
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.796 seconds
+Real time usage: 0.935 seconds
+Preprocessor visited node count: 4364/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 99851/2097152 bytes
+Template argument size: 7907/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 99549/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.292/10.000 seconds
+Lua memory usage: 5.53 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  838.262      1 -total
+ 28.30%  237.190     30 Template:Cite_web
+ 26.30%  220.482      1 Template:Reflist
+ 25.77%  216.048      5 Template:Singlechart
+ 23.69%  198.560      2 Template:Infobox
+ 23.07%  193.423      1 Template:Infobox_song
+ 14.90%  124.885      1 Template:Certification_Cite_Ref
+ 14.39%  120.620      1 Template:Cite_certification
+  5.85%   49.032      1 Template:External_music_video
+  4.18%   35.026      1 Template:Carrie_Underwood_singles
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47582041-0!canonical and timestamp 20190912000941 and revision id 908889822
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Smoke_Break&amp;oldid=908889822">https://en.wikipedia.org/w/index.php?title=Smoke_Break&amp;oldid=908889822</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2015_songs" title="Category:2015 songs">2015 songs</a></li><li><a href="/wiki/Category:2015_singles" title="Category:2015 singles">2015 singles</a></li><li><a href="/wiki/Category:Carrie_Underwood_songs" title="Category:Carrie Underwood songs">Carrie Underwood songs</a></li><li><a href="/wiki/Category:Arista_Nashville_singles" title="Category:Arista Nashville singles">Arista Nashville singles</a></li><li><a href="/wiki/Category:Song_recordings_produced_by_Jay_Joyce" title="Category:Song recordings produced by Jay Joyce">Song recordings produced by Jay Joyce</a></li><li><a href="/wiki/Category:Songs_written_by_Chris_DeStefano" title="Category:Songs written by Chris DeStefano">Songs written by Chris DeStefano</a></li><li><a href="/wiki/Category:Songs_written_by_Hillary_Lindsey" title="Category:Songs written by Hillary Lindsey">Songs written by Hillary Lindsey</a></li><li><a href="/wiki/Category:Songs_written_by_Carrie_Underwood" title="Category:Songs written by Carrie Underwood">Songs written by Carrie Underwood</a></li><li><a href="/wiki/Category:Billboard_Canada_Country_number-one_singles" title="Category:Billboard Canada Country number-one singles">Billboard Canada Country number-one singles</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_markup" title="Category:CS1 errors: markup">CS1 errors: markup</a></li><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_August_2019" title="Category:Articles with dead external links from August 2019">Articles with dead external links from August 2019</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Canada" title="Category:Singlechart usages for Canada">Singlechart usages for Canada</a></li><li><a href="/wiki/Category:Singlechart_called_without_song" title="Category:Singlechart called without song">Singlechart called without song</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcanadacountry" title="Category:Singlechart usages for Billboardcanadacountry">Singlechart usages for Billboardcanadacountry</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardhot100" title="Category:Singlechart usages for Billboardhot100">Singlechart usages for Billboardhot100</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcountryairplay" title="Category:Singlechart usages for Billboardcountryairplay">Singlechart usages for Billboardcountryairplay</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcountrysongs" title="Category:Singlechart usages for Billboardcountrysongs">Singlechart usages for Billboardcountrysongs</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Smoke+Break" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Smoke+Break" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Smoke_Break" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Smoke_Break" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Smoke_Break">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Smoke_Break&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Smoke_Break&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Smoke_Break" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Smoke_Break" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Smoke_Break&amp;oldid=908889822" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Smoke_Break&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20871397" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Smoke_Break&amp;id=908889822" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Smoke+Break">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Smoke+Break&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Smoke_Break&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Smoke_Break" title="Smoke Break – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Smoke_Break_(Carrie_Underwood_%C5%9Fark%C4%B1s%C4%B1)" title="Smoke Break (Carrie Underwood şarkısı) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Smoke_Break" title="Smoke Break – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q20871397#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 August 2019, at 17:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Smoke_Break&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.796","walltime":"0.935","ppvisitednodes":{"value":4364,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":99851,"limit":2097152},"templateargumentsize":{"value":7907,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":99549,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  838.262      1 -total"," 28.30%  237.190     30 Template:Cite_web"," 26.30%  220.482      1 Template:Reflist"," 25.77%  216.048      5 Template:Singlechart"," 23.69%  198.560      2 Template:Infobox"," 23.07%  193.423      1 Template:Infobox_song"," 14.90%  124.885      1 Template:Certification_Cite_Ref"," 14.39%  120.620      1 Template:Cite_certification","  5.85%   49.032      1 Template:External_music_video","  4.18%   35.026      1 Template:Carrie_Underwood_singles"]},"scribunto":{"limitreport-timeusage":{"value":"0.292","limit":"10.000"},"limitreport-memusage":{"value":5802032,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20190912000942","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Smoke Break","url":"https:\/\/en.wikipedia.org\/wiki\/Smoke_Break","sameAs":"http:\/\/www.wikidata.org\/entity\/Q20871397","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q20871397","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-08-21T00:44:06Z","dateModified":"2019-08-01T17:45:30Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/2\/28\/Carrie_Underwood_-_Smoke_Break_%28Official_Single_Cover%29.png","headline":"single by Carrie Underwood"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

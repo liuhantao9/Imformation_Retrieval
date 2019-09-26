@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Naval Hospital Boston - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Naval_Hospital_Boston","wgTitle":"Naval Hospital Boston","wgCurRevisionId":913347692,"wgRevisionId":913347692,"wgArticleId":22597412,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from April 2019","Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Commons category link from Wikidata","Pages using the Kartographer extension","Medical installations of the United States Navy","Hospital buildings completed in 1836","Hospital buildings completed in 1865","Hospitals in Suffolk County, Massachusetts","Chelsea, Massachusetts","Installations of the United States Navy in Massachusetts","Defunct hospitals in Massachusetts","1836 establishments in Massachusetts","1974 disestablishments in Massachusetts",
+"Military installations closed in 1974","National Register of Historic Places in Chelsea, Massachusetts"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Naval_Hospital_Boston","wgRelevantArticleId":22597412,"wgRequestId":"XYrb2gpAME4AACBx4YkAAACH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Chelsea_Naval_Hospital","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Naval_Hospital_Boston","wgKartographerLiveData":{"_d8c69e5387895f81c66aa59acb98d3dc94e7ce9d":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q5090110","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Naval Hospital Boston","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q5090110","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Naval Hospital Boston"}},{"type":"Feature","geometry":{"coordinates":[-71.0476,42.3897],"type":"Point"},"properties":{"marker-color":"#5E74F3","title":"Naval Hospital Boston","marker-symbol":
+"hospital"}}]},"wgWikibaseItemId":"Q5090110","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/23/Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Naval_Hospital_Boston"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Naval_Hospital_Boston"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Naval_Hospital_Boston rootpage-Naval_Hospital_Boston skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Naval Hospital Boston</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Chelsea_Naval_Hospital&amp;redirect=no" class="mw-redirect" title="Chelsea Naval Hospital">Chelsea Naval Hospital</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Hospital in  Massachusetts, United States</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Naval Hospital Boston</th></tr><tr><td colspan="2" class="category" style="text-align:center">Navy</td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg" class="image"><img alt="Boston Naval Hospital Chelsea MA from NPS.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg/220px-Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg" decoding="async" width="220" height="163" srcset="//upload.wikimedia.org/wikipedia/commons/2/23/Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg 1.5x" data-file-width="250" data-file-height="185" /></a><div>Boston Naval Hospital; a surgeon and others examine a patient in 1919</div></td></tr><tr><td colspan="2" style="text-align:center"><a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="10" data-overlays="[&quot;_d8c69e5387895f81c66aa59acb98d3dc94e7ce9d&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,10,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Naval+Hospital+Boston&amp;groups=_d8c69e5387895f81c66aa59acb98d3dc94e7ce9d); width: 270px; height: 200px;" href="/wiki/Special:Map/10/a/a/en"></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Geography</th></tr><tr><th scope="row">Location</th><td><a href="/wiki/Chelsea,_Massachusetts" title="Chelsea, Massachusetts">Chelsea, Massachusetts</a>, Massachusetts, United States</td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Naval_Hospital_Boston&amp;params=42_23_22.81_N_71_2_51.53_W_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°23′22.81″N</span> <span class="longitude">71°2′51.53″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.3896694°N 71.0476472°W</span><span style="display:none">&#xfeff; / <span class="geo">42.3896694; -71.0476472</span></span></span></a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Organization</th></tr><tr><th scope="row"><a href="/wiki/Hospital#Types" title="Hospital">Hospital type</a></th><td class="category">Military</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">History</th></tr><tr><th scope="row">Founded</th><td>1836</td></tr><tr><th scope="row">Closed</th><td>1974</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Links</th></tr><tr><th scope="row">Lists</th><td><a href="/wiki/List_of_hospitals_in_Massachusetts" title="List of hospitals in Massachusetts">Hospitals in Massachusetts</a></td></tr></tbody></table>
+<p><b>Naval Hospital Boston</b> was a hospital in <a href="/wiki/Chelsea,_Massachusetts" title="Chelsea, Massachusetts">Chelsea, Massachusetts</a>. With the closure of the nearby <a href="/wiki/Boston_Navy_Yard" title="Boston Navy Yard">Boston Navy Yard</a>, the hospital closed in 1974.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On January 7, 1836 the Chelsea Naval Hospital was completed and commissioned. Located on a hill on the banks of the <a href="/wiki/Mystic_River" title="Mystic River">Mystic River</a> in Chelsea, MA, it is 112 feet (34&#160;m) above sea level. The original building was built of Vermont granite. The hospital was a three-story building with a 100-bed capacity. A wing was added on the west side of the building in 1865.<sup id="cite_ref-NPS_1-0" class="reference"><a href="#cite_note-NPS-1">&#91;1&#93;</a></sup>
+</p><p>Chelsea Naval Hospital was one of the first three hospitals authorized by Congress to accommodate naval personnel. Previously, personnel received treatment at marine hospitals operated by the <a href="/wiki/United_States_Department_of_the_Treasury" title="United States Department of the Treasury">Department of the Treasury</a> for mariners, both naval and merchant. The hospital served naval personnel and others during the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>, <a href="/wiki/Spanish%E2%80%93American_War" title="Spanish–American War">Spanish–American War</a>, <a href="/wiki/World_War_I" title="World War I">World War I</a> and <a href="/wiki/World_War_II" title="World War II">World War II</a>.<sup id="cite_ref-NPS_1-1" class="reference"><a href="#cite_note-NPS-1">&#91;1&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:Boston_Naval_Hospital_Chelsea_MA_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boston_Naval_Hospital_Chelsea_MA_01.jpg/200px-Boston_Naval_Hospital_Chelsea_MA_01.jpg" decoding="async" width="200" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boston_Naval_Hospital_Chelsea_MA_01.jpg/300px-Boston_Naval_Hospital_Chelsea_MA_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Boston_Naval_Hospital_Chelsea_MA_01.jpg/400px-Boston_Naval_Hospital_Chelsea_MA_01.jpg 2x" data-file-width="1220" data-file-height="738" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Boston_Naval_Hospital_Chelsea_MA_01.jpg" class="internal" title="Enlarge"></a></div>Chelsea Naval Hospital building</div></div></div>
+<p>In 1970, a plaque in remembrance of <a href="/wiki/Medal_of_Honor" title="Medal of Honor">Medal of Honor</a> recipient <a href="/wiki/Wayne_Maurice_Caron" title="Wayne Maurice Caron">Wayne Maurice Caron</a>, a hospital corpsman, was placed on the grounds of the hospital.<sup id="cite_ref-NPS_1-2" class="reference"><a href="#cite_note-NPS-1">&#91;1&#93;</a></sup> In 1973, the hospital and the surrounding grounds were added to the <a href="/wiki/Naval_Hospital_Boston_Historic_District" title="Naval Hospital Boston Historic District">Naval Hospital Boston Historic District</a>.
+</p><p>When it was decommissioned in 1974, it was the oldest naval hospital in service in the United States and consisted of 88 acres (360,000&#160;m<sup>2</sup>) of land on the Mystic River. Notable patients during the hospital's history include Presidents <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a> (after his presidency) and <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a> (before his presidency).<sup id="cite_ref-NPS_1-3" class="reference"><a href="#cite_note-NPS-1">&#91;1&#93;</a></sup> The original hospital buildings were converted into condominiums while adjacent land was dotted with single family townhouses and high rise apartment complexes. Still extant are the perimeter wall and guard shack, pier, chapel, ordnance buildings, nurses' quarters, and the Captain's House. In addition to the redevelopment of the housing and hospital portion of the property, several acres on the Mystic River were taken over by the <a href="/wiki/Department_of_Conservation_and_Recreation" title="Department of Conservation and Recreation">Metropolitan District Commission</a> for Mary O'Malley Park.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Chelsea_Naval_Hospital" class="extiw" title="commons:Category:Chelsea Naval Hospital">Chelsea Naval Hospital</a></b></i>.</td></tr>
+</tbody></table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-NPS-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-NPS_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NPS_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NPS_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NPS_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nps.gov/nr/travel/maritime/nav.htm">"Maritime History of Massachusetts"</a>. National Park Service. October 20, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Maritime+History+of+Massachusetts&amp;rft.pub=National+Park+Service&amp;rft.date=2009-10-20&amp;rft_id=http%3A%2F%2Fwww.nps.gov%2Fnr%2Ftravel%2Fmaritime%2Fnav.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaval+Hospital+Boston" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external free" href="http://www.olgp.net/chs/hospital/naval.htm">http://www.olgp.net/chs/hospital/naval.htm</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.nps.gov/nr/travel/maritime/nav.htm">http://www.nps.gov/nr/travel/maritime/nav.htm</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Military_installations_in_Massachusetts" style=";wide;padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:MAMilitary" title="Template:MAMilitary"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:MAMilitary" title="Template talk:MAMilitary"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:MAMilitary&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Military_installations_in_Massachusetts" style="font-size:114%;margin:0 4em"><a href="/wiki/Military_installations" class="mw-redirect" title="Military installations">Military installations</a> in <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Active</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Army" title="United States Army">Army</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Camps</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camp_Edwards" title="Camp Edwards">Camp Edwards</a></li>
+<li><a href="/wiki/Camp_Curtis_Guild" title="Camp Curtis Guild">Camp Curtis Guild</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Centers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/George_H._Crosman_United_States_Army_Reserve_Center" title="George H. Crosman United States Army Reserve Center">Crosman Army Reserve Center</a></li>
+<li><a href="/wiki/Fort_Devens" title="Fort Devens">Malony Army Reserve Center</a></li>
+<li><a href="/wiki/Lawrence_O._Poncin_United_States_Army_Reserve_Center" title="Lawrence O. Poncin United States Army Reserve Center">Poncin Army Reserve Center</a></li>
+<li><a href="/wiki/United_States_Army_Natick_Soldier_Research,_Development_and_Engineering_Center" title="United States Army Natick Soldier Research, Development and Engineering Center">United States Army Natick Soldier Research, Development and Engineering Center</a></li>
+<li><a href="/wiki/United_States_Army_Soldier_Systems_Center" title="United States Army Soldier Systems Center">United States Army Soldier Systems Center</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Forts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fort_Devens" title="Fort Devens">Fort Devens</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Heliports</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camp_Edwards_Heliport" title="Camp Edwards Heliport">Camp Edwards Heliport</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Joint Bases</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Joint_Base_Cape_Cod" title="Joint Base Cape Cod">Joint Base Cape Cod</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Laboratories</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Base_Camp_Integration_Laboratory" class="mw-redirect" title="Base Camp Integration Laboratory">Base Camp Integration Laboratory</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Joint</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th id="Centers" scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Centers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=David_S._Connolly_Armed_Forces_Reserve_Center&amp;action=edit&amp;redlink=1" class="new" title="David S. Connolly Armed Forces Reserve Center (page does not exist)">David S. Connolly</a></li>
+<li><a href="/wiki/Westover_Air_Reserve_Base" title="Westover Air Reserve Base">Westover</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Navy" title="United States Navy">Navy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th id="Centers" scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Centers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Navy_Operational_Support_Center_Quincy" title="Navy Operational Support Center Quincy">Navy Operational Support Center Quincy</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Air_Force" title="United States Air Force">Air<br />Force</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Bases</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Westfield-Barnes_Regional_Airport" title="Westfield-Barnes Regional Airport">Barnes Air National Guard Base</a></li>
+<li><a href="/wiki/Hanscom_Air_Force_Base" title="Hanscom Air Force Base">Hanscom Air Force Base</a></li>
+<li><a href="/wiki/Otis_Air_National_Guard_Base" title="Otis Air National Guard Base">Otis Air Force Base</a></li>
+<li><a href="/wiki/Westover_Air_Reserve_Base" title="Westover Air Reserve Base">Westover Air Reserve Base</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Stations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cape_Cod_Air_Force_Station" title="Cape Cod Air Force Station">Cape Cod Air Force Station</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Coast_Guard" title="United States Coast Guard">Coast<br />Guard</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Coast_Guard_Air_Stations" title="United States Coast Guard Air Stations">Air Stations</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coast_Guard_Air_Station_Cape_Cod" title="Coast Guard Air Station Cape Cod">Coast Guard Air Station Cape Cod</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Bases</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coast_Guard_Base_Boston" title="Coast Guard Base Boston">Boston</a></li>
+<li><a href="/wiki/Coast_Guard_Base_Cape_Cod" title="Coast Guard Base Cape Cod">Cape Cod</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Depots</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_Coast_Guard_Buoy_Depot,_South_Weymouth" title="United States Coast Guard Buoy Depot, South Weymouth">United States Coast Guard Buoy Depot, South Weymouth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Stations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coast_Guard_Base_Boston" title="Coast Guard Base Boston">Boston</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Brant_Point" title="Coast Guard Station Brant Point">Brant Point</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Cape_Cod_Canal" title="Coast Guard Station Cape Cod Canal">Cape Cod Canal</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Chatham" title="Coast Guard Station Chatham">Chatham</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Gloucester" title="Coast Guard Station Gloucester">Gloucester</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Menemsha" title="Coast Guard Station Menemsha">Menemsha</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Merrimack_River" title="Coast Guard Station Merrimack River">Merrimack River</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Point_Allerton" title="Coast Guard Station Point Allerton">Point Allerton</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Provincetown" title="Coast Guard Station Provincetown">Provincetown</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Scituate" title="Coast Guard Station Scituate">Scituate</a></li>
+<li><a href="/wiki/Coast_Guard_Station_Woods_Hole" title="Coast Guard Station Woods Hole">Woods Hole</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_Massachusetts.svg" class="image"><img alt="Flag of Massachusetts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/85px-Flag_of_Massachusetts.svg.png" decoding="async" width="85" height="51" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/128px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/170px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Inactive</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Army" title="United States Army">Army</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Airfields</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Naval_Auxiliary_Air_Facility_Hyannis" title="Naval Auxiliary Air Facility Hyannis">Hyannis</a></li>
+<li><a href="/wiki/Moore_Army_Airfield" title="Moore Army Airfield">Moore</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_New_Bedford" class="mw-redirect" title="Naval Auxiliary Air Facility New Bedford">New Bedford</a></li>
+<li><a href="/wiki/Otis_Air_National_Guard_Base" title="Otis Air National Guard Base">Otis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Armories</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hudson_Armory" title="Hudson Armory">Hudson</a></li>
+<li><a href="/wiki/Lawrence_Light_Guard_Armory" title="Lawrence Light Guard Armory">Lawrence</a></li>
+<li><a href="/wiki/Springfield_Armory" title="Springfield Armory">Springfield</a></li>
+<li><a href="/wiki/Water_Shops_Armory" title="Water Shops Armory">Water Shops</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Arsenals</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charlestown_Arsenal" class="mw-redirect" title="Charlestown Arsenal">Charlestown</a></li>
+<li><a href="/wiki/Watertown_Arsenal" title="Watertown Arsenal">Watertown</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Bases</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/South_Boston_Army_Base" title="South Boston Army Base">South Boston Army Base</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Camps</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camp_Adams" title="Camp Adams">Adams</a></li>
+<li><a href="/wiki/Camp_Andrew" title="Camp Andrew">Andrew</a></li>
+<li><a href="/wiki/Camp_Banks" title="Camp Banks">Banks</a></li>
+<li><a href="/wiki/Camp_Brigham" title="Camp Brigham">Brigham</a></li>
+<li><a href="/wiki/Camp_Cameron" title="Camp Cameron">Cameron</a></li>
+<li><a href="/wiki/Camp_Candoit" title="Camp Candoit">Candoit</a></li>
+<li><a href="/wiki/Camp_Chase_(Massachusetts)" title="Camp Chase (Massachusetts)">Chase</a></li>
+<li><a href="/wiki/Camp_Edmunds" title="Camp Edmunds">Edmunds</a></li>
+<li><a href="/wiki/Camp_Ellsworth" title="Camp Ellsworth">Ellsworth</a></li>
+<li><a href="/wiki/Camp_Framingham" title="Camp Framingham">Camp Framingham</a> (Bartlett, McGuinness, Dewey)</li>
+<li><a href="/wiki/Camp_Guild" title="Camp Guild">Guild</a></li>
+<li><a href="/wiki/Camp_Havedoneit" title="Camp Havedoneit">Havedoneit</a></li>
+<li><a href="/wiki/Camp_Hill_(Massachusetts)" title="Camp Hill (Massachusetts)">Hill</a></li>
+<li><a href="/wiki/Camp_Hingham" title="Camp Hingham">Hingham</a></li>
+<li><a href="/wiki/Camp_Hobson" title="Camp Hobson">Hobson</a></li>
+<li><a href="/wiki/Camp_Joe_Hooker" title="Camp Joe Hooker">Hooker</a></li>
+<li><a href="/wiki/Camp_Houston" class="mw-redirect" title="Camp Houston">Houston</a></li>
+<li><a href="/wiki/Ipswich_Camp" title="Ipswich Camp">Ipswich</a></li>
+<li><a href="/wiki/Camp_Lander" title="Camp Lander">Lander</a></li>
+<li><a href="/wiki/Camp_Lincoln_(Massachusetts)" title="Camp Lincoln (Massachusetts)">Lincoln</a></li>
+<li><a href="/wiki/Camp_Massasoit" class="mw-redirect" title="Camp Massasoit">Massasoit</a></li>
+<li><a href="/wiki/Camp_Meigs" title="Camp Meigs">Meigs</a></li>
+<li><a href="/wiki/Camp_Myles_Standish" title="Camp Myles Standish">Myles Standish</a></li>
+<li><a href="/wiki/Camp_Perkins" title="Camp Perkins">Perkins</a></li>
+<li><a href="/wiki/Plymouth_Camp" title="Plymouth Camp">Plymouth</a></li>
+<li><a href="/wiki/Brewster_Islands_Military_Reservation" title="Brewster Islands Military Reservation">Prescott</a></li>
+<li><a href="/wiki/Camp_Prospect_Hill" title="Camp Prospect Hill">Prospect Hill</a></li>
+<li><a href="/wiki/Camp_Scott_(Massachusetts)" title="Camp Scott (Massachusetts)">Scott</a></li>
+<li><a href="/wiki/Camp_Sheppard_(Massachusetts)" title="Camp Sheppard (Massachusetts)">Sheppard</a></li>
+<li><a href="/wiki/South_Hingham_Camp" title="South Hingham Camp">South Hingham</a></li>
+<li><a href="/wiki/Camp_Stanton" title="Camp Stanton">Stanton</a></li>
+<li><a href="/wiki/Camp_Sutton" title="Camp Sutton">Sutton</a></li>
+<li><a href="/wiki/Camp_Washburn" title="Camp Washburn">Washburn</a></li>
+<li><a href="/wiki/Camp_Wellfleet" title="Camp Wellfleet">Wellfleet</a></li>
+<li><a href="/wiki/Camp_Wightman" title="Camp Wightman">Wightman</a></li>
+<li><a href="/wiki/Camp_Williams_(Massachusetts)" title="Camp Williams (Massachusetts)">Williams</a></li>
+<li><a href="/wiki/Camp_Wool" title="Camp Wool">Wool</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Centers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antiaircraft_Artillery_Training_Center,_Camp_Edwards" title="Antiaircraft Artillery Training Center, Camp Edwards">Antiaircraft Artillery Training Center, Camp Edwards</a></li>
+<li><a href="/w/index.php?title=Gardner_Army_Reserve_Center&amp;action=edit&amp;redlink=1" class="new" title="Gardner Army Reserve Center (page does not exist)">Gardner</a></li>
+<li><a href="/w/index.php?title=Greenfield_United_States_Army_Reserve_Center&amp;action=edit&amp;redlink=1" class="new" title="Greenfield United States Army Reserve Center (page does not exist)">Greenfield</a></li>
+<li><a href="/w/index.php?title=United_States_Army_Reserve_Center_Hingham&amp;action=edit&amp;redlink=1" class="new" title="United States Army Reserve Center Hingham (page does not exist)">Hingham</a></li>
+<li><a href="/w/index.php?title=MacArthur_Army_Reserve_Center&amp;action=edit&amp;redlink=1" class="new" title="MacArthur Army Reserve Center (page does not exist)">MacArthur</a></li>
+<li><a href="/w/index.php?title=Millis_United_States_Army_Reserve_Center&amp;action=edit&amp;redlink=1" class="new" title="Millis United States Army Reserve Center (page does not exist)">Millis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Firing Ranges</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Popponesset_Firing_Range" title="Popponesset Firing Range">Popponesset</a></li>
+<li><a href="/wiki/Scorton_Neck_Firing_Range" title="Scorton Neck Firing Range">Scorton Neck</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Forts</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acushnet_Fort" title="Acushnet Fort">Acushnet</a></li>
+<li><a href="/wiki/Fort_Andrew" title="Fort Andrew">Andrew</a></li>
+<li><a href="/wiki/Fort_Andrews" title="Fort Andrews">Andrews</a></li>
+<li><a href="/wiki/Fort_Banks_(Massachusetts)" title="Fort Banks (Massachusetts)">Banks</a></li>
+<li><a href="/wiki/Beverly_Fort" title="Beverly Fort">Beverly</a></li>
+<li><a href="/wiki/Fort_Dawes" title="Fort Dawes">Dawes</a></li>
+<li><a href="/wiki/Fort_Defiance_(Massachusetts)" title="Fort Defiance (Massachusetts)">Defiance</a></li>
+<li><a href="/wiki/Fort_Duvall" title="Fort Duvall">Duvall</a></li>
+<li><a href="/wiki/Eastern_Point_Fort" title="Eastern Point Fort">Eastern Point</a></li>
+<li><a href="/wiki/Gilbert_Heights_Fort" class="mw-redirect" title="Gilbert Heights Fort">Gilbert Heights</a></li>
+<li><a href="/wiki/Fort_Glover" title="Fort Glover">Glover</a></li>
+<li><a href="/wiki/Fort_Heath" title="Fort Heath">Heath</a></li>
+<li><a href="/wiki/Fort_Independence_(Massachusetts)" title="Fort Independence (Massachusetts)">Independence</a></li>
+<li><a href="/wiki/Fort_Juniper" title="Fort Juniper">Juniper</a></li>
+<li><a href="/wiki/Fort_Lee_(Massachusetts)" class="mw-redirect" title="Fort Lee (Massachusetts)">Lee</a></li>
+<li><a href="/wiki/Fort_Miller_(Massachusetts)" title="Fort Miller (Massachusetts)">Miller</a></li>
+<li><a href="/wiki/Fort_Nichols_(Massachusetts)" title="Fort Nichols (Massachusetts)">Nichols</a> (Merrimac)</li>
+<li><a href="/wiki/Old_Stone_Fort_(Massachusetts)" title="Old Stone Fort (Massachusetts)">Old Stone</a></li>
+<li><a href="/wiki/Fort_Philip" title="Fort Philip">Phillip</a></li>
+<li><a href="/wiki/Fort_Phoenix" title="Fort Phoenix">Phoenix</a></li>
+<li><a href="/wiki/Fort_Pickering" title="Fort Pickering">Pickering</a></li>
+<li><a href="/wiki/Fort_Revere" title="Fort Revere">Revere</a></li>
+<li><a href="/wiki/Fort_Ruckman" title="Fort Ruckman">Ruckman</a></li>
+<li><a href="/wiki/Fort_Taber" class="mw-redirect" title="Fort Taber">Taber</a> (Rodman)</li>
+<li><a href="/wiki/Fort_at_Salisbury_Point" title="Fort at Salisbury Point">Salisbury Point</a></li>
+<li><a href="/wiki/Fort_Sewall" title="Fort Sewall">Sewall</a></li>
+<li><a href="/wiki/Fort_Standish_(Boston,_Massachusetts)" title="Fort Standish (Boston, Massachusetts)">Standish (Boston)</a></li>
+<li><a href="/wiki/Fort_Standish_(Plymouth,_Massachusetts)" title="Fort Standish (Plymouth, Massachusetts)">Standish (Plymouth)</a></li>
+<li><a href="/wiki/Fort_Strong" title="Fort Strong">Strong</a> (East Boston &amp; Long Island)</li>
+<li><a href="/wiki/Fort_Warren_(Massachusetts)" title="Fort Warren (Massachusetts)">Warren</a></li>
+<li><a href="/wiki/Fort_Washington_(Massachusetts)" title="Fort Washington (Massachusetts)">Washington</a></li>
+<li><a href="/wiki/Fort_Winthrop" title="Fort Winthrop">Winthrop</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Heliports</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/George_H._Crosman_United_States_Army_Reserve_Center_Heliport" title="George H. Crosman United States Army Reserve Center Heliport">George H. Crosman United States Army Reserve Center Heliport</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Hospitals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lovell_General_Hospital_East" title="Lovell General Hospital East">Lovell East</a></li>
+<li><a href="/wiki/Lovell_General_Hospital_North" title="Lovell General Hospital North">Lovell North</a></li>
+<li><a href="/wiki/Lovell_General_Hospital_South" title="Lovell General Hospital South">Lovell South</a></li>
+<li><a href="/wiki/Murphy_Army_Hospital" title="Murphy Army Hospital">Murphy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Labs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Army_Materials_Technology_Laboratory" class="mw-redirect" title="Army Materials Technology Laboratory">Army Materials Technology Laboratory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Nike Sites</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Reading_Nike_Site_B-03C&amp;action=edit&amp;redlink=1" class="new" title="Reading Nike Site B-03C (page does not exist)">B-03C</a></li>
+<li><a href="/w/index.php?title=Reading_Nike_Site_B-03L&amp;action=edit&amp;redlink=1" class="new" title="Reading Nike Site B-03L (page does not exist)">B-03L</a></li>
+<li><a href="/w/index.php?title=Danvers_Nike_Site_B-05C&amp;action=edit&amp;redlink=1" class="new" title="Danvers Nike Site B-05C (page does not exist)">B-05C</a></li>
+<li><a href="/w/index.php?title=Danvers_Nike_Site_B-05L&amp;action=edit&amp;redlink=1" class="new" title="Danvers Nike Site B-05L (page does not exist)">B-05L</a></li>
+<li><a href="/w/index.php?title=Beverly_Nike_Site_B-15C&amp;action=edit&amp;redlink=1" class="new" title="Beverly Nike Site B-15C (page does not exist)">B-15C</a></li>
+<li><a href="/w/index.php?title=Beverly_Nike_Site_B-15L&amp;action=edit&amp;redlink=1" class="new" title="Beverly Nike Site B-15L (page does not exist)">B-15L</a></li>
+<li><a href="/w/index.php?title=Nahant_Nike_Site_B-17C&amp;action=edit&amp;redlink=1" class="new" title="Nahant Nike Site B-17C (page does not exist)">B-17C</a></li>
+<li><a href="/w/index.php?title=Nahant_Nike_Site_B-17H&amp;action=edit&amp;redlink=1" class="new" title="Nahant Nike Site B-17H (page does not exist)">B-17H</a></li>
+<li><a href="/w/index.php?title=Nahant_Nike_Site_B-17L&amp;action=edit&amp;redlink=1" class="new" title="Nahant Nike Site B-17L (page does not exist)">B-17L</a></li>
+<li><a href="/w/index.php?title=Fort_Heath_Nike_Site_B-18&amp;action=edit&amp;redlink=1" class="new" title="Fort Heath Nike Site B-18 (page does not exist)">B-18</a></li>
+<li><a href="/w/index.php?title=Fort_Banks_Nike_Site_B-21DC&amp;action=edit&amp;redlink=1" class="new" title="Fort Banks Nike Site B-21DC (page does not exist)">B-21DC</a></li>
+<li><a href="/w/index.php?title=Fort_Banks_Nike_Site_B-21HA&amp;action=edit&amp;redlink=1" class="new" title="Fort Banks Nike Site B-21HA (page does not exist)">B-21HA</a></li>
+<li><a href="/w/index.php?title=Fort_Duvall_Nike_Site_B-36C&amp;action=edit&amp;redlink=1" class="new" title="Fort Duvall Nike Site B-36C (page does not exist)">B-36C</a></li>
+<li><a href="/w/index.php?title=Fort_Duvall_Nike_Site_B-36L&amp;action=edit&amp;redlink=1" class="new" title="Fort Duvall Nike Site B-36L (page does not exist)">B-36L</a></li>
+<li><a href="/w/index.php?title=Quincy_Nike_Site_B-37C&amp;action=edit&amp;redlink=1" class="new" title="Quincy Nike Site B-37C (page does not exist)">B-37C</a></li>
+<li><a href="/w/index.php?title=Quincy_Nike_Site_B-37L&amp;action=edit&amp;redlink=1" class="new" title="Quincy Nike Site B-37L (page does not exist)">B-37L</a></li>
+<li><a href="/w/index.php?title=Hingham_Nike_Site_B-38C&amp;action=edit&amp;redlink=1" class="new" title="Hingham Nike Site B-38C (page does not exist)">B-38C</a></li>
+<li><a href="/w/index.php?title=Hingham_Nike_Site_B-38L&amp;action=edit&amp;redlink=1" class="new" title="Hingham Nike Site B-38L (page does not exist)">B-38L</a></li>
+<li><a href="/w/index.php?title=Quincy_Nike_Site_B-40H&amp;action=edit&amp;redlink=1" class="new" title="Quincy Nike Site B-40H (page does not exist)">B-40H</a></li>
+<li><a href="/w/index.php?title=Blue_Hills_Nike_Site_B-55C&amp;action=edit&amp;redlink=1" class="new" title="Blue Hills Nike Site B-55C (page does not exist)">B-55C</a></li>
+<li><a href="/w/index.php?title=Blue_Hills_Nike_Site_B-55L&amp;action=edit&amp;redlink=1" class="new" title="Blue Hills Nike Site B-55L (page does not exist)">B-55L</a></li>
+<li><a href="/w/index.php?title=Needham_Nike_Site_B-63C&amp;action=edit&amp;redlink=1" class="new" title="Needham Nike Site B-63C (page does not exist)">B-63C</a></li>
+<li><a href="/w/index.php?title=Needham_Nike_Site_B-63L&amp;action=edit&amp;redlink=1" class="new" title="Needham Nike Site B-63L (page does not exist)">B-63L</a></li>
+<li><a href="/w/index.php?title=Lincoln_Nike_Site_B-73L&amp;action=edit&amp;redlink=1" class="new" title="Lincoln Nike Site B-73L (page does not exist)">B-73L</a></li>
+<li><a href="/w/index.php?title=Burlington_Nike_Site_B-84L&amp;action=edit&amp;redlink=1" class="new" title="Burlington Nike Site B-84L (page does not exist)">B-84L</a></li>
+<li><a href="/w/index.php?title=Bedford_Nike_Site_B-85C&amp;action=edit&amp;redlink=1" class="new" title="Bedford Nike Site B-85C (page does not exist)">B-85C</a></li>
+<li><a href="/w/index.php?title=Bedford_Nike_Site_B-85L&amp;action=edit&amp;redlink=1" class="new" title="Bedford Nike Site B-85L (page does not exist)">B-85L</a></li>
+<li><a href="/w/index.php?title=Rehoboth_Nike_Site_PR-19C&amp;action=edit&amp;redlink=1" class="new" title="Rehoboth Nike Site PR-19C (page does not exist)">PR-19C</a></li>
+<li><a href="/w/index.php?title=Rehoboth_Nike_Site_PR-19H&amp;action=edit&amp;redlink=1" class="new" title="Rehoboth Nike Site PR-19H (page does not exist)">PR-19H</a></li>
+<li><a href="/w/index.php?title=Rehoboth_Nike_Site_PR-19LPR-19L&amp;action=edit&amp;redlink=1" class="new" title="Rehoboth Nike Site PR-19LPR-19L (page does not exist)">PR-19L</a></li>
+<li><a href="/w/index.php?title=Swansea_Nike_Site_PR-29A&amp;action=edit&amp;redlink=1" class="new" title="Swansea Nike Site PR-29A (page does not exist)">PR-29A</a></li>
+<li><a href="/w/index.php?title=Swansea_Nike_Site_PR-29C&amp;action=edit&amp;redlink=1" class="new" title="Swansea Nike Site PR-29C (page does not exist)">PR-29C</a></li>
+<li><a href="/w/index.php?title=Swansea_PR-29L&amp;action=edit&amp;redlink=1" class="new" title="Swansea PR-29L (page does not exist)">PR-29L</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Plants</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Lowell_Ordnance_Plant" title="Lowell Ordnance Plant">Lowell Ordnance Plant</a></li>
+<li><a href="/wiki/Pilgrim_Ordnance_Works" title="Pilgrim Ordnance Works">Pilgrim Ordnance Works</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Proving grounds</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scituate_Proving_Ground" title="Scituate Proving Ground">Scituate Proving Ground</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Reservations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barneys_Joy_Point_Military_Reservation" title="Barneys Joy Point Military Reservation">Barneys Joy Point</a></li>
+<li><a href="/wiki/Brewster_Islands_Military_Reservation" title="Brewster Islands Military Reservation">Brewster Islands</a></li>
+<li><a href="/wiki/Butler_Point_Military_Reservation" title="Butler Point Military Reservation">Butler Point</a></li>
+<li><a href="/wiki/Calf_Island_Military_Reservation" title="Calf Island Military Reservation">Calf Island</a></li>
+<li><a href="/wiki/East_Point_Military_Reservation" title="East Point Military Reservation">East Point</a></li>
+<li><a href="/wiki/Elizabeth_Islands_Military_Reservation" title="Elizabeth Islands Military Reservation">Elizabeth Islands</a></li>
+<li><a href="/wiki/Fourth_Cliff_Military_Reservation" title="Fourth Cliff Military Reservation">Fourth Cliff</a></li>
+<li><a href="/wiki/Fort_Taber" class="mw-redirect" title="Fort Taber">Fort Rodman</a></li>
+<li><a href="/wiki/Grover%27s_Cliff_Military_Reservation" class="mw-redirect" title="Grover&#39;s Cliff Military Reservation">Grover's Cliff</a></li>
+<li><a href="/wiki/Fort_Strong" title="Fort Strong">Long Island</a></li>
+<li><a href="/wiki/Fort_Standish_(Boston,_Massachusetts)" title="Fort Standish (Boston, Massachusetts)">Lovell's Island</a></li>
+<li><a href="/wiki/Mishaum_Point_Military_Reservation" title="Mishaum Point Military Reservation">Mishaum Point</a></li>
+<li><a href="/wiki/Sagamore_Hill_Military_Reservation" title="Sagamore Hill Military Reservation">Sagamore Hill</a></li>
+<li><a href="/wiki/Salisbury_Beach_Military_Reservation" title="Salisbury Beach Military Reservation">Salisbury Beach</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Training</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fort_Devens-Sudbury_Training_Annex" title="Fort Devens-Sudbury Training Annex">Fort Devens-Sudbury Training Annex</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Navy" title="United States Navy">Navy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Air Stations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chatham_Naval_Air_Station" class="mw-redirect" title="Chatham Naval Air Station">Chatham</a></li>
+<li><a href="/wiki/United_States_Naval_Training_Station_for_Aviation,_Marblehead" title="United States Naval Training Station for Aviation, Marblehead">Marblehead</a></li>
+<li><a href="/wiki/Naval_Air_Station_South_Weymouth" title="Naval Air Station South Weymouth">South Weymouth</a></li>
+<li><a href="/wiki/Massachusetts_State_Militia_Aviation_Camp" title="Massachusetts State Militia Aviation Camp">State Militia Aviation Camp</a></li>
+<li><a href="/wiki/Naval_Air_Station_Squantum" title="Naval Air Station Squantum">Squantum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Airfields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/No_Man%27s_Land_Navy_Airfield" title="No Man&#39;s Land Navy Airfield">No Man's Land Navy Airfield</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Ammunition Depots</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hingham_Naval_Ammunition_Depot" title="Hingham Naval Ammunition Depot">Hingham</a> (<a href="/wiki/Hingham_Naval_Ammunition_Depot_Annex" title="Hingham Naval Ammunition Depot Annex">Hingham Annex</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Areas</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gull_Island_Bomb_Area" title="Gull Island Bomb Area">Gull Island Bomb</a></li>
+<li><a href="/wiki/Tisbury_Great_Pond_Target_Area" title="Tisbury Great Pond Target Area">Tisbury Great Pond Target</a></li>
+<li><a href="/wiki/Weepecket_Island_Bomb_Area" title="Weepecket Island Bomb Area">Weepecket Island Bomb</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Auxiliary Air Facilities</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Moore_Army_Airfield" title="Moore Army Airfield">Ayer</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_Beverly" class="mw-redirect" title="Naval Auxiliary Air Facility Beverly">Beverly</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_Hyannis" title="Naval Auxiliary Air Facility Hyannis">Hyannis</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_Martha%27s_Vineyard" class="mw-redirect" title="Naval Auxiliary Air Facility Martha&#39;s Vineyard">Martha’s Vineyard</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_Nantucket" title="Naval Auxiliary Air Facility Nantucket">Nantucket</a></li>
+<li><a href="/wiki/Naval_Auxiliary_Air_Facility_New_Bedford" class="mw-redirect" title="Naval Auxiliary Air Facility New Bedford">New Bedford</a></li>
+<li><a href="/wiki/Otis_Air_National_Guard_Base" title="Otis Air National Guard Base">Otis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Camps</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Camp_Hingham" title="Camp Hingham">Camp Hingham</a></li>
+<li><a href="/wiki/Camp_Curtis_Guild" title="Camp Curtis Guild">Camp Plunkett</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Facilities</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_Naval_Mine_Test_Facility,_Provincetown" title="United States Naval Mine Test Facility, Provincetown">Provincetown Mine Test</a></li>
+<li><a href="/wiki/Tom_Nevers_Naval_Facility" title="Tom Nevers Naval Facility">Tom Nevers</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Hospitals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Naval Hospital Boston</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Plants</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Naval_Weapons_Industrial_Reserve_Plant,_Bedford" title="Naval Weapons Industrial Reserve Plant, Bedford">Naval Weapons Industrial Reserve Plant, Bedford</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Outlying Landing Fields</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Outlying_Landing_Field_Mansfield" title="Outlying Landing Field Mansfield">Mansfield</a></li>
+<li><a href="/wiki/Outlying_Landing_Field_Norwood" class="mw-redirect" title="Outlying Landing Field Norwood">Norwood</a></li>
+<li><a href="/wiki/Outlying_Landing_Field_Plymouth" class="mw-redirect" title="Outlying Landing Field Plymouth">Plymouth</a></li>
+<li><a href="/wiki/Barnes_Air_National_Guard_Base" class="mw-redirect" title="Barnes Air National Guard Base">Westfield</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Reserve Centers</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Naval_Reserve_Center,_Chicopee" title="Naval Reserve Center, Chicopee">Chicopee</a></li>
+<li><a href="/wiki/Navy_and_Marine_Corps_Reserve_Center,_Lawrence" title="Navy and Marine Corps Reserve Center, Lawrence">Navy &amp; Marines, Lawrence</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Ranges</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nomans_Land_Range" title="Nomans Land Range">Nomans Land</a></li>
+<li><a href="/wiki/Halifax_Proving_Range" title="Halifax Proving Range">Halifax</a></li>
+<li><a href="/wiki/Sandy_Neck_Bomb_Target_Range" title="Sandy Neck Bomb Target Range">Sandy Neck</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Test Stations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_Navy_Field_Test_Station,_Fort_Heath" title="United States Navy Field Test Station, Fort Heath">United States Navy Field Test Station, Fort Heath</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Yards</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Navy_Yard" title="Boston Navy Yard">Boston Navy Yard</a> (<a href="/wiki/Chelsea_Naval_Annex" title="Chelsea Naval Annex">Chelsea Annex</a>, <a href="/wiki/East_Boston_Naval_Annex" title="East Boston Naval Annex">East Boston Annex</a>, <a href="/wiki/Boston_Naval_Yard_Fuel_Depot_Annex" title="Boston Naval Yard Fuel Depot Annex">Fuel Depot Annex</a>, <a href="/wiki/South_Boston_Naval_Annex" title="South Boston Naval Annex">South Boston Annex</a>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Air_Force" title="United States Air Force">Air<br />Force</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Bases</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Otis_Air_Force_Base" class="mw-redirect" title="Otis Air Force Base">Otis</a></li>
+<li><a href="/wiki/Westover_Air_Force_Base" class="mw-redirect" title="Westover Air Force Base">Westover</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Centers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Electronic_Systems_Center" title="Electronic Systems Center">Electronic Systems Center</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Facilities</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_Force_Special_Projects_Production_Facility" title="Air Force Special Projects Production Facility">Air Force Special Projects Production Facility</a></li>
+<li><a href="/wiki/Post_Attack_Command_and_Control_System_Facility,_Hadley" class="mw-redirect" title="Post Attack Command and Control System Facility, Hadley">Post Attack Command and Control System Facility, Hadley</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Hospitals</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/551st_United_States_Air_Force_Hospital" title="551st United States Air Force Hospital">Otis</a></li>
+<li><a href="/wiki/Westover_Air_Force_Base_Hospital" title="Westover Air Force Base Hospital">Westover</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Laboratories</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Air_Force_Cambridge_Research_Laboratories" class="mw-redirect" title="Air Force Cambridge Research Laboratories">Air Force Cambridge Research Laboratories</a></li>
+<li><a href="/wiki/Fort_Franklin_Battlespace_Laboratory" class="mw-redirect" title="Fort Franklin Battlespace Laboratory">Fort Franklin Battlespace Laboratory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Plants</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/United_States_Air_Force_Plant_28" class="mw-redirect" title="United States Air Force Plant 28">28</a></li>
+<li><a href="/wiki/United_States_Air_Force_Plant_29" class="mw-redirect" title="United States Air Force Plant 29">29</a></li>
+<li><a href="/wiki/United_States_Air_Force_Plant_63" class="mw-redirect" title="United States Air Force Plant 63">63</a></li>
+<li><a href="/wiki/United_States_Air_Force_Plant_69" class="mw-redirect" title="United States Air Force Plant 69">69</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Ranges</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Monomoy_Island_Gunnery_Range" title="Monomoy Island Gunnery Range">Monomoy</a></li>
+<li><a href="/wiki/Quabbin_Reservoir_Precision_Bombing_and_Gunnery_Range" title="Quabbin Reservoir Precision Bombing and Gunnery Range">Quabbin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Stations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Truro_Air_Force_Station" title="North Truro Air Force Station">North Truro</a></li>
+<li><a href="/wiki/Stony_Brook_Air_Force_Station" title="Stony Brook Air Force Station">Stony Brook</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/Texas_Tower" class="mw-redirect" title="Texas Tower">Texas Towers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Texas_Tower_2" title="Texas Tower 2">2</a> <a href="/wiki/Texas_Tower_3" title="Texas Tower 3">3</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Coast_Guard" title="United States Coast Guard">Coast<br />Guard</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0;;wide"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;"><a href="/wiki/United_States_Coast_Guard_Air_Stations" title="United States Coast Guard Air Stations">Air Stations</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coast_Guard_Air_Station_Salem" title="Coast Guard Air Station Salem">Salem</a></li>
+<li><a href="/wiki/Coast_Guard_Aviation_Station_Ten_Pound_Island" title="Coast Guard Aviation Station Ten Pound Island">Ten Pound Island</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Loran</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Loran_Transmitting_Station_Martha%E2%80%99s_Vineyard" class="mw-redirect" title="Loran Transmitting Station Martha’s Vineyard">Martha's Vineyard</a></li>
+<li><a href="/wiki/LORAN-C_transmitter_Nantucket" title="LORAN-C transmitter Nantucket">Nantucket</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Stations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coast_Guard_Station_Manomet_Point" title="Coast Guard Station Manomet Point">Manomet Point</a></li>
+<li><a href="/wiki/Coast_Guard_Station_New_Bedford" title="Coast Guard Station New Bedford">New Bedford</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1243
+Cached time: 20190925031539
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.524 seconds
+Real time usage: 0.688 seconds
+Preprocessor visited node count: 1981/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 225684/2097152 bytes
+Template argument size: 3322/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3785/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.226/10.000 seconds
+Lua memory usage: 6.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  516.975      1 -total
+ 43.10%  222.791      1 Template:Infobox_Hospital
+ 28.02%  144.845      1 Template:Infobox
+ 18.54%   95.841      1 Template:Reflist
+ 17.43%   90.097     12 Template:Military_navigation
+ 16.92%   87.497      1 Template:Cite_web
+  9.84%   50.876      1 Template:Commons_category
+  9.71%   50.209      1 Template:MAMilitary
+  9.18%   47.454      2 Template:Convert
+  8.56%   44.262      1 Template:Use_mdy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22597412-0!canonical and timestamp 20190925031538 and revision id 913347692
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Naval_Hospital_Boston&amp;oldid=913347692">https://en.wikipedia.org/w/index.php?title=Naval_Hospital_Boston&amp;oldid=913347692</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Medical_installations_of_the_United_States_Navy" title="Category:Medical installations of the United States Navy">Medical installations of the United States Navy</a></li><li><a href="/wiki/Category:Hospital_buildings_completed_in_1836" title="Category:Hospital buildings completed in 1836">Hospital buildings completed in 1836</a></li><li><a href="/wiki/Category:Hospital_buildings_completed_in_1865" title="Category:Hospital buildings completed in 1865">Hospital buildings completed in 1865</a></li><li><a href="/wiki/Category:Hospitals_in_Suffolk_County,_Massachusetts" title="Category:Hospitals in Suffolk County, Massachusetts">Hospitals in Suffolk County, Massachusetts</a></li><li><a href="/wiki/Category:Chelsea,_Massachusetts" title="Category:Chelsea, Massachusetts">Chelsea, Massachusetts</a></li><li><a href="/wiki/Category:Installations_of_the_United_States_Navy_in_Massachusetts" title="Category:Installations of the United States Navy in Massachusetts">Installations of the United States Navy in Massachusetts</a></li><li><a href="/wiki/Category:Defunct_hospitals_in_Massachusetts" title="Category:Defunct hospitals in Massachusetts">Defunct hospitals in Massachusetts</a></li><li><a href="/wiki/Category:1836_establishments_in_Massachusetts" title="Category:1836 establishments in Massachusetts">1836 establishments in Massachusetts</a></li><li><a href="/wiki/Category:1974_disestablishments_in_Massachusetts" title="Category:1974 disestablishments in Massachusetts">1974 disestablishments in Massachusetts</a></li><li><a href="/wiki/Category:Military_installations_closed_in_1974" title="Category:Military installations closed in 1974">Military installations closed in 1974</a></li><li><a href="/wiki/Category:National_Register_of_Historic_Places_in_Chelsea,_Massachusetts" title="Category:National Register of Historic Places in Chelsea, Massachusetts">National Register of Historic Places in Chelsea, Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_April_2019" title="Category:Use mdy dates from April 2019">Use mdy dates from April 2019</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Naval+Hospital+Boston" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Naval+Hospital+Boston" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Naval_Hospital_Boston" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Naval_Hospital_Boston" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Naval_Hospital_Boston">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Naval_Hospital_Boston" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Naval_Hospital_Boston" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Naval_Hospital_Boston&amp;oldid=913347692" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Naval_Hospital_Boston&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5090110" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Naval_Hospital_Boston&amp;id=913347692" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Chelsea_Naval_Hospital" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Naval+Hospital+Boston">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Naval+Hospital+Boston&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Naval_Hospital_Boston&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5090110#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 August 2019, at 14:44<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Naval_Hospital_Boston&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.688","ppvisitednodes":{"value":1981,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":225684,"limit":2097152},"templateargumentsize":{"value":3322,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3785,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  516.975      1 -total"," 43.10%  222.791      1 Template:Infobox_Hospital"," 28.02%  144.845      1 Template:Infobox"," 18.54%   95.841      1 Template:Reflist"," 17.43%   90.097     12 Template:Military_navigation"," 16.92%   87.497      1 Template:Cite_web","  9.84%   50.876      1 Template:Commons_category","  9.71%   50.209      1 Template:MAMilitary","  9.18%   47.454      2 Template:Convert","  8.56%   44.262      1 Template:Use_mdy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.226","limit":"10.000"},"limitreport-memusage":{"value":6408877,"limit":52428800}},"cachereport":{"origin":"mw1243","timestamp":"20190925031539","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Naval Hospital Boston","url":"https:\/\/en.wikipedia.org\/wiki\/Naval_Hospital_Boston","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5090110","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5090110","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-04-27T23:59:26Z","dateModified":"2019-08-31T14:44:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/23\/Boston_Naval_Hospital_Chelsea_MA_from_NPS.jpg","headline":"former hospital in Massachusetts, United States"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":847,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Blue poison dart frog - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Blue_poison_dart_frog","wgTitle":"Blue poison dart frog","wgCurRevisionId":917758426,"wgRevisionId":917758426,"wgArticleId":1202421,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2018","Articles with 'species' microformats","Commons category link from Wikidata","Articles containing video clips","Amphibians described in 1969","Dendrobates","Aposematic species","Frogs of South America","Amphibians of Brazil"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan",
+"Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Blue_poison_dart_frog","wgRelevantArticleId":1202421,"wgRequestId":"XYs7hApAIEIAAInSLaIAAACH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q743123","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart"
+,"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/1200px-Dendrobates_azureus_qtl1.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Blue_poison_dart_frog"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Blue_poison_dart_frog"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Blue_poison_dart_frog rootpage-Blue_poison_dart_frog skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Blue poison dart frog</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox biota" style="text-align: left; width: 200px; font-size: 100%">
+
+<tbody><tr>
+<th colspan="2" style="text-align: center; background-color: rgb(235,235,210)"><i>Dendrobates tinctorius azureus</i>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/wiki/File:Dendrobates_azureus_qtl1.jpg" class="image"><img alt="Dendrobates azureus qtl1.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/220px-Dendrobates_azureus_qtl1.jpg" decoding="async" width="220" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/330px-Dendrobates_azureus_qtl1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dendrobates_azureus_qtl1.jpg/440px-Dendrobates_azureus_qtl1.jpg 2x" data-file-width="4144" data-file-height="2848" /></a>
+</td></tr>
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2"><div style="text-align: center"><a href="/wiki/Conservation_status" title="Conservation status">Conservation status</a></div>
+</th></tr>
+<tr>
+<td colspan="2"><div style="text-align: center"><i>Not evaluated</i><small>&#160;(<a href="/wiki/IUCN_Red_List" title="IUCN Red List">IUCN 3.1</a>)<sup id="cite_ref-IUCN_1-0" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup></small></div>
+</td></tr>
+
+<tr>
+<th colspan="2" style="min-width:15em; text-align: center; background-color: rgb(235,235,210)"><a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">Scientific classification</a> <span class="plainlinks" style="font-size:smaller; float:right; padding-right:0.4em; margin-left:-3em;"><a href="/wiki/Template:Taxonomy/Dendrobates" title="e"><img alt="e" src="//upload.wikimedia.org/wikipedia/commons/7/74/Red_Pencil_Icon.png" decoding="async" width="16" height="16" data-file-width="16" data-file-height="16" /></a></span>
+</th></tr>
+<tr>
+<td>Kingdom:
+</td>
+<td><a href="/wiki/Animal" title="Animal">Animalia</a>
+</td></tr>
+<tr>
+<td>Phylum:
+</td>
+<td><a href="/wiki/Chordate" title="Chordate">Chordata</a>
+</td></tr>
+<tr>
+<td>Class:
+</td>
+<td><a href="/wiki/Amphibian" title="Amphibian">Amphibia</a>
+</td></tr>
+<tr>
+<td>Order:
+</td>
+<td><a href="/wiki/Frog" title="Frog">Anura</a>
+</td></tr>
+<tr>
+<td>Family:
+</td>
+<td><a href="/wiki/Poison_dart_frog" title="Poison dart frog">Dendrobatidae</a>
+</td></tr>
+<tr>
+<td>Genus:
+</td>
+<td><a href="/wiki/Dendrobates" title="Dendrobates"><i>Dendrobates</i></a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td>Species:
+</td>
+<td><div style="display:inline" class="species"><i><a href="/wiki/Dyeing_dart_frog" title="Dyeing dart frog">D.&#160;tinctorius</a></i></div>
+</td></tr>
+
+<tr>
+<td>Subspecies:
+</td>
+<td><div style="display:inline" class="subspecies"><i><b>D.&#160;t. azureus</b></i></div>
+</td></tr>
+
+
+
+
+
+
+
+
+<tr style="text-align: center; background-color: rgb(235,235,210)">
+<th colspan="2" style="text-align: center"><a href="/wiki/Trinomen" title="Trinomen">Trinomial name</a>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><b><span class="trinomial"><i>Dendrobates tinctorius azureus</i></span></b><br /><div style="font-size: 85%;">(<a href="/w/index.php?title=Marinus_Steven_Hoogmoed&amp;action=edit&amp;redlink=1" class="new" title="Marinus Steven Hoogmoed (page does not exist)">Hoogmoed</a>, 1969)</div>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>The <b>blue poison dart frog</b> or <b>blue poison arrow frog</b> (<i>Dendrobates tinctorius azureus</i>) is a <a href="/wiki/Poison_dart_frog" title="Poison dart frog">poison dart frog</a> found in the forests surrounded by the <a href="/wiki/Sipaliwini" title="Sipaliwini">Sipaliwini</a> savanna, which is located in southern <a href="/wiki/Suriname" title="Suriname">Suriname</a> and adjacent far northern Brazil. <i>D. tinctorius azureus</i> is also known by its indigenous <a href="/wiki/Tirio" class="mw-redirect" title="Tirio">Tirio</a> name, <i>okopipi</i>. Its scientific name comes from its azure color. While frequently considered a valid species in the past, recent authorities treat it as a variant of <i><a href="/wiki/Dyeing_dart_frog" title="Dyeing dart frog">D. tinctorius</a></i>.<sup id="cite_ref-IUCN_1-1" class="reference"><a href="#cite_note-IUCN-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Behavior"><span class="tocnumber">2</span> <span class="toctext">Behavior</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Reproduction"><span class="tocnumber">3</span> <span class="toctext">Reproduction</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Feeding"><span class="tocnumber">4</span> <span class="toctext">Feeding</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Captive_care"><span class="tocnumber">5</span> <span class="toctext">Captive care</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2009-04-05Dendrobates_tinctorius_azureus039.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2009-04-05Dendrobates_tinctorius_azureus039.jpg/220px-2009-04-05Dendrobates_tinctorius_azureus039.jpg" decoding="async" width="220" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2009-04-05Dendrobates_tinctorius_azureus039.jpg/330px-2009-04-05Dendrobates_tinctorius_azureus039.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2009-04-05Dendrobates_tinctorius_azureus039.jpg/440px-2009-04-05Dendrobates_tinctorius_azureus039.jpg 2x" data-file-width="1200" data-file-height="670" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2009-04-05Dendrobates_tinctorius_azureus039.jpg" class="internal" title="Enlarge"></a></div><i>D. tinctorius azureus</i> frogs in captivity.</div></div></div>
+<p><i>D. tinctorius azureus</i> is a medium-sized frog that weighs about 8&#160;g and grows to 3.0-4.5&#160;cm in length. Females are larger and about half a centimeter longer than males, but males have larger toes. The frog has a typical lifespan of five to seven years in the wild. Its bright blue skin, usually darker around its limbs and stomach, serves as a <a href="/wiki/Aposematism" title="Aposematism">warning to predators</a>. The glands of poisonous <a href="/wiki/Alkaloids" class="mw-redirect" title="Alkaloids">alkaloids</a> located  a defense mechanism to potential predators. These poisons paralyze and sometimes kill the predator. The black spots are unique to each frog, enabling individuals to be identified. This species of frog has a distinctive hunch-backed posture.
+</p><p>Each foot has four toes, which each have a flattened tip with a suction cup pad used for gripping. The tips of the toes in females are round, while males have heart-shaped tips.
+</p><p>As with almost all frogs, <a href="/wiki/Tadpoles" class="mw-redirect" title="Tadpoles">tadpoles</a> differ greatly in appearance from adults. They have a long tail, about 6&#160;mm, with a total length around 10&#160;mm. They lack legs and have gills instead of lungs.
+</p>
+<h2><span class="mw-headline" id="Behavior">Behavior</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=2" title="Edit section: Behavior">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:220px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:854px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blue-poison-frog-720p.webm/854px--Blue-poison-frog-720p.webm.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:854px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;21.059&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Blue-poison-frog-720p.webm&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.480p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;SD VP9 (480P)&quot; data-shorttitle=&quot;VP9 480P&quot; data-transcodekey=&quot;480p.vp9.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;845144&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;854&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1063568&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.720p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;HD VP9 (720P)&quot; data-shorttitle=&quot;VP9 720P&quot; data-transcodekey=&quot;720p.vp9.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;1668464&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;HD WebM (720P)&quot; data-shorttitle=&quot;WebM 720P&quot; data-transcodekey=&quot;720p.webm&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;2381864&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/8/84/Blue-poison-frog-720p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Original WebM file, 1,280 × 720 (4 Mbps)&quot; data-shorttitle=&quot;WebM source&quot; data-width=&quot;1280&quot; data-height=&quot;720&quot; data-bandwidth=&quot;3999877&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Lowest bandwidth VP9 (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;214&quot; data-height=&quot;120&quot; data-bandwidth=&quot;148000&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Low bandwidth WebM (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;284&quot; data-height=&quot;160&quot; data-bandwidth=&quot;187688&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Low bandwidth VP9 (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;180&quot; data-bandwidth=&quot;209864&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Small VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;285872&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Small WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;426&quot; data-height=&quot;240&quot; data-bandwidth=&quot;302368&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 (360P)&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;469568&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/8/84/Blue-poison-frog-720p.webm/Blue-poison-frog-720p.webm.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;640&quot; data-height=&quot;360&quot; data-bandwidth=&quot;555848&quot; data-framerate=&quot;29.97&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="File:Blue-poison-frog-720p.webm" style="width:220px;height:124px" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Blue-poison-frog-720p.webm/220px--Blue-poison-frog-720p.webm.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/8/84/Blue-poison-frog-720p.webm" title="Play media" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Blue-poison-frog-720p.webm" class="internal" title="Enlarge"></a></div>Blue poison frog</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:2009-03-29Dendrobates_tinctorius_azureus106.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2009-03-29Dendrobates_tinctorius_azureus106.jpg/220px-2009-03-29Dendrobates_tinctorius_azureus106.jpg" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2009-03-29Dendrobates_tinctorius_azureus106.jpg/330px-2009-03-29Dendrobates_tinctorius_azureus106.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/2009-03-29Dendrobates_tinctorius_azureus106.jpg/440px-2009-03-29Dendrobates_tinctorius_azureus106.jpg 2x" data-file-width="1200" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2009-03-29Dendrobates_tinctorius_azureus106.jpg" class="internal" title="Enlarge"></a></div><i>D. tinctorius azureus</i></div></div></div>
+<p><i>D. tinctorius azureus</i> is a mainland animal, but stays close to water sources. These frogs spend most of their awake time, during the day, hopping around in short leaps. They are very territorial and aggressive both towards their own species and others. To ward off intruders, they use a series of calls, chases, and wrestling.
+Although poison dart frogs are known for their skin toxins, used on the tips of arrows or darts of natives, in reality only the species of the genus <i><a href="/wiki/Phyllobates" title="Phyllobates">Phyllobates</a></i> are used in this manner. In captivity, the frogs lose toxicity as a result of altered diets.
+</p>
+<h2><span class="mw-headline" id="Reproduction">Reproduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=3" title="Edit section: Reproduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The blue poison dart frog breeds seasonally, usually during February or March when the weather is rainy. To find mates, the males sit on a rock and produce quiet calls, which the females follow to track down the males. The females then physically fight over a male. The male takes the female to a quiet place by water, which becomes the site of the egg-laying. Fertilization occurs externally; once the eggs are laid, the male covers them in his sperm.
+</p><p>Between five and 10 <a href="/wiki/Offspring" title="Offspring">offspring</a> are produced at each mating. Eggs are laid in the male’s territory, which he defends. The male takes care of the eggs, sometimes joined by the female. The eggs hatch after 14 to 18 days, and after 10 to 12 weeks the tadpoles are fully mature. Both sexes reach sexual maturity at two years of age. The expected lifespan of <i>D. tinctorius azureus</i> is between 4 and 6 years in the wild, and about 10 years in captivity.
+</p>
+<h2><span class="mw-headline" id="Feeding">Feeding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=4" title="Edit section: Feeding">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The blue poison dart frog feeds on ants, beetles, flies, mites, spiders, termites, maggots, and caterpillars.
+</p>
+<h2><span class="mw-headline" id="Captive_care">Captive care</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=5" title="Edit section: Captive care">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/History_of_dendrobatid_frogkeeping" title="History of dendrobatid frogkeeping">History of dendrobatid frogkeeping</a></div>
+<p>In captivity, like most captive dart frogs, they eat a staple diet of fruit flies, pinhead crickets, rice flour beetle larvae, and springtails.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lizardicon.svg/32px-Lizardicon.svg.png" decoding="async" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lizardicon.svg/48px-Lizardicon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lizardicon.svg/64px-Lizardicon.svg.png 2x" data-file-width="100" data-file-height="60" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Amphibians_and_Reptiles" class="mw-redirect mw-disambig" title="Portal:Amphibians and Reptiles">Amphibians and Reptiles portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Caribou_from_Wagon_Trails.jpg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/32px-Caribou_from_Wagon_Trails.jpg" decoding="async" width="32" height="22" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/48px-Caribou_from_Wagon_Trails.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Caribou_from_Wagon_Trails.jpg/64px-Caribou_from_Wagon_Trails.jpg 2x" data-file-width="2064" data-file-height="1413" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Animals" title="Portal:Animals">Animals portal</a></span></li></ul></div>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-IUCN-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-IUCN_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IUCN_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Philippe Gaucher; Ross MacCulloch (2010). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/details/55204/0">"<i>Dendrobates tinctorius</i>"</a>. <i><a href="/wiki/The_IUCN_Red_List_of_Threatened_Species" class="mw-redirect" title="The IUCN Red List of Threatened Species">The IUCN Red List of Threatened Species</a></i>. <a href="/wiki/IUCN" class="mw-redirect" title="IUCN">IUCN</a>. <b>2010</b>: e.T55204A11265402. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2305%2FIUCN.UK.2010-2.RLTS.T55204A11265402.en">10.2305/IUCN.UK.2010-2.RLTS.T55204A11265402.en</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 January</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+IUCN+Red+List+of+Threatened+Species&amp;rft.atitle=Dendrobates+tinctorius&amp;rft.volume=2010&amp;rft.pages=e.T55204A11265402&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.2305%2FIUCN.UK.2010-2.RLTS.T55204A11265402.en&amp;rft.au=Philippe+Gaucher&amp;rft.au=Ross+MacCulloch&amp;rft_id=http%3A%2F%2Fwww.iucnredlist.org%2Fdetails%2F55204%2F0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlue+poison+dart+frog" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wollenberg, Katharina C.; Veith, Michael; Noonan, Brice P.; Lötters, Stefan (2006).  Quattro, J. M (ed.). "Polymorphism Versus Species Richness—systematics of Large Dendrobates from the Eastern Guiana Shield (Amphibia: Dendrobatidae)". <i>Copeia</i>. <b>6</b> (4): 623. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1643%2F0045-8511%282006%296%5B623%3APVSROL%5D2.0.CO%3B2">10.1643/0045-8511(2006)6&#91;623:PVSROL&#93;2.0.CO;2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Copeia&amp;rft.atitle=Polymorphism+Versus+Species+Richness%E2%80%94systematics+of+Large+Dendrobates+from+the+Eastern+Guiana+Shield+%28Amphibia%3A+Dendrobatidae%29&amp;rft.volume=6&amp;rft.issue=4&amp;rft.pages=623&amp;rft.date=2006&amp;rft_id=info%3Adoi%2F10.1643%2F0045-8511%282006%296%5B623%3APVSROL%5D2.0.CO%3B2&amp;rft.aulast=Wollenberg&amp;rft.aufirst=Katharina+C.&amp;rft.au=Veith%2C+Michael&amp;rft.au=Noonan%2C+Brice+P.&amp;rft.au=L%C3%B6tters%2C+Stefan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlue+poison+dart+frog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a> has information related to <i><b><a href="https://species.wikimedia.org/wiki/Dendrobates_azureus" class="extiw" title="wikispecies:Dendrobates azureus">Dendrobates azureus</a></b></i></td></tr>
+</tbody></table>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Dendrobates_azureus" class="extiw" title="commons:Category:Dendrobates azureus">Dendrobates azureus</a> at Wikimedia Commons
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://animaldiversity.ummz.umich.edu/site/accounts/information/Dendrobates_azureus.html">University of Michigan</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Taxon_identifiers" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Taxon_identifiers" scope="row" class="navbox-group" style="width:1%;text-align: left;"><a href="/wiki/Help:Taxon_identifiers" title="Help:Taxon identifiers">Taxon identifiers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a>: <span class="uid"><span class="external"><a href="https://www.wikidata.org/wiki/Q743123" class="extiw" title="wikidata:Q743123">Q743123</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikispecies" title="Wikispecies">Wikispecies</a>: <span class="uid"><span class="external"><a href="https://species.wikimedia.org/wiki/Dendrobates_azureus" class="extiw" title="wikispecies:Dendrobates azureus">Dendrobates azureus</a></span></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Animal_Diversity_Web" title="Animal Diversity Web">ADW</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://animaldiversity.org/accounts/Dendrobates_azureus/">Dendrobates_azureus</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Encyclopedia_of_Life" title="Encyclopedia of Life">EoL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://eol.org/pages/19555289">19555289</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Global_Biodiversity_Information_Facility" title="Global Biodiversity Information Facility">GBIF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.gbif.org/species/5218025">5218025</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Interim_Register_of_Marine_and_Nonmarine_Genera" title="Interim Register of Marine and Nonmarine Genera">IRMNG</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.irmng.org/aphia.php?p=taxdetails&amp;id=10941602">10941602</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Taxonomic_Information_System" title="Integrated Taxonomic Information System">ITIS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=662233">662233</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Center_for_Biotechnology_Information" title="National Center for Biotechnology Information">NCBI</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=238114">238114</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/SeaLifeBase" title="SeaLifeBase">SeaLifeBase</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.sealifebase.ca/Summary/SpeciesSummary.php?id=62795">62795</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1288
+Cached time: 20190925100327
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.596 seconds
+Real time usage: 0.908 seconds
+Preprocessor visited node count: 7116/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29804/2097152 bytes
+Template argument size: 5397/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6819/5000000 bytes
+Number of Wikibase entities loaded: 9/400
+Lua time usage: 0.400/10.000 seconds
+Lua memory usage: 4.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  832.694      1 -total
+ 51.17%  426.118      1 Template:Subspeciesbox
+ 50.65%  421.788      1 Template:Taxobox/core
+ 17.90%  149.025      1 Template:Taxonbar
+ 15.06%  125.437      1 Template:Reflist
+ 13.21%  110.001      2 Template:Cite_journal
+  8.09%   67.392     33 Template:Delink
+  5.44%   45.299      1 Template:Use_dmy_dates
+  4.70%   39.137      1 Template:Commons_category-inline
+  3.47%   28.877      2 Template:Taxonomy
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1202421-0!canonical and timestamp 20190925100326 and revision id 917758426
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Blue_poison_dart_frog&amp;oldid=917758426">https://en.wikipedia.org/w/index.php?title=Blue_poison_dart_frog&amp;oldid=917758426</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Amphibians_described_in_1969" title="Category:Amphibians described in 1969">Amphibians described in 1969</a></li><li><a href="/wiki/Category:Dendrobates" title="Category:Dendrobates">Dendrobates</a></li><li><a href="/wiki/Category:Aposematic_species" title="Category:Aposematic species">Aposematic species</a></li><li><a href="/wiki/Category:Frogs_of_South_America" title="Category:Frogs of South America">Frogs of South America</a></li><li><a href="/wiki/Category:Amphibians_of_Brazil" title="Category:Amphibians of Brazil">Amphibians of Brazil</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li><li><a href="/wiki/Category:Articles_with_%27species%27_microformats" title="Category:Articles with &#039;species&#039; microformats">Articles with 'species' microformats</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Blue+poison+dart+frog" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Blue+poison+dart+frog" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Blue_poison_dart_frog" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Blue_poison_dart_frog" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Blue_poison_dart_frog">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Blue_poison_dart_frog" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Blue_poison_dart_frog" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Blue_poison_dart_frog&amp;oldid=917758426" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Blue_poison_dart_frog&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q743123" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Blue_poison_dart_frog&amp;id=917758426" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dendrobates_azureus" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Dendrobates_azureus" hreflang="en">Wikispecies</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Blue+poison+dart+frog">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Blue+poison+dart+frog&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Blue_poison_dart_frog&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Granota_fletxa_blava" title="Granota fletxa blava – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Pralesni%C4%8Dka_azurov%C3%A1" title="Pralesnička azurová – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Blauer_Baumsteiger" title="Blauer Baumsteiger – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%82%D9%88%D8%B1%D8%A8%D8%A7%D8%BA%D9%87_%D9%86%DB%8C%D8%B2%D9%87_%D8%B3%D9%85%DB%8C_%D8%A2%D8%A8%DB%8C" title="قورباغه نیزه سمی آبی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/M%C4%97lynoji_medlaip%C4%97" title="Mėlynoji medlaipė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%A9k_ny%C3%ADlm%C3%A9regb%C3%A9ka" title="Kék nyílméregbéka – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B5%80%E0%B4%B2%E0%B4%A4%E0%B5%8D%E0%B4%A4%E0%B4%B5%E0%B4%B3" title="നീലത്തവള – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Blauwe_pijlgifkikker" title="Blauwe pijlgifkikker – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%90%E3%83%AB%E3%83%88%E3%83%A4%E3%83%89%E3%82%AF%E3%82%AC%E3%82%A8%E3%83%AB" title="コバルトヤドクガエル – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%AF_%D8%BA%D8%B4%DB%8C_%D8%B2%D9%87%D8%B1_%D8%A2%D8%A8%D9%8A_%DA%86%D9%88%D9%86%DA%AF%DA%9A%D9%87" title="د غشی زهر آبي چونگښه – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Drzewo%C5%82az_niebieski" title="Drzewołaz niebieski – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9_%D0%B4%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D0%B0%D0%B7" title="Голубой древолаз – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Azurna_podrevnica" title="Azurna podrevnica – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Sininuolimyrkkysammakko" title="Sininuolimyrkkysammakko – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Mavi_zehirli_ok_kurba%C4%9Fas%C4%B1" title="Mavi zehirli ok kurbağası – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D0%B0%D0%B7_%D0%B1%D0%BB%D0%B0%D0%BA%D0%B8%D1%82%D0%BD%D0%B8%D0%B9" title="Дереволаз блакитний – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Dendrobates_azureus" title="Dendrobates azureus – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%A9%E8%93%9D%E4%B8%9B%E8%9B%99" title="天蓝丛蛙 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q743123#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 10:03<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Blue_poison_dart_frog&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.596","walltime":"0.908","ppvisitednodes":{"value":7116,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29804,"limit":2097152},"templateargumentsize":{"value":5397,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6819,"limit":5000000},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00%  832.694      1 -total"," 51.17%  426.118      1 Template:Subspeciesbox"," 50.65%  421.788      1 Template:Taxobox/core"," 17.90%  149.025      1 Template:Taxonbar"," 15.06%  125.437      1 Template:Reflist"," 13.21%  110.001      2 Template:Cite_journal","  8.09%   67.392     33 Template:Delink","  5.44%   45.299      1 Template:Use_dmy_dates","  4.70%   39.137      1 Template:Commons_category-inline","  3.47%   28.877      2 Template:Taxonomy"]},"scribunto":{"limitreport-timeusage":{"value":"0.400","limit":"10.000"},"limitreport-memusage":{"value":5219737,"limit":52428800}},"cachereport":{"origin":"mw1288","timestamp":"20190925100327","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Blue poison dart frog","url":"https:\/\/en.wikipedia.org\/wiki\/Blue_poison_dart_frog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q743123","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q743123","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-23T21:31:14Z","dateModified":"2019-09-25T10:03:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dd\/Dendrobates_azureus_qtl1.jpg","headline":"poison dart frog"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1329"});});</script>
+</body>
+</html>

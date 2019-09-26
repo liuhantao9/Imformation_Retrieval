@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>1980 Surinamese coup d'état - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"1980_Surinamese_coup_d'état","wgTitle":"1980 Surinamese coup d'état","wgCurRevisionId":908144905,"wgRevisionId":908144905,"wgArticleId":29651201,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use dmy dates from January 2019","Coordinates not on Wikidata","Articles containing Dutch-language text","Military coups in Suriname","History of Suriname","Political history of Suriname","Military history of Suriname","1980 in Suriname","February 1980 events","Conflicts in 1980","1980s coups d'état and coup attempts"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March",
+"April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"1980_Surinamese_coup_d'état","wgRelevantArticleId":29651201,"wgRequestId":"XYqTWQpAMFcAAKN2tAQAAABL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":5.852222222222222,"lon":-55.20388888888889},"wgWikibaseItemId":"Q967981",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e5/Suriname-CIA_WFB_Map.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/1980_Surinamese_coup_d%27%C3%A9tat"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-1980_Surinamese_coup_d_état rootpage-1980_Surinamese_coup_d_état skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">1980 Surinamese coup d'état</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Violent overthrow of government in Suriname</div>
+<p class="mw-empty-elt">
+</p>
+<style data-mw-deduplicate="TemplateStyles:r904532608">@media all and (min-width:720px){.mw-parser-output .desktop-float-right{box-sizing:border-box;float:right;clear:right}}</style><table class="infobox vevent" style="width:25.5em;border-spacing:2px;"><tbody><tr><th class="summary" colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">1980 Surinamese coup d'état</th></tr><tr><td colspan="2" style="text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a href="/wiki/File:Suriname-CIA_WFB_Map.png" class="image"><img alt="Suriname-CIA WFB Map.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Suriname-CIA_WFB_Map.png/220px-Suriname-CIA_WFB_Map.png" decoding="async" width="220" height="236" srcset="//upload.wikimedia.org/wikipedia/commons/e/e5/Suriname-CIA_WFB_Map.png 1.5x" data-file-width="329" data-file-height="353" /></a><br />Map of Suriname.</td></tr><tr><td colspan="2"><table style="width:100%;margin:0;padding:0;border:0"><tbody><tr><th style="padding-right:1em">Date</th><td>25 February 1980</td></tr><tr><th style="padding-right:1em">Location</th><td><div class="location"><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a></div><br /><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1980_Surinamese_coup_d%27%C3%A9tat&amp;params=5_51_8_N_55_12_14_W_region:SR"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°51′8″N</span> <span class="longitude">55°12′14″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.85222°N 55.20389°W</span><span style="display:none">&#xfeff; / <span class="geo">5.85222; -55.20389</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=1980_Surinamese_coup_d%27%C3%A9tat&amp;params=5_51_8_N_55_12_14_W_region:SR"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°51′8″N</span> <span class="longitude">55°12′14″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.85222°N 55.20389°W</span><span style="display:none">&#xfeff; / <span class="geo">5.85222; -55.20389</span></span></span></a></span></span></span></td></tr><tr><th style="padding-right:1em">Result</th><td>
+<p>Coup attempt succeeds.<br />
+</p>
+<ul><li><a href="/wiki/Henck_Arron" title="Henck Arron">Henck Arron</a> is overthrown.</li>
+<li><a href="/wiki/D%C3%A9si_Bouterse" title="Dési Bouterse">Dési Bouterse</a> assumed <i>de facto</i> control of the country.</li></ul></td></tr></tbody></table></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Belligerents</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Government_of_Suriname" class="mw-redirect" title="Government of Suriname">Government of Suriname</a></td><td style="width:50%;padding-left:0.25em">
+<p><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Suriname_National_Army" title="Suriname National Army">Surinamese Armed Forces</a>
+</p>
+<ul><li>National Military Council</li></ul></td></tr><tr><th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Commanders and leaders</th></tr><tr><td style="width:50%;border-right:1px dotted #aaa;">
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Henck_Arron" title="Henck Arron">Henck Arron</a></td><td style="width:50%;padding-left:0.25em">
+<span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/D%C3%A9si_Bouterse" title="Dési Bouterse">Dési Bouterse</a></td></tr><tr><td colspan="2" style="border-top:1px dotted #aaa;"><div class="center"><div class="noviewer thumb tnone"><div class="thumbinner" style="width:127px;border:none"><div style="position:relative;width:125px"><a href="/wiki/File:Suriname_relief_location_map.jpg" class="image" title="1980 Surinamese coup d&#39;état is located in Suriname"><img alt="1980 Surinamese coup d&#39;état is located in Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Suriname_relief_location_map.jpg/125px-Suriname_relief_location_map.jpg" decoding="async" width="125" height="128" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Suriname_relief_location_map.jpg/188px-Suriname_relief_location_map.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Suriname_relief_location_map.jpg/250px-Suriname_relief_location_map.jpg 2x" data-file-width="725" data-file-height="740" /></a><div style="position:absolute;top:10.741%;left:67.922%"><div style="position:absolute;left:-5px;top:-5px;line-height:0"><img alt="1980 Surinamese coup d&#39;état" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Green_pog.svg/10px-Green_pog.svg.png" decoding="async" title="1980 Surinamese coup d&#39;état" width="10" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Green_pog.svg/15px-Green_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Green_pog.svg/20px-Green_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div></div></div><div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Suriname_relief_location_map.jpg" title="File:Suriname relief location map.jpg"> </a></div>Nexus of coup in Paramaribo</div></div></div></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Desi_Bouterse.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Desi_Bouterse.jpg/220px-Desi_Bouterse.jpg" decoding="async" width="220" height="393" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Desi_Bouterse.jpg/330px-Desi_Bouterse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Desi_Bouterse.jpg/440px-Desi_Bouterse.jpg 2x" data-file-width="1015" data-file-height="1811" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Desi_Bouterse.jpg" class="internal" title="Enlarge"></a></div>Bouterse as military leader in 1985.</div></div></div>
+<p>The <b>1980 Surinamese coup d'état</b>, usually referred to as the <b>Sergeants' Coup</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">De Seargentencoup</i>), was a military <a href="/wiki/Coup_d%27%C3%A9tat" title="Coup d&#39;état">coup</a> in <a href="/wiki/Suriname" title="Suriname">Suriname</a> which occurred on 25 February 1980, when a group of 16 sergeants (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">groep van zestien</i>, <small><a href="/wiki/Literal_translation" title="Literal translation">lit.</a>&#160;</small>&#39;group of sixteen&#39;) of the <a href="/wiki/Suriname_National_Army" title="Suriname National Army">Surinamese Armed Forces</a> (SKM) led by <a href="/wiki/D%C3%A9si_Bouterse" title="Dési Bouterse">Dési Bouterse</a> overthrew the government of Prime Minister <a href="/wiki/Henck_Arron" title="Henck Arron">Henck Arron</a> with a violent <a href="/wiki/Coup_d%27%C3%A9tat" title="Coup d&#39;état">coup d'état</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> This marked the beginning of the <a href="/wiki/Military_dictatorship" title="Military dictatorship">military dictatorship</a> that dominated the country from 1980 until 1991. The dictatorship featured the presence of an evening <a href="/wiki/Curfew" title="Curfew">curfew</a>, the lack of <a href="/wiki/Freedom_of_press" class="mw-redirect" title="Freedom of press">freedom of press</a>, a ban on <a href="/wiki/Political_party" title="Political party">political parties</a> (from 1985), a restriction on the <a href="/wiki/Freedom_of_assembly" title="Freedom of assembly">freedom of assembly</a>, a high level of government corruption and the <a href="/wiki/Summary_execution" title="Summary execution">summary executions</a> of political opponents.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Developments"><span class="tocnumber">1</span> <span class="toctext">Developments</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#December_murders_and_Moiwana_massacre"><span class="tocnumber">1.1</span> <span class="toctext">December murders and Moiwana massacre</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Transition_to_democratic_rule"><span class="tocnumber">1.2</span> <span class="toctext">Transition to democratic rule</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#National_holiday"><span class="tocnumber">1.3</span> <span class="toctext">National holiday</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">2</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Developments">Developments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit&amp;section=1" title="Edit section: Developments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>President <a href="/wiki/Johan_Ferrier" title="Johan Ferrier">Johan Ferrier</a> was eventually forced out of office in August 1980, and several months after the coup d'état by Bouterse most of the political authority transferred to the military leadership. From then until 1988, the titular Presidents were essentially army-installed by  Bouterse, who ruled as a <i>de facto</i> leader with few practical <a href="/wiki/Checks_and_balances" class="mw-redirect" title="Checks and balances">checks on his power</a>.
+</p>
+<h3><span class="mw-headline" id="December_murders_and_Moiwana_massacre">December murders and Moiwana massacre</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit&amp;section=2" title="Edit section: December murders and Moiwana massacre">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>On 8 December 1982, a group of fifteen academics, journalists, lawyers, union leaders, and military officials, who opposed the military rule in Suriname were snatched from their beds and brought to <a href="/wiki/Fort_Zeelandia_(Paramaribo)" title="Fort Zeelandia (Paramaribo)">Fort Zeelandia</a> in <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a> where they were tortured and executed by Bouterse's soldiers. Fourteen of those executed were Surinamese; journalist <a href="/wiki/Frank_Wijngaarde" class="mw-redirect" title="Frank Wijngaarde">Frank Wijngaarde</a> was a Dutch national. The events are known as the <a href="/wiki/December_murders" title="December murders">December murders</a>.
+</p><p>In 1986 Bouterse's soldiers killed at least 39 citizens, mostly children and women, of the Maroon village of <a href="/wiki/Moiwana" title="Moiwana">Moiwana</a>, as part of the <a href="/wiki/Suriname_Guerrilla_War" class="mw-redirect" title="Suriname Guerrilla War">Suriname Guerrilla War</a> which was fought between the soldiers of Bouterse and the <a href="/wiki/Jungle_Commando" title="Jungle Commando">Jungle Commando</a> led by <a href="/wiki/Ronnie_Brunswijk" title="Ronnie Brunswijk">Ronnie Brunswijk</a>.
+</p>
+<h3><span class="mw-headline" id="Transition_to_democratic_rule">Transition to democratic rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit&amp;section=3" title="Edit section: Transition to democratic rule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Elections were held in 1987 and a new constitution was adopted, which among other things allowed Bouterse to remain in charge of the army. Dissatisfied with the government, Bouterse overthrew them on 24 December 1990, by <a href="/wiki/1990_Surinamese_coup_d%27%C3%A9tat" title="1990 Surinamese coup d&#39;état">another coup</a>. This event became popularly known as "the telephone coup". In 1991, elections returned to Suriname where the New Front party gained 41 of the 51 parliament seats. <a href="/wiki/Ronald_Venetiaan" title="Ronald Venetiaan">Ronald Venetiaan</a> (a fierce opponent of Bouterse) became president. In 1996, <a href="/wiki/Jules_Wijdenbosch" title="Jules Wijdenbosch">Jules Wijdenbosch</a> was elected as president of Suriname on behalf of Bouterse's party, the National Democratic Party (NDP). In 2000 and 2005 Ronald Venetiaan was elected as president of Suriname. Dési Bouterse returned to power as president in 2010.
+</p>
+<h3><span class="mw-headline" id="National_holiday">National holiday</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit&amp;section=4" title="Edit section: National holiday">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg/220px-%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg" decoding="async" width="220" height="337" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg/330px-%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg/440px-%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg 2x" data-file-width="783" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%22De_Historische_Strijd%22_Herdenkingsmonument_revolutie_25_februari_1980_-_Nieuw-Amsterdam_-_20418126_-_RCE.jpg" class="internal" title="Enlarge"></a></div>Monument commemorating the coup.</div></div></div>
+<p>After becoming president of Suriname, Bouterse designated February 25, the anniversary of the day of the coup d’état, as a national holiday.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> On the day of the coup, Bouterse's soldiers burned down the Central Police Station of Suriname. The remains of this building now form the monument of the Revolution where every year on 25 February the coup is commemorated.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html">"The World Factbook"</a>. <i>cia.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=cia.gov&amp;rft.atitle=The+World+Factbook&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fns.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1980+Surinamese+coup+d%27%C3%A9tat" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/americas/country_profiles/1218515.stm">"BBC News - Timeline: Suriname"</a>. <i>bbc.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bbc.co.uk&amp;rft.atitle=BBC+News+-+Timeline%3A+Suriname&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Famericas%2Fcountry_profiles%2F1218515.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1980+Surinamese+coup+d%27%C3%A9tat" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.thecuttingedgenews.com/index.php?article=74336&amp;pageid=16&amp;pagename=Opinion">"The Cutting Edge"</a>. <i>thecuttingedgenews.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=thecuttingedgenews.com&amp;rft.atitle=The+Cutting+Edge&amp;rft_id=http%3A%2F%2Fwww.thecuttingedgenews.com%2Findex.php%3Farticle%3D74336%26pageid%3D16%26pagename%3DOpinion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A1980+Surinamese+coup+d%27%C3%A9tat" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Suriname_articles" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Suriname_topics" title="Template:Suriname topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname_topics" title="Template talk:Suriname topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Suriname_articles" style="font-size:114%;margin:0 4em"><a href="/wiki/Suriname" title="Suriname">Suriname</a>&#160;<a href="/wiki/Index_of_Suriname-related_articles" title="Index of Suriname-related articles">articles</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_Suriname" title="History of Suriname">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinam_(Dutch_colony)" title="Surinam (Dutch colony)">Colony of Surinam</a>
+<ul><li><a href="/wiki/Society_of_Suriname" title="Society of Suriname">Society of Suriname</a></li></ul></li>
+<li><a href="/wiki/Suriname_(Kingdom_of_the_Netherlands)" title="Suriname (Kingdom of the Netherlands)">Within the Kingdom of the Netherlands</a></li>
+<li><a class="mw-selflink selflink">1980 coup d'état</a></li>
+<li><a href="/wiki/Surinamese_Interior_War" title="Surinamese Interior War">Interior War <span style="font-size:85%;">(1986&#8211;1992)</span></a></li>
+<li><a href="/wiki/1990_Surinamese_coup_d%27%C3%A9tat" title="1990 Surinamese coup d&#39;état">1990 coup d'état</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Coat_of_arms_of_Suriname" title="Coat of arms of Suriname"><img alt="Coat of arms of Suriname.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Coat_of_arms_of_Suriname.svg/90px-Coat_of_arms_of_Suriname.svg.png" decoding="async" width="90" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Coat_of_arms_of_Suriname.svg/135px-Coat_of_arms_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Coat_of_arms_of_Suriname.svg/180px-Coat_of_arms_of_Suriname.svg.png 2x" data-file-width="664" data-file-height="559" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Geography_of_Suriname" title="Geography of Suriname">Geography</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_cities_and_towns_in_Suriname" title="List of cities and towns in Suriname">Cities</a></li>
+<li><a href="/wiki/Environmental_issues_in_Suriname" class="mw-redirect" title="Environmental issues in Suriname">Environmental issues</a></li>
+<li><a href="/wiki/Fauna_of_Suriname" class="mw-redirect" title="Fauna of Suriname">Fauna</a></li>
+<li><a href="/w/index.php?title=Flora_of_Suriname&amp;action=edit&amp;redlink=1" class="new" title="Flora of Suriname (page does not exist)">Flora</a></li>
+<li><a href="/w/index.php?title=List_of_national_parks_of_Suriname&amp;action=edit&amp;redlink=1" class="new" title="List of national parks of Suriname (page does not exist)">National parks</a></li>
+<li><a href="/wiki/Category:World_Heritage_Sites_in_Suriname" title="Category:World Heritage Sites in Suriname">World Heritage Sites</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Politics_of_Suriname" title="Politics of Suriname">Politics</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Administrative_divisions_of_Suriname" class="mw-redirect" title="Administrative divisions of Suriname">Administrative divisions</a></li>
+<li><a href="/wiki/Constitution_of_Suriname" title="Constitution of Suriname">Constitution</a></li>
+<li><a href="/wiki/Elections_in_Suriname" title="Elections in Suriname">Elections</a></li>
+<li><a href="/wiki/Foreign_relations_of_Suriname" title="Foreign relations of Suriname">Foreign relations</a></li>
+<li><a href="/wiki/Category:Human_rights_in_Suriname" title="Category:Human rights in Suriname">Human rights</a></li>
+<li><a href="/wiki/Law_enforcement_in_Suriname" title="Law enforcement in Suriname">Law enforcement</a></li>
+<li><a href="/wiki/Suriname_National_Army" title="Suriname National Army">Military</a></li>
+<li><a href="/wiki/National_Assembly_(Suriname)" title="National Assembly (Suriname)">National Assembly</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Suriname" title="List of political parties in Suriname">Political parties</a></li>
+<li><a href="/wiki/President_of_Suriname" title="President of Suriname">President</a></li>
+<li><a href="/wiki/High_Court_of_Justice_of_Suriname" title="High Court of Justice of Suriname">Supreme Court</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Economy_of_Suriname" title="Economy of Suriname">Economy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agriculture_in_Suriname" title="Agriculture in Suriname">Agriculture</a></li>
+<li><a href="/w/index.php?title=List_of_companies_of_Suriname&amp;action=edit&amp;redlink=1" class="new" title="List of companies of Suriname (page does not exist)">Companies</a></li>
+<li><a href="/wiki/Surinamese_dollar" title="Surinamese dollar">Dollar <span style="font-size:85%;">(currency)</span></a></li>
+<li><a href="/w/index.php?title=Energy_in_Suriname&amp;action=edit&amp;redlink=1" class="new" title="Energy in Suriname (page does not exist)">Energy</a></li>
+<li><a href="/w/index.php?title=Science_and_technology_in_Suriname&amp;action=edit&amp;redlink=1" class="new" title="Science and technology in Suriname (page does not exist)">Science and technology</a></li>
+<li><a href="/wiki/Telecommunications_in_Suriname" title="Telecommunications in Suriname">Telecommunications</a></li>
+<li><a href="/wiki/Transport_in_Suriname" title="Transport in Suriname">Transport</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Surinamese_society" title="Category:Surinamese society">Society</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Crime_in_Suriname" title="Crime in Suriname">Crime</a></li>
+<li><a href="/wiki/Demographics_of_Suriname" title="Demographics of Suriname">Demographics</a></li>
+<li><a href="/wiki/Education_in_Suriname" title="Education in Suriname">Education</a></li>
+<li><a href="/w/index.php?title=Health_care_in_Suriname&amp;action=edit&amp;redlink=1" class="new" title="Health care in Suriname (page does not exist)">Healthcare</a></li>
+<li><a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a></li>
+<li><a href="/wiki/Surinamese_people" title="Surinamese people">People</a>
+<ul><li><a href="/wiki/List_of_Surinamese_people" title="List of Surinamese people">list</a></li>
+<li><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">indigenous</a></li></ul></li>
+<li><a href="/wiki/Religion_in_Suriname" title="Religion in Suriname">Religion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;padding-left:0.5em;padding-right:0.5em;font-weight:normal;"><a href="/wiki/Culture_of_Suriname" title="Culture of Suriname">Culture</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/God_zij_met_ons_Suriname" title="God zij met ons Suriname">Anthem</a></li>
+<li><a href="/wiki/Coat_of_arms_of_Suriname" title="Coat of arms of Suriname">Coat of arms</a></li>
+<li><a href="/wiki/Surinamese_cuisine" class="mw-redirect" title="Surinamese cuisine">Cuisine</a></li>
+<li><a href="/wiki/Flag_of_Suriname" title="Flag of Suriname">Flag</a></li>
+<li><a href="/wiki/Surinamese_literature" title="Surinamese literature">Literature</a></li>
+<li><a href="/wiki/Music_of_Suriname" title="Music of Suriname">Music</a></li>
+<li><a href="/wiki/Public_holidays_in_Suriname" class="mw-redirect" title="Public holidays in Suriname">Public holidays</a></li>
+<li><a href="/wiki/Sport_in_Suriname" class="mw-redirect" title="Sport in Suriname">Sport</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="font-weight:bold;"><div><div style="margin-bottom:-0.4em;"><ul><li><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold"><a href="/wiki/Outline_of_Suriname" title="Outline of Suriname">Outline</a></span></li><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"/><span class="nobold"><a href="/wiki/Index_of_Suriname-related_articles" title="Index of Suriname-related articles">Index</a></span></li></ul></div>
+<ul><li><a href="/wiki/Category:Suriname" title="Category:Suriname">Category</a></li>
+<li><a href="/wiki/Portal:Suriname" title="Portal:Suriname">Portal</a></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1280
+Cached time: 20190915000328
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.556 seconds
+Preprocessor visited node count: 1376/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57402/2097152 bytes
+Template argument size: 6140/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 24/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9041/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.234/10.000 seconds
+Lua memory usage: 11.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  477.937      1 -total
+ 30.00%  143.405      2 Template:Lang-nl
+ 19.62%   93.794      1 Template:Suriname_topics
+ 19.28%   92.143      1 Template:Reflist
+ 18.80%   89.862      1 Template:Country_topics
+ 17.97%   85.865      5 Template:Navbox
+ 15.94%   76.190      1 Template:Infobox_military_conflict
+ 15.82%   75.590      3 Template:Cite_web
+ 10.50%   50.174      1 Template:Short_description
+  9.91%   47.371      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29651201-0!canonical and timestamp 20190915000327 and revision id 908144905
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=1980_Surinamese_coup_d%27état&amp;oldid=908144905">https://en.wikipedia.org/w/index.php?title=1980_Surinamese_coup_d%27état&amp;oldid=908144905</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Military_coups_in_Suriname" title="Category:Military coups in Suriname">Military coups in Suriname</a></li><li><a href="/wiki/Category:History_of_Suriname" title="Category:History of Suriname">History of Suriname</a></li><li><a href="/wiki/Category:Political_history_of_Suriname" title="Category:Political history of Suriname">Political history of Suriname</a></li><li><a href="/wiki/Category:Military_history_of_Suriname" title="Category:Military history of Suriname">Military history of Suriname</a></li><li><a href="/wiki/Category:1980_in_Suriname" title="Category:1980 in Suriname">1980 in Suriname</a></li><li><a href="/wiki/Category:February_1980_events" title="Category:February 1980 events">February 1980 events</a></li><li><a href="/wiki/Category:Conflicts_in_1980" title="Category:Conflicts in 1980">Conflicts in 1980</a></li><li><a href="/wiki/Category:1980s_coups_d%27%C3%A9tat_and_coup_attempts" title="Category:1980s coups d&#039;état and coup attempts">1980s coups d'état and coup attempts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2019" title="Category:Use dmy dates from January 2019">Use dmy dates from January 2019</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_Dutch-language_text" title="Category:Articles containing Dutch-language text">Articles containing Dutch-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=1980+Surinamese+coup+d%27%C3%A9tat" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=1980+Surinamese+coup+d%27%C3%A9tat" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/1980_Surinamese_coup_d%27%C3%A9tat" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:1980_Surinamese_coup_d%27%C3%A9tat" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/1980_Surinamese_coup_d%27%C3%A9tat">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/1980_Surinamese_coup_d%27%C3%A9tat" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/1980_Surinamese_coup_d%27%C3%A9tat" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;oldid=908144905" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q967981" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=1980_Surinamese_coup_d%27%C3%A9tat&amp;id=908144905" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=1980+Surinamese+coup+d%27%C3%A9tat">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=1980+Surinamese+coup+d%27%C3%A9tat&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Golpe_de_los_sargentos" title="Golpe de los sargentos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Coup_d%27%C3%89tat_de_1980_au_Suriname" title="Coup d&#039;État de 1980 au Suriname – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Sergeantencoup" title="Sergeantencoup – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Zamach_stanu_w_Surinamie_(1980)" title="Zamach stanu w Surinamie (1980) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Golpe_de_Estado_no_Suriname_em_1980" title="Golpe de Estado no Suriname em 1980 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D1%80%D0%BE%D1%82_%D0%B2_%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B5_(1980)" title="Государственный переворот в Суринаме (1980) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q967981#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 July 2019, at 19:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=1980_Surinamese_coup_d%27%C3%A9tat&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.556","ppvisitednodes":{"value":1376,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57402,"limit":2097152},"templateargumentsize":{"value":6140,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":24,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9041,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  477.937      1 -total"," 30.00%  143.405      2 Template:Lang-nl"," 19.62%   93.794      1 Template:Suriname_topics"," 19.28%   92.143      1 Template:Reflist"," 18.80%   89.862      1 Template:Country_topics"," 17.97%   85.865      5 Template:Navbox"," 15.94%   76.190      1 Template:Infobox_military_conflict"," 15.82%   75.590      3 Template:Cite_web"," 10.50%   50.174      1 Template:Short_description","  9.91%   47.371      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.234","limit":"10.000"},"limitreport-memusage":{"value":12157241,"limit":52428800}},"cachereport":{"origin":"mw1280","timestamp":"20190915000328","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"1980 Surinamese coup d'\u00e9tat","url":"https:\/\/en.wikipedia.org\/wiki\/1980_Surinamese_coup_d%27%C3%A9tat","sameAs":"http:\/\/www.wikidata.org\/entity\/Q967981","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q967981","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-18T18:14:57Z","dateModified":"2019-07-27T19:24:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/Suriname-CIA_WFB_Map.png","headline":"violent overthrow of government in Suriname"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1252"});});</script>
+</body>
+</html>

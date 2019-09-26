@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Big Six wheel - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Big_Six_wheel","wgTitle":"Big Six wheel","wgCurRevisionId":821799399,"wgRevisionId":821799399,"wgArticleId":4303598,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2008","All articles needing additional references","Gaming devices","Roulette and wheel games"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Big_Six_wheel","wgRelevantArticleId":
+4303598,"wgRequestId":"XYo4eQpAIC4AAHzgXYUAAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1942486","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG/1200px-Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Big_Six_wheel"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Big_Six_wheel&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Big_Six_wheel&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Big_Six_wheel"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Big_Six_wheel rootpage-Big_Six_wheel skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Big Six wheel</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Big_Six_wheel&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Big+Six+wheel%22">"Big Six wheel"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Big+Six+wheel%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Big+Six+wheel%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Big+Six+wheel%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Big+Six+wheel%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Big+Six+wheel%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">December 2008</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Gambling_wheel_by_H._C._Evans_and_Co.,_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG" class="image"><img alt="An example of the &#39;dice wheel&#39; variant of the Big Six Wheel." src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG/170px-Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG" decoding="async" width="170" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG/255px-Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG/340px-Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG 2x" data-file-width="3648" data-file-height="5472" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Gambling_wheel_by_H._C._Evans_and_Co.,_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG" class="internal" title="Enlarge"></a></div>An example of the 'dice wheel' variant produced by <a href="/wiki/H._C._Evans" title="H. C. Evans">H. C. Evans</a> &amp; Co. of <a href="/wiki/Chicago" title="Chicago">Chicago</a>.</div></div></div>
+<p>The <b>Big Six wheel</b>, also known simply as <b>The Big Six</b> or <b>Wheel of Fortune</b>, is an unequal <a href="/wiki/Gambling" title="Gambling">game of chance</a>, played using a large vertical <a href="/wiki/Wheel" title="Wheel">wheel</a> that can be spun.
+</p><p>Since 13 May 2002, it can be played legally in licensed casinos in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, under The Gaming Clubs (Bankers' Games) (Amendment) Regulations 2002 (<a href="/wiki/Statutory_Instrument" class="mw-redirect" title="Statutory Instrument">Statutory Instrument</a> 2002/1130).
+</p><p>The game is also known in casinos in the <a href="/wiki/United_States" title="United States">United States</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Rules"><span class="tocnumber">1</span> <span class="toctext">Rules</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Variants"><span class="tocnumber">2</span> <span class="toctext">Variants</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Money_wheel"><span class="tocnumber">2.1</span> <span class="toctext">Money wheel</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Dice_wheel"><span class="tocnumber">2.2</span> <span class="toctext">Dice wheel</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#United_Kingdom,_Australia_and_New_Zealand"><span class="tocnumber">2.3</span> <span class="toctext">United Kingdom, Australia and New Zealand</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_variants"><span class="tocnumber">2.4</span> <span class="toctext">Other variants</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Rules">Rules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=1" title="Edit section: Rules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The wheel is divided into a number of equal segments separated by spokes or pins. Each segment is associated with a number. The wheel is spun by a dealer, and the winning segment is indicated by a pointer mounted on a flexible piece of <a href="/wiki/Rubber" class="mw-redirect" title="Rubber">rubber</a> or <a href="/wiki/Leather" title="Leather">leather</a>, which also rubs against the pins to impart friction and slow the wheel down. Should the player stop the wheel, the segment at the top is the winner.
+</p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=2" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are a number of variants of the game, that divide the wheel into a different number of segments, use different symbols in the segments, and have different odds if a symbol is selected.
+</p>
+<h3><span class="mw-headline" id="Money_wheel">Money wheel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=3" title="Edit section: Money wheel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This variant is the most common in <a href="/wiki/Casino" title="Casino">casinos</a> in the <a href="/wiki/United_States" title="United States">United States</a>. The symbols are $1, $2, $5, $10 and $20 bills — and two special symbols, a <a href="/wiki/Joker_(playing_card)" title="Joker (playing card)">joker</a> and the casino <a href="/wiki/Logo" title="Logo">logo</a>.  The $1 bills pay at odds of 1 to 1, the $2 bills at 2 to 1, the $5 bills at 5 to 1, and so on.  The joker and the logo pay at odds of 40 to 1 or 45 to 1, depending on local gaming regulations or the practice of the casino.
+</p><p>The <a href="/wiki/House_advantage" class="mw-redirect" title="House advantage">house advantage</a> or edge (the proportion of the stakes that the <a href="/wiki/Casino" title="Casino">casino</a> expects to win on average) of this game is one of the highest of most <a href="/wiki/Casino_game" title="Casino game">casino games</a>.  In the United States it ranges from 11.1% on the $1-bill bet to more than 24% on the joker or logo (when it pays at 40 to 1). In <a href="/wiki/Australia" title="Australia">Australia</a> the house edge is 7.69% on all bets, so that the payouts on a 52-segment wheel are 47:1, 23:1, 11:1, 5:1, 3:1 and 1:1.
+</p>
+<h3><span class="mw-headline" id="Dice_wheel">Dice wheel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=4" title="Edit section: Dice wheel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The symbols on the wheel represent some of the 216 possible combinations of three <a href="/wiki/Dice" title="Dice">dice</a>. Sometimes the same combination appears in more than one segment. Players wager on the numbers 1 through 6. If the number appears on one of the dice in the winning segment, the dealer pays at 1 to 1; on two of the dice, 2 to 1; on all three of the dice, 3 to 1.
+</p><p>One example of a dice wheel, manufactured by <a href="/wiki/H._C._Evans" title="H. C. Evans">H. C. Evans</a> &amp; Co. of <a href="/wiki/Chicago" title="Chicago">Chicago</a> (or its successor), is divided into 54 segments. Each of the triples appears four times. The following doubles each appear four times: 2, 1, 1; 2, 2, 1; 4, 3, 3; 5, 4, 4; 6, 5, 5; and 6, 6, 3.  The following combinations each appear three times: 3, 2, 1; and 6, 5, 4.
+</p><p>In the example above, there are 54 possible outcomes for a single spin of the wheel.  For a specific number:
+</p>
+<ul><li>There are 7 possible outcomes where only one die will match the number</li>
+<li>There are 4 possible outcomes where only two dice will match</li>
+<li>There are 4 possible outcomes where all three dice will match</li></ul>
+<p>At odds of 1 to 1, 2 to 1 and 3 to 1 respectively for each of these types of outcome, the expected loss as a percentage of the stake wagered is:
+</p><p>1 - [(7/54) * 2 + (4/54) * 3 + (4/54) * 4] = 22.2%
+</p><p>The symbolism of the game is redolent of <a href="/wiki/Chuck-a-luck" title="Chuck-a-luck">chuck-a-luck</a> or <a href="/wiki/Sic_bo" title="Sic bo">sic bo</a>, <a href="/wiki/Gambling" title="Gambling">games of chance</a> played with three <a href="/wiki/Dice" title="Dice">dice</a>.  However, the <a href="/wiki/House_advantage" class="mw-redirect" title="House advantage">house advantage</a> or edge is greater than for <a href="/wiki/Chuck-a-luck" title="Chuck-a-luck">chuck-a-luck</a>, which itself has a higher <a href="/wiki/House_advantage" class="mw-redirect" title="House advantage">house advantage</a> than other <a href="/wiki/Casino_game" title="Casino game">casino games</a>.
+</p><p>This variety is seldom seen in casinos, but frequently seen as a <a href="/wiki/Carnival_game" title="Carnival game">carnival game</a>, or at a <a href="/wiki/Charitable_organization" title="Charitable organization">charity</a> "<a href="/wiki/Monte_Carlo" title="Monte Carlo">Monte Carlo</a> night" fund-raiser. A similar game, the "Big Nine" wheel, has five numbers on each segment, and also three special symbols, appearing on three spaces each, which pay 10:1 odds.
+</p>
+<h3><span id="United_Kingdom.2C_Australia_and_New_Zealand"></span><span class="mw-headline" id="United_Kingdom,_Australia_and_New_Zealand">United Kingdom, Australia and New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=5" title="Edit section: United Kingdom, Australia and New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A legal game in a licensed casino in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, <a href="/wiki/Australia" title="Australia">Australia</a> or <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a> involves a wheel at least 1.5 metres in diameter divided into 52 segments, each marked with one of seven symbols (referred to as A to G).  The table below sets out the frequency of the symbols, their probability, the associated odds specified, and the <a href="/wiki/House_advantage" class="mw-redirect" title="House advantage">house advantage</a> or edge.
+</p>
+<table class="wikitable" border="1">
+
+<tbody><tr>
+<th>Symbol
+</th>
+<th>Number of segments
+</th>
+<th>Probability of winning
+</th>
+<th>Odds offered in UK
+</th>
+<th>House edge in UK
+</th>
+<th>Odds offered in AUS &amp; NZ
+</th>
+<th>House edge in AUS &amp; NZ
+</th></tr>
+<tr>
+<td>A
+</td>
+<td>1 out of 52
+</td>
+<td>1.9%
+</td>
+<td>50 to 1
+</td>
+<td>1.9%
+</td>
+<td>47 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>B
+</td>
+<td>1 out of 52
+</td>
+<td>1.9%
+</td>
+<td>50 to 1
+</td>
+<td>1.9%
+</td>
+<td>47 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>C
+</td>
+<td>2 out of 52
+</td>
+<td>3.9%
+</td>
+<td>20 to 1
+</td>
+<td>19.2%
+</td>
+<td>23 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>D
+</td>
+<td>4 out of 52
+</td>
+<td>7.7%
+</td>
+<td>10 to 1
+</td>
+<td>15.4%
+</td>
+<td>11 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>E
+</td>
+<td>8 out of 52
+</td>
+<td>15.4%
+</td>
+<td>5 to 1
+</td>
+<td>7.7%
+</td>
+<td>5 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>F
+</td>
+<td>12 out of 52
+</td>
+<td>23.1%
+</td>
+<td>3 to 1
+</td>
+<td>7.7%
+</td>
+<td>3 to 1
+</td>
+<td>7.7%
+</td></tr>
+<tr>
+<td>G
+</td>
+<td>24 out of 52
+</td>
+<td>46.2%
+</td>
+<td>1 to 1
+</td>
+<td>7.7%
+</td>
+<td>1 to 1
+</td>
+<td>7.7%
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Other_variants">Other variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=6" title="Edit section: Other variants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Other variants, using different symbols and odds, are relatively rare in the <a href="/wiki/United_States" title="United States">United States</a>.
+</p><p>One variant called "Mississippi Derby" was used for a short time at the <a href="/wiki/Grand_Casino_Gulfport" title="Grand Casino Gulfport">Grand Casino</a> in <a href="/wiki/Gulfport,_Mississippi" title="Gulfport, Mississippi">Gulfport, Mississippi</a>. (The casino was destroyed in 2005 by <a href="/wiki/Hurricane_Katrina" title="Hurricane Katrina">Hurricane Katrina</a>.)  The symbols were combinations of three of a number of different horses, arranged to represent a winner, a second-placed horse and a third-placed horse. (The horses were represented in three concentric rings, with the winner on the outer ring.) Players wagered on particular horses to "win", "place" or "show", as with betting in <a href="/wiki/Horse_racing" title="Horse racing">horse racing</a>.  The payoffs varied from horse to horse, depending on how many times and where the horse appeared on the rings.  Odds ranged from 40 to 1 for the "longshot" to win, down to 1-2 for the "favorite" to show.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Regulation in the United Kingdom</b>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/si/si1994/Uksi_19942899_en_1.htm">Statutory Instrument 1994 No. 2899 The Gaming Clubs (Bankers' Games) Regulations 1994</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/si/si2000/20000597.htm">Statutory Instrument 2000 No. 597 The Gaming Clubs (Bankers' Games) (Amendment) Regulations 2000</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.opsi.gov.uk/si/si2002/20021130.htm">Statutory Instrument 2002 No. 1130 The Gaming Clubs (Bankers' Games) (Amendment) Regulations 2002</a></li></ul>
+<p><b>Regulation in New Zealand</b>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dia.govt.nz/diawebsite.nsf/Files/CasDiv10MoneyWhee704/$file/CasDiv10MoneyWhee704.pdf">Division 10 - Money Wheel of the Rules of Games</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://wizardofodds.com/bigsix">Probabilities of Big Six wheel</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Gambling" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Gambling" title="Template:Gambling"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gambling" title="Template talk:Gambling"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Gambling&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Gambling" style="font-size:114%;margin:0 4em"><a href="/wiki/Gambling" title="Gambling">Gambling</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Games</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>See: <a href="/wiki/Category:Gambling_games" title="Category:Gambling games">Gambling games</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venues</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_casinos" title="List of casinos">List of casinos</a></li>
+<li><a href="/wiki/Casino" title="Casino">Casino</a></li>
+<li><a href="/wiki/Online_casino" title="Online casino">Online casino</a></li>
+<li><a href="/wiki/Cardroom" title="Cardroom">Cardroom</a></li>
+<li><a href="/wiki/Racino" title="Racino">Racino</a></li>
+<li><a href="/wiki/Riverboat_casino" title="Riverboat casino">Riverboat casino</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Science</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Mathematics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gambling_mathematics" title="Gambling mathematics">Gambling mathematics</a></li>
+<li><a href="/wiki/Mathematics_of_bookmaking" title="Mathematics of bookmaking">Mathematics of bookmaking</a></li>
+<li><a href="/wiki/Poker_probability" title="Poker probability">Poker probability</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Betting_strategy" title="Betting strategy">Strategies</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advantage_gambling" title="Advantage gambling">Advantage gambling</a>
+<ul><li><a href="/wiki/Card_counting" title="Card counting">Card counting</a></li></ul></li>
+<li><a href="/wiki/Dice_control" title="Dice control">Dice control</a></li>
+<li><a href="/wiki/Asian_handicap" title="Asian handicap">Asian handicap</a></li>
+<li><a href="/wiki/Due_Column_betting" title="Due Column betting">Due Column betting</a></li>
+<li><a href="/wiki/Labouch%C3%A8re_system" title="Labouchère system">Labouchère system</a></li>
+<li><a href="/wiki/Martingale_(betting_system)" title="Martingale (betting system)">Martingale</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Terminology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>See: <a href="/wiki/Category:Gambling_terminology" title="Category:Gambling terminology"> Gambling terminology</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Casino_game" title="Casino game">Casino game</a></li>
+<li><a href="/wiki/Game_of_chance" title="Game of chance">Game of chance</a></li>
+<li><a href="/wiki/Game_of_skill" title="Game of skill">Game of skill</a></li>
+<li><a href="/wiki/List_of_bets" title="List of bets">List of bets</a></li>
+<li><a href="/wiki/Problem_gambling" title="Problem gambling">Problem gambling</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Gambling" title="Category:Gambling">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Gambling" class="extiw" title="commons:Category:Gambling">Commons</a></li>
+<li><img alt="Wiktionary page" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/16px-Wiktionary-logo.svg.png" decoding="async" title="Wiktionary page" width="16" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/24px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/32px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /> <a href="https://en.wiktionary.org/wiki/gambling" class="extiw" title="wikt:gambling">Wiktionary</a></li>
+<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" decoding="async" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <a href="/wiki/Wikipedia:WikiProject_Gambling" title="Wikipedia:WikiProject Gambling">WikiProject</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1235
+Cached time: 20190918021645
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.120 seconds
+Real time usage: 0.183 seconds
+Preprocessor visited node count: 233/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22126/2097152 bytes
+Template argument size: 13/2097152 bytes
+Highest expansion depth: 6/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 1.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  124.428      1 -total
+ 76.86%   95.635      1 Template:Refimprove
+ 60.82%   75.682      1 Template:Ambox
+ 25.90%   32.233      1 Template:Find_sources_mainspace
+ 22.92%   28.523      1 Template:Gambling
+ 22.09%   27.491      2 Template:Navbox
+  9.32%   11.600      4 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4303598-0!canonical and timestamp 20190918021645 and revision id 821799399
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Big_Six_wheel&amp;oldid=821799399">https://en.wikipedia.org/w/index.php?title=Big_Six_wheel&amp;oldid=821799399</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gaming_devices" title="Category:Gaming devices">Gaming devices</a></li><li><a href="/wiki/Category:Roulette_and_wheel_games" title="Category:Roulette and wheel games">Roulette and wheel games</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2008" title="Category:Articles needing additional references from December 2008">Articles needing additional references from December 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Big+Six+wheel" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Big+Six+wheel" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Big_Six_wheel" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Big_Six_wheel" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Big_Six_wheel">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Big_Six_wheel&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Big_Six_wheel&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Big_Six_wheel" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Big_Six_wheel" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Big_Six_wheel&amp;oldid=821799399" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Big_Six_wheel&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1942486" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Big_Six_wheel&amp;id=821799399" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wheel_of_Fortune" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Big+Six+wheel">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Big+Six+wheel&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Big_Six_wheel&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D8%AC%D9%84%D8%A9_%D8%A7%D9%84%D8%AD%D8%B8_(%D8%A2%D9%84%D8%A9)" title="عجلة الحظ (آلة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gl%C3%BCcksrad_(Gl%C3%BCcksspiel)" title="Glücksrad (Glücksspiel) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Money_Wheel" title="Money Wheel – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%83%BC%E3%83%BB%E3%83%9B%E3%82%A4%E3%83%BC%E3%83%AB" title="マネー・ホイール – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Big_Wheel" title="Big Wheel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1942486#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 January 2018, at 18:21<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Big_Six_wheel&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.120","walltime":"0.183","ppvisitednodes":{"value":233,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22126,"limit":2097152},"templateargumentsize":{"value":13,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  124.428      1 -total"," 76.86%   95.635      1 Template:Refimprove"," 60.82%   75.682      1 Template:Ambox"," 25.90%   32.233      1 Template:Find_sources_mainspace"," 22.92%   28.523      1 Template:Gambling"," 22.09%   27.491      2 Template:Navbox","  9.32%   11.600      4 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":1830210,"limit":52428800}},"cachereport":{"origin":"mw1235","timestamp":"20190918021645","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Big Six wheel","url":"https:\/\/en.wikipedia.org\/wiki\/Big_Six_wheel","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1942486","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1942486","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-07T03:19:46Z","dateModified":"2018-01-22T18:21:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/aa\/Gambling_wheel_by_H._C._Evans_and_Co.%2C_Chicago_-_Bayernhof_Museum_-_DSC06276.JPG"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

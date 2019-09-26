@@ -1,0 +1,1590 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Tiriyó language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Tiriyó_language","wgTitle":"Tiriyó language","wgCurRevisionId":890200357,"wgRevisionId":890200357,"wgArticleId":8104920,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","Languages of Suriname","Languages of Brazil","Cariban languages","Tiriyó people"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tiriyó_language","wgRelevantArticleId":8104920,
+"wgRequestId":"XYwLagpAAD8AABskLKAAAADI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q56885","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":
+"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tiriy%C3%B3_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Tiriy%C3%B3_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Tiriyó_language rootpage-Tiriyó_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Tiriyó language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Tirio_language_(New_Guinea)" class="mw-redirect" title="Tirio language (New Guinea)">Tirio language (New Guinea)</a>.</div>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color:  #c0dde6;">Tiriyó</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color:  #c0dde6;">tarëno ijomi</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Pronunciation</th><td style="line-height:1.35em;"><small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA" title="Help:IPA">[taɽəːno ijoːmi]</a></span></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Region</th><td style="line-height:1.35em;"><a href="/wiki/Par%C3%A1" title="Pará">Pará</a> (Baixo Amazonas mesoregion), <a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini District</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Tiriy%C3%B3_people" class="mw-redirect" title="Tiriyó people">Tiriyó</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">2,100&#160;(2003–2006)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+Guianan Carib<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Taranoan<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Tiriyo languages<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Tiriyó</b></li></ul></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color:  #c0dde6;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;"><code><a href="https://iso639-3.sil.org/code/tri" class="extiw" title="iso639-3:tri">tri</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/trio1238">trio1238</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr><tr><td colspan="2" class="noprint selfref" style="text-align:center;background-color:#ddddff;padding:0.3em 0.5em;text-align:left;line-height:1.3;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Replacement_character" class="mw-redirect" title="Replacement character">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table>
+<p>The <b>Tiriyó</b> language is the everyday language of the <a href="/wiki/Tiriy%C3%B3" title="Tiriyó">Tiriyó</a> people, the majority of whom are monolingual.<sup id="cite_ref-Meira_3-0" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Although Tiriyó is the preferred spelling, the Tiriyó refer to themselves as <i>tarëno</i>; other variations, including <i>tarano</i>, <i>tirió</i>, and <i>trio</i>, exist. The Tiriyó are located on both sides of the <a href="/wiki/Brazil" title="Brazil">Brazil</a>-<a href="/wiki/Suriname" title="Suriname">Suriname</a> border in Lowland <a href="/wiki/South_America" title="South America">South America</a>. Because Tiriyó is spoken by the entire Tiriyó population, its level of endangerment is low. However, it may be threatened by the presence of a newly installed radar station staffed by a considerable number of non-Indigenous people close to the main village.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Linguistic_Research"><span class="tocnumber">3</span> <span class="toctext">Linguistic Research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Documentation"><span class="tocnumber">3.1</span> <span class="toctext">Documentation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Dialects"><span class="tocnumber">4</span> <span class="toctext">Dialects</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Phonology"><span class="tocnumber">5</span> <span class="toctext">Phonology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Vowels"><span class="tocnumber">5.1</span> <span class="toctext">Vowels</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Consonants"><span class="tocnumber">5.2</span> <span class="toctext">Consonants</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Syllable_Structure_and_Phonotactics"><span class="tocnumber">5.3</span> <span class="toctext">Syllable Structure and Phonotactics</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Stress"><span class="tocnumber">5.4</span> <span class="toctext">Stress</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Reduplication"><span class="tocnumber">5.5</span> <span class="toctext">Reduplication</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Morphophonology"><span class="tocnumber">5.6</span> <span class="toctext">Morphophonology</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Syllable_reduction"><span class="tocnumber">5.6.1</span> <span class="toctext">Syllable reduction</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Ablaut"><span class="tocnumber">5.6.2</span> <span class="toctext">Ablaut</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Morphology"><span class="tocnumber">6</span> <span class="toctext">Morphology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Pronouns"><span class="tocnumber">6.1</span> <span class="toctext">Pronouns</span></a>
+<ul>
+<li class="toclevel-3 tocsection-17"><a href="#SAP_Pronouns"><span class="tocnumber">6.1.1</span> <span class="toctext">SAP Pronouns</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Third-Person_Pronouns"><span class="tocnumber">6.1.2</span> <span class="toctext">Third-Person Pronouns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Interrogatives"><span class="tocnumber">6.2</span> <span class="toctext">Interrogatives</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Possession"><span class="tocnumber">6.3</span> <span class="toctext">Possession</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Syntax"><span class="tocnumber">7</span> <span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Case_and_Agreement"><span class="tocnumber">7.1</span> <span class="toctext">Case and Agreement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Ergative_Patterns"><span class="tocnumber">7.1.1</span> <span class="toctext">Ergative Patterns</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Nominative_Patterns"><span class="tocnumber">7.1.2</span> <span class="toctext">Nominative Patterns</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Other_Patterns"><span class="tocnumber">7.1.3</span> <span class="toctext">Other Patterns</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-26"><a href="#Tense"><span class="tocnumber">7.2</span> <span class="toctext">Tense</span></a>
+<ul>
+<li class="toclevel-3 tocsection-27"><a href="#Past"><span class="tocnumber">7.2.1</span> <span class="toctext">Past</span></a></li>
+<li class="toclevel-3 tocsection-28"><a href="#Present"><span class="tocnumber">7.2.2</span> <span class="toctext">Present</span></a></li>
+<li class="toclevel-3 tocsection-29"><a href="#Future"><span class="tocnumber">7.2.3</span> <span class="toctext">Future</span></a></li>
+<li class="toclevel-3 tocsection-30"><a href="#Certainty_and_Doubt"><span class="tocnumber">7.2.4</span> <span class="toctext">Certainty and Doubt</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-31"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The modern Tiriyó is formed from various different Indigenous communities; some of these, such as the Aramixó, are mentioned in European writings as early as 1609-1610.<sup id="cite_ref-Meira_3-1" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Many of the now-Tiriyó groups lived between Brazil and <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a> until they were driven out by the <a href="/wiki/Wayampi" title="Wayampi">Oyampi</a>, a <a href="/wiki/Tupi_people" title="Tupi people">Tupi-Guaranian group</a> allied with the Portuguese. Together, the Portuguese and Oyampi drove these groups westward, and they mingled with the groups that were in the area to form the modern Tiriyó group.<sup id="cite_ref-Meira_3-2" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p><p>As such, the Tiriyó established contact relatively early with runaway slave groups that settled in the area around the end of the 18th century. They maintained regular commercial relations with one group, the <a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a>, and for many years they were the only contact the Tiriyó had with foreign populations.<sup id="cite_ref-Meira_3-3" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> The first recorded contact between the Tiriyó and a European took place in 1843 between a ‘Drio’ village and Robert Schomburgk; this and the meeting between French explorer Jules Crevaux and a few ‘Trio’ were the only two points of contact between Tiriyó and Europeans in the 19th Century.<sup id="cite_ref-Meira_3-4" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+Subsequent contact between Europeans and Tiriyó in the first half of the twentieth century produced ethnographic and linguistic studies of the region and Tiriyó subgroups in particular. After the ‘exploratory phase’ of contact came the ‘<a href="/wiki/Missionary" title="Missionary">missionary</a> phase,’ wherein newly-built airstrips facilitated contact between missionaries and the Tiriyó.<sup id="cite_ref-Meira_3-5" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> These missions tried to concentrate the Tiriyó population in larger villages to more easily convert them to <a href="/wiki/Christianity" title="Christianity">Christianity</a>, and over time, other Indigenous groups such as the Akuriyó joined them here.<sup id="cite_ref-Meira_3-6" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p><p>Today, the Tiriyó have a high degree of independence because their settlements are difficult to access. However, they are interested in reinforcing relationships with the foreign world.<sup id="cite_ref-Meira_3-7" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tiriyó has been classified as belonging to the Taranoan group of the Guianan sub-branch of Cariban, together with <a href="/wiki/Karihona_language" class="mw-redirect" title="Karihona language">Karihona</a> (Carijona), in Colombia, and <a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyó</a>, in Suriname, the former with a few, and the latter with apparently no, speakers left. Gildea (2012) lists <i>Tiriyó</i> and <i>Trió</i> as distinct languages.
+</p>
+<h2><span class="mw-headline" id="Linguistic_Research">Linguistic Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=3" title="Edit section: Linguistic Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first wordlist of Tiriyó was compiled by <a href="/wiki/Jules_Crevaux" title="Jules Crevaux">Jules Crevaux</a> in 1882, consisting of 31 entries including two sentences in Ndyuka-Tiriyó, a pidgin language.<sup id="cite_ref-Meira_3-8" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> In 1909, Claudius Henricus De Goeje wrote a short grammar of Tiriyó alongside a longer wordlist of around 500 entries that he had published previously in 1904.<sup id="cite_ref-Carlin_4-0" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup> In-depth linguistic studies of Tiriyó were not written until later in the 20th century, when Ernest Migliazza published an investigation of the <a href="/wiki/Phonology" title="Phonology">phonology</a> of Tiriyó in 1965, as did Morgan Jones in 1972.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The two dialects of Tiriyó were first described in that work by Jones. A short morphological study by Ruth Wallace was published in 1980.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p><a href="/wiki/Sergio_Meira" class="mw-redirect" title="Sergio Meira">Sergio Meira</a> has conducted a great deal of research into Tiriyó, including in 1997, 1998, 1999, 2000, 2005.<sup id="cite_ref-Carlin_4-1" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup> His descriptive grammar of Tiriyó (1999) was the first major text on the language, and describes aspects of Tiriyó’s phonology, <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">morphology</a>, <a href="/wiki/Syntax" title="Syntax">syntax</a>, and <a href="/wiki/Semantics" title="Semantics">semantics</a>. It also provides a list of words commonly borrowed into Tiriyó, and a preliminary English-Tiriyó dictionary.<sup id="cite_ref-Meira_3-9" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Eithne Carlin has also written a descriptive grammar of Tiriyó, that focuses on Tiriyó as spoken by people in Suriname.<sup id="cite_ref-Carlin_4-2" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup> Carlin has also published other works about Tiriyó (Carlin 1997, 1999, 2003, 2006, 2011), primarily concerned with semantics and <a href="/wiki/Sociolinguistics" title="Sociolinguistics">sociolinguistics</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Documentation">Documentation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=4" title="Edit section: Documentation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tiriyó has been partially documented as part of Meira’s research with the <a href="/wiki/Leiden_University" title="Leiden University">Leiden University</a>, in conjunction with the <a href="/wiki/Max_Planck_Institute_for_Psycholinguistics" title="Max Planck Institute for Psycholinguistics">Max Planck Institute for Psycholinguistics</a>. This documentation began in 1993 under Dr. Spike Gildea's Northern Brazilian Cariban Languages Documentation Project, and continued through 1999.<sup id="cite_ref-:2_9-0" class="reference"><a href="#cite_note-:2-9">&#91;9&#93;</a></sup> Meira’s documentation included specific focus on stress patterns, contrastive demonstratives, and locative postpositions.<sup id="cite_ref-:2_9-1" class="reference"><a href="#cite_note-:2-9">&#91;9&#93;</a></sup> There have been relatively few ethnographic studies on the Tiriyó, with the exception of the works by missionary Protasio Frikel and English anthropologist <a href="/wiki/Peter_Rivi%C3%A8re" title="Peter Rivière">Peter Rivière</a>. Between the 1950s and 1970s, Frikel wrote seven works (Frikel 1957, 1958, 1960, 1961a,b, 1964, 1971, 1973) relating to the Tiriyó.<sup id="cite_ref-Carlin_4-3" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup> Rivière has published a number of works (Rivière 1963, 1966, 1969, 1970, 1971, 1981a,b, 1984, 1987, 1988, 1994, 1995a,b, 2000) beginning in 1963, notably Marriage Among the Trio.<sup id="cite_ref-Carlin_4-4" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup> In his writing, he addresses errors made by Frikel.<sup id="cite_ref-Carlin_4-5" class="reference"><a href="#cite_note-Carlin-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Dialects">Dialects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=5" title="Edit section: Dialects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There seem to be two main dialects in the Tiriyó-speaking area, called by Jones (1972) <i>Eastern</i> or <i>Tapanahoni basin</i>, and <i>Western</i> or <i>Sipaliwini basin</i> dialects, and by Meira (2000, to appear) <i>K-Tiriyó</i> and <i>H-Tiriyó</i>. The main difference thus far reported is phonological: the different realization of what were (historically) clusters involving /h/ and a stop (see Phonology section below). Grammatical and/or lexical differences may also exist, but the examples thus far produced are disputed.
+</p><p>Demographically, H-Tiriyó is the most important dialect (~ 60% of the speakers). It is the dialect spoken in the village of Kwamalasamutu, Suriname, and in the villages along the Western Paru river (Tawainen or Missão Tiriós, Kaikui Tëpu, Santo Antônio) and also along the Marapi river (Kuxare, Yawa, etc.). K-Tiriyó is spoken in the villages along the Eastern Paru river (Mataware, and some people at Bonna) in Brazil, and in the villages of Tepoe and Paloemeu in Suriname.
+</p><p>Tiriyo was also a basis of the <a href="/wiki/Ndyuka-Tiriy%C3%B3_Pidgin" title="Ndyuka-Tiriyó Pidgin">Ndyuka-Tiriyó Pidgin</a>.
+</p>
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=6" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tiriyó has 7 vowels and 10 consonants, as shown in the chart below. (Orthographic symbols in bold, IPA values in square brackets.)
+</p>
+<h3><span class="mw-headline" id="Vowels">Vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=7" title="Edit section: Vowels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align: center" border="1">
+<tbody><tr>
+<th>&#160;</th>
+<th><a href="/wiki/Front_vowel" title="Front vowel">Front</a></th>
+<th><a href="/wiki/Central_vowel" title="Central vowel">Central</a></th>
+<th><a href="/wiki/Back_vowel" title="Back vowel">Back</a>
+</th></tr>
+<tr>
+<th><a href="/wiki/Close_vowel" title="Close vowel">Close</a>
+</th>
+<td><b>i</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i/</span></td>
+<td><b>ï</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɨ/</span></td>
+<td><b>u</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u/</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Mid_vowel" title="Mid vowel">Mid</a>
+</th>
+<td><b>e</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/e/</span>
+</td>
+<td><b>ë</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span>
+</td>
+<td><b>o</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/o/</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Open_vowel" title="Open vowel">Open</a>
+</th>
+<td></td>
+<td><b>a</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/a/</span></td>
+<td>
+</td></tr></tbody></table>
+<ul><li>The vowels (<b>a</b>, <b>e</b>, <b>i</b>, <b>o</b>, <b>u</b>) are very close to their usual values in, e.g., Spanish.</li>
+<li>The central vowel <b>ï</b> is usually <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɨ]</span>, but <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɯ]</span> is also heard, especially after a velar consonant;</li>
+<li>The central vowel <b>ë</b> is usually <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ə]</span>, but <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʌ]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɤ]</span> are also common.</li></ul>
+<h3><span class="mw-headline" id="Consonants">Consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=8" title="Edit section: Consonants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align: center" border="1">
+<tbody><tr>
+<th>&#160;
+</th>
+<th><a href="/wiki/Bilabial_consonant" title="Bilabial consonant">Bilabial</a>
+</th>
+<th><a href="/wiki/Dental_consonant" title="Dental consonant">Dental</a>
+</th>
+<th><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
+</th>
+<th><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a>
+</th>
+<th><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/Nasal_stop" class="mw-redirect" title="Nasal stop">Nasal</a></td>
+<td><b>m</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/m/</span></td>
+<td><b>n</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/n/</span></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Plosive_consonant" class="mw-redirect" title="Plosive consonant">Plosive</a></td>
+<td><b>p</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p/</span></td>
+<td><b>t</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span></td>
+<td></td>
+<td><b>k</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fricative_consonant" title="Fricative consonant">Fricative</a></td>
+<td></td>
+<td colspan="2"><b>s</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span></td>
+<td></td>
+<td><b>h</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/Tap_consonant" class="mw-redirect" title="Tap consonant">Tap</a></td>
+<td></td>
+<td colspan="2"><b>r</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɾ/</span></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Approximant_consonant" title="Approximant consonant">Approximant</a></td>
+<td><b>w</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/β/</span></td>
+<td></td>
+<td><b>j</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/j/</span></td>
+<td></td>
+<td>
+</td></tr></tbody></table>
+<ol><li>The fricative <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span> shows a considerable amount of variation. Some speakers have <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[s]</span>, others have <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ç]</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[s̠]</span>, or even <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʃ]</span>. The following vowel also influences the pronunciation of <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span>: <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʃ]</span>-like realizations are more frequent before <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/e/</span>.</li>
+<li>The rhotic <b>r</b> is often <a href="/wiki/Retroflex_consonant" title="Retroflex consonant">retroflex</a> (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɽ]</span>) and may have some laterality (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɺ]</span>); simple taps (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɾ]</span>) are also heard.</li>
+<li>The approximant <b>w</b> has usually no rounding (<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[β̞]</span>), and sometimes (especially if followed by <b>e</b> or <b>i</b>) some friction <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[β̝]</span></li>
+<li>The glottal fricative <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span> is the most obvious difference between the two main dialects. K-Tiriyó is a dialect without <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span>; where H-Tiriyó has an <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/h/</span>, K-Tiriyó shows a VV sequence (realized as a long vowel). In H-Tiriyó, each <b>h</b>-cluster - <b>hp</b>, <b>ht</b>, <b>hk</b> (historically <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*[hp]</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*[ht]</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*[hk]</span>) - has a different realization: <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[(h)ɸ]</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ht]</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[(h)h]</span> (i.e., with <b>p</b> and <b>k</b>, [h] is weakly realized and spirantizes the following plosive; with <b>t</b>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[h]</span> is stronger and there is no spirantization). Older H-Tiriyó speakers have a fourth cluster <b>hs</b> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[(h)s̠]</span>, with a weakly realized <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[h]</span>, while younger H-Tiriyó speakers have <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ːs̠]</span> ~ <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[s̠s̠]</span> (K-Tiriyó speakers have only <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ːs̠]</span>); all in all, its status is, however, marginal. <br />The examples in the table below illustrate these various realizations:</li></ol>
+<center>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Proto-form
+</th>
+<th>H-Tiriyó
+</th>
+<th>K-Tiriyó
+</th>
+<th>Gloss
+</th></tr>
+<tr align="center">
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*mahto</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[mahtɔ]</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[maatɔ]</span></td>
+<td>fire
+</td></tr>
+<tr align="center">
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*tuhka</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[tu(h)ha]</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[tuuka]</span></td>
+<td>Brazil nut
+</td></tr>
+<tr align="center">
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*pihpə</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[pi(h)ɸə]</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[piipə]</span></td>
+<td>skin
+</td></tr>
+<tr align="center">
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*wɨhse</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʋɨ(h)s̠e]</span>~<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʋɨːs̠e]</span>~<span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʋɨs̠s̠e]</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʋɨɨs̠e]</span></td>
+<td>anatto
+</td></tr></tbody></table></center>
+<h3><span class="mw-headline" id="Syllable_Structure_and_Phonotactics">Syllable Structure and Phonotactics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=9" title="Edit section: Syllable Structure and Phonotactics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The basic <a href="/wiki/Syllable" title="Syllable">syllable</a> template is (<a href="/wiki/Consonant" title="Consonant">C</a><sub>1</sub>)<a href="/wiki/Vowel" title="Vowel">V</a><sub>1</sub>(V<sub>2</sub>)(C<sub>2</sub>) -- i.e., the possible syllable types are:
+</p>
+<center>
+<table class="wikitable">
+
+<tbody><tr>
+<td>V<sub>1</sub>
+</td>
+<td>V<sub>1</sub>V<sub>2</sub>
+</td>
+<td>V<sub>1</sub>C<sub>2</sub>
+</td>
+<td>V<sub>1</sub>V<sub>2</sub>C<sub>2</sub>
+</td></tr>
+<tr>
+<td>C<sub>1</sub>V<sub>1</sub>
+</td>
+<td>C<sub>1</sub>V<sub>1</sub>V<sub>2</sub>
+</td>
+<td>C<sub>1</sub>V<sub>1</sub>C<sub>2</sub>
+</td>
+<td>C<sub>1</sub>V<sub>1</sub>V<sub>2</sub>C<sub>2</sub>.
+</td></tr></tbody></table></center>
+<ol><li>Onsetless syllables (V<sub>1</sub>, V<sub>1</sub>V<sub>2</sub>, V<sub>1</sub>C<sub>2</sub>, V<sub>1</sub>V<sub>2</sub>C<sub>2</sub>) occur only word-initially; all vowels except <b>ï</b> are possible in this position.<br /> Ex.: <i><u>a</u>ware</i> 'caiman'; <i><u>e</u>nu</i> 'his/her eye'; <i><u>ë</u>më</i> 'you (sg.)';  <i><u>i</u>rakë</i> 'giant ant'; <i><u>o</u>komo</i> 'wasp'; <i><u>u</u>ru</i> 'bread-like food'.</li>
+<li>The most frequent syllable type is C<sub>1</sub>V<sub>1</sub>, in which all vowels and all consonants (except <b>h</b>) are possible.<br />Ex.: <i>pakoro</i> 'house', <i>kurija</i> 'gourd', <i>mïnepu</i> 'brige', <i>tëpu</i> 'stone', <i>jako</i> 'friend!', <i>nërë</i> 's/he', <i>wewe</i> 'wood, tree, plant'</li>
+<li>Vowel sequences (V<sub>1</sub>V<sub>2</sub>) can be made of identical vowels (V<sub>1</sub> = V<sub>2</sub>), in which case they are realized as long vowels. In this case, no coda consonants are possible (i.e., no *(C<sub>1</sub>)VVC<sub>2</sub>). <br />Exs.:<i><u>aa</u>pë</i> 'your arm', <i><u>ee</u>ke</i> 'how?', <i><u>mëë</u>rë</i> 'that one (animate)', <i><u>pii</u>to</i> 'brother-in-law', <i><u>tïï</u>në</i> 'quiet', <i><u>oo</u>to</i> (tree sp.), <i><u>muu</u>nu</i> 'fish bait'.</li></ol>
+<h3><span class="mw-headline" id="Stress">Stress</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=10" title="Edit section: Stress">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tiriyó <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">stress</a> follows a rhythmic pattern of the kind Hayes (1995) calls <a href="/wiki/Iamb_(foot)" class="mw-redirect" title="Iamb (foot)">iambic</a>. Phonetically:
+</p>
+<ul><li>In (C)V-only words, every second syllable from the beginning of the word is stressed, except the final syllable, which is never stressed (<i>extrametric</i>).</li>
+<li>A non-(C)V syllable anywhere in the word attracts stress (except in the always unstressed final position) and disturbs the pattern, forcing it to restart as if a new word had begun.</li>
+<li>Bisyllabic words do not have obvious stress.</li></ul>
+<p>Examples (acute accents mark stress, and colons length):
+</p>
+<center>
+<table class="wikitable">
+<tbody><tr>
+<th>Syllable type</th>
+<th>Underlying form</th>
+<th>Phonetic</th>
+<th>Gloss
+</th></tr>
+<tr>
+<td rowspan="2">(C)V-only</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/amatakana/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[a.ˈmaː.ta.ˈkaː.na]</span></td>
+<td>'toucan sp.'
+</td></tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kɨtapotomapone/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[kɨ.ˈtaː.po.ˈtoː.ma.ˈpoː.ne]</span></td>
+<td>'you all helped him/her/it'
+</td></tr>
+<tr>
+<td rowspan="3">non-(C)V-only</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/mempakane/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈmem.pa.ˈkaː.ne]</span></td>
+<td>'you woke him/her up'
+</td></tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kehtəne/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈkeh.tə.ne]</span></td>
+<td>'we (I+you) were'
+</td></tr>
+<tr>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/meekane/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ˈmeː.ka.ne]</span></td>
+<td>'you bit him/her/it'
+</td></tr></tbody></table></center>
+<p>Note that some words apparently follow the opposite - <i><a href="/wiki/Troche" title="Troche">trochaic</a></i> - pattern (e.g., <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/meekane/</span> above). For these words, an underlying sequence of identical vowels is proposed. Cognate words from related languages provide evidence for this analysis: compare the Tiriyó stem <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eeka/</span> 'bite' with e.g. Waiwai, Katxuyana, Hixkaryana <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eska/</span>, Panare <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ehka/</span>, Karihona <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eseka/</span>, suggesting a historical process of syllable reduction with subsequent compensatory lengthening of the preceding vowel.
+</p><p>Since stress depends only on the type and number of syllables, morphological processes that involve syllabic prefixes or suffixes affect stress:
+</p>
+<center><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pakoro/</span> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[pa.ˈkoː.ɽo]</span> 'house' → <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ji-pakoro/</span> 'my house' <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ji.ˈpaː.ko.ɽo]</span></center>
+<p>In Hayes' framework, one could argue that stress placement is based on pairs of syllables (<i>feet</i>) consisting of either two (C)V (<i>light</i>) or one non-(C)V (<i>heavy</i>) syllables, except for the last syllable, which is extrametric, i.e. never forms a foot. This would explain the lack of stress in bisyllabic words: an initial light syllable, left alone by the extrametricity of the final syllable, cannot form a foot by itself and remains unstressed.
+</p>
+<h3><span class="mw-headline" id="Reduplication">Reduplication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=11" title="Edit section: Reduplication">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><a href="/wiki/Reduplication" title="Reduplication">Reduplication</a></i> in Tiriyó affects <a href="/wiki/Verb" title="Verb">verbs</a> (regularly) and also <a href="/wiki/Noun" title="Noun">nouns</a> and <a href="/wiki/Adverbial" title="Adverbial">adverbials</a> (irregularly: not all of them). On verbs, it usually marks iteration or repetition (e.g.: <i>wïtëe</i> 'I go, I am going', <i>wïtë-wïtëe</i> 'I keep going, I always go, I go again and again'); on nouns and adverbials, several examples of an entity, or several instances of a phenomenon (e.g.: <i>kutuma</i> 'painful', <i>kuu-kuutuma</i> 'painful all over, feeling pain all over one's body'; <i>sikinman</i> '(something) black', <i>siki-sikiman-ton</i> 'a number of black things' (including also the plural marker <i>-ton</i>; see below).
+</p><p>Formally, there are two reduplicative patterns, termed <i>internal</i> and <i>external</i> reduplication. External reduplication is a regular process that copies the first two moras of a complete word (i.e., the first two syllables if they are light, or the first syllable if it is heavy). Coda consonants are not reduplicated: the preceding vowel is copied as long (i.e. as a VV sequence). If a syllable contains two vowels, some (older?) speakers copy both vowels, while other (younger?) speakers copy only the first vowel and lengthen it (i.e. turn it into a VV sequence).
+</p>
+<center>
+<table class="wikitable">
+<tbody><tr>
+<th>Base</th>
+<th>Gloss</th>
+<th>Reduplication</th>
+<th>Gloss
+</th></tr>
+<tr>
+<td><i>wekarama</i></td>
+<td>'I gave it'</td>
+<td><i>weka-wekarama</i></td>
+<td>'I kept giving it'
+</td></tr>
+<tr>
+<td><i>mempaka</i></td>
+<td>'you woke him/her up'</td>
+<td><i>mee-mempaka</i></td>
+<td>'you kept waking him/her up'
+</td></tr>
+<tr>
+<td><i>waitëne</i></td>
+<td>'I pushed it'</td>
+<td><i>waa-waitëne</i>, or:<br /> <i>wai-waitëne</i></td>
+<td>'I pushed it again and again'
+</td></tr></tbody></table></center>
+<p>Internal reduplication affects the interior of a word. In most cases, it can be seen as affecting the stem prior to the addition of person- or voice-marking prefixes; in some cases, however, it affects some pre-stem material as well (cf. the table below, in which '+' signs separate affixes from the stem in the first column). In many, but not all, cases, internal reduplication may result from the simplification of external reduplication: <i>impo-imponoosewa</i> &gt; <i>impo-mponoosewa</i>. (Some examples from Carlin 2004 support this hypothesis.)
+</p>
+<center>
+<table class="wikitable">
+<tbody><tr>
+<th>Base</th>
+<th>Gloss</th>
+<th>Reduplication</th>
+<th>Gloss
+</th></tr>
+<tr>
+<td><i>im&#160;+&#160;ponoo&#160;+&#160;sewa</i></td>
+<td>'not telling it' (stem: <i>pono(pï)</i>)</td>
+<td><i>i-mpo-mponoosewa</i></td>
+<td>'not telling it (despite many requests)'
+</td></tr>
+<tr>
+<td><i>wi&#160;+&#160;pahka</i></td>
+<td>'I hit/broke it' (stem: <i>pahka</i>)</td>
+<td><i>wi-pah-pahka</i></td>
+<td>'I hit it several times'
+</td></tr>
+<tr>
+<td><i>s&#160;+&#160;et&#160;+&#160;ainka</i></td>
+<td>'I ran (away)'</td>
+<td><i>se-tain-tainka</i></td>
+<td>'I kept running (away)'
+</td></tr></tbody></table></center>
+<p>Finally, some cases are idiosyncratic and probably need to be listed independently (e.g., <i>tëëkae</i> 'bitten', 'bit', <i>tëëkaakae</i> 'bitten all over').
+</p>
+<h3><span class="mw-headline" id="Morphophonology">Morphophonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=12" title="Edit section: Morphophonology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are two general morphophonological processes that have important effects on the shapes of Tiriyó morphemes: <i>syllable reduction</i> and <i>ablaut</i>.
+</p>
+<h4><span class="mw-headline" id="Syllable_reduction">Syllable reduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=13" title="Edit section: Syllable reduction">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><i>Syllable reduction</i> is the process whereby the final syllable of certain morphemes (mostly stems, though also sometimes affixes) is changed depending on the shape of the following element. These morphemes will typically have:
+</p>
+<ul><li>a <i>full</i> or <i>CV grade</i>, in which the final syllable occurs in its full form;</li>
+<li>three <i>reduced grades</i>:
+<ul><li>a <i>coda</i> or <i>C grade</i>, in which the final syllable is reduced to a coda consonant (<i>n</i> if the syllable had a nasal onset, <i>h</i> otherwise);<br />if the reducing syllable is not nasal (NV):</li>
+<li>a <i>length</i> or <i>VV grade</i>, in which the final syllable is dropped, and the preceding vowel is 'compensatorily lengthened' (becomes VV);</li>
+<li>a <i>zero grade</i>, in which the final syllable is dropped without any changes on the preceding vowel.</li></ul></li></ul>
+<p>The table below illustrates the various grades of the verb stems <i>pono(pï)</i> 'to tell O' and <i>ona(mï)</i> 'to bury, hide O'.
+</p>
+<center>
+<table class="wikitable">
+<tbody><tr>
+<th>Full (CV) Grade</th>
+<th>Coda (C) Grade</th>
+<th>Length (VV) Grade</th>
+<th>Zero Grade
+</th></tr>
+<tr>
+<td><i>wi-<u>ponopï</u> nkërë</i> 'I still told O'</td>
+<td><i>wi-<u>ponoh</u>-tae</i> 'I will tell O'</td>
+<td><i>wi-<u>ponoo</u>-ne</i> 'I told O'</td>
+<td><i>wi-<u>pono</u></i> 'I told O'
+</td></tr>
+<tr>
+<td><i>w-<u>onamï</u> nkërë</i> 'I still hid O'</td>
+<td><i>w-<u>onan</u>-tae</i> 'I will hide O'<br /><i>w-<u>onon</u>-ne</i> 'I hid O'<br /><i>w-<u>onon</u></i> 'I hid O'</td>
+<td>
+</td></tr></tbody></table></center>
+<p>The reducing syllable can be the final one (<i>pono(pï)</i> 'to tell O', <i>ona(mï)</i> 'to bury/hide O'), or the initial one (<i>(pï)tai</i> 'shoes', <i>mïta</i> 'mouth'). The full form occurs when the following material (affix, stem, clitic) has a consonant cluster, i.e. is CCV-initial (the first consonant resyllabifies as the coda of the reducing syllable), or then starts with <i>r</i>.
+The reduced forms occur when this is not the case: the coda grade when a possible cluster - <i>mp</i>, <i>nt</i>, <i>nk</i>, <i>ns</i>, <i>hp</i>, <i>hk</i>, <i>ht</i> - results, and the length grade in the other cases (the zero grade for verb stems, when no clitics follow). Reducing syllables generally consist of a stop or nasal and the vowels <i>ï</i> or <i>u</i> (<i>pï</i>, <i>pu</i>, <i>tï</i>, <i>tu</i>..., <i>mï</i>, <i>mu</i>,...); <i>rï</i> and <i>ru</i> syllables can also reduce, but with some irregularities; <i>wï</i> syllables only reduce stem-initially (and apparently never have a coda grade).
+</p><p>Historically, syllable reduction results from the weakening and loss of the high vowels <i>ï</i> and <i>u</i>, leading to the formation of consonant clusters, in which the first element typically 'debuccalizes' to a glottal element (<i>h</i> or <i><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔ</span></i>) and later disappears, causing (when possible) the compensatory lengthening of the preceding vowel (cf. Gildea 1995). Comparative evidence suggests that many, perhaps all, morpheme-internal clusters in the Cariban family were formed as a result of this process.
+</p>
+<center><i>...CV.<u>CV</u>.CV...</i> &gt; <i>...CV<u>C</u>.CV...</i> &gt; <i>...CV<u>h</u>.CV...</i> or <i>...CV<u><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʔ</span></u>.CV...</i> &gt; <i>...CV<u>V</u>.CV...</i></center>
+<h4><span class="mw-headline" id="Ablaut">Ablaut</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=14" title="Edit section: Ablaut">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In Tiriyó, as in most Cariban languages, there is a class of stems which has two forms in different morphosyntactic environments: a form which is <i>e</i>-initial (the <i>e</i>- or <i>front grade</i>) and a form which is <i>ë</i>-initial (the <i>ë</i>- or <i>back grade</i>). With nouns, for instance, the back grade occurs with the inclusive (1+2) prefix <i>k-</i>, the third-person coreferential ('reflexive') prefix <i>t-</i>, and with the non-possessed form (prefixless); all other person-marked forms have the front grade.
+</p>
+<table width="80%">
+<tbody><tr>
+<td colspan="8"><big><center><i>enu</i> 'eye(s)'</center></big>
+</td></tr>
+<tr>
+<td colspan="3"><center>FRONT GRADE</center>
+</td>
+<td colspan="3"><center>BACK GRADE</center>
+</td></tr>
+<tr>
+<td>1</td>
+<td><i>j-enu</i></td>
+<td>'my eye(s)'</td>
+<td>Non-poss</td>
+<td><i>ënu</i></td>
+<td>'eye(s)' (in general)
+</td></tr>
+<tr>
+<td>2</td>
+<td><i>ë-enu</i></td>
+<td>'your eye(s)'</td>
+<td>1+2</td>
+<td><i>k-ënu</i></td>
+<td>'our eye(s)'
+</td></tr>
+<tr>
+<td>3</td>
+<td><i>enu</i></td>
+<td>'his/her eye(s)'</td>
+<td>3coref</td>
+<td><i>t-ënu</i></td>
+<td>'his/her own eye(s)'
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Morphology">Morphology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=15" title="Edit section: Morphology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tiriyó morphology is in most respects typical of the Cariban family. It is neither highly <a href="/wiki/Polysynthetic_languages" class="mw-redirect" title="Polysynthetic languages">polysynthetic</a> nor highly isolating. Tiriyó exhibits many forms of nominalization that distinguish between potential and actual <a href="/wiki/Agent_(Grammar)" class="mw-redirect" title="Agent (Grammar)">Agent</a>, <a href="/wiki/Subject_(grammar)" title="Subject (grammar)">Subject</a>, and <a href="/w/index.php?title=Object_(Grammar)&amp;action=edit&amp;redlink=1" class="new" title="Object (Grammar) (page does not exist)">Object</a> as well as Circumstance and Event nominalizers. It marks for <a href="/wiki/Possession_(linguistics)" title="Possession (linguistics)">possession</a>, including past possession. Verbs also have derivational morphology. They mark for past, present, and future tense, as well as for certainty, doubt, and non-factual, hypothetical, incredulative, and admonative statements. Imperatives may also be conjugated as a <a href="/wiki/Hortative" title="Hortative">hortative</a>. Tiriyó has a wide variety of adverbial forms, and a variety of postpositions including directional, locative, perlative, relational, and experiencer. These mark for person and number. Interrogatives in Tiriyó consist of nominal, non-spatial adverbial, and spatial adverbial interrogatives.<sup id="cite_ref-Meira_3-10" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Pronouns">Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=16" title="Edit section: Pronouns">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="SAP_Pronouns">SAP Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=17" title="Edit section: SAP Pronouns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th>Person</th>
+<th>Non-collective</th>
+<th>Collective
+</th></tr>
+<tr>
+<th>1st
+</th>
+<td>wɨ(ɨ)</td>
+<td>/
+</td></tr>
+<tr>
+<th>2nd
+</th>
+<td>emɛ</td>
+<td>ɛmɛnjamo
+</td></tr>
+<tr>
+<th>1st+2nd
+</th>
+<td>kɨmɛ</td>
+<td>kɨmɛnjamo
+</td></tr>
+<tr>
+<th>1st+3rd
+</th>
+<td>anja</td>
+<td>anja
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Third-Person_Pronouns">Third-Person Pronouns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=18" title="Edit section: Third-Person Pronouns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th colspan="2"><a href="/wiki/Animacy" title="Animacy">Inanimate</a></th>
+<th colspan="2"><a href="/wiki/Animacy" title="Animacy">Animate</a>
+</th></tr>
+<tr>
+<td></td>
+<td><b>Non-Collective</b></td>
+<td><b>Collective</b></td>
+<td><b>Non-Collective</b></td>
+<td><b>Collective</b>
+</td></tr>
+<tr>
+<th><a href="/wiki/Anaphora_(linguistics)" title="Anaphora (linguistics)">Anaphoric</a>
+</th>
+<td>irɛ</td>
+<td>irɛto(mo)</td>
+<td>nɛrɛ</td>
+<td>namo
+</td></tr>
+<tr>
+<th><a href="/wiki/Demonstrative" title="Demonstrative">Demonstrative</a>
+</th>
+<td colspan="4">
+</td></tr>
+<tr>
+<th><i><a href="/wiki/Demonstrative#Distal_and_proximal_demonstratives" title="Demonstrative">Visible:Proximal</a></i>
+</th>
+<td>se(nɨ)</td>
+<td>sento(mo)</td>
+<td>mɛe</td>
+<td>mɛesa(mo)
+</td></tr>
+<tr>
+<th>
+</th>
+<td>serɛ</td>
+<td>serɛto(mo)</td>
+<td>/</td>
+<td>/
+</td></tr>
+<tr>
+<th><i><a href="/wiki/Demonstrative#Distal_and_proximal_demonstratives" title="Demonstrative">Medial</a></i>
+</th>
+<td>mɛrɛ</td>
+<td>mɛrɛto(mo)</td>
+<td>mɛɛrɛ</td>
+<td>mɛɛja(mo)
+</td></tr>
+<tr>
+<th><i><a href="/wiki/Demonstrative#Distal_and_proximal_demonstratives" title="Demonstrative">Distal</a></i>
+</th>
+<td>Ooni</td>
+<td>oonito(mo)</td>
+<td>ohkɨ</td>
+<td>ohkɨja(mo)
+</td></tr>
+<tr>
+<th><i>Invisible</i>
+</th>
+<td>mɛ(nɨ)</td>
+<td>mɛnto(mo)</td>
+<td>mɛ(kɨ)</td>
+<td>mɛkɨja(mo)
+</td></tr></tbody></table>
+<p>There are two categories of <a href="/wiki/Pronoun" title="Pronoun">pronouns</a> in Tiriyó: speech act participant pronouns and the third-person pronouns.<sup id="cite_ref-Meira_3-11" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Pronouns can be subjects of <a href="/wiki/Transitivity_(grammar)" title="Transitivity (grammar)">transitive and intransitive sentences</a>, as well as objects.<sup id="cite_ref-Meira_3-12" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>  However, pronouns cannot bear possessive morphology. The first-person pronoun, wɨ(ɨ), is unique in that it has a long vowel sound that is only heard if a <a href="/wiki/Clitic" title="Clitic">clitic</a> <a href="/wiki/Grammatical_particle" title="Grammatical particle">particle</a> follows; as well, it does not have a derived collective form (instead, kɨmɛnjamo and anja are used).<sup id="cite_ref-Meira_3-13" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Anja is similar to third person pronouns, but is not affected by any of the semantic features that affect the rest of the third-person pronouns; thus, it is listed separately. Examples to illustrate:
+</p>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>wɨ</td>
+<td>j-ene
+</td></tr>
+<tr>
+<td></td>
+<td>1</td>
+<td>1O-see:Prs.Prf
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'S/he saw me.'
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>anja</td>
+<td>ni-tunta
+</td></tr>
+<tr>
+<td></td>
+<td>1+3</td>
+<td>3S<sub>A</sub>-arrive:Prs.Prf
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'We (excl.) have arrived.'
+</td></tr></tbody></table><p>Third person pronouns are affected by features including visibility, proximity, and animacy. In the following example, ‘who’ is considered animate and ‘what’ is considered inanimate:
+</p><table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>akɨ</td>
+<td>mɛkɨ
+</td></tr>
+<tr>
+<td></td>
+<td>wh.An</td>
+<td>3AnInv
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'Who is that?'
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>atɨ</td>
+<td>mɛn
+</td></tr>
+<tr>
+<td></td>
+<td>wh.In</td>
+<td>3InInv
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'What is that?'
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Interrogatives">Interrogatives</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=19" title="Edit section: Interrogatives">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2">Nominal
+</th>
+<th colspan="2">Adverbial
+</th></tr>
+<tr>
+<td rowspan="2">akɨ</td>
+<td rowspan="2">Animate: ‘who?’ (Collective: akɨ-ja(mo))
+</td>
+<th colspan="2">Non-spatial
+</th></tr>
+<tr>
+<td>eeke</td>
+<td>‘how?’
+</td></tr>
+<tr>
+<td rowspan="2">atɨ</td>
+<td rowspan="2">Inanimate: ‘what?’</td>
+<td>eekanmao</td>
+<td>‘when?’
+</td></tr>
+<tr>
+<td>atɨtoome</td>
+<td>‘why?’
+</td></tr>
+<tr>
+<td rowspan="2">aano</td>
+<td rowspan="2">Definite: ‘which?’</td>
+<td>ahtaarɛ</td>
+<td>‘how many/how much?’
+</td></tr>
+<tr>
+<th colspan="2">Spatial
+</th></tr>
+<tr>
+<td colspan="2" rowspan="9"></td>
+<td>aja</td>
+<td>‘where? whither?’
+</td></tr>
+<tr>
+<td>anje</td>
+<td>‘whence?’
+</td></tr>
+<tr>
+<th colspan="2">an + Simple Spatial Postposition:
+</th></tr>
+<tr>
+<td>an-po</td>
+<td>‘where at?’
+</td></tr>
+<tr>
+<td>an-pona</td>
+<td>‘where to?’
+</td></tr>
+<tr>
+<td>an-pɛe</td>
+<td>‘where from?’
+</td></tr>
+<tr>
+<td>an-tae</td>
+<td>‘where by?’
+</td></tr>
+<tr>
+<td>an-mao</td>
+<td>‘when?’
+</td></tr>
+<tr>
+<td>(…)</td>
+<td>
+</td></tr></tbody></table>
+<p>Tiriyó is the only known Cariban language where almost all <a href="/wiki/Interrogative_word" title="Interrogative word">interrogatives</a> begin with the letter ‘a’, similar to ‘wh-words’ in English. The only exceptions, ‘eeke’ and ‘eekanmao’ (‘how’ and ‘when’, respectively) come from an earlier ‘aeke’.<sup id="cite_ref-Meira_3-14" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> They are also the only words to be affected by the ‘_hpe’ particle, an <a href="/wiki/Article_(grammar)#Indefinite_article" title="Article (grammar)">indefinite</a>. ‘Akɨ’ and ‘atɨ’ have the same <a href="/wiki/Animacy" title="Animacy">animacy</a> distinction as certain pronouns; ‘Akɨ’ is similar to the English ‘who,’ but is used to ask about any animate being. To illustrate:
+</p>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>akɨ</td>
+<td>meɛ
+</td></tr>
+<tr>
+<td></td>
+<td>wh.An</td>
+<td>3AnPx
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'Who is this one?', 'What kind of animal is this?'
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>atɨ</td>
+<td>serɛ
+</td></tr>
+<tr>
+<td></td>
+<td>wh.In</td>
+<td>3InPx
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'What is this?'
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Possession">Possession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=20" title="Edit section: Possession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Possession in Tiriyó is denoted by the addition of a prefix that expresses the person of the possessor and a suffix that indicates possession to the stem of the noun being possessed. This suffix takes one of three forms: -ri, -hpɛ, or –ø.<sup id="cite_ref-Meira_3-15" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Nouns in Tiriyó, like in all languages, can be classified according to possessibility. Some nouns may not be possessed, others must always be. These conditions exist along a spectrum, where the majority of nouns are optionally possessible.<sup id="cite_ref-Meira_3-16" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p><p>Nouns that are never possessed include pronouns, proper nouns, human groups, animal names, and some <a href="/wiki/Nominalization" title="Nominalization">nominalizations</a>. These nominalizations are: “potential” Agents, Objects, and Subjects; generic infinitives; and adverbial nominalizers.<sup id="cite_ref-Meira_3-17" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+This means that to indicate possession of an animal one must use indirect possession, where the inflection is not applied to the animal name, but to a generic noun.<sup id="cite_ref-Meira_3-18" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td colspan="2">j-ekɨ
+</td>
+<td>tonoro
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">1-pet
+</td>
+<td>bird
+</td></tr>
+<tr>
+<td>
+</td>
+<td>My
+</td>
+<td>pet
+</td>
+<td>bird
+</td></tr></tbody></table>
+<p>Nouns that are always possessed include <a href="/wiki/Kinship" title="Kinship">kinship</a> terms, generic nouns, some nominalizations, and some unclassified nouns. The nominalizations are specific infinitives and “actual” Agents and Objects. The unclassified nouns are a small group: arɨ (“leaf, contents”); eperu (“fruit”); epɨ (“tree, plant”); enɨ (“container”); jo(mɨ) (“wrapping”); po (“clothes”).<sup id="cite_ref-Meira_3-19" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p><p>These groups (non-possessed, possessed) are not the majority. Most nouns in Tiriyó are optionally possessible, but to different degrees. Some nouns are usually possessed, others rarely. For example, body parts are optionally possessible- but in actuality they are almost always possessed. From Meira's 1999 Grammar:<sup id="cite_ref-Meira_3-20" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<th>Possessed
+</th>
+<td>
+</td>
+<th>Unpossessed
+</th></tr>
+<tr>
+<td>
+</td>
+<td>enu
+</td>
+<td>
+</td>
+<td>ɛnu
+</td></tr>
+<tr>
+<td>
+</td>
+<td>3:eye:Pos
+</td>
+<td>
+</td>
+<td>eye:NPos like
+</td></tr>
+<tr>
+<td>
+</td>
+<td>His/her eye
+</td>
+<td>
+</td>
+<td>like an eye
+</td></tr></tbody></table>
+<p>Only in specific contexts like the case above can they appear unpossessed.
+</p><p>Other nouns that are optionally possessible include relational terms, manufactured items, and plant names. Relational terms, like body parts, are almost always possessed, e.g.:<sup id="cite_ref-Meira_3-21" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>ji-pawana
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1-friend:Pos
+</td></tr>
+<tr>
+<td>
+</td>
+<td>My friend
+</td></tr></tbody></table>
+<p>The other groups illuminate other parts of the continuum. Manufactured items are found equally in possessed and non-possessed forms.<sup id="cite_ref-Meira_3-22" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<th>
+</th>
+<th>Possessed
+</th>
+<th>
+</th>
+<th>Unpossessed
+</th></tr>
+<tr>
+<td>
+</td>
+<td>kawana
+</td>
+<td>
+</td>
+<td>i-kawana
+</td></tr>
+<tr>
+<td>
+</td>
+<td>canoe:Npos
+</td>
+<td>
+</td>
+<td>3:canoe:Pos
+</td></tr>
+<tr>
+<td>
+</td>
+<td>a canoe
+</td>
+<td>
+</td>
+<td>his/her canoe
+</td></tr></tbody></table>
+<p>Nouns that are usually not possessed include plant names. Similarly to animal names, they may be indirectly possessed by means of a generic noun; however they may also be directly possessed in some cases, for example:<sup id="cite_ref-Meira_3-23" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<th>
+</th>
+<th>Indirectly Possessed
+</th>
+<th>
+</th>
+<th>Directly Possessed
+</th></tr>
+<tr>
+<td>
+</td>
+<td>ji-nnapɨ
+</td>
+<td>
+</td>
+<td>ɛ-joroi
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1-fruit.food cashew
+</td>
+<td>
+</td>
+<td>2-cashew
+</td></tr>
+<tr>
+<td>
+</td>
+<td>My cashew (food)
+</td>
+<td>
+</td>
+<td>Your cashew (e.g. a tree)
+</td></tr></tbody></table>
+<p>Meira hypothesizes that the continuum of possessibility is structured something as follows:<sup id="cite_ref-Meira_3-24" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Always
+</th>
+<th>Very Often
+</th>
+<th>Often
+</th>
+<th>Rarely
+</th>
+<th>Never
+</th></tr>
+<tr>
+<td>-Kinship terms
+<p>-Generic words
+</p><p>-Certain nominalizers
+</p>
+</td>
+<td>-Body Parts
+<p>-Human relations
+</p><p>-Certain nominalizers
+</p>
+</td>
+<td>-Manufactured items
+<p>-Cultural items
+</p>
+</td>
+<td>-Plants
+<p>-Elements of nature
+</p>
+</td>
+<td>-Pronouns
+<p>-Proper nouns
+</p><p>-Animals
+</p><p>-Certain nominalizers
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=21" title="Edit section: Syntax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Case_and_Agreement">Case and Agreement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=22" title="Edit section: Case and Agreement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Tiriyó belongs to the Cariban language family, whose <a href="/wiki/Syntax" title="Syntax">syntax</a> is the least understood out of all its grammatical aspects. The <a href="/wiki/Grammatical_case" title="Grammatical case">case marking patterns</a> of Tiriyó are no exception to this, as they vary considerably and “almost every possible combination of participants is instantiated in some construction”—the best way to describe the language is thus to say that Tiriyo is a complicated ‘split-participant’ system.<sup id="cite_ref-Meira_3-25" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Ergative_Patterns">Ergative Patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=23" title="Edit section: Ergative Patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Ergative_case" title="Ergative case">Ergative patterns</a>, where the subject of an intransitive sentence and the object of a transitive sentence are marked in the same way, can be observed in certain cases: namely, in remote past clauses and ‘potential participant’ nominalizations. When the remote past form of a verb is used, the subject of a transitive clause is marked with the postposition _:ja; the subjects of intransitive clauses and objects of transitive sentences are both unmarked.<sup id="cite_ref-Meira_3-26" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> The first example below shows the marking of the transitive subject and the second shows the lack of marking of an intransitive subject:
+</p>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>kaikui</td>
+<td>i_jomi</td>
+<td>t-ɛta-e</td>
+<td>meri_ja
+</td></tr>
+<tr>
+<td></td>
+<td>Jaguar</td>
+<td>3-voice:Pos</td>
+<td>Rm.Pst-hear-Rm.Pst</td>
+<td>squirrel.sp_Agt
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">‘The squirrel heard the jaguar’s voice.’
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>t-eetainka-e</td>
+<td>pai
+</td></tr>
+<tr>
+<td></td>
+<td>Rm.Pst:S<sub>A</sub>-run-Rm.Pst</td>
+<td>tapir
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'The tapir ran (away).'
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Nominative_Patterns">Nominative Patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=24" title="Edit section: Nominative Patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Nominative_case" title="Nominative case">Nominative patterns</a> are also found throughout the language; notable examples are object-verb order sentences when the transitive subject or object are in third person, negative, supine, and habitual past form phrases. In all the above, the subjects of transitive and intransitive sentences pattern together, while the object of a transitive sentence patterns differently.<sup id="cite_ref-Meira_3-27" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>kaikui</td>
+<td>in-eta-ewa_w-ei</td>
+<td>(wɨ)
+</td></tr>
+<tr>
+<td></td>
+<td>Jaguar</td>
+<td>3Neg-hear-Neg_1S<sub>A</sub>-Cop:Prs.Prf</td>
+<td>1
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="3">‘I haven't heard the jaguar's voice.’
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>pahko</td>
+<td>eta-e</td>
+<td>wɨ
+</td></tr>
+<tr>
+<td></td>
+<td>1:father</td>
+<td>hear-Hab</td>
+<td>1
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="3">‘I used to listen to my father.’
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Other_Patterns">Other Patterns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=25" title="Edit section: Other Patterns">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>According to Sergio Meira, two other forms of case agreement exist in the language. ‘Split-S systems’, where the subjects of intransitive verbs are sometimes marked the same way as the subjects of transitive ones, but sometimes are marked with objects instead, exist. Tripartite constructions, where subjects of transitive sentences, subjects of intransitive sentences, and objects are all marked differently, also exist in Tiriyó. Certain tenses even have more than one pattern at a time; one hypothesis to explain these variations is that the language’s case marking patterns are “fossil remnants of older constructions”.<sup id="cite_ref-Meira_3-28" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> In other words, the different constructions within each pattern are linked because of the history of the language, not because of their meaning.
+</p>
+<h3><span class="mw-headline" id="Tense">Tense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=26" title="Edit section: Tense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Verbs in Tiriyó distinguish between factual and non-factual <a href="/wiki/Grammatical_mood" title="Grammatical mood">moods</a>. The non-factual mood contains hypotheticals, incredulatives, and admonitives. The factual mood contains past, present, and future events, but does not imply that the speaker is necessarily certain that an event will occur or has occurred.<sup id="cite_ref-Meira_3-29" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> The tenses of Tiriyó, past; present; and future, have both <a href="/wiki/Perfect_(grammar)" title="Perfect (grammar)">perfect</a> and <a href="/wiki/Imperfect" title="Imperfect">imperfect</a> forms. Non-past tenses (present and future) distinguish between certainty and doubt on the part of the speaker.
+</p>
+<h4><span class="mw-headline" id="Past">Past</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=27" title="Edit section: Past">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The past perfective (-ne) is used to describe past events but does not convey that the events are necessarily relevant to the present. With an adverb, it carries the meaning of referring to a distant past.<sup id="cite_ref-Meira_3-30" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+
+<tbody><tr>
+<td>&#160;&#160;&#160;</td>
+<td>tɛpɛpurunpɛpo</td>
+<td>janɨhtane
+</td></tr>
+<tr>
+<td></td>
+<td>Tɛpɛpuru-Pst_Loc</td>
+<td>1SO-grow-Pst.Prf
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">‘I grew up in the (no longer extant) village of Tɛpɛpuru.’
+</td></tr></tbody></table><p>The past imperfective (-(ja)kɛ(ne)), on the other hand, describes an unbounded event in the past, usually a habitual action. It is increasingly rare. Meira found in 1999 that many speakers characterize it as “old people’s language”, and do not believe it is commonly used among younger speakers.<sup id="cite_ref-Meira_3-31" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> Instead, younger speakers express this state with the habitual past.
+</p><table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+<tbody><tr>
+<td>
+</td>
+<th colspan="4">Past Imperfective:
+</th></tr>
+<tr>
+<td>&#160;&#160;&#160;</td>
+<td>irɛmao</td>
+<td>jehkehpo</td>
+<td>wahkɛn</td>
+<td>kure
+</td></tr>
+<tr>
+<td></td>
+<td>3InAna_Temp</td>
+<td>1-hammock:Pos_Loc</td>
+<td>1SA-Cop-Pst.Ipf</td>
+<td>well
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="4">‘I stayed/used to stay a long time in my hammock, feeling well.’
+</td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="6" style="border-collapse:collapse">
+<tbody><tr>
+<td>
+</td>
+<th colspan="5">Habitual Past:
+</th></tr>
+<tr>
+<td>&#160;&#160;&#160;</td>
+<td>muremenkɛrɛ</td>
+<td>wɨ</td>
+<td>ahtao</td>
+<td>kutuma</td>
+<td>emaminae
+</td></tr>
+<tr>
+<td></td>
+<td>child_Attr_Still</td>
+<td>1</td>
+<td>when</td>
+<td>a.lot</td>
+<td>play-Pst.Hab 1
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="5">‘When I was still a child, I used to play a lot.’
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Present">Present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=28" title="Edit section: Present">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The present imperfective (-(ja)-e, -(ja)-(nɛ)) is used to express ongoing progressive, habitual, or typical actions, as well as “general truths”. It can also be used to talk about the immediate future, although this is not its most common use.<sup id="cite_ref-Meira_3-32" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<th>
+</th>
+<th colspan="2">Ongoing
+</th>
+<th>
+</th>
+<th colspan="3">Habitual
+</th></tr>
+<tr>
+<td>
+</td>
+<td>tunuku
+</td>
+<td>wɨkaajae
+</td>
+<td>
+</td>
+<td>wei
+</td>
+<td>wararɛ
+</td>
+<td>jurakanae
+</td></tr>
+<tr>
+<td>
+</td>
+<td>basket
+</td>
+<td>1A-weave-Prs.Ipf-Cty
+</td>
+<td>
+</td>
+<td>day
+</td>
+<td>every
+</td>
+<td>1A-stroll:Prs.Ipf-Cty
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'I am making a basket'
+</td>
+<td>
+</td>
+<td colspan="3">'I go walking around every day'
+</td></tr></tbody></table>
+<table>
+<tbody><tr>
+<th>
+</th>
+<th>Immediate Future:
+</th></tr>
+<tr>
+<td>
+</td>
+<td>kokoronmae
+</td></tr>
+<tr>
+<td>
+</td>
+<td>12AO-help:Prs.Ipf-Cty
+</td></tr>
+<tr>
+<td>
+</td>
+<td>'I am going to help you
+</td></tr></tbody></table>
+<p>The present perfective (ø) expresses an action that has been completed very recently, and is still relevant to the present.<sup id="cite_ref-Meira_3-33" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> For example,
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>anjapa
+</td>
+<td>nepɨ
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1+3_Rpt
+</td>
+<td>3SA-come:Prs.Prf
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'We have just come back'
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="Future">Future</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=29" title="Edit section: Future">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Perfect and imperfect in the future are used to distinguish actions that have a limited duration and actions that are not limited. The future imperfect (-ta-e, -ta-(ne)) is the more common form, and is used to express a potential future action that does not have durational limits.<sup id="cite_ref-Meira_3-34" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>konopo
+</td>
+<td>nehtan
+</td>
+<td>kokoro
+</td></tr>
+<tr>
+<td>
+</td>
+<td>rain
+</td>
+<td>3SA-come-Fut.Ipf-Dbt
+</td>
+<td>tomorrow
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="3">'It will rain tomorrow'
+</td></tr></tbody></table>
+<p>The perfect future tense (-(ja)-kɛ(mɨ)) emphasizes that a future event will only last for a short amount of time, and implies that afterwards another event will take place.<sup id="cite_ref-Meira_3-35" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>ɛturɛɛpa
+</td>
+<td>wɨtɛɛkɛn
+</td></tr>
+<tr>
+<td>
+</td>
+<td>talk-Prp_Rpt
+</td>
+<td>1SA-go-Fut.Prf
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'I will go and talk (to him) for a minute (, and then I will come back)”'
+</td></tr></tbody></table>
+<p>Future perfective is not the only way of representing temporary future events. Speakers of Tiriyó may also use the present imperfective, along with a particle _pitɛ (for a second).<sup id="cite_ref-Meira_3-36" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<th>
+</th>
+<th colspan="2">Future Perfective
+</th>
+<th>
+</th>
+<th colspan="2">Present Imperfective
+</th></tr>
+<tr>
+<td>
+</td>
+<td>wɨtɛɛkɛn
+</td>
+<td>akɛɛrɛ
+</td>
+<td>
+</td>
+<td>wɨtɛepitɛ
+</td>
+<td>akɛɛrɛ
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1SA-go-Fut.Prf
+</td>
+<td>3:with
+</td>
+<td>
+</td>
+<td>1SA-go-:Prs.Ipf-Cty_A.little
+</td>
+<td>3:with
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="5">'I will go with him for a little while (, and then I will do something else)'
+</td></tr></tbody></table>
+<p>These phrases have the same functional meaning, and both are acceptable; however using the present imperfective with the particle _pitɛ is more common. This construction is potentially replacing the future perfective.<sup id="cite_ref-Meira_3-37" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Certainty_and_Doubt">Certainty and Doubt</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=30" title="Edit section: Certainty and Doubt">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In present and future tenses, Tiriyó distinguish between things the speaker is certain of and things they are not. This distinction, represented as suffixes –e for certainty and –ne or –nɛ for doubt, is not present in collective forms.<sup id="cite_ref-Meira_3-38" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup> To use the certain form, a speaker must have absolute confidence in an event. For example, if there are rainclouds in the sky visible to both speaker and addressee and the speaker would like to say that it will rain, they must use the doubt form.<sup id="cite_ref-Meira_3-39" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p>
+<table>
+<tbody><tr>
+<td>
+</td>
+<td>nehtan
+</td>
+<td>konopo
+</td></tr>
+<tr>
+<td>
+</td>
+<td>3AO-come-fut-1pf-Dbt
+</td>
+<td>rain
+</td></tr>
+<tr>
+<td>
+</td>
+<td colspan="2">'The rain will come'
+</td></tr></tbody></table>
+<p>It is important to note that the certainty and doubt forms do not express the source of the information; that is to say, they are not evidentials. They communicate how confident a speaker is in their assessment of a situation.<sup id="cite_ref-Meira_3-40" class="reference"><a href="#cite_note-Meira-3">&#91;3&#93;</a></sup>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit&amp;section=31" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/tri/">Tiriyó</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/trio1238">"Trio"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Trio&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Ftrio1238&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Meira-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Meira_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Meira_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Meira_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Meira_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Meira_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Meira_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Meira_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Meira_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Meira_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Meira_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Meira_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Meira_3-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Meira_3-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Meira_3-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Meira_3-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Meira_3-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Meira_3-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-Meira_3-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-Meira_3-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-Meira_3-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-Meira_3-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-Meira_3-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-Meira_3-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-Meira_3-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-Meira_3-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-Meira_3-25"><sup><i><b>z</b></i></sup></a> <a href="#cite_ref-Meira_3-26"><sup><i><b>aa</b></i></sup></a> <a href="#cite_ref-Meira_3-27"><sup><i><b>ab</b></i></sup></a> <a href="#cite_ref-Meira_3-28"><sup><i><b>ac</b></i></sup></a> <a href="#cite_ref-Meira_3-29"><sup><i><b>ad</b></i></sup></a> <a href="#cite_ref-Meira_3-30"><sup><i><b>ae</b></i></sup></a> <a href="#cite_ref-Meira_3-31"><sup><i><b>af</b></i></sup></a> <a href="#cite_ref-Meira_3-32"><sup><i><b>ag</b></i></sup></a> <a href="#cite_ref-Meira_3-33"><sup><i><b>ah</b></i></sup></a> <a href="#cite_ref-Meira_3-34"><sup><i><b>ai</b></i></sup></a> <a href="#cite_ref-Meira_3-35"><sup><i><b>aj</b></i></sup></a> <a href="#cite_ref-Meira_3-36"><sup><i><b>ak</b></i></sup></a> <a href="#cite_ref-Meira_3-37"><sup><i><b>al</b></i></sup></a> <a href="#cite_ref-Meira_3-38"><sup><i><b>am</b></i></sup></a> <a href="#cite_ref-Meira_3-39"><sup><i><b>an</b></i></sup></a> <a href="#cite_ref-Meira_3-40"><sup><i><b>ao</b></i></sup></a></span> <span class="reference-text"><cite class="citation thesis">Meira, S. (1999). <a rel="nofollow" class="external text" href="http://etnolinguistica.wdfiles.com/local--files/tese%3Ameira-1999/meira_1999_tiriyo.pdf"><i>A Grammar of Tiriyo</i></a> <span class="cs1-format">(PDF)</span> (Thesis).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=A+Grammar+of+Tiriyo&amp;rft.date=1999&amp;rft.aulast=Meira&amp;rft.aufirst=S.&amp;rft_id=http%3A%2F%2Fetnolinguistica.wdfiles.com%2Flocal--files%2Ftese%253Ameira-1999%2Fmeira_1999_tiriyo.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Carlin-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Carlin_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Carlin_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Carlin_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Carlin_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Carlin_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Carlin_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Carlin, Eithne B. (2004). <i>A Grammar of Trio, a Cariban language of Suriname</i>. Frankfurt am Main, New York, etc.: Peter Lang. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-631-52900-7" title="Special:BookSources/3-631-52900-7"><bdi>3-631-52900-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Grammar+of+Trio%2C+a+Cariban+language+of+Suriname&amp;rft.place=Frankfurt+am+Main%2C+New+York%2C+etc.&amp;rft.pub=Peter+Lang&amp;rft.date=2004&amp;rft.isbn=3-631-52900-7&amp;rft.aulast=Carlin&amp;rft.aufirst=Eithne+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Migliazza, E. "Notas fonologicas da lingua Tiriyo". <i>Boletim do Museu Paraense Emilio Goeldi, Antropologia</i>. <b>29</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boletim+do+Museu+Paraense+Emilio+Goeldi%2C+Antropologia&amp;rft.atitle=Notas+fonologicas+da+lingua+Tiriyo&amp;rft.volume=29&amp;rft.aulast=Migliazza&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jones, M. (1972). "Trio Phonology". <i>Languages of the Guianas</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Languages+of+the+Guianas&amp;rft.atitle=Trio+Phonology&amp;rft.date=1972&amp;rft.aulast=Jones&amp;rft.aufirst=M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wallace, Ruth (1982). "Notas verbais da língua Tiriyó (Karíb)". <i>Boletim do Museu Paraense Emílio Goeldi</i>. <b>1</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Boletim+do+Museu+Paraense+Em%C3%ADlio+Goeldi&amp;rft.atitle=Notas+verbais+da+l%C3%ADngua+Tiriy%C3%B3+%28Kar%C3%ADb%29&amp;rft.volume=1&amp;rft.date=1982&amp;rft.aulast=Wallace&amp;rft.aufirst=Ruth&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.universiteitleiden.nl/en/staffmembers/eithne-carlin/publications">"Eithne Carlin"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eithne+Carlin&amp;rft_id=https%3A%2F%2Fwww.universiteitleiden.nl%2Fen%2Fstaffmembers%2Feithne-carlin%2Fpublications&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:2-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-:2_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:2_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://corpus1.mpi.nl/ds/asv/?3&amp;openpath=33821&amp;token=Tiriy%C3%B3#">"The Language Archive"</a>. <i>Max Planck Institute for Psycholinguistics</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Max+Planck+Institute+for+Psycholinguistics&amp;rft.atitle=The+Language+Archive&amp;rft_id=https%3A%2F%2Fcorpus1.mpi.nl%2Fds%2Fasv%2F%3F3%26openpath%3D33821%26token%3DTiriy%25C3%25B3%23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<ul><li><cite class="citation book">Carlin, Eithne (2004). <a rel="nofollow" class="external text" href="http://www.eithnecarlin.nl/publications/grammar-trio-cariban-language-suriname"><i>A Grammar of Trio: A Cariban Language of Suriname</i></a>. Frankfurt am Main: Peter Lang (Europäischer Verlag der Wissenschaften).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Grammar+of+Trio%3A+A+Cariban+Language+of+Suriname&amp;rft.place=Frankfurt+am+Main&amp;rft.pub=Peter+Lang+%28Europ%C3%A4ischer+Verlag+der+Wissenschaften%29&amp;rft.date=2004&amp;rft.aulast=Carlin&amp;rft.aufirst=Eithne&amp;rft_id=http%3A%2F%2Fwww.eithnecarlin.nl%2Fpublications%2Fgrammar-trio-cariban-language-suriname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Gildea, Spike (1995). "A comparative description of syllable reduction in the Cariban language family". <i>International Journal of American Linguistics</i>. <b>61</b>: 62–102. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1086%2F466245">10.1086/466245</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=A+comparative+description+of+syllable+reduction+in+the+Cariban+language+family&amp;rft.volume=61&amp;rft.pages=62-102&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1086%2F466245&amp;rft.aulast=Gildea&amp;rft.aufirst=Spike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Hayes, Bruce (1995). <i>Metrical stress theory</i>. Chicago: University of Chicago Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Metrical+stress+theory&amp;rft.place=Chicago&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1995&amp;rft.aulast=Hayes&amp;rft.aufirst=Bruce&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Meira, Sérgio (1998). "Rhythmic stress in Tiriyó (Cariban)". <i>International Journal of American Linguistics</i>. <b>64</b> (4): 352–378. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1086%2F466366">10.1086/466366</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=Rhythmic+stress+in+Tiriy%C3%B3+%28Cariban%29&amp;rft.volume=64&amp;rft.issue=4&amp;rft.pages=352-378&amp;rft.date=1998&amp;rft_id=info%3Adoi%2F10.1086%2F466366&amp;rft.aulast=Meira&amp;rft.aufirst=S%C3%A9rgio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Meira, Sérgio (2000). <i>A reconstruction of Proto-Taranoan: Phonology and Morphology</i>. Munich: LINCOM Europa.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+reconstruction+of+Proto-Taranoan%3A+Phonology+and+Morphology&amp;rft.place=Munich&amp;rft.pub=LINCOM+Europa&amp;rft.date=2000&amp;rft.aulast=Meira&amp;rft.aufirst=S%C3%A9rgio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATiriy%C3%B3+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a class="mw-selflink selflink">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Cariban_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cariban_languages" title="Template:Cariban languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cariban_languages" title="Template talk:Cariban languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cariban_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cariban_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parukotoan</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
+<li><i><a href="/wiki/Sikiana_language" title="Sikiana language">Katxúyana</a></i></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pekodian</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arara</a></li>
+<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairí</a>
+<ul><li><small><a href="/wiki/Kuikuro_language" title="Kuikuro language">Kuikuro</a></small></li></ul></li>
+<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpéng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venezuelan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pemóng–Panare</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Makushi</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemón</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mapoyo–Tamanaku</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cumanagota_language" class="mw-redirect" title="Cumanagota language">Kumaná</a></i></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yawarana</a></li>
+<li><i><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guianan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Kari'nja</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Taranoan" scope="row" class="navbox-group" style="width:1%">Taranoan</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyo</a></li>
+<li><a href="/wiki/Carijona_language" title="Carijona language">Karihona</a></li>
+<li><a class="mw-selflink selflink">Tiriyo</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
+<li><a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japréria</a></li>
+<li><a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Waimirí Atroarí</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20190926005051
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.452 seconds
+Real time usage: 0.584 seconds
+Preprocessor visited node count: 3326/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66680/2097152 bytes
+Template argument size: 2149/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 39314/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 4.48 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  467.403      1 -total
+ 53.63%  250.668      1 Template:Infobox_language
+ 45.77%  213.910      1 Template:Infobox
+ 22.69%  106.061      5 Template:Cite_book
+ 19.19%   89.704      1 Template:Glottolog
+ 11.98%   55.985      1 Template:Reflist
+  9.50%   44.384      5 Template:Cite_journal
+  8.14%   38.051      4 Template:Navbox
+  6.05%   28.296      1 Template:Languages_of_Suriname
+  5.62%   26.256      1 Template:Distinguish
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8104920-0!canonical and timestamp 20190926005050 and revision id 890200357
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tiriyó_language&amp;oldid=890200357">https://en.wikipedia.org/w/index.php?title=Tiriyó_language&amp;oldid=890200357</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Languages_of_Brazil" title="Category:Languages of Brazil">Languages of Brazil</a></li><li><a href="/wiki/Category:Cariban_languages" title="Category:Cariban languages">Cariban languages</a></li><li><a href="/wiki/Category:Tiriy%C3%B3_people" title="Category:Tiriyó people">Tiriyó people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tiriy%C3%B3+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Tiriy%C3%B3+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Tiriy%C3%B3_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Tiriy%C3%B3_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Tiriy%C3%B3_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Tiriy%C3%B3_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Tiriy%C3%B3_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;oldid=890200357" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56885" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tiriy%C3%B3_language&amp;id=890200357" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tiriy%C3%B3+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tiriy%C3%B3+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Tiriy%C3%B3_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Tiriyoeg" title="Tiriyoeg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Tiriyo" title="Tiriyo – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Trio_keel" title="Trio keel – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Tiriy%C3%B3" title="Tiriyó – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/T%C3%ADr%C3%ADj%C3%B3" title="Tíríjó – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tiriy%C3%B3" title="Tiriyó – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Trio_(volk)" title="Trio (volk) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_trio" title="Lenga trio – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tiri%C3%B3s" title="Tiriós – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D1%80%D0%B8%D0%B9%D0%BE_(%D1%8F%D0%B7%D1%8B%D0%BA)" title="Тирийо (язык) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56885#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 March 2019, at 20:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Tiriy%C3%B3_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.452","walltime":"0.584","ppvisitednodes":{"value":3326,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66680,"limit":2097152},"templateargumentsize":{"value":2149,"limit":2097152},"expansiondepth":{"value":22,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":39314,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  467.403      1 -total"," 53.63%  250.668      1 Template:Infobox_language"," 45.77%  213.910      1 Template:Infobox"," 22.69%  106.061      5 Template:Cite_book"," 19.19%   89.704      1 Template:Glottolog"," 11.98%   55.985      1 Template:Reflist","  9.50%   44.384      5 Template:Cite_journal","  8.14%   38.051      4 Template:Navbox","  6.05%   28.296      1 Template:Languages_of_Suriname","  5.62%   26.256      1 Template:Distinguish"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":4698435,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190926005051","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Tiriy\u00f3 language","url":"https:\/\/en.wikipedia.org\/wiki\/Tiriy%C3%B3_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q56885","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q56885","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-24T22:10:50Z","dateModified":"2019-03-30T20:23:30Z","headline":"language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":699,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sikiana language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sikiana_language","wgTitle":"Sikiana language","wgCurRevisionId":881156507,"wgRevisionId":881156507,"wgArticleId":9678983,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","Articles with short description","Language articles with old Ethnologue 18 speaker data","All stub articles","Languages of Brazil","Languages of Suriname","Languages of Venezuela","Cariban languages","Indigenous languages of the Americas stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sikiana_language","wgRelevantArticleId":9678983,"wgRequestId":"XYpF3QpAADoAAGoSfP4AAAAE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3443734","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sikiana_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sikiana_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sikiana_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sikiana_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sikiana_language rootpage-Sikiana_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sikiana language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Carib language</div>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color:  #c0dde6;">Sikiana</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color:  #c0dde6;"><i>Kaxuiâna (Katxúyana)</i></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/Brazil" title="Brazil">Brazil</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Sikiana_people" class="mw-redirect" title="Sikiana people">Sikiana people</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">(33 in Brazil cited 1986)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup><br />15 in Suriname (2001)</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+Parukotoan<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Sikiana–Salumá?<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Sikiana</b></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color:  #c0dde6;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;">Either:<br /><code><a href="https://iso639-3.sil.org/code/sik" class="extiw" title="iso639-3:sik">sik</a></code>&#160;–&#160;Shikuyana (Sikiana)<br /><code><a href="https://iso639-3.sil.org/code/kbb" class="extiw" title="iso639-3:kbb">kbb</a></code>&#160;–&#160;Warikyana (Kaxuiâna)</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/siki1239">siki1239</a></code>&#160; <span class="nowrap">Sikiana</span><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup><br /><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/kaxu1237">kaxu1237</a></code>&#160; <span class="nowrap">Kaxuiâna</span><sup id="cite_ref-Glottolog2_3-0" class="reference"><a href="#cite_note-Glottolog2-3">&#91;3&#93;</a></sup><br /><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/paux1235">paux1235</a></code>&#160; <span class="nowrap">Pauxi</span><sup id="cite_ref-Glottolog3_4-0" class="reference"><a href="#cite_note-Glottolog3-4">&#91;4&#93;</a></sup></td></tr></tbody></table>
+<p><b>Sikiana</b>, or <b>Kashuyana</b>, is a <a href="/wiki/Carib_languages" class="mw-redirect" title="Carib languages">Carib</a> language that was spoken by 33 people in <a href="/wiki/Brazil" title="Brazil">Brazil</a> and 15 people in <a href="/wiki/Suriname" title="Suriname">Suriname</a>.  It was spoken in <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a> at one time and is now probably extinct there. The Warikyana dialect became extinct around 2000, and the language frequently goes by the name of the surviving dialect, Sikiana.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sikiana_language&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/sik/">Shikuyana (Sikiana)</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)<br /><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/kbb/">Warikyana (Kaxuiâna)</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/siki1239">"Sikiana"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Sikiana&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fsiki1239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASikiana+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Glottolog2-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog2_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/kaxu1237">"Kaxuiâna"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Kaxui%C3%A2na&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fkaxu1237&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASikiana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Glottolog3-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog3_4-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/paux1235">"Pauxi"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Pauxi&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fpaux1235&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASikiana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Brazil" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Brazil" title="Template:Languages of Brazil"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Brazil" title="Template talk:Languages of Brazil"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Brazil&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Brazil" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></span> <a href="/wiki/Languages_of_Brazil" title="Languages of Brazil">Languages of Brazil</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilian_Portuguese" title="Brazilian Portuguese">Portuguese</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilian_German" title="Brazilian German">German</a>
+<ul><li><a href="/wiki/East_Pomeranian_dialect" title="East Pomeranian dialect">Pomeranian</a></li>
+<li><a href="/wiki/Riograndenser_Hunsr%C3%BCckisch_German" title="Riograndenser Hunsrückisch German">Riograndenser Hunsrückisch</a></li></ul></li>
+<li><a href="/wiki/Italian_language" title="Italian language">Italian</a>
+<ul><li><a href="/wiki/Talian_dialect" title="Talian dialect">Talian</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous<br />languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atorada_language" title="Atorada language">Atorada</a></li>
+<li><a href="/wiki/Barawana_language" title="Barawana language">Barawana</a></li>
+<li><a href="/wiki/Mapidian_language" class="mw-redirect" title="Mapidian language">Mapidian</a></li>
+<li><a href="/wiki/Mehinaku_language" title="Mehinaku language">Mehinaku</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
+<li><a href="/wiki/Paresi_language" title="Paresi language">Paresi</a></li>
+<li><a href="/wiki/Ter%C3%AAna_language" title="Terêna language">Terêna</a></li>
+<li><a href="/wiki/Wapishana_language" title="Wapishana language">Wapishana</a></li>
+<li><a href="/wiki/Warekena_language" title="Warekena language">Warekena</a></li>
+<li><a href="/wiki/Waur%C3%A1_language" title="Waurá language">Waurá</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawan_languages" title="Arawan languages">Arawan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Deni_language" title="Deni language">Deni</a></li>
+<li><a href="/wiki/Jamamad%C3%AD_language" class="mw-redirect" title="Jamamadí language">Jamamadí</a></li>
+<li><a href="/wiki/Kulina_language" title="Kulina language">Kulina</a></li>
+<li><a href="/wiki/Paumar%C3%AD_language" title="Paumarí language">Paumarí</a></li>
+<li><a href="/wiki/Zuruah%C3%A1_language" title="Zuruahá language">Zuruahá</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amonap_language" title="Amonap language">Amonap</a></li>
+<li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
+<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairi</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
+<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpeng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Macushi</a></li>
+<li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Pará Arára</a></li>
+<li><a href="/wiki/Salum%C3%A1_language" title="Salumá language">Salumá</a></li>
+<li><a class="mw-selflink selflink">Sikiana</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Panoan_languages" title="Panoan languages">Panoan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amawaka_language" title="Amawaka language">Amawaka</a></li>
+<li><a href="/wiki/Kashinawa_language" title="Kashinawa language">Kashinawa</a></li>
+<li><a href="/wiki/Shipibo_language" title="Shipibo language">Shipibo</a></li>
+<li><a href="/wiki/Yaminawa_language" title="Yaminawa language">Yaminawa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Macro-J%C3%AA_languages" title="Macro-Jê languages">Macro-Jê</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apinay%C3%A9_language" title="Apinayé language">Apinayé</a></li>
+<li><a href="/wiki/Bororo_language" title="Bororo language">Bororo</a></li>
+<li><a href="/wiki/Kaingang_language" title="Kaingang language">Kaingang</a></li>
+<li><a href="/wiki/Karaj%C3%A1_language" title="Karajá language">Karajá</a></li>
+<li><a href="/wiki/Kayapo_language" title="Kayapo language">Kayapo</a></li>
+<li><a href="/wiki/Krenak_language" title="Krenak language">Krenak</a></li>
+<li><a href="/wiki/Ofay%C3%A9_language" title="Ofayé language">Ofayé</a></li>
+<li><a href="/wiki/Panara_language" class="mw-redirect" title="Panara language">Panara</a></li>
+<li><a href="/wiki/Rikbaktsa_language" title="Rikbaktsa language">Rikbaktsa</a></li>
+<li><a href="/wiki/Suy%C3%A1_language" title="Suyá language">Suyá</a></li>
+<li><a href="/wiki/Timbira_language" title="Timbira language">Timbira</a></li>
+<li><a href="/wiki/Xavante_language" title="Xavante language">Xavante</a></li>
+<li><a href="/wiki/Xer%C3%A9nte_language" title="Xerénte language">Xerénte</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nadahup_languages" title="Nadahup languages">Nadahup</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/D%C3%A2w_language" title="Dâw language">Dâw</a></li>
+<li><a href="/wiki/Hup_language" title="Hup language">Hup</a></li>
+<li><a href="/wiki/Kakwa_language" title="Kakwa language">Kakwa</a></li>
+<li><a href="/wiki/Nad%C3%ABb_language" title="Nadëb language">Nadëb</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tupian_languages" title="Tupian languages">Tupian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akw%C3%A1wa_language" title="Akwáwa language">Akwáwa</a></li>
+<li><a href="/wiki/Jur%C3%BAna_language" class="mw-redirect" title="Jurúna language">Jurúna</a></li>
+<li><a href="/wiki/Kagwahiva_language" title="Kagwahiva language">Kagwahiva</a></li>
+<li><a href="/wiki/Kaiw%C3%A1_language" title="Kaiwá language">Kaiwá</a></li>
+<li><a href="/wiki/Munduruku_language" title="Munduruku language">Munduruku</a></li>
+<li><a href="/wiki/Nheengatu_language" class="mw-redirect" title="Nheengatu language">Nheengatu</a></li>
+<li><a href="/wiki/Omagua_language" title="Omagua language">Omagua</a></li>
+<li><a href="/wiki/Tapirap%C3%A9_language" title="Tapirapé language">Tapirapé</a></li>
+<li><a href="/wiki/Tenetehara_language" title="Tenetehara language">Tenetehara</a></li>
+<li><a href="/wiki/Xeta_language" title="Xeta language">Xeta</a></li>
+<li><a href="/wiki/Xipaya_language" title="Xipaya language">Xipaya</a></li>
+<li><a href="/wiki/Zo%27%C3%A9_language" title="Zo&#39;é language">Zo'é</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aikan%C3%A3_language" title="Aikanã language">Aikanã</a></li>
+<li><a href="/wiki/Arutani_language" title="Arutani language">Arutani</a></li>
+<li><a href="/wiki/Cubeo_language" title="Cubeo language">Cubeo</a></li>
+<li><a href="/wiki/Ewarhuyana_language" title="Ewarhuyana language">Ewarhuyana</a></li>
+<li><a href="/wiki/Guat%C3%B3_language" title="Guató language">Guató</a></li>
+<li><a href="/wiki/Irantxe_language" title="Irantxe language">Irantxe</a></li>
+<li><a href="/wiki/Kadiweu_language" title="Kadiweu language">Kadiwéu</a></li>
+<li><a href="/wiki/Kanamar%C3%AD_language" title="Kanamarí language">Kanamarí</a></li>
+<li><a href="/wiki/Katawixi_language" title="Katawixi language">Katawixi</a></li>
+<li><a href="/wiki/Kwaza_language" title="Kwaza language">Kwaza</a></li>
+<li><a href="/wiki/Mamaind%C3%AA_language" title="Mamaindê language">Mamaindê</a></li>
+<li><a href="/wiki/Nambikwara_language" title="Nambikwara language">Nambikwara</a></li>
+<li><a href="/wiki/Ninam_language" title="Ninam language">Ninam</a></li>
+<li><a href="/wiki/Oro_Win_language" title="Oro Win language">Oro Win</a></li>
+<li><a href="/wiki/Pirah%C3%A3_language" title="Pirahã language">Pirahã</a></li>
+<li><a href="/wiki/Ticuna_language" title="Ticuna language">Ticuna</a></li>
+<li><a href="/wiki/Tuyuca_language" title="Tuyuca language">Tuyuca</a></li>
+<li><a href="/wiki/Wanano_language" title="Wanano language">Wanano</a></li>
+<li><a href="/wiki/Wari%E2%80%99_language" title="Wari’ language">Wari’</a></li>
+<li><a href="/wiki/Xukuru_language" title="Xukuru language">Xukuru</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Interlanguages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cafund%C3%B3_language" title="Cafundó language">Cafundó</a></li>
+<li><a href="/wiki/Lanc-Patu%C3%A1_creole" class="mw-redirect" title="Lanc-Patuá creole">Lanc-Patuá</a></li>
+<li><a href="/wiki/Macarr%C3%B4nico" title="Macarrônico">Macarrônico</a></li>
+<li><a href="/wiki/Uruguayan_Portuguese" title="Uruguayan Portuguese">Portunhol fronteiriço</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilian_Sign_Language" title="Brazilian Sign Language">Brazilian Sign</a></li>
+<li><a href="/wiki/Ka%27apor_Sign_Language" title="Ka&#39;apor Sign Language">Ka'apor Sign</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a class="mw-selflink selflink">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Venezuela" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Venezuela" title="Template:Languages of Venezuela"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Venezuela" title="Template talk:Languages of Venezuela"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Venezuela&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Venezuela" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Venezuela" title="Languages of Venezuela">Languages</a> of <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Venezuelan_Spanish" title="Venezuelan Spanish">Spanish</a>
+<ul><li><a href="/wiki/Llanero_Spanish" title="Llanero Spanish">Llanero</a></li>
+<li><a href="/wiki/Maracucho_Spanish" title="Maracucho Spanish">Maracucho</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous<br />languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Baniwa_of_I%C3%A7ana" class="mw-redirect" title="Baniwa of Içana">Baniwa</a></li>
+<li><a href="/wiki/Caquetio_language" title="Caquetio language">Caquetio</a></li>
+<li><a href="/wiki/Mandawaca_language" title="Mandawaca language">Mandawaca</a></li>
+<li><a href="/wiki/Paraujano_language" title="Paraujano language">Paraujano</a></li>
+<li><a href="/wiki/Piapoco_language" title="Piapoco language">Piapoco</a></li>
+<li><a href="/wiki/Warekena_language" title="Warekena language">Warekena</a></li>
+<li><a href="/wiki/Wayuu_language" title="Wayuu language">Wayuu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arutani-Sape_languages" class="mw-redirect" title="Arutani-Sape languages">Arutani-Sape</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arutani_language" title="Arutani language">Arutani</a></li>
+<li><a href="/wiki/Sap%C3%A9_language" title="Sapé language">Sapé</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Japreria_language" title="Japreria language">Japreria</a></li>
+<li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Macushi</a></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yabarana</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemon</a></li>
+<li><a class="mw-selflink selflink">Sikiana</a></li>
+<li><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chibchan_languages" title="Chibchan languages">Chibchan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bar%C3%AD_language" title="Barí language">Barí</a></li>
+<li><a href="/wiki/Uwa_language" title="Uwa language">Uwa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Guahiban_languages" class="mw-redirect" title="Guahiban languages">Guahiban</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cuiba_language" title="Cuiba language">Cuiba</a></li>
+<li><a href="/wiki/Guahibo_language" title="Guahibo language">Guahibo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jirajaran_languages" title="Jirajaran languages">Jirajaran</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ayoman_language" title="Ayoman language">Ayoman</a></li>
+<li><a href="/wiki/Gayon_language" title="Gayon language">Gayon</a></li>
+<li><a href="/wiki/Jirajara_language" title="Jirajara language">Jirajara</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Timotean_languages" title="Timotean languages">Timotean</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mucuch%C3%AD_language" title="Mucuchí language">Mucuchí</a></li>
+<li><a href="/wiki/Timote_language" title="Timote language">Timote</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Betoi_language" title="Betoi language">Betoi</a></li>
+<li><a href="/wiki/Maku-Auari_language" title="Maku-Auari language">Maku-Auari</a></li>
+<li><a href="/wiki/Nheengatu_language" class="mw-redirect" title="Nheengatu language">Nheengatu</a></li>
+<li><a href="/wiki/Ninam_language" title="Ninam language">Ninam</a></li>
+<li><a href="/wiki/Sanum%C3%A1_language" title="Sanumá language">Sanumá</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Yaruro_language" title="Yaruro language">Yaruro</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-Native<br />languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_language" title="German language">German</a>
+<ul><li><a href="/wiki/Colonia_Tovar_dialect" title="Colonia Tovar dialect">Colonia Tovar</a></li></ul></li>
+<li><a href="/wiki/Italian_language_in_Venezuela" title="Italian language in Venezuela">Italian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Venezuelan_Sign_Language" title="Venezuelan Sign Language">Venezuelan Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Cariban_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cariban_languages" title="Template:Cariban languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cariban_languages" title="Template talk:Cariban languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cariban_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cariban_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parukotoan</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
+<li><i><a class="mw-selflink selflink">Katxúyana</a></i></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pekodian</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arara</a></li>
+<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairí</a>
+<ul><li><small><a href="/wiki/Kuikuro_language" title="Kuikuro language">Kuikuro</a></small></li></ul></li>
+<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpéng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venezuelan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pemóng–Panare</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Makushi</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemón</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mapoyo–Tamanaku</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cumanagota_language" class="mw-redirect" title="Cumanagota language">Kumaná</a></i></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yawarana</a></li>
+<li><i><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guianan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Kari'nja</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Taranoan" scope="row" class="navbox-group" style="width:1%">Taranoan</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyo</a></li>
+<li><a href="/wiki/Carijona_language" title="Carijona language">Karihona</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyo</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
+<li><a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japréria</a></li>
+<li><a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Waimirí Atroarí</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><i>This article related to <a href="/wiki/Indigenous_languages_of_the_Americas" title="Indigenous languages of the Americas">indigenous languages of the Americas</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Sikiana_language&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:IndigenousAmerican-lang-stub" title="Template:IndigenousAmerican-lang-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:IndigenousAmerican-lang-stub" title="Template talk:IndigenousAmerican-lang-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:IndigenousAmerican-lang-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1348
+Cached time: 20190924104641
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.368 seconds
+Real time usage: 0.521 seconds
+Preprocessor visited node count: 2666/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 110119/2097152 bytes
+Template argument size: 1811/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9415/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 3.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  435.272      1 -total
+ 66.65%  290.114      1 Template:Infobox_language
+ 57.18%  248.906      1 Template:Infobox
+ 21.88%   95.239      3 Template:Glottolog
+ 20.91%   91.028      3 Template:Cite_book
+ 15.92%   69.308      8 Template:Navbox
+ 10.99%   47.834      1 Template:Short_description
+ 10.32%   44.923      1 Template:Pagetype
+  7.51%   32.710      3 Template:Main_other
+  7.45%   32.428      1 Template:Infobox_language/ref
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9678983-0!canonical and timestamp 20190924104641 and revision id 881156507
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sikiana_language&amp;oldid=881156507">https://en.wikipedia.org/w/index.php?title=Sikiana_language&amp;oldid=881156507</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Languages_of_Brazil" title="Category:Languages of Brazil">Languages of Brazil</a></li><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Languages_of_Venezuela" title="Category:Languages of Venezuela">Languages of Venezuela</a></li><li><a href="/wiki/Category:Cariban_languages" title="Category:Cariban languages">Cariban languages</a></li><li><a href="/wiki/Category:Indigenous_languages_of_the_Americas_stubs" title="Category:Indigenous languages of the Americas stubs">Indigenous languages of the Americas stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Language_articles_with_old_Ethnologue_18_speaker_data" title="Category:Language articles with old Ethnologue 18 speaker data">Language articles with old Ethnologue 18 speaker data</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sikiana+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sikiana+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sikiana_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sikiana_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sikiana_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sikiana_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sikiana_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sikiana_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sikiana_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sikiana_language&amp;oldid=881156507" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sikiana_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3443734" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sikiana_language&amp;id=881156507" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sikiana+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sikiana+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sikiana_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Sikianeg" title="Sikianeg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sikiana_lingvo" title="Sikiana lingvo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Sikiana_jezik" title="Sikiana jezik – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_sikiana" title="Lenga sikiana – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BA%D0%B8%D0%B0%D0%BD%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA)" title="Сикиана (язык) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Wikang_Sikiana" title="Wikang Sikiana – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3443734#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 January 2019, at 20:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sikiana_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.368","walltime":"0.521","ppvisitednodes":{"value":2666,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":110119,"limit":2097152},"templateargumentsize":{"value":1811,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9415,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  435.272      1 -total"," 66.65%  290.114      1 Template:Infobox_language"," 57.18%  248.906      1 Template:Infobox"," 21.88%   95.239      3 Template:Glottolog"," 20.91%   91.028      3 Template:Cite_book"," 15.92%   69.308      8 Template:Navbox"," 10.99%   47.834      1 Template:Short_description"," 10.32%   44.923      1 Template:Pagetype","  7.51%   32.710      3 Template:Main_other","  7.45%   32.428      1 Template:Infobox_language/ref"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":3982590,"limit":52428800}},"cachereport":{"origin":"mw1348","timestamp":"20190924104641","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sikiana language","url":"https:\/\/en.wikipedia.org\/wiki\/Sikiana_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3443734","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3443734","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-02-23T23:55:08Z","dateModified":"2019-01-31T20:17:23Z","headline":"language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1263"});});</script>
+</body>
+</html>

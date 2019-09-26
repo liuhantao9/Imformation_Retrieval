@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>American Convention on Human Rights - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"American_Convention_on_Human_Rights","wgTitle":"American Convention on Human Rights","wgCurRevisionId":917863904,"wgRevisionId":917863904,"wgArticleId":323601,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from September 2019","Articles with permanently dead external links","Articles containing potentially dated statements from 2013","All articles containing potentially dated statements","All articles with unsourced statements","Articles with unsourced statements from October 2018","Human rights instruments","Organization of American States treaties","Human rights in Latin America","Treaties concluded in 1969","Treaties entered into force in 1978","Indigenous law","Treaties of Argentina",
+"Treaties of Barbados","Treaties of Bolivia","Treaties of Brazil","Treaties of Chile","Treaties of Colombia","Treaties of Costa Rica","Treaties of Dominica","Treaties of the Dominican Republic","Treaties of Ecuador","Treaties of El Salvador","Treaties of Grenada","Treaties of Guatemala","Treaties of Haiti","Treaties of Honduras","Treaties of Jamaica","Treaties of Mexico","Treaties of Nicaragua","Treaties of Panama","Treaties of Paraguay","Treaties of Peru","Treaties of Suriname","Treaties of Uruguay","1969 in Costa Rica","Inter-American Court of Human Rights","Anti–death penalty treaties"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov",
+"Dec"],"wgRelevantPageName":"American_Convention_on_Human_Rights","wgRelevantArticleId":323601,"wgRequestId":"XYvYBApAIC4AAFsS74cAAAAN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q469076","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/84/Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/American_Convention_on_Human_Rights"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/American_Convention_on_Human_Rights"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-American_Convention_on_Human_Rights rootpage-American_Convention_on_Human_Rights skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">American Convention on Human Rights</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vevent" style="width:22em"><caption>Pact of San José</caption><tbody><tr><th colspan="2" class="description" style="text-align:center;font-size:125%;font-weight:bold;font-size: 115%;">American Convention on Human Rights</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg" class="image" title="{{{image_alt}}}"><img alt="{{{image_alt}}}" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg/200px-Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg" decoding="async" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg/300px-Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/84/Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg 2x" data-file-width="320" data-file-height="240" /></a></td></tr><tr><th scope="row">Signed</th><td>22 November 1969</td></tr><tr><th scope="row">Location</th><td class="location"><a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a>, <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></td></tr><tr><th scope="row">Effective</th><td>18 July 1978</td></tr><tr><th scope="row">Condition</th><td>11 ratifications</td></tr><tr><th scope="row">Parties</th><td class="plainlist">24<br />23 (from September 2013)</td></tr><tr><th scope="row">Depositary</th><td>General Secretariat of the <a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a></td></tr><tr><td colspan="2" style="text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/16px-Wikisource-logo.svg.png" decoding="async" width="16" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/32px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /> <a href="https://en.wikisource.org/wiki/American_Convention_on_Human_Rights" class="extiw" title="wikisource:American Convention on Human Rights">American Convention on Human Rights</a> at <a href="/wiki/Wikisource" title="Wikisource">Wikisource</a></td></tr></tbody></table>
+<p>The <b>American Convention on Human Rights</b>, also known as the <b>Pact of San José</b>, is an <a href="/wiki/International_human_rights_instruments" title="International human rights instruments">international human rights instrument</a>. It was adopted by many countries in the Western Hemisphere in <a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a>, <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>, on 22 November 1969. It came into force after the eleventh instrument of ratification (that of <a href="/wiki/Grenada" title="Grenada">Grenada</a>) was deposited on 18 July 1978.
+</p><p>The bodies responsible for overseeing compliance with the Convention are the <a href="/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights">Inter-American Commission on Human Rights</a> and the <a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a>, both of which are organs of the <a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States</a> (OAS).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Content_and_purpose"><span class="tocnumber">1</span> <span class="toctext">Content and purpose</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Additional_protocols"><span class="tocnumber">2</span> <span class="toctext">Additional protocols</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Inter-American_Court&#39;s_Interpretation"><span class="tocnumber">3</span> <span class="toctext">Inter-American Court's Interpretation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ratifications"><span class="tocnumber">4</span> <span class="toctext">Ratifications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Content_and_purpose">Content and purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=1" title="Edit section: Content and purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to its preamble, the purpose of the Convention is "to consolidate in this hemisphere, within the framework of democratic institutions, a system of personal liberty and <a href="/wiki/Social_justice" title="Social justice">social justice</a> based on respect for the essential rights of man."
+</p><p>Chapter I establishes the general obligation of the states parties to uphold the rights set forth in the Convention to all persons under their jurisdiction, and to adapt their domestic laws to bring them into line with the Convention. The 23 articles of Chapter II give a list of individual civil and political rights due to all persons, including the right to life "in general, from the moment of conception",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> to humane treatment, to a fair trial, to <a href="/wiki/Privacy" title="Privacy">privacy</a>, to <a href="/wiki/Freedom_of_conscience" class="mw-redirect" title="Freedom of conscience">freedom of conscience</a>, <a href="/wiki/Freedom_of_assembly" title="Freedom of assembly">freedom of assembly</a>, <a href="/wiki/Freedom_of_movement" title="Freedom of movement">freedom of movement</a>, etc. Article 15 prohibits "any propaganda for war and any advocacy of national, racial, or religious hatred that constitute incitement to lawless violence or to any other similar action against any person on any grounds including those of race, color, religion, language, or national origin" to be considered as offence punishable by law.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> This provision is established under influence of  Article 20 of the <a href="/wiki/International_Covenant_of_Civil_and_Political_Rights" class="mw-redirect" title="International Covenant of Civil and Political Rights">International Covenant of Civil and Political Rights</a>. The single article in Chapter III deals with <a href="/wiki/Economic,_social,_and_cultural_rights" class="mw-redirect" title="Economic, social, and cultural rights">economic, social, and cultural rights</a>.
+The somewhat cursory treatment given  to this issue here was expanded some ten years later with the <b>Protocol of San Salvador</b> (see below).
+</p><p>Chapter IV describes those circumstances in which certain rights can be temporarily suspended, such as during states of emergency, and the formalities to be followed for such suspension to be valid. However, it does not authorize any suspension of Article 3 (right to juridical personality), Article 4 (right to life), Article 5 (right to humane treatment), Article 6 (freedom from slavery), Article 9 (freedom from <a href="/wiki/Ex_post_facto_law" title="Ex post facto law">ex post facto laws</a>), Article 12 (freedom of conscience and religion), Article 17 (right to family), Article 18 (right to the name), Article 19 (rights of the child), Article 20 (right to nationality), or Article 23 (right to participate in government).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Chapter V, with a nod to the balance between rights and duties enshrined in the earlier <a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a>, points out that individuals have responsibilities as well as rights.
+</p><p>Chapters VI, VII, VIII, and IX contain provisions for the creation and operation of the two bodies responsible for overseeing compliance with the Convention: the <a href="/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights">Inter-American Commission</a>, based in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>, <a href="/wiki/United_States" title="United States">United States</a>, and the <a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court</a>, headquartered in <a href="/wiki/San_Jos%C3%A9,_Costa_Rica" title="San José, Costa Rica">San José</a>, <a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a>.
+</p><p>Chapter X deals with mechanisms for ratifying the Convention, amending it or placing reservations in it, or denouncing it. Various transitory provisions are set forth in Chapter XI.'
+</p>
+<h2><span class="mw-headline" id="Additional_protocols">Additional protocols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=2" title="Edit section: Additional protocols">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the ensuing years, the states parties to the American Convention have supplemented its provisions with two additional protocols.
+</p><p>The first, the <b>Additional Protocol to the American Convention on Human Rights in the area of Economic, Social, and Cultural Rights</b> (more commonly known as the "Protocol of San Salvador"), was opened for signature in the city of <a href="/wiki/San_Salvador" title="San Salvador">San Salvador</a>, <a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a>, on 17 November 1988. It represented an attempt to take the inter-American human rights system to a higher level by enshrining its protection of so-called <a href="/wiki/Three_generations_of_human_rights" title="Three generations of human rights">second-generation rights</a> in the economic, social, and cultural spheres. The protocol's provisions cover such areas as the right to work, the right to health, the right to food, and the right to education. It came into effect on 16 November 1999 and has been ratified by 16 nations (see below).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The second, the <b>Protocol to the American Convention on Human Rights to Abolish the Death Penalty</b>, was adopted at <a href="/wiki/Asunci%C3%B3n" title="Asunción">Asunción</a>, <a href="/wiki/Paraguay" title="Paraguay">Paraguay</a>, on 8 June 1990. While Article 4 of the American Convention had already placed severe restrictions on the states' ability to impose the death penalty – only applicable for the most serious crimes; no reinstatement once abolished; not to be used for political offenses or common crimes; not to be used against those aged under 18 or over 70, or against pregnant women – signing this protocol formalizes a state's solemn commitment to refrain from using capital punishment in any peacetime circumstance. To date it has been ratified by 13 nations (see below).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span id="Inter-American_Court.27s_Interpretation"></span><span class="mw-headline" id="Inter-American_Court's_Interpretation">Inter-American Court's Interpretation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=3" title="Edit section: Inter-American Court&#039;s Interpretation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Inter-American Court makes a broad interpretation of the American Convention.  It interprets it according to the pro hominem principle, in an evolutive fashion and making use of other treaties and soft law.  The result is that, in practice, the Inter-American Court modifies the content of the American Convention.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ratifications">Ratifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=4" title="Edit section: Ratifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:AmericanConventiononHumanRights-map.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/AmericanConventiononHumanRights-map.svg/300px-AmericanConventiononHumanRights-map.svg.png" decoding="async" width="300" height="291" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/AmericanConventiononHumanRights-map.svg/450px-AmericanConventiononHumanRights-map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/AmericanConventiononHumanRights-map.svg/600px-AmericanConventiononHumanRights-map.svg.png 2x" data-file-width="1945" data-file-height="1885" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:AmericanConventiononHumanRights-map.svg" class="internal" title="Enlarge"></a></div><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #00ff00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Ratified ACHR only</div><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0000ff; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Ratified ACHR and 1st Protocol</div><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ffff00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Ratified ACHR and 2nd Protocol</div><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ff0000; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Ratified ACHR and both Protocols</div><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #800080; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Denounced the ACHR</div></div></div></div>
+<p>As of 2013<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit">&#91;update&#93;</a></sup>, 25 of the 35 OAS's member states have <a href="/wiki/Ratification" title="Ratification">ratified</a> the Convention, while two have denounced it subsequently, leaving 23 active parties:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Country
+</th>
+<th>Ratification date
+</th>
+<th>1st additional protocol
+</th>
+<th>Additional Protocol on the Death Penalty
+</th>
+<th><a href="/wiki/Denunciation" title="Denunciation">Denunciation</a>
+</th></tr>
+<tr>
+<td><a href="/wiki/Argentina" title="Argentina">Argentina</a></td>
+<td>14 August 1984</td>
+<td>30 June 2003</td>
+<td>18 June 2008</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Barbados" title="Barbados">Barbados</a></td>
+<td>5 December 1981</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></td>
+<td>20 June 1979</td>
+<td>12 July 2006</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Brazil" title="Brazil">Brazil</a></td>
+<td>9 July 1992</td>
+<td>8 August 1996</td>
+<td>31 July 1996</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Chile" title="Chile">Chile</a></td>
+<td>8 August 1990</td>
+<td></td>
+<td>4 August 2008</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Colombia" title="Colombia">Colombia</a></td>
+<td>28 May 1973</td>
+<td>10 October 1997</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></td>
+<td>2 March 1970</td>
+<td>9 September 1999</td>
+<td>30 March 1998</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dominica" title="Dominica">Dominica</a></td>
+<td>3 June 1993</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></td>
+<td>21 January 1978</td>
+<td></td>
+<td>27 January 2011</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></td>
+<td>8 December 1997</td>
+<td>2 February 1993</td>
+<td>5 February 1998</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></td>
+<td>20 June 1978</td>
+<td>4 May 1995</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Grenada" title="Grenada">Grenada</a></td>
+<td>14 July 1978</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></td>
+<td>27 April 1978</td>
+<td>30 May 2000</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Haiti" title="Haiti">Haiti</a></td>
+<td>14 September 1977</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Honduras" title="Honduras">Honduras</a></td>
+<td>5 September 1977</td>
+<td>14 September 2011</td>
+<td>10 November 2011</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></td>
+<td>19 July 1978</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a></td>
+<td>2 March 1981</td>
+<td>8 March 1996</td>
+<td>28 June 2007</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a></td>
+<td>25 September 1979</td>
+<td>15 December 2009</td>
+<td>24 March 1999</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Panama" title="Panama">Panama</a></td>
+<td>8 May 1978</td>
+<td>28 October 1992</td>
+<td>27 June 1991</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></td>
+<td>18 August 1989</td>
+<td>28 May 1997</td>
+<td>31 October 2000</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Peru" title="Peru">Peru</a></td>
+<td>12 July 1978</td>
+<td>17 May 1995</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td>
+<td>12 December 1987</td>
+<td>28 February 1990</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></td>
+<td>4 April 1991</td>
+<td></td>
+<td></td>
+<td>26 May 1998
+</td></tr>
+<tr>
+<td><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></td>
+<td>26 March 1985</td>
+<td>21 December 1995</td>
+<td>8 February 1994</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td>
+<td>23 June 1977</td>
+<td></td>
+<td>24 August 1992</td>
+<td>10 September 2012
+</td></tr></tbody></table>
+<p>Trinidad and Tobago denounced the Convention on 26 May 1998 (effective 26 May 1999) over the <a href="/wiki/Death_penalty" class="mw-redirect" title="Death penalty">death penalty</a> issue.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Venezuela denounced the Convention on 10 September 2012 accusing the Inter-American Court and Commission to undermine its Government's stability by interfering with its domestic affairs. Necessary reforms of the institution were blocked. Therefore, it would henceforth increase its cooperation with the <a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">United Nations Human Rights Council</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+Denunciations, according to Article 78 of the ACHR, become effective one year after having been declared. They do not release the state party from its obligations resulting from acts that have occurred before the effective date of denunciation.
+</p><p>The treaty is open to all OAS member states, although to date it has not been ratified by <a href="/wiki/Canada" title="Canada">Canada</a> or several of the <a href="/wiki/Anglophone_Caribbean" class="mw-redirect" title="Anglophone Caribbean">English-speaking Caribbean</a> nations; the <a href="/wiki/United_States" title="United States">United States</a> signed it in 1977 but has not proceeded with ratification.
+</p><p>Canada did at one point seriously consider ratification, but has decided against it, despite being in principle in favour of such a treaty. The ACHR, having been largely drafted by the predominantly <a href="/wiki/Roman_Catholicism" class="mw-redirect" title="Roman Catholicism">Roman Catholic</a> nations of Latin America,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2018)">citation needed</span></a></i>&#93;</sup> contains anti-abortion provisions, specifically, Article 4.1:
+</p>
+<table class="cquote pullquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tbody><tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“
+</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">Every person has the right to have his life respected.  This right shall be protected by law and, in general, from the moment of conception.  No one shall be arbitrarily deprived of his life.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”
+</td></tr>
+
+</tbody></table>
+<p>This conflicts with the <a href="/wiki/Abortion_in_Canada" title="Abortion in Canada">current legality of abortions in Canada</a>. Although Canada could ratify the convention with a reservation with respect to abortion (as did <a href="/wiki/Abortion_in_Mexico" title="Abortion in Mexico">Mexico</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>), that would contradict Canada's stated opposition to the making of reservations to human rights treaties. Another solution would be for the other states to remove the anti-abortion provisions, but that is unlikely to occur due to strong opposition to abortion in those countries.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Human_rights" title="Human rights">Human rights</a>
+<ul><li><a href="/wiki/Fetal_rights" title="Fetal rights">Fetal rights</a></li>
+<li><a href="/wiki/Women%27s_rights" title="Women&#39;s rights">Women's rights</a></li>
+<li><a href="/wiki/International_human_rights_law" title="International human rights law">International human rights law</a></li></ul></li>
+<li><a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Article 4(1). To understand the breadth of this statement see <a rel="nofollow" class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1776922">Controversial Conceptions: The Unborn in the American Convention on Human Rights</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Article 13(5)</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Article 27(2)</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oas.org/juridico/english/sigs/a-52.html">":: Multilateral Treaties &gt; Department of International Law &gt; OAS&#160;::"</a>. <i>www.oas.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.oas.org&amp;rft.atitle=%3A%3A+Multilateral+Treaties+%3E+Department+of+International+Law+%3E+OAS+%3A%3A&amp;rft_id=http%3A%2F%2Fwww.oas.org%2Fjuridico%2Fenglish%2Fsigs%2Fa-52.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oas.org/juridico/english/Sigs/a-53.html">":: Multilateral Treaties &gt; Department of International Law &gt; OAS&#160;::"</a>. <i>www.oas.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.oas.org&amp;rft.atitle=%3A%3A+Multilateral+Treaties+%3E+Department+of+International+Law+%3E+OAS+%3A%3A&amp;rft_id=http%3A%2F%2Fwww.oas.org%2Fjuridico%2Fenglish%2FSigs%2Fa-53.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">To understand the breadth of this statement see <a rel="nofollow" class="external text" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3090993">The American Convention on Human Rights: Updated by the Inter-American Court</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oas.org/juridico/english/sigs/b-32.html">"American Convention on Human Rights "Pact of San Jose, Costa Rica" - Signatories and Ratifications"</a>. <i>www.oas.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.oas.org&amp;rft.atitle=American+Convention+on+Human+Rights+%22Pact+of+San+Jose%2C+Costa+Rica%22+-+Signatories+and+Ratifications&amp;rft_id=http%3A%2F%2Fwww.oas.org%2Fjuridico%2Fenglish%2Fsigs%2Fb-32.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.oas.org/dil/treaties_B-32_American_Convention_on_Human_Rights_sign.htm#Trinidad%20and%20Tobago">"Notice to Denounce the American Convention on Human Rights"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Notice+to+Denounce+the+American+Convention+on+Human+Rights&amp;rft_id=https%3A%2F%2Fwww.oas.org%2Fdil%2Ftreaties_B-32_American_Convention_on_Human_Rights_sign.htm%23Trinidad%2520and%2520Tobago&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.oas.org:8101/DIL/Nota_República_Bolivariana_Venezuela_to_SG.English.pdf">"Letter to the OAS Secretary General"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Letter+to+the+OAS+Secretary+General&amp;rft_id=http%3A%2F%2Fwww.oas.org%3A8101%2FDIL%2FNota_Rep%C3%BAblica_Bolivariana_Venezuela_to_SG.English.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since September 2019">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">To understand the breadth of this statement see <a rel="nofollow" class="external text" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1776922">Controversial Conceptions: The Unborn in the American Convention on Human Rights</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cidh.org/Basicos/English/Basic4.Amer.Conv.Ratif.htm">"Basic Documents - Ratifications of the Convention"</a>. <i>www.cidh.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cidh.org&amp;rft.atitle=Basic+Documents+-+Ratifications+of+the+Convention&amp;rft_id=http%3A%2F%2Fwww.cidh.org%2FBasicos%2FEnglish%2FBasic4.Amer.Conv.Ratif.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAmerican+Convention+on+Human+Rights" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="https://en.wikisource.org/wiki/Special:Search/American_Convention_on_Human_Rights" class="extiw" title="wikisource:Special:Search/American Convention on Human Rights">American Convention on Human Rights</a></b></div></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cidh.org/Basicos/English/Basic3.American%20Convention.htm">American Convention on Human Rights (text)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cidh.org">Inter-American Commission on Human Rights</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.corteidh.or.cr/">Inter-American Court of Human Rights</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="International_human_rights_instruments" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:International_human_rights_instruments" title="Template:International human rights instruments"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:International_human_rights_instruments" title="Template talk:International human rights instruments"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:International_human_rights_instruments&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="International_human_rights_instruments" style="font-size:114%;margin:0 4em"><a href="/wiki/International_human_rights_instruments" title="International human rights instruments">International human rights instruments</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="width:10.5em; background:#eeeeff; font-weight:normal;"><div id="Declarations,_manifestos,_and_resolutions" style="font-size:114%;margin:0 4em"><b>Declarations, manifestos, and resolutions</b></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brazilian_Resolution" title="Brazilian Resolution">Brazilian Resolution</a></li>
+<li><a href="/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples" title="Declaration on the Granting of Independence to Colonial Countries and Peoples">Declaration on the Granting of Independence to Colonial Countries and Peoples</a></li>
+<li><a href="/wiki/Cairo_Declaration_on_Human_Rights_in_Islam" title="Cairo Declaration on Human Rights in Islam">Cairo Declaration of Human Rights</a></li>
+<li><a href="/wiki/Declaration_of_Montreal" title="Declaration of Montreal">Declaration of Montreal</a></li>
+<li><a href="/wiki/Declaration_of_the_Rights_of_the_Child" title="Declaration of the Rights of the Child">Declaration of the Rights of the Child</a></li>
+<li><a href="/wiki/Declaration_on_the_Elimination_of_Discrimination_Against_Women" title="Declaration on the Elimination of Discrimination Against Women">Declaration on the Elimination of Discrimination Against Women</a></li>
+<li><a href="/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples" title="Declaration on the Rights of Indigenous Peoples">Declaration on the Rights of Indigenous Peoples</a></li>
+<li><a href="/wiki/LGBT_rights_at_the_United_Nations" title="LGBT rights at the United Nations">UN declaration on sexual orientation and gender identity</a></li>
+<li><a href="/wiki/Universal_Declaration_of_Human_Rights" title="Universal Declaration of Human Rights">Universal Declaration of Human Rights</a></li>
+<li><a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a></li>
+<li><a href="/wiki/Paris_Principles" title="Paris Principles">Paris Principles</a></li>
+<li><a href="/wiki/Yogyakarta_Principles" title="Yogyakarta Principles">Yogyakarta Principles</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="width:10.5em; background:#eeeeff; font-weight:normal;"><div id="International_law" style="font-size:114%;margin:0 4em"><b><a href="/wiki/International_human_rights_law" title="International human rights law">International law</a></b></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Declaration_on_the_Granting_of_Independence_to_Colonial_Countries_and_Peoples" title="Declaration on the Granting of Independence to Colonial Countries and Peoples">United Nations General Assembly Resolution 1514 (XV) Granting of Independence to Colonial Countries and Peoples</a></li>
+<li><a href="/wiki/United_Nations_Convention_against_Torture" title="United Nations Convention against Torture">UN Convention Against Torture</a></li>
+<li><a href="/wiki/Convention_on_the_Elimination_of_All_Forms_of_Discrimination_Against_Women" title="Convention on the Elimination of All Forms of Discrimination Against Women">Convention on the Elimination of All Forms of Discrimination Against Women</a></li>
+<li><a href="/wiki/International_Convention_on_the_Elimination_of_All_Forms_of_Racial_Discrimination" title="International Convention on the Elimination of All Forms of Racial Discrimination">Convention on the Elimination of All Forms of Racial Discrimination</a></li>
+<li><a href="/wiki/Convention_on_the_Political_Rights_of_Women" title="Convention on the Political Rights of Women">Convention on the Political Rights of Women</a></li>
+<li><a href="/wiki/Convention_on_the_Rights_of_Persons_with_Disabilities" title="Convention on the Rights of Persons with Disabilities">Convention on the Rights of Persons with Disabilities</a></li>
+<li><a href="/wiki/Convention_on_the_Rights_of_the_Child" title="Convention on the Rights of the Child">Convention on the Rights of the Child</a></li>
+<li><a href="/wiki/International_Convention_on_the_Protection_of_the_Rights_of_All_Migrant_Workers_and_Members_of_Their_Families" title="International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families">United Nations Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families</a></li>
+<li><a href="/wiki/Crime_of_apartheid" title="Crime of apartheid">International Convention on the Suppression and Punishment of the Crime of Apartheid</a></li>
+<li><a href="/wiki/International_Convention_for_the_Protection_of_All_Persons_from_Enforced_Disappearance" title="International Convention for the Protection of All Persons from Enforced Disappearance">International Convention for the Protection of All Persons from Enforced Disappearance</a></li>
+<li><a href="/wiki/Indigenous_and_Tribal_Peoples_Convention,_1989" title="Indigenous and Tribal Peoples Convention, 1989">Indigenous and Tribal Peoples Convention, 1989</a></li>
+<li><a href="/wiki/International_Covenant_on_Civil_and_Political_Rights" title="International Covenant on Civil and Political Rights">International Covenant on Civil and Political Rights</a></li>
+<li><a href="/wiki/International_Covenant_on_Economic,_Social_and_Cultural_Rights" title="International Covenant on Economic, Social and Cultural Rights">International Covenant on Economic, Social and Cultural Rights</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="width:10.5em; background:#eeeeff; font-weight:normal;"><div id="Regional_law" style="font-size:114%;margin:0 4em"><b>Regional law</b></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_Charter_on_Human_and_Peoples%27_Rights" title="African Charter on Human and Peoples&#39; Rights">African Charter on Human and Peoples' Rights</a></li>
+<li>European
+<ul><li><a href="/wiki/European_Convention_on_Human_Rights" title="European Convention on Human Rights">Convention on Human Rights</a></li>
+<li><a href="/wiki/European_Convention_for_the_Prevention_of_Torture_and_Inhuman_or_Degrading_Treatment_or_Punishment" title="European Convention for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment">Convention for the Prevention of Torture</a></li>
+<li><a href="/wiki/European_Convention_on_Nationality" title="European Convention on Nationality">European Convention on Nationality</a></li>
+<li><a href="/wiki/Framework_Convention_for_the_Protection_of_National_Minorities" title="Framework Convention for the Protection of National Minorities">Convention for the Protection of National Minorities</a></li>
+<li><a href="/wiki/European_Social_Charter" title="European Social Charter">Social Charter</a></li></ul></li>
+<li><a class="mw-selflink selflink">American Convention on Human Rights</a></li>
+<li>Inter-American Convention
+<ul><li><a href="/wiki/Inter-American_Convention_to_Prevent_and_Punish_Torture" title="Inter-American Convention to Prevent and Punish Torture">to Prevent and Punish Torture</a></li>
+<li><a href="/wiki/Inter-American_Convention_on_the_Elimination_of_all_Forms_of_Discrimination_Against_Persons_with_Disabilities" title="Inter-American Convention on the Elimination of all Forms of Discrimination Against Persons with Disabilities">on the Elimination of All Forms of Discrimination against Persons with Disabilities</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="width:10.5em; background:#eeeeff; font-weight:normal;"><div id="International_humanitarian_law" style="font-size:114%;margin:0 4em"><b><a href="/wiki/International_humanitarian_law" title="International humanitarian law">International humanitarian law</a></b></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Genocide_Convention" title="Genocide Convention">Convention on the Prevention and Punishment of the Crime of Genocide</a></li>
+<li><a href="/wiki/Convention_Relating_to_the_Status_of_Refugees" title="Convention Relating to the Status of Refugees">Convention Relating to the Status of Refugees</a></li>
+<li><a href="/wiki/Protocol_Relating_to_the_Status_of_Refugees" title="Protocol Relating to the Status of Refugees">Protocol Relating to the Status of Refugees</a></li>
+<li><a href="/wiki/Convention_on_the_Reduction_of_Statelessness" title="Convention on the Reduction of Statelessness">Convention on the Reduction of Statelessness</a></li>
+<li><a href="/wiki/Geneva_Conventions" title="Geneva Conventions">Geneva Conventions</a></li>
+<li><a href="/wiki/Hague_Conventions_of_1899_and_1907" title="Hague Conventions of 1899 and 1907">Hague Conventions</a></li>
+<li><a href="/wiki/Rome_Statute_of_the_International_Criminal_Court" title="Rome Statute of the International Criminal Court">Rome Statute of the International Criminal Court</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Organization_of_American_States_(OAS)" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Organization_of_American_States" title="Template:Organization of American States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Organization_of_American_States" title="Template talk:Organization of American States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Organization_of_American_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Organization_of_American_States_(OAS)" style="font-size:114%;margin:0 4em"><a href="/wiki/Organization_of_American_States" title="Organization of American States">Organization of American States (OAS)</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Member_states_of_the_Organization_of_American_States" title="Member states of the Organization of American States">Members</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antigua_and_Barbuda" title="Antigua and Barbuda">Antigua and Barbuda</a></li>
+<li><a href="/wiki/Argentina" title="Argentina">Argentina</a></li>
+<li><a href="/wiki/Barbados" title="Barbados">Barbados</a></li>
+<li><a href="/wiki/Brazil" title="Brazil">Brazil</a></li>
+<li><a href="/wiki/Belize" title="Belize">Belize</a></li>
+<li><a href="/wiki/The_Bahamas" title="The Bahamas">Bahamas</a></li>
+<li><a href="/wiki/Bolivia" title="Bolivia">Bolivia</a></li>
+<li><a href="/wiki/Canada" title="Canada">Canada</a></li>
+<li><a href="/wiki/Chile" title="Chile">Chile</a></li>
+<li><a href="/wiki/Colombia" title="Colombia">Colombia</a></li>
+<li><a href="/wiki/Costa_Rica" title="Costa Rica">Costa Rica</a></li>
+<li><a href="/wiki/Dominica" title="Dominica">Dominica</a></li>
+<li><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></li>
+<li><a href="/wiki/Ecuador" title="Ecuador">Ecuador</a></li>
+<li><a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a></li>
+<li><a href="/wiki/Grenada" title="Grenada">Grenada</a></li>
+<li><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></li>
+<li><a href="/wiki/Guyana" title="Guyana">Guyana</a></li>
+<li><a href="/wiki/Haiti" title="Haiti">Haiti</a></li>
+<li><a href="/wiki/Honduras" title="Honduras">Honduras</a></li>
+<li><a href="/wiki/Jamaica" title="Jamaica">Jamaica</a></li>
+<li><a href="/wiki/Mexico" title="Mexico">Mexico</a></li>
+<li><a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a></li>
+<li><a href="/wiki/Panama" title="Panama">Panama</a></li>
+<li><a href="/wiki/Paraguay" title="Paraguay">Paraguay</a></li>
+<li><a href="/wiki/Peru" title="Peru">Peru</a></li>
+<li><a href="/wiki/Saint_Lucia" title="Saint Lucia">St. Lucia</a></li>
+<li><a href="/wiki/Saint_Vincent_and_the_Grenadines" title="Saint Vincent and the Grenadines">St. Vincent and the Grenadines</a></li>
+<li><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">St. Kitts and Nevis</a></li>
+<li><a href="/wiki/Suriname" title="Suriname">Suriname</a></li>
+<li><a href="/wiki/Trinidad_and_Tobago" title="Trinidad and Tobago">Trinidad and Tobago</a></li>
+<li><a href="/wiki/United_States" title="United States">United States</a></li>
+<li><a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></li>
+<li><a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organization</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Organization_of_American_States_Secretariat_for_Political_Affairs" title="Organization of American States Secretariat for Political Affairs">Secretariat for Political Affairs</a></li>
+<li><a href="/wiki/Organization_of_American_States_Secretariat_for_Multidimensional_Security" title="Organization of American States Secretariat for Multidimensional Security">Secretariat for Multidimensional Security</a></li>
+<li><a href="/wiki/General_Assembly_of_the_Organization_of_American_States" title="General Assembly of the Organization of American States">General Assembly</a></li>
+<li><a href="/wiki/Inter-American_Commission_of_Women" title="Inter-American Commission of Women">Inter-American Commission of Women</a></li>
+<li><a href="/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights">Inter-American Commission on Human Rights</a></li>
+<li><a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a></li>
+<li><a href="/wiki/Pan_American_Union_Building" title="Pan American Union Building">Pan American Union Building</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Politics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charter_of_the_Organization_of_American_States" title="Charter of the Organization of American States">Charter</a></li>
+<li><a href="/wiki/Inter-American_Treaty_of_Reciprocal_Assistance" title="Inter-American Treaty of Reciprocal Assistance">Inter-American Treaty of Reciprocal Assistance</a></li>
+<li><a href="/wiki/American_Declaration_of_the_Rights_and_Duties_of_Man" title="American Declaration of the Rights and Duties of Man">American Declaration of the Rights and Duties of Man</a></li>
+<li><a class="mw-selflink selflink">American Convention on Human Rights</a></li>
+<li><a href="/wiki/Pan-American_Conference" title="Pan-American Conference">Pan-American Conference</a></li>
+<li><a href="/wiki/Summits_of_the_Americas" title="Summits of the Americas">Summits of the Americas</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Americas" title="Americas">Americas</a></li>
+<li><a href="/wiki/Pan_American_Sports_Organization" class="mw-redirect" title="Pan American Sports Organization">Pan American Sports Organization</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Human_rights" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_rights" title="Template:Human rights"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_rights" title="Template talk:Human rights"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Human_rights&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Human_rights" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_rights" title="Human rights">Human rights</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Human&amp;#039;s&amp;#10;*_Children&amp;#039;s&amp;#10;*_Intersex&amp;#10;*_Women&amp;#039;s">
+<ul><li><a href="/wiki/Human_rights" title="Human rights">Human's</a></li>
+<li><a href="/wiki/Children%27s_rights" title="Children&#39;s rights">Children's</a></li>
+<li><a href="/wiki/Intersex_human_rights" title="Intersex human rights">Intersex</a></li>
+<li><a href="/wiki/Women%27s_rights" title="Women&#39;s rights">Women's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;">Fundamental concepts<br />and philosophies</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Natural_law" title="Natural law">Natural law</a></li>
+<li><a href="/wiki/Positive_law" title="Positive law">Positive law</a></li>
+<li><a href="/wiki/Sovereignty" title="Sovereignty">Sovereignty</a></li>
+<li><a href="/wiki/Universal_jurisdiction" title="Universal jurisdiction">Universal jurisdiction</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Distinctions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Claim_rights_and_liberty_rights" title="Claim rights and liberty rights">Claim rights and liberty rights</a></li>
+<li><a href="/wiki/Individual_and_group_rights" title="Individual and group rights">Individual and group rights</a></li>
+<li><a href="/wiki/Natural_and_legal_rights" class="mw-redirect" title="Natural and legal rights">Natural and legal rights</a></li>
+<li><a href="/wiki/Negative_and_positive_rights" title="Negative and positive rights">Negative and positive rights</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Corporal_punishment" title="Corporal punishment">Corporal punishment</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Organizations</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_human_rights_organisations" title="List of human rights organisations">List of human rights organisations</a></li>
+<li><a href="/wiki/National_human_rights_institution" title="National human rights institution">National human rights institutions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By continent</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_rights_in_Africa" title="Human rights in Africa">Africa</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Human_rights_in_Asia" title="Human rights in Asia">Asia</a></li>
+<li><a href="/wiki/Human_rights_in_Europe" title="Human rights in Europe">Europe</a></li>
+<li><a href="/w/index.php?title=Human_rights_in_North_America&amp;action=edit&amp;redlink=1" class="new" title="Human rights in North America (page does not exist)">North America</a></li>
+<li><a href="/w/index.php?title=Human_rights_in_Oceania&amp;action=edit&amp;redlink=1" class="new" title="Human rights in Oceania (page does not exist)">Oceania</a></li>
+<li><a href="/w/index.php?title=Human_rights_in_South_America&amp;action=edit&amp;redlink=1" class="new" title="Human rights in South America (page does not exist)">South America</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/History_of_human_rights" title="History of human rights">History of human rights</a></li>
+<li><a href="/wiki/List_of_human_rights_articles_by_country" title="List of human rights articles by country">List of human rights articles by country</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="International_human_rights_organisations_and_institutions" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:International_human_rights_organizations" title="Template:International human rights organizations"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:International_human_rights_organizations" title="Template talk:International human rights organizations"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:International_human_rights_organizations&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="International_human_rights_organisations_and_institutions" style="font-size:114%;margin:0 4em">International <a href="/wiki/Human_rights" title="Human rights">human rights</a> <a href="/wiki/List_of_human_rights_organisations" title="List of human rights organisations">organisations</a> and <a href="/wiki/National_human_rights_institution" title="National human rights institution">institutions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Types</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Human_rights_group" title="Human rights group">Human rights group</a></li>
+<li><a href="/wiki/Human_rights_commission" title="Human rights commission">Human rights commission</a></li>
+<li><a href="/wiki/National_human_rights_institution" title="National human rights institution">Human rights institutions</a></li>
+<li><a href="/wiki/Truth_and_reconciliation_commission" title="Truth and reconciliation commission">Truth and reconciliation commission</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">International institutions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Committee_on_the_Rights_of_the_Child" title="Committee on the Rights of the Child">Committee on the Rights of the Child</a></li>
+<li><a href="/wiki/Committee_on_the_Rights_of_Persons_with_Disabilities" title="Committee on the Rights of Persons with Disabilities">Committee on the Rights of Persons with Disabilities</a></li>
+<li><a href="/wiki/International_Criminal_Court" title="International Criminal Court">International Criminal Court</a></li>
+<li><a href="/wiki/Office_of_the_United_Nations_High_Commissioner_for_Human_Rights" title="Office of the United Nations High Commissioner for Human Rights">Office of the United Nations High Commissioner for Human Rights</a></li>
+<li><a href="/wiki/United_Nations_Human_Rights_Committee" title="United Nations Human Rights Committee">UN Human Rights Committee</a></li>
+<li><a href="/wiki/United_Nations_Human_Rights_Council" title="United Nations Human Rights Council">UN Human Rights Council</a></li>
+<li><a href="/wiki/United_Nations_Security_Council" title="United Nations Security Council">UN Security Council</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Regional bodies</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/African_Commission_on_Human_and_Peoples%27_Rights" title="African Commission on Human and Peoples&#39; Rights">African Commission on Human and Peoples' Rights</a></li>
+<li><a href="/wiki/African_Court_on_Human_and_Peoples%27_Rights" title="African Court on Human and Peoples&#39; Rights">African Court on Human and Peoples' Rights</a></li>
+<li><a href="/wiki/Court_of_Justice_of_the_African_Union" title="Court of Justice of the African Union">African Court of Justice</a></li>
+<li><a href="/wiki/European_Court_of_Human_Rights" title="European Court of Human Rights">European Court of Human Rights</a></li>
+<li><a href="/wiki/Committee_for_the_Prevention_of_Torture" title="Committee for the Prevention of Torture">European Committee for the Prevention of Torture</a></li>
+<li><a href="/wiki/Inter-American_Commission_on_Human_Rights" title="Inter-American Commission on Human Rights">Inter-American Commission on Human Rights</a></li>
+<li><a href="/wiki/Inter-American_Court_of_Human_Rights" title="Inter-American Court of Human Rights">Inter-American Court of Human Rights</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Multi-lateral bodies</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Union" title="European Union">European Union</a></li>
+<li><a href="/wiki/Council_of_Europe" title="Council of Europe">Council of Europe</a></li>
+<li><a href="/wiki/Organization_of_American_States" title="Organization of American States">Organisation of American States (OAS)</a></li>
+<li><a href="/wiki/United_Nations_High_Commissioner_for_Refugees" title="United Nations High Commissioner for Refugees">UN High Commissioner for Refugees (UNHCR)</a></li>
+<li><a href="/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs" title="United Nations Office for the Coordination of Humanitarian Affairs">UN Office for the Coordination of Humanitarian Affairs (UNOCHA)</a></li>
+<li><a href="/wiki/International_Labour_Organization" title="International Labour Organization">International Labour Organization (ILO)</a></li>
+<li><a href="/wiki/World_Health_Organization" title="World Health Organization">World Health Organization (WHO)</a></li>
+<li><a href="/wiki/UNESCO" title="UNESCO">UN Educational, Scientific and Cultural Organization (UNESCO)</a></li>
+<li><a href="/wiki/Joint_United_Nations_Programme_on_HIV/AIDS" title="Joint United Nations Programme on HIV/AIDS">Joint UN Programme on HIV/AIDS (UNAIDS)</a></li>
+<li><a href="/wiki/United_Nations_Department_of_Economic_and_Social_Affairs" title="United Nations Department of Economic and Social Affairs">UN Department of Economic and Social Affairs (UNDESA)</a></li>
+<li><a href="/wiki/United_Nations_Commission_on_the_Status_of_Women" title="United Nations Commission on the Status of Women">Commission on the Status of Women (CSW)</a></li>
+<li><a href="/wiki/United_Nations_Population_Fund" title="United Nations Population Fund">UN Population Fund (UNFPA)</a></li>
+<li><a href="/wiki/UNICEF" title="UNICEF">UN Children's Fund (UNICEF)</a></li>
+<li><a href="/wiki/United_Nations_Development_Fund_for_Women" title="United Nations Development Fund for Women">UN Development Fund for Women (UNIFEM)</a></li>
+<li><a href="/wiki/United_Nations_Development_Programme" title="United Nations Development Programme">UN Development Programme (UNDP)</a></li>
+<li><a href="/wiki/Food_and_Agriculture_Organization" title="Food and Agriculture Organization">Food and Agriculture Organization of the UN (FAO)</a></li>
+<li><a href="/wiki/United_Nations_Human_Settlements_Programme" title="United Nations Human Settlements Programme">UN Human Settlements Programme (UN-HABITAT)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;width:10.5em; font-weight:normal;">Major <a href="/wiki/Non-governmental_organization" title="Non-governmental organization">NGOs</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amnesty_International" title="Amnesty International">Amnesty International</a></li>
+<li><a href="/wiki/International_Federation_for_Human_Rights" title="International Federation for Human Rights">FIDH</a></li>
+<li><a href="/wiki/Human_Rights_Watch" title="Human Rights Watch">Human Rights Watch</a></li>
+<li><a href="/wiki/International_Committee_of_the_Red_Cross" title="International Committee of the Red Cross">International Committee of the Red Cross (ICRC)</a></li>
+<li><a href="/wiki/Emergency_(organization)" title="Emergency (organization)">Emergency NGO</a></li>
+<li><a href="/wiki/Human_Rights_First" title="Human Rights First">Human Rights First</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Terra.png" class="image"><img alt="Terra.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/21px-Terra.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/32px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/42px-Terra.png 2x" data-file-width="599" data-file-height="599" /></a></span><a href="/wiki/Portal:International_relations" title="Portal:International relations">International relations portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Johnny-automatic-scales-of-justice.svg" class="image"><img alt="Johnny-automatic-scales-of-justice.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/24px-Johnny-automatic-scales-of-justice.svg.png" decoding="async" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/36px-Johnny-automatic-scales-of-justice.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Johnny-automatic-scales-of-justice.svg/48px-Johnny-automatic-scales-of-justice.svg.png 2x" data-file-width="512" data-file-height="442" /></a></span><a href="/wiki/Portal:Law" title="Portal:Law">Law portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_Switzerland.svg" class="image"><img alt="Flag of Switzerland.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/21px-Flag_of_Switzerland.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/42px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span><a href="/wiki/Portal:Switzerland" title="Portal:Switzerland">Switzerland portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20190925211057
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.312 seconds
+Real time usage: 0.468 seconds
+Preprocessor visited node count: 1894/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93809/2097152 bytes
+Template argument size: 3770/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19209/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 4.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  376.317      1 -total
+ 23.12%   86.992      6 Template:Cite_web
+ 17.98%   67.670      1 Template:Infobox_Treaty
+ 16.67%   62.746      2 Template:Citation_needed
+ 16.05%   60.406      3 Template:Fix
+ 14.46%   54.424      1 Template:Infobox
+ 10.83%   40.750      6 Template:Category_handler
+  7.67%   28.869      6 Template:Navbox
+  6.41%   24.138      1 Template:As_of
+  6.11%   22.989      1 Template:Portal_bar
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:323601-0!canonical and timestamp 20190925211056 and revision id 917863904
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=American_Convention_on_Human_Rights&amp;oldid=917863904">https://en.wikipedia.org/w/index.php?title=American_Convention_on_Human_Rights&amp;oldid=917863904</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Human_rights_instruments" title="Category:Human rights instruments">Human rights instruments</a></li><li><a href="/wiki/Category:Organization_of_American_States_treaties" title="Category:Organization of American States treaties">Organization of American States treaties</a></li><li><a href="/wiki/Category:Human_rights_in_Latin_America" title="Category:Human rights in Latin America">Human rights in Latin America</a></li><li><a href="/wiki/Category:Treaties_concluded_in_1969" title="Category:Treaties concluded in 1969">Treaties concluded in 1969</a></li><li><a href="/wiki/Category:Treaties_entered_into_force_in_1978" title="Category:Treaties entered into force in 1978">Treaties entered into force in 1978</a></li><li><a href="/wiki/Category:Indigenous_law" title="Category:Indigenous law">Indigenous law</a></li><li><a href="/wiki/Category:Treaties_of_Argentina" title="Category:Treaties of Argentina">Treaties of Argentina</a></li><li><a href="/wiki/Category:Treaties_of_Barbados" title="Category:Treaties of Barbados">Treaties of Barbados</a></li><li><a href="/wiki/Category:Treaties_of_Bolivia" title="Category:Treaties of Bolivia">Treaties of Bolivia</a></li><li><a href="/wiki/Category:Treaties_of_Brazil" title="Category:Treaties of Brazil">Treaties of Brazil</a></li><li><a href="/wiki/Category:Treaties_of_Chile" title="Category:Treaties of Chile">Treaties of Chile</a></li><li><a href="/wiki/Category:Treaties_of_Colombia" title="Category:Treaties of Colombia">Treaties of Colombia</a></li><li><a href="/wiki/Category:Treaties_of_Costa_Rica" title="Category:Treaties of Costa Rica">Treaties of Costa Rica</a></li><li><a href="/wiki/Category:Treaties_of_Dominica" title="Category:Treaties of Dominica">Treaties of Dominica</a></li><li><a href="/wiki/Category:Treaties_of_the_Dominican_Republic" title="Category:Treaties of the Dominican Republic">Treaties of the Dominican Republic</a></li><li><a href="/wiki/Category:Treaties_of_Ecuador" title="Category:Treaties of Ecuador">Treaties of Ecuador</a></li><li><a href="/wiki/Category:Treaties_of_El_Salvador" title="Category:Treaties of El Salvador">Treaties of El Salvador</a></li><li><a href="/wiki/Category:Treaties_of_Grenada" title="Category:Treaties of Grenada">Treaties of Grenada</a></li><li><a href="/wiki/Category:Treaties_of_Guatemala" title="Category:Treaties of Guatemala">Treaties of Guatemala</a></li><li><a href="/wiki/Category:Treaties_of_Haiti" title="Category:Treaties of Haiti">Treaties of Haiti</a></li><li><a href="/wiki/Category:Treaties_of_Honduras" title="Category:Treaties of Honduras">Treaties of Honduras</a></li><li><a href="/wiki/Category:Treaties_of_Jamaica" title="Category:Treaties of Jamaica">Treaties of Jamaica</a></li><li><a href="/wiki/Category:Treaties_of_Mexico" title="Category:Treaties of Mexico">Treaties of Mexico</a></li><li><a href="/wiki/Category:Treaties_of_Nicaragua" title="Category:Treaties of Nicaragua">Treaties of Nicaragua</a></li><li><a href="/wiki/Category:Treaties_of_Panama" title="Category:Treaties of Panama">Treaties of Panama</a></li><li><a href="/wiki/Category:Treaties_of_Paraguay" title="Category:Treaties of Paraguay">Treaties of Paraguay</a></li><li><a href="/wiki/Category:Treaties_of_Peru" title="Category:Treaties of Peru">Treaties of Peru</a></li><li><a href="/wiki/Category:Treaties_of_Suriname" title="Category:Treaties of Suriname">Treaties of Suriname</a></li><li><a href="/wiki/Category:Treaties_of_Uruguay" title="Category:Treaties of Uruguay">Treaties of Uruguay</a></li><li><a href="/wiki/Category:1969_in_Costa_Rica" title="Category:1969 in Costa Rica">1969 in Costa Rica</a></li><li><a href="/wiki/Category:Inter-American_Court_of_Human_Rights" title="Category:Inter-American Court of Human Rights">Inter-American Court of Human Rights</a></li><li><a href="/wiki/Category:Anti%E2%80%93death_penalty_treaties" title="Category:Anti–death penalty treaties">Anti–death penalty treaties</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_September_2019" title="Category:Articles with dead external links from September 2019">Articles with dead external links from September 2019</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2013" title="Category:Articles containing potentially dated statements from 2013">Articles containing potentially dated statements from 2013</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2018" title="Category:Articles with unsourced statements from October 2018">Articles with unsourced statements from October 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=American+Convention+on+Human+Rights" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=American+Convention+on+Human+Rights" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/American_Convention_on_Human_Rights" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:American_Convention_on_Human_Rights" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/American_Convention_on_Human_Rights">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/American_Convention_on_Human_Rights" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/American_Convention_on_Human_Rights" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;oldid=917863904" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q469076" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=American_Convention_on_Human_Rights&amp;id=917863904" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/American_Convention_on_Human_Rights" hreflang="en">Wikisource</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=American+Convention+on+Human+Rights">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=American+Convention+on+Human+Rights&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=American_Convention_on_Human_Rights&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Amerikanische_Menschenrechtskonvention" title="Amerikanische Menschenrechtskonvention – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Convenci%C3%B3n_Americana_sobre_Derechos_Humanos" title="Convención Americana sobre Derechos Humanos – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Amerika_Konvencio_pri_Homaj_Rajtoj" title="Amerika Konvencio pri Homaj Rajtoj – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D9%86%D9%88%D8%A7%D9%86%D8%B3%DB%8C%D9%88%D9%86_%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C_%D8%AD%D9%82%D9%88%D9%82_%D8%A8%D8%B4%D8%B1" title="کنوانسیون آمریکایی حقوق بشر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Convention_am%C3%A9ricaine_relative_aux_droits_de_l%27homme" title="Convention américaine relative aux droits de l&#039;homme – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Convenci%C3%B3n_Americana_sobre_Dereitos_Humanos" title="Convención Americana sobre Dereitos Humanos – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%A3%BC%EC%9D%B8%EA%B6%8C%ED%98%91%EC%95%BD" title="미주인권협약 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Konvensi_Amerika_tentang_Hak_Asasi_Manusia" title="Konvensi Amerika tentang Hak Asasi Manusia – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Convenzione_americana_dei_diritti_dell%27uomo" title="Convenzione americana dei diritti dell&#039;uomo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Conventio_Americana_de_Iuribus_Humanis" title="Conventio Americana de Iuribus Humanis – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Verdrag_van_San_Jos%C3%A9" title="Verdrag van San José – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%B1%B3%E5%B7%9E%E4%BA%BA%E6%A8%A9%E6%9D%A1%E7%B4%84" title="米州人権条約 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Conven%C3%A7%C3%A3o_Americana_de_Direitos_Humanos" title="Convenção Americana de Direitos Humanos – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D0%B8%D1%8F_%D0%BE_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%D1%85_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0" title="Американская конвенция о правах человека – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D0%BD%D1%86%D1%96%D1%8F_%D0%B7_%D0%BF%D1%80%D0%B0%D0%B2_%D0%BB%D1%8E%D0%B4%D0%B8%D0%BD%D0%B8" title="Американська конвенція з прав людини – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/C%C3%B4ng_%C6%B0%E1%BB%9Bc_ch%C3%A2u_M%E1%BB%B9_v%E1%BB%81_Nh%C3%A2n_quy%E1%BB%81n" title="Công ước châu Mỹ về Nhân quyền – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q469076#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 21:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=American_Convention_on_Human_Rights&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.468","ppvisitednodes":{"value":1894,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93809,"limit":2097152},"templateargumentsize":{"value":3770,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19209,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  376.317      1 -total"," 23.12%   86.992      6 Template:Cite_web"," 17.98%   67.670      1 Template:Infobox_Treaty"," 16.67%   62.746      2 Template:Citation_needed"," 16.05%   60.406      3 Template:Fix"," 14.46%   54.424      1 Template:Infobox"," 10.83%   40.750      6 Template:Category_handler","  7.67%   28.869      6 Template:Navbox","  6.41%   24.138      1 Template:As_of","  6.11%   22.989      1 Template:Portal_bar"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":4964430,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190925211057","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"American Convention on Human Rights","url":"https:\/\/en.wikipedia.org\/wiki\/American_Convention_on_Human_Rights","sameAs":"http:\/\/www.wikidata.org\/entity\/Q469076","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q469076","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-09-21T07:39:05Z","dateModified":"2019-09-25T21:10:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/84\/Memorial_de_las_v%C3%ADctimas_del_Mozote.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":120,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

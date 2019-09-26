@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Plantation economy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Plantation_economy","wgTitle":"Plantation economy","wgCurRevisionId":910749185,"wgRevisionId":910749185,"wgArticleId":1653010,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from December 2010","USA-centric","Articles to be expanded from December 2017","All articles to be expanded","Articles using small message boxes","Agricultural economics","Economic systems","History of Virginia","Slavery in North America","Plantations","Plantations (settlements or colonies)"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September"
+,"October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Plantation_economy","wgRelevantArticleId":1653010,"wgRequestId":"XYpWKwpAMFAAAGLUcj4AAACH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3578694","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready",
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Plantation_economy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Plantation_economy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Plantation_economy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Plantation_economy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Plantation_economy rootpage-Plantation_economy skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Plantation economy</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this article <b>deal primarily with the United States and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Plantation_economy&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:Plantation_economy" title="Talk:Plantation economy">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <small class="date-container"><i>(<span class="date">December 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Economic_systems" title="Category:Economic systems">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Economic_system" title="Economic system">Economic systems</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;"><a href="/wiki/Economic_ideology" title="Economic ideology">By ideology</a></div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Anarchist_economics" title="Anarchist economics">Anarchist</a></li>
+<li><a href="/wiki/Capitalism" title="Capitalism">Capitalist</a>
+<ul><li><a href="/wiki/Corporate_capitalism" title="Corporate capitalism">Corporate</a></li>
+<li><a href="/wiki/Dirigisme" title="Dirigisme">Dirigist</a></li>
+<li><a href="/wiki/Laissez-faire" title="Laissez-faire">Laissez-faire</a></li>
+<li><a href="/wiki/Mercantilism" title="Mercantilism">Mercantilist</a></li>
+<li><a href="/wiki/Neomercantilism" title="Neomercantilism">Neo-mercantilist</a></li>
+<li><a href="/wiki/Protectionism" title="Protectionism">Protectionist</a></li>
+<li><a href="/wiki/Social_market_economy" title="Social market economy">Social market</a></li>
+<li><a href="/wiki/State_capitalism" title="State capitalism">State capitalist</a></li></ul></li>
+<li><a href="/wiki/Economic_democracy" title="Economic democracy">Democratic</a></li>
+<li><a href="/wiki/Economics_of_fascism" title="Economics of fascism">Fascist</a></li>
+<li><a href="/wiki/Feminist_economics" title="Feminist economics">Feminist</a></li>
+<li><a href="/wiki/Georgism" title="Georgism">Georgist</a></li>
+<li><a href="/wiki/Green_economy" title="Green economy">Green</a></li>
+<li>Religious
+<ul><li><a href="/wiki/Christian_finance" title="Christian finance">Christian</a></li>
+<li><a href="/wiki/Islamic_economics" title="Islamic economics">Islamic</a></li></ul></li>
+<li><a href="/wiki/Socialist_economics" title="Socialist economics">Socialist</a>
+<ul><li><a href="/wiki/Market_socialism" title="Market socialism">Market socialist</a></li>
+<li><a href="/wiki/Mutualism_(movement)" title="Mutualism (movement)">Mutualist</a></li>
+<li><a href="/wiki/Participatory_economics" title="Participatory economics">Participatory</a></li>
+<li><a href="/wiki/Socialist_market_economy" title="Socialist market economy">Socialist market</a></li>
+<li><a href="/wiki/Socialist-oriented_market_economy" title="Socialist-oriented market economy">Socialist oriented market</a></li>
+<li><a href="/wiki/Syndicalism" title="Syndicalism">Syndicalist</a></li></ul></li>
+<li><a href="/wiki/Social_credit" title="Social credit">Social credit</a></li>
+<li>Traditionalist
+<ul><li><a href="/wiki/Communalism" title="Communalism">Communalist</a></li>
+<li><a href="/wiki/Corporatism" title="Corporatism">Corporatist</a></li>
+<li><a href="/wiki/Distributism" title="Distributism">Distributist</a></li>
+<li><a href="/wiki/Feudalism" title="Feudalism">Feudalism</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">By coordination</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Autarky" title="Autarky">Closed (autarky)</a></li>
+<li><a href="/wiki/Decentralized_planning_(economics)" title="Decentralized planning (economics)">Decentralized</a></li>
+<li><a href="/wiki/Digital_economy" title="Digital economy">Digital</a></li>
+<li><a href="/wiki/Dual_economy" title="Dual economy">Dual</a></li>
+<li><a href="/wiki/Gift_economy" title="Gift economy">Gift</a></li>
+<li><a href="/wiki/Informal_sector" class="mw-redirect" title="Informal sector">Informal</a></li>
+<li><a href="/wiki/Market_economy" title="Market economy">Market</a></li>
+<li><a href="/wiki/Mixed_economy" title="Mixed economy">Mixed</a></li>
+<li><a href="/wiki/Natural_economy" title="Natural economy">Natural</a></li>
+<li><a href="/wiki/Open_economy" title="Open economy">Open</a></li>
+<li><a href="/wiki/Planned_economy" title="Planned economy">Planned</a></li>
+<li><a href="/wiki/Robinson_Crusoe_economy" title="Robinson Crusoe economy">Robinson Crusoe</a></li>
+<li><a href="/wiki/Subsistence_economy" title="Subsistence economy">Subsistence</a></li>
+<li><a href="/wiki/Black_market" title="Black market">Underground</a></li>
+<li><a href="/wiki/Vertical_archipelago" title="Vertical archipelago">Vertical archipelago</a></li>
+<li><a href="/wiki/Virtual_economy" title="Virtual economy">Virtual</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">By regional model</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li>Asian
+<ul><li><a href="/wiki/East_Asian_model_of_capitalism" title="East Asian model of capitalism">East Asian</a></li>
+<li><a href="/wiki/Beijing_Consensus" title="Beijing Consensus">Chinese</a></li>
+<li><a href="/wiki/Economy_of_Singapore" title="Economy of Singapore">Singaporean</a></li></ul></li>
+<li>European
+<ul><li><a href="/wiki/Anglo-Saxon_model" title="Anglo-Saxon model">Anglo-Saxon</a></li>
+<li><a href="/wiki/German_model" title="German model">German</a></li>
+<li><a href="/wiki/Nordic_model" title="Nordic model">Nordic</a></li>
+<li><a href="/wiki/Social_market_economy" title="Social market economy">Rhenish</a></li>
+<li><a href="/wiki/Soviet-type_economic_planning" title="Soviet-type economic planning">Soviet</a></li></ul></li></ul>
+<ul><li>Latin America
+<ul><li><a href="/wiki/Socialism_of_the_21st_century" title="Socialism of the 21st century">Socialism of the 21st century</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Sectors</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Common_ownership" title="Common ownership">Common ownership</a></li>
+<li><a href="/wiki/Private_sector" title="Private sector">Private</a></li>
+<li><a href="/wiki/Public_sector" title="Public sector">Public</a></li>
+<li><a href="/wiki/Voluntary_sector" title="Voluntary sector">Voluntary</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Property types</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Collective_ownership" title="Collective ownership">Collective ownership</a></li>
+<li><a href="/wiki/Commons" title="Commons">Commons</a></li>
+<li><a href="/wiki/Private_property" title="Private property">Private property</a></li>
+<li><a href="/wiki/State_ownership" title="State ownership">State ownership</a></li>
+<li><a href="/wiki/Social_ownership" title="Social ownership">Social ownership</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Transition</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Collective_farming" title="Collective farming">Collectivization</a></li>
+<li><a href="/wiki/Communization" title="Communization">Communization</a></li>
+<li><a href="/wiki/Corporatization" title="Corporatization">Corporatization</a></li>
+<li><a href="/wiki/Demutualization" title="Demutualization">Demutualization</a></li>
+<li><a href="/wiki/Deregulation" title="Deregulation">Deregulation</a></li>
+<li><a href="/wiki/Expropriation" title="Expropriation">Expropriation</a></li>
+<li><a href="/wiki/Financialization" title="Financialization">Financialization</a></li>
+<li><a href="/wiki/Liberalization" title="Liberalization">Liberalization</a></li>
+<li><a href="/wiki/Marketization" title="Marketization">Marketization</a></li>
+<li><a href="/wiki/Municipalization" title="Municipalization">Municipalization</a></li>
+<li><a href="/wiki/Mutualization" title="Mutualization">Mutualization</a></li>
+<li><a href="/wiki/Nationalization" title="Nationalization">Nationalization</a></li>
+<li><a href="/wiki/Privatization" title="Privatization">Privatization</a></li>
+<li><a href="/wiki/Social_ownership" title="Social ownership">Socialization</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Coordination</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Barter" title="Barter">Barter</a></li>
+<li><a href="/wiki/Market_(economics)" title="Market (economics)">Market</a>
+<ul><li><a href="/wiki/Free_market" title="Free market">Free</a></li>
+<li><a href="/wiki/Open_market" title="Open market">Open</a></li>
+<li><a href="/wiki/Regulated_market" title="Regulated market">Regulated</a></li></ul></li>
+<li><a href="/wiki/Economic_planning" title="Economic planning">Planning</a>
+<ul><li><a href="/wiki/Calculation_in_kind" title="Calculation in kind">In kind</a></li>
+<li><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></li>
+<li><a href="/wiki/Indicative_planning" title="Indicative planning">Indicative</a></li>
+<li><a href="/wiki/Material_balance_planning" title="Material balance planning">Material balancing</a></li></ul></li>
+<li><a href="/wiki/Price_system" title="Price system">Price</a></li>
+<li><a href="/wiki/Self-managed_economy" class="mw-redirect" title="Self-managed economy">Self-managed</a>
+<ul><li><a href="/wiki/Social_peer-to-peer_processes#P2P_economic_system" title="Social peer-to-peer processes">Peer-to-peer</a></li>
+<li><a href="/wiki/Sharing_economy" title="Sharing economy">Sharing</a></li>
+<li><a href="/wiki/Open_access" title="Open access">Open access</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:lavender;text-align:center;">Other types</div><div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Commons-based_peer_production" title="Commons-based peer production">Commons-based peer production</a></li>
+<li><a href="/wiki/Expeditionary_economics" title="Expeditionary economics">Expeditionary</a></li>
+<li><a href="/wiki/Hunter-gatherer" title="Hunter-gatherer">Hunter-gatherer</a></li>
+<li><a href="/wiki/Inclusive_Democracy" title="Inclusive Democracy">Inclusive Democracy</a></li>
+<li><a href="/wiki/Information_economy" title="Information economy">Information</a></li>
+<li><a href="/wiki/Manorialism" title="Manorialism">Manorialism</a></li>
+<li><a href="/wiki/Newly_industrialized_country" title="Newly industrialized country">Newly industrialized</a></li>
+<li><a href="/wiki/Palace_economy" title="Palace economy">Palace</a></li>
+<li><a class="mw-selflink selflink">Plantation</a></li>
+<li><a href="/wiki/Plutonomy" title="Plutonomy">Plutonomy</a></li>
+<li><a href="/wiki/Post-capitalism" title="Post-capitalism">Post-capitalist</a></li>
+<li><a href="/wiki/Post-industrial_economy" title="Post-industrial economy">Post-industrial</a></li>
+<li><a href="/wiki/Post-scarcity_economy" title="Post-scarcity economy">Post-scarcity</a></li>
+<li><a href="/wiki/Resource-based_economy" title="Resource-based economy">Resource-based</a></li>
+<li><a href="/wiki/Token_economy" title="Token economy">Token</a></li>
+<li><a href="/wiki/Traditional_economy" title="Traditional economy">Traditional</a></li>
+<li><a href="/wiki/Transition_economy" title="Transition economy">Transition</a></li>
+<li><a href="/wiki/World_economy" title="World economy">World</a></li></ul></div></div></td>
+</tr><tr><td class="plainlist" style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;line-height:1.2em;font-weight:bold;">
+<ul><li><a href="/wiki/File:Emblem-money.svg" class="image"><img alt="Emblem-money.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/16px-Emblem-money.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/24px-Emblem-money.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Emblem-money.svg/32px-Emblem-money.svg.png 2x" data-file-width="48" data-file-height="48" /></a> <a href="/wiki/Portal:Business_and_economics" class="mw-redirect" title="Portal:Business and economics">Business and economics&#32;portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Economic_systems_sidebar" title="Template:Economic systems sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Economic_systems_sidebar" title="Template talk:Economic systems sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Economic_systems_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>A <b>plantation economy</b> is an economy based on <a href="/wiki/Agricultural" class="mw-redirect" title="Agricultural">agricultural</a> <a href="/wiki/Mass_production" title="Mass production">mass production</a>, usually of a few <a href="/wiki/Commodity" title="Commodity">commodity</a> crops grown on large farms called <a href="/wiki/Plantation" title="Plantation">plantations</a>. Plantation economies rely on the <a href="/wiki/Export" title="Export">export</a> of <a href="/wiki/Cash_crop" title="Cash crop">cash crops</a> as a source of income. Prominent crops included <a href="/wiki/Cotton" title="Cotton">cotton</a>, <a href="/wiki/Rubber" class="mw-redirect" title="Rubber">rubber</a>, <a href="/wiki/Sugar_cane" class="mw-redirect" title="Sugar cane">sugar cane</a>, <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>, <a href="/wiki/Ficus" title="Ficus">figs</a>, <a href="/wiki/Rice" title="Rice">rice</a>, <a href="/wiki/Ceiba_pentandra" title="Ceiba pentandra">kapok</a>, <a href="/wiki/Sisal" title="Sisal">sisal</a>, and species in the genus <i><a href="/wiki/Indigofera" title="Indigofera">Indigofera</a></i>, used to produce <a href="/wiki/Indigo_dye" title="Indigo dye">indigo dye</a>.
+</p><p>The longer a crop's <a href="/wiki/Harvest" title="Harvest">harvest</a> period, the more efficient plantations become. <a href="/wiki/Economies_of_scale" title="Economies of scale">Economies of scale</a> are also achieved when the distance to market is long. Plantation crops usually need processing immediately after harvesting. Sugarcane, <a href="/wiki/Tea" title="Tea">tea</a>, sisal, and <a href="/wiki/Palm_oil" title="Palm oil">palm oil</a> are most suited to plantations, while coconuts, rubber, and cotton are suitable to a lesser extent.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Conditions_for_formation"><span class="tocnumber">1</span> <span class="toctext">Conditions for formation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#North_American_plantations"><span class="tocnumber">2</span> <span class="toctext">North American plantations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Slavery"><span class="tocnumber">2.1</span> <span class="toctext">Slavery</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Atlantic_slave_trade"><span class="tocnumber">3</span> <span class="toctext">Atlantic slave trade</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Industrial_Revolution_in_Europe"><span class="tocnumber">4</span> <span class="toctext">Industrial Revolution in Europe</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sugar_plantations"><span class="tocnumber">5</span> <span class="toctext">Sugar plantations</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Indigo_plantations"><span class="tocnumber">6</span> <span class="toctext">Indigo plantations</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Currencies"><span class="tocnumber">7</span> <span class="toctext">Currencies</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Conditions_for_formation">Conditions for formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=1" title="Edit section: Conditions for formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Plantation economies are factory-like, industrialised and centralised forms of agriculture, owned by large corporations or affluent owners. Under normal circumstances, plantation economies are not as efficient as small farm holdings, since there is immense difficulty in proper supervision of labour over a large land area. However, when there are large distances between the plantations and their markets, expensive processing machinery to reduce the bulk of the crop greatly lowers shipping costs. This allows large plantations which produce large quantities of the good to achieve economies of scale, as the per unit cost of processing is greatly diminished. This economy of scale can be achieved best with tropical crops that are harvested continuously through the year, fully utilising the processing machinery. Examples of crops that are suitable to be processed are sugar, sisal, palm oil, and tea. <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="North_American_plantations">North American plantations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=2" title="Edit section: North American plantations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Plantations_in_the_American_South" title="Plantations in the American South">Plantations in the American South</a></div>
+<p>In the <a href="/wiki/Thirteen_Colonies" title="Thirteen Colonies">Thirteen Colonies</a>, plantations were concentrated in the South. These colonies included Maryland, Virginia, North Carolina, South Carolina, and Georgia. They had good <a href="/wiki/Soil" title="Soil">soil</a> and almost year-round growing seasons, ideal for crops such as <a href="/wiki/Rice" title="Rice">rice</a> and <a href="/wiki/Tobacco" title="Tobacco">tobacco</a>. The existence of many <a href="/wiki/Waterway" title="Waterway">waterways</a> in the region made transportation easier. Each colony specialized in one or two crops, with Virginia standing out in tobacco production<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Slavery">Slavery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=3" title="Edit section: Slavery">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Slavery_in_the_United_States" title="Slavery in the United States">Slavery in the United States</a> and <a href="/wiki/Slavery_in_the_colonial_United_States" title="Slavery in the colonial United States">Slavery in the colonial United States</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_IV_-_BL.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg/220px-Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg" decoding="async" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg/330px-Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg/440px-Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_%281823%29%2C_plate_IV_-_BL.jpg 2x" data-file-width="1854" data-file-height="1290" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Slaves_cutting_the_sugar_cane_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_IV_-_BL.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Sugar_plantations_in_the_Caribbean" title="Sugar plantations in the Caribbean">Sugar plantation</a> in the British colony of <a href="/wiki/Antigua" title="Antigua">Antigua</a>, 1823</div></div></div>
+<p><a href="/wiki/Planter_(American_South)" class="mw-redirect" title="Planter (American South)">Planters</a> embraced the use of <a href="/wiki/Slavery" title="Slavery">slaves</a> mainly because <a href="/wiki/Indentured_labor" class="mw-redirect" title="Indentured labor">indentured labor</a> became expensive. Some indentured servants were also leaving to start their own farms as land was widely available. Colonists tried to use <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native Americans</a> for labor, but they were susceptible to European diseases and <a href="/wiki/Population_history_of_the_indigenous_peoples_of_the_Americas" class="mw-redirect" title="Population history of the indigenous peoples of the Americas">died in large numbers</a>. The plantation owners then turned to enslaved <a href="/wiki/Africans" class="mw-redirect" title="Africans">Africans</a> for labor. In 1665, there were fewer than 500 Africans in Virginia but by 1750, 85 percent of the 235,000 slaves lived in the Southern colonies, Virginia included. Africans made up 40 percent of the South’s population.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>According to the <a href="/wiki/1840_United_States_Census" title="1840 United States Census">1840 United States Census</a>, one out of every four families in Virginia owned slaves. There were over 100 plantation owners who owned over 100 slaves.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The number of slaves in the  15 States was just shy of 4 million in a total population 12.4 million and the percentage was 32% of the population. 
+</p>
+<ul><li>Number of slaves in the Lower South:   2,312,352 (47% of total population) 4,919 million.</li>
+<li>Number of slaves in the Upper South:   1,208,758 (29% of total population) 4,165 million.</li>
+<li>Number of slaves in the Border States: 432,586    (13% of total population) 3,323 million.</li></ul>
+<p>Fewer than one-third of Southern families owned slaves at the peak of slavery prior to the <a href="/wiki/United_States_Civil_War" class="mw-redirect" title="United States Civil War">Civil War</a>. In <a href="/wiki/Mississippi" title="Mississippi">Mississippi</a> and <a href="/wiki/South_Carolina" title="South Carolina">South Carolina</a> the figure approached one half. The total number of slave owners was 385,000 (including, in <a href="/wiki/Louisiana" title="Louisiana">Louisiana</a>, some <a href="/wiki/Free_African_American" class="mw-redirect" title="Free African American">free African Americans</a>), amounting to approximately 3.8% of the Southern and Border states population.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tobacco.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tobacco.jpg/220px-Tobacco.jpg" decoding="async" width="220" height="326" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tobacco.jpg/330px-Tobacco.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/ed/Tobacco.jpg 2x" data-file-width="432" data-file-height="640" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tobacco.jpg" class="internal" title="Enlarge"></a></div>Tobacco field</div></div></div>
+<p>On a plantation with more than 100 slaves, the capital value of the slaves was greater than the capital value of the land and farming implements.
+</p>
+<h2><span class="mw-headline" id="Atlantic_slave_trade">Atlantic slave trade</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=4" title="Edit section: Atlantic slave trade">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Atlantic_slave_trade" title="Atlantic slave trade">Atlantic slave trade</a></div>
+<p>Enslaved Africans were brought from Africa by the English and other European powers, for their Western Hemisphere colonies. They were shipped from <a href="/wiki/Port" title="Port">ports</a> in <a href="/wiki/West_Africa" title="West Africa">West Africa</a> to the <a href="/wiki/New_World" title="New World">New World</a>. The journey from Africa across the Atlantic Ocean was called "the <a href="/wiki/Middle_passage" class="mw-redirect" title="Middle passage">middle passage</a>", and was one of the three legs which comprised the [trade] among the continents of <a href="/wiki/Europe" title="Europe">Europe</a>, the <a href="/wiki/Americas" title="Americas">Americas</a>, and <a href="/wiki/Africa" title="Africa">Africa</a>.
+</p><p>By some estimates, it is said that some ten million <a href="/wiki/Ethnic_groups_of_Africa" class="mw-redirect" title="Ethnic groups of Africa">Africans</a> were brought to the Americas. Only about 6% ended up in the North American colonies, while the majority were taken to the <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> colonies and <a href="/wiki/South_America" title="South America">South America</a>. A reason many did not make it to the colonies at all was disease and illness. Underneath the slave ship's decks, Africans were held chest-to-chest and could not do much moving. There was waste and urine throughout the hold; this caused the captives to get sick and to die from illnesses that could not be cured.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>As the plantation economy expanded, the slave trade grew to meet the growing demand for labor.
+</p>
+<h2><span class="mw-headline" id="Industrial_Revolution_in_Europe">Industrial Revolution in Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=5" title="Edit section: Industrial Revolution in Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a></div> 
+<p><a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> was the final destination for the plantation produce. At this time, Europe was starting to <a href="/wiki/Industrialize" class="mw-redirect" title="Industrialize">industrialize</a>, and it needed a lot of materials to manufacture goods. Being the power center of the world at the time, they exploited the New World and Africa to industrialize. Africa supplied slaves for the plantations; the New World produced <a href="/wiki/Raw_material" title="Raw material">raw material</a> for industries in Europe. Manufactured goods, of higher value, were then sold both to Africa and the New World. The system was largely run by European merchants<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sugar_plantations">Sugar plantations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=6" title="Edit section: Sugar plantations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Sugar_cane_workers_resting_1a34016v.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sugar_cane_workers_resting_1a34016v.jpg/220px-Sugar_cane_workers_resting_1a34016v.jpg" decoding="async" width="220" height="153" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sugar_cane_workers_resting_1a34016v.jpg/330px-Sugar_cane_workers_resting_1a34016v.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sugar_cane_workers_resting_1a34016v.jpg/440px-Sugar_cane_workers_resting_1a34016v.jpg 2x" data-file-width="1024" data-file-height="713" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Sugar_cane_workers_resting_1a34016v.jpg" class="internal" title="Enlarge"></a></div>Sugar cane workers in <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>, 1941</div></div></div>
+<p><a href="/wiki/Sugar" title="Sugar">Sugar</a> has a <a href="/wiki/History_of_sugar" title="History of sugar">long history</a> as a plantation crop. Cultivation of sugar had to follow a precise <a href="/wiki/Agricultural_science" title="Agricultural science">scientific system</a> to profit from the production. Sugar plantations everywhere were disproportionate consumers of labor, often enslaved, because of the high mortality of the plantation laborers. In Brazil, plantations were called <i><a href="/wiki/Casa_grande_(sugar_plantation)" class="mw-redirect" title="Casa grande (sugar plantation)">casas grandes</a></i> and suffered from similar issues.
+</p><p>The <a href="/wiki/Slavery" title="Slavery">slaves</a> working the sugar plantation were caught in an unceasing rhythm of arduous labor year after year. <a href="/wiki/Sugarcane" title="Sugarcane">Sugarcane</a> is harvested about 18 months after planting and the plantations usually divided their land for efficiency. One plot was lying <a href="/wiki/Fallow" class="mw-redirect" title="Fallow">fallow</a>, one plot was growing cane, and the final plot was being harvested. During the December–May <a href="/wiki/Rainy_season" class="mw-redirect" title="Rainy season">rainy season</a>, slaves planted, <a href="/wiki/Fertilizer" title="Fertilizer">fertilized</a> with animal dung, and <a href="/wiki/Weed_control" title="Weed control">weeded</a>. From January to June, they harvested the cane by chopping the plants off close to the ground, stripping the leaves and then cutting them into shorter strips to be bundled off to be sent to the <a href="/wiki/Sugar_cane_mill" class="mw-redirect" title="Sugar cane mill">sugar cane mill</a>.
+</p><p>In the mill, the cane was crushed using a three-roller mill. The juice from the crushing of the cane was then boiled or clarified until it <a href="/wiki/Crystallized" class="mw-redirect" title="Crystallized">crystallized</a> into sugar. Some plantations also went a step further and <a href="/wiki/Distilled" class="mw-redirect" title="Distilled">distilled</a> the <a href="/wiki/Molasses" title="Molasses">molasses</a>, the liquid left after the sugar is boiled or clarified, to make <a href="/wiki/Rum" title="Rum">rum</a>. The sugar was then shipped back to <a href="/wiki/Europe" title="Europe">Europe</a>. For the slave laborer, the routine started all over again.
+</p><p>With the 19th-century <a href="/wiki/Abolition_of_slavery" class="mw-redirect" title="Abolition of slavery">abolition of slavery</a>, plantations continued to grow sugar cane, but <a href="/wiki/Sugar_beet" title="Sugar beet">sugar beets</a>, which can be grown in <a href="/wiki/Temperate_climate" title="Temperate climate">temperate climates</a>, increased their share of the sugar market.
+</p>
+<h2><span class="mw-headline" id="Indigo_plantations">Indigo plantations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=7" title="Edit section: Indigo plantations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Indigofera" title="Indigofera">Indigofera</a> was a major crop cultivated during the 18th century, in <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>, <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a>—and <a href="/wiki/Haiti" title="Haiti">Haiti</a> until the slave <a href="/wiki/Haitian_Revolution" title="Haitian Revolution">rebellion against France</a> that left them <a href="/wiki/Embargo" class="mw-redirect" title="Embargo">embargoed</a> by Europe and <a href="/wiki/India" title="India">India</a> in the 19th and 20th centuries. The indigo crop was grown for making blue <a href="/wiki/Indigo_dye" title="Indigo dye">indigo dye</a> in the pre-industrial age.
+</p><p><a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a>'s investigation of indigo workers' claims of exploitation led to the passage of the <a href="/wiki/Champaran" title="Champaran">Champaran</a> Agrarian Bill in 1917 by the British colonial government.
+</p>
+<h2><span class="mw-headline" id="Currencies">Currencies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=8" title="Edit section: Currencies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">December 2017</span>)</i></small></div></td></tr></tbody></table>
+<p>The currency for the Georgia colony was the <a href="/wiki/Pound_sterling" title="Pound sterling">Pound sterling</a>, a gold coin or very light green bill with the national pound symbol. The currency is worth about one and one half U.S. dollar.
+</p><p>The currency for the New York was at the time of the colony the <a href="/wiki/New_York_pound" title="New York pound">New York pound</a>. This currency was primarily used and made in the 1700s.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Banana_republic" title="Banana republic">Banana republic</a></li>
+<li><a href="/wiki/History_of_commercial_tobacco_in_the_United_States" title="History of commercial tobacco in the United States">History of commercial tobacco in the United States</a></li>
+<li><a href="/wiki/History_of_sugar" title="History of sugar">History of sugar</a></li>
+<li><a href="/wiki/King_Cotton" title="King Cotton">King Cotton</a></li>
+<li><a href="/wiki/Latifundium" title="Latifundium">Latifundium</a></li>
+<li><a href="/wiki/Sugar_plantations_in_the_Caribbean" title="Sugar plantations in the Caribbean">Sugar plantations in the Caribbean</a></li>
+<li><a href="/wiki/Tropical_agriculture" title="Tropical agriculture">Tropical agriculture</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Plantation_economy&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 34em; -webkit-column-width: 34em; column-width: 34em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Jeffery Paige, Agrarian Revolution, 1975.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Jeffrey M. Paige (1978). <i>Agrarian Revolution</i>. Simon and Schuster. pp.&#160;14–15. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0029235502" title="Special:BookSources/0029235502"><bdi>0029235502</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Agrarian+Revolution&amp;rft.pages=14-15&amp;rft.pub=Simon+and+Schuster&amp;rft.date=1978&amp;rft.isbn=0029235502&amp;rft.au=Jeffrey+M.+Paige&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlantation+economy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The Southern Colonies:Plantations and Slavery, by Kalpesh Khanna Kapurtalawla</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">The Southern Colonies: Plantations and Slavery</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pbs.org/wgbh/pages/frontline/shows/jefferson/slaves/">"PBS The Slaves' Story"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-03-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=PBS+The+Slaves%27+Story&amp;rft_id=https%3A%2F%2Fwww.pbs.org%2Fwgbh%2Fpages%2Ffrontline%2Fshows%2Fjefferson%2Fslaves%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APlantation+economy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Stephen Behrendt (1999). "Transatlantic Slave Trade". Africana: The Encyclopedia of the African and African American Experience</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">The Abolition Project, <a rel="nofollow" class="external free" href="http://abolition.e2bn.org/slavery_42.html">http://abolition.e2bn.org/slavery_42.html</a>, accessed 3-26-2013</span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Plantation_agriculture_in_the_Southeastern_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Plantation_agriculture_in_the_Southeastern_United_States" title="Template:Plantation agriculture in the Southeastern United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Plantation_agriculture_in_the_Southeastern_United_States" title="Template talk:Plantation agriculture in the Southeastern United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Plantation_agriculture_in_the_Southeastern_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Plantation_agriculture_in_the_Southeastern_United_States" style="font-size:114%;margin:0 4em">Plantation agriculture in the Southeastern United States</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">The plantation</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Plantations_in_the_American_South" title="Plantations in the American South">Plantations in the American South</a></li>
+<li><a class="mw-selflink selflink">Plantation economy</a></li>
+<li><a href="/wiki/Plantation_complexes_in_the_Southern_United_States" title="Plantation complexes in the Southern United States">Plantation complexes in the Southern United States</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cash crops</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cotton" title="Cotton">Cotton</a></li>
+<li><a href="/wiki/Indigo_dye" title="Indigo dye">Indigo</a></li>
+<li><a href="/wiki/Rice" title="Rice">Rice</a></li>
+<li><a href="/wiki/Sugarcane" title="Sugarcane">Sugarcane</a></li>
+<li><a href="/wiki/Tobacco" title="Tobacco">Tobacco</a></li>
+<li><a href="/wiki/Hemp" title="Hemp">Hemp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Slavery</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Slavery_in_the_United_States" title="Slavery in the United States">Slavery in the United States</a>
+<ul><li><a href="/wiki/Slave_breeding_in_the_United_States" title="Slave breeding in the United States">Slave breeding</a></li></ul></li>
+<li>Slave trade
+<ul><li><a href="/wiki/Atlantic_slave_trade" title="Atlantic slave trade">Atlantic</a></li>
+<li><a href="/wiki/Slavery_in_the_United_States#Internal_slave_trade_and_forced_migration" title="Slavery in the United States">Internal</a></li>
+<li><a href="/wiki/Interregional_slave_trade" class="mw-redirect" title="Interregional slave trade">Interregional</a></li></ul></li>
+<li><a href="/wiki/Fugitive_slave_laws" class="mw-redirect" title="Fugitive slave laws">Fugitive slave laws</a></li>
+<li><a href="/wiki/Underground_Railroad" title="Underground Railroad">Underground Railroad</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other labor</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sharecropping#United_States" title="Sharecropping">Sharecropping</a></li>
+<li><a href="/wiki/Convict_leasing" title="Convict leasing">Convict leasing</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists of plantations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_plantations_in_the_United_States" title="List of plantations in the United States">United States</a></li>
+<li><a href="/wiki/List_of_plantations_in_Alabama" title="List of plantations in Alabama">Alabama</a></li>
+<li><a href="/wiki/Category:Plantations_in_Florida" title="Category:Plantations in Florida">Florida</a>
+<ul><li><a href="/wiki/Plantations_of_Leon_County" class="mw-redirect" title="Plantations of Leon County">Plantations of Leon County</a></li></ul></li>
+<li><a href="/wiki/List_of_plantations_in_Georgia_(U.S._state)" title="List of plantations in Georgia (U.S. state)">Georgia</a></li>
+<li><a href="/wiki/List_of_plantations_in_Kentucky_(U.S._state)" title="List of plantations in Kentucky (U.S. state)">Kentucky</a></li>
+<li><a href="/wiki/List_of_plantations_in_Louisiana" title="List of plantations in Louisiana">Louisiana</a></li>
+<li><a href="/wiki/List_of_plantations_in_Mississippi" title="List of plantations in Mississippi">Mississippi</a></li>
+<li><a href="/wiki/List_of_plantations_in_North_Carolina" title="List of plantations in North Carolina">North Carolina</a></li>
+<li><a href="/wiki/List_of_plantations_in_South_Carolina" title="List of plantations in South Carolina">South Carolina</a></li>
+<li><a href="/wiki/List_of_plantations_in_Virginia" title="List of plantations in Virginia">Virginia</a></li>
+<li><a href="/wiki/List_of_plantations_in_West_Virginia" title="List of plantations in West Virginia">West Virginia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20190918223849
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.304 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 742/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46752/2097152 bytes
+Template argument size: 193/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7062/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.117/10.000 seconds
+Lua memory usage: 2.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  268.012      1 -total
+ 41.76%  111.929      1 Template:Reflist
+ 31.68%   84.900      1 Template:Cite_book
+ 27.18%   72.849      1 Template:Globalize
+ 19.30%   51.721      2 Template:Ambox
+ 13.37%   35.838      1 Template:Economic_systems_sidebar
+ 11.92%   31.960      1 Template:Sidebar_with_collapsible_lists
+  5.42%   14.532      1 Template:Portal-inline
+  5.39%   14.442      3 Template:Main
+  4.28%   11.469      1 Template:Plantation_agriculture_in_the_Southeastern_United_States
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1653010-0!canonical and timestamp 20190918223848 and revision id 910749185
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Plantation_economy&amp;oldid=910749185">https://en.wikipedia.org/w/index.php?title=Plantation_economy&amp;oldid=910749185</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Agricultural_economics" title="Category:Agricultural economics">Agricultural economics</a></li><li><a href="/wiki/Category:Economic_systems" title="Category:Economic systems">Economic systems</a></li><li><a href="/wiki/Category:History_of_Virginia" title="Category:History of Virginia">History of Virginia</a></li><li><a href="/wiki/Category:Slavery_in_North_America" title="Category:Slavery in North America">Slavery in North America</a></li><li><a href="/wiki/Category:Plantations" title="Category:Plantations">Plantations</a></li><li><a href="/wiki/Category:Plantations_(settlements_or_colonies)" title="Category:Plantations (settlements or colonies)">Plantations (settlements or colonies)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_December_2010" title="Category:Articles with limited geographic scope from December 2010">Articles with limited geographic scope from December 2010</a></li><li><a href="/wiki/Category:USA-centric" title="Category:USA-centric">USA-centric</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_December_2017" title="Category:Articles to be expanded from December 2017">Articles to be expanded from December 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Plantation+economy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Plantation+economy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Plantation_economy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Plantation_economy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Plantation_economy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Plantation_economy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Plantation_economy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Plantation_economy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Plantation_economy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Plantation_economy&amp;oldid=910749185" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Plantation_economy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3578694" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Plantation_economy&amp;id=910749185" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Plantation_economy" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Plantation+economy">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Plantation+economy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Plantation_economy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89conomie_de_plantation" title="Économie de plantation – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Economia_di_piantagione" title="Economia di piantagione – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Ekonomi_plantasyon" title="Ekonomi plantasyon – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3578694#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 August 2019, at 05:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Plantation_economy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.394","ppvisitednodes":{"value":742,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46752,"limit":2097152},"templateargumentsize":{"value":193,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7062,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  268.012      1 -total"," 41.76%  111.929      1 Template:Reflist"," 31.68%   84.900      1 Template:Cite_book"," 27.18%   72.849      1 Template:Globalize"," 19.30%   51.721      2 Template:Ambox"," 13.37%   35.838      1 Template:Economic_systems_sidebar"," 11.92%   31.960      1 Template:Sidebar_with_collapsible_lists","  5.42%   14.532      1 Template:Portal-inline","  5.39%   14.442      3 Template:Main","  4.28%   11.469      1 Template:Plantation_agriculture_in_the_Southeastern_United_States"]},"scribunto":{"limitreport-timeusage":{"value":"0.117","limit":"10.000"},"limitreport-memusage":{"value":2717252,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1250","timestamp":"20190918223849","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Plantation economy","url":"https:\/\/en.wikipedia.org\/wiki\/Plantation_economy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3578694","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3578694","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-26T22:39:29Z","dateModified":"2019-08-14T05:38:58Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1245"});});</script>
+</body>
+</html>

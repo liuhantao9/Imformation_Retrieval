@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Somethin' Bad - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Somethin'_Bad","wgTitle":"Somethin' Bad","wgCurRevisionId":911933153,"wgRevisionId":911933153,"wgArticleId":43164857,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","Articles with hAudio microformats","Singlechart usages for Canada","Singlechart called without song","Singlechart usages for Billboardcanadacountry","Singlechart usages for Slovakdigital","Singlechart called without artist","Singlechart usages for Billboardhot100","Singlechart usages for Billboardcountryairplay","Singlechart usages for Billboardcountrysongs","Pages using certification Table Entry with unknown parameters","Certification Table Entry usages for United States","2014 singles","Miranda Lambert songs","Carrie Underwood songs","RCA Records Nashville singles",
+"Arista Nashville singles","2014 songs","Songs written by Brett James","Songs written by Chris DeStefano","Songs written by Priscilla Renea","Song recordings produced by Frank Liddell","Vocal duets","Billboard Hot Country Songs number-one singles","Music videos directed by Trey Fanjoy"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Somethin'_Bad","wgRelevantArticleId":43164857,"wgRequestId":"XYsFhwpAAEIAAAye6jkAAAAQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0
+,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17299735","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/b/b0/A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Somethin%27_Bad"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Somethin%27_Bad&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Somethin%27_Bad&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Somethin%27_Bad"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Somethin_Bad rootpage-Somethin_Bad skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Somethin' Bad</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other topics, see <a href="/wiki/Something_Bad_(disambiguation)" class="mw-redirect mw-disambig" title="Something Bad (disambiguation)">Something Bad</a>.</div>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;background-color: khaki;">"Somethin' Bad"</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg" class="image"><img alt="A single cover for the song somethin&#39; bad by Miranda Lambert.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b0/A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg/220px-A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg" decoding="async" width="220" height="220" srcset="//upload.wikimedia.org/wikipedia/en/b/b0/A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg 1.5x" data-file-width="300" data-file-height="300" /></a></td></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Single_(music)" title="Single (music)">Single</a> by <a href="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</a> and <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></th></tr><tr class="description"><th colspan="2" class="description" style="text-align:center;background-color: khaki;">from the album <i><a href="/wiki/Platinum_(Miranda_Lambert_album)" title="Platinum (Miranda Lambert album)">Platinum</a></i></th></tr><tr><th scope="row">Released</th><td class="plainlist">May 19, 2014</td></tr><tr><th scope="row">Format</th><td class="hlist"><a href="/wiki/Music_download" title="Music download">Music download</a></td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><a href="/wiki/Country_rock" title="Country rock">Country rock</a></td></tr><tr><th scope="row">Length</th><td class="plainlist"><span class="duration"><span class="min">2</span>:<span class="s">49</span></span></td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><a href="/wiki/RCA_Records_Nashville" title="RCA Records Nashville">RCA Nashville</a><br /><a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Songwriter" title="Songwriter">Songwriter(s)</a></span></th><td class="hlist"><a href="/wiki/Chris_DeStefano" title="Chris DeStefano">Chris DeStefano</a><br /><a href="/wiki/Brett_James" title="Brett James">Brett James</a><br /><a href="/wiki/Priscilla_Renea" title="Priscilla Renea">Priscilla Renea</a></td></tr><tr><th scope="row"><span class="nowrap"><a href="/wiki/Record_producer" title="Record producer">Producer(s)</a></span></th><td class="hlist"><a href="/wiki/Frank_Liddell_(record_producer)" class="mw-redirect" title="Frank Liddell (record producer)">Frank Liddell</a><br /><a href="/wiki/Chuck_Ainlay" title="Chuck Ainlay">Chuck Ainlay</a><br /><a href="/wiki/Glenn_Worf" title="Glenn Worf">Glenn Worf</a></td></tr><tr><th colspan="2" class="description" style="text-align:center;background-color: khaki;"><a href="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</a>&#32;singles chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse;">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0;">"<a href="/wiki/Automatic_(Miranda_Lambert_song)" title="Automatic (Miranda Lambert song)">Automatic</a>" <br />(2014)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding:.2em .1em;">"<b>Somethin' Bad</b>" <br />(2014)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em;">"<a href="/wiki/Little_Red_Wagon_(song)" title="Little Red Wagon (song)">Little Red Wagon</a>" <br />(2015)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background: khaki"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a>&#32;singles chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0">"<a href="/wiki/See_You_Again_(Carrie_Underwood_song)" title="See You Again (Carrie Underwood song)">See You Again</a>"<br />(2013)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em">"<b>Somethin' Bad</b>"<br />(2014)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em">"<a href="/wiki/Something_in_the_Water_(Carrie_Underwood_song)" title="Something in the Water (Carrie Underwood song)">Something in the Water</a>"<br />(2014)
+</td></tr>
+</tbody></table></td></tr><tr><th colspan="2" style="text-align:center;background:khaki">Music videos</th></tr><tr><td colspan="2" style="text-align:center"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=o4Yzj-m_SBk"><span class="plainlinks">"Somethin' Bad"</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>"<b>Somethin' Bad</b>" is a song recorded as a duet by American country music artists <a href="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</a> and <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a>.  The song was written by <a href="/wiki/Chris_DeStefano" title="Chris DeStefano">Chris DeStefano</a>, <a href="/wiki/Brett_James" title="Brett James">Brett James</a>, and <a href="/wiki/Priscilla_Renea" title="Priscilla Renea">Priscilla Renea</a>. It was released as the second single from Lambert's fifth studio album <i><a href="/wiki/Platinum_(Miranda_Lambert_album)" title="Platinum (Miranda Lambert album)">Platinum</a></i> in advance of the album's release two weeks later. The song premiered at the <a href="/wiki/2014_Billboard_Music_Awards" title="2014 Billboard Music Awards">2014 Billboard Music Awards</a> on May 18, 2014, and was released for sale the next day.
+</p><p>"Somethin' Bad" peaked at number one on the <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs"><i>Billboard</i> Hot Country Songs</a>, becoming Underwood's thirteenth number one on the chart and Lambert's fifth. The song is the first number one by teamed-up solo women in more than two decades on this chart.
+</p><p>On December 5, 2014, the collaboration received a <a href="/wiki/57th_Annual_Grammy_Awards" title="57th Annual Grammy Awards">Grammy nomination</a> for <a href="/wiki/Grammy_Award_for_Best_Country_Duo/Group_Performance" title="Grammy Award for Best Country Duo/Group Performance">Best Country Duo/Group Performance</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Critical_reception"><span class="tocnumber">2</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Commercial_performance"><span class="tocnumber">3</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Music_video"><span class="tocnumber">4</span> <span class="toctext">Music video</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sunday_Night_Football_2016_theme"><span class="tocnumber">5</span> <span class="toctext"><i>Sunday Night Football</i> 2016 theme</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Awards_and_nominations"><span class="tocnumber">6</span> <span class="toctext">Awards and nominations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Academy_of_Country_Music_Awards"><span class="tocnumber">6.1</span> <span class="toctext">Academy of Country Music Awards</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#CMT_Music_Awards"><span class="tocnumber">6.2</span> <span class="toctext">CMT Music Awards</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Country_Music_Association_Awards"><span class="tocnumber">6.3</span> <span class="toctext">Country Music Association Awards</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Grammy_Awards"><span class="tocnumber">6.4</span> <span class="toctext">Grammy Awards</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Teen_Choice_Awards"><span class="tocnumber">6.5</span> <span class="toctext">Teen Choice Awards</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Charts_and_certifications"><span class="tocnumber">7</span> <span class="toctext">Charts and certifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Weekly_charts"><span class="tocnumber">7.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Year-end_charts"><span class="tocnumber">7.2</span> <span class="toctext">Year-end charts</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Certifications"><span class="tocnumber">7.3</span> <span class="toctext">Certifications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song was written by Chris DeStefano and Brett James along with Priscilla Renea while they were at a writing retreat in France for <a href="/wiki/ASCAP" class="mw-redirect" title="ASCAP">ASCAP</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The song was originally intended to be a male/female duet, but was later tweaked so that it could be performed by two females.<sup id="cite_ref-tennessean_2-0" class="reference"><a href="#cite_note-tennessean-2">&#91;2&#93;</a></sup>
+</p><p>The song is seen as a female take on the <a href="/wiki/Bro-country" title="Bro-country">bro-country</a> genre.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> According to Lambert, when she heard "Somethin’ Bad", "the song just popped," and it "really struck a chord."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  Lambert said she had wanted to do a duet with Carrie Underwood, and that "It's been too long since two girls in our genre have come together like that, especially on a song that's kind of in your face."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> She sent Underwood an email to request a collaboration, which was accepted as they had wanted to sing together for some time.<sup id="cite_ref-tennessean_2-1" class="reference"><a href="#cite_note-tennessean-2">&#91;2&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The song made its debut on the 2014 Billboard Music Awards on May 18, 2014 with a performance by Lambert and Underwood.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> They performed the song again at the <a href="/wiki/CMT_Music_Awards" title="CMT Music Awards">CMT Music Awards</a> on June 4, 2014.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=2" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The song received generally favorable response from the critics.  Matt Bjorke of <i>Roughstock</i> thought the song playful, fun, and "sure to be a fast-selling hit."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Jason Scott of AXS called it "a fun, beat-driven summer anthem" and rated it four stars out of five.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> <i>Taste of Country</i> said that the song's "ready-for-anything lyrics and the way that Lambert and Underwood belt them out with such power, make ‘Somethin’ Bad’ a catchy girl-power anthem."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=3" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>"Somethin' Bad" debuted at No. 39 on the U.S. <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> chart and at No. 5 on the <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs"><i>Billboard</i> Hot Country Songs</a> chart following its release for sales on May 19, 2014 (chart dated June 7, 2014).<sup id="cite_ref-trust_12-0" class="reference"><a href="#cite_note-trust-12">&#91;12&#93;</a></sup>  The song debuted at No. 48 on the <i>Billboard</i> Country Airplay chart for the same week, before it was officially released to radio on June 16, 2014.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The song also debuted at No. 1 on the <i>Billboard</i> Country Digital Songs chart, with 107,000 downloads sold in its first week.<sup id="cite_ref-trust_12-1" class="reference"><a href="#cite_note-trust-12">&#91;12&#93;</a></sup> "Somethin' Bad" peaked at No. 1 on the <i>Billboard</i> Hot Country Songs in its sixth week, becoming Underwood's 13th number one on the chart and Lambert's fifth. The same week, the song jumped to No. 19 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>, becoming Lambert's highest peaking song to date on that chart. It is the first No. 1 by teamed-up solo women in more than two decades on the <i>Billboard</i> Hot Country Songs chart.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> As of April 2015, the song has sold 1,080,000 copies in the United States.<sup id="cite_ref-sales_15-0" class="reference"><a href="#cite_note-sales-15">&#91;15&#93;</a></sup>
+</p><p>In Canada, the song debuted at No. 33 on the Canadian Hot 100 chart following its first week of release.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Music_video">Music video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=4" title="Edit section: Music video">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The music video was directed by <a href="/wiki/Trey_Fanjoy" title="Trey Fanjoy">Trey Fanjoy</a> and released on June 25, 2014. It features Lambert as Belle Boyd and Underwood as  Priscilla Parker, a pair of jewel thieves.  The video is presented as a trailer for a film where the pair play poker, ride Indian motorcycles and engage in a jewel heist in which they flee in a luxury Bell Helicopter.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p>Miranda purchased the two Indian Motorcycles keeping one for herself, while giving the other to Carrie as a "thank you" for doing the song with her. Carrie tweeted a pic of her on the bike. The bikes and the helicopter were part of a product placement arrangement organized by CMS Nashville.
+</p><p>As of April 2018, the music video has accumulated over 86 million views on <a href="/wiki/Vevo" title="Vevo">Vevo</a> and was nominated for a 2014 CMA for "Video of the Year."
+</p>
+<h2><span class="mw-headline" id="Sunday_Night_Football_2016_theme"><i>Sunday Night Football</i> 2016 theme</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=5" title="Edit section: Sunday Night Football 2016 theme">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In June 2016, <a href="/wiki/NBC_Sports" title="NBC Sports">NBC Sports</a> announced that "Somethin' Bad" would form the basis of Underwood's new theme for <i><a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">NBC Sunday Night Football</a></i> starting with the <a href="/wiki/2016_NFL_season" title="2016 NFL season">2016 NFL season</a>. Titled "Oh, Sunday Night", it replaced "Waiting All Day for Sunday Night", itself inspired by an existing song (<a href="/wiki/Joan_Jett" title="Joan Jett">Joan Jett</a>'s "<a href="/wiki/I_Hate_Myself_for_Loving_You" title="I Hate Myself for Loving You">I Hate Myself for Loving You</a>").<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=6" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Academy_of_Country_Music_Awards">Academy of Country Music Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=7" title="Edit section: Academy of Country Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center" rowspan="2">2015</td>
+<td align="center" rowspan="2">"Somethin' Bad"</td>
+<td align="center">Video of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr>
+<tr>
+<td align="center">Vocal Event of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="CMT_Music_Awards"><a href="/wiki/CMT_Music_Awards" title="CMT Music Awards">CMT Music Awards</a></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=8" title="Edit section: CMT Music Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center" rowspan="2"><a href="/wiki/CMT_Music_Awards" title="CMT Music Awards">2015</a></td>
+<td align="center" rowspan="2">"Somethin' Bad"</td>
+<td align="center">Video of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr>
+<tr>
+<td align="center">Collaborative Video of the Year</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Country_Music_Association_Awards">Country Music Association Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=9" title="Edit section: Country Music Association Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center" rowspan="2">2014</td>
+<td align="center" rowspan="2">"Somethin' Bad"</td>
+<td align="center">Musical Event of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr>
+<tr>
+<td align="center">Music Video of the Year</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Grammy_Awards">Grammy Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=10" title="Edit section: Grammy Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2015</td>
+<td align="center">"Somethin' Bad"</td>
+<td align="center"><a href="/wiki/Grammy_Award_for_Best_Country_Duo/Group_Performance" title="Grammy Award for Best Country Duo/Group Performance">Best Country Duo/Group Performance</a></td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Teen_Choice_Awards">Teen Choice Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=11" title="Edit section: Teen Choice Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable plainrowheaders" style="table-layout: fixed; margin-right: 0;">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Year
+</th>
+<th scope="col">Nominee / work
+</th>
+<th scope="col">Award
+</th>
+<th scope="col">Result
+</th></tr>
+<tr>
+<td align="center">2014</td>
+<td align="center">"Somethin' Bad"</td>
+<td align="center">Choice Country Song</td>
+<td style="background: #FDD; color: black; vertical-align: middle; text-align: center;" class="no table-no2">Nominated
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Charts_and_certifications">Charts and certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=12" title="Edit section: Charts and certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=13" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2014)
+</th>
+<th align="center">Peak<br />position
+</th></tr>
+<tr>
+<td>Canada (<a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a>)<sup id="cite_ref-sc_Canada_Miranda_Lambert_20-0" class="reference"><a href="#cite_note-sc_Canada_Miranda_Lambert-20">&#91;20&#93;</a></sup>
+</td>
+<td style="text-align:center;">33
+</td></tr>
+<tr>
+<td>Canada <a href="/wiki/Canada_Country" class="mw-redirect" title="Canada Country">Country</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcanadacountry_Miranda_Lambert_21-0" class="reference"><a href="#cite_note-sc_Billboardcanadacountry_Miranda_Lambert-21">&#91;21&#93;</a></sup>
+</td>
+<td style="text-align:center;">6
+</td></tr>
+<tr>
+<td>Slovakia (<a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">Singles Digitál Top 100</a>)<sup id="cite_ref-sc_Slovakdigital_22-0" class="reference"><a href="#cite_note-sc_Slovakdigital_-22">&#91;22&#93;</a></sup>
+</td>
+<td style="text-align:center;">91
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a><sup id="cite_ref-sc_Billboardhot100_Miranda_Lambert_23-0" class="reference"><a href="#cite_note-sc_Billboardhot100_Miranda_Lambert-23">&#91;23&#93;</a></sup>
+</td>
+<td style="text-align:center;">19
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcountryairplay_Miranda_Lambert_24-0" class="reference"><a href="#cite_note-sc_Billboardcountryairplay_Miranda_Lambert-24">&#91;24&#93;</a></sup>
+</td>
+<td style="text-align:center;">7
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-sc_Billboardcountrysongs_Miranda_Lambert_25-0" class="reference"><a href="#cite_note-sc_Billboardcountrysongs_Miranda_Lambert-25">&#91;25&#93;</a></sup>
+</td>
+<td style="text-align:center;">1
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=14" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th scope="col">Chart (2014)
+</th>
+<th scope="col">Position
+</th></tr>
+<tr>
+<td>US <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</td>
+<td align="center">99
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td>
+<td align="center">47
+</td></tr>
+<tr>
+<td>US <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> (<i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>)<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</td>
+<td align="center">10
+</td></tr>
+</tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=15" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Region
+</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certified units</a>/sales
+</th></tr>
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-United_StatesMiranda_LambertSomethin%27_BadsingleCertRef_29-0" class="reference"><a href="#cite_note-United_StatesMiranda_LambertSomethin&#39;_BadsingleCertRef-29">&#91;29&#93;</a></sup>
+</th>
+<td>Platinum
+</td>
+<td>1,080,000<sup id="cite_ref-sales_15-1" class="reference"><a href="#cite_note-sales-15">&#91;15&#93;</a></sup>
+</td></tr>
+
+
+
+<tr class="sortbottom" style="text-align: center;">
+<td colspan="3">
+<p><small><sup>*</sup>sales figures based on certification alone</small><br /><small><sup>^</sup>shipments figures based on certification alone</small><br />
+</p>
+</td></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Matt Bjorke (March 25, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140606115556/http://www.roughstock.com/blog/story-behind-the-song-miranda-lambert-carrie-underwood-s-something-bad">"Story Behind The Song: Miranda Lambert &amp; Carrie Underwood's "Something Bad<span class="cs1-kern-right">"</span>"</a>. <i>Roughstock</i>. Archived from <a rel="nofollow" class="external text" href="http://www.roughstock.com/blog/story-behind-the-song-miranda-lambert-carrie-underwood-s-something-bad">the original</a> on June 6, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Roughstock&amp;rft.atitle=Story+Behind+The+Song%3A+Miranda+Lambert+%26+Carrie+Underwood%27s+%22Something+Bad%22&amp;rft.date=2014-03-25&amp;rft.au=Matt+Bjorke&amp;rft_id=http%3A%2F%2Fwww.roughstock.com%2Fblog%2Fstory-behind-the-song-miranda-lambert-carrie-underwood-s-something-bad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-tennessean-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-tennessean_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tennessean_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Cindy Watts. <a rel="nofollow" class="external text" href="http://www.tennessean.com/story/entertainment/music/2014/05/30/miranda-lambert-carrie-underwood-somethin-bad/9789111/">"Miranda Lambert, Carrie Underwood talk 'Somethin' Bad<span class="cs1-kern-right">'</span>"</a>. <i>The Tennessean</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Tennessean&amp;rft.atitle=Miranda+Lambert%2C+Carrie+Underwood+talk+%27Somethin%27+Bad%27&amp;rft.au=Cindy+Watts&amp;rft_id=http%3A%2F%2Fwww.tennessean.com%2Fstory%2Fentertainment%2Fmusic%2F2014%2F05%2F30%2Fmiranda-lambert-carrie-underwood-somethin-bad%2F9789111%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Joseph Hudak (June 25, 2014). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/miranda-lambert-gives-a-womans-take-on-bro-country-20140625">"Miranda Lambert Gives a Woman's Take on 'Bro Country<span class="cs1-kern-right">'</span>"</a>. <i>RollingStone</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=RollingStone&amp;rft.atitle=Miranda+Lambert+Gives+a+Woman%27s+Take+on+%27Bro+Country%27&amp;rft.date=2014-06-25&amp;rft.au=Joseph+Hudak&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fmiranda-lambert-gives-a-womans-take-on-bro-country-20140625&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140701053205/http://radio.com/2014/06/25/miranda-lambert-carrie-underwood-thelma-louise-somethin-bad-video/">"Miranda Lambert, Carrie Underwood Channel Thelma &amp; Louise In 'Somethin' Bad' Video"</a>. <i>Radio.com</i>. June 25, 2014. Archived from <a rel="nofollow" class="external text" href="http://radio.com/2014/06/25/miranda-lambert-carrie-underwood-thelma-louise-somethin-bad-video/">the original</a> on July 1, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 28,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Radio.com&amp;rft.atitle=Miranda+Lambert%2C+Carrie+Underwood+Channel+Thelma+%26+Louise+In+%E2%80%98Somethin%E2%80%99+Bad%E2%80%99+Video&amp;rft.date=2014-06-25&amp;rft_id=http%3A%2F%2Fradio.com%2F2014%2F06%2F25%2Fmiranda-lambert-carrie-underwood-thelma-louise-somethin-bad-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;dead-url=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Christina Vinson (March 12, 2014). <a rel="nofollow" class="external text" href="http://tasteofcountry.com/miranda-lambert-carrie-underwood-duet/">"Miranda Lambert: Dueting With Carrie Underwood Is 'Very, Very Intimidating<span class="cs1-kern-right">'</span>"</a>. <i>Taste of Country</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Taste+of+Country&amp;rft.atitle=Miranda+Lambert%3A+Dueting+With+Carrie+Underwood+Is+%E2%80%98Very%2C+Very+Intimidating%E2%80%99&amp;rft.date=2014-03-12&amp;rft.au=Christina+Vinson&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fmiranda-lambert-carrie-underwood-duet%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.savingcountrymusic.com/miranda-lambert-carrie-underwood-to-battle-bro-country-with-something-bad">"Lambert &amp; Underwood Battle Bro-Country w/ 'Somethin' Bad<span class="cs1-kern-right">'</span>"</a>. <i>Saving Country Music</i>. May 18, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Saving+Country+Music&amp;rft.atitle=Lambert+%26+Underwood+Battle+Bro-Country+w%2F+%E2%80%98Somethin%E2%80%99+Bad%E2%80%99&amp;rft.date=2014-05-18&amp;rft_id=http%3A%2F%2Fwww.savingcountrymusic.com%2Fmiranda-lambert-carrie-underwood-to-battle-bro-country-with-something-bad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Denise Warner (May 18, 2014). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/events/bbma-2014/6091972/miranda-lambert-carrie-underwood-billboard-music-awards-somethin-bad">"Miranda Lambert &amp; Carrie Underwood Debut 'Somethin' Bad' at the Billboard Music Awards"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Miranda+Lambert+%26+Carrie+Underwood+Debut+%27Somethin%27+Bad%27+at+the+Billboard+Music+Awards&amp;rft.date=2014-05-18&amp;rft.au=Denise+Warner&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fevents%2Fbbma-2014%2F6091972%2Fmiranda-lambert-carrie-underwood-billboard-music-awards-somethin-bad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cmt.com/news/country-music/1728025/miranda-lambert-carrie-underwood-ace-something-bad.jhtml">"Miranda Lambert, Carrie Underwood Ace "Something Bad<span class="cs1-kern-right">"</span>"</a>. CMT. June 4, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Miranda+Lambert%2C+Carrie+Underwood+Ace+%22Something+Bad%22&amp;rft.pub=CMT&amp;rft.date=2014-06-04&amp;rft_id=http%3A%2F%2Fwww.cmt.com%2Fnews%2Fcountry-music%2F1728025%2Fmiranda-lambert-carrie-underwood-ace-something-bad.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Matt Bjorke (May 18, 2014). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140706151129/http://www.roughstock.com/reviews/review-miranda-lambert-carrie-underwood-something-bad">"Review: Miranda Lambert &amp; Carrie Underwood - Something Bad"</a>. <i>Roughstock</i>. Archived from <a rel="nofollow" class="external text" href="http://www.roughstock.com/reviews/review-miranda-lambert-carrie-underwood-something-bad">the original</a> on July 6, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Roughstock&amp;rft.atitle=Review%3A+Miranda+Lambert+%26+Carrie+Underwood+-+Something+Bad&amp;rft.date=2014-05-18&amp;rft.au=Matt+Bjorke&amp;rft_id=http%3A%2F%2Fwww.roughstock.com%2Freviews%2Freview-miranda-lambert-carrie-underwood-something-bad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Jason Scott (May 19, 2014). <a rel="nofollow" class="external text" href="http://www.axs.com/carrie-underwood-miranda-lambert-s-somethin-bad-is-something-really-go-11031">"Carrie Underwood, Miranda Lambert's 'Somethin' Bad' is something really good"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood%2C+Miranda+Lambert%27s+%27Somethin%27+Bad%27+is+something+really+good&amp;rft.date=2014-05-19&amp;rft.au=Jason+Scott&amp;rft_id=http%3A%2F%2Fwww.axs.com%2Fcarrie-underwood-miranda-lambert-s-somethin-bad-is-something-really-go-11031&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tasteofcountry.com/miranda-lambert-carrie-underwood-somethin-bad/">"Miranda Lambert (Feat. Carrie Underwood), 'Somethin' Bad' &#91;Listen&#93;"</a>. <i>Taste of Country</i>. June 17, 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Taste+of+Country&amp;rft.atitle=Miranda+Lambert+%28Feat.+Carrie+Underwood%29%2C+%E2%80%98Somethin%E2%80%99+Bad%E2%80%99+%5BListen%5D&amp;rft.date=2014-06-17&amp;rft_id=http%3A%2F%2Ftasteofcountry.com%2Fmiranda-lambert-carrie-underwood-somethin-bad%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-trust-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-trust_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-trust_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Gary Trust (May 29, 2014). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/6106196/miranda-lambert-carrie-underwood-soar-onto-hot-country-songs-in">"Miranda Lambert, Carrie Underwood Soar Onto Hot Country Songs In Top Five"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Miranda+Lambert%2C+Carrie+Underwood+Soar+Onto+Hot+Country+Songs+In+Top+Five&amp;rft.date=2014-05-29&amp;rft.au=Gary+Trust&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F6106196%2Fmiranda-lambert-carrie-underwood-soar-onto-hot-country-songs-in&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140525234610/http://gfa.radioandrecords.com/publishGFA/GFANextPage.asp?sDate=06%2F16%2F2014&amp;Format=4">"R&amp;R&#160;:: Going For Adds&#160;:: Country"</a>. <i><a href="/wiki/Radio_%26_Records" title="Radio &amp; Records">Radio &amp; Records</a></i>. Archived from <a rel="nofollow" class="external text" href="http://gfa.radioandrecords.com/PublishGFA/GFANextPage.asp?sDate=06/16/2014&amp;Format=4">the original</a> on May 25, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">June 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Radio+%26+Records&amp;rft.atitle=R%26R+%3A%3A+Going+For+Adds+%3A%3A+Country&amp;rft_id=http%3A%2F%2Fgfa.radioandrecords.com%2FPublishGFA%2FGFANextPage.asp%3FsDate%3D06%2F16%2F2014%26Format%3D4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Gary Trust (July 3, 2014). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/6150190/miranda-lambert-carrie-underwood-vault-to-no-1-on-hot-country">"Miranda Lambert, Carrie Underwood Vault To No. 1 On Hot Country Songs"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Miranda+Lambert%2C+Carrie+Underwood+Vault+To+No.+1+On+Hot+Country+Songs&amp;rft.date=2014-07-03&amp;rft.au=Gary+Trust&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F6150190%2Fmiranda-lambert-carrie-underwood-vault-to-no-1-on-hot-country&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-sales-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-sales_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sales_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Matt Bjorke (April 15, 2015). <a rel="nofollow" class="external text" href="http://roughstock.com/news/2015/04/34263-country-musics-top-30-digital-singles-week-april-15-2015/">"Country Music's Top 30 Digital Singles: Week of April 15, 2015"</a>. <i>Roughstock</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Roughstock&amp;rft.atitle=Country+Music%E2%80%99s+Top+30+Digital+Singles%3A+Week+of+April+15%2C+2015&amp;rft.date=2015-04-15&amp;rft.au=Matt+Bjorke&amp;rft_id=http%3A%2F%2Froughstock.com%2Fnews%2F2015%2F04%2F34263-country-musics-top-30-digital-singles-week-april-15-2015%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Fred Bronson (May 30, 2014). <a rel="nofollow" class="external text" href="http://www.hollywoodreporter.com/idol-worship/american-idol-charts-bad-news-707939">"<span class="cs1-kern-left">'</span>American Idol' on the Charts: 'Bad' News is Good for Carrie Underwood and Miranda Lambert"</a>. <i>The Hollywood Reporter</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hollywood+Reporter&amp;rft.atitle=%27American+Idol%27+on+the+Charts%3A+%27Bad%27+News+is+Good+for+Carrie+Underwood+and+Miranda+Lambert&amp;rft.date=2014-05-30&amp;rft.au=Fred+Bronson&amp;rft_id=http%3A%2F%2Fwww.hollywoodreporter.com%2Fidol-worship%2Famerican-idol-charts-bad-news-707939&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.mtv.com/news/1854602/miranda-lambert-carrie-underwood-sizzle-in-the-somethin-bad-video/">"Miranda Lambert And Carrie Underwood Get Criminal In The 'Somethin' Bad' Video"</a>, <i>MTV</i>, June 25, 2014</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MTV&amp;rft.atitle=Miranda+Lambert+And+Carrie+Underwood+Get+Criminal+In+The+%E2%80%98Somethin%E2%80%99+Bad%E2%80%99+Video&amp;rft.date=2014-06-25&amp;rft_id=http%3A%2F%2Fwww.mtv.com%2Fnews%2F1854602%2Fmiranda-lambert-carrie-underwood-sizzle-in-the-somethin-bad-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Zach Johnson (June 26, 2014). <a rel="nofollow" class="external text" href="http://eonline.com/news/554626/miranda-lambert-and-carrie-underwood-find-trouble-in-somethin-bad-music-video-watch-now">"Miranda Lambert and Carrie Underwood Find Trouble in "Somethin' Bad" Music Video—Watch Now!"</a>. <i>Eonline</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Eonline&amp;rft.atitle=Miranda+Lambert+and+Carrie+Underwood+Find+Trouble+in+%22Somethin%27+Bad%22+Music+Video%E2%80%94Watch+Now%21&amp;rft.date=2014-06-26&amp;rft.au=Zach+Johnson&amp;rft_id=http%3A%2F%2Feonline.com%2Fnews%2F554626%2Fmiranda-lambert-and-carrie-underwood-find-trouble-in-somethin-bad-music-video-watch-now&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation news">Betts, Stephen (20 June 2016). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/carrie-underwood-records-a-new-sunday-night-football-theme-song-20160620">"Carrie Underwood Records a New 'Sunday Night Football' Theme Song"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Carrie+Underwood+Records+a+New+%27Sunday+Night+Football%27+Theme+Song&amp;rft.date=2016-06-20&amp;rft.aulast=Betts&amp;rft.aufirst=Stephen&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fcarrie-underwood-records-a-new-sunday-night-football-theme-song-20160620&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-sc_Canada_Miranda_Lambert-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Canada_Miranda_Lambert_20-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Miranda-Lambert/chart-history/canadian-hot-100">"Miranda Lambert Chart History (Canadian Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved June 28, 2014.</span>
+</li>
+<li id="cite_note-sc_Billboardcanadacountry_Miranda_Lambert-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcanadacountry_Miranda_Lambert_21-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Miranda-Lambert/chart-history/canada-country">"Miranda Lambert Chart History (Canada Country)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved June 28, 2014.</span>
+</li>
+<li id="cite_note-sc_Slovakdigital_-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Slovakdigital_22-0">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://hitparada.ifpicr.cz/index.php?hitp=D">ČNS IFPI"</a> (in Slovak). Hitparáda – Singles Digital Top 100 Oficiálna. IFPI Czech Republic. <i>Note: Select SINGLES DIGITAL - TOP 100 and insert 292014 into search</i>.  Retrieved July 21, 2014.</span>
+</li>
+<li id="cite_note-sc_Billboardhot100_Miranda_Lambert-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardhot100_Miranda_Lambert_23-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Miranda-Lambert/chart-history/hot-100">"Miranda Lambert Chart History (Hot 100)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved June 28, 2014.</span>
+</li>
+<li id="cite_note-sc_Billboardcountryairplay_Miranda_Lambert-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcountryairplay_Miranda_Lambert_24-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Miranda-Lambert/chart-history/country-airplay">"Miranda Lambert Chart History (Country Airplay)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved June 28, 2014.</span>
+</li>
+<li id="cite_note-sc_Billboardcountrysongs_Miranda_Lambert-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-sc_Billboardcountrysongs_Miranda_Lambert_25-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Miranda-Lambert/chart-history/country-songs">"Miranda Lambert Chart History (Hot Country Songs)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  Retrieved June 28, 2014.</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2014/hot-100-songs">"Best of 2014: Hot 100 Songs"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2014%3A+Hot+100+Songs&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2014%2Fhot-100-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2014/country-airplay-songs">"Best of 2014: Country Airplay"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2014%3A+Country+Airplay&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2014%2Fcountry-airplay-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2014/hot-country-songs">"Best of 2014: Hot Country Songs"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Prometheus_Global_Media" title="Prometheus Global Media">Prometheus Global Media</a>. 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">December 9,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2014%3A+Hot+Country+Songs&amp;rft.date=2014&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2014%2Fhot-country-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-United_StatesMiranda_LambertSomethin%27_BadsingleCertRef-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-United_StatesMiranda_LambertSomethin&#39;_BadsingleCertRef_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=Miranda+Lambert&amp;ti=Somethin%2527+Bad#search_section">"American single  certifications – Miranda Lambert – Somethin%27 Bad"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a><span class="reference-accessdate">. Retrieved <span class="nowrap">August 21,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+single++certifications+%E2%80%93+Miranda+Lambert+%E2%80%93+Somethin%2527+Bad&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3DMiranda%2BLambert%26ti%3DSomethin%252527%2BBad%23search_section&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASomethin%27+Bad" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <i>If necessary, click </i>Advanced<i>, then click </i>Format<i>, then select </i>Single<i>,  then click </i>SEARCH<i>.<span class="nowrap">&#160;</span></i></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Miranda_Lambert_singles" style="padding:3px"><table class="nowraplinks vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Miranda_Lambert_singles" title="Template:Miranda Lambert singles"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Miranda_Lambert_singles" title="Template talk:Miranda Lambert singles"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Miranda_Lambert_singles&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Miranda_Lambert_singles" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</a> <a href="/wiki/Miranda_Lambert_discography#Singles" title="Miranda Lambert discography">singles</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Kerosene_(album)" title="Kerosene (album)">Kerosene</a></i></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Me_and_Charlie_Talking" title="Me and Charlie Talking">Me and Charlie Talking</a>"</li>
+<li>"<a href="/wiki/Bring_Me_Down_(Miranda_Lambert_song)" title="Bring Me Down (Miranda Lambert song)">Bring Me Down</a>"</li>
+<li>"<a href="/wiki/Kerosene_(song)" title="Kerosene (song)">Kerosene</a>"</li>
+<li>"<a href="/wiki/New_Strings" title="New Strings">New Strings</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Crazy_Ex-Girlfriend_(album)" title="Crazy Ex-Girlfriend (album)">Crazy Ex-Girlfriend</a></i></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Famous_in_a_Small_Town" title="Famous in a Small Town">Famous in a Small Town</a>"</li>
+<li>"<a href="/wiki/Gunpowder_%26_Lead" title="Gunpowder &amp; Lead">Gunpowder &amp; Lead</a>"</li>
+<li>"<a href="/wiki/More_Like_Her" title="More Like Her">More Like Her</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Revolution_(Miranda_Lambert_album)" title="Revolution (Miranda Lambert album)">Revolution</a></i></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Dead_Flowers_(Miranda_Lambert_song)" title="Dead Flowers (Miranda Lambert song)">Dead Flowers</a>"</li>
+<li>"<a href="/wiki/White_Liar" title="White Liar">White Liar</a>"</li>
+<li>"<a href="/wiki/The_House_That_Built_Me" title="The House That Built Me">The House That Built Me</a>"</li>
+<li>"<a href="/wiki/Only_Prettier" title="Only Prettier">Only Prettier</a>"</li>
+<li>"<a href="/wiki/Heart_Like_Mine" title="Heart Like Mine">Heart Like Mine</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Four_the_Record" title="Four the Record">Four the Record</a></i></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Baggage_Claim" title="Baggage Claim">Baggage Claim</a>"</li>
+<li>"<a href="/wiki/Over_You_(Miranda_Lambert_song)" title="Over You (Miranda Lambert song)">Over You</a>"</li>
+<li>"<a href="/wiki/Fastest_Girl_in_Town" title="Fastest Girl in Town">Fastest Girl in Town</a>"</li>
+<li>"<a href="/wiki/Mama%27s_Broken_Heart" title="Mama&#39;s Broken Heart">Mama's Broken Heart</a>"</li>
+<li>"<a href="/wiki/All_Kinds_of_Kinds" title="All Kinds of Kinds">All Kinds of Kinds</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Platinum_(Miranda_Lambert_album)" title="Platinum (Miranda Lambert album)">Platinum</a></i></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Automatic_(Miranda_Lambert_song)" title="Automatic (Miranda Lambert song)">Automatic</a>"</li>
+<li>"<a class="mw-selflink selflink">Somethin' Bad</a>"</li>
+<li>"<a href="/wiki/Little_Red_Wagon_(song)" title="Little Red Wagon (song)">Little Red Wagon</a>"</li>
+<li>"<a href="/wiki/Smokin%27_and_Drinkin%27" title="Smokin&#39; and Drinkin&#39;">Smokin' and Drinkin'</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/The_Weight_of_These_Wings" title="The Weight of These Wings">The Weight of These Wings</a></i></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Vice_(Miranda_Lambert_song)" title="Vice (Miranda Lambert song)">Vice</a>"</li>
+<li>"<a href="/wiki/We_Should_Be_Friends" title="We Should Be Friends">We Should Be Friends</a>"</li>
+<li>"<a href="/wiki/Tin_Man_(Miranda_Lambert_song)" title="Tin Man (Miranda Lambert song)">Tin Man</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Wildcard_(Miranda_Lambert_album)" title="Wildcard (Miranda Lambert album)">Wildcard</a></i></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/It_All_Comes_Out_in_the_Wash" title="It All Comes Out in the Wash">It All Comes Out in the Wash</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Featured singles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/We_Were_Us" title="We Were Us">We Were Us</a>"</li>
+<li>"<a href="/wiki/Drowns_the_Whiskey" title="Drowns the Whiskey">Drowns the Whiskey</a>"</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Carrie_Underwood_songs" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carrie_Underwood_songs" title="Template:Carrie Underwood songs"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carrie_Underwood_songs" title="Template talk:Carrie Underwood songs"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carrie_Underwood_songs&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carrie_Underwood_songs" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> <a href="/wiki/List_of_songs_recorded_by_Carrie_Underwood" title="List of songs recorded by Carrie Underwood">songs</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Discography&amp;#10;*_Awards_and_nominations">
+<ul><li><a href="/wiki/Carrie_Underwood_discography" title="Carrie Underwood discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Carrie_Underwood" title="List of awards and nominations received by Carrie Underwood">Awards and nominations</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Some_Hearts" title="Some Hearts">Some Hearts</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"</li>
+<li>"<a href="/wiki/Some_Hearts_(song)" title="Some Hearts (song)">Some Hearts</a>"</li>
+<li>"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"</li>
+<li>"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"</li>
+<li>"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/So_Small" title="So Small">So Small</a>"</li>
+<li>"<a href="/wiki/All-American_Girl_(song)" title="All-American Girl (song)">All-American Girl</a>"</li>
+<li>"<a href="/wiki/Last_Name_(song)" title="Last Name (song)">Last Name</a>"</li>
+<li>"<a href="/wiki/Just_a_Dream_(Carrie_Underwood_song)" title="Just a Dream (Carrie Underwood song)">Just a Dream</a>"</li>
+<li>"<a href="/wiki/I_Told_You_So_(Randy_Travis_song)" title="I Told You So (Randy Travis song)">I Told You So</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cowboy_Casanova" title="Cowboy Casanova">Cowboy Casanova</a>"</li>
+<li>"<a href="/wiki/Temporary_Home" title="Temporary Home">Temporary Home</a>"</li>
+<li>"<a href="/wiki/Undo_It" title="Undo It">Undo It</a>"</li>
+<li>"<a href="/wiki/Mama%27s_Song" title="Mama&#39;s Song">Mama's Song</a>"</li>
+<li>"<a href="/wiki/Home_Sweet_Home_(M%C3%B6tley_Cr%C3%BCe_song)" title="Home Sweet Home (Mötley Crüe song)">Home Sweet Home</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Blown_Away_(album)" title="Blown Away (album)">Blown Away</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Good_Girl_(Carrie_Underwood_song)" title="Good Girl (Carrie Underwood song)">Good Girl</a>"</li>
+<li>"<a href="/wiki/Blown_Away_(Carrie_Underwood_song)" title="Blown Away (Carrie Underwood song)">Blown Away</a>"</li>
+<li>"<a href="/wiki/Two_Black_Cadillacs" title="Two Black Cadillacs">Two Black Cadillacs</a>"</li>
+<li>"<a href="/wiki/See_You_Again_(Carrie_Underwood_song)" title="See You Again (Carrie Underwood song)">See You Again</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Greatest_Hits:_Decade_Number_1" title="Greatest Hits: Decade Number 1">Greatest Hits: Decade #1</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Something_in_the_Water_(Carrie_Underwood_song)" title="Something in the Water (Carrie Underwood song)">Something in the Water</a>"</li>
+<li>"<a href="/wiki/Little_Toy_Guns" title="Little Toy Guns">Little Toy Guns</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Smoke_Break" title="Smoke Break">Smoke Break</a>"</li>
+<li>"<a href="/wiki/Heartbeat_(Carrie_Underwood_song)" title="Heartbeat (Carrie Underwood song)">Heartbeat</a>"</li>
+<li>"<a href="/wiki/Church_Bells_(song)" title="Church Bells (song)">Church Bells</a>"</li>
+<li>"<a href="/wiki/Dirty_Laundry_(Carrie_Underwood_song)" title="Dirty Laundry (Carrie Underwood song)">Dirty Laundry</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;"><i><a href="/wiki/Cry_Pretty" title="Cry Pretty">Cry Pretty</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Cry_Pretty_(song)" title="Cry Pretty (song)">Cry Pretty</a>"</li>
+<li>"<a href="/wiki/Love_Wins_(song)" title="Love Wins (song)">Love Wins</a>"</li>
+<li>"<a href="/wiki/The_Champion_(song)" title="The Champion (song)">The Champion</a>"</li>
+<li>"<a href="/wiki/Southbound_(Carrie_Underwood_song)" title="Southbound (Carrie Underwood song)">Southbound</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Collaborative songs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Just_Stand_Up!" title="Just Stand Up!">Just Stand Up!</a>"</li>
+<li>"<a href="/wiki/Remind_Me_(Brad_Paisley_and_Carrie_Underwood_song)" title="Remind Me (Brad Paisley and Carrie Underwood song)">Remind Me</a>"</li>
+<li>"<a href="/wiki/Can%27t_Stop_Lovin%27_You_(Aerosmith_song)" title="Can&#39;t Stop Lovin&#39; You (Aerosmith song)">Can't Stop Lovin' You</a>"</li>
+<li>"<a class="mw-selflink selflink">Somethin' Bad</a>"</li>
+<li>"<a href="/wiki/The_Fighter_(Keith_Urban_song)" title="The Fighter (Keith Urban song)">The Fighter</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Other songs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>"</li>
+<li>"<a href="/wiki/I%27ll_Stand_by_You" title="I&#39;ll Stand by You">I'll Stand by You</a>"</li>
+<li>"<a href="/wiki/Ever_Ever_After" title="Ever Ever After">Ever Ever After</a>"</li>
+<li>"<a href="/wiki/Praying_for_Time" title="Praying for Time">Praying for Time</a>"</li>
+<li>"<a href="/wiki/There%27s_a_Place_for_Us_(song)" title="There&#39;s a Place for Us (song)">There's a Place for Us</a>"</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Carrie_Underwood" title="Book:Carrie Underwood">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Carrie_Underwood" title="Category:Carrie Underwood">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="NFL_on_NBC" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:NFL_on_NBC" title="Template:NFL on NBC"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:NFL_on_NBC" title="Template talk:NFL on NBC"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:NFL_on_NBC&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="NFL_on_NBC" style="font-size:114%;margin:0 4em"><i><a href="/wiki/NFL_on_NBC" title="NFL on NBC">NFL on NBC</a></i></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related programs</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_NFL_on_NBC_pregame_show" title="The NFL on NBC pregame show">The NFL on NBC pregame show</a></i> (<i><a href="/wiki/Football_Night_in_America" title="Football Night in America">Football Night in America</a></i>)</li>
+<li><i><a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">NBC Sunday Night Football</a></i></li>
+<li><i><a href="/wiki/NFL_on_NBC_Radio" title="NFL on NBC Radio">NFL on NBC Radio</a></i></li>
+<li><i><a href="/wiki/Thursday_Night_Football" title="Thursday Night Football">Thursday Night Football</a></i> (<a href="/wiki/2016_NFL_season" title="2016 NFL season">2016</a>–<a href="/wiki/2017_NFL_season" title="2017 NFL season">2017</a>)</li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">College football programs</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/College_Football_on_NBCSN" title="College Football on NBCSN">College Football on NBC</a></i> (<i><a href="/wiki/Notre_Dame_Football_on_NBC" title="Notre Dame Football on NBC">Notre Dame</a></i>)</li>
+<li><i><a href="/wiki/College_Football_on_USA" title="College Football on USA">College Football on USA</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other pro football programs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/AFL_on_NBC" title="AFL on NBC">Arena Football League on NBC</a></i></li>
+<li><i><a href="/wiki/CFL_on_NBC" title="CFL on NBC">Canadian Football League</a></i></li>
+<li><a href="/wiki/NFL_Europe" title="NFL Europe"><i>World League of American Football on USA</i></a></li>
+<li><i><a href="/wiki/XFL" title="XFL">XFL on NBC</a></i></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Football_League_on_television" title="National Football League on television">NFL on television</a> (<a href="/wiki/History_of_the_National_Football_League_on_television" title="History of the National Football League on television">history</a>)
+<ul><li><a href="/wiki/NFL_on_television_in_the_1950s" title="NFL on television in the 1950s">1950s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_1960s" title="NFL on television in the 1960s">1960s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_1970s" title="NFL on television in the 1970s">1970s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_1980s" title="NFL on television in the 1980s">1980s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_1990s" title="NFL on television in the 1990s">1990s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_2000s" title="NFL on television in the 2000s">2000s</a></li>
+<li><a href="/wiki/NFL_on_television_in_the_2010s" title="NFL on television in the 2010s">2010s</a></li></ul></li>
+<li><a href="/wiki/Primary_NFL_television_stations" title="Primary NFL television stations">Primary television stations</a></li>
+<li><a href="/wiki/Super_Bowl_television_ratings" title="Super Bowl television ratings">Super Bowl TV ratings</a> (<a href="/wiki/List_of_Super_Bowl_lead-out_programs" title="List of Super Bowl lead-out programs">lead-out programs</a>)</li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/American_Football_League" title="American Football League">American Football League</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1965_American_Football_League_season" title="1965 American Football League season">1965</a></li>
+<li><a href="/wiki/1966_American_Football_League_season" title="1966 American Football League season">1966</a></li>
+<li><a href="/wiki/1967_American_Football_League_season" title="1967 American Football League season">1967</a></li>
+<li><a href="/wiki/1968_American_Football_League_season" title="1968 American Football League season">1968</a></li>
+<li><a href="/wiki/1969_American_Football_League_season" title="1969 American Football League season">1969</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Indianapolis_Colts_broadcasters" title="List of Indianapolis Colts broadcasters">Baltimore Colts</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1960_Baltimore_Colts_season" title="1960 Baltimore Colts season">1960</a></li>
+<li><a href="/wiki/1961_Baltimore_Colts_season" title="1961 Baltimore Colts season">1961</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Pittsburgh_Steelers_broadcasters" title="List of Pittsburgh Steelers broadcasters">Pittsburgh Steelers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1960_Pittsburgh_Steelers_season" title="1960 Pittsburgh Steelers season">1960</a></li>
+<li><a href="/wiki/1961_Pittsburgh_Steelers_season" title="1961 Pittsburgh Steelers season">1961</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prime_time" title="Prime time">Prime-time</a> results</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Monday_night_National_Football_League_games_prior_to_1970" title="List of Monday night National Football League games prior to 1970">Monday night NFL games prior to 1970</a></li>
+<li><a href="/wiki/NBC_Sunday_Night_Football_results" title="NBC Sunday Night Football results"><i>Sunday Night Football</i> results (2006-present)</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_NFL_on_NBC_announcers" title="List of NFL on NBC announcers">Commentators</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_AFC_Championship_Game_broadcasters" title="List of AFC Championship Game broadcasters">AFC Championship Game</a></li>
+<li><a href="/wiki/List_of_NFL_on_NBC_commentator_pairings" title="List of NFL on NBC commentator pairings">Commentator pairings</a></li>
+<li><a href="/wiki/List_of_Pro_Bowl_broadcasters" title="List of Pro Bowl broadcasters">Pro Bowl</a></li>
+<li><a href="/wiki/List_of_NFL_on_NBC_pregame_show_panelists" title="List of NFL on NBC pregame show panelists">Pregame show panelists</a></li>
+<li><a href="/wiki/List_of_Super_Bowl_broadcasters" title="List of Super Bowl broadcasters">Super Bowl</a></li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pre-<a href="/wiki/AFL%E2%80%93NFL_merger" title="AFL–NFL merger">AFL–NFL merger</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_AFL_Championship_Game_broadcasters" title="List of AFL Championship Game broadcasters">AFL Championship Game</a></li>
+<li><a href="/wiki/List_of_AFL_All-Star_Game_broadcasters" title="List of AFL All-Star Game broadcasters">AFL All-Star Game</a></li>
+<li><a href="/wiki/List_of_NFL_Championship_Game_broadcasters" title="List of NFL Championship Game broadcasters">NFL Championship Game</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/National_Football_League_preseason" class="mw-redirect" title="National Football League preseason">Preseason games</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_American_Bowl_broadcasters" title="List of American Bowl broadcasters">American Bowl</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lore</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1982_CFL_season" title="1982 CFL season">1982 CFL season</a></li>
+<li><a href="/wiki/Announcerless_game" title="Announcerless game">Announcerless game</a></li>
+<li>"<a href="/wiki/Clock_Play" title="Clock Play">The Clock Play</a>"</li>
+<li><a href="/wiki/Cleveland_Browns_relocation_controversy" title="Cleveland Browns relocation controversy">Cleveland Browns relocation controversy</a></li>
+<li>"<a href="/wiki/Holy_Roller_(American_football)" title="Holy Roller (American football)">The Holy Roller</a>"</li>
+<li>"<a href="/wiki/Snowplow_Game" title="Snowplow Game">Snowplow Game</a>"</li>
+<li><a href="/wiki/NFL_on_Thanksgiving_Day" title="NFL on Thanksgiving Day">Thanksgiving Day</a>
+<ul><li>"<a href="/wiki/Leon_Lett" title="Leon Lett">Leon Lett Blunder II</a>"</li></ul></li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Postseason lore</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/The_Epic_in_Miami" class="mw-redirect" title="The Epic in Miami">The Epic in Miami</a>"</li>
+<li>"<a href="/wiki/Ghost_to_the_Post" title="Ghost to the Post">Ghost to the Post</a>"</li>
+<li>"<a href="/wiki/Immaculate_Reception" title="Immaculate Reception">Immaculate Reception</a>"</li>
+<li>"<a href="/wiki/Red_Right_88" title="Red Right 88">Red Right 88</a>"</li>
+<li>"<a href="/wiki/Freezer_Bowl" title="Freezer Bowl">The Freezer Bowl</a>"</li>
+<li>"<a href="/wiki/The_Drive" title="The Drive">The Drive</a>"</li>
+<li>"<a href="/wiki/The_Fumble" title="The Fumble">The Fumble</a>"</li>
+<li>"<a href="/wiki/The_Comeback_(American_football)" title="The Comeback (American football)">The Comeback</a>"</li>
+<li>"<a href="/wiki/Beast_Quake" title="Beast Quake">Beast Quake</a>"</li>
+<li>"<a href="/wiki/Super_Bowl_XLIX" title="Super Bowl XLIX">The Interception</a>"</li>
+<li>"<a href="/wiki/Philly_Special" title="Philly Special">Philly Special</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pre-<a href="/wiki/AFL%E2%80%93NFL_merger" title="AFL–NFL merger">AFL–NFL merger</a> lore</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/1958_NFL_Championship_Game" title="1958 NFL Championship Game">The Greatest Game Ever Played</a>"</li>
+<li>"<a href="/wiki/Heidi_Game" title="Heidi Game">Heidi Game</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">Sunday Night Football</a></i> lore</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Colts%E2%80%93Patriots_rivalry" title="Colts–Patriots rivalry">4th and 2</a>"</li>
+<li><a href="/wiki/2007_New_England_Patriots%E2%80%93New_York_Giants_game" title="2007 New England Patriots–New York Giants game">16–0</a></li>
+<li>"<a href="/wiki/Butt_fumble" title="Butt fumble">Butt fumble</a>"</li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/NFL_on_NBC_music" title="NFL on NBC music">Music</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Colby_(musician)" title="John Colby (musician)">John Colby</a></li>
+<li><a href="/wiki/Randy_Edelman" title="Randy Edelman">Randy Edelman</a></li>
+<li><a href="/wiki/John_Tesh" title="John Tesh">John Tesh</a></li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Sunday_Night_Football" scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">Sunday Night Football</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Williams" title="John Williams">John Williams</a></li>
+<li>"<a href="/wiki/I_Hate_Myself_for_Loving_You" title="I Hate Myself for Loving You">I Hate Myself for Loving You</a>"</li>
+<li><a href="/wiki/Joan_Jett" title="Joan Jett">Joan Jett</a></li>
+<li>"<a class="mw-selflink selflink">Somethin' Bad</a>"
+<ul><li><a href="/wiki/Ludacris" title="Ludacris">Ludacris</a></li>
+<li><a href="/wiki/Miranda_Lambert" title="Miranda Lambert">Miranda Lambert</a></li>
+<li><a href="/wiki/Faith_Hill" title="Faith Hill">Faith Hill</a></li>
+<li><a href="/wiki/Pink_(singer)" title="Pink (singer)">Pink</a></li>
+<li><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">NFL Championship</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1955_NFL_Championship_Game" title="1955 NFL Championship Game">1955</a></li>
+<li><a href="/wiki/1956_NFL_Championship_Game" title="1956 NFL Championship Game">1956</a></li>
+<li><a href="/wiki/1957_NFL_Championship_Game" title="1957 NFL Championship Game">1957</a></li>
+<li><a href="/wiki/1958_NFL_Championship_Game" title="1958 NFL Championship Game">1958</a></li>
+<li><a href="/wiki/1959_NFL_Championship_Game" title="1959 NFL Championship Game">1959</a></li>
+<li><a href="/wiki/1960_NFL_Championship_Game" title="1960 NFL Championship Game">1960</a></li>
+<li><a href="/wiki/1961_NFL_Championship_Game" title="1961 NFL Championship Game">1961</a></li>
+<li><a href="/wiki/1962_NFL_Championship_Game" title="1962 NFL Championship Game">1962</a></li>
+<li><a href="/wiki/1963_NFL_Championship_Game" title="1963 NFL Championship Game">1963</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">AFL Championship</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1965_American_Football_League_Championship_Game" title="1965 American Football League Championship Game">1965</a></li>
+<li><a href="/wiki/1966_American_Football_League_Championship_Game" title="1966 American Football League Championship Game">1966</a></li>
+<li><a href="/wiki/1967_American_Football_League_Championship_Game" title="1967 American Football League Championship Game">1967</a></li>
+<li><a href="/wiki/1968_American_Football_League_Championship_Game" title="1968 American Football League Championship Game">1968</a></li>
+<li><a href="/wiki/1969_American_Football_League_Championship_Game" title="1969 American Football League Championship Game">1969</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Super Bowl</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pre-<a href="/wiki/AFL%E2%80%93NFL_merger" title="AFL–NFL merger">AFL–NFL merger</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Super_Bowl_I" title="Super Bowl I">I</a> (<a href="/wiki/1966_NFL_season" title="1966 NFL season">1966</a>)</li>
+<li><a href="/wiki/Super_Bowl_III" title="Super Bowl III">III</a> (<a href="/wiki/1968_NFL_season" title="1968 NFL season">1968</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/American_Football_Conference" title="American Football Conference">AFC</a> package carrier (<a href="/wiki/1970_NFL_season" title="1970 NFL season">1970</a>–<a href="/wiki/1997_NFL_season" title="1997 NFL season">1997</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Super_Bowl_V" title="Super Bowl V">V</a> (<a href="/wiki/1970_NFL_season" title="1970 NFL season">1970</a>)</li>
+<li><a href="/wiki/Super_Bowl_VII" title="Super Bowl VII">VII</a> (<a href="/wiki/1972_NFL_season" title="1972 NFL season">1972</a>)</li>
+<li><a href="/wiki/Super_Bowl_IX" title="Super Bowl IX">IX</a> (<a href="/wiki/1974_NFL_season" title="1974 NFL season">1974</a>)</li>
+<li><a href="/wiki/Super_Bowl_XI" title="Super Bowl XI">XI</a> (<a href="/wiki/1976_NFL_season" title="1976 NFL season">1976</a>)</li>
+<li><a href="/wiki/Super_Bowl_XIII" title="Super Bowl XIII">XIII</a> (<a href="/wiki/1978_NFL_season" title="1978 NFL season">1978</a>)</li>
+<li><a href="/wiki/Super_Bowl_XV" title="Super Bowl XV">XV</a> (<a href="/wiki/1980_NFL_season" title="1980 NFL season">1980</a>)</li>
+<li><a href="/wiki/Super_Bowl_XVII" title="Super Bowl XVII">XVII</a> (<a href="/wiki/1982_NFL_season" title="1982 NFL season">1982</a>)</li>
+<li><a href="/wiki/Super_Bowl_XX" title="Super Bowl XX">XX</a> (<a href="/wiki/1985_NFL_season" title="1985 NFL season">1985</a>)</li>
+<li><a href="/wiki/Super_Bowl_XXIII" title="Super Bowl XXIII">XXIII</a> (<a href="/wiki/1988_NFL_season" title="1988 NFL season">1988</a>)</li>
+<li><a href="/wiki/Super_Bowl_XXVII" title="Super Bowl XXVII">XXVII</a> (<a href="/wiki/1992_NFL_season" title="1992 NFL season">1992</a>)</li>
+<li><a href="/wiki/Super_Bowl_XXVIII" title="Super Bowl XXVIII">XXVIII</a> (<a href="/wiki/1993_NFL_season" title="1993 NFL season">1993</a>)</li>
+<li><a href="/wiki/Super_Bowl_XXX" title="Super Bowl XXX">XXX</a> (<a href="/wiki/1995_NFL_season" title="1995 NFL season">1995</a>)</li>
+<li><a href="/wiki/Super_Bowl_XXXII" title="Super Bowl XXXII">XXXII</a> (<a href="/wiki/1997_NFL_season" title="1997 NFL season">1997</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/NBC_Sunday_Night_Football" title="NBC Sunday Night Football">Sunday Night Football</a></i> era (<a href="/wiki/2006_NFL_season" title="2006 NFL season">2006</a>–present)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Super_Bowl_XLIII" title="Super Bowl XLIII">XLIII</a> (<a href="/wiki/2008_NFL_season" title="2008 NFL season">2008</a>)</li>
+<li><a href="/wiki/Super_Bowl_XLVI" title="Super Bowl XLVI">XLVI</a> (<a href="/wiki/2011_NFL_season" title="2011 NFL season">2011</a>)</li>
+<li><a href="/wiki/Super_Bowl_XLIX" title="Super Bowl XLIX">XLIX</a> (<a href="/wiki/2014_NFL_season" title="2014 NFL season">2014</a>)</li>
+<li><a href="/wiki/Super_Bowl_LII" title="Super Bowl LII">LII</a> (<a href="/wiki/2017_NFL_season" title="2017 NFL season">2017</a>)</li>
+<li><a href="/wiki/Super_Bowl_LVI" title="Super Bowl LVI">LVI</a> (<a href="/wiki/2021_NFL_season" class="mw-redirect" title="2021 NFL season">2021</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Super_Bowl_halftime_shows" title="List of Super Bowl halftime shows">Halftime shows</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Super_Bowl_XXVII_halftime_show" title="Super Bowl XXVII halftime show">XXVII (1992)</a></li>
+<li><a href="/wiki/Super_Bowl_XLVI_halftime_show" title="Super Bowl XLVI halftime show">XLVI (2011)</a></li>
+<li><a href="/wiki/Super_Bowl_XLIX_halftime_show" title="Super Bowl XLIX halftime show">XLIX (2014)</a></li>
+<li><a href="/wiki/Super_Bowl_LII_halftime_show" title="Super Bowl LII halftime show">LII (2017)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pro Bowl</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1952_Pro_Bowl" title="1952 Pro Bowl">1952</a></li>
+<li><a href="/wiki/1953_Pro_Bowl" title="1953 Pro Bowl">1953</a></li>
+<li><a href="/wiki/1958_Pro_Bowl" title="1958 Pro Bowl">1958</a></li>
+<li><a href="/wiki/1959_Pro_Bowl" title="1959 Pro Bowl">1959</a></li>
+<li><a href="/wiki/1960_Pro_Bowl" title="1960 Pro Bowl">1960</a></li>
+<li><a href="/wiki/1961_Pro_Bowl" title="1961 Pro Bowl">1961</a></li>
+<li><a href="/wiki/1962_Pro_Bowl" title="1962 Pro Bowl">1962</a></li>
+<li><a href="/wiki/1963_Pro_Bowl" title="1963 Pro Bowl">1963</a></li>
+<li><a href="/wiki/1964_Pro_Bowl" title="1964 Pro Bowl">1964</a></li>
+<li><a href="/wiki/1965_Pro_Bowl" title="1965 Pro Bowl">1965</a></li>
+<li><a href="/wiki/1972_Pro_Bowl" title="1972 Pro Bowl">1972</a></li>
+<li><a href="/wiki/1974_Pro_Bowl" title="1974 Pro Bowl">1974</a></li>
+<li><a href="/wiki/2009_Pro_Bowl" title="2009 Pro Bowl">2009</a></li>
+<li><a href="/wiki/2012_Pro_Bowl" title="2012 Pro Bowl">2012</a></li>
+<li><a href="/wiki/2013_Pro_Bowl" title="2013 Pro Bowl">2013</a></li>
+<li><a href="/wiki/2014_Pro_Bowl" title="2014 Pro Bowl">2014</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>Website: <a rel="nofollow" class="external text" href="http://www.nbcsports.com/nfl">NBC Sports - NFL News</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1312
+Cached time: 20190907063833
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.800 seconds
+Real time usage: 0.972 seconds
+Preprocessor visited node count: 5192/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 178794/2097152 bytes
+Template argument size: 10118/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 73724/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.277/10.000 seconds
+Lua memory usage: 5.29 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  811.003      1 -total
+ 22.45%  182.095      3 Template:Infobox
+ 22.25%  180.440     17 Template:Cite_web
+ 21.69%  175.875      6 Template:Singlechart
+ 21.65%  175.618      1 Template:Reflist
+ 19.80%  160.573      1 Template:Infobox_song
+ 15.32%  124.274      1 Template:Certification_Table_Entry
+ 13.53%  109.718      1 Template:Certification_Cite_Ref
+ 12.96%  105.073      1 Template:Cite_certification
+  9.14%   74.115      9 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43164857-0!canonical and timestamp 20190907063832 and revision id 911933153
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Somethin%27_Bad&amp;oldid=911933153">https://en.wikipedia.org/w/index.php?title=Somethin%27_Bad&amp;oldid=911933153</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2014_singles" title="Category:2014 singles">2014 singles</a></li><li><a href="/wiki/Category:Miranda_Lambert_songs" title="Category:Miranda Lambert songs">Miranda Lambert songs</a></li><li><a href="/wiki/Category:Carrie_Underwood_songs" title="Category:Carrie Underwood songs">Carrie Underwood songs</a></li><li><a href="/wiki/Category:RCA_Records_Nashville_singles" title="Category:RCA Records Nashville singles">RCA Records Nashville singles</a></li><li><a href="/wiki/Category:Arista_Nashville_singles" title="Category:Arista Nashville singles">Arista Nashville singles</a></li><li><a href="/wiki/Category:2014_songs" title="Category:2014 songs">2014 songs</a></li><li><a href="/wiki/Category:Songs_written_by_Brett_James" title="Category:Songs written by Brett James">Songs written by Brett James</a></li><li><a href="/wiki/Category:Songs_written_by_Chris_DeStefano" title="Category:Songs written by Chris DeStefano">Songs written by Chris DeStefano</a></li><li><a href="/wiki/Category:Songs_written_by_Priscilla_Renea" title="Category:Songs written by Priscilla Renea">Songs written by Priscilla Renea</a></li><li><a href="/wiki/Category:Song_recordings_produced_by_Frank_Liddell" title="Category:Song recordings produced by Frank Liddell">Song recordings produced by Frank Liddell</a></li><li><a href="/wiki/Category:Vocal_duets" title="Category:Vocal duets">Vocal duets</a></li><li><a href="/wiki/Category:Billboard_Hot_Country_Songs_number-one_singles" title="Category:Billboard Hot Country Songs number-one singles">Billboard Hot Country Songs number-one singles</a></li><li><a href="/wiki/Category:Music_videos_directed_by_Trey_Fanjoy" title="Category:Music videos directed by Trey Fanjoy">Music videos directed by Trey Fanjoy</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Canada" title="Category:Singlechart usages for Canada">Singlechart usages for Canada</a></li><li><a href="/wiki/Category:Singlechart_called_without_song" title="Category:Singlechart called without song">Singlechart called without song</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcanadacountry" title="Category:Singlechart usages for Billboardcanadacountry">Singlechart usages for Billboardcanadacountry</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Slovakdigital" title="Category:Singlechart usages for Slovakdigital">Singlechart usages for Slovakdigital</a></li><li><a href="/wiki/Category:Singlechart_called_without_artist" title="Category:Singlechart called without artist">Singlechart called without artist</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardhot100" title="Category:Singlechart usages for Billboardhot100">Singlechart usages for Billboardhot100</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcountryairplay" title="Category:Singlechart usages for Billboardcountryairplay">Singlechart usages for Billboardcountryairplay</a></li><li><a href="/wiki/Category:Singlechart_usages_for_Billboardcountrysongs" title="Category:Singlechart usages for Billboardcountrysongs">Singlechart usages for Billboardcountrysongs</a></li><li><a href="/wiki/Category:Pages_using_certification_Table_Entry_with_unknown_parameters" title="Category:Pages using certification Table Entry with unknown parameters">Pages using certification Table Entry with unknown parameters</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Somethin%27+Bad" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Somethin%27+Bad" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Somethin%27_Bad" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Somethin%27_Bad" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Somethin%27_Bad">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Somethin%27_Bad&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Somethin%27_Bad" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Somethin%27_Bad" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Somethin%27_Bad&amp;oldid=911933153" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Somethin%27_Bad&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17299735" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Somethin%27_Bad&amp;id=911933153" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Somethin%27+Bad">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Somethin%27+Bad&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Somethin%27_Bad&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Somethin%27_Bad" title="Somethin&#039; Bad – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Somethin%27_Bad" title="Somethin&#039; Bad – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ru badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="https://ru.wikipedia.org/wiki/Somethin%E2%80%99_Bad" title="Somethin’ Bad – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Somethin%E2%80%99_Bad" title="Somethin’ Bad – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17299735#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 August 2019, at 03:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Somethin%27_Bad&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.800","walltime":"0.972","ppvisitednodes":{"value":5192,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":178794,"limit":2097152},"templateargumentsize":{"value":10118,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":73724,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  811.003      1 -total"," 22.45%  182.095      3 Template:Infobox"," 22.25%  180.440     17 Template:Cite_web"," 21.69%  175.875      6 Template:Singlechart"," 21.65%  175.618      1 Template:Reflist"," 19.80%  160.573      1 Template:Infobox_song"," 15.32%  124.274      1 Template:Certification_Table_Entry"," 13.53%  109.718      1 Template:Certification_Cite_Ref"," 12.96%  105.073      1 Template:Cite_certification","  9.14%   74.115      9 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.277","limit":"10.000"},"limitreport-memusage":{"value":5547114,"limit":52428800}},"cachereport":{"origin":"mw1312","timestamp":"20190907063833","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Somethin' Bad","url":"https:\/\/en.wikipedia.org\/wiki\/Somethin%27_Bad","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17299735","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17299735","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-06-28T10:47:38Z","dateModified":"2019-08-22T03:42:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/b0\/A_single_cover_for_the_song_somethin%27_bad_by_Miranda_Lambert.jpg","headline":"2014 single by Miranda Lambert"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

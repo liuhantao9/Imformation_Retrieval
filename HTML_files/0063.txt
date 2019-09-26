@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Some Hearts - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Some_Hearts","wgTitle":"Some Hearts","wgCurRevisionId":911932945,"wgRevisionId":911932945,"wgArticleId":2916738,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","CS1 maint: others","Articles with short description","Articles with hAudio microformats","Certification Table Entry usages for Canada","Certification Table Entry usages for United States","2005 debut albums","Arista Records albums","Carrie Underwood albums","Albums produced by Dann Huff","Albums produced by Desmond Child","Albums produced by Mark Bright (record producer)","19 Recordings albums"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Some_Hearts","wgRelevantArticleId":2916738,"wgRequestId":"XYo4fgpAICkAABHKliMAAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1754341","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/9/95/Carriesomehearts.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Some_Hearts"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Some_Hearts&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Some_Hearts&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Some_Hearts"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Some_Hearts rootpage-Some_Hearts skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><i>Some Hearts</i></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Some_Hearts_(disambiguation)" class="mw-disambig" title="Some Hearts (disambiguation)">Some Hearts (disambiguation)</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">2005 studio album&#32;by Carrie Underwood</div><table class="infobox vevent haudio" style="width:22em"><tbody><tr><th colspan="2" class="summary album" style="text-align:center;font-size:125%;font-weight:bold;font-style: italic; background-color: lightsteelblue">Some Hearts</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Carriesomehearts.jpg" class="image"><img alt="Carriesomehearts.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/95/Carriesomehearts.jpg/220px-Carriesomehearts.jpg" decoding="async" width="220" height="220" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/9/95/Carriesomehearts.jpg 1.5x" data-file-width="300" data-file-height="300" /></a></td></tr><tr><th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue"><a href="/wiki/Album" title="Album">Studio album</a>&#32;by <div class="contributor" style="display:inline"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></div></th></tr><tr><th scope="row">Released</th><td class="published">November&#160;15,&#160;2005<span style="display:none">&#160;(<span class="bday dtstart published updated">2005-11-15</span>)</span></td></tr><tr><th scope="row">Recorded</th><td class="plainlist">2005; Starstruck Studios <span style="font-size:85%;">(Nashville, Tennessee)</span>, Plant Recording <span style="font-size:85%;">(Sausalito, California)</span>, Electrokitty Recording <span style="font-size:85%;">(Seattle, Washington)</span></td></tr><tr><th scope="row"><a href="/wiki/Music_genre" title="Music genre">Genre</a></th><td class="category hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Country_music" title="Country music">Country</a></li><li><a href="/wiki/Country_pop" title="Country pop">country pop</a></li></ul></div></td></tr><tr><th scope="row">Length</th><td><span class="duration"><span class="min">50</span>:<span class="s">19</span></span></td></tr><tr><th scope="row"><a href="/wiki/Record_label" title="Record label">Label</a></th><td class="hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a></li><li><a href="/wiki/19_Recordings" title="19 Recordings">19</a></li></ul></div></td></tr><tr><th scope="row"><a href="/wiki/Record_producer" title="Record producer">Producer</a></th><td class="hlist"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Desmond_Child" title="Desmond Child">Desmond Child</a></li><li><a href="/wiki/Dann_Huff" title="Dann Huff">Dann Huff</a></li><li><a href="/wiki/Mark_Bright_(record_producer)" title="Mark Bright (record producer)">Mark Bright</a></li></ul></div></td></tr><tr><th colspan="2" class="description" style="text-align:center;background-color: lightsteelblue"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> chronology</th></tr><tr><td colspan="2" style="text-align:center">
+<table style="background: transparent; width: 100%; min-width: 100%; border-collapse: collapse">
+
+<tbody><tr style="line-height: 1.4em;">
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em .2em 0"><span style="display:none"></span>
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em .1em"><i><b>Some Hearts</b></i><br />(2005)
+</td>
+<td style="width: 33%; text-align: center; vertical-align: top; padding: .2em 0 .2em .1em"><i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i><br />(2007)
+</td></tr></tbody></table></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background: lightsteelblue"><a href="/wiki/Single_(music)" title="Single (music)">Singles</a> from <i>Some Hearts</i></th></tr><tr><td colspan="2" style="text-align:center"><div style="text-align:left">
+<ol><li><span class="item"><span class="fn">"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"</span><br />Released: October 3, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Some_Hearts_(song)" title="Some Hearts (song)">Some Hearts</a>"</span><br />Released: October 29, 2005</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"</span><br />Released: March 13, 2006</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"</span><br />Released: August 19, 2006</span></li>
+<li><span class="item"><span class="fn">"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"</span><br />Released: February 6, 2007</span></li></ol>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><i><b>Some Hearts</b></i> is the debut studio album by American singer and songwriter <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a>, released in the United States on November 15, 2005 by <a href="/wiki/Arista_Nashville" title="Arista Nashville">Arista Nashville</a>. The album contains the number one country singles "<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>", "<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>", "<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>", and "<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>". The North American version contains the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> number one single, "<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>," as a bonus track.
+</p><p>Bolstered by the success of its singles, <i>Some Hearts</i> became the best-selling album of 2006 in all genres in the United States. The album was also the best-selling country album in the United States of both 2006 and 2007, making Underwood the first female artist in <i>Billboard</i> history to earn back-to-back honors for Top Country Album. Additionally, it was the best-selling female country album of 2005, 2006 and 2007. <i>Some Hearts</i> has since been certified <a href="/wiki/RIAA_Certification" class="mw-redirect" title="RIAA Certification">8x platinum</a>  by the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA), and is the fastest-selling debut country album in the history of the <a href="/wiki/Nielsen_SoundScan" title="Nielsen SoundScan">Nielsen SoundScan</a> era, the best-selling solo female debut album in country music history, the best-selling country album of the last 10 years, and the best-selling album by an <i><a href="/wiki/American_Idol" title="American Idol">American Idol</a></i> alumni in the U.S.
+</p><p>It was listed as one of the 100 best-selling albums of all time by the RIAA in 2009. <i>Some Hearts</i> has since sold over 7.45 million copies in the U.S. and over nine million worldwide. In December 2009, <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> announced that the album was the biggest-selling country album of the decade, as well as the fourteenth biggest-selling album of any genre.
+</p><p>The album and its songs were praised by music critics. It led Underwood to win three <a href="/wiki/Grammy_Award" title="Grammy Award">Grammy Awards</a>: <a href="/wiki/Grammy_Award_for_Best_New_Artist" title="Grammy Award for Best New Artist">Best New Artist</a> in <a href="/wiki/49th_Grammy_Awards" class="mw-redirect" title="49th Grammy Awards">2007</a> and twice <a href="/wiki/Grammy_Award_for_Best_Female_Country_Vocal_Performance" title="Grammy Award for Best Female Country Vocal Performance">Best Female Country Vocal Performance</a> — for "Jesus, Take the Wheel", in 2007, and for "Before He Cheats", in <a href="/wiki/50th_Grammy_Awards" class="mw-redirect" title="50th Grammy Awards">2008</a>. Additionally, <i>Some Hearts</i> won Album of the Year at the 2007 <a href="/wiki/Academy_of_Country_Music_Awards" title="Academy of Country Music Awards">Academy of Country Music Awards</a>, while "Jesus, Take the Wheel" and "Before He Cheats" both won Single of the Year at the 2006 Academy of Country Music Awards and 2007 <a href="/wiki/Country_Music_Association_Awards" title="Country Music Association Awards">Country Music Association Awards</a>, respectively.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Singles"><span class="tocnumber">1</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Promotion"><span class="tocnumber">2</span> <span class="toctext">Promotion</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Critical_reception"><span class="tocnumber">3</span> <span class="toctext">Critical reception</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Awards_and_nominations"><span class="tocnumber">4</span> <span class="toctext">Awards and nominations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Commercial_performance"><span class="tocnumber">5</span> <span class="toctext">Commercial performance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Track_listing"><span class="tocnumber">6</span> <span class="toctext">Track listing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Personnel"><span class="tocnumber">7</span> <span class="toctext">Personnel</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Charts"><span class="tocnumber">8</span> <span class="toctext">Charts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Weekly_charts"><span class="tocnumber">8.1</span> <span class="toctext">Weekly charts</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Year-end_charts"><span class="tocnumber">8.2</span> <span class="toctext">Year-end charts</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Singles_2"><span class="tocnumber">8.3</span> <span class="toctext">Singles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Certifications"><span class="tocnumber">9</span> <span class="toctext">Certifications</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Release_history"><span class="tocnumber">10</span> <span class="toctext">Release history</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=1" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Carrie Underwood's <i>American Idol</i> winning single "<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>", which debuted at number one on the <i>Billboard</i> Hot 100 five months before the release of <i>Some Hearts</i>, is included on the album as a bonus track. The song is Underwood's only number 1 on the Hot 100. The song has sold 880,000 copies.
+</p><p>The first single from the album, "<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>", was No. 1 on the U.S. <i>Billboard</i> <a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">Hot Country Songs</a> chart for six consecutive weeks and reached No. 20 on the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>. In August 2008, "Jesus, Take the Wheel" was reported to have been sold more than 1 million ringtones and was certified Platinum, the first achievement by a country artist for two  Platinum Mastertone ranked songs. As of February 2016, it has sold 2,473,000 copies in the United States and has been certified 3xPlatinum by the <a href="/wiki/RIAA" class="mw-redirect" title="RIAA">RIAA</a>.
+</p><p>"Some Hearts", written by <a href="/wiki/Diane_Warren" title="Diane Warren">Diane Warren</a> and originally covered by <a href="/wiki/Marshall_Crenshaw" title="Marshall Crenshaw">Marshall Crenshaw</a> in 1989, was released to <a href="/wiki/Pop_radio" class="mw-redirect" title="Pop radio">pop</a> and <a href="/wiki/Adult_contemporary" class="mw-redirect" title="Adult contemporary">adult contemporary</a> radio only and eventually reached number 12 on the <a href="/wiki/Adult_Contemporary_(Billboard_chart)" class="mw-redirect" title="Adult Contemporary (Billboard chart)">Adult Contemporary chart</a>. As of June 2011 it has sold 207,000 copies.
+</p><p>"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>" was the third single from the album, and also proved successful, reaching number one on the <i><a href="/wiki/Mediabase" title="Mediabase">Mediabase</a></i> Country Chart, number two on the <i>Billboard</i> Hot Country Songs chart, and number 49 on the Hot 100. The song has sold 403,000 copies in the United States and has been certified Gold by the RIAA as of August 12, 2013.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>" was released as the next single, and climbed the charts faster than any of Underwood's other singles, making it into the top twenty of the Hot Country Songs chart before the release of a music video. "Before He Cheats" subsequently peaked at number one on the Hot Country Songs chart for five consecutive weeks, and at number eight on the Hot 100; it proved to be a huge <a href="/wiki/Crossover_(music)" class="mw-redirect" title="Crossover (music)">crossover</a> hit, making appearances in the top 20 of every chart on which it appeared, and it is the biggest hit overall from the album. When it finally peaked at number 8 in May 2007, it had already logged 38 weeks on the chart, making it the longest trek to the top 10 ever. As pop airplay began dying down, the song got a third life on the adult contemporary format, which began playing the song in May. "Before He Cheats" spent 64 consecutive weeks on the Hot 100, before finally falling off in late November 2007. The song is the fifth-longest charting single on the Hot 100, following LeAnn Rimes's "<a href="/wiki/How_Do_I_Live" title="How Do I Live">How Do I Live</a>", Jewel's "<a href="/wiki/You_Were_Meant_for_Me_(Jewel_song)" title="You Were Meant for Me (Jewel song)">You Were Meant for Me</a>"/"<a href="/wiki/Foolish_Games" title="Foolish Games">Foolish Games</a>", <a href="/wiki/Adele" title="Adele">Adele</a>'s "<a href="/wiki/Rolling_in_the_Deep" title="Rolling in the Deep">Rolling in the Deep</a>", and Jason Mraz's "<a href="/wiki/I%27m_Yours_(Jason_Mraz_song)" title="I&#39;m Yours (Jason Mraz song)">I'm Yours</a>". It is the second longest running hit so far this decade."Before He Cheats" reached No. 6 on the 2007 Hot 100 Year-End Chart and fifth on the 2007 Hot 100 Airplay Year-End Chart by <i>Billboard</i> magazine. It reached No. 10 on the 2007 Adult Contemporary Year-End Chart. It was named the 2007 Single of the Year by the Country Music Association. It is Underwood's best selling single and had sold 4,312,000 digital downloads as of August 2016,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> making it the third best-selling country song of all time behind Lady Antebellum's "<a href="/wiki/Need_You_Now_(Lady_Antebellum_song)" title="Need You Now (Lady Antebellum song)">Need You Now</a>", with 4.97 million and Taylor Swift's "<a href="/wiki/Love_Story_(Taylor_Swift_song)" title="Love Story (Taylor Swift song)">Love Story</a>", with 4.96 million. It is the third best-selling song by an <i><a href="/wiki/American_Idol" title="American Idol">American Idol</a></i> contestant in the United States (behind <a href="/wiki/Phillip_Phillips" title="Phillip Phillips">Phillip Phillips</a>' <a href="/wiki/Home_(Phillip_Phillips_song)" title="Home (Phillip Phillips song)">Home</a> and <a href="/wiki/Kelly_Clarkson" title="Kelly Clarkson">Kelly Clarkson</a>'s "<a href="/wiki/Stronger_(What_Doesn%27t_Kill_You)" title="Stronger (What Doesn&#39;t Kill You)">Stronger (What Doesn't Kill You)</a>"), and the fourth longest-charting single in the history of the Hot 100. It also came in on CMT's 40 Greatest Songs of the Decade at number twenty-five, along with Underwood's other signature hit, "Jesus, Take the Wheel", it reached No. 4. It has been certified 5xPlatinum by the RIAA.
+</p><p>"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>" also proved another successful hit for Underwood by peaking at number one for three consecutive weeks on the Hot Country Songs chart, and going to number 37 on the Hot 100. The song has sold 705,000 copies in the United States and has been certified Platinum in August 2015.
+</p><p><a href="/wiki/Dann_Huff" title="Dann Huff">Dann Huff</a> produced tracks 3, 6, 8, 9, 11, and 12, <a href="/wiki/Desmond_Child" title="Desmond Child">Desmond Child</a> produced "Inside Your Heaven", and <a href="/wiki/Mark_Bright_(record_producer)" title="Mark Bright (record producer)">Mark Bright</a> produced the rest.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Promotion">Promotion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=2" title="Edit section: Promotion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To promote <i>Some Hearts</i>, Underwood embarked on her very first solo tour, which was called <a href="/wiki/Carrie_Underwood:_Live_2006" class="mw-redirect" title="Carrie Underwood: Live 2006">Carrie Underwood: Live 2006</a>. The tour started April 4, 2006 and ended November 30 of the same year.
+</p>
+<h2><span class="mw-headline" id="Critical_reception">Critical reception</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=3" title="Edit section: Critical reception">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable floatright" style="float:right;clear:right;width:24.2em;font-size:80%;text-align:center;margin:0.5em 0 0.5em 1em;padding:0;border-spacing:0"><tbody><tr><th scope="col" colspan="2" style="font-size:120%">Professional ratings</th></tr><tr><th scope="col" colspan="2" style="text-align:center;background:#d1dbdf;font-size:120%">Review scores</th></tr><tr><th scope="col">Source</th><th scope="col">Rating</th></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/About.com" class="mw-redirect" title="About.com">About.com</a></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4.5/5 stars"><img alt="4.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="4.5/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="4/5 stars"><img alt="4/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="4/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="3/5 stars"><img alt="3/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="3/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i></td><td style="text-align:center;vertical-align:middle">C<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Robert Christgau</a></td><td style="text-align:center;vertical-align:middle"><span style="white-space:nowrap" title="(choice cut)"><a href="/wiki/Christgau%27s_Consumer_Guide:_Albums_of_the_%2790s#Grading_key" title="(choice cut)"><img alt="(choice cut)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/17px-Scissors_icon_black.svg.png" decoding="async" width="17" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/26px-Scissors_icon_black.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Scissors_icon_black.svg/34px-Scissors_icon_black.svg.png 2x" data-file-width="100" data-file-height="60" /></a></span><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="2.5/5 stars"><img alt="2.5/5 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="2.5/5 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/11px-Star_half.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/17px-Star_half.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/Star_half.svg/22px-Star_half.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i></td><td style="text-align:center;vertical-align:middle">B<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></td></tr><tr><td style="text-align:center;vertical-align:middle"><i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i></td><td style="text-align:center;vertical-align:middle"><span role="img" style="white-space:nowrap" title="3/4 stars"><img alt="3/4 stars" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" title="3/4 stars" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/11px-Star_full.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/17px-Star_full.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/22px-Star_full.svg.png 2x" data-file-width="108" data-file-height="110" /><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/11px-Star_empty.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/17px-Star_empty.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_empty.svg/22px-Star_empty.svg.png 2x" data-file-width="108" data-file-height="110" /></span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></td></tr></tbody></table>
+<p>The album received positive reviews from <a href="/wiki/Music_journalism" title="Music journalism">music critics</a>. Penny Rondinella of <a href="/wiki/About.com" class="mw-redirect" title="About.com">About.com</a> gave a positive review to the album, awarding it with a four-and-a-half stars out of five and said: "American Idol Season 4 winner Carrie Underwood's debut album is just as expected, a country feel with some pop added to it. Lots of variety in her vocals, which tells me she has true talent."  <a href="/wiki/AllMusic" title="AllMusic">AllMusic</a> gave it 4 out of 5 stars and classified the album as "anthemic country pop, ideal for either country or adult contemporary radio, with none of the delightful tackiness of <a href="/wiki/Shania_Twain" title="Shania Twain">Shania Twain</a>—and her debut album, Some Hearts, not only hits this mark exactly, it's better than either album Hill has released since Breathe in 1999." It also praised Underwood's vocal performance and found that "she sounds equally convincing on such sentimental fare as 'Jesus, Take the Wheel' as on the soaring pop 'Some Hearts,' and even if she doesn't exactly sound tough on the strutting 'Before He Cheats,' she does growl with a fair amount of passion."
+</p><p><i>Some Hearts</i> won Album of the Year at the 2007 <a href="/wiki/Academy_of_Country_Music_Awards" title="Academy of Country Music Awards">Academy of Country Music Awards</a>, while "Jesus, Take the Wheel" and "Before He Cheats" both won Single of the Year at the 2006 Academy of Country Music Awards and 2007 <a href="/wiki/Country_Music_Association_Awards" title="Country Music Association Awards">Country Music Association Awards</a>, respectively. At the <a href="/wiki/49th_Grammy_Awards" class="mw-redirect" title="49th Grammy Awards">49th Grammy Awards</a>, in 2007, Underwood won the <a href="/wiki/Grammy_Award_for_Best_New_Artist" title="Grammy Award for Best New Artist">Grammy Award for Best New Artist</a> and the <a href="/wiki/Grammy_Award_for_Best_Female_Country_Vocal_Performance" title="Grammy Award for Best Female Country Vocal Performance">Grammy Award for Best Female Country Vocal Performance</a>, for "Jesus, Take the Wheel", which also won <a href="/wiki/Best_Country_Song" class="mw-redirect" title="Best Country Song">Best Country Song</a> for its songwriters, being nominated for <a href="/wiki/Grammy_Award_for_Song_of_the_Year" title="Grammy Award for Song of the Year">Song of the Year</a> as well. The following year, at the <a href="/wiki/50th_Grammy_Awards" class="mw-redirect" title="50th Grammy Awards">50th Grammy Awards</a>, Underwood won the Grammy for Best Female Country Vocal Performance for "Before He Cheats". The song won Best Country Song for the songwriters as well as being nominated for Song of the Year.
+</p>
+<h2><span class="mw-headline" id="Awards_and_nominations">Awards and nominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=4" title="Edit section: Awards and nominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Award
+</th>
+<th>Category
+</th>
+<th>Result
+</th></tr>
+<tr>
+<td>41st <a href="/wiki/Academy_of_Country_Music_Awards" title="Academy of Country Music Awards">Academy of Country Music Awards</a>
+</td>
+<td>Album of the Year
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td rowspan="3">2006 <a href="/wiki/Billboard_Music_Award" title="Billboard Music Award"><i>Billboard</i> Music Awards</a>
+</td>
+<td>Album of the Year
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td>Country Album of the Year
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td>Female <i>Billboard</i> 200 Album Artist of the Year
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td><a href="/wiki/American_Music_Awards_of_2007" title="American Music Awards of 2007">2007 American Music Awards</a>
+</td>
+<td>Favorite Country Album
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td>2007 <a href="/wiki/Billboard_Music_Award" title="Billboard Music Award"><i>Billboard</i> Music Awards</a>
+</td>
+<td>Country Album of the Year
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr>
+<tr>
+<td>2009 <a href="/wiki/Billboard_Music_Award" title="Billboard Music Award"><i>Billboard</i> Music Awards</a>
+</td>
+<td>Country Album of the Decade
+</td>
+<td style="background: #99FF99; color: black; vertical-align: middle; text-align: center;" class="yes table-yes2">Won
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Commercial_performance">Commercial performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=5" title="Edit section: Commercial performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Some Hearts</i> debuted at number two on the <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>, behind <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a>'s <i><a href="/wiki/Confessions_on_a_Dance_Floor" title="Confessions on a Dance Floor">Confessions on a Dance Floor</a></i> and number one on the <a href="/wiki/Top_Country_Albums" class="mw-redirect" title="Top Country Albums"><i>Billboard</i> Top Country Albums</a> selling 315,000 copies in its first week.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> The large first week sales of <i>Some Hearts</i> made it the biggest debut of any country artist since the advent of the <a href="/wiki/SoundScan" class="mw-redirect" title="SoundScan">SoundScan</a> system in 1991.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> It was also the fifth best first-week sales for any <i>American Idol</i> contestant (behind Ruben Studdard's <i><a href="/wiki/Soulful_(Ruben_Studdard_album)" title="Soulful (Ruben Studdard album)">Soulful</a></i>, her own <i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i> and <i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i>, and <a href="/wiki/Clay_Aiken" title="Clay Aiken">Clay Aiken</a>'s <i><a href="/wiki/Measure_of_a_Man_(Clay_Aiken_album)" title="Measure of a Man (Clay Aiken album)">Measure of a Man</a></i>, which sold over 417,000 copies, 318,000 copies, 527,000 copies and 613,000 copies, respectively, in their first weeks). In the week of December 25, 2006, the album's fifty-eighth week on the chart, the album rose back up to number four on the <i>Billboard</i> 200 chart after selling close to 300,000 copies.
+</p><p><i>Some Hearts</i> became the best-selling album of 2006 in all genres in the United States.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The album was also the best-selling country album in the United States of both 2006 and 2007, making Underwood the first female artist in <i>Billboard</i> history to earn back-to-back honors for Top Country Album.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Additionally, it was the best-selling female country album of 2005, 2006 and 2007.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>On the U.S. <i>Billboard</i> 200, the album had a run of 137 consecutive weeks on the chart, the second-longest for any album released in 2005, behind <a href="/wiki/Nickelback" title="Nickelback">Nickelback</a>'s <i><a href="/wiki/All_the_Right_Reasons" title="All the Right Reasons">All the Right Reasons</a></i>, making it the sixth album with the most weeks spent on such a chart since 2000.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> The album spent 10 weeks within the Top 5 of the <i>Billboard</i> 200, a record among American Idol alumni.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> On the week dated December 12, 2009, under the changes of <i>Billboard'</i>s rules, the album re-entered the <i>Billboard</i> 200, at number 132.
+The album appeared on the <i>Billboard</i> Year-End Chart for 2009, coming in at number 158 for album sales that year.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> On the week dated for August 7, 2010, the album climbed back onto the <i>Billboard</i> 200, reaching No. 191.  On the week dated for December 5, 2010, the album once again landed onto the <i>Billboard</i> 200, reaching No. 192.  On the week dated for December 8, 2012, the album once again landed onto the <i>Billboard</i> 200, reaching No. 69.
+</p><p><i>Some Hearts</i> has since been certified eight times Platinum by the <a href="/wiki/RIAA" class="mw-redirect" title="RIAA">RIAA</a>,<sup id="cite_ref-RIAA_21-0" class="reference"><a href="#cite_note-RIAA-21">&#91;21&#93;</a></sup> and is the fastest-selling debut country album in the history of the <a href="/wiki/SoundScan" class="mw-redirect" title="SoundScan">SoundScan</a> era,<sup id="cite_ref-cmt20070110_22-0" class="reference"><a href="#cite_note-cmt20070110-22">&#91;22&#93;</a></sup><sup id="cite_ref-cst_23-0" class="reference"><a href="#cite_note-cst-23">&#91;23&#93;</a></sup> the best-selling solo female debut album in country music history,<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> the best-selling Country album of the last 10 years,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> and the best-selling album by an American Idol alumni in the U.S.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> As of December 2015, it has sold over 7,450,000 copies in the United States.<sup id="cite_ref-USsales_27-0" class="reference"><a href="#cite_note-USsales-27">&#91;27&#93;</a></sup> On October 24, 2016, the album was certified 8x Platinum by the RIAA.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p><p>By December 2007, <i>Some Hearts</i> had sold over 7 million copies worldwide, according to <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> It has now sold over 9 million copies worldwide.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p><p>In December 2009, <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i> announced that the album was the biggest-selling country album of the 2000s decade, as well as the fourteenth biggest-selling album of any genre.<sup id="cite_ref-DecadeEnd_31-0" class="reference"><a href="#cite_note-DecadeEnd-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+On August 6, 2016 issue of <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>, <i>Some Hearts</i> reached No. 7 on the <i>All-time Country Albums</i> chart. On <i>All-time Country Songs</i> chart, the album's fourth single, "Before He Cheats", reached No. 64.
+</p>
+<h2><span class="mw-headline" id="Track_listing">Track listing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=6" title="Edit section: Track listing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="tracklist" style="display:block;border-spacing:0px;border-collapse:collapse;padding:4px"><tbody><tr><th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th><th class="tlheader" scope="col" style="width:60%;text-align:left;background-color:#eee">Title</th><th class="tlheader" scope="col" style="width:40%;text-align:left;background-color:#eee">Writer(s)</th><th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">1.</td><td style="vertical-align:top">"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Troy_Verges" title="Troy Verges">Troy Verges</a></li><li><a href="/wiki/Marv_Green" title="Marv Green">Marv Green</a></li><li><a href="/wiki/Hillary_Lindsey" title="Hillary Lindsey">Hillary Lindsey</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">4:34</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">2.</td><td style="vertical-align:top">"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Morgane_Stapleton" title="Morgane Stapleton">Morgane Hayes</a></li><li><a href="/wiki/Kelley_Lovelace" title="Kelley Lovelace">Kelley Lovelace</a></li><li><a href="/wiki/Ashley_Gorley" title="Ashley Gorley">Ashley Gorley</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">4:00</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">3.</td><td style="vertical-align:top">"<a href="/wiki/Some_Hearts_(song)" title="Some Hearts (song)">Some Hearts</a>"</td><td style="vertical-align:top"><a href="/wiki/Diane_Warren" title="Diane Warren">Diane Warren</a></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:48</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">4.</td><td style="vertical-align:top">"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Brett_James" title="Brett James">Brett James</a></li><li>Lindsey</li><li><a href="/wiki/Gordie_Sampson" title="Gordie Sampson">Gordie Sampson</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:46</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">5.</td><td style="vertical-align:top">"The Night Before (Life Goes On)"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Wendell_Mobley" title="Wendell Mobley">Wendell Mobley</a></li><li><a href="/wiki/Neil_Thrasher" title="Neil Thrasher">Neil Thrasher</a></li><li><a href="/wiki/Diamond_Rio" title="Diamond Rio">Jimmy Olander</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:54</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">6.</td><td style="vertical-align:top">"Lessons Learned"</td><td style="vertical-align:top">Warren</td><td style="padding-right:10px;text-align:right;vertical-align:top">4:09</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">7.</td><td style="vertical-align:top">"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Chris_Tompkins" title="Chris Tompkins">Chris Tompkins</a></li><li><a href="/wiki/Josh_Kear" title="Josh Kear">Josh Kear</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:19</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">8.</td><td style="vertical-align:top">"Starts with Goodbye"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Angelo_Petraglia" title="Angelo Petraglia">Angelo Petraglia</a></li><li>Lindsey</li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">4:06</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">9.</td><td style="vertical-align:top">"I Just Can't Live a Lie"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Steve_Robson" title="Steve Robson">Steve Robson</a></li><li><a href="/wiki/Wayne_Hector" title="Wayne Hector">Wayne Hector</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:59</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">10.</td><td style="vertical-align:top">"We're Young and Beautiful"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Rivers_Rutherford" title="Rivers Rutherford">Rivers Rutherford</a></li><li><a href="/wiki/Steve_McEwan" title="Steve McEwan">Steve McEwan</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:53</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">11.</td><td style="vertical-align:top">"That's Where It Is"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Melissa_Peirce" title="Melissa Peirce">Melissa Peirce</a></li><li>Robson</li><li><a href="/w/index.php?title=Greg_Becker&amp;action=edit&amp;redlink=1" class="new" title="Greg Becker (page does not exist)">Greg Becker</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:35</td></tr><tr style="background-color:#f7f7f7"><td style="padding-right:10px;text-align:right;vertical-align:top">12.</td><td style="vertical-align:top">"Whenever You Remember"</td><td style="vertical-align:top">Warren</td><td style="padding-right:10px;text-align:right;vertical-align:top">3:47</td></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">13.</td><td style="vertical-align:top">"I Ain't in Checotah Anymore"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></li><li><a href="/wiki/Trey_Bruce" title="Trey Bruce">Trey Bruce</a></li><li>Petraglia</li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:21</td></tr><tr><td colspan="3" style="padding:0"><span style="width:7.5em;float:right;padding-left:10px;background-color:#eee;margin-right:2px"><b>Total length:</b></span></td><td style="padding:0 10px 0 0;text-align:right;background-color:#eee"><b>50:19</b></td></tr></tbody></table>
+<table class="tracklist collapsible collapsed" style="display:block;border-spacing:0px;border-collapse:collapse;border:#aaa 1px solid;padding:3px"><tbody><tr><th class="tlheader mbox-text" colspan="4" style="text-align:left;background-color:#fff">North American bonus track</th></tr><tr><th class="tlheader" scope="col" style="width:2em;padding-left:10px;padding-right:10px;text-align:right;background-color:#eee"><abbr title="Number">No.</abbr></th><th class="tlheader" scope="col" style="width:60%;text-align:left;background-color:#eee">Title</th><th class="tlheader" scope="col" style="width:40%;text-align:left;background-color:#eee">Writer(s)</th><th class="tlheader" scope="col" style="width:4em;padding-right:10px;text-align:right;background-color:#eee">Length</th></tr><tr style="background-color:#fff"><td style="padding-right:10px;text-align:right;vertical-align:top">14.</td><td style="vertical-align:top">"<a href="/wiki/Inside_Your_Heaven" title="Inside Your Heaven">Inside Your Heaven</a>"</td><td style="vertical-align:top"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Andreas_Carlsson" title="Andreas Carlsson">Andreas Carlsson</a></li><li>Pelle Nyhlén</li><li><a href="/wiki/Savan_Kotecha" title="Savan Kotecha">Savan Kotecha</a></li></ul></div></td><td style="padding-right:10px;text-align:right;vertical-align:top">3:45</td></tr><tr><td colspan="3" style="padding:0"><span style="width:7.5em;float:right;padding-left:10px;background-color:#eee;margin-right:2px"><b>Total length:</b></span></td><td style="padding:0 10px 0 0;text-align:right;background-color:#eee"><b>54:04</b></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Personnel">Personnel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=7" title="Edit section: Personnel">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As listed in liner notes.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li><a href="/wiki/Tom_Bukovac" title="Tom Bukovac">Tom Bukovac</a> &#8211; electric guitar</li>
+<li><a href="/wiki/Jim_Van_Cleve" title="Jim Van Cleve">Jim Van Cleve</a> &#8211; fiddle</li>
+<li>Lisa Cochran &#8211; background vocals</li>
+<li>Perry Coleman &#8211; background vocals</li>
+<li>Randy Cantor &#8211; acoustic guitar, electric guitar, bass guitar, <a href="/wiki/Lap_steel_guitar" title="Lap steel guitar">lap steel guitar</a>, keyboards, programming, recording</li>
+<li><a href="/wiki/J._T._Corenflos" title="J. T. Corenflos">J. T. Corenflos</a> &#8211; electric guitar</li>
+<li><a href="/wiki/Gretchen_Peters" title="Gretchen Peters">Gretchen Peters</a> &#8211; strings, writer</li>
+<li>Jeanette Olsson &#8211; background vocals</li>
+<li>Stephen Crook &#8211; recording</li>
+<li><a href="/wiki/Eric_Darken" title="Eric Darken">Eric Darken</a> &#8211; percussion</li>
+<li><a href="/wiki/Shannon_Forrest" title="Shannon Forrest">Shannon Forrest</a> &#8211; drums</li>
+<li><a href="/wiki/Paul_Franklin_(musician)" title="Paul Franklin (musician)">Paul Franklin</a> &#8211; <a href="/wiki/Pedal_steel_guitar" title="Pedal steel guitar">steel guitar</a></li>
+<li><a href="/wiki/Morgane_Stapleton" title="Morgane Stapleton">Morgane Hayes</a> &#8211; background vocals</li>
+<li>Wes Hightower &#8211; background vocals</li>
+<li>Mark Hill &#8211; bass guitar</li>
+<li><a href="/wiki/Dann_Huff" title="Dann Huff">Dann Huff</a> &#8211; electric guitar</li>
+<li>Tim Roberts &#8211; drums, assistant mix engineer</li>
+<li>John Hanes &#8211; piano, additional Pro Tools engineers</li>
+<li>Mike Johnson &#8211; steel guitar</li>
+<li>Charlie Judge &#8211; keyboards, programming</li>
+<li><a href="/wiki/Hillary_Lindsey" title="Hillary Lindsey">Hillary Lindsey</a> &#8211; background vocals</li>
+<li><a href="/wiki/Chris_McHugh" title="Chris McHugh">Chris McHugh</a> &#8211; drums</li>
+<li>Gary Morse &#8211; steel guitar</li>
+<li>Jacob Miller &#8211; additional vocal production</li>
+<li>Carlos Alvarez &#8211; mixing</li>
+<li>Bryan Golder &#8211; recording</li>
+<li>Mikal Blue &#8211; recording</li>
+<li>Stephen Crook &#8211; recording</li>
+<li>Clarita Sanchaz &#8211; assistant mix engineer</li>
+<li>Serban Ghenea &#8211; mixing</li>
+<li><a href="/wiki/Steve_Nathan" title="Steve Nathan">Steve Nathan</a> &#8211; keyboards</li>
+<li><a href="/wiki/Matt_Rollings" title="Matt Rollings">Matt Rollings</a> &#8211; piano</li>
+<li><a href="/wiki/Jimmie_Lee_Sloas" title="Jimmie Lee Sloas">Jimmie Lee Sloas</a> &#8211; bass guitar</li>
+<li><a href="/wiki/Adam_Steffey" title="Adam Steffey">Adam Steffey</a> &#8211; <a href="/wiki/Mandolin" title="Mandolin">mandolin</a></li>
+<li><a href="/wiki/Bryan_Sutton" title="Bryan Sutton">Bryan Sutton</a> &#8211; acoustic guitar</li>
+<li><a href="/wiki/Neil_Thrasher" title="Neil Thrasher">Neil Thrasher</a> &#8211; background vocals</li>
+<li><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a> &#8211; lead vocals, background vocals</li>
+<li><a href="/wiki/Biff_Watson" title="Biff Watson">Biff Watson</a> &#8211; acoustic guitar</li>
+<li><a href="/wiki/Lonnie_Wilson" title="Lonnie Wilson">Lonnie Wilson</a> &#8211; drums</li>
+<li><a href="/wiki/Jonathan_Yudkin" title="Jonathan Yudkin">Jonathan Yudkin</a> &#8211; fiddle, <a href="/wiki/Dobro" title="Dobro">dobro</a>, mandolin, <a href="/wiki/Banjo" title="Banjo">banjo</a>, violin, viola, cello, <a href="/wiki/Arco_bass" class="mw-redirect" title="Arco bass">arco bass</a>, <a href="/wiki/Octofone" class="mw-redirect" title="Octofone">octofone</a></li></ul>
+</div>
+<ul><li>All strings on "Jesus, Take the Wheel" performed and arranged by Jonathan Yudkin.</li>
+<li>String section on "Lessons Learned" and "Starts with Goodbye":
+<ul><li>Arranged and conducted by <a href="/wiki/Paul_Buckmaster" title="Paul Buckmaster">Paul Buckmaster</a></li>
+<li>Violins &#8211;  Cani, Susan Chatman, Joel Derouin, Endre Granat, Julian Hallmark, Mario de Leon, Michael Markman, Sid Page, Alyssa Park, Michele Richards, Teresa Stanisla, Josefina Vergara</li>
+<li>Violas &#8211; Denyse Buffum, Andrew Duckles, Matt Funes, Shanti Randall</li>
+<li>Cellos &#8211; Larry Corbett, Suzie Katayama, Steve Richards, Daniel Smith</li></ul></li></ul>
+<h2><span class="mw-headline" id="Charts">Charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=8" title="Edit section: Charts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Weekly_charts">Weekly charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=9" title="Edit section: Weekly charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable plainrowheaders" style="text-align:center">
+
+<tbody><tr>
+<th>Chart (2005–07)
+</th>
+<th>Peak<br />position
+</th></tr>
+<tr>
+<th scope="row"><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardCanada_Carrie_Underwood_34-0" class="reference"><a href="#cite_note-ac_BillboardCanada_Carrie_Underwood-34">&#91;34&#93;</a></sup>
+</th>
+<td align="center">11
+</td></tr>
+<tr>
+<th scope="row">UK Country Albums (<a href="/wiki/Official_Charts_Company" title="Official Charts Company">OCC</a>)<sup id="cite_ref-ac_UKCountry_Carrie_Underwood_35-0" class="reference"><a href="#cite_note-ac_UKCountry_Carrie_Underwood-35">&#91;35&#93;</a></sup>
+</th>
+<td align="center">1
+</td></tr>
+<tr>
+<th scope="row">US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a><sup id="cite_ref-ac_Billboard200_Carrie_Underwood_36-0" class="reference"><a href="#cite_note-ac_Billboard200_Carrie_Underwood-36">&#91;36&#93;</a></sup>
+</th>
+<td align="center">2
+</td></tr>
+<tr>
+<th scope="row">US <a href="/wiki/Top_Country_Albums" class="mw-redirect" title="Top Country Albums">Top Country Albums</a> (<a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>)<sup id="cite_ref-ac_BillboardCountry_Carrie_Underwood_37-0" class="reference"><a href="#cite_note-ac_BillboardCountry_Carrie_Underwood-37">&#91;37&#93;</a></sup>
+</th>
+<td align="center">1
+</td></tr>
+</tbody></table>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Year-end_charts">Year-end charts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=10" title="Edit section: Year-end charts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2006)
+</th>
+<th>Position
+</th></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>
+</td>
+<td style="text-align:center;">1<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_Country_Albums" class="mw-redirect" title="Top Country Albums">Top Country Albums</a>
+</td>
+<td style="text-align:center;">1<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</td></tr></tbody></table>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2007)
+</th>
+<th>Position
+</th></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>
+</td>
+<td style="text-align:center;">5<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</td></tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_Country_Albums" class="mw-redirect" title="Top Country Albums">Top Country Albums</a>
+</td>
+<td style="text-align:center;">1<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</td></tr></tbody></table>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Chart (2008)
+</th>
+<th>Position
+</th></tr>
+<tr>
+<td>US <a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a>
+</td>
+<td style="text-align:center;">89<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<td>US <i>Billboard</i> <a href="/wiki/Top_Country_Albums" class="mw-redirect" title="Top Country Albums">Top Country Albums</a>
+</td>
+<td style="text-align:center;">19<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</td></tr></tbody></table>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h3><span class="mw-headline" id="Singles_2">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=11" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th rowspan="2">Year
+</th>
+<th rowspan="2">Single
+</th>
+<th colspan="5">Peak chart positions
+</th>
+<th rowspan="2">Certifications
+</th></tr>
+<tr style="font-size:smaller;">
+<th width="42"><a href="/wiki/Hot_Country_Songs" title="Hot Country Songs">US Country</a>
+</th>
+<th width="45"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">US</a>
+</th>
+<th width="45"><a href="/wiki/Pop_100" title="Pop 100">US Pop</a>
+</th>
+<th width="45"><a href="/wiki/Hot_Adult_Contemporary_Tracks" class="mw-redirect" title="Hot Adult Contemporary Tracks">US AC</a>
+</th>
+<th width="45"><a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">CAN</a>
+</th></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td>"<a href="/wiki/Jesus,_Take_the_Wheel" title="Jesus, Take the Wheel">Jesus, Take the Wheel</a>"
+</td>
+<td style="text-align:center;">1
+</td>
+<td style="text-align:center;">20
+</td>
+<td style="text-align:center;">36
+</td>
+<td style="text-align:center;">23
+</td>
+<td style="text-align:center;">—
+</td>
+<td>
+<ul><li>US: 3× Platinum<sup id="cite_ref-RIAA_Search_44-0" class="reference"><a href="#cite_note-RIAA_Search-44">&#91;44&#93;</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>"Some Hearts"
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">12
+</td>
+<td style="text-align:center;">—
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2006
+</td>
+<td>"<a href="/wiki/Don%27t_Forget_to_Remember_Me" title="Don&#39;t Forget to Remember Me">Don't Forget to Remember Me</a>"
+</td>
+<td style="text-align:center;">2
+</td>
+<td style="text-align:center;">49
+</td>
+<td style="text-align:center;">77
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">—
+</td>
+<td>
+<ul><li>US: Gold<sup id="cite_ref-RIAA_Search_44-1" class="reference"><a href="#cite_note-RIAA_Search-44">&#91;44&#93;</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Before_He_Cheats" title="Before He Cheats">Before He Cheats</a>"<sup>A</sup>
+</td>
+<td style="text-align:center;">1
+</td>
+<td style="text-align:center;">8
+</td>
+<td style="text-align:center;">9
+</td>
+<td style="text-align:center;">6
+</td>
+<td style="text-align:center;">4
+</td>
+<td>
+<ul><li>US: 5× Platinum<sup id="cite_ref-RIAA_Search_44-2" class="reference"><a href="#cite_note-RIAA_Search-44">&#91;44&#93;</a></sup></li>
+<li>CAN: Platinum<sup id="cite_ref-Music_Canada_45-0" class="reference"><a href="#cite_note-Music_Canada-45">&#91;45&#93;</a></sup></li></ul>
+</td></tr>
+<tr>
+<td>2007
+</td>
+<td>"<a href="/wiki/Wasted_(Carrie_Underwood_song)" title="Wasted (Carrie Underwood song)">Wasted</a>"
+</td>
+<td style="text-align:center;">1
+</td>
+<td style="text-align:center;">37
+</td>
+<td style="text-align:center;">54
+</td>
+<td style="text-align:center;">—
+</td>
+<td style="text-align:center;">35
+</td>
+<td>
+<ul><li>US: Platinum<sup id="cite_ref-RIAA_Search_44-3" class="reference"><a href="#cite_note-RIAA_Search-44">&#91;44&#93;</a></sup></li></ul>
+</td></tr></tbody></table>
+<ul><li><sup>A</sup> "Before He Cheats" charted for twenty weeks on the U.S. Hot Country Songs chart before being confirmed as a single.</li></ul>
+<h2><span class="mw-headline" id="Certifications">Certifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=12" title="Edit section: Certifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable plainrowheaders">
+<caption>
+</caption>
+<tbody><tr>
+<th scope="col">Region
+</th>
+<th scope="col">Certification</th>
+<th scope="col" data-sort-type="number"><a href="/wiki/List_of_music_recording_certifications" title="List of music recording certifications">Certified units</a>/sales
+</th></tr>
+
+
+<tr>
+<th scope="row">Canada (<a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>)<sup id="cite_ref-CanadaCarrie_UnderwoodSome_HeartsalbumCertRef_46-0" class="reference"><a href="#cite_note-CanadaCarrie_UnderwoodSome_HeartsalbumCertRef-46">&#91;46&#93;</a></sup>
+</th>
+<td>3× Platinum
+</td>
+<td>300,000<sup>^</sup>
+</td></tr>
+
+<tr>
+<th scope="row">United States (<a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">RIAA</a>)<sup id="cite_ref-RIAA_21-1" class="reference"><a href="#cite_note-RIAA-21">&#91;21&#93;</a></sup>
+</th>
+<td>8× Platinum
+</td>
+<td>7,450,000<sup id="cite_ref-USsales_27-1" class="reference"><a href="#cite_note-USsales-27">&#91;27&#93;</a></sup>
+</td></tr>
+
+
+
+<tr class="sortbottom" style="text-align: center;">
+<td colspan="3">
+<p><small><sup>^</sup>shipments figures based on certification alone</small><br /><small><sup><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></sup>sales+streaming figures based on certification alone</small>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Release_history">Release history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=13" title="Edit section: Release history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Region
+</th>
+<th>Date
+</th></tr>
+<tr>
+<td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</td>
+<td>November 14, 2005
+</td></tr>
+<tr>
+<td><a href="/wiki/United_States" title="United States">United States</a>
+</td>
+<td rowspan="4">November 15, 2005
+</td></tr>
+<tr>
+<td><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Canada" title="Canada">Canada</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Australia" title="Australia">Australia</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Ireland" title="Ireland">Ireland</a>
+</td>
+<td rowspan="8">January 11, 2006
+</td></tr>
+<tr>
+<td><a href="/wiki/Germany" title="Germany">Germany</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Norway" title="Norway">Norway</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Denmark" title="Denmark">Denmark</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sweden" title="Sweden">Sweden</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Austria" title="Austria">Austria</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Mexico" title="Mexico">Mexico</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;se=Forget+to+remember+me#search_section">https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;se=Forget+to+remember+me#search_section</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external free" href="http://www.roughstock.com">http://www.roughstock.com</a>, Roughstock -. <a rel="nofollow" class="external text" href="http://roughstock.com/news/2016/08/40792-top-30-digital-singles-sales-report-august-30-2016">"Top 30 Digital Singles Sales Report: August 30, 2016 - RoughStock"</a>. <i>roughstock.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=roughstock.com&amp;rft.atitle=Top+30+Digital+Singles+Sales+Report%3A+August+30%2C+2016+-+RoughStock&amp;rft.aulast=http%3A%2F%2Fwww.roughstock.com&amp;rft.aufirst=Roughstock+-&amp;rft_id=http%3A%2F%2Froughstock.com%2Fnews%2F2016%2F08%2F40792-top-30-digital-singles-sales-report-august-30-2016&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Carrie-Underwood-Some-Hearts/release/1208511">"Some Hearts"</a>. <i><a href="/wiki/Discogs" title="Discogs">Discogs</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discogs&amp;rft.atitle=Some+Hearts&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FCarrie-Underwood-Some-Hearts%2Frelease%2F1208511&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Rondinella, Penny. <a rel="nofollow" class="external text" href="http://countrymusic.about.com/od/cdreviewsmz/gr/blsomehearts.htm">"Carrie Underwood - Some Hearts Review"</a>. <a href="/wiki/About.com" class="mw-redirect" title="About.com">About.com</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+-+Some+Hearts+Review&amp;rft.pub=About.com&amp;rft.aulast=Rondinella&amp;rft.aufirst=Penny&amp;rft_id=http%3A%2F%2Fcountrymusic.about.com%2Fod%2Fcdreviewsmz%2Fgr%2Fblsomehearts.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Erlewine, Stephen Thomas (2005-11-15). <a rel="nofollow" class="external text" href="https://www.allmusic.com/album/some-hearts-mw0000350590">"Some Hearts - Carrie Underwood&#160;: Songs, Reviews, Credits, Awards"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Some+Hearts+-+Carrie+Underwood+%3A+Songs%2C+Reviews%2C+Credits%2C+Awards&amp;rft.date=2005-11-15&amp;rft.aulast=Erlewine&amp;rft.aufirst=Stephen+Thomas&amp;rft_id=https%3A%2F%2Fwww.allmusic.com%2Falbum%2Fsome-hearts-mw0000350590&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Levine, Nick (2008-07-05). <a rel="nofollow" class="external text" href="http://www.digitalspy.com/music/albumreviews/a107449/carrie-underwood-some-hearts--carnival-ride.html">"Carrie Underwood: 'Some Hearts' / 'Carnival Ride<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Carrie+Underwood%3A+%27Some+Hearts%27+%2F+%27Carnival+Ride%27&amp;rft.date=2008-07-05&amp;rft.aulast=Levine&amp;rft.aufirst=Nick&amp;rft_id=http%3A%2F%2Fwww.digitalspy.com%2Fmusic%2Falbumreviews%2Fa107449%2Fcarrie-underwood-some-hearts--carnival-ride.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Willman, Chris (2005-12-02). <a rel="nofollow" class="external text" href="http://www.ew.com/ew/article/0,,1134249,00.html">"Some Hearts Review"</a>. <i><a href="/wiki/Entertainment_Weekly" title="Entertainment Weekly">Entertainment Weekly</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Entertainment+Weekly&amp;rft.atitle=Some+Hearts+Review&amp;rft.date=2005-12-02&amp;rft.aulast=Willman&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fwww.ew.com%2Few%2Farticle%2F0%2C%2C1134249%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Robert_Christgau" title="Robert Christgau">Christgau, Robert</a>. <a rel="nofollow" class="external text" href="http://www.robertchristgau.com/get_artist.php?name=carrie+underwood">"CG: Carrie Underwood"</a>. RobertChristgau.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CG%3A+Carrie+Underwood&amp;rft.pub=RobertChristgau.com&amp;rft.aulast=Christgau&amp;rft.aufirst=Robert&amp;rft_id=http%3A%2F%2Fwww.robertchristgau.com%2Fget_artist.php%3Fname%3Dcarrie%2Bunderwood&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Shetler, Scott (2005-11-18). <a rel="nofollow" class="external text" href="http://www.slantmagazine.com/music/review/carrie-underwood-some-hearts">"Carrie Underwood: Some Hearts"</a>. <i><a href="/wiki/Slant_Magazine" title="Slant Magazine">Slant Magazine</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Slant+Magazine&amp;rft.atitle=Carrie+Underwood%3A+Some+Hearts&amp;rft.date=2005-11-18&amp;rft.aulast=Shetler&amp;rft.aufirst=Scott&amp;rft_id=http%3A%2F%2Fwww.slantmagazine.com%2Fmusic%2Freview%2Fcarrie-underwood-some-hearts&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Inskeep, Thomas (2005-11-18). <a rel="nofollow" class="external text" href="http://www.stylusmagazine.com/reviews/carrie-underwood/some-hearts.htm">"Carrie Underwood - Some Hearts - Review"</a>. <i><a href="/wiki/Stylus_Magazine" title="Stylus Magazine">Stylus Magazine</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Stylus+Magazine&amp;rft.atitle=Carrie+Underwood+-+Some+Hearts+-+Review&amp;rft.date=2005-11-18&amp;rft.aulast=Inskeep&amp;rft.aufirst=Thomas&amp;rft_id=http%3A%2F%2Fwww.stylusmagazine.com%2Freviews%2Fcarrie-underwood%2Fsome-hearts.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Mansfield, Brian (2005-11-21). <a rel="nofollow" class="external text" href="http://usatoday30.usatoday.com/life/music/news/2005-11-21-listen-up_x.htm">"Carrie Underwood, <i>Some Hearts</i>"</a>. <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=Carrie+Underwood%2C+Some+Hearts&amp;rft.date=2005-11-21&amp;rft.aulast=Mansfield&amp;rft.aufirst=Brian&amp;rft_id=http%3A%2F%2Fusatoday30.usatoday.com%2Flife%2Fmusic%2Fnews%2F2005-11-21-listen-up_x.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/60566/madonna-dances-straight-to-no-1">"Madonna Dances Straight To No. 1"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Madonna+Dances+Straight+To+No.+1&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F60566%2Fmadonna-dances-straight-to-no-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.biography.com/people/carrie-underwood-16730308">"Carrie Underwood Biography - Facts, Birthday, Life Story"</a>. Biography.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood+Biography+-+Facts%2C+Birthday%2C+Life+Story&amp;rft.pub=Biography.com&amp;rft_id=http%3A%2F%2Fwww.biography.com%2Fpeople%2Fcarrie-underwood-16730308&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20151222123556/http://www.canada.com/topics/entertainment/story.html?id=6e280b60-741e-4cf3-85bb-82926b1cb44a&amp;p=1">"Akon is the top pop artist of 2007"</a>. Canada.com. 2007-12-07. Archived from <a rel="nofollow" class="external text" href="http://www.canada.com/topics/entertainment/story.html?id=6e280b60-741e-4cf3-85bb-82926b1cb44a&amp;p=1">the original</a> on 2015-12-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Akon+is+the+top+pop+artist+of+2007&amp;rft.pub=Canada.com&amp;rft.date=2007-12-07&amp;rft_id=http%3A%2F%2Fwww.canada.com%2Ftopics%2Fentertainment%2Fstory.html%3Fid%3D6e280b60-741e-4cf3-85bb-82926b1cb44a%26p%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.opry.com/artists/u/Underwood_Carrie.html">"Opry meamber: Carrie Underwood"</a>. <a href="/wiki/Grand_Ole_Opry" title="Grand Ole Opry">Grand Ole Opry</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Opry+meamber%3A+Carrie+Underwood&amp;rft.pub=Grand+Ole+Opry&amp;rft_id=http%3A%2F%2Fwww.opry.com%2Fartists%2Fu%2FUnderwood_Carrie.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/artists/carrie-underwood/biography">"Carrie Underwood &#124; Bio, Pictures, Videos"</a>. <i>Rolling Stone</i>. 2013-04-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Carrie+Underwood+%26%23124%3B+Bio%2C+Pictures%2C+Videos&amp;rft.date=2013-04-18&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fartists%2Fcarrie-underwood%2Fbiography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Bronson, Fred (June 30, 2008). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/news/1044936/chart-beat-chat-coldplay-katy-perry-juice-newton">"Chart Beat Chat: Coldplay, Katy Perry, Juice Newton"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Chart+Beat+Chat%3A+Coldplay%2C+Katy+Perry%2C+Juice+Newton&amp;rft.date=2008-06-30&amp;rft.aulast=Bronson&amp;rft.aufirst=Fred&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fnews%2F1044936%2Fchart-beat-chat-coldplay-katy-perry-juice-newton&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Trust, Gary (October 29, 2009). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/266889/chart-beat-thursday-taylor-swift-tim-mcgraw-linked-again">"Chart Beat Thursday: Taylor Swift, Tim McGraw Linked Again"</a>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Chart+Beat+Thursday%3A+Taylor+Swift%2C+Tim+McGraw+Linked+Again&amp;rft.date=2009-10-29&amp;rft.aulast=Trust&amp;rft.aufirst=Gary&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F266889%2Fchart-beat-thursday-taylor-swift-tim-mcgraw-linked-again&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://music.yahoo.com/blogs/chart-watch/week-ending-oct-23-2011-albums-casting-crowns-not-crowned.html">http://music.yahoo.com/blogs/chart-watch/week-ending-oct-23-2011-albums-casting-crowns-not-crowned.html</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://content.usatoday.com/communities/idolchatter/post/2010/01/how-american-idol-albums-ranked-in-2009-year-end-sales/1?csp=obnetwork">"How American Idol albums ranked in 2009 year-end sales"</a>. <i>USA Today</i>. January 11, 2010.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=USA+Today&amp;rft.atitle=How+American+Idol+albums+ranked+in+2009+year-end+sales&amp;rft.date=2010-01-11&amp;rft_id=http%3A%2F%2Fcontent.usatoday.com%2Fcommunities%2Fidolchatter%2Fpost%2F2010%2F01%2Fhow-american-idol-albums-ranked-in-2009-year-end-sales%2F1%3Fcsp%3Dobnetwork&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAA-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.riaa.com/gold-platinum/?tab_active=default-award&amp;ar=Carrie+Underwood&amp;ti=Some+Hearts#search_section">"American album  certifications – Carrie Underwood – Some Hearts"</a>. <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+album++certifications+%E2%80%93+Carrie+Underwood+%E2%80%93+Some+Hearts&amp;rft.pub=Recording+Industry+Association+of+America&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fgold-platinum%2F%3Ftab_active%3Ddefault-award%26ar%3DCarrie%2BUnderwood%26ti%3DSome%2BHearts%23search_section&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <i>If necessary, click </i>Advanced<i>, then click </i>Format<i>, then select </i>Album<i>,  then click </i>SEARCH<i>.<span class="nowrap">&#160;</span></i></span>
+</li>
+<li id="cite_note-cmt20070110-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-cmt20070110_22-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.cmt.com/news/articles/1549687/01102007/underwood__carrie.jhtml">"Carrie Underwood's Album Is Quintuple Platinum"</a>. <a href="/wiki/Country_Music_Television" class="mw-redirect" title="Country Music Television">CMT</a>. January 10, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Carrie+Underwood%27s+Album+Is+Quintuple+Platinum&amp;rft.date=2007-01-10&amp;rft_id=http%3A%2F%2Fwww.cmt.com%2Fnews%2Farticles%2F1549687%2F01102007%2Funderwood&#95;_carrie.jhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-cst-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-cst_23-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.countrystandardtime.com/news/newsitem.asp?xid=103&amp;t=Chart_success_continues_for_Carrie_Underwood">"Chart success continues for Carrie Underwood"</a>. Country Standard Time News. February 15, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">August 6,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Chart+success+continues+for+Carrie+Underwood&amp;rft.date=2006-02-15&amp;rft_id=http%3A%2F%2Fwww.countrystandardtime.com%2Fnews%2Fnewsitem.asp%3Fxid%3D103%26t%3DChart_success_continues_for_Carrie_Underwood&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20120525224840/http://www.gactv.com/gac/nw_headlines/article/0,3034,GAC_26063_5802667_,00.html">"News&#160;: Headlines&#160;: Carrie Underwood Sets Sales Record&#160;: Great American Country"</a>. Gactv.com. February 8, 2008. Archived from <a rel="nofollow" class="external text" href="http://www.gactv.com/gac/nw_headlines/article/0,3034,GAC_26063_5802667_,00.html">the original</a> on May 25, 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">March 22,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=News+%3A+Headlines+%3A+Carrie+Underwood+Sets+Sales+Record+%3A+Great+American+Country&amp;rft.pub=Gactv.com&amp;rft.date=2008-02-08&amp;rft_id=http%3A%2F%2Fwww.gactv.com%2Fgac%2Fnw_headlines%2Farticle%2F0%2C3034%2CGAC_26063_5802667_%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web">Grein, Paul (2012-03-16). <a rel="nofollow" class="external text" href="http://music.yahoo.com/blogs/chart-watch/chart-watch-extra-top-albums-last-10-years-181452729.html">"Chart Watch Extra: Top Albums Of Last 10 Years &#124; Chart Watch (NEW) - Yahoo! Music"</a>. Music.yahoo.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Chart+Watch+Extra%3A+Top+Albums+Of+Last+10+Years+%26%23124%3B+Chart+Watch+%28NEW%29+-+Yahoo%21+Music&amp;rft.pub=Music.yahoo.com&amp;rft.date=2012-03-16&amp;rft.aulast=Grein&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fmusic.yahoo.com%2Fblogs%2Fchart-watch%2Fchart-watch-extra-top-albums-last-10-years-181452729.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120225002500/http://www.carrieunderwoodofficial.com/us/news/carrie-underwood-s-some-hearts-hits-7-million-becoming-the-best-selling-solo-female-country-deb">"Carrie Underwood's Some Hearts Hits 7 Million, Becoming the Best-Selling Solo Female Country Debut in RIAA History! &#124; The Official Carrie Underwood Site"</a>. Carrieunderwoodofficial.com. 2005-11-15. Archived from <a rel="nofollow" class="external text" href="http://www.carrieunderwoodofficial.com/us/news/carrie-underwood-s-some-hearts-hits-7-million-becoming-the-best-selling-solo-female-country-deb">the original</a> on 2012-02-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood%E2%80%99s+Some+Hearts+Hits+7+Million%2C+Becoming+the+Best-Selling+Solo+Female+Country+Debut+in+RIAA+History%21+%26%23124%3B+The+Official+Carrie+Underwood+Site&amp;rft.pub=Carrieunderwoodofficial.com&amp;rft.date=2005-11-15&amp;rft_id=http%3A%2F%2Fwww.carrieunderwoodofficial.com%2Fus%2Fnews%2Fcarrie-underwood-s-some-hearts-hits-7-million-becoming-the-best-selling-solo-female-country-deb&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-USsales-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-USsales_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-USsales_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation magazine">Caulfield, Keith (December 10, 2015). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/chart-beat/6805295/adele-25-5-million-sold">"Adele's '25' Hits 5 Million Sold in U.S."</a> <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 11,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Adele%27s+%2725%27+Hits+5+Million+Sold+in+U.S.&amp;rft.date=2015-12-10&amp;rft.aulast=Caulfield&amp;rft.aufirst=Keith&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F6805295%2Fadele-25-5-million-sold&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161025111211/http://www.carrieunderwood.fm/news/all/carrie-underwood-becomes-the-highest-certified-country-album-artist-to-debut-this-century/">"Carrie Underwood Becomes the Highest Certified Country Album Artist to Debut This Century! · The Official Carrie Underwood Fan Club"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.carrieunderwood.fm/news/all/carrie-underwood-becomes-the-highest-certified-country-album-artist-to-debut-this-century/">the original</a> on 2016-10-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Carrie+Underwood+Becomes+the+Highest+Certified+Country+Album+Artist+to+Debut+This+Century%21+%C2%B7+The+Official+Carrie+Underwood+Fan+Club&amp;rft_id=http%3A%2F%2Fwww.carrieunderwood.fm%2Fnews%2Fall%2Fcarrie-underwood-becomes-the-highest-certified-country-album-artist-to-debut-this-century%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="https://www.forbes.com/2007/12/01/celebrity-hollywood-media-cz_lg_1204kidstars_slide_12.html">"20 Under 25: The Top-Earning Young Superstars - No. 11: Carrie Underwood"</a>. <i><a href="/wiki/Forbes" title="Forbes">Forbes</a></i>. December 4, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Forbes&amp;rft.atitle=20+Under+25%3A+The+Top-Earning+Young+Superstars+-+No.+11%3A+Carrie+Underwood&amp;rft.date=2007-12-04&amp;rft_id=https%3A%2F%2Fwww.forbes.com%2F2007%2F12%2F01%2Fcelebrity-hollywood-media-cz_lg_1204kidstars_slide_12.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Hanley, James (7 March 2016). <a rel="nofollow" class="external text" href="http://www.musicweek.com/news/read/carrie-underwood-it-s-really-cool-to-see-country-music-growing-in-the-uk/064265">"Carrie Underwood: 'It's really cool to see country music growing in the UK<span class="cs1-kern-right">'</span>"</a>. <i><a href="/wiki/Music_Week" title="Music Week">Music Week</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Music+Week&amp;rft.atitle=Carrie+Underwood%3A+%27It%27s+really+cool+to+see+country+music+growing+in+the+UK%27&amp;rft.date=2016-03-07&amp;rft.aulast=Hanley&amp;rft.aufirst=James&amp;rft_id=http%3A%2F%2Fwww.musicweek.com%2Fnews%2Fread%2Fcarrie-underwood-it-s-really-cool-to-see-country-music-growing-in-the-uk%2F064265&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-DecadeEnd-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-DecadeEnd_31-0">^</a></b></span> <span class="reference-text"><cite class="citation magazine"><a rel="nofollow" class="external text" href="http://www.billboard.biz/bbbiz/charts/decadeendcharts/chart_display.jsp?&amp;f=Billboard+200+Albums&amp;g=Decade-end+Albums">"Billboard Decade-End Charts"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-12-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard+Decade-End+Charts&amp;rft_id=http%3A%2F%2Fwww.billboard.biz%2Fbbbiz%2Fcharts%2Fdecadeendcharts%2Fchart_display.jsp%3F%26f%3DBillboard%2B200%2BAlbums%26g%3DDecade-end%2BAlbums&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://newsok.com/carrie-underwoods-some-hearts-named-billboards-top-country-album-of-the-decade/article/3824231">"Carrie Underwood's "Some Hearts" named Billboard's top country album of the decade"</a>. <a href="/wiki/NewsOK" class="mw-redirect" title="NewsOK">NewsOK</a>. 2009-12-22.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Carrie+Underwood%27s+%22Some+Hearts%22+named+Billboard%27s+top+country+album+of+the+decade&amp;rft.pub=NewsOK&amp;rft.date=2009-12-22&amp;rft_id=http%3A%2F%2Fnewsok.com%2Fcarrie-underwoods-some-hearts-named-billboards-top-country-album-of-the-decade%2Farticle%2F3824231&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation AV-media-notes"><i>Some Hearts</i> (CD). Carrie Underwood. Arista Records/19 Recordings. 2005. 71197.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Some+Hearts&amp;rft.pub=Arista+Records%2F19+Recordings&amp;rft.date=2005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: others (<a href="/wiki/Category:CS1_maint:_others" title="Category:CS1 maint: others">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-ac_BillboardCanada_Carrie_Underwood-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardCanada_Carrie_Underwood_34-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/canadian-albums">"Carrie Underwood Chart History (Canadian Albums)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-ac_UKCountry_Carrie_Underwood-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_UKCountry_Carrie_Underwood_35-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.officialcharts.com/charts/country-artists-albums-chart/2007-06-03/21/">"Official Country Artists Albums Chart Top 20"</a>. <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a>.  </span>
+</li>
+<li id="cite_note-ac_Billboard200_Carrie_Underwood-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_Billboard200_Carrie_Underwood_36-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/billboard-200">"Carrie Underwood Chart History (<i>Billboard</i> 200)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-ac_BillboardCountry_Carrie_Underwood-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-ac_BillboardCountry_Carrie_Underwood_37-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.billboard.com/music/Carrie-Underwood/chart-history/country-albums">"Carrie Underwood Chart History (Top Country Albums)"</a>. <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a>.  </span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2016/the-billboard-200">"Best of 2006 - Billboard Top 200"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2006+-+Billboard+Top+200&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2016%2Fthe-billboard-200&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2006/top-country-albums">"Best of 2006 - Top Country Albums"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2006+-+Top+Country+Albums&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2006%2Ftop-country-albums&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2007/the-billboard-200?begin=161&amp;order=position">"Best of 2010 - Billboard Top 200"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-12-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2010+-+Billboard+Top+200&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2007%2Fthe-billboard-200%3Fbegin%3D161%26order%3Dposition&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2007/top-country-albums?begin=31&amp;order=position">"Best of 2007 - Top Country Albums"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2007+-+Top+Country+Albums&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2007%2Ftop-country-albums%3Fbegin%3D31%26order%3Dposition&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2008/the-billboard-200?begin=161&amp;order=position">"Best of 2008 - Billboard Top 200"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2008+-+Billboard+Top+200&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2008%2Fthe-billboard-200%3Fbegin%3D161%26order%3Dposition&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/year-end/2007/top-country-albums?begin=31&amp;order=position">"Best of 2008 - Top Country Albums"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. <a href="/wiki/Nielsen_Business_Media,_Inc" class="mw-redirect" title="Nielsen Business Media, Inc">Nielsen Business Media, Inc</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Best+of+2008+-+Top+Country+Albums&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fcharts%2Fyear-end%2F2007%2Ftop-country-albums%3Fbegin%3D31%26order%3Dposition&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAA_Search-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAA_Search_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAA_Search_44-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-RIAA_Search_44-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-RIAA_Search_44-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/6Ay8k1oK0?url=http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Underwood%2C%20Carrie&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;">"RIAA Search - Carrie Underwood"</a>. Riaa.com. Archived from <a rel="nofollow" class="external text" href="http://riaa.com/goldandplatinumdata.php?resultpage=1&amp;table=SEARCH_RESULTS&amp;action=&amp;title=&amp;artist=Underwood,%20Carrie&amp;format=&amp;debutLP=&amp;category=&amp;sex=&amp;releaseDate=&amp;requestNo=&amp;type=&amp;level=&amp;label=&amp;company=&amp;certificationDate=&amp;awardDescription=&amp;catalogNo=&amp;aSex=&amp;rec_id=&amp;charField=&amp;gold=&amp;platinum=&amp;multiPlat=&amp;level2=&amp;certDate=&amp;album=&amp;id=&amp;after=&amp;before=&amp;startMonth=1&amp;endMonth=1&amp;startYear=1958&amp;endYear=2008&amp;sort=Artist&amp;perPage=25%22">the original</a> on 2012-09-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=RIAA+Search+-+Carrie+Underwood&amp;rft.pub=Riaa.com&amp;rft_id=http%3A%2F%2Friaa.com%2Fgoldandplatinumdata.php%3Fresultpage%3D1%26table%3DSEARCH_RESULTS%26action%3D%26title%3D%26artist%3DUnderwood%2C%2520Carrie%26format%3D%26debutLP%3D%26category%3D%26sex%3D%26releaseDate%3D%26requestNo%3D%26type%3D%26level%3D%26label%3D%26company%3D%26certificationDate%3D%26awardDescription%3D%26catalogNo%3D%26aSex%3D%26rec_id%3D%26charField%3D%26gold%3D%26platinum%3D%26multiPlat%3D%26level2%3D%26certDate%3D%26album%3D%26id%3D%26after%3D%26before%3D%26startMonth%3D1%26endMonth%3D1%26startYear%3D1958%26endYear%3D2008%26sort%3DArtist%26perPage%3D25%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Music_Canada-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-Music_Canada_45-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120225041920/http://www.musiccanada.com/GPSearchResult.aspx?st=">"Gold and Platinum"</a>. Musiccanada.com. Archived from <a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=&amp;ica=False&amp;sa=carrie%20underwood&amp;sl=&amp;smt=0&amp;sat=-1&amp;ssb=Artist">the original</a> on 2012-02-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-06-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gold+and+Platinum&amp;rft.pub=Musiccanada.com&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3D%26ica%3DFalse%26sa%3Dcarrie%2520underwood%26sl%3D%26smt%3D0%26sat%3D-1%26ssb%3DArtist&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-CanadaCarrie_UnderwoodSome_HeartsalbumCertRef-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-CanadaCarrie_UnderwoodSome_HeartsalbumCertRef_46-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://musiccanada.com/gold-platinum/?_gp_search=Some+Hearts%20Carrie+Underwood">"Canadian album  certifications – Carrie Underwood – Some Hearts"</a>. <a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Canadian+album++certifications+%E2%80%93+Carrie+Underwood+%E2%80%93+Some+Hearts&amp;rft.pub=Music+Canada&amp;rft_id=https%3A%2F%2Fmusiccanada.com%2Fgold-platinum%2F%3F_gp_search%3DSome%2BHearts%2520Carrie%2BUnderwood&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASome+Hearts" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Some_Hearts&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://billboard.com/bbcom/retrieve_chart_history.do?model.chartFormatGroupName=Albums&amp;model.vnuArtistId=657654&amp;model.vnuAlbumId=746447"><i>Billboard</i> albums chart info</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Carrie_Underwood" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #f0e68c;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Carrie_Underwood" title="Template:Carrie Underwood"><abbr title="View this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Carrie_Underwood" title="Template talk:Carrie Underwood"><abbr title="Discuss this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Carrie_Underwood&amp;action=edit"><abbr title="Edit this template" style=";background: #f0e68c;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Carrie_Underwood" class="fn" style="font-size:114%;margin:0 4em"><a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*Discography&amp;#10;*Awards_and_nominations&amp;#10;*Songs">
+<ul><li><a href="/wiki/Carrie_Underwood_discography" title="Carrie Underwood discography">Discography</a></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Carrie_Underwood" title="List of awards and nominations received by Carrie Underwood">Awards and nominations</a></li>
+<li><a href="/wiki/List_of_songs_recorded_by_Carrie_Underwood" title="List of songs recorded by Carrie Underwood">Songs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a class="mw-selflink selflink">Some Hearts</a></i></li>
+<li><i><a href="/wiki/Carnival_Ride" title="Carnival Ride">Carnival Ride</a></i></li>
+<li><i><a href="/wiki/Play_On_(Carrie_Underwood_album)" title="Play On (Carrie Underwood album)">Play On</a></i></li>
+<li><i><a href="/wiki/Blown_Away_(album)" title="Blown Away (album)">Blown Away</a></i></li>
+<li><i><a href="/wiki/Storyteller_(Carrie_Underwood_album)" title="Storyteller (Carrie Underwood album)">Storyteller</a></i></li>
+<li><i><a href="/wiki/Cry_Pretty" title="Cry Pretty">Cry Pretty</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Greatest_Hits:_Decade_Number_1" title="Greatest Hits: Decade Number 1">Greatest Hits: Decade #1</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Video albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Blown_Away_Tour:_Live" title="The Blown Away Tour: Live">The Blown Away Tour: Live</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Concert tours</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrie_Underwood:_Live_in_Concert" title="Carrie Underwood: Live in Concert">Carrie Underwood: Live in Concert</a></li>
+<li><a href="/wiki/Play_On_Tour" title="Play On Tour">Play On Tour</a></li>
+<li><a href="/wiki/Blown_Away_Tour" title="Blown Away Tour">Blown Away Tour</a></li>
+<li><a href="/wiki/Storyteller_Tour:_Stories_in_the_Round" title="Storyteller Tour: Stories in the Round">Storyteller Tour: Stories in the Round</a></li>
+<li><a href="/wiki/Ripcord_World_Tour" title="Ripcord World Tour">Ripcord World Tour</a></li>
+<li><a href="/wiki/Cry_Pretty_Tour_360" title="Cry Pretty Tour 360">Cry Pretty Tour 360</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Carrie_Underwood" title="Book:Carrie Underwood">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Carrie_Underwood" title="Category:Carrie Underwood">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Billboard_Year-End_number_one_albums" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Billboard_Year-End_number_one_albums" title="Template:Billboard Year-End number one albums"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Billboard_Year-End_number_one_albums" title="Template talk:Billboard Year-End number one albums"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Billboard_Year-End_number_one_albums&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Billboard_Year-End_number_one_albums" style="font-size:114%;margin:0 4em"><a href="/wiki/Billboard_Year-End" title="Billboard Year-End"><i>Billboard</i> Year-End</a> <a href="/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums" title="List of Billboard Year-End number-one singles and albums">number one albums</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1956–1975</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap">1956: <i><a href="/wiki/Calypso_(album)" title="Calypso (album)">Calypso</a></i> – <a href="/wiki/Harry_Belafonte" title="Harry Belafonte">Harry Belafonte</a></span></li>
+<li><span class="nowrap">1957: <i><a href="/wiki/My_Fair_Lady_(Broadway_cast_recording)" title="My Fair Lady (Broadway cast recording)">Music</a></i> from <i><a href="/wiki/My_Fair_Lady" title="My Fair Lady">My Fair Lady</a></i> – Original Cast</span></li>
+<li><span class="nowrap">1958: <i><a href="/wiki/My_Fair_Lady_(Broadway_cast_recording)" title="My Fair Lady (Broadway cast recording)">Music</a></i> from <i><a href="/wiki/My_Fair_Lady" title="My Fair Lady">My Fair Lady</a></i> – Original Cast</span></li>
+<li><span class="nowrap">1959: <i><a href="/wiki/The_Music_from_Peter_Gunn" title="The Music from Peter Gunn">The Music from Peter Gunn</a></i> – <a href="/wiki/Henry_Mancini" title="Henry Mancini">Henry Mancini</a></span></li>
+<li><span class="nowrap">1960: <i>Music</i> from <i><a href="/wiki/The_Sound_of_Music" title="The Sound of Music">The Sound of Music</a></i> – Original Cast</span></li>
+<li><span class="nowrap">1961: <i><a href="/wiki/Camelot_songs" class="mw-redirect" title="Camelot songs">Camelot</a></i> – Original Cast</span></li>
+<li><span class="nowrap">1962: <i><a href="/wiki/West_Side_Story_(soundtrack)" title="West Side Story (soundtrack)">West Side Story</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1963: <i><a href="/wiki/West_Side_Story_(soundtrack)" title="West Side Story (soundtrack)">West Side Story</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1964: <i>Music</i> from <i><a href="/wiki/Hello,_Dolly!_(musical)" title="Hello, Dolly! (musical)">Hello, Dolly!</a></i> – Original Cast</span></li>
+<li><span class="nowrap">1965: <i><a href="/wiki/Mary_Poppins_(film)#Music" title="Mary Poppins (film)">Music</a></i> from <i><a href="/wiki/Mary_Poppins_(film)" title="Mary Poppins (film)">Mary Poppins</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1966: <i><a href="/wiki/Whipped_Cream_%26_Other_Delights" title="Whipped Cream &amp; Other Delights">Whipped Cream &amp; Other Delights</a></i> – <a href="/wiki/Herb_Alpert" title="Herb Alpert">Herb Alpert &amp; the Tijuana Brass</a></span></li>
+<li><span class="nowrap">1967: <i><a href="/wiki/More_of_the_Monkees" title="More of the Monkees">More of the Monkees</a></i> – <a href="/wiki/The_Monkees" title="The Monkees">The Monkees</a></span></li>
+<li><span class="nowrap">1968: <i><a href="/wiki/Are_You_Experienced" title="Are You Experienced">Are You Experienced</a></i> – <a href="/wiki/The_Jimi_Hendrix_Experience" title="The Jimi Hendrix Experience">The Jimi Hendrix Experience</a></span></li>
+<li><span class="nowrap">1969: <i><a href="/wiki/In-A-Gadda-Da-Vida_(album)" title="In-A-Gadda-Da-Vida (album)">In-A-Gadda-Da-Vida</a></i> – <a href="/wiki/Iron_Butterfly" title="Iron Butterfly">Iron Butterfly</a></span></li>
+<li><span class="nowrap">1970: <i><a href="/wiki/Bridge_over_Troubled_Water" title="Bridge over Troubled Water">Bridge over Troubled Water</a></i> – <a href="/wiki/Simon_%26_Garfunkel" title="Simon &amp; Garfunkel">Simon &amp; Garfunkel</a></span></li>
+<li><span class="nowrap">1971: <i><a href="/wiki/Jesus_Christ_Superstar_(album)" title="Jesus Christ Superstar (album)">Jesus Christ Superstar</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1972: <i><a href="/wiki/Harvest_(Neil_Young_album)" title="Harvest (Neil Young album)">Harvest</a></i> – <a href="/wiki/Neil_Young" title="Neil Young">Neil Young</a></span></li>
+<li><span class="nowrap">1973: <i><a href="/wiki/The_World_Is_a_Ghetto" title="The World Is a Ghetto">The World Is a Ghetto</a></i> – <a href="/wiki/War_(American_band)" title="War (American band)">War</a></span></li>
+<li><span class="nowrap">1974: <i><a href="/wiki/Goodbye_Yellow_Brick_Road" title="Goodbye Yellow Brick Road">Goodbye Yellow Brick Road</a></i> – <a href="/wiki/Elton_John" title="Elton John">Elton John</a></span></li>
+<li><span class="nowrap">1975: <i><a href="/wiki/Greatest_Hits_(Elton_John_album)" title="Greatest Hits (Elton John album)">Greatest Hits</a></i> – <a href="/wiki/Elton_John" title="Elton John">Elton John</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1976–2000</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap">1976: <i><a href="/wiki/Frampton_Comes_Alive!" title="Frampton Comes Alive!">Frampton Comes Alive!</a></i> – <a href="/wiki/Peter_Frampton" title="Peter Frampton">Peter Frampton</a></span></li>
+<li><span class="nowrap">1977: <i><a href="/wiki/Rumours_(album)" title="Rumours (album)">Rumours</a></i> – <a href="/wiki/Fleetwood_Mac" title="Fleetwood Mac">Fleetwood Mac</a></span></li>
+<li><span class="nowrap">1978: <i><a href="/wiki/Saturday_Night_Fever_(soundtrack)" title="Saturday Night Fever (soundtrack)">Saturday Night Fever</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1979: <i><a href="/wiki/52nd_Street_(album)" title="52nd Street (album)">52nd Street</a></i> – <a href="/wiki/Billy_Joel" title="Billy Joel">Billy Joel</a></span></li>
+<li><span class="nowrap">1980: <i><a href="/wiki/The_Wall" title="The Wall">The Wall</a></i> – <a href="/wiki/Pink_Floyd" title="Pink Floyd">Pink Floyd</a></span></li>
+<li><span class="nowrap">1981: <i><a href="/wiki/Hi_Infidelity" title="Hi Infidelity">Hi Infidelity</a></i> – <a href="/wiki/REO_Speedwagon" title="REO Speedwagon">REO Speedwagon</a></span></li>
+<li><span class="nowrap">1982: <i><a href="/wiki/Asia_(Asia_album)" title="Asia (Asia album)">Asia</a></i> – <a href="/wiki/Asia_(band)" title="Asia (band)">Asia</a></span></li>
+<li><span class="nowrap">1983: <i><a href="/wiki/Thriller_(Michael_Jackson_album)" title="Thriller (Michael Jackson album)">Thriller</a></i> – <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></span></li>
+<li><span class="nowrap">1984: <i><a href="/wiki/Thriller_(Michael_Jackson_album)" title="Thriller (Michael Jackson album)">Thriller</a></i> – <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a></span></li>
+<li><span class="nowrap">1985: <i><a href="/wiki/Born_in_the_U.S.A." title="Born in the U.S.A.">Born in the U.S.A.</a></i> – <a href="/wiki/Bruce_Springsteen" title="Bruce Springsteen">Bruce Springsteen</a></span></li>
+<li><span class="nowrap">1986: <i><a href="/wiki/Whitney_Houston_(album)" title="Whitney Houston (album)">Whitney Houston</a></i> – <a href="/wiki/Whitney_Houston" title="Whitney Houston">Whitney Houston</a></span></li>
+<li><span class="nowrap">1987: <i><a href="/wiki/Slippery_When_Wet" title="Slippery When Wet">Slippery When Wet</a></i> – <a href="/wiki/Bon_Jovi" title="Bon Jovi">Bon Jovi</a></span></li>
+<li><span class="nowrap">1988: <i><a href="/wiki/Faith_(George_Michael_album)" title="Faith (George Michael album)">Faith</a></i> – <a href="/wiki/George_Michael" title="George Michael">George Michael</a></span></li>
+<li><span class="nowrap">1989: <i><a href="/wiki/Don%27t_Be_Cruel_(album)" title="Don&#39;t Be Cruel (album)">Don't Be Cruel</a></i> – <a href="/wiki/Bobby_Brown" title="Bobby Brown">Bobby Brown</a></span></li>
+<li><span class="nowrap">1990: <i><a href="/wiki/Janet_Jackson%27s_Rhythm_Nation_1814" title="Janet Jackson&#39;s Rhythm Nation 1814">Janet Jackson's Rhythm Nation 1814</a></i> – <a href="/wiki/Janet_Jackson" title="Janet Jackson">Janet Jackson</a></span></li>
+<li><span class="nowrap">1991: <i><a href="/wiki/Mariah_Carey_(album)" title="Mariah Carey (album)">Mariah Carey</a></i> – <a href="/wiki/Mariah_Carey" title="Mariah Carey">Mariah Carey</a></span></li>
+<li><span class="nowrap">1992: <i><a href="/wiki/Ropin%27_the_Wind" title="Ropin&#39; the Wind">Ropin' the Wind</a></i> – <a href="/wiki/Garth_Brooks" title="Garth Brooks">Garth Brooks</a></span></li>
+<li><span class="nowrap">1993: <i><a href="/wiki/The_Bodyguard_(soundtrack)" title="The Bodyguard (soundtrack)">The Bodyguard</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">1994: <i><a href="/wiki/The_Sign_(album)" title="The Sign (album)">The Sign</a></i> – <a href="/wiki/Ace_of_Base" title="Ace of Base">Ace of Base</a></span></li>
+<li><span class="nowrap">1995: <i><a href="/wiki/Cracked_Rear_View" title="Cracked Rear View">Cracked Rear View</a></i> – <a href="/wiki/Hootie_%26_the_Blowfish" title="Hootie &amp; the Blowfish">Hootie &amp; the Blowfish</a></span></li>
+<li><span class="nowrap">1996: <i><a href="/wiki/Jagged_Little_Pill" title="Jagged Little Pill">Jagged Little Pill</a></i> – <a href="/wiki/Alanis_Morissette" title="Alanis Morissette">Alanis Morissette</a></span></li>
+<li><span class="nowrap">1997: <i><a href="/wiki/Spice_(album)" title="Spice (album)">Spice</a></i> – <a href="/wiki/Spice_Girls" title="Spice Girls">Spice Girls</a></span></li>
+<li><span class="nowrap">1998: <i><a href="/wiki/Titanic:_Music_from_the_Motion_Picture" title="Titanic: Music from the Motion Picture">Titanic: Music from the Motion Picture</a></i> – <a href="/wiki/James_Horner" title="James Horner">James Horner</a></span></li>
+<li><span class="nowrap">1999: <i><a href="/wiki/Millennium_(Backstreet_Boys_album)" title="Millennium (Backstreet Boys album)">Millennium</a></i> – <a href="/wiki/Backstreet_Boys" title="Backstreet Boys">Backstreet Boys</a></span></li>
+<li><span class="nowrap">2000: <i><a href="/wiki/No_Strings_Attached_(NSYNC_album)" title="No Strings Attached (NSYNC album)">No Strings Attached</a></i> – <a href="/wiki/NSYNC" title="NSYNC">NSYNC</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2001–present</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap">2001: <i><a href="/wiki/1_(The_Beatles_album)" class="mw-redirect" title="1 (The Beatles album)">1</a></i> – <a href="/wiki/The_Beatles" title="The Beatles">The Beatles</a></span></li>
+<li><span class="nowrap">2002: <i><a href="/wiki/The_Eminem_Show" title="The Eminem Show">The Eminem Show</a></i> – <a href="/wiki/Eminem" title="Eminem">Eminem</a></span></li>
+<li><span class="nowrap">2003: <i><a href="/wiki/Get_Rich_or_Die_Tryin%27" title="Get Rich or Die Tryin&#39;">Get Rich or Die Tryin'</a></i> – <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></span></li>
+<li><span class="nowrap">2004: <i><a href="/wiki/Confessions_(Usher_album)" title="Confessions (Usher album)">Confessions</a></i> – <a href="/wiki/Usher_(singer)" class="mw-redirect" title="Usher (singer)">Usher</a></span></li>
+<li><span class="nowrap">2005: <i><a href="/wiki/The_Massacre" title="The Massacre">The Massacre</a></i> – <a href="/wiki/50_Cent" title="50 Cent">50 Cent</a></span></li>
+<li><span class="nowrap">2006: <i><a class="mw-selflink selflink">Some Hearts</a></i> – <a href="/wiki/Carrie_Underwood" title="Carrie Underwood">Carrie Underwood</a></span></li>
+<li><span class="nowrap">2007: <i><a href="/wiki/Daughtry_(album)" title="Daughtry (album)">Daughtry</a></i> – <a href="/wiki/Daughtry_(band)" title="Daughtry (band)">Daughtry</a></span></li>
+<li><span class="nowrap">2008: <i><a href="/wiki/As_I_Am" title="As I Am">As I Am</a></i> – <a href="/wiki/Alicia_Keys" title="Alicia Keys">Alicia Keys</a></span></li>
+<li><span class="nowrap">2009: <i><a href="/wiki/Fearless_(Taylor_Swift_album)" title="Fearless (Taylor Swift album)">Fearless</a></i> – <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a></span></li>
+<li><span class="nowrap">2010: <i><a href="/wiki/I_Dreamed_a_Dream_(album)" title="I Dreamed a Dream (album)">I Dreamed a Dream</a></i> – <a href="/wiki/Susan_Boyle" title="Susan Boyle">Susan Boyle</a></span></li>
+<li><span class="nowrap">2011: <i><a href="/wiki/21_(Adele_album)" title="21 (Adele album)">21</a></i> – <a href="/wiki/Adele" title="Adele">Adele</a></span></li>
+<li><span class="nowrap">2012: <i><a href="/wiki/21_(Adele_album)" title="21 (Adele album)">21</a></i> – <a href="/wiki/Adele" title="Adele">Adele</a></span></li>
+<li><span class="nowrap">2013: <i><a href="/wiki/The_20/20_Experience" title="The 20/20 Experience">The 20/20 Experience</a></i> – <a href="/wiki/Justin_Timberlake" title="Justin Timberlake">Justin Timberlake</a></span></li>
+<li><span class="nowrap">2014: <i><a href="/wiki/Frozen_(soundtrack)" title="Frozen (soundtrack)">Frozen</a></i> – Soundtrack</span></li>
+<li><span class="nowrap">2015: <i><a href="/wiki/1989_(Taylor_Swift_album)" title="1989 (Taylor Swift album)">1989</a></i> – <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a></span></li>
+<li><span class="nowrap">2016: <i><a href="/wiki/25_(Adele_album)" title="25 (Adele album)">25</a></i> – <a href="/wiki/Adele" title="Adele">Adele</a></span></li>
+<li><span class="nowrap">2017: <i><a href="/wiki/Damn_(Kendrick_Lamar_album)" title="Damn (Kendrick Lamar album)">Damn</a></i> – <a href="/wiki/Kendrick_Lamar" title="Kendrick Lamar">Kendrick Lamar</a></span></li>
+<li><span class="nowrap">2018: <i><a href="/wiki/Reputation_(Taylor_Swift_album)" title="Reputation (Taylor Swift album)">Reputation</a></i> – <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div style="clear:both;"></div>
+<div style="clear:both;"></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20190923051534
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.076 seconds
+Real time usage: 1.286 seconds
+Preprocessor visited node count: 6131/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 167669/2097152 bytes
+Template argument size: 7748/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 124023/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.404/10.000 seconds
+Lua memory usage: 7.23 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1064.377      1 -total
+ 25.08%  266.943      1 Template:Reflist
+ 22.17%  235.959     23 Template:Cite_web
+ 20.45%  217.634      2 Template:Certification_Table_Entry
+ 19.98%  212.683      1 Template:Infobox_album
+ 13.85%  147.366      2 Template:Certification_Cite_Ref
+ 13.35%  142.050      2 Template:Cite_certification
+ 11.87%  126.375      4 Template:Album_chart
+ 11.38%  121.117      2 Template:Infobox
+  5.56%   59.219      1 Template:Album_ratings
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2916738-0!canonical and timestamp 20190923051533 and revision id 911932945
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Some_Hearts&amp;oldid=911932945">https://en.wikipedia.org/w/index.php?title=Some_Hearts&amp;oldid=911932945</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2005_debut_albums" title="Category:2005 debut albums">2005 debut albums</a></li><li><a href="/wiki/Category:Arista_Records_albums" title="Category:Arista Records albums">Arista Records albums</a></li><li><a href="/wiki/Category:Carrie_Underwood_albums" title="Category:Carrie Underwood albums">Carrie Underwood albums</a></li><li><a href="/wiki/Category:Albums_produced_by_Dann_Huff" title="Category:Albums produced by Dann Huff">Albums produced by Dann Huff</a></li><li><a href="/wiki/Category:Albums_produced_by_Desmond_Child" title="Category:Albums produced by Desmond Child">Albums produced by Desmond Child</a></li><li><a href="/wiki/Category:Albums_produced_by_Mark_Bright_(record_producer)" title="Category:Albums produced by Mark Bright (record producer)">Albums produced by Mark Bright (record producer)</a></li><li><a href="/wiki/Category:19_Recordings_albums" title="Category:19 Recordings albums">19 Recordings albums</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:CS1_maint:_others" title="Category:CS1 maint: others">CS1 maint: others</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_Canada" title="Category:Certification Table Entry usages for Canada">Certification Table Entry usages for Canada</a></li><li><a href="/wiki/Category:Certification_Table_Entry_usages_for_United_States" title="Category:Certification Table Entry usages for United States">Certification Table Entry usages for United States</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Some+Hearts" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Some+Hearts" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Some_Hearts" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Some_Hearts" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Some_Hearts">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Some_Hearts&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Some_Hearts&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Some_Hearts" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Some_Hearts" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Some_Hearts&amp;oldid=911932945" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Some_Hearts&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1754341" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Some_Hearts&amp;id=911932945" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Some+Hearts">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Some+Hearts&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Some_Hearts&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Some_Hearts_(Carrie_Underwood_alb%C3%BCm%C3%BC)" title="Some Hearts (Carrie Underwood albümü) – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Some_Hearts" title="Some Hearts – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1754341#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 August 2019, at 03:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Some_Hearts&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.076","walltime":"1.286","ppvisitednodes":{"value":6131,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":167669,"limit":2097152},"templateargumentsize":{"value":7748,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":124023,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1064.377      1 -total"," 25.08%  266.943      1 Template:Reflist"," 22.17%  235.959     23 Template:Cite_web"," 20.45%  217.634      2 Template:Certification_Table_Entry"," 19.98%  212.683      1 Template:Infobox_album"," 13.85%  147.366      2 Template:Certification_Cite_Ref"," 13.35%  142.050      2 Template:Cite_certification"," 11.87%  126.375      4 Template:Album_chart"," 11.38%  121.117      2 Template:Infobox","  5.56%   59.219      1 Template:Album_ratings"]},"scribunto":{"limitreport-timeusage":{"value":"0.404","limit":"10.000"},"limitreport-memusage":{"value":7577873,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20190923051534","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Some Hearts","url":"https:\/\/en.wikipedia.org\/wiki\/Some_Hearts","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1754341","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1754341","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-16T01:39:50Z","dateModified":"2019-08-22T03:40:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/9\/95\/Carriesomehearts.jpg","headline":"album by Carrie Underwood"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1320"});});</script>
+</body>
+</html>

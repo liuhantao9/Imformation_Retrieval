@@ -1,0 +1,698 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hot Country Songs - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hot_Country_Songs","wgTitle":"Hot Country Songs","wgCurRevisionId":917531657,"wgRevisionId":917531657,"wgArticleId":2867196,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Articles with short description","Articles containing potentially dated statements from October 2018","All articles containing potentially dated statements","American country music","Billboard charts"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul",
+"Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hot_Country_Songs","wgRelevantArticleId":2867196,"wgRequestId":"XYvhIQpAICMAAGmyGH4AAAAF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q862771","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/41/Flagaline.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hot_Country_Songs"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hot_Country_Songs&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hot_Country_Songs&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hot_Country_Songs"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hot_Country_Songs rootpage-Hot_Country_Songs skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hot Country Songs</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Weekly chart published by Billboard</div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Flagaline.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flagaline.jpg/250px-Flagaline.jpg" decoding="async" width="250" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flagaline.jpg/375px-Flagaline.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flagaline.jpg/500px-Flagaline.jpg 2x" data-file-width="545" data-file-height="272" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Flagaline.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Florida_Georgia_Line" title="Florida Georgia Line">Florida Georgia Line</a> holds the records for the most cumulative weeks atop the Hot Country Songs chart (106) and the most weeks atop the chart for a single song (50 for "<a href="/wiki/Meant_to_Be_(Bebe_Rexha_song)" title="Meant to Be (Bebe Rexha song)">Meant to Be</a>," a collaboration with pop singer <a href="/wiki/Bebe_Rexha" title="Bebe Rexha">Bebe Rexha</a>).<sup id="cite_ref-MTB_1-0" class="reference"><a href="#cite_note-MTB-1">&#91;1&#93;</a></sup></div></div></div>
+<p><b>Hot Country Songs</b> is a chart published weekly by <a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a> magazine in the United States.
+</p><p>This 50-position chart lists the most popular <a href="/wiki/Country_music" title="Country music">country music</a> songs, calculated weekly by collecting airplay data from <a href="/wiki/Nielsen_Broadcast_Data_Systems" title="Nielsen Broadcast Data Systems">Nielsen BDS</a> along with digital sales and streaming.
+</p><p>The current <a href="/wiki/List_of_Billboard_number-one_country_songs_of_2019" title="List of Billboard number-one country songs of 2019">number-one song</a>, as of the chart dated September 28, 2019, is "<a href="/wiki/The_Git_Up" title="The Git Up">The Git Up</a>" by <a href="/wiki/Blanco_Brown" title="Blanco Brown">Blanco Brown</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Hot_Country_Songs_chart_achievements"><span class="tocnumber">2</span> <span class="toctext">Hot Country Songs chart achievements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Songs_with_most_weeks_at_number_one"><span class="tocnumber">2.1</span> <span class="toctext">Songs with most weeks at number one</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Artists_with_most_cumulative_weeks_at_number_one"><span class="tocnumber">2.2</span> <span class="toctext">Artists with most cumulative weeks at number one</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>Billboard</i> began compiling the popularity of country songs with its January 8, 1944 issue. Only the genre's most popular <a href="/wiki/Jukebox" title="Jukebox">jukebox</a> selections were tabulated, with the chart titled "Most Played Juke Box Folk Records".<sup id="cite_ref-campbell_2-0" class="reference"><a href="#cite_note-campbell-2">&#91;2&#93;</a></sup>
+</p><p>For approximately ten years, from 1948 to 1958, <i>Billboard</i> used three charts to measure the popularity of a given song.<sup id="cite_ref-campbell_2-1" class="reference"><a href="#cite_note-campbell-2">&#91;2&#93;</a></sup> In addition to the jukebox chart, these charts included:
+</p>
+<ul><li>The "best sellers" chart – started May 15, 1948 as "Best Selling Retail Folk Records".</li>
+<li>A "jockeys" chart – started December 10, 1949 as "Country &amp; Western Records Most Played By Folk Disk Jockeys".</li></ul>
+<p>The juke box chart was discontinued in June 1957. Starting with the October 20, 1958 issue, <i>Billboard</i> began combining sales and radio airplay in figuring a song's overall popularity, counting them in one single chart called "Hot C&amp;W Sides".<sup id="cite_ref-campbell_2-2" class="reference"><a href="#cite_note-campbell-2">&#91;2&#93;</a></sup> The chart was published under the title Hot C&amp;W Sides through the October 27, 1962 issue and "Hot Country Singles" thereafter, a title it would retain until 1990.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>On January 20, 1990, the Hot Country Singles chart was put to 75 positions and began to be compiled entirely from information provided by <a href="/wiki/Nielsen_Broadcast_Data_Systems" title="Nielsen Broadcast Data Systems">Nielsen Broadcast Data Systems</a>, a system which electronically monitors radio airplay of songs.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Four weeks later, on February 17, the chart was retitled "Hot Country Singles &amp; Tracks". Beginning with the January 13, 2001 issue, the chart was cut from 75 to 60 positions, and all songs on the chart at the time had their tally of weeks spent on the chart adjusted to count only weeks spent at No.&#160;60 or higher.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Effective April 30, 2005, the chart was renamed "Hot Country Songs".
+</p><p>Starting in 1990, the rankings were determined by <a href="/wiki/Arbitron" class="mw-redirect" title="Arbitron">Arbitron</a>-tallied listener audience for each spin that a song received. The methodology was changed for the first chart published in 1992 to tally the amount of spins a song received, but in January 2005, the methodology reverted to the audience format. This change was brought on because of "<a href="/wiki/Payola" title="Payola">label-sponsored spin programs</a>" that had manipulated the chart several times in 2004.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>The Hot Country Songs chart methodology was changed starting with the October 20, 2012 issue to match the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a>: digital downloads and streaming data are combined with airplay from all radio formats to determine position. A new chart, the <a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a> chart, was created using airplay exclusively from country radio stations. Following the change, songs that were receiving airplay on <a href="/wiki/Contemporary_hit_radio" title="Contemporary hit radio">top-40 pop</a> were given a major advantage over songs popular only on country radio, and as an <a href="/wiki/Unintended_consequence" class="mw-redirect" title="Unintended consequence">unintended consequence</a>, such songs began having record-long runs at the top of the chart. The first song to benefit from this change was <a href="/wiki/Taylor_Swift" title="Taylor Swift">Taylor Swift</a>'s "<a href="/wiki/We_Are_Never_Ever_Getting_Back_Together" title="We Are Never Ever Getting Back Together">We Are Never Ever Getting Back Together</a>", which had been declining in popularity but shot up to number one on the chart the first week the change took effect and stayed there until it set an all-time record for the most weeks at No. 1 by a solo female.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> This was followed almost immediately by <a href="/wiki/Florida_Georgia_Line" title="Florida Georgia Line">Florida Georgia Line</a>'s "<a href="/wiki/Cruise_(song)" title="Cruise (song)">Cruise</a>", which had the longest stay at number one of any song in the country chart's history (24 weeks),<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> until it was surpassed by <a href="/wiki/Sam_Hunt" title="Sam Hunt">Sam Hunt</a>'s "<a href="/wiki/Body_Like_a_Back_Road" title="Body Like a Back Road">Body Like a Back Road</a>" in 2017 (34 weeks). The record was subsequently broken by <a href="/wiki/Bebe_Rexha" title="Bebe Rexha">Bebe Rexha</a> and Florida Georgia Line's "<a href="/wiki/Meant_to_Be_(Bebe_Rexha_song)" title="Meant to Be (Bebe Rexha song)">Meant to Be</a>" in 2018 (50 weeks).<sup id="cite_ref-MTB_1-1" class="reference"><a href="#cite_note-MTB-1">&#91;1&#93;</a></sup>
+</p><p><i>Billboard</i> has not explicitly defined how it determines what songs qualify for the country chart and which ones do not, only that "a few factors are determined (...) first and foremost is musical composition" and that a song must "embrace enough elements of today’s country music" to qualify. (The 1990–2012 chart did not have such ambiguity, being objectively measured by airplay from specifically identified country stations alone.) A later statement from <i>Billboard</i> elaborated on what those "few factors" entailed: "most notably the song’s musical composition, but also how the song is marketed and promoted, the musical history of the artist, airplay the song receives and how the song is platformed on streaming services."<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> The 2019 <a href="/wiki/Country_rap" title="Country rap">country rap</a> record "<a href="/wiki/Old_Town_Road" title="Old Town Road">Old Town Road</a>" by <a href="/wiki/Lil_Nas_X" title="Lil Nas X">Lil Nas X</a> was a subject of controversy over this ambiguous standard after it initially appeared on the country chart, where it debuted and peaked at number 19, before <i>Billboard</i> took the song off subsequent charts, claiming it had made a mistake in including it. The song gained popularity through viral memes rather than radio, as only one country station, <a href="/wiki/KRDC_(AM)" title="KRDC (AM)">Radio Disney Country</a>, had played it at the time of the charting.<sup id="cite_ref-RS_10-0" class="reference"><a href="#cite_note-RS-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Hot_Country_Songs_chart_achievements">Hot Country Songs chart achievements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=2" title="Edit section: Hot Country Songs chart achievements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Songs_with_most_weeks_at_number_one">Songs with most weeks at number one</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=3" title="Edit section: Songs with most weeks at number one">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These are the songs with 16 or more weeks at number one. Fifteen songs accomplished this feat between 1946 and 1964, but none did so again until after the 2012 reformulation; between "<a href="/wiki/Almost_Persuaded" title="Almost Persuaded">Almost Persuaded</a>'s" nine-week run in 1966 and the chart's reformulation in 2012, no song spent more than eight weeks atop the chart. Prolonged runs became commonplace again in 2012 As of October&#160;2018<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hot_Country_Songs&amp;action=edit">&#91;update&#93;</a></sup>; five songs from this period have topped the chart for at least 16 weeks, and the top three longest chart runs have all been since 2012.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Weeks</th>
+<th>Song</th>
+<th>Artist</th>
+<th>Year(s)</th>
+<th>Source
+</th></tr>
+<tr>
+<td>50</td>
+<td>"<a href="/wiki/Meant_to_Be_(Bebe_Rexha_song)" title="Meant to Be (Bebe Rexha song)">Meant to Be</a>"</td>
+<td><a href="/wiki/Bebe_Rexha" title="Bebe Rexha">Bebe Rexha</a> &amp; <a href="/wiki/Florida_Georgia_Line" title="Florida Georgia Line">Florida Georgia Line</a></td>
+<td>2017–18</td>
+<td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>34</td>
+<td>"<a href="/wiki/Body_Like_a_Back_Road" title="Body Like a Back Road">Body Like a Back Road</a>"</td>
+<td><a href="/wiki/Sam_Hunt" title="Sam Hunt">Sam Hunt</a></td>
+<td>2017</td>
+<td><sup id="cite_ref-FGL_12-0" class="reference"><a href="#cite_note-FGL-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>24</td>
+<td>"<a href="/wiki/Cruise_(song)" title="Cruise (song)">Cruise</a>"</td>
+<td>Florida Georgia Line</td>
+<td>2012–13</td>
+<td><sup id="cite_ref-FGL_12-1" class="reference"><a href="#cite_note-FGL-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="3">21</td>
+<td>"<a href="/wiki/I%27ll_Hold_You_in_My_Heart_(Till_I_Can_Hold_You_in_My_Arms)" title="I&#39;ll Hold You in My Heart (Till I Can Hold You in My Arms)">I'll Hold You in My Heart (Till I Can Hold You in My Arms)</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Eddy_Arnold" title="Eddy Arnold">Eddy Arnold</a></td>
+<td>1947–48</td>
+<td><sup id="cite_ref-21_Week_Tie_13-0" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/I%27m_Moving_On_(Hank_Snow_song)" title="I&#39;m Moving On (Hank Snow song)">I'm Moving On</a>"<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Hank_Snow" title="Hank Snow">Hank Snow</a></td>
+<td>1950</td>
+<td><sup id="cite_ref-21_Week_Tie_13-1" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/In_the_Jailhouse_Now" title="In the Jailhouse Now">In the Jailhouse Now</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Webb_Pierce" title="Webb Pierce">Webb Pierce</a></td>
+<td>1955</td>
+<td><sup id="cite_ref-21_Week_Tie_13-2" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">20</td>
+<td>"<a href="/wiki/I_Don%27t_Hurt_Anymore" title="I Don&#39;t Hurt Anymore">I Don't Hurt Anymore</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td>Hank Snow</td>
+<td>1954</td>
+<td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Crazy_Arms" title="Crazy Arms">Crazy Arms</a>"<img alt="Section-sign" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/16px-Section_sign.svg.png" decoding="async" width="16" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/24px-Section_sign.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/32px-Section_sign.svg.png 2x" data-file-width="136" data-file-height="203" /></td>
+<td><a href="/wiki/Ray_Price_(musician)" title="Ray Price (musician)">Ray Price</a></td>
+<td>1956</td>
+<td><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="2">19</td>
+<td>"<a href="/wiki/Walk_On_By_(Leroy_Van_Dyke_song)" title="Walk On By (Leroy Van Dyke song)">Walk On By</a>"</td>
+<td><a href="/wiki/Leroy_Van_Dyke" title="Leroy Van Dyke">Leroy Van Dyke</a></td>
+<td>1961–62</td>
+<td><sup id="cite_ref-21_Week_Tie_13-3" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Bouquet_of_Roses_(song)" title="Bouquet of Roses (song)">Bouquet Of Roses</a>"<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Eddy_Arnold" title="Eddy Arnold">Eddy Arnold</a></td>
+<td>1947–48</td>
+<td><sup id="cite_ref-21_Week_Tie_13-4" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>18</td>
+<td>"<a href="/wiki/H.O.L.Y." title="H.O.L.Y.">H.O.L.Y.</a>"</td>
+<td>Florida Georgia Line</td>
+<td>2016</td>
+<td><sup id="cite_ref-FGL_12-2" class="reference"><a href="#cite_note-FGL-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="4">17</td>
+<td>"<a href="/wiki/Die_a_Happy_Man" title="Die a Happy Man">Die a Happy Man</a>"</td>
+<td><a href="/wiki/Thomas_Rhett" title="Thomas Rhett">Thomas Rhett</a></td>
+<td>2015-16</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Heartbreak_Hotel" title="Heartbreak Hotel">Heartbreak Hotel</a>"<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Elvis_Presley" title="Elvis Presley">Elvis Presley</a></td>
+<td>1956</td>
+<td><sup id="cite_ref-21_Week_Tie_13-5" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Slowly" title="Slowly">Slowly</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td>Webb Pierce</td>
+<td>1954</td>
+<td><sup id="cite_ref-21_Week_Tie_13-6" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Slippin%27_Around" title="Slippin&#39; Around">Slippin' Around</a>"<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Jimmy_Wakely" title="Jimmy Wakely">Jimmy Wakely</a> and <a href="/wiki/Margaret_Whiting" title="Margaret Whiting">Margaret Whiting</a></td>
+<td>1949–50</td>
+<td><sup id="cite_ref-21_Week_Tie_13-7" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td rowspan="5">16</td>
+<td>"<a href="/wiki/Love%27s_Gonna_Live_Here" title="Love&#39;s Gonna Live Here">Love's Gonna Live Here</a>"</td>
+<td><a href="/wiki/Buck_Owens" title="Buck Owens">Buck Owens</a></td>
+<td>1963–64</td>
+<td><sup id="cite_ref-FGL_12-3" class="reference"><a href="#cite_note-FGL-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Lovesick_Blues" title="Lovesick Blues">Lovesick Blues</a>"<img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Hank_Williams" title="Hank Williams">Hank Williams</a></td>
+<td>1949–50</td>
+<td><sup id="cite_ref-21_Week_Tie_13-8" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Smoke!_Smoke!_Smoke!_(That_Cigarette)" title="Smoke! Smoke! Smoke! (That Cigarette)">Smoke! Smoke! Smoke! (That Cigarette)</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Tex_Williams" title="Tex Williams">Tex Williams</a></td>
+<td>1947–48</td>
+<td><sup id="cite_ref-21_Week_Tie_13-9" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/New_Spanish_Two_Step" title="New Spanish Two Step">New Spanish Two Step</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Bob_Wills" title="Bob Wills">Bob Wills</a></td>
+<td>1946–47</td>
+<td><sup id="cite_ref-21_Week_Tie_13-10" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>"<a href="/wiki/Guitar_Polka" title="Guitar Polka">Guitar Polka</a>"<img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td><a href="/wiki/Al_Dexter" title="Al Dexter">Al Dexter</a></td>
+<td>1946–47</td>
+<td><sup id="cite_ref-21_Week_Tie_13-11" class="reference"><a href="#cite_note-21_Week_Tie-13">&#91;13&#93;</a></sup>
+</td></tr></tbody></table>
+<p>Note: Songs marked <img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /> achieved their runs on the Most Played in Juke Boxes chart (published 1944-58). Songs marked <img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" decoding="async" width="9" height="14" data-file-width="9" data-file-height="14" /> achieved their runs on the Best Sellers on Stores chart (published 1948-58). Songs marked <img alt="Section-sign" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/16px-Section_sign.svg.png" decoding="async" width="16" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/24px-Section_sign.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Section_sign.svg/32px-Section_sign.svg.png 2x" data-file-width="136" data-file-height="203" /> achieved their runs on the Most Played by Jockeys chart (published 1949-58). All songs listed for the period when multiple charts were in operation also had shorter runs at number one on the other charts not indicated. The three charts were merged to create Hot C&amp;W Sides (now Hot Country Songs) in 1958.
+</p>
+<h3><span class="mw-headline" id="Artists_with_most_cumulative_weeks_at_number_one">Artists with most cumulative weeks at number one</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=4" title="Edit section: Artists with most cumulative weeks at number one">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>As of the issue of Billboard dated November 17, 2018</i>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Weeks at<br />number one</th>
+<th>Artist</th>
+<th>Source
+</th></tr>
+<tr>
+<td><center>106</center></td>
+<td><a href="/wiki/Florida_Georgia_Line" title="Florida Georgia Line">Florida Georgia Line</a></td>
+<td><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td><center>84</center></td>
+<td><a href="/wiki/George_Strait" title="George Strait">George Strait</a></td>
+<td><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_number-one_country_hits_(United_States)" class="mw-redirect" title="List of number-one country hits (United States)">List of number-one country hits (United States)</a></li>
+<li><a href="/wiki/American_Country_Countdown" title="American Country Countdown">American Country Countdown</a></li>
+<li><a href="/wiki/List_of_years_in_country_music" title="List of years in country music">List of years in country music</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._country_chart" title="List of artists who reached number one on the U.S. country chart">List of artists who reached number one on the U.S. country chart</a></li>
+<li><a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-MTB-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-MTB_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MTB_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://bulletins.billboard.com/country/country_update_1112.pdf">"Billboard Country Update: November 12, 2018"</a> <span class="cs1-format">(PDF)</span>. <i>Billboard</i>. November 12, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">November 13,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Billboard+Country+Update%3A+November+12%2C+2018&amp;rft.date=2018-11-12&amp;rft_id=https%3A%2F%2Fbulletins.billboard.com%2Fcountry%2Fcountry_update_1112.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-campbell-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-campbell_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-campbell_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-campbell_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Campbell, Michael (1 January 2012). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Cf0JAAAAQBAJ&amp;pg=PT143"><i>Popular Music in America:The Beat Goes On</i></a>. Chapter 30 Honky Tonk: Cengage Learning. p.&#160;125.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Popular+Music+in+America%3AThe+Beat+Goes+On&amp;rft.place=Chapter+30+Honky+Tonk&amp;rft.pages=125&amp;rft.pub=Cengage+Learning&amp;rft.date=2012-01-01&amp;rft.aulast=Campbell&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCf0JAAAAQBAJ%26pg%3DPT143&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Joel_Whitburn" title="Joel Whitburn">Whitburn, Joel</a> (2005). <i>Joel Whitburn's Top Country Songs: 1944–2005</i>. Record Research. p.&#160;ix. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780898201659" title="Special:BookSources/9780898201659"><bdi>9780898201659</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Joel+Whitburn%27s+Top+Country+Songs%3A+1944%E2%80%932005&amp;rft.pages=ix&amp;rft.pub=Record+Research&amp;rft.date=2005&amp;rft.isbn=9780898201659&amp;rft.aulast=Whitburn&amp;rft.aufirst=Joel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=mxAEAAAAMBAJ&amp;pg=PA68">"R&amp;B Enjoying Rare Dominance Over Rap"</a>. <i>Billboard</i>: 68. 24 April 2004<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=R%26B+Enjoying+Rare+Dominance+Over+Rap&amp;rft.pages=68&amp;rft.date=2004-04-24&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DmxAEAAAAMBAJ%26pg%3DPA68&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jessen, Wade (January 13, 2001). <a rel="nofollow" class="external text" href="http://www.americanradiohistory.com/Archive-Billboard/00s/2001/BB-2001-01-13.pdf">"Country Corner"</a> <span class="cs1-format">(PDF)</span>. <i>Billboard</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Country+Corner&amp;rft.date=2001-01-13&amp;rft.aulast=Jessen&amp;rft.aufirst=Wade&amp;rft_id=http%3A%2F%2Fwww.americanradiohistory.com%2FArchive-Billboard%2F00s%2F2001%2FBB-2001-01-13.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ehMEAAAAMBAJ&amp;printsec=frontcover&amp;rview=1">"Country returns to audience-based chart"</a>. 20 November 2004: 88.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Country+returns+to+audience-based+chart&amp;rft.pages=88&amp;rft.date=2004-11-20&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DehMEAAAAMBAJ%26printsec%3Dfrontcover%26rview%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news">Jessen, Wade (6 December 2012). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/the-615/1481551/taylor-swift-makes-country-songs-history">"Taylor Swift Makes Country Songs History"</a>. <i>Billboard Magazine</i>. Billboard Musix<span class="reference-accessdate">. Retrieved <span class="nowrap">5 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard+Magazine&amp;rft.atitle=Taylor+Swift+Makes+Country+Songs+History&amp;rft.date=2012-12-06&amp;rft.aulast=Jessen&amp;rft.aufirst=Wade&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fthe-615%2F1481551%2Ftaylor-swift-makes-country-songs-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Jessen, Wade (August 1, 2013). <a rel="nofollow" class="external text" href="http://www.billboard.com/articles/columns/the-615/5447163/florida-georgia-lines-cruise-sets-record-for-longest-no-1-run-on">"Florida Georgia Line's 'Cruise' Sets Record For Longest No. 1 Run On Hot Country Songs"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 18,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Florida+Georgia+Line%27s+%27Cruise%27+Sets+Record+For+Longest+No.+1+Run+On+Hot+Country+Songs&amp;rft.date=2013-08-01&amp;rft.aulast=Jessen&amp;rft.aufirst=Wade&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fthe-615%2F5447163%2Fflorida-georgia-lines-cruise-sets-record-for-longest-no-1-run-on&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://qz.com/quartzy/1592928/old-town-road-is-only-the-third-country-song-in-30-years-to-make-it-to-make-it-to-no-1/">https://qz.com/quartzy/1592928/old-town-road-is-only-the-third-country-song-in-30-years-to-make-it-to-make-it-to-no-1/</a></span>
+</li>
+<li id="cite_note-RS-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-RS_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Elias Leight (March 26, 2019). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/music-features/lil-nas-x-old-town-road-810844/">"Lil Nas X's 'Old Town Road' Was a Country Hit. Then Country Changed Its Mind"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">March 27,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Lil+Nas+X%27s+%27Old+Town+Road%27+Was+a+Country+Hit.+Then+Country+Changed+Its+Mind&amp;rft.date=2019-03-26&amp;rft.au=Elias+Leight&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fmusic-features%2Flil-nas-x-old-town-road-810844%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.billboard.com/charts/country-songs/2018-11-17">https://www.billboard.com/charts/country-songs/2018-11-17</a></span>
+</li>
+<li id="cite_note-FGL-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-FGL_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FGL_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FGL_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FGL_12-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Asker, Jim (April 3, 2018). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/chart-beat/8280778/florida-georgia-line-bebe-rexha-meant-to-be-number-one-hot-country-songs-18-weeks">"Florida Georgia Line Now Has 3 of the 5 Longest-Leading Hot Country Songs No. 1s, Thanks to 'Meant to Be<span class="cs1-kern-right">'</span>"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 5,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Florida+Georgia+Line+Now+Has+3+of+the+5+Longest-Leading+Hot+Country+Songs+No.+1s%2C+Thanks+to+%27Meant+to+Be%27&amp;rft.date=2018-04-03&amp;rft.aulast=Asker&amp;rft.aufirst=Jim&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F8280778%2Fflorida-georgia-line-bebe-rexha-meant-to-be-number-one-hot-country-songs-18-weeks&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21_Week_Tie-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-21_Week_Tie_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-21_Week_Tie_13-11"><sup><i><b>l</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Jessen, Wade (July 24, 2013). <a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/the-615/4442812/florida-georgia-lines-cruise-ties-for-longest-no-1-run-on-hot">"Florida Georgia Line's 'Cruise' Ties For Longest No. 1 Run On Hot Country Songs"</a>. <i>Billboard</i><span class="reference-accessdate">. Retrieved <span class="nowrap">April 25,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Billboard&amp;rft.atitle=Florida+Georgia+Line%27s+%27Cruise%27+Ties+For+Longest+No.+1+Run+On+Hot+Country+Songs&amp;rft.date=2013-07-24&amp;rft.aulast=Jessen&amp;rft.aufirst=Wade&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fthe-615%2F4442812%2Fflorida-georgia-lines-cruise-ties-for-longest-no-1-run-on-hot&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Whitburn, Joel (1996). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9780823076321"><i>The Billboard Book of Top 40 Country Hits</i></a></span>. <a href="/wiki/Watson-Guptill" title="Watson-Guptill">Watson-Guptill</a>. p.&#160;515. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0823076326" title="Special:BookSources/0823076326"><bdi>0823076326</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Billboard+Book+of+Top+40+Country+Hits&amp;rft.pages=515&amp;rft.pub=Watson-Guptill&amp;rft.date=1996&amp;rft.isbn=0823076326&amp;rft.aulast=Whitburn&amp;rft.aufirst=Joel&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fisbn_9780823076321&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Whitburn, Joel (1996). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9780823076321"><i>The Billboard Book of Top 40 Country Hits</i></a></span>. <a href="/wiki/Watson-Guptill" title="Watson-Guptill">Watson-Guptill</a>. p.&#160;516. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0823076326" title="Special:BookSources/0823076326"><bdi>0823076326</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Billboard+Book+of+Top+40+Country+Hits&amp;rft.pages=516&amp;rft.pub=Watson-Guptill&amp;rft.date=1996&amp;rft.isbn=0823076326&amp;rft.aulast=Whitburn&amp;rft.aufirst=Joel&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fisbn_9780823076321&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.billboard.com/music/Thomas-Rhett/chart-history/country-songs">https://www.billboard.com/music/Thomas-Rhett/chart-history/country-songs</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/chart-beat/8477966/florida-georgia-line-marks-100-weeks-on-hot-country-songs">"Florida Georgia Line Marks One Hundred Total Weeks Atop Hot Country Songs With 'Meant To Be<span class="cs1-kern-right">'</span>"</a>. <i>Billboard</i>. October 2, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">October 4,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Florida+Georgia+Line+Marks+One+Hundred+Total+Weeks+Atop+Hot+Country+Songs+With+%27Meant+To+Be%27&amp;rft.date=2018-10-02&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F8477966%2Fflorida-georgia-line-marks-100-weeks-on-hot-country-songs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.billboard.com/articles/columns/chart-beat/8466527/bebe-rexha-florida-georgia-line-meant-to-be-breaks-new-record">"Bebe Rexha &amp; Florida Georgia Line's 'Meant to Be' Breaks New Record"</a>. <i>Billboard</i>. July 22, 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">July 24,</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billboard&amp;rft.atitle=Bebe+Rexha+%26+Florida+Georgia+Line%27s+%27Meant+to+Be%27+Breaks+New+Record&amp;rft.date=2018-07-22&amp;rft_id=https%3A%2F%2Fwww.billboard.com%2Farticles%2Fcolumns%2Fchart-beat%2F8466527%2Fbebe-rexha-florida-georgia-line-meant-to-be-breaks-new-record&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHot+Country+Songs" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=7" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Whitburn, Joel. <i>Top Country Songs 1944-2005 - 6th Edition</i>. 2006.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.billboard.com/charts/country-songs">Billboard Hot Country Songs chart</a> – online version.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Lists_of_number-one_country_songs_in_the_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hot_Country_Songs" title="Template:Hot Country Songs"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hot_Country_Songs" title="Template talk:Hot Country Songs"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hot_Country_Songs&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Lists_of_number-one_country_songs_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_Billboard_number-one_country_hits" title="List of Billboard number-one country hits">Lists of number-one country songs in the United States</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1944–1959</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Most_Played_Juke_Box_Folk_Records_number_ones_of_1944" title="List of Most Played Juke Box Folk Records number ones of 1944">1944</a></li>
+<li><a href="/wiki/List_of_Most_Played_Juke_Box_Folk_Records_number_ones_of_1945" title="List of Most Played Juke Box Folk Records number ones of 1945">1945</a></li>
+<li><a href="/wiki/List_of_Most_Played_Juke_Box_Folk_Records_number_ones_of_1946" title="List of Most Played Juke Box Folk Records number ones of 1946">1946</a></li>
+<li><a href="/wiki/List_of_Most_Played_Juke_Box_Folk_Records_number_ones_of_1947" title="List of Most Played Juke Box Folk Records number ones of 1947">1947</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1948" title="List of Billboard number-one country songs of 1948">1948</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1949" title="List of Billboard number-one country songs of 1949">1949</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1950" title="List of Billboard number-one country songs of 1950">1950</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1951" title="List of Billboard number-one country songs of 1951">1951</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1952" title="List of Billboard number-one country songs of 1952">1952</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1953" title="List of Billboard number-one country songs of 1953">1953</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1954" title="List of Billboard number-one country songs of 1954">1954</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1955" title="List of Billboard number-one country songs of 1955">1955</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1956" title="List of Billboard number-one country songs of 1956">1956</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1957" title="List of Billboard number-one country songs of 1957">1957</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_1958" title="List of Billboard number-one country songs of 1958">1958</a></li>
+<li><a href="/wiki/List_of_Hot_C%26W_Sides_number_ones_of_1959" title="List of Hot C&amp;W Sides number ones of 1959">1959</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1960–1979</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Hot_C%26W_Sides_number_ones_of_1960" title="List of Hot C&amp;W Sides number ones of 1960">1960</a></li>
+<li><a href="/wiki/List_of_Hot_C%26W_Sides_number_ones_of_1961" title="List of Hot C&amp;W Sides number ones of 1961">1961</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1962" title="List of Hot Country Singles number ones of 1962">1962</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1963" title="List of Hot Country Singles number ones of 1963">1963</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1964" title="List of Hot Country Singles number ones of 1964">1964</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1965" title="List of Hot Country Singles number ones of 1965">1965</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1966" title="List of Hot Country Singles number ones of 1966">1966</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1967" title="List of Hot Country Singles number ones of 1967">1967</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1968" title="List of Hot Country Singles number ones of 1968">1968</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1969" title="List of Hot Country Singles number ones of 1969">1969</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1970" title="List of Hot Country Singles number ones of 1970">1970</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1971" title="List of Hot Country Singles number ones of 1971">1971</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1972" title="List of Hot Country Singles number ones of 1972">1972</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1973" title="List of Hot Country Singles number ones of 1973">1973</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1974" title="List of Hot Country Singles number ones of 1974">1974</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1975" title="List of Hot Country Singles number ones of 1975">1975</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1976" title="List of Hot Country Singles number ones of 1976">1976</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1977" title="List of Hot Country Singles number ones of 1977">1977</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1978" title="List of Hot Country Singles number ones of 1978">1978</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1979" title="List of Hot Country Singles number ones of 1979">1979</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">1980–1999</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1980" title="List of Hot Country Singles number ones of 1980">1980</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1981" title="List of Hot Country Singles number ones of 1981">1981</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1982" title="List of Hot Country Singles number ones of 1982">1982</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1983" title="List of Hot Country Singles number ones of 1983">1983</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1984" title="List of Hot Country Singles number ones of 1984">1984</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1985" title="List of Hot Country Singles number ones of 1985">1985</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1986" title="List of Hot Country Singles number ones of 1986">1986</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1987" title="List of Hot Country Singles number ones of 1987">1987</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1988" title="List of Hot Country Singles number ones of 1988">1988</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_number_ones_of_1989" title="List of Hot Country Singles number ones of 1989">1989</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1990" title="List of Hot Country Singles &amp; Tracks number ones of 1990">1990</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1991" title="List of Hot Country Singles &amp; Tracks number ones of 1991">1991</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1992" title="List of Hot Country Singles &amp; Tracks number ones of 1992">1992</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1993" title="List of Hot Country Singles &amp; Tracks number ones of 1993">1993</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1994" title="List of Hot Country Singles &amp; Tracks number ones of 1994">1994</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1995" title="List of Hot Country Singles &amp; Tracks number ones of 1995">1995</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1996" title="List of Hot Country Singles &amp; Tracks number ones of 1996">1996</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1997" title="List of Hot Country Singles &amp; Tracks number ones of 1997">1997</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1998" title="List of Hot Country Singles &amp; Tracks number ones of 1998">1998</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_1999" title="List of Hot Country Singles &amp; Tracks number ones of 1999">1999</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2000–2019</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_2000" title="List of Hot Country Singles &amp; Tracks number ones of 2000">2000</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_2001" title="List of Hot Country Singles &amp; Tracks number ones of 2001">2001</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_2002" title="List of Hot Country Singles &amp; Tracks number ones of 2002">2002</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_2003" title="List of Hot Country Singles &amp; Tracks number ones of 2003">2003</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Singles_%26_Tracks_number_ones_of_2004" title="List of Hot Country Singles &amp; Tracks number ones of 2004">2004</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2005" title="List of Hot Country Songs number ones of 2005">2005</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2006" title="List of Hot Country Songs number ones of 2006">2006</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2007" title="List of Hot Country Songs number ones of 2007">2007</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2008" title="List of Hot Country Songs number ones of 2008">2008</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2009" title="List of Hot Country Songs number ones of 2009">2009</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2010" title="List of Hot Country Songs number ones of 2010">2010</a></li>
+<li><a href="/wiki/List_of_Hot_Country_Songs_number_ones_of_2011" title="List of Hot Country Songs number ones of 2011">2011</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2012" title="List of Billboard number-one country songs of 2012">2012</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2013" title="List of Billboard number-one country songs of 2013">2013</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2014" title="List of Billboard number-one country songs of 2014">2014</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2015" title="List of Billboard number-one country songs of 2015">2015</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2016" title="List of Billboard number-one country songs of 2016">2016</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2017" title="List of Billboard number-one country songs of 2017">2017</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2018" title="List of Billboard number-one country songs of 2018">2018</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_songs_of_2019" title="List of Billboard number-one country songs of 2019">2019</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Billboard_charts" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Billboard" title="Template:Billboard"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Billboard" title="Template talk:Billboard"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Billboard&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Billboard_charts" style="font-size:114%;margin:0 4em"><a href="/wiki/Billboard_charts" title="Billboard charts"><i>Billboard</i> charts</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Billboard_charts#Albums" title="Billboard charts">Albums</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE"><a href="/wiki/Billboard_200" title="Billboard 200"><i>Billboard</i> 200</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Billboard_charts#Albums" title="Billboard charts">Top Album Sales</a></li>
+<li><a href="/wiki/Top_Catalog_Albums" class="mw-redirect" title="Top Catalog Albums">Top Catalog Albums</a></li>
+<li><a href="/wiki/Digital_Albums" class="mw-redirect" title="Digital Albums">Digital Albums</a></li>
+<li><a href="/wiki/Billboard_Comprehensive_Albums" title="Billboard Comprehensive Albums"><i>Billboard</i> Comprehensive Albums</a> (defunct)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">R&amp;B/Hip-Hop</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Top_R%26B/Hip-Hop_Albums" title="Top R&amp;B/Hip-Hop Albums">Top R&amp;B/Hip-Hop Albums</a></li>
+<li><a href="/wiki/Rap_Albums" title="Rap Albums">Rap Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Rock</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rock_Albums" class="mw-redirect" title="Rock Albums">Rock Albums</a></li>
+<li><a href="/wiki/Alternative_Albums" class="mw-redirect" title="Alternative Albums">Alternative Albums</a></li>
+<li><a href="/wiki/Hard_Rock_Albums" class="mw-redirect" title="Hard Rock Albums">Hard Rock Albums</a></li>
+<li><a href="/wiki/Folk_Albums" class="mw-redirect" title="Folk Albums">Folk Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Billboard_number-one_country_albums" title="List of Billboard number-one country albums">Top Country Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Latin</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Billboard_Top_Latin_Albums" title="Billboard Top Latin Albums">Top Latin Albums</a></li>
+<li><a href="/wiki/Regional_Mexican_Albums" title="Regional Mexican Albums">Regional Mexican Albums</a></li>
+<li><a href="/wiki/Latin_Pop_Albums" title="Latin Pop Albums">Latin Pop Albums</a></li>
+<li><a href="/wiki/Latin_Rhythm_Albums" title="Latin Rhythm Albums">Latin Rhythm Albums</a></li>
+<li><a href="/wiki/Tropical_Albums" title="Tropical Albums">Tropical Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Religious</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_Albums" class="mw-redirect" title="Christian Albums">Christian Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">Heatseekers Albums</a></li>
+<li><a href="/wiki/Tastemaker_Albums" class="mw-redirect" title="Tastemaker Albums">Tastemaker Albums</a></li>
+<li><a href="/wiki/Dance/Electronic_Albums" title="Dance/Electronic Albums">Dance/Electronic Albums</a></li>
+<li><a href="/wiki/Independent_Albums" title="Independent Albums">Independent Albums</a></li>
+<li><a href="/wiki/Jazz_Albums" class="mw-redirect" title="Jazz Albums">Jazz Albums</a></li>
+<li><a href="/wiki/Reggae_Albums" class="mw-redirect" title="Reggae Albums">Reggae Albums</a></li>
+<li><a href="/wiki/Comedy_Albums" title="Comedy Albums">Comedy Albums</a></li>
+<li><a href="/wiki/Kid_Albums" title="Kid Albums">Kid Albums</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">International</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">Canadian Albums</a></li>
+<li><a href="/wiki/European_Top_100_Albums" title="European Top 100 Albums">European Albums</a> (defunct)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Billboard_charts#Singles_and_tracks" title="Billboard charts">Singles and tracks</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE"><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100">Hot 100</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hot_100_Airplay_(Radio_Songs)" title="Hot 100 Airplay (Radio Songs)">Radio Songs</a></li>
+<li><a href="/wiki/Digital_Songs" title="Digital Songs">Digital Songs</a></li>
+<li><a href="/wiki/Hot_Digital_Tracks" title="Hot Digital Tracks">Digital Tracks</a></li>
+<li><a href="/wiki/Hot_Singles_Sales" class="mw-redirect" title="Hot Singles Sales">Hot Singles Sales</a></li>
+<li><a href="/wiki/Streaming_Songs" title="Streaming Songs">Streaming Songs</a></li>
+<li><a href="/wiki/On-Demand_Songs" title="On-Demand Songs">On-Demand Songs</a></li>
+<li><a href="/wiki/Bubbling_Under_Hot_100" title="Bubbling Under Hot 100">Bubbling Under Hot 100</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Pop</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mainstream_Top_40" title="Mainstream Top 40">Mainstream Top 40</a></li>
+<li><a href="/wiki/Adult_Contemporary_(chart)" title="Adult Contemporary (chart)">Adult Contemporary</a></li>
+<li><a href="/wiki/Adult_Top_40" title="Adult Top 40">Adult Top 40</a></li>
+<li><a href="/wiki/Pop_100" title="Pop 100">Pop 100</a> <span style="font-size:85%;">(defunct)</span></li>
+<li><a href="/wiki/Top_40_Tracks" title="Top 40 Tracks">Top 40 Tracks</a>  <span style="font-size:85%;">(defunct)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Dance/Electronic</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dance_Club_Songs" title="Dance Club Songs">Dance Club Songs</a></li>
+<li><a href="/wiki/Dance/Electronic_Songs" title="Dance/Electronic Songs">Hot Dance/Electronic Songs</a></li>
+<li><a href="/wiki/Dance/Mix_Show_Airplay" title="Dance/Mix Show Airplay">Dance/Mix Show Airplay</a></li>
+<li><a href="/wiki/Dance/Electronic_Singles_Sales" title="Dance/Electronic Singles Sales">Dance/Electronic Singles Sales</a> <span style="font-size:85%;">(defunct)</span></li>
+<li><a href="/wiki/Dance/Electronic_Digital_Songs" title="Dance/Electronic Digital Songs">Dance/Electronic Digital Songs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">R&amp;B/Hip-Hop</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hot_R%26B/Hip-Hop_Songs" title="Hot R&amp;B/Hip-Hop Songs">Hot R&amp;B/Hip-Hop Songs</a></li>
+<li><a href="/wiki/R%26B/Hip-Hop_Airplay" title="R&amp;B/Hip-Hop Airplay">R&amp;B/Hip-Hop Airplay</a></li>
+<li><a href="/wiki/Bubbling_Under_R%26B/Hip-Hop_Singles" class="mw-redirect" title="Bubbling Under R&amp;B/Hip-Hop Singles">Bubbling Under R&amp;B/Hip-Hop Singles</a></li>
+<li><a href="/wiki/Hot_Rap_Songs" title="Hot Rap Songs">Hot Rap Songs</a></li>
+<li><a href="/wiki/R%26B_Songs" title="R&amp;B Songs">Hot R&amp;B Songs</a></li>
+<li><a href="/wiki/Mainstream_R%26B/Hip-Hop" class="mw-redirect" title="Mainstream R&amp;B/Hip-Hop">Mainstream R&amp;B/Hip-Hop</a></li>
+<li><a href="/wiki/Adult_R%26B_Songs" title="Adult R&amp;B Songs">Adult R&amp;B Songs</a></li>
+<li><a href="/wiki/Rhythmic_(chart)" title="Rhythmic (chart)">Rhythmic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Rock</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_number-one_Billboard_Rock_Songs" title="List of number-one Billboard Rock Songs">Hot Rock Songs</a></li>
+<li><a href="/wiki/Mainstream_Rock_(chart)" title="Mainstream Rock (chart)">Mainstream Rock</a></li>
+<li><a href="/wiki/Alternative_Songs" title="Alternative Songs">Alternative</a></li>
+<li><a href="/wiki/Adult_Alternative_Songs" title="Adult Alternative Songs">Triple A</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Country</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Hot Country Songs</a></li>
+<li><a href="/wiki/Country_Airplay" title="Country Airplay">Country Airplay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Latin</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hot_Latin_Songs" title="Hot Latin Songs">Hot Latin Songs</a></li>
+<li><a href="/wiki/Latin_Pop_Airplay" title="Latin Pop Airplay">Latin Pop Airplay</a></li>
+<li><a href="/wiki/Regional_Mexican_Airplay" title="Regional Mexican Airplay">Regional Mexican Airplay</a></li>
+<li><a href="/wiki/Tropical_Songs" title="Tropical Songs">Tropical Airplay</a></li>
+<li><a href="/wiki/Latin_Rhythm_Airplay" title="Latin Rhythm Airplay">Latin Rhythm Airplay</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Religious</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_Songs" title="Christian Songs">Hot Christian Songs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">Heatseekers Songs</a></li>
+<li><a href="/wiki/Smooth_Jazz_Songs" class="mw-redirect" title="Smooth Jazz Songs">Smooth Jazz Songs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE">International</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Argentina_Hot_100" title="Argentina Hot 100">Argentina Hot 100</a></li>
+<li><a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a></li>
+<li><a href="/wiki/Billboard_China_Top_100" title="Billboard China Top 100">China Top 100</a></li>
+<li><a href="/wiki/Euro_Digital_Songs" class="mw-redirect" title="Euro Digital Songs">Euro Digital Songs</a></li>
+<li><a href="/wiki/Billboard_Indonesia_Top_100" title="Billboard Indonesia Top 100">Indonesia Top 100</a></li>
+<li><a href="/wiki/Billboard_Japan_Hot_100" title="Billboard Japan Hot 100">Japan Hot 100</a></li>
+<li><a href="/wiki/Philippine_Hot_100" title="Philippine Hot 100">Philippine Hot 100</a> (defunct)</li>
+<li><a href="/wiki/Kpop_Hot_100" class="mw-redirect" title="Kpop Hot 100">Kpop Hot 100</a></li>
+<li><a href="/wiki/European_Hot_100_Singles" title="European Hot 100 Singles">European Hot 100</a> (defunct)</li>
+<li><a href="/wiki/T%C3%BCrkiye_Top_20" title="Türkiye Top 20">Türkiye Top 20</a> (defunct)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists of number-one<br />albums and singles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Billboard_number-one_adult_contemporary_hits" title="List of Billboard number-one adult contemporary hits">Adult Contemporary</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_alternative_hits" title="List of Billboard number-one alternative hits">Alternative Songs</a></li>
+<li><a href="/wiki/List_of_Billboard_200_number-one_albums" title="List of Billboard 200 number-one albums"><i>Billboard</i> 200</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_dance_hits" class="mw-redirect" title="List of Billboard number-one dance hits">Dance Club Songs</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_electronic_albums" title="List of Billboard number-one electronic albums">Dance/Electronic Albums</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_dance_airplay_hits" title="List of Billboard number-one dance airplay hits">Dance/Mix Show Airplay</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_Americana/folk_albums_of_the_2010%27s" class="mw-redirect" title="List of Billboard number-one Americana/folk albums of the 2010&#39;s">Americana/Folk Albums</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_singles" title="List of Billboard number-one singles">Hot 100</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_hits" title="List of Billboard number-one country hits">Hot Country Songs</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_rhythm_and_blues_hits" title="List of Billboard number-one rhythm and blues hits">Hot R&amp;B/Hip-Hop Songs</a></li>
+<li><a href="/wiki/List_of_Korea_K-Pop_Hot_100_number-one_singles" class="mw-redirect" title="List of Korea K-Pop Hot 100 number-one singles">K-Pop</a></li>
+<li><a href="/wiki/List_of_Billboard_Mainstream_Rock_number-one_songs_of_the_2010s" title="List of Billboard Mainstream Rock number-one songs of the 2010s">Mainstream Rock</a></li>
+<li><a href="/wiki/List_of_Billboard_number-one_country_albums" title="List of Billboard number-one country albums">Top Country Albums</a></li>
+<li><a href="/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums" title="List of Billboard Year-End number-one singles and albums">Year-End</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists of artists who<br /> reached number one</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_artists_who_reached_number_one_in_the_United_States" title="List of artists who reached number one in the United States">US</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_Canadian_Hot_100" title="List of artists who reached number one on the Canadian Hot 100">Canada</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_Japan_Hot_100" title="List of artists who reached number one on the Japan Hot 100">Japan</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Dance_Club_Songs_chart" title="List of artists who reached number one on the U.S. Dance Club Songs chart">Dance Club Songs</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._dance_airplay_chart" title="List of artists who reached number one on the U.S. dance airplay chart">Dance/Mix Show Airplay</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._alternative_rock_chart" title="List of artists who reached number one on the U.S. alternative rock chart">Alternative Songs</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Mainstream_Rock_chart" title="List of artists who reached number one on the U.S. Mainstream Rock chart">Mainstream Rock</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Adult_Contemporary_chart" title="List of artists who reached number one on the U.S. Adult Contemporary chart">Adult Contemporary</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_Billboard_R%26B_chart" title="List of artists who reached number one on the Billboard R&amp;B chart">Hot R&amp;B/Hip-Hop Songs</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Rhythmic_chart" title="List of artists who reached number one on the U.S. Rhythmic chart">Rhythmic</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._country_chart" title="List of artists who reached number one on the U.S. country chart">Hot Country Songs</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Adult_Top_40_chart" title="List of artists who reached number one on the U.S. Adult Top 40 chart">Adult Top 40</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_Billboard_Mainstream_Top_40_chart" title="List of artists who reached number one on the Billboard Mainstream Top 40 chart">Mainstream Top 40</a></li>
+<li><a href="/wiki/List_of_artists_who_reached_number_one_on_the_U.S._Latin_Songs_chart" title="List of artists who reached number one on the U.S. Latin Songs chart">Latin Songs</a></li>
+<li><a href="/wiki/List_of_Billboard_Social_50_number-one_artists" title="List of Billboard Social 50 number-one artists">Social 50</a></li>
+<li><a href="/wiki/List_of_number-one_artists_on_the_Billboard_Artist_100" title="List of number-one artists on the Billboard Artist 100">Artist 100</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Billboard_Radio_Monitor" title="Billboard Radio Monitor">Billboard Radio Monitor</a></i> (defunct)</li>
+<li><a href="/wiki/List_of_Billboard_Hot_100_chart_achievements_and_milestones" title="List of Billboard Hot 100 chart achievements and milestones">List of <i>Billboard</i> Hot 100 chart achievements and milestones</a></li>
+<li><a href="/wiki/List_of_Billboard_Hot_100_chart_achievements_by_decade" title="List of Billboard Hot 100 chart achievements by decade">List of <i>Billboard</i> Hot 100 chart achievements by decade</a></li>
+<li><i><a href="/wiki/Music_%26_Media" title="Music &amp; Media">Music &amp; Media</a></i> (defunct)</li>
+<li><a href="/wiki/R%26R_(magazine)" title="R&amp;R (magazine)"><i>R&amp;R</i></a> (defunct)</li>
+<li><i><a href="/wiki/Billboard_Japan" title="Billboard Japan">Billboard Japan</a></i></li>
+<li><i><a href="/wiki/Billboard_Greece" title="Billboard Greece">Billboard Greece</a></i></li>
+<li><i><a href="/wiki/Billboard_T%C3%BCrkiye" title="Billboard Türkiye">Billboard Türkiye</a></i></li>
+<li><i><a href="/wiki/Billboard_Brasil" title="Billboard Brasil">Billboard Brasil</a></i> (defunct)
+<ul><li><a href="/wiki/Brasil_Hot_100_Airplay" class="mw-redirect" title="Brasil Hot 100 Airplay">Brasil Hot 100 Airplay</a> (replaced by Top 100 Brasil)</li></ul></li>
+<li><i><a href="/wiki/Billboard_En_Espa%C3%B1ol" title="Billboard En Español">Billboard En Español</a></i></li>
+<li><i><a href="/wiki/Billboard_K-Town" title="Billboard K-Town">Billboard K-Town</a></i>
+<ul><li><a href="/wiki/Timeline_of_K-pop_at_Billboard" title="Timeline of K-pop at Billboard">Timeline</a></li>
+<li><a href="/wiki/List_of_K-pop_on_the_Billboard_charts" title="List of K-pop on the Billboard charts">List of K-pop on the <i>Billboard</i> charts</a></li>
+<li><a href="/wiki/List_of_K-pop_albums_on_the_Billboard_charts" title="List of K-pop albums on the Billboard charts">Albums</a></li>
+<li><a href="/wiki/List_of_K-pop_songs_on_the_Billboard_charts" title="List of K-pop songs on the Billboard charts">Songs</a></li>
+<li><a href="/wiki/List_of_K-pop_on_the_Billboard_year-end_charts" title="List of K-pop on the Billboard year-end charts">Year-end</a></li></ul></li>
+<li><i><a href="/wiki/Billboard_Philippines" title="Billboard Philippines">Billboard Philippines</a></i> (defunct)</li>
+<li><i><a href="/wiki/Billboard_China" title="Billboard China">Billboard China</a></i></li>
+<li><a href="/wiki/Billboard_Twitter_Real-Time" title="Billboard Twitter Real-Time"><i>Billboard</i> Twitter Real-Time</a></li>
+<li><a href="/wiki/Uncharted_(chart)" title="Uncharted (chart)">Uncharted</a> (defunct)</li>
+<li><a href="/wiki/Joel_Whitburn" title="Joel Whitburn">Joel Whitburn</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1333
+Cached time: 20190925215026
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.332 seconds
+Real time usage: 0.426 seconds
+Preprocessor visited node count: 1439/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 105619/2097152 bytes
+Template argument size: 703/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49480/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.130/10.000 seconds
+Lua memory usage: 3.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  307.606      1 -total
+ 53.44%  164.394      1 Template:Reflist
+ 27.15%   83.504      4 Template:Cite_web
+ 12.19%   37.483      4 Template:Navbox
+ 11.57%   35.585      1 Template:Short_description
+ 10.60%   32.620      1 Template:Pagetype
+  8.11%   24.937      1 Template:As_of
+  6.67%   20.509      1 Template:Billboard
+  6.15%   18.912      4 Template:Cite_book
+  5.79%   17.810      4 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2867196-0!canonical and timestamp 20190925215025 and revision id 917531657
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hot_Country_Songs&amp;oldid=917531657">https://en.wikipedia.org/w/index.php?title=Hot_Country_Songs&amp;oldid=917531657</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:American_country_music" title="Category:American country music">American country music</a></li><li><a href="/wiki/Category:Billboard_charts" title="Category:Billboard charts">Billboard charts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_October_2018" title="Category:Articles containing potentially dated statements from October 2018">Articles containing potentially dated statements from October 2018</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hot+Country+Songs" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hot+Country+Songs" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hot_Country_Songs" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hot_Country_Songs" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hot_Country_Songs">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hot_Country_Songs&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hot_Country_Songs" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hot_Country_Songs" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hot_Country_Songs&amp;oldid=917531657" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hot_Country_Songs&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q862771" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hot_Country_Songs&amp;id=917531657" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hot+Country+Songs">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hot+Country+Songs&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hot_Country_Songs&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Billboard_Hot_Country_Songs" title="Billboard Hot Country Songs – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%95%AB_%EC%BB%A8%ED%8A%B8%EB%A6%AC_%EC%86%A1%EC%8A%A4" title="핫 컨트리 송스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Hot_Country_Songs" title="Hot Country Songs – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%85%AC%E5%91%8A%E7%89%8C%E7%83%AD%E9%97%A8%E4%B9%A1%E6%9D%91%E6%AD%8C%E6%9B%B2%E6%A6%9C" title="公告牌热门乡村歌曲榜 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q862771#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 07:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hot_Country_Songs&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.426","ppvisitednodes":{"value":1439,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105619,"limit":2097152},"templateargumentsize":{"value":703,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49480,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  307.606      1 -total"," 53.44%  164.394      1 Template:Reflist"," 27.15%   83.504      4 Template:Cite_web"," 12.19%   37.483      4 Template:Navbox"," 11.57%   35.585      1 Template:Short_description"," 10.60%   32.620      1 Template:Pagetype","  8.11%   24.937      1 Template:As_of","  6.67%   20.509      1 Template:Billboard","  6.15%   18.912      4 Template:Cite_book","  5.79%   17.810      4 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.130","limit":"10.000"},"limitreport-memusage":{"value":4065950,"limit":52428800}},"cachereport":{"origin":"mw1333","timestamp":"20190925215026","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hot Country Songs","url":"https:\/\/en.wikipedia.org\/wiki\/Hot_Country_Songs","sameAs":"http:\/\/www.wikidata.org\/entity\/Q862771","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q862771","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-09T03:48:20Z","dateModified":"2019-09-24T07:58:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/41\/Flagaline.jpg","headline":"Billboard chart"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":555,"wgHostname":"mw1333"});});</script>
+</body>
+</html>

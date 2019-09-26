@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Patrol torpedo boat PT-59 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Patrol_torpedo_boat_PT-59","wgTitle":"Patrol torpedo boat PT-59","wgCurRevisionId":917581091,"wgRevisionId":917581091,"wgArticleId":7605701,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["John F. Kennedy","World War II patrol vessels of the United States","PT boats","1941 ships"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Patrol_torpedo_boat_PT-59","wgRelevantArticleId":7605701,"wgRequestId":
+"XYtVLApAMFQAADk4ybIAAADD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Motor_Torpedo_Boat_PT-59","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Patrol_torpedo_boat_PT-59","wgWikibaseItemId":"Q6918162","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
+"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/1/1c/PT-59_before_conversion.jpeg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Patrol_torpedo_boat_PT-59"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Patrol_torpedo_boat_PT-59"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Patrol_torpedo_boat_PT-59 rootpage-Patrol_torpedo_boat_PT-59 skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Patrol torpedo boat <i>PT-59</i></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Motor_Torpedo_Boat_PT-59&amp;redirect=no" class="mw-redirect" title="Motor Torpedo Boat PT-59">Motor Torpedo Boat PT-59</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:25.5em;border-spacing:2px;">
+
+<tbody><tr>
+<td colspan="2" style="text-align:center;line-height:1.5em;"><a href="/wiki/File:PT-59_before_conversion.jpeg" class="image"><img alt="PT-59 before conversion.jpeg" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/300px-PT-59_before_conversion.jpeg" decoding="async" width="300" height="200" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/450px-PT-59_before_conversion.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/600px-PT-59_before_conversion.jpeg 2x" data-file-width="1033" data-file-height="689" /></a><div><i>PT-59</i> gunboat, October 1943</div>
+</td></tr><tr>
+<th colspan="2" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">History</th></tr><tr>
+<th height="30" colspan="2" style="background-color:#B0C4DE;text-align:left;padding-left:2px;vertical-align:middle;font-size:110%;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/54px-Flag_of_the_United_States_%281912-1959%29.svg.png" decoding="async" width="54" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/80px-Flag_of_the_United_States_%281912-1959%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/107px-Flag_of_the_United_States_%281912-1959%29.svg.png 2x" data-file-width="1235" data-file-height="650" /></span><span style="padding-left:1em">United States</span>
+</th></tr><tr style="vertical-align:top;"><td>Name:</td><td>
+<i>PT-59</i></td></tr><tr style="vertical-align:top;"><td>Builder:</td><td>
+<a href="/wiki/Electric_Launch_Company" title="Electric Launch Company">Electric Launch Company</a>, <a href="/wiki/Bayonne,_New_Jersey" title="Bayonne, New Jersey">Bayonne, New Jersey</a></td></tr><tr style="vertical-align:top;"><td>Laid down:</td><td>
+26 July 1941</td></tr><tr style="vertical-align:top;"><td>Launched:</td><td>
+8 October 1941</td></tr><tr style="vertical-align:top;"><td>Completed:</td><td>
+5 March 1942</td></tr><tr style="vertical-align:top;"><td>Fate:</td><td>
+Sold, 1947, Sunk, 1976</td></tr>
+<tr>
+<th colspan="2" height="30" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">General characteristics <sup id="cite_ref-navsource_1-0" class="reference"><a href="#cite_note-navsource-1">&#91;1&#93;</a></sup></th></tr><tr style="vertical-align:top;"><td>Class and type:</td><td>
+Elco 77-foot <a href="/wiki/PT_boat" title="PT boat">PT boat</a></td></tr><tr style="vertical-align:top;"><td>Displacement:</td><td>
+40 <a href="/wiki/Long_ton" title="Long ton">long tons</a> (41&#160;<a href="/wiki/Tonne" title="Tonne">t</a>)</td></tr><tr style="vertical-align:top;"><td>Length:</td><td>
+77&#160;ft (23&#160;m)</td></tr><tr style="vertical-align:top;"><td>Beam:</td><td>
+19&#160;ft 11&#160;in (6.07&#160;m)</td></tr><tr style="vertical-align:top;"><td>Draft:</td><td>
+4&#160;ft 6&#160;in (1.37&#160;m)</td></tr><tr style="vertical-align:top;"><td>Propulsion:</td><td>
+3 × 1,500&#160;shp (1,119&#160;kW) <a href="/wiki/Packard" title="Packard">Packard</a> V12 M2500 gasoline engines, 3 shafts</td></tr><tr style="vertical-align:top;"><td>Speed:</td><td>
+41 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (76&#160;km/h; 47&#160;mph)</td></tr><tr style="vertical-align:top;"><td>Complement:</td><td>
+15  as built, 18-20 as PT gunboat</td></tr><tr style="vertical-align:top;"><td>Armament:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;"><i><b>As built</b></i>:</li>
+<li style="padding-left: .4em; text-indent: -.4em;">4 × 18&#160;in (457&#160;mm) Mark 8 torpedoes</li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × twin .50 cal. <a href="/wiki/M2_Browning" title="M2 Browning">M2 Browning</a> <a href="/wiki/Machine_gun" title="Machine gun">machine guns</a> in Dewandre turrets</li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × .303 cal. <a href="/wiki/Lewis_gun" title="Lewis gun">Lewis guns</a></li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × depth charges</li>
+<li style="padding-left: .4em; text-indent: -.4em;"><i><b>As PT gunboat</b></i>:</li>
+<li style="padding-left: .4em; text-indent: -.4em;">6 × .50 cal. machine guns, three on each side</li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × <a href="/wiki/Bofors_40_mm" class="mw-redirect" title="Bofors 40 mm">40 mm guns</a> (fore and aft) suitable as anti-aircraft guns</li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × twin .50 cal. machine guns in elevated circular Dewandre turrets, behind and on each side of the cockpit<br />Also suitable as anti-aircraft</li>
+<li style="padding-left: .4em; text-indent: -.4em;">2 × single .30 cal. machine guns, forward of the cockpit, on each quarter<sup id="cite_ref-Hamilton_1992_610_2-0" class="reference"><a href="#cite_note-Hamilton_1992_610-2">&#91;2&#93;</a></sup></li>
+</ul></td></tr><tr style="vertical-align:top;"><td>Armor:</td><td>
+Gunboat on gunwales, gas tanks</td></tr>
+
+<tr>
+<th colspan="2" height="30" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Service record</th>
+</tr>
+<tr><td>Commanders:</td><td>
+<ul style="list-style:none none; margin:0;">
+<li style="padding-left: .4em; text-indent: -.4em;">Lt. David M. Levy (5/1942-11/1943)</li>
+<li style="padding-left: .4em; text-indent: -.4em;">Lt. <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a> (10/1943-11/1943)</li>
+</ul></td></tr>
+</tbody></table>
+<p><i><b>PT-59</b></i> was an S-Class Patrol Torpedo boat (PT boat) of the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>, built by the <a href="/wiki/Electric_Launch_Company" title="Electric Launch Company">Electric Launch Company</a> of <a href="/wiki/Bayonne,_New_Jersey" title="Bayonne, New Jersey">Bayonne, New Jersey</a>. The boat was laid down as <b>Motor Boat Submarine Chaser <i>PTC-27</i></b>, and was reclassified as <i><b>BPT-11</b></i> when assigned to transfer to Britain under <a href="/wiki/Lend-Lease" title="Lend-Lease">Lend-Lease</a>. However, this was cancelled, and she was reclassified as <i>PT-59</i> prior to launch on 8 October 1941, and was completed on 5 March 1942.<sup id="cite_ref-navsource_1-1" class="reference"><a href="#cite_note-navsource-1">&#91;1&#93;</a></sup>
+</p><p><i>PT-59</i> is noted for being the third command of <a href="/wiki/Lieutenant" title="Lieutenant">Lieutenant</a> <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a>, who served in the Solomon Islands, in the <a href="/wiki/Pacific_Ocean_theatre_of_World_War_II" class="mw-redirect" title="Pacific Ocean theatre of World War II">Pacific Theater</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a>.  Kennedy became President of the United States in 1960.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Service_history"><span class="tocnumber">1</span> <span class="toctext">Service history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1941_to_1943"><span class="tocnumber">1.1</span> <span class="toctext">1941 to 1943</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Under_Kennedy&#39;s_command"><span class="tocnumber">1.2</span> <span class="toctext">Under Kennedy's command</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Crew_of_PT-59_gunboat"><span class="tocnumber">1.3</span> <span class="toctext">Crew of <i>PT-59</i> gunboat</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Conversion_to_a_gunboat"><span class="tocnumber">1.3.1</span> <span class="toctext">Conversion to a gunboat</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Operation_Blissful"><span class="tocnumber">1.4</span> <span class="toctext">Operation Blissful</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Rescuing_trapped_Marines_near_Warrior_River"><span class="tocnumber">1.5</span> <span class="toctext">Rescuing trapped Marines near Warrior River</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Attacks_on_barges_and_shore_batteries"><span class="tocnumber">1.5.1</span> <span class="toctext">Attacks on barges and shore batteries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#After_Kennedy&#39;s_command"><span class="tocnumber">1.6</span> <span class="toctext">After Kennedy's command</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Fate"><span class="tocnumber">2</span> <span class="toctext">Fate</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Legacy"><span class="tocnumber">3</span> <span class="toctext">Legacy</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Awards"><span class="tocnumber">4</span> <span class="toctext">Awards</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Notes"><span class="tocnumber">4.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Bibliography"><span class="tocnumber">4.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Service_history">Service history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=1" title="Edit section: Service history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1941_to_1943">1941 to 1943</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=2" title="Edit section: 1941 to 1943">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>PT-59</i> was first assigned to Motor Torpedo Boat Squadron Four, the training squadron based at <a href="/wiki/Melville,_Rhode_Island" title="Melville, Rhode Island">Melville, Rhode Island</a>.<sup id="cite_ref-navsource_1-2" class="reference"><a href="#cite_note-navsource-1">&#91;1&#93;</a></sup>  On 9 April 1942, it accidentally fired a torpedo which hit the supply ship <a href="/wiki/USS_Capella_(AK-13)" title="USS Capella (AK-13)">USS&#160;<i>Capella</i></a>, causing eight injuries, but no deaths.<sup id="cite_ref-Bulkley-1962_3-0" class="reference"><a href="#cite_note-Bulkley-1962-3">&#91;3&#93;</a></sup>
+</p><p>It was transferred to Motor Torpedo Boat Squadron Two on 7 May 1942.<sup id="cite_ref-navsource_1-3" class="reference"><a href="#cite_note-navsource-1">&#91;1&#93;</a></sup> At the end of May 1942, <a href="/wiki/Ensign_(rank)" title="Ensign (rank)">Ensign</a> David M. Levy took over <i>PT-59</i> and the Squadron was sent to <a href="/wiki/Panama" title="Panama">Panama</a>. They were to guard the canal and the Central and South American coast on anti-submarine duty. In October 1942 <i>PT-59</i> departed for the <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">South Pacific</a> on board the <a href="/wiki/Liberty_ship" title="Liberty ship">Liberty ship</a> SS <i>Roger Williams</i>. In November 1942 <i>PT-59</i> arrived at the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomons</a> with MTB Squadron 2, numbering 8 boats. The Squadron was based at Sesapi on <a href="/wiki/Tulagi" title="Tulagi">Tulagi</a> Island.<sup id="cite_ref-Bulkley-1962_3-1" class="reference"><a href="#cite_note-Bulkley-1962-3">&#91;3&#93;</a></sup>
+</p><p>On the night of 9 December, Lt. (jg.) John M. Searles USNR, in the <i>59</i>, patrolling with <i>PT-44</i> at Kamimbo Bay, sighted an enemy barge. As the PT's opened fire on the barge, Searles saw a surfaced submarine. He quickly fired two torpedoes, one of which hit amidships. A geyser of water spouted high in the air, followed by tremendous explosions and a huge oil slick that spread for an hour and a half. It has been confirmed that Searles sank the submarine I-3, a vessel 320 feet long, of 1,955 tons standard surface displacement.<sup id="cite_ref-Bulkley-1962_3-2" class="reference"><a href="#cite_note-Bulkley-1962-3">&#91;3&#93;</a></sup>
+</p><p>In March 1943 <i>PT-59</i> was moved forward to the <a href="/wiki/Russell_Islands" title="Russell Islands">Russell Islands</a>. In the fall of 1943 David M. Levy returned to the United States and was succeeded by <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">LTJG John F. "Jack" Kennedy</a> as commanding officer of <i>PT-59</i>.
+</p>
+<h3><span id="Under_Kennedy.27s_command"></span><span class="mw-headline" id="Under_Kennedy's_command">Under Kennedy's command</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=3" title="Edit section: Under Kennedy&#039;s command">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In September 1943, Kennedy took command of <i>PT-59</i>.<sup id="cite_ref-FOOTNOTEDoyle2015181_4-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015181-4">&#91;4&#93;</a></sup> He chose to stay and fight in the Pacific Theater (PTO) after his second command, <a href="/wiki/Motor_torpedo_boat_PT-109" class="mw-redirect" title="Motor torpedo boat PT-109"><i>PT-109</i></a> was rammed and sunk by the Japanese destroyer&#32;<a href="/wiki/Japanese_destroyer_Amagiri_(1930)" title="Japanese destroyer Amagiri (1930)"><i>Amagiri</i></a> on the early morning of 2 August 1943, though he had the right by Navy custom to be returned to the states.<sup id="cite_ref-awfp_5-0" class="reference"><a href="#cite_note-awfp-5">&#91;5&#93;</a></sup>  At 74 feet, the <i>PT-59</i> was three feet shorter than the <i>PT-109</i>, but it would soon bristle with far more and heavier guns and armament, which required a larger crew to operate.<sup id="cite_ref-awfp_5-1" class="reference"><a href="#cite_note-awfp-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Crew_of_PT-59_gunboat">Crew of <i>PT-59</i> gunboat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=4" title="Edit section: Crew of PT-59 gunboat">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><b>John F. Kennedy</b>, Lieutenant, Commanding Officer (Boston, Massachusetts).</li>
+<li><b>Robert Lee "Dusty" Rhoads</b>, Lieutenant JG, Executive Officer, helped test armor of PT gunboat</li>
+<li><b>I.J. Mitchell</b>, Ensign, Gunnery Officer, former skipper of <i>PT-21</i> that had been lost running aground on a coral reef</li>
+<li><b>Glen Christiansen</b>, Chief Gunner's Mate, formerly sunk at Pearl Harbor<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li><b>John E. Maguire</b>, Radioman 2/c (RM2), previously sunk on <i>PT-109</i>, (Dobbs Ferry, New York).</li>
+<li><b>Edman Edgar Mauer</b>, Quartermaster 3/c (QM3), previously sunk on <i>PT-109</i>, (St. Louis, Missouri).</li>
+<li><b>Edmund Drewich</b>, had crewed on the <i>109</i>, but not on the night it was lost</li>
+<li><b>John Klee</b>, Gunner's Mate, who crewed on the <i>59</i> in November, and was likely present at the rescue at Choiseul<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li><b>Maurice Kowal</b>, had crewed on the <i>109</i>, but not on the night it was lost. He was later appointed to a National Park Service job by Kennedy as President.<sup id="cite_ref-FOOTNOTEDoyle2015271_8-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015271-8">&#91;8&#93;</a></sup></li>
+<li><b>Leon Drawdy</b>, had crewed on the <i>109</i>, but not on the night it was lost</li>
+<li>Five additional crew were assigned by Lieutenant Alvin Cluster, from the lost and scrapped <i>PT-21</i><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
+<h4><span class="mw-headline" id="Conversion_to_a_gunboat">Conversion to a gunboat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=5" title="Edit section: Conversion to a gunboat">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:332px;"><a href="/wiki/File:PT-59_before_conversion.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/330px-PT-59_before_conversion.jpeg" decoding="async" width="330" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/495px-PT-59_before_conversion.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1c/PT-59_before_conversion.jpeg/660px-PT-59_before_conversion.jpeg 2x" data-file-width="1033" data-file-height="689" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PT-59_before_conversion.jpeg" class="internal" title="Enlarge"></a></div><i>PT-59</i> gunboat, note the heavy 40 mm gun at left end of boat, tall radar mast near center, elevated twin 50 cal (two barrels), center, below flag, and three shields for 50 cals from center to front, smoke generator extreme left</div></div></div>
+<p>On Tulagi Island, under Kennedy's supervision and with his help, <i>PT-59</i> had all four of her torpedo tubes removed, as well as her two depth charges, and was converted into a more powerful gunboat. She retained two heavy 40-millimeter Bofors cannon anti-aircraft guns now fitted fore and aft.  The refit also added six .50-caliber machine gun nests, with three on each side, behind shields. Shielded twin fifty caliber machine guns were placed behind and on each side of the cockpit elevated on circular mounts, and by some accounts, 2 additional thirty caliber machine guns forward of the cockpit in the front of the boat on each side.  The higher caliber guns were added to increase range and power and to make the <i>59</i> more effective against both Japanese barge traffic, which had powerful guns, and heavy caliber Japanese land and shore based garrisons. Admiral <a href="/wiki/William_Halsey" class="mw-redirect" title="William Halsey">William Halsey</a>, and other high ranking Naval officers, had concluded that the torpedo tubes and Mark 8 torpedoes assigned the old PT's, were highly unreliable, inaccurate, and the torpedoes very rarely hit their mark against larger craft, particularly Japanese destroyers and cruisers.  The new PT gunboat was given slightly higher quality radar, and a taller radar mast that could, in theory, boost reception and transmission to 75 miles (121&#160;km).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>  Kennedy lived on the boat during its refit, and worked extremely hard according to Lieutenant Alvin Cluster, who admitted "I never saw a guy work harder, longer hours".  Kennedy's gunboat, sometimes referred to as <i>PT-0001</i> was the first completed, and it carefully followed the design and planning of both Kennedy and squadron commander Cluster.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Another PT gunboat was given to Lenny Thom, who helped in the refit, and later commanded.  Thom had been Kennedy's former executive officer on <i>PT-109</i>.<sup id="cite_ref-Hamilton_1992_610_2-1" class="reference"><a href="#cite_note-Hamilton_1992_610-2">&#91;2&#93;</a></sup> 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:PT-59engineroom.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/63/PT-59engineroom.jpg/200px-PT-59engineroom.jpg" decoding="async" width="200" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/63/PT-59engineroom.jpg/300px-PT-59engineroom.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/63/PT-59engineroom.jpg/400px-PT-59engineroom.jpg 2x" data-file-width="960" data-file-height="792" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PT-59engineroom.jpg" class="internal" title="Enlarge"></a></div><i>PT-59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s cramped engine room</div></div></div>
+<p>Both sides of <i>PT-59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s highly flammable 3000 gallon gas tanks, housed below decks and immediately behind the cockpit,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> and the very top edge of the side of the boat (gunwales) were enforced with armor plate to protect them from return fire.  Kennedy was aware that the PT's wooden hulls without armor plating could not withstand even a single bullet or bomb fragment, and that the tiniest shard of hot metal could ignite the gas tanks, instantly destroying the boat and crew.<sup id="cite_ref-FOOTNOTEDoyle2015181_4-1" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015181-4">&#91;4&#93;</a></sup> The <i>59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s crew set up some of the armor for live fire tests and found they could be breached at short range with .30 and .50-caliber machine guns at a frontal angle.<sup id="cite_ref-FOOTNOTEDonovan2001167,_169,_173_13-0" class="reference"><a href="#cite_note-FOOTNOTEDonovan2001167,_169,_173-13">&#91;13&#93;</a></sup> On 7 October 1943, the five week redesign of <i>PT-59</i> was completed, and on the following day Kennedy was promoted to full lieutenant. A total of five former crewmen of <i>PT-109</i> joined Kennedy's crew on <i>PT-59</i>.<sup id="cite_ref-FOOTNOTEDoyle2015182_14-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015182-14">&#91;14&#93;</a></sup>
+</p><p>Kennedy's new executive officer was Lt. (jg) Robert Lee "Dusty" Rhoads. Rhoads later stated he was impressed that so many men from <i>PT-109</i> followed Kennedy over to his new command.  Kennedy's loss of the <i>109</i> was not viewed as a shortcoming by his crew, many of whom had been on other craft that had sunk or been run aground.<sup id="cite_ref-FOOTNOTEDoyle2015182_14-1" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015182-14">&#91;14&#93;</a></sup>  Two other gunboats were completed, in addition to the <i>59</i>.  The plan was to attach one of the three new gunboats to each PT boat section to add firepower and range, though the extra armor and guns reduced the speed of the gunboats.<sup id="cite_ref-FOOTNOTEDoyle2015187_15-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015187-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Operation_Blissful">Operation Blissful</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=6" title="Edit section: Operation Blissful">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Blissfull.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d8/Blissfull.png/130px-Blissfull.png" decoding="async" width="130" height="148" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d8/Blissfull.png/195px-Blissfull.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d8/Blissfull.png/260px-Blissfull.png 2x" data-file-width="437" data-file-height="499" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Blissfull.png" class="internal" title="Enlarge"></a></div>Lt. Col. Krulak, Operation Blissful</div></div></div>
+<p>Operation Blissful was a diversionary raid on Choiseul Island by Marine forces led by Lt. Col. <a href="/wiki/Victor_H._Krulak" title="Victor H. Krulak">Victor H. Krulak</a>, on 28 October 1943.  It was hoped that the raid would convince the Japanese that they needed to send more troops to Choiseul from Bougainville—the Allies' real objective because of its airfields.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Some of Krulak's Marines were trapped in early November near the base of Choiseul's Warrior River requiring the assistance of PTs.
+</p><p>On 18 October 1943, as American Marine paratroopers first landed on Choiseul Island as a diversionary tactic, <i>PT-59</i> and crew were ordered to move northwest from their base on Tulagi, to Lambu Lambu Cove, on <a href="/wiki/Vella_Lavella" title="Vella Lavella">Vella Lavella</a> Island, a new advanced PT boat base.  Over the next month, Kennedy's <i>PT-59</i> gunboat took part in thirteen patrols initially expected to discourage Japanese barge traffic in the north of Choiseul Island. Kennedy described his month on patrol with the <i>PT-59</i> as "packed with a great deal in the way of death".<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Constantly tracked by aircraft, Kennedy's refitted <i>PT-59</i> gunboat escaped from bombs dropped by Japanese floatplanes on 26 October, though one bomb landed only 150 yards away.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-FOOTNOTEDoyle2015176_20-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015176-20">&#91;20&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rescuing_trapped_Marines_near_Warrior_River">Rescuing trapped Marines near Warrior River</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=7" title="Edit section: Rescuing trapped Marines near Warrior River">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ChoiseulMap.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChoiseulMap.jpg/220px-ChoiseulMap.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChoiseulMap.jpg/330px-ChoiseulMap.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/ChoiseulMap.jpg/440px-ChoiseulMap.jpg 2x" data-file-width="950" data-file-height="625" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ChoiseulMap.jpg" class="internal" title="Enlarge"></a></div>Map of Choiseul raid and rescue, Warrior River in the North near Redman Island, Voza southeast, and Krulak's attack at bottom</div></div></div>
+<p>On the evening of 1 November 1943, Kennedy was asked by Lt. Arthur Berndsten, the temporary base commander at Lambu Lambu, on the northeast side of Vella Lavella Island, if he would take <i>PT-59</i> to support a rescue operation around 65 miles (105&#160;km) north near the base of <a href="/wiki/Choiseul_Island" title="Choiseul Island">Choiseul Island</a>'s Warrior River. Berndsten had been contacted by Krulak, the leader of Operation Blissful, who had requested rescue for his trapped Marines. Berndsten had formerly skippered <i>PT-171</i> when it helped in the rescue of Kennedy and his <i>109</i> crew the previous August.
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:242px;"><a href="/wiki/File:PT-59_at_Choiseul_Rescue.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/61/PT-59_at_Choiseul_Rescue.jpg/240px-PT-59_at_Choiseul_Rescue.jpg" decoding="async" width="240" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/61/PT-59_at_Choiseul_Rescue.jpg/360px-PT-59_at_Choiseul_Rescue.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/61/PT-59_at_Choiseul_Rescue.jpg/480px-PT-59_at_Choiseul_Rescue.jpg 2x" data-file-width="850" data-file-height="605" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PT-59_at_Choiseul_Rescue.jpg" class="internal" title="Enlarge"></a></div><i>PT-59</i> (front view) was low on gas at the Choiseul rescue, in view are a 40 mm Bofors, and twin .50 Brownings</div></div></div><p>
+Choiseul Island was a very new Allied target, made as the Navy and Marines pushed farther northwest to territories in the Solomon's formerly held by the Japanese.  With time of the essence, Kennedy was not allowed to fully re-fuel his boat. Berndsten knew Kennedy did not have enough fuel to make the trip there and back with his gas tanks less than a third full, around seven hundred gallons, so he sent two additional PT's to accompany him and provide support if necessary.<sup id="cite_ref-FOOTNOTEDoyle2015188_21-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015188-21">&#91;21&#93;</a></sup> Completing their Northbound route to Choiseul, <i>PT-59</i> first arrived near the shore of the Marine outpost at Voza Village and picked up Kennedy's friend from Rendova, Lieutenant Richard Keresey and Lt. Col. Victor Krulak, leader of operation Blissful, who acted as guides. Both officers were picked up from a landing craft near the shore.  Motoring around 25 miles (40&#160;km) further northwest, and following Choiseul's coastline, the <i>59</i> arrived in the rain and darkness at the base of the Warrior River around 6:00&#160;p.m. on 1 November, and helped personnel landing craft evacuate 40 to 50 Marines from a company led by Marine Major Warren T. Bigger. </p><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:59officer%27s_quarters.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/59officer%27s_quarters.jpeg/220px-59officer%27s_quarters.jpeg" decoding="async" width="220" height="181" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/2e/59officer%27s_quarters.jpeg/330px-59officer%27s_quarters.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/2e/59officer%27s_quarters.jpeg/440px-59officer%27s_quarters.jpeg 2x" data-file-width="960" data-file-height="790" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:59officer%27s_quarters.jpeg" class="internal" title="Enlarge"></a></div>PT-59 Officer's Quarters where Corporal Schnell and Kennedy bunked in 1943</div></div></div>
+<p>Several Marines were wounded, and came from the 2nd Parachute Battalion of the <a href="/wiki/Paramarines" title="Paramarines">1st Marine Parachute Regiment</a> that had been lost in the jungle and trapped by Japanese shore fire during the recent <a href="/wiki/Raid_on_Choiseul" title="Raid on Choiseul">raid on Choiseul Island</a>, still in progress. The trapped Marines originally numbered around 87, and had opposed as many as 900 Japanese during the height of the fighting.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Kennedy was reluctant to have his gunners fire on the shoreline, afraid of hitting one of the Marines hoping to evacuate.  The <i>59</i> acted as a shield, positioning itself between the Japanese shore battery and both the escaping Marines in the water, and one landing craft containing Marines, 250 yards from shore, that had been damaged after running aground on the coral reef. <i>PT-59</i> took aboard ten Marines near the crippled craft and fed them canned peaches, the first meal they had had in days.  Three Marines were wounded, including a mortally wounded Corporal Schnell who died in Kennedy's bunk that night, attended by his Marine doctor, who Kennedy had also picked up.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:59large40cal.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/72/59large40cal.jpeg/220px-59large40cal.jpeg" decoding="async" width="220" height="179" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/72/59large40cal.jpeg/330px-59large40cal.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/7/72/59large40cal.jpeg 2x" data-file-width="350" data-file-height="285" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:59large40cal.jpeg" class="internal" title="Enlarge"></a></div>One of <i>PT-59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s large 40 mm</div></div></div>   
+<p>Kennedy's PT may have slowly departed the rescue site by the Warrior River, as she held the extra weight of ten Marines.  Several of the Marines that were not wounded held on to gun mounts to steady themselves as the <i>59</i> departed.  The two PT's, including Kennedy's, then escorted the slow-moving landing craft they had shielded from fire back to Voza, and when it was clear they would safely reach their destination, they left the landing craft and returned to their base at Lambu Lambu.
+</p><p>With their speed and maneuverability, the mission demonstrated the <i>PTs</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span> suitability for search and rescue operations, their greatest strength throughout the war.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-FOOTNOTEDonovan2001176–184_25-0" class="reference"><a href="#cite_note-FOOTNOTEDonovan2001176–184-25">&#91;25&#93;</a></sup>  Around 3:00&#160;a.m. on 2 November, <i>PT-59</i> ran out of gas about halfway back to Lambu Lambu and had to be towed by <i>PT-236</i>.<sup id="cite_ref-FOOTNOTEDoyle2015190_26-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015190-26">&#91;26&#93;</a></sup>  Both <i>PT</i>s were vulnerable to Japanese airstrikes during the slow towing process, and Kennedy called for air support.  To Kennedy's dismay, all of the 4-6 Australian P-40's that responded to provide cover were eventually shot down.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>On the evening of 3 November, Kennedy's <i>59</i> gunboat and four other craft motored around 45 miles (72&#160;km) from Lambu Lambu back to the Marine base at Voza Village and screened and escorted several landing craft that carried additional Marines back to Vella Lavella Island.<sup id="cite_ref-Hamilton_1992_621–622_28-0" class="reference"><a href="#cite_note-Hamilton_1992_621–622-28">&#91;28&#93;</a></sup>  Kennedy's <i>59</i> and several other PT's arrived in darkness at Voza around 11:30&#160;p.m. and interspersed themselves around the landing craft waiting to pick up the Marines.  The Japanese were stationed near the shore, and began setting off booby traps.  By around 1:50&#160;a.m., the Marines began boarding the landing craft, having been ordered to withdraw by Lt. Col. Krulak, who was concerned the Japanese might begin to mortar his troops.  When the Marines had fully boarded the landing crafts, the <i>59</i> and other <i>PT</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s escorted them around 45 miles (72&#160;km) back to Vella Lavella island.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>Operation Blissfull's diversionary raid on Choiseul was for the most part, a success. The Japanese sent reinforcements to Choiseul, delaying reaction to the Allied Bougainville landing. The Choiseul operation destroyed several hundred tons of enemy fuel and supplies, sank two barges, and destroyed the barge station at Sangigai,Choiseul, disrupting Japanese barge traffic along the coast of Choiseul.
+</p>
+<h4><span class="mw-headline" id="Attacks_on_barges_and_shore_batteries">Attacks on barges and shore batteries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=8" title="Edit section: Attacks on barges and shore batteries">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Solomon_Islands_Campaign.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Solomon_Islands_Campaign.jpg/220px-Solomon_Islands_Campaign.jpg" decoding="async" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Solomon_Islands_Campaign.jpg/330px-Solomon_Islands_Campaign.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Solomon_Islands_Campaign.jpg/440px-Solomon_Islands_Campaign.jpg 2x" data-file-width="2100" data-file-height="1423" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Solomon_Islands_Campaign.jpg" class="internal" title="Enlarge"></a></div>Choiseul, Vella Lavella Islands near 9/25/1943 line</div></div></div>
+<p>At 5:30 a.m on 5 November, <i>PT-59</i>, accompanied by two other PT's, destroyed three Japanese barges they found beached on Moli Island on the Northeast coast of Choiseul Island, near the base of the Warrior River. Though the barges were believed to be unmanned, they would likely never return to duty.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>  Attacking manned barges required the superior use of firepower, and then a quick retreat, and were usually brief, but important actions as barges could ferry both troops and supplies.
+</p><p>On the night of 11 November, Kennedy's <i>59</i> gunners fired at two Japanese armored barges emerging from the Warrior River on Choiseul, but they quickly fled.  Barge traffic in the vicinity had begun to diminish slightly by this period in the Solomon campaign as thousands of exhausted Japanese troops on Choiseul began to hope for evacuation northwest to Bouganville Island.<sup id="cite_ref-FOOTNOTEDoyle2015181–189_31-0" class="reference"><a href="#cite_note-FOOTNOTEDoyle2015181–189-31">&#91;31&#93;</a></sup><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:BlissfullChoiseulmap.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7d/BlissfullChoiseulmap.jpeg/220px-BlissfullChoiseulmap.jpeg" decoding="async" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7d/BlissfullChoiseulmap.jpeg/330px-BlissfullChoiseulmap.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7d/BlissfullChoiseulmap.jpeg/440px-BlissfullChoiseulmap.jpeg 2x" data-file-width="799" data-file-height="605" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:BlissfullChoiseulmap.jpeg" class="internal" title="Enlarge"></a></div>Japanese troop strength on Choiseul.  Note Vella Lavella Island below, Voza near center, above the word Choiseul, and Moli I. above Voza</div></div></div>
+<p>On 13 November, <i>PT-59</i> had success shelling Sipassa and Guppy Island at the mouth of <a href="/wiki/Choiseul_Bay" title="Choiseul Bay">Choiseul Bay</a>, only 2–3 miles northwest of the Warrior River, shown in map at right.  According to Christiansen, the <i>59</i> then saw the flash of a muzzle farther back on the high bluffs of the Warrior River on northern Choiseul Island during return fire, and pinpointed heavy automatic fire at the flash, likely knocking out the shore battery.  Flushed with his successes, Kennedy, developed a plan for a daylight raid up the Choiseul's Warrior River, shown in the raid on Choiseul map, above.  The concept of a daylight raid was rejected by both his Chief Petty Officer, Christiansen, and his senior squadron commander, Lieutenant Alvin Cluster, who considered the plan risky to the extreme.  Though the Warrior River acted as a base of operations for many of their barges, it was fortified by large numbers of Japanese shore batteries, and would have been a deadly mission in daylight.<sup id="cite_ref-Hamilton_1992_621–622_28-1" class="reference"><a href="#cite_note-Hamilton_1992_621–622-28">&#91;28&#93;</a></sup> As evidenced by his plan for a daylight raid, many of the <i>59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s crew were concerned that Kennedy volunteered for the riskiest missions and constantly sought out danger, but they were usually willing participants.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p><p>Cluster gave Kennedy a perfect 4.0 for his leadership as <i>PT-59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s commanding officer, writing that Kennedy "demonstrated a cool effectiveness under fire and exhibited good judgement and determination in entirely strange conditions."<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>  With Kennedy suffering from a host of ailments, Cluster relieved him of command on 18 November, after a routine patrol off Redman Island in Choiseul Bay.  Kennedy had lost twenty pounds in the three previous months and had put back little of the weight, weighing only around 145 pounds at six feet of height.  In Lambu Lambu's hospital, Dr. Wharton, concerned about Jack's worsening back problems and continued weight loss, diagnosed "chronic disk disease" and colitis, and passed the news to Cluster who worked to get Kennedy back to the states.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>  First sent to Tulagi for medical care and diagnosis, Kennedy was sent home to the States on 23 December 1943, aboard the <i>USS Breton</i>, and arrived in San Francisco on 7 January.  He obtained a Navy desk job at the Submarine Chaser Training Center in Miami in March, was back in the hospital by May, and was finally given an honorable discharge in December 1944.  After working as a journalist, he would begin his run for the House of Representatives in 1946, using his war time experience as a major feature of his candidacy.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h3><span id="After_Kennedy.27s_command"></span><span class="mw-headline" id="After_Kennedy's_command">After Kennedy's command</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=9" title="Edit section: After Kennedy&#039;s command">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>PT-59</i> remained in the Solomons until August 1944, when she and five other 77-ft Elco PT boats, including <i>PT-36</i> and <i>PT-47</i> were transported back to the <a href="/wiki/Motor_Torpedo_Boat_Squadrons_Training_Center" title="Motor Torpedo Boat Squadrons Training Center">Motor Torpedo Boat Squadrons Training Center</a> at <a href="/wiki/Melville,_Rhode_Island" title="Melville, Rhode Island">Melville</a>, <a href="/wiki/Rhode_Island" title="Rhode Island">Rhode Island</a>.  It is safe to assume repairs were performed on the boat by the MTB Base Repair Training Unit. <i>PT-59</i> was redesignated as a "Small Boat" and renumbered C102583 on 14 October 1944, and along with ex-<i>PT-47</i>, used briefly as a <a href="/wiki/Crash_rescue_boat" title="Crash rescue boat">crash rescue boat</a> at <a href="/wiki/NAS_Norfolk" class="mw-redirect" title="NAS Norfolk">NAS Norfolk</a>, before being transferred to the <a href="/wiki/Philadelphia_Navy_Yard" class="mw-redirect" title="Philadelphia Navy Yard">Philadelphia Navy Yard</a> on 15 December 1944 to serve as a test subject for dehydration tests. Surveyed on 21 March 1947, she was then stricken and sold.
+</p>
+<h2><span class="mw-headline" id="Fate">Fate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=10" title="Edit section: Fate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:182px;"><a href="/wiki/File:PT-159_HarlemRiver.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/PT-159_HarlemRiver.jpeg/180px-PT-159_HarlemRiver.jpeg" decoding="async" width="180" height="137" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/PT-159_HarlemRiver.jpeg/270px-PT-159_HarlemRiver.jpeg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/PT-159_HarlemRiver.jpeg/360px-PT-159_HarlemRiver.jpeg 2x" data-file-width="362" data-file-height="276" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PT-159_HarlemRiver.jpeg" class="internal" title="Enlarge"></a></div>PT-59, converted to fishing boat, decaying in Harlem River</div></div></div>
+<p><i>PT-59</i> quietly ended her days in the 1970s after having served as a fishing boat in <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a>. Because the <i>59</i> was thought the former <i>PT-95</i>, a 78-foot <a href="/wiki/Huckins_Yacht_Corporation" title="Huckins Yacht Corporation">Huckins</a> PT boat of very different design, no efforts were made to save or salvage her. The actual <i>PT-95</i> had been destroyed in Newport, Rhode Island, after her services were no longer needed, in September 1945. When the actual identity of the fishing boat was discovered, James "Boat" Newberry, founder of PT Boats Inc., attempted to obtain her; however, her ownership was tangled up in <a href="/wiki/New_York_City" title="New York City">NYC</a> <a href="/wiki/Probate_court" title="Probate court">probate court</a>. After an unexpected fire, the boat sunk at its mooring, beside the <a href="/wiki/University_Heights_Bridge" title="University Heights Bridge">207th St. Bridge</a> over the <a href="/wiki/Harlem_River" title="Harlem River">Harlem River</a>, around 1976. The hull sat for years and slowly rotted away.<sup id="cite_ref-kaplan-nyp_37-0" class="reference"><a href="#cite_note-kaplan-nyp-37">&#91;37&#93;</a></sup>
+</p><p>In May 2017, Kennedy biographer William Doyle announced preliminary explorations in the Harlem River near 208th Street indicated a strong possibility that <i>PT-59</i> could be found and recovered. He is looking to raise funds from Kennedy focused organizations to fully explore the area.<sup id="cite_ref-kaplan-nyp_37-1" class="reference"><a href="#cite_note-kaplan-nyp-37">&#91;37&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=11" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Byron_White" title="Byron White">Byron "Whizzer" White</a> served as Deputy Attorney General under Kennedy who later appointed White as an Associate Justice to the Supreme Court in the early 1960s.  White had acted as the intelligence officer for Commander Thomas Warfield, Kennedy's commanding officer while he served in Rendova, and had investigated the sinking of the <i>PT-109</i>.  He joined Kennedy on several patrols of <i>PT-59</i>, while Kennedy captained the boat from Lambda Lambda.  Kennedy appointed Paul Burgess ("Red") Fay Jr., skipper of <i>PT-167</i>, as Under Secretary of the Navy.  Several of the crew of PT-109 rode on a patrol boat float at his inauguration.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>  In 1948, as a member of the House of Representatives, Kennedy came out strongly in favor of retaining the Marines as a separate division of the armed services.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=12" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/American_Campaign_Medal" title="American Campaign Medal">American Campaign Medal</a></li>
+<li><a href="/wiki/Asiatic-Pacific_Campaign_Medal" class="mw-redirect" title="Asiatic-Pacific Campaign Medal">Asiatic-Pacific Campaign Medal</a> with three <a href="/wiki/Battle_stars" class="mw-redirect" title="Battle stars">battle stars</a></li>
+<li><a href="/wiki/World_War_II_Victory_Medal" class="mw-redirect" title="World War II Victory Medal">World War II Victory Medal</a></li></ul>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-navsource-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-navsource_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-navsource_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-navsource_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-navsource_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Radigan, Joseph M. (2012). <a rel="nofollow" class="external text" href="http://www.navsource.org/archives/12/05059.htm">"PT-59"</a>. <i>navsource.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=navsource.org&amp;rft.atitle=PT-59&amp;rft.date=2012&amp;rft.aulast=Radigan&amp;rft.aufirst=Joseph+M.&amp;rft_id=http%3A%2F%2Fwww.navsource.org%2Farchives%2F12%2F05059.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Hamilton_1992_610-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hamilton_1992_610_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hamilton_1992_610_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, p.&#160;610</span>
+</li>
+<li id="cite_note-Bulkley-1962-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bulkley-1962_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bulkley-1962_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Bulkley-1962_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Bulkley, Captain Robert J., Jr. (1962). <a rel="nofollow" class="external text" href="http://www.ibiblio.org/hyperwar/USN/CloseQuarters/PT-3.html"><i>At Close Quarters PT Boats in the United States Navy</i></a>. Washington, D.C.: HyperWar Foundation. Part III Guadalcanal and Beyond -- The Solomons Campaign<span class="reference-accessdate">. Retrieved <span class="nowrap">18 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=At+Close+Quarters+PT+Boats+in+the+United+States+Navy&amp;rft.place=Washington%2C+D.C.&amp;rft.pages=Part+III+Guadalcanal+and+Beyond+--+The+Solomons+Campaign&amp;rft.pub=HyperWar+Foundation&amp;rft.date=1962&amp;rft.aulast=Bulkley&amp;rft.aufirst=Captain+Robert+J.%2C+Jr.&amp;rft_id=http%3A%2F%2Fwww.ibiblio.org%2Fhyperwar%2FUSN%2FCloseQuarters%2FPT-3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015181-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDoyle2015181_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDoyle2015181_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;181.</span>
+</li>
+<li id="cite_note-awfp-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-awfp_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-awfp_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120707022241/http://www.americanwarriorsfivepresidents.com/">"American Warriors: Five Presidents in the Pacific Theater of World War II"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.americanwarriorsfivepresidents.com/">the original</a> on 2012-07-07.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Warriors%3A+Five+Presidents+in+the+Pacific+Theater+of+World+War+II&amp;rft_id=http%3A%2F%2Fwww.americanwarriorsfivepresidents.com%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, pp.&#160;610, 613</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, p.&#160;182</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015271-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015271_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;271.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, pp.&#160;610–611</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, pp.&#160;608–612</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Kennedy helped add the guns himself in <a href="#CITEREFDoyle2015">Doyle 2015</a>, pp.&#160;181–183</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">3000 gallons of fuel in <a href="#CITEREFFleming2011">Fleming 2011</a>, p.&#160;17</span>
+</li>
+<li id="cite_note-FOOTNOTEDonovan2001167,_169,_173-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDonovan2001167,_169,_173_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDonovan2001">Donovan 2001</a>, pp.&#160;167, 169, 173.</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015182-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEDoyle2015182_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEDoyle2015182_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;182.</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015187-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015187_15-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;187.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFBradsher2010" class="citation journal">Bradsher, Greg (2010). "Operation Blissful". <i>Prologue Magazine</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Prologue+Magazine&amp;rft.atitle=Operation+Blissful&amp;rft.date=2010&amp;rft.aulast=Bradsher&amp;rft.aufirst=Greg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="#CITEREFBradsher2010">Bradsher 2010</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a href="#CITEREFFleming2011">Fleming 2011</a>, p.&#160;21</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, pp.&#160;608–612, 620</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015176-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015176_20-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;176.</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015188-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015188_21-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;188.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="#CITEREFFleming2011">Fleming 2011</a>, p.&#160;25</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Kennedy picked up Krulak and Keresey in <a href="#CITEREFBradsher2010">Bradsher 2010</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Search and rescue in <a href="#CITEREFFleming2011">Fleming 2011</a>, p.&#160;22</span>
+</li>
+<li id="cite_note-FOOTNOTEDonovan2001176–184-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDonovan2001176–184_25-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDonovan2001">Donovan 2001</a>, pp.&#160;176–184.</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015190-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015190_26-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;190.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Called for air support in <a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;190</span>
+</li>
+<li id="cite_note-Hamilton_1992_621–622-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hamilton_1992_621–622_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hamilton_1992_621–622_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, pp.&#160;621–622</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Marines left Voza around 1:50 a.m. on 3 November in <a href="#CITEREFBradsher2010">Bradsher 2010</a></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, p.&#160;621</span>
+</li>
+<li id="cite_note-FOOTNOTEDoyle2015181–189-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEDoyle2015181–189_31-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, pp.&#160;181–189.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Fired at two escaping barges in <a href="#CITEREFHamilton1992">Hamilton 1992</a>, p.&#160;621</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Riskiest missions in <a href="#CITEREFFleming2011">Fleming 2011</a>, p.&#160;25</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, pp.&#160;191–192</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><a href="#CITEREFHamilton1992">Hamilton 1992</a>, p.&#160;631</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a href="#CITEREFDoyle2015">Doyle 2015</a>, p.&#160;194</span>
+</li>
+<li id="cite_note-kaplan-nyp-37"><span class="mw-cite-backlink">^ <a href="#cite_ref-kaplan-nyp_37-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kaplan-nyp_37-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Kaplan, Michael (27 May 2017). <a rel="nofollow" class="external text" href="https://nypost.com/2017/05/27/jfks-wwii-boat-may-be-at-the-bottom-of-the-harlem-river/">"JFK's WWII boat may be at the bottom of the Harlem River"</a>. <i>New York Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+York+Post&amp;rft.atitle=JFK%27s+WWII+boat+may+be+at+the+bottom+of+the+Harlem+River&amp;rft.date=2017-05-27&amp;rft.aulast=Kaplan&amp;rft.aufirst=Michael&amp;rft_id=https%3A%2F%2Fnypost.com%2F2017%2F05%2F27%2Fjfks-wwii-boat-may-be-at-the-bottom-of-the-harlem-river%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">White rode with Kennedy in <a href="#CITEREFDoyle2015">Doyle 2015</a>, pp.&#160;184–186</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Kennedy favored keeping Marines as separate armed service as House Representative in <a href="#CITEREFBradsher2010">Bradsher 2010</a></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=14" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><cite id="CITEREFBradsher2010" class="citation journal">Bradsher, Greg (2010). "Operation Blissful". <i>Prologue Magazine, Fall 2010</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Prologue+Magazine%2C+Fall+2010&amp;rft.atitle=Operation+Blissful&amp;rft.date=2010&amp;rft.aulast=Bradsher&amp;rft.aufirst=Greg&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFDonovan2001" class="citation book"><a href="/wiki/Robert_J._Donovan" title="Robert J. Donovan">Donovan, Robert J.</a> (2001) [1961]. <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/pt109johnfkenned00dono_0"><i>PT-109: John F. Kennedy in WW II</i></a></span> (40th Anniversary ed.). McGraw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-07-137643-3" title="Special:BookSources/978-0-07-137643-3"><bdi>978-0-07-137643-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=PT-109%3A+John+F.+Kennedy+in+WW+II&amp;rft.edition=40th+Anniversary&amp;rft.pub=McGraw+Hill&amp;rft.date=2001&amp;rft.isbn=978-0-07-137643-3&amp;rft.aulast=Donovan&amp;rft.aufirst=Robert+J.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fpt109johnfkenned00dono_0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFDoyle2015" class="citation book">Doyle, William (2015). <i>PT-109: An American Epic of War, Survival, and the Destiny of John F. Kennedy</i>. New York City: Harper-Collins. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-06-234658-2" title="Special:BookSources/978-0-06-234658-2"><bdi>978-0-06-234658-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=PT-109%3A+An+American+Epic+of+War%2C+Survival%2C+and+the+Destiny+of+John+F.+Kennedy&amp;rft.place=New+York+City&amp;rft.pub=Harper-Collins&amp;rft.date=2015&amp;rft.isbn=978-0-06-234658-2&amp;rft.aulast=Doyle&amp;rft.aufirst=William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFFleming2011" class="citation journal">Fleming, Thomas (Spring 2011). "War of Revenge". <i>MHQ, The Quarterly Journal of Military History</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MHQ%2C+The+Quarterly+Journal+of+Military+History&amp;rft.atitle=War+of+Revenge&amp;rft.ssn=spring&amp;rft.date=2011&amp;rft.aulast=Fleming&amp;rft.aufirst=Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFHamilton1992" class="citation book">Hamilton, Nigel (1992). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9780679748809"><i>JFK, Reckless Youth</i></a></span>. New York, NY: Random House. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-679-41216-6" title="Special:BookSources/0-679-41216-6"><bdi>0-679-41216-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=JFK%2C+Reckless+Youth&amp;rft.place=New+York%2C+NY&amp;rft.pub=Random+House&amp;rft.date=1992&amp;rft.isbn=0-679-41216-6&amp;rft.aulast=Hamilton&amp;rft.aufirst=Nigel&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fisbn_9780679748809&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APatrol+torpedo+boat+PT-59" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li>Rottman, Gordon L. <i>US Patrol Torpedo Boats</i>, New Vanguard 148, Osprey Publishing Ltd., 2008, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84603-227-1" title="Special:BookSources/978-1-84603-227-1">978-1-84603-227-1</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.strategypage.com/cic/docs/cic139b.asp">Briefing - <i>PT-59</i><span class="nowrap" style="padding-left:0.1em;">&#39;</span>s First Victory</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="John_F._Kennedy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:John_F._Kennedy" title="Template:John F. Kennedy"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:John_F._Kennedy" title="Template talk:John F. Kennedy"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:John_F._Kennedy&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="John_F._Kennedy" style="font-size:114%;margin:0 4em"><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_35th_President_of_the_United_States_(1961–1963)&amp;#10;*_U.S._Senator_from_Massachusetts_(1953–1960)&amp;#10;*_U.S._Representative_for_MA-11_(1947–1953)">
+<ul><li><span class="nowrap"><a href="/wiki/List_of_presidents_of_the_United_States" title="List of presidents of the United States">35th</a> <a href="/wiki/President_of_the_United_States" title="President of the United States">President of the United States</a> (1961–1963)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_Senate" title="United States Senate">U.S. Senator</a> <a href="/wiki/List_of_United_States_senators_from_Massachusetts" title="List of United States senators from Massachusetts">from Massachusetts</a> (1953–1960)</span></li>
+<li><span class="nowrap"><a href="/wiki/United_States_House_of_Representatives" title="United States House of Representatives">U.S. Representative</a> for <a href="/wiki/Massachusetts%27s_11th_congressional_district" title="Massachusetts&#39;s 11th congressional district">MA-11</a> (1947–1953)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Presidency_of_John_F._Kennedy" title="Presidency of John F. Kennedy">Presidency</a><br />(<a href="/wiki/Timeline_of_the_John_F._Kennedy_presidency" title="Timeline of the John F. Kennedy presidency">timeline</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Presidential office:</b> <a href="/wiki/Inauguration_of_John_F._Kennedy" title="Inauguration of John F. Kennedy">Inauguration</a></li>
+<li><a href="/wiki/John_F._Kennedy#Administration,_Cabinet,_and_judicial_appointments_1961–63" title="John F. Kennedy">Cabinet</a></li>
+<li><a href="/wiki/List_of_federal_judges_appointed_by_John_F._Kennedy" title="List of federal judges appointed by John F. Kennedy">Judicial appointments</a>
+<ul><li><a href="/wiki/John_F._Kennedy_Supreme_Court_candidates" title="John F. Kennedy Supreme Court candidates">Supreme Court</a></li></ul></li>
+<li><a href="https://en.wikisource.org/wiki/Author:John_Fitzgerald_Kennedy/Executive_orders" class="extiw" title="wikisource:Author:John Fitzgerald Kennedy/Executive orders">Executive Orders</a></li>
+<li><a href="https://en.wikisource.org/wiki/Author:John_Fitzgerald_Kennedy/Presidential_Proclamations" class="extiw" title="wikisource:Author:John Fitzgerald Kennedy/Presidential Proclamations">Presidential Proclamations</a></li>
+<li><a href="/wiki/List_of_people_pardoned_or_granted_clemency_by_the_President_of_the_United_States#John_F._Kennedy" class="mw-redirect" title="List of people pardoned or granted clemency by the President of the United States">Presidential pardons</a></li></ul>
+<ul><li><b>Domestic policy:</b> <a href="/wiki/Clean_Air_Act_(United_States)" title="Clean Air Act (United States)">Clean Air Act</a></li>
+<li><a href="/wiki/Communications_Satellite_Act_of_1962" title="Communications Satellite Act of 1962">Communications Satellite Act</a></li>
+<li><a href="/wiki/Community_Mental_Health_Act" title="Community Mental Health Act">Community Mental Health Act</a></li>
+<li><a href="/wiki/Equal_Pay_Act_of_1963" title="Equal Pay Act of 1963">Equal Pay Act</a></li>
+<li><a href="/wiki/Executive_Order_10925" title="Executive Order 10925">Federal affirmative action</a></li>
+<li><a href="/wiki/Executive_Order_11063" title="Executive Order 11063">Federal housing segregation ban</a></li>
+<li><a href="/wiki/Kennedy_march" title="Kennedy march">Fifty-mile hikes</a></li>
+<li><a href="/wiki/Food_for_Peace" title="Food for Peace">Food for Peace</a></li>
+<li><a href="/wiki/New_Frontier" title="New Frontier">New Frontier</a></li>
+<li><a href="/wiki/Supplemental_Nutrition_Assistance_Program#Pilot_Food_Stamp_Program_(1961–1964)" title="Supplemental Nutrition Assistance Program">Pilot Food Stamp Program</a></li>
+<li><a href="/wiki/Space_policy_of_the_United_States#Kennedy_administration" title="Space policy of the United States">Space policy</a></li>
+<li><a href="/wiki/Presidential_Commission_on_the_Status_of_Women" title="Presidential Commission on the Status of Women">Status of Women (Presidential Commission)</a></li>
+<li><a href="/wiki/Stand_in_the_Schoolhouse_Door" title="Stand in the Schoolhouse Door">University of Alabama integration</a></li>
+<li><a href="/wiki/Voter_Education_Project" title="Voter Education Project">Voter Education Project</a></li></ul>
+<ul><li><b><a href="/wiki/Foreign_policy_of_the_John_F._Kennedy_administration" title="Foreign policy of the John F. Kennedy administration">Foreign policy</a>:</b> <a href="/wiki/Alliance_for_Progress" title="Alliance for Progress">Alliance for Progress</a></li>
+<li><a href="/wiki/Arms_Control_and_Disarmament_Agency" title="Arms Control and Disarmament Agency">Arms Control and Disarmament Agency</a>
+<ul><li><a href="/wiki/Partial_Nuclear_Test_Ban_Treaty" title="Partial Nuclear Test Ban Treaty">Partial Nuclear Test Ban Treaty</a></li></ul></li>
+<li><a href="/wiki/Flexible_response" title="Flexible response">Flexible response</a></li>
+<li><a href="/wiki/Kennedy_Doctrine" title="Kennedy Doctrine">Kennedy Doctrine</a></li>
+<li><a href="/wiki/Peace_Corps" title="Peace Corps">Peace Corps</a></li>
+<li><a href="/wiki/Trade_Expansion_Act" title="Trade Expansion Act">Trade Expansion Act</a></li>
+<li><a href="/wiki/United_States_Agency_for_International_Development" title="United States Agency for International Development">USAID</a></li>
+<li><a href="/wiki/Vietnam_War#The_Kennedy_years,_1961–63" title="Vietnam War">Vietnam War</a></li>
+<li>Cuba: <a href="/wiki/Bay_of_Pigs_Invasion" title="Bay of Pigs Invasion">Bay of Pigs Invasion</a></li>
+<li><a href="/wiki/Cuban_Project" title="Cuban Project">Cuban Project</a></li>
+<li><a href="/wiki/Cuban_Missile_Crisis" title="Cuban Missile Crisis">Cuban Missile Crisis</a>
+<ul><li><a href="/wiki/EXCOMM" title="EXCOMM">ExComm</a></li></ul></li>
+<li>Soviet Union: <a href="/wiki/Berlin_Crisis_of_1961" title="Berlin Crisis of 1961">Berlin Crisis</a></li>
+<li><a href="/wiki/Moscow%E2%80%93Washington_hotline" title="Moscow–Washington hotline">Moscow–Washington hotline</a></li>
+<li><a href="/wiki/Vienna_summit" title="Vienna summit">Vienna summit</a></li></ul>
+<ul><li><b>White House:</b> <a href="/wiki/SS-100-X" title="SS-100-X">Presidential limousine</a></li>
+<li><a href="/wiki/S/Y_Manitou" title="S/Y Manitou">Presidential yacht</a></li>
+<li><a href="/wiki/Resolute_desk" title="Resolute desk"><i>Resolute</i> desk</a></li>
+<li><a href="/wiki/Situation_Room" title="Situation Room">Situation Room</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Presidential<br />speeches</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Inauguration_of_John_F._Kennedy#The_inaugural_address" title="Inauguration of John F. Kennedy">Inaugural address</a></li>
+<li><a href="/wiki/American_University_speech" title="American University speech">American University speech</a></li>
+<li>"<a href="/wiki/We_choose_to_go_to_the_Moon" title="We choose to go to the Moon">We choose to go to the Moon</a>"</li>
+<li><a href="/wiki/Report_to_the_American_People_on_Civil_Rights" title="Report to the American People on Civil Rights">Report to the American People on Civil Rights</a></li>
+<li>"<a href="/wiki/Ich_bin_ein_Berliner" title="Ich bin ein Berliner">Ich bin ein Berliner</a>"</li>
+<li>"<a href="/wiki/A_rising_tide_lifts_all_boats" title="A rising tide lifts all boats">A rising tide lifts all boats</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Electoral_history_of_John_F._Kennedy" title="Electoral history of John F. Kennedy">Elections</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>U.S. States House of Representatives elections: <a href="/wiki/1946_United_States_House_of_Representatives_elections" title="1946 United States House of Representatives elections">1946</a></li>
+<li><a href="/wiki/1948_United_States_House_of_Representatives_elections" title="1948 United States House of Representatives elections">1948</a></li>
+<li><a href="/wiki/1950_United_States_House_of_Representatives_elections" title="1950 United States House of Representatives elections">1950</a></li>
+<li>U.S. Senate elections in Massachusetts: <a href="/wiki/1952_United_States_Senate_election_in_Massachusetts" title="1952 United States Senate election in Massachusetts">1952</a></li>
+<li><a href="/wiki/1958_United_States_Senate_election_in_Massachusetts" title="1958 United States Senate election in Massachusetts">1958</a></li>
+<li><a href="/wiki/1960_Democratic_Party_presidential_primaries" title="1960 Democratic Party presidential primaries">1960 presidential primaries</a></li>
+<li><a href="/wiki/John_F._Kennedy_1960_presidential_campaign" title="John F. Kennedy 1960 presidential campaign">1960 presidential campaign</a></li>
+<li>Democratic National Conventions: <a href="/wiki/1956_Democratic_National_Convention" title="1956 Democratic National Convention">1956</a></li>
+<li><a href="/wiki/1960_Democratic_National_Convention" title="1960 Democratic National Convention">1960</a></li>
+<li><a href="/wiki/1960_United_States_presidential_election" title="1960 United States presidential election">U.S. presidential election 1960</a>
+<ul><li><a href="/wiki/United_States_presidential_debates#1960_Kennedy-Nixon_debates" title="United States presidential debates">debates</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personal life</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_Fitzgerald_Kennedy_National_Historic_Site" title="John Fitzgerald Kennedy National Historic Site">Birthplace and childhood home</a></li>
+<li><a href="/wiki/Kennedy_Compound" title="Kennedy Compound">Kennedy Compound</a></li>
+<li>Navy service: <a href="/wiki/Patrol_torpedo_boat_PT-109" title="Patrol torpedo boat PT-109"><i>PT-109</i></a>
+<ul><li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Biuku Gasa and Eroni Kumana</a></li>
+<li><a href="/wiki/Arthur_Reginald_Evans" title="Arthur Reginald Evans">Arthur Evans</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-59" class="mw-redirect" title="Motor Torpedo Boat PT-59"><i>PT-59</i></a></li>
+<li><a href="/wiki/Castle_Hot_Springs_(Arizona)" title="Castle Hot Springs (Arizona)">Castle Hot Springs</a></li></ul></li>
+<li><a href="/wiki/Hammersmith_Farm" title="Hammersmith Farm">Hammersmith Farm</a></li>
+<li><a href="/wiki/Coretta_Scott_King#John_F._Kennedy_phone_call" title="Coretta Scott King">Coretta Scott King phone call</a></li>
+<li><a href="/wiki/Rocking_chair#The_John_F._Kennedy_Rocking_Chair" title="Rocking chair">Rocking chair</a></li>
+<li>"<a href="/wiki/Happy_Birthday,_Mr._President" title="Happy Birthday, Mr. President">Happy Birthday, Mr. President</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Why_England_Slept" title="Why England Slept"><i>Why England Slept</i> <small>(1940)</small></a></li>
+<li><a href="/wiki/Profiles_in_Courage" title="Profiles in Courage"><i>Profiles in Courage</i> <small>(1956)</small></a></li>
+<li><a href="/wiki/A_Nation_of_Immigrants" title="A Nation of Immigrants"><i>A Nation of Immigrants</i> <small>(1958)</small></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Death</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Assassination_of_John_F._Kennedy" title="Assassination of John F. Kennedy">Assassination</a>
+<ul><li><a href="/wiki/Timeline_of_the_John_F._Kennedy_assassination" title="Timeline of the John F. Kennedy assassination">timeline</a></li>
+<li><a href="/wiki/Reactions_to_the_assassination_of_John_F._Kennedy" title="Reactions to the assassination of John F. Kennedy">reactions</a></li>
+<li><a href="/wiki/Assassination_of_John_F._Kennedy_in_popular_culture" title="Assassination of John F. Kennedy in popular culture">in popular culture</a></li></ul></li>
+<li><a href="/wiki/State_funeral_of_John_F._Kennedy" title="State funeral of John F. Kennedy">State funeral</a>
+<ul><li><a href="/wiki/Black_Jack_(horse)" title="Black Jack (horse)">Riderless horse</a></li>
+<li><a href="/wiki/List_of_dignitaries_at_the_state_funeral_of_John_F._Kennedy" title="List of dignitaries at the state funeral of John F. Kennedy">attending dignitaries</a></li></ul></li>
+<li><a href="/wiki/John_F._Kennedy_Eternal_Flame" title="John F. Kennedy Eternal Flame">Gravesite and Eternal Flame</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Legacy</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy_Presidential_Library_and_Museum" title="John F. Kennedy Presidential Library and Museum">John F. Kennedy Presidential Library and Museum</a></li>
+<li><a href="/wiki/Civil_Rights_Act_of_1964" title="Civil Rights Act of 1964">Civil Rights Act of 1964</a></li>
+<li><a href="/wiki/Apollo_11" title="Apollo 11">Apollo 11 Moon landing</a></li>
+<li><a href="/wiki/Equal_Employment_Opportunity_Commission" title="Equal Employment Opportunity Commission">Equal Employment Opportunity Commission</a></li>
+<li><a href="/wiki/Kennedy_Space_Center" title="Kennedy Space Center">Kennedy Space Center</a></li>
+<li><a href="/wiki/Kennedy_Round" title="Kennedy Round">Kennedy Round</a></li>
+<li><a href="/wiki/United_States_Department_of_Housing_and_Urban_Development" title="United States Department of Housing and Urban Development">U.S. Department of Housing and Urban Development</a></li>
+<li><a href="/wiki/AmeriCorps_VISTA" title="AmeriCorps VISTA">VISTA</a></li>
+<li><a href="/wiki/Cultural_depictions_of_John_F._Kennedy" title="Cultural depictions of John F. Kennedy">Cultural depictions</a>
+<ul><li><a href="/wiki/Category:Films_about_John_F._Kennedy" title="Category:Films about John F. Kennedy">films</a></li>
+<li><a href="/wiki/Kennedy_half_dollar" title="Kennedy half dollar">Kennedy half dollar</a></li>
+<li><a href="/wiki/Presidents_of_the_United_States_on_U.S._postage_stamps#John_F._Kennedy" title="Presidents of the United States on U.S. postage stamps">U.S. postage stamps</a></li>
+<li><a href="/wiki/Five_cents_John_Kennedy" title="Five cents John Kennedy">U.S. five cent stamp</a></li>
+<li><a href="/wiki/Lincoln%E2%80%93Kennedy_coincidences_urban_legend" title="Lincoln–Kennedy coincidences urban legend">Lincoln–Kennedy coincidences</a></li></ul></li>
+<li><a href="/wiki/Operation_Sail" title="Operation Sail">Operation Sail</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_memorials_to_John_F._Kennedy" title="List of memorials to John F. Kennedy">Memorials,<br />namesakes</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy_Center_for_the_Performing_Arts" title="John F. Kennedy Center for the Performing Arts">Kennedy Center for the Performing Arts</a></li>
+<li><a href="/wiki/John_F._Kennedy_International_Airport" title="John F. Kennedy International Airport">John F. Kennedy International Airport</a></li>
+<li><a href="/wiki/John_F._Kennedy_Memorial,_London" title="John F. Kennedy Memorial, London">John F. Kennedy London Memorial</a></li>
+<li><a href="/wiki/John_Fitzgerald_Kennedy_Memorial" title="John Fitzgerald Kennedy Memorial">John Fitzgerald Kennedy Dallas Memorial</a></li>
+<li><a href="/wiki/John_Fitzgerald_Kennedy_Memorial_(Portland,_Oregon)" title="John Fitzgerald Kennedy Memorial (Portland, Oregon)">John Fitzgerald Kennedy Portland Memorial</a></li>
+<li><a href="/wiki/Runnymede#John_F._Kennedy_Memorial" title="Runnymede">John F. Kennedy Runnymede Memorial</a></li>
+<li><a href="/wiki/John_F._Kennedy_Memorial_Bridge" title="John F. Kennedy Memorial Bridge">John F. Kennedy Memorial Bridge</a></li>
+<li><a href="/wiki/John_F._Kennedy_School_of_Government" title="John F. Kennedy School of Government">John F. Kennedy School of Government</a></li>
+<li><a href="/wiki/John_F._Kennedy_Special_Warfare_Center_and_School" title="John F. Kennedy Special Warfare Center and School">John F. Kennedy Special Warfare Center and School</a></li>
+<li><a href="/wiki/John_F._Kennedy_University" title="John F. Kennedy University">John F. Kennedy University</a></li>
+<li><a href="/wiki/John_Kennedy_College" title="John Kennedy College">John Kennedy College</a></li>
+<li><a href="/wiki/Kennedy_Expressway" title="Kennedy Expressway">Kennedy Expressway</a></li>
+<li><a href="/wiki/MV_John_F._Kennedy" title="MV John F. Kennedy">MV <i>John F. Kennedy</i></a></li>
+<li><a href="/wiki/USS_John_F._Kennedy_(CV-67)" title="USS John F. Kennedy (CV-67)">USS&#160;<i>John F. Kennedy</i>&#160;<span class="nowrap">(CV-67)</span></a></li>
+<li><a href="/wiki/USS_John_F._Kennedy_(CVN-79)" title="USS John F. Kennedy (CVN-79)">USS&#160;<i>John F. Kennedy</i>&#160;<span class="nowrap">(CVN-79)</span></a></li>
+<li><a href="/wiki/Yad_Kennedy" title="Yad Kennedy">Yad Kennedy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kennedy_family" title="Kennedy family">Family</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jacqueline_Kennedy_Onassis" title="Jacqueline Kennedy Onassis">Jacqueline Bouvier</a> (wife)</li>
+<li><a href="/wiki/Caroline_Kennedy" title="Caroline Kennedy">Caroline Kennedy</a> (daughter)</li>
+<li><a href="/wiki/John_F._Kennedy_Jr." title="John F. Kennedy Jr.">John F. Kennedy Jr.</a> (son)</li>
+<li><a href="/wiki/Patrick_Bouvier_Kennedy" title="Patrick Bouvier Kennedy">Patrick Bouvier Kennedy</a> (son)</li>
+<li><a href="/wiki/Jack_Schlossberg" title="Jack Schlossberg">Jack Schlossberg</a> (grandson)</li>
+<li><a href="/wiki/Rose_Schlossberg" title="Rose Schlossberg">Rose Schlossberg</a> (granddaughter)</li>
+<li><a href="/wiki/Joseph_P._Kennedy_Sr." title="Joseph P. Kennedy Sr.">Joseph P. Kennedy Sr.</a> (father)</li>
+<li><a href="/wiki/Rose_Kennedy" title="Rose Kennedy">Rose Fitzgerald</a> (mother)</li>
+<li><a href="/wiki/Joseph_P._Kennedy_Jr." title="Joseph P. Kennedy Jr.">Joseph P. Kennedy Jr.</a> (brother)</li>
+<li><a href="/wiki/Rosemary_Kennedy" title="Rosemary Kennedy">Rosemary Kennedy</a> (sister)</li>
+<li><a href="/wiki/Kathleen_Cavendish,_Marchioness_of_Hartington" title="Kathleen Cavendish, Marchioness of Hartington">Kathleen Cavendish, Marchioness of Hartington</a> (sister)</li>
+<li><a href="/wiki/Eunice_Kennedy_Shriver" title="Eunice Kennedy Shriver">Eunice Kennedy Shriver</a> (sister)</li>
+<li><a href="/wiki/Patricia_Kennedy_Lawford" title="Patricia Kennedy Lawford">Patricia Kennedy Lawford</a> (sister)</li>
+<li><a href="/wiki/Robert_F._Kennedy" title="Robert F. Kennedy">Robert F. Kennedy</a> (brother)</li>
+<li><a href="/wiki/Jean_Kennedy_Smith" title="Jean Kennedy Smith">Jean Kennedy Smith</a> (sister)</li>
+<li><a href="/wiki/Ted_Kennedy" title="Ted Kennedy">Ted Kennedy</a> (brother)</li>
+<li><a href="/wiki/P._J._Kennedy" title="P. J. Kennedy">P. J. Kennedy</a> (grandfather)</li>
+<li><a href="/wiki/John_F._Fitzgerald" title="John F. Fitzgerald">John F. Fitzgerald</a> (grandfather)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><b><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">← Dwight D. Eisenhower</a></b></li>
+<li><b><a href="/wiki/Lyndon_B._Johnson" title="Lyndon B. Johnson">Lyndon B. Johnson →</a></b></li></ul>
+<ul><li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:John_F._Kennedy" title="Category:John F. Kennedy">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="PT-109" style=";wide;padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:PT-109" title="Template:PT-109"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:PT-109" title="Template talk:PT-109"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:PT-109&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="PT-109" style="font-size:114%;margin:0 4em"><a href="/wiki/Motor_Torpedo_Boat_PT-109" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Craft</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PT_boat" title="PT boat">PT boat</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-109" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i></a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-59" class="mw-redirect" title="Motor Torpedo Boat PT-59"><i>PT-59</i></a></li>
+<li><a href="/wiki/Japanese_destroyer_Amagiri_(1930)" title="Japanese destroyer Amagiri (1930)">Japanese destroyer <i>Amagiri</i></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></li>
+<li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Biuku Gasa</a></li>
+<li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Eroni Kumana</a></li>
+<li><a href="/wiki/Arthur_Reginald_Evans" title="Arthur Reginald Evans">Arthur Evans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Media</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PT-109_(song)" title="PT-109 (song)">1962 Song</a></li>
+<li><a href="/wiki/PT_109_(film)" title="PT 109 (film)">1963 Film</a></li>
+<li><a href="/wiki/PT-109_(comic_book)" class="mw-redirect" title="PT-109 (comic book)">Comic book</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-109#Legacy" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i> (model) kit</a></li>
+<li><a href="/wiki/PT-109_(video_game)" title="PT-109 (video game)">Video game</a></li>
+<li><a href="/wiki/The_Search_for_Kennedy%27s_PT_109" title="The Search for Kennedy&#39;s PT 109"><i>The Search for Kennedy's PT 109</i> (2002 film)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kennedy_Island" title="Kennedy Island">Kasolo Island (Kennedy Island)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1282
+Cached time: 20190924135404
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.548 seconds
+Real time usage: 0.698 seconds
+Preprocessor visited node count: 3200/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 79230/2097152 bytes
+Template argument size: 5115/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 39272/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.229/10.000 seconds
+Lua memory usage: 6.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  559.593      1 -total
+ 34.77%  194.582      1 Template:Reflist
+ 17.01%   95.191      2 Template:Cite_web
+ 11.64%   65.158      1 Template:Infobox_ship_characteristics
+  7.87%   44.041     12 Template:Convert
+  7.59%   42.455      1 Template:John_F._Kennedy
+  7.47%   41.795      5 Template:WPMILHIST_Infobox_style
+  7.01%   39.243      1 Template:ISBN
+  6.97%   38.989      1 Template:Navbox
+  6.67%   37.337     24 Template:Harvnb
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7605701-0!canonical and timestamp 20190924135403 and revision id 917581091
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;oldid=917581091">https://en.wikipedia.org/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;oldid=917581091</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:John_F._Kennedy" title="Category:John F. Kennedy">John F. Kennedy</a></li><li><a href="/wiki/Category:World_War_II_patrol_vessels_of_the_United_States" title="Category:World War II patrol vessels of the United States">World War II patrol vessels of the United States</a></li><li><a href="/wiki/Category:PT_boats" title="Category:PT boats">PT boats</a></li><li><a href="/wiki/Category:1941_ships" title="Category:1941 ships">1941 ships</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Patrol+torpedo+boat+PT-59" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Patrol+torpedo+boat+PT-59" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Patrol_torpedo_boat_PT-59" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Patrol_torpedo_boat_PT-59" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Patrol_torpedo_boat_PT-59">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Patrol_torpedo_boat_PT-59" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Patrol_torpedo_boat_PT-59" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;oldid=917581091" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6918162" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Patrol_torpedo_boat_PT-59&amp;id=917581091" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Patrol+torpedo+boat+PT-59">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Patrol+torpedo+boat+PT-59&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6918162#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 13:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Patrol_torpedo_boat_PT-59&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.548","walltime":"0.698","ppvisitednodes":{"value":3200,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":79230,"limit":2097152},"templateargumentsize":{"value":5115,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":39272,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  559.593      1 -total"," 34.77%  194.582      1 Template:Reflist"," 17.01%   95.191      2 Template:Cite_web"," 11.64%   65.158      1 Template:Infobox_ship_characteristics","  7.87%   44.041     12 Template:Convert","  7.59%   42.455      1 Template:John_F._Kennedy","  7.47%   41.795      5 Template:WPMILHIST_Infobox_style","  7.01%   39.243      1 Template:ISBN","  6.97%   38.989      1 Template:Navbox","  6.67%   37.337     24 Template:Harvnb"]},"scribunto":{"limitreport-timeusage":{"value":"0.229","limit":"10.000"},"limitreport-memusage":{"value":6907841,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20190924135404","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Patrol torpedo boat PT-59","url":"https:\/\/en.wikipedia.org\/wiki\/Patrol_torpedo_boat_PT-59","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6918162","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6918162","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-24T22:06:15Z","dateModified":"2019-09-24T13:53:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/1\/1c\/PT-59_before_conversion.jpeg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

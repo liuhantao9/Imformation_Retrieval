@@ -1,0 +1,666 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Music download - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Music_download","wgTitle":"Music download","wgCurRevisionId":915583660,"wgRevisionId":915583660,"wgArticleId":797714,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 Japanese-language sources (ja)","Use dmy dates from December 2015","All articles with unsourced statements","Articles with unsourced statements from October 2012","Articles with unsourced statements from December 2011","Articles containing potentially dated statements from July 2012","All articles containing potentially dated statements","Articles containing Japanese-language text","Online content distribution","File sharing","Recorded music"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Music_download","wgRelevantArticleId":797714,"wgRequestId":"XYbTWgpAAEUAAJyp@QQAAACS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q6473564","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
+"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ITunes_Music_Store_in_a_mobile_Phone.jpg/1200px-ITunes_Music_Store_in_a_mobile_Phone.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Music_download"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Music_download&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Music_download&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Music_download"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Music_download rootpage-Music_download skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Music download</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ITunes_Music_Store_in_a_mobile_Phone.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ITunes_Music_Store_in_a_mobile_Phone.jpg/220px-ITunes_Music_Store_in_a_mobile_Phone.jpg" decoding="async" width="220" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ITunes_Music_Store_in_a_mobile_Phone.jpg/330px-ITunes_Music_Store_in_a_mobile_Phone.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/ITunes_Music_Store_in_a_mobile_Phone.jpg/440px-ITunes_Music_Store_in_a_mobile_Phone.jpg 2x" data-file-width="3024" data-file-height="3197" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ITunes_Music_Store_in_a_mobile_Phone.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a> accessed via a mobile phone.</div></div></div>
+<p>A <b>music download</b> is the digital transfer of music via the Internet into a device capable of decoding and playing it, such as a home computer, <a href="/wiki/MP3_player" title="MP3 player">MP3 player</a> or <a href="/wiki/Smartphone" title="Smartphone">smartphone</a>. This term encompasses both legal <a href="/wiki/Download" title="Download">downloads</a> and downloads of <a href="/wiki/Copyright" title="Copyright">copyrighted</a> material without permission or legal payment. According to a <a href="/wiki/Nielsen_Company" class="mw-redirect" title="Nielsen Company">Nielsen</a> report, downloadable music accounted for 55.9% of all <a href="/wiki/Music_sales" class="mw-redirect" title="Music sales">music sales</a> in the US in 2012.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;nb 1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;1&#93;</a></sup> By the beginning of 2011, Apple's iTunes Store alone made <span style="white-space: nowrap">US$</span>1.1 billion of revenue in the first quarter of its fiscal year.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Online_music_store"><span class="tocnumber">1</span> <span class="toctext">Online music store</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#RIAA_against_illegal_downloading"><span class="tocnumber">2</span> <span class="toctext">RIAA against illegal downloading</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sales_records"><span class="tocnumber">3</span> <span class="toctext">Sales records</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#United_Kingdom"><span class="tocnumber">3.1</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#United_States"><span class="tocnumber">3.2</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Japan"><span class="tocnumber">3.3</span> <span class="toctext">Japan</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#South_Korea"><span class="tocnumber">3.4</span> <span class="toctext">South Korea</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Online_music_store">Online music store</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=1" title="Edit section: Online music store">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Online_music_store" title="Online music store">Online music store</a> and <a href="/wiki/Comparison_of_online_music_stores" title="Comparison of online music stores">Comparison of online music stores</a></div>
+<p>Paid downloads are sometimes encoded with <a href="/wiki/Digital_Rights_Management" class="mw-redirect" title="Digital Rights Management">Digital Rights Management</a> that restricts copying the music or playing purchased songs on certain digital audio players. They are almost always <a href="/wiki/Data_compression" title="Data compression">compressed</a> using a <a href="/wiki/Lossy_compression" title="Lossy compression">lossy</a> <a href="/wiki/Codec" title="Codec">codec</a> (usually MPEG-1 Layer 3, Windows Media, or AAC), which reduces file size and bandwidth requirements. These music resources have been created as a response to expanding technology and needs of customers that wanted easy, quick access to music. Their business models respond to the "download revolution" by making legal services attractive for users.
+</p><p>Even legal music downloads have faced a number of challenges from artists, record labels and the <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a>. In July 2007, the Universal Music Group decided not to renew their long-term contracts with iTunes. This decision was primarily based upon the issue of pricing of songs, as Universal wanted to be able to charge more or less depending on the artist, a shift away from iTunes' standard—at the time—99 cents per song pricing. Many industry leaders feel that this is only the first of many show-downs between <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple Inc.</a> and the various record labels.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup>
+</p><p>According to research by the website <a href="/wiki/TorrentFreak" title="TorrentFreak">TorrentFreak</a>, 38% of <a href="/wiki/Sweden" title="Sweden">Swedish</a> artists support file share downloading and claim that it helps artists in early career stages. The Swedish rock group Lamont has profited from file sharing.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="RIAA_against_illegal_downloading">RIAA against illegal downloading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=2" title="Edit section: RIAA against illegal downloading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Recording_Industry_Association_of_America" title="Recording Industry Association of America">Recording Industry Association of America</a> (RIAA) oversees about 85% of published music production, distribution and manufacturing in the United States. They work to protect musicians while supporting the <a href="/wiki/First_Amendment_to_the_United_States_Constitution" title="First Amendment to the United States Constitution">First Amendment</a> rights. Their stated goal is to support artists' creativity and help them not be cheated out of money by illegal downloading.<sup id="cite_ref-RIAA_6-0" class="reference"><a href="#cite_note-RIAA-6">&#91;5&#93;</a></sup> The Recording Industry Association of America launched its first lawsuits on 8 September 2003, against individuals who illegally downloaded music files from the <a href="/wiki/Kazaa" title="Kazaa">Kazaa</a> <a href="/wiki/FastTrack" title="FastTrack">FastTrack</a> network.
+</p><p>Two years after it began, the campaign survived at least one major legal challenge.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2012)">citation needed</span></a></i>&#93;</sup> The RIAA said it filed 750 suits in February 2006<sup id="cite_ref-Riaa_Announces_New_Round_of_Music_Theft_Lawsuits_7-0" class="reference"><a href="#cite_note-Riaa_Announces_New_Round_of_Music_Theft_Lawsuits-7">&#91;6&#93;</a></sup> against individuals downloading music files without paying for them in hopes of putting an end to Internet <a href="/wiki/Music_piracy" title="Music piracy">music piracy</a>. The RIAA hopes their campaign will force people to respect the copyrights of music labels and eventually minimize the number of illegal downloads.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;7&#93;</a></sup>
+</p><p>The <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a> began to incorporate downloads in the <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a> on 17 April 2005, at which time Radio 1 stopped broadcasting the separate download chart,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>&#93;</sup> although the chart is still compiled. Initially this was on condition that the song must have a physical media release at the same time; this rule was fully lifted on 1 January 2007, meaning all download sales are now eligible in the chart.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2011)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Sales_records">Sales records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=3" title="Edit section: Sales records">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=4" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Music downloads have been measured by the <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a> since 2004 and included in the main <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a> from 2005. The most downloaded song in the UK is "<a href="/wiki/Happy_(Pharrell_Williams_song)" title="Happy (Pharrell Williams song)">Happy</a>" by <a href="/wiki/Pharrell_Williams" title="Pharrell Williams">Pharrell Williams</a> with over 1.8 million downloads.<sup id="cite_ref-Top_100_tracks_9-0" class="reference"><a href="#cite_note-Top_100_tracks-9">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=5" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In November 2005, the record for the best-selling downloaded single in the United States was held by <a href="/wiki/Gwen_Stefani" title="Gwen Stefani">Gwen Stefani</a>'s "<a href="/wiki/Hollaback_Girl" title="Hollaback Girl">Hollaback Girl</a>", which sold over one million downloads, making it the first song to achieve platinum download status.<sup id="cite_ref-RSMillion_10-0" class="reference"><a href="#cite_note-RSMillion-10">&#91;9&#93;</a></sup> As of July&#160;2012<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Music_download&amp;action=edit">&#91;update&#93;</a></sup>, the record for the best-selling downloaded single in the United States on the iTunes Store is held by <a href="/wiki/The_Black_Eyed_Peas" title="The Black Eyed Peas">The Black Eyed Peas</a>'s "<a href="/wiki/I_Gotta_Feeling" title="I Gotta Feeling">I Gotta Feeling</a>", which has sold over 8 million downloads.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup>
+</p><p>Soon after his death in 2009, <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a> became the first artist to sell over one million songs downloaded via the Internet in one week.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;12&#93;</a></sup> However, <a href="/wiki/Adele" title="Adele">Adele</a> marks the most downloads sold by a single song in a week, with "<a href="/wiki/Hello_(Adele_song)" title="Hello (Adele song)">Hello</a>" selling 1.12 million copies in November 2015.
+</p><p><a href="/wiki/Eminem" title="Eminem">Eminem</a>'s seventh studio album, <i><a href="/wiki/Recovery_(Eminem_album)" title="Recovery (Eminem album)">Recovery</a></i> (2010), became the first album to sell one million digital copies.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup>
+</p><p><a href="/wiki/Beyonc%C3%A9" title="Beyoncé">Beyoncé</a>'s self-titled fifth studio album became the fastest-selling album within 24 hours in iTunes history after its release in December 2013. Within 24 hours of availability, the album sold 430,000 digital copies. Adele's third studio album <i>25</i> became the fastest-selling album in a week iTunes history after it was released on 20 November 2015. It sold 1.64 million digital copies in its first week (included preorders on the iTunes store since the release of the album's lead single "Hello" in October 2015).
+</p>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=6" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2006, the <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a> began issuing certifications for digitally released music in Japan, compiling data from the early 2000s onwards.<sup id="cite_ref-RIAJ-aug2006digi_15-0" class="reference"><a href="#cite_note-RIAJ-aug2006digi-15">&#91;14&#93;</a></sup> The best-selling song is <a href="/wiki/Fukushima_Prefecture" title="Fukushima Prefecture">Fukushima</a>-based vocal group <a href="/wiki/Greeeen" title="Greeeen">Greeeen</a>'s song "<a href="/wiki/Kiseki_(Greeeen_song)" title="Kiseki (Greeeen song)">Kiseki</a>" (2008), which was certified for being legally downloaded four million times between 2008 and 2015,<sup id="cite_ref-RIAJ-july2015digi_16-0" class="reference"><a href="#cite_note-RIAJ-july2015digi-16">&#91;15&#93;</a></sup> followed by R&amp;B singer <a href="/wiki/Thelma_Aoyama" title="Thelma Aoyama">Thelma Aoyama</a>'s "<a href="/wiki/Soba_ni_Iru_ne" title="Soba ni Iru ne">Soba ni Iru ne</a>" (2008) featuring rapper <a href="/wiki/SoulJa" title="SoulJa">SoulJa</a>, which was certified for three million downloads between 2008 and 2014.<sup id="cite_ref-RIAJ-mar2014digi_17-0" class="reference"><a href="#cite_note-RIAJ-mar2014digi-17">&#91;16&#93;</a></sup> Greeeen's song "Ai Uta" (2007) ranks as the third highest certified song, with 2.5 million downloads tracked between 2007 and 2009.<sup id="cite_ref-RIAJ-aug2008digi_18-0" class="reference"><a href="#cite_note-RIAJ-aug2008digi-18">&#91;17&#93;</a></sup><sup id="cite_ref-RIAJ-jul2009digi_19-0" class="reference"><a href="#cite_note-RIAJ-jul2009digi-19">&#91;18&#93;</a></sup> Two more songs have sold more than two million paid downloads: <a href="/wiki/Ayaka" title="Ayaka">Ayaka</a>'s "<a href="/wiki/Mikazuki_(song)" title="Mikazuki (song)">Mikazuki</a>" (2006) and <a href="/wiki/Kobukuro" title="Kobukuro">Kobukuro</a>'s "<a href="/wiki/Tsubomi_(song)" title="Tsubomi (song)">Tsubomi</a>" (2007).<sup id="cite_ref-RIAJ-jan2014digi_20-0" class="reference"><a href="#cite_note-RIAJ-jan2014digi-20">&#91;19&#93;</a></sup> The most successful ringtone in Japan is Moldovan-Romanian band <a href="/wiki/O-Zone" title="O-Zone">O-Zone</a>'s "<a href="/wiki/Dragostea_din_tei" class="mw-redirect" title="Dragostea din tei">Dragostea din tei</a>" (2003), known locally as "Koi no Maiahi"<span style="font-weight: normal">&#32;(<span lang="ja">恋のマイアヒ</span>)</span>, which was certified as having four million units sold.<sup id="cite_ref-RIAJ-aug2006digi_15-1" class="reference"><a href="#cite_note-RIAJ-aug2006digi-15">&#91;14&#93;</a></sup>
+</p><p>In Japan, only two albums have received digital certifications by the RIAJ. The first was <i><a href="/wiki/Songs_for_Japan" title="Songs for Japan">Songs for Japan</a></i> (2011), a charity compilation album raising profits for the <a href="/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami" title="2011 Tōhoku earthquake and tsunami">2011 Tōhoku earthquake and tsunami</a>, which was certified gold for 100,000 downloads in June 2011.<sup id="cite_ref-RIAJ-may2011digi_21-0" class="reference"><a href="#cite_note-RIAJ-may2011digi-21">&#91;20&#93;</a></sup> The second album was the Japanese language cast recording of the <i><a href="/wiki/Frozen_(soundtrack)" title="Frozen (soundtrack)">Frozen</a></i> soundtrack, which sold 100,000 copies between its release in March 2014 and January 2015.<sup id="cite_ref-RIAJ-jan2015digi_22-0" class="reference"><a href="#cite_note-RIAJ-jan2015digi-22">&#91;21&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="South_Korea">South Korea</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=7" title="Edit section: South Korea">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In South Korea, <a href="/wiki/Gaon_Digital_Chart" title="Gaon Digital Chart">Gaon Digital Chart</a> has been tracking digital sales since 2009. The most successful song according to their published data is <a href="/wiki/Busker_Busker" title="Busker Busker">Busker Busker</a>'s "<a href="/wiki/Cherry_Blossom_Ending" title="Cherry Blossom Ending">Cherry Blossom Ending</a>" (2012), which was downloaded over 7 million times between 2012 and 2017.<sup id="cite_ref-Gaon2012_23-0" class="reference"><a href="#cite_note-Gaon2012-23">&#91;22&#93;</a></sup><sup id="cite_ref-Gaon2013_24-0" class="reference"><a href="#cite_note-Gaon2013-24">&#91;23&#93;</a></sup><sup id="cite_ref-Gaon2014_25-0" class="reference"><a href="#cite_note-Gaon2014-25">&#91;24&#93;</a></sup><sup id="cite_ref-Gaon2015_26-0" class="reference"><a href="#cite_note-Gaon2015-26">&#91;25&#93;</a></sup> In 2011, "<a href="/wiki/Roly-Poly_(T-ara_song)" title="Roly-Poly (T-ara song)">Roly-Poly</a>" by <a href="/wiki/T-ara" title="T-ara">T-ara</a> was the most successful song of the year, selling 4.1 million digital copies.<sup id="cite_ref-Gaon2011_27-0" class="reference"><a href="#cite_note-Gaon2011-27">&#91;26&#93;</a></sup> In 2012 this accolade went to <a href="/wiki/Psy" title="Psy">Psy</a>'s "<a href="/wiki/Gangnam_Style" title="Gangnam Style">Gangnam Style</a>", after selling 3.8 million units.<sup id="cite_ref-Gaon2012_23-1" class="reference"><a href="#cite_note-Gaon2012-23">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Comparison_of_on-demand_music_streaming_services" title="Comparison of on-demand music streaming services">Comparison of on-demand music streaming services</a></li>
+<li><a href="/wiki/On_air_on_sale" title="On air on sale">On air on sale</a></li>
+<li><a href="/wiki/Open_music_model" title="Open music model">Open music model</a></li>
+<li><i><a href="/wiki/United_States_v._ASCAP" title="United States v. ASCAP">United States v. ASCAP</a></i></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">"All music sales" refers to albums plus track equivalent
+ albums. A track equivalent album equates to 10 tracks.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Music_download&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Lunden, Ingrid (4 January 2013). <a rel="nofollow" class="external text" href="https://techcrunch.com/2013/01/04/download-me-maybe-u-s-music-market-up-by-3-1-fuelled-by-1-3b-digital-track-sales/">"Download Me Maybe: U.S. Music Market Up By 3.1%, Fuelled By 1.3B Digital Track Sales In 2012, Says Nielsen"</a>. <i><a href="/wiki/TechCrunch" title="TechCrunch">TechCrunch</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130106225037/http://techcrunch.com/2013/01/04/download-me-maybe-u-s-music-market-up-by-3-1-fuelled-by-1-3b-digital-track-sales/">Archived</a> from the original on 6 January 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">21 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TechCrunch&amp;rft.atitle=Download+Me+Maybe%3A+U.S.+Music+Market+Up+By+3.1%25%2C+Fuelled+By+1.3B+Digital+Track+Sales+In+2012%2C+Says+Nielsen&amp;rft.date=2013-01-04&amp;rft.aulast=Lunden&amp;rft.aufirst=Ingrid&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2013%2F01%2F04%2Fdownload-me-maybe-u-s-music-market-up-by-3-1-fuelled-by-1-3b-digital-track-sales%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fiercemobilecontent.com/story/apples-itunes-revenues-top-11-billion-q1/2011-01-19">Apple's iTunes revenues top $1.1 billion in Q1</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110512201333/http://www.fiercemobilecontent.com/story/apples-itunes-revenues-top-11-billion-q1/2011-01-19">Archived</a> 12 May 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <i>FierceMobileContent</i> 19 January 2011</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Leeds, Jeff. <a rel="nofollow" class="external text" href="https://www.nytimes.com/2007/07/02/business/media/02universal.html">"Universal in Dispute With Apple Over iTunes"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Universal+in+Dispute+With+Apple+Over+iTunes&amp;rft.aulast=Leeds&amp;rft.aufirst=Jeff&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2007%2F07%2F02%2Fbusiness%2Fmedia%2F02universal.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://torrentfreak.com/sweden-artists-filesharing-080401/">"Swedish artists want to legalize filesharing"</a> 17 October 2011</span>
+</li>
+<li id="cite_note-RIAA-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAA_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120410034407/http://www.riaa.com/faq.php">"For Students Doing Reports"</a>. RIAA. Archived from <a rel="nofollow" class="external text" href="https://www.riaa.com/faq.php">the original</a> on 10 April 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">30 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=For+Students+Doing+Reports&amp;rft.pub=RIAA&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Ffaq.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Riaa_Announces_New_Round_of_Music_Theft_Lawsuits-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Riaa_Announces_New_Round_of_Music_Theft_Lawsuits_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.riaa.com/newsitem.php?news_month_filter=2&amp;news_year_filter=2006&amp;resultpage=&amp;id=F7ED251F-6E08-52D9-A805-22662F5E4D4F">"Riaa Announces New Round Of Music Theft Lawsuits"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Riaa+Announces+New+Round+Of+Music+Theft+Lawsuits&amp;rft_id=https%3A%2F%2Fwww.riaa.com%2Fnewsitem.php%3Fnews_month_filter%3D2%26news_year_filter%3D2006%26resultpage%3D%26id%3DF7ED251F-6E08-52D9-A805-22662F5E4D4F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Jason Krause. "Breaking up downloading". <i><a href="/wiki/ABA_Journal" title="ABA Journal">ABA Journal</a></i> 92 (2006): 16, 18. Research Library. ProQuest. <a href="/wiki/Georgia_State_University_Library" title="Georgia State University Library">Georgia State University Library</a>, Atlanta, Georgia. 12 November 2008</span>
+</li>
+<li id="cite_note-Top_100_tracks-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-Top_100_tracks_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Copsey, Rob (9 September 2014). <a rel="nofollow" class="external text" href="http://www.officialcharts.com/chart-news/pharrells-happy-now-the-uks-most-downloaded-track-of-all-time-3108/">"Pharrell's Happy now the UK's most downloaded track of all time"</a>. <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a><span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pharrell%27s+Happy+now+the+UK%27s+most+downloaded+track+of+all+time&amp;rft.pub=Official+Charts+Company&amp;rft.date=2014-09-09&amp;rft.aulast=Copsey&amp;rft.aufirst=Rob&amp;rft_id=http%3A%2F%2Fwww.officialcharts.com%2Fchart-news%2Fpharrells-happy-now-the-uks-most-downloaded-track-of-all-time-3108%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RSMillion-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-RSMillion_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Hiatt, Brian (19 January 2006). <a rel="nofollow" class="external text" href="https://www.rollingstone.com/music/news/stefani-peas-lead-singles-boom-20060120">"Stefani, Peas Lead Singles Boom"</a>. <i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i>. <a href="/wiki/Jann_Wenner" title="Jann Wenner">Wenner Media</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 January</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Rolling+Stone&amp;rft.atitle=Stefani%2C+Peas+Lead+Singles+Boom&amp;rft.date=2006-01-19&amp;rft.aulast=Hiatt&amp;rft.aufirst=Brian&amp;rft_id=https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2Fnews%2Fstefani-peas-lead-singles-boom-20060120&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://music.yahoo.com/blogs/chart-watch/week-ending-june-24-2012-songs-elton-peas-214235458.html">"Week Ending June 24, 2012. Songs: Elton &amp; The Peas &#124; Chart Watch (NEW)"</a>. <i>Yahoo.com</i>. 27 June 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Yahoo.com&amp;rft.atitle=Week+Ending+June+24%2C+2012.+Songs%3A+Elton+%26+The+Peas+%26%23124%3B+Chart+Watch+%28NEW%29&amp;rft.date=2012-06-27&amp;rft_id=http%3A%2F%2Fmusic.yahoo.com%2Fblogs%2Fchart-watch%2Fweek-ending-june-24-2012-songs-elton-peas-214235458.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://new.music.yahoo.com/blogs/chart_watch/74345/week-ending-march-20-2011-songs-the-chris-brown-matter/;_ylt=AoumODvrri0gIE7HiOhd3n0PwiUv">"Week Ending March 20, 2011: Songs: The Chris Brown Matter – Yahoo! Chart Watch"</a>. <i>Yahoo.com</i>. 23 March 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">2 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Yahoo.com&amp;rft.atitle=Week+Ending+March+20%2C+2011%3A+Songs%3A+The+Chris+Brown+Matter+%E2%80%93+Yahoo%21+Chart+Watch&amp;rft.date=2011-03-23&amp;rft_id=http%3A%2F%2Fnew.music.yahoo.com%2Fblogs%2Fchart_watch%2F74345%2Fweek-ending-march-20-2011-songs-the-chris-brown-matter%2F%3B_ylt%3DAoumODvrri0gIE7HiOhd3n0PwiUv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Zee (2 July 2009). <a rel="nofollow" class="external text" href="https://thenextweb.com/2009/07/02/michael-jackson-sell-1-million-downloads-week/">"Michael Jackson is the First to Sell 1 Million Downloads in a Week"</a>. The Next Web<span class="reference-accessdate">. Retrieved <span class="nowrap">18 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Michael+Jackson+is+the+First+to+Sell+1+Million+Downloads+in+a+Week&amp;rft.pub=The+Next+Web&amp;rft.date=2009-07-02&amp;rft.au=Zee&amp;rft_id=https%3A%2F%2Fthenextweb.com%2F2009%2F07%2F02%2Fmichael-jackson-sell-1-million-downloads-week%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://rapradar.com/2011/07/05/eminem-sets-digital-sales-record/">"Eminem Sets Digital Sales Record"</a>. Rap Radar. 5 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">19 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Eminem+Sets+Digital+Sales+Record&amp;rft.pub=Rap+Radar&amp;rft.date=2011-07-05&amp;rft_id=http%3A%2F%2Frapradar.com%2F2011%2F07%2F05%2Feminem-sets-digital-sales-record%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-aug2006digi-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-RIAJ-aug2006digi_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RIAJ-aug2006digi_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w060920_3.html">"レコード協会調べ　8月度有料音楽配信認定"</a> &#91;Record Association Investigation: August Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 September 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">23 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%808%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2006-09-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw060920_3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-july2015digi-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-july2015digi_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w150820.html">"レコード協会調べ　7月度有料音楽配信認定"</a> &#91;Record Association Investigation: July Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 August 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%807%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2015-08-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw150820.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-mar2014digi-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-mar2014digi_17-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w140418.html">"レコード協会調べ　3月度有料音楽配信認定"</a> &#91;Record Association Investigation: March Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 18 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%803%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2014-04-18&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw140418.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-aug2008digi-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-aug2008digi_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w080920_3.html">"レコード協会調べ　8月度有料音楽配信認定"</a> &#91;Record Association Investigation: August Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 September 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%808%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2008-09-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw080920_3.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-jul2009digi-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-jul2009digi_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w090820.html">"レコード協会調べ　7月度有料音楽配信認定"</a> &#91;Record Association Investigation: July Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 August 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%807%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2009-08-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw090820.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-jan2014digi-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-jan2014digi_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w140228.html">"レコード協会調べ　1月度有料音楽配信認定"</a> &#91;Record Association Investigation: January Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 28 February 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">4 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%801%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2014-02-28&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw140228.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-may2011digi-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-may2011digi_21-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w110620.html">"レコード協会調べ　5月度有料音楽配信認定"</a> &#91;Record Association Investigation: May Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 June 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%805%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2011-06-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw110620.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RIAJ-jan2015digi-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-RIAJ-jan2015digi_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.riaj.or.jp/data/others/chart/w150220.html">"レコード協会調べ　1月度有料音楽配信認定"</a> &#91;Record Association Investigation: January Digital Music Download Certifications&#93; (in Japanese). <a href="/wiki/Recording_Industry_Association_of_Japan" title="Recording Industry Association of Japan">Recording Industry Association of Japan</a>. 20 February 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E3%83%AC%E3%82%B3%E3%83%BC%E3%83%89%E5%8D%94%E4%BC%9A%E8%AA%BF%E3%81%B9%E3%80%801%E6%9C%88%E5%BA%A6%E6%9C%89%E6%96%99%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1%E8%AA%8D%E5%AE%9A&amp;rft.pub=Recording+Industry+Association+of+Japan&amp;rft.date=2015-02-20&amp;rft_id=http%3A%2F%2Fwww.riaj.or.jp%2Fdata%2Fothers%2Fchart%2Fw150220.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Gaon2012-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gaon2012_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gaon2012_23-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2012&amp;hitYear=2012&amp;termGbn=year">"2012년 Download Chart"</a>. Korea Music Content Industry Association<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2012%EB%85%84+Download+Chart&amp;rft.pub=Korea+Music+Content+Industry+Association&amp;rft_id=http%3A%2F%2Fwww.gaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Fonline.gaon%3FnationGbn%3DT%26serviceGbn%3DS1020%26targetTime%3D2012%26hitYear%3D2012%26termGbn%3Dyear&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Gaon2013-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gaon2013_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2013&amp;hitYear=2013&amp;termGbn=year">"2013년 Download Chart"</a>. Korea Music Content Industry Association<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2013%EB%85%84+Download+Chart&amp;rft.pub=Korea+Music+Content+Industry+Association&amp;rft_id=http%3A%2F%2Fwww.gaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Fonline.gaon%3FnationGbn%3DT%26serviceGbn%3DS1020%26targetTime%3D2013%26hitYear%3D2013%26termGbn%3Dyear&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Gaon2014-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gaon2014_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2014&amp;hitYear=2014&amp;termGbn=year">"2014년 Download Chart"</a>. Korea Music Content Industry Association<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2014%EB%85%84+Download+Chart&amp;rft.pub=Korea+Music+Content+Industry+Association&amp;rft_id=http%3A%2F%2Fwww.gaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Fonline.gaon%3FnationGbn%3DT%26serviceGbn%3DS1020%26targetTime%3D2014%26hitYear%3D2014%26termGbn%3Dyear&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Gaon2015-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gaon2015_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2015&amp;hitYear=2015&amp;termGbn=year">"2015년 Download Chart"</a>. Korea Music Content Industry Association<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2015%EB%85%84+Download+Chart&amp;rft.pub=Korea+Music+Content+Industry+Association&amp;rft_id=http%3A%2F%2Fwww.gaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Fonline.gaon%3FnationGbn%3DT%26serviceGbn%3DS1020%26targetTime%3D2015%26hitYear%3D2015%26termGbn%3Dyear&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Gaon2011-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gaon2011_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2011&amp;hitYear=2011&amp;termGbn=year">"2011년 Download Chart"</a>. Korea Music Content Industry Association<span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=2011%EB%85%84+Download+Chart&amp;rft.pub=Korea+Music+Content+Industry+Association&amp;rft_id=http%3A%2F%2Fwww.gaonchart.co.kr%2Fmain%2Fsection%2Fchart%2Fonline.gaon%3FnationGbn%3DT%26serviceGbn%3DS1020%26targetTime%3D2011%26hitYear%3D2011%26termGbn%3Dyear&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMusic+download" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Music_industry" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Music_industry" title="Template:Music industry"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Music_industry" title="Template talk:Music industry"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Music_industry&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Music_industry" style="font-size:114%;margin:0 4em"><a href="/wiki/Music_industry" title="Music industry">Music industry</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Companies and<br />organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Representatives</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a></li>
+<li><a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">BVMI</a></li>
+<li><a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">BPI</a></li>
+<li><a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a></li>
+<li><a href="/wiki/Federazione_Industria_Musicale_Italiana" title="Federazione Industria Musicale Italiana">FIMI</a></li>
+<li><a href="/wiki/International_Federation_of_the_Phonographic_Industry" title="International Federation of the Phonographic Industry">IFPI (worldwide)</a></li>
+<li><a href="/wiki/Productores_de_M%C3%BAsica_de_Espa%C3%B1a" title="Productores de Música de España">PROMUSICAE</a></li>
+<li><a href="/wiki/Recording_Industry_Association_of_America_certification" class="mw-redirect" title="Recording Industry Association of America certification">RIAA</a></li>
+<li><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l&#39;Édition Phonographique">SNEP</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Music<br />publishers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BMG_Rights_Management" title="BMG Rights Management">BMG Rights Management</a></li>
+<li><a href="/wiki/Fox_Music" title="Fox Music">Fox Music</a></li>
+<li><a href="/wiki/Imagem" title="Imagem">Imagem</a></li>
+<li><a href="/wiki/MGM_Music" title="MGM Music">MGM Music</a></li>
+<li><a href="/wiki/Music_catalog" title="Music catalog">Music catalog</a></li>
+<li><a href="/wiki/Sony/ATV_Music_Publishing" title="Sony/ATV Music Publishing">Sony/ATV Music Publishing</a></li>
+<li><a href="/wiki/Universal_Music_Publishing_Group" title="Universal Music Publishing Group">Universal Music Publishing Group</a></li>
+<li><a href="/wiki/Warner_Chappell_Music" title="Warner Chappell Music">Warner Chappell Music</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Record_label" title="Record label">Record labels</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><b><a href="/wiki/Record_label#Major_labels" title="Record label">Major</a></b></i>: <a href="/wiki/Sony_Music" title="Sony Music">Sony Music Group</a></li>
+<li><a href="/wiki/Universal_Music_Group" title="Universal Music Group">Universal Music Group</a></li>
+<li><a href="/wiki/Warner_Music_Group" title="Warner Music Group">Warner Music Group</a></li>
+<li><i><b><a href="/wiki/Independent_record_label" title="Independent record label">Independent</a></b></i>: <a href="/wiki/Concord_Music" title="Concord Music">Concord Music</a></li>
+<li><a href="/wiki/List_of_independent_UK_record_labels" title="List of independent UK record labels">Independent UK record labels</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Retailers</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amazon_(company)" title="Amazon (company)">Amazon.com</a></li>
+<li><a href="/wiki/Fnac" title="Fnac">Fnac</a></li>
+<li><a href="/wiki/HMV" title="HMV">HMV</a></li>
+<li><a href="/wiki/Online_music_store" title="Online music store">Online music stores</a> (<a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a>)</li>
+<li><a href="/wiki/Trans_World_Entertainment" title="Trans World Entertainment">Trans World Entertainment</a></li>
+<li><a href="/wiki/Virgin_Megastores" title="Virgin Megastores">Virgin Megastores</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Live music</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/CTS_Eventim" title="CTS Eventim">CTS Eventim</a></li>
+<li><a href="/wiki/Live_Nation_Entertainment" title="Live Nation Entertainment">Live Nation</a></li>
+<li><a href="/wiki/LiveStyle" title="LiveStyle">LiveStyle</a></li>
+<li><a href="/wiki/Ticketmaster" title="Ticketmaster">Ticketmaster</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_popular_music_genres" title="List of popular music genres">Genres</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Avant-garde_music" title="Avant-garde music">Avant-garde</a></li>
+<li><a href="/wiki/Blues" title="Blues">Blues</a></li>
+<li><a href="/wiki/Contemporary_R%26B" title="Contemporary R&amp;B">Contemporary R&amp;B</a></li>
+<li><a href="/wiki/Country_music" title="Country music">Country</a></li>
+<li><a href="/wiki/Crossover_music" title="Crossover music">Crossover</a></li>
+<li><a href="/wiki/Electronic_dance_music" title="Electronic dance music">Dance</a></li>
+<li><a href="/wiki/Disco" title="Disco">Disco</a></li>
+<li><a href="/wiki/Drum_and_bass" title="Drum and bass">Drum and bass</a></li>
+<li><a href="/wiki/Easy_listening" title="Easy listening">Easy listening</a></li>
+<li><a href="/wiki/Electronica" title="Electronica">Electronica</a></li>
+<li><a href="/wiki/Experimental_music" title="Experimental music">Experimental</a></li>
+<li><a href="/wiki/Folk_music" title="Folk music">Folk</a></li>
+<li><a href="/wiki/Funk" title="Funk">Funk</a></li>
+<li><a href="/wiki/Gospel_music" title="Gospel music">Gospel</a></li>
+<li><a href="/wiki/Hip_hop_music" title="Hip hop music">Hip hop</a></li>
+<li><a href="/wiki/Instrumental" title="Instrumental">Instrumental</a></li>
+<li><a href="/wiki/Jazz" title="Jazz">Jazz</a></li>
+<li><a href="/wiki/Latin_music" title="Latin music">Latin</a></li>
+<li><a href="/wiki/Heavy_metal_music" title="Heavy metal music">Metal</a></li>
+<li><a href="/wiki/Motown" title="Motown">Motown</a></li>
+<li><a href="/wiki/New-age_music" title="New-age music">New Age</a></li>
+<li><a href="/wiki/Operatic_pop" title="Operatic pop">Operatic pop</a></li>
+<li><a href="/wiki/Pop_music" title="Pop music">Pop</a></li>
+<li><a href="/wiki/Punk_rock" title="Punk rock">Punk</a></li>
+<li><a href="/wiki/Reggae" title="Reggae">Reggae</a></li>
+<li><a href="/wiki/Rock_music" title="Rock music">Rock</a></li>
+<li><a href="/wiki/Soul_music" title="Soul music">Soul</a></li>
+<li><a href="/wiki/Soundtrack" title="Soundtrack">Soundtrack</a></li>
+<li><a href="/wiki/World_music" title="World music">World</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sectors<br />and roles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Album_cover#Design" title="Album cover">Album cover design</a></li>
+<li><a href="/wiki/Artists_and_repertoire" title="Artists and repertoire">Artists and repertoire (A&amp;R)</a></li>
+<li><a href="/wiki/Disc_jockey" title="Disc jockey">Disc jockey</a></li>
+<li><a href="/wiki/Music_industry#Business_structure" title="Music industry">Distribution</a></li>
+<li><a href="/wiki/Entertainment_law" title="Entertainment law">Entertainment law</a></li>
+<li><a href="/wiki/Music_education" title="Music education">Music education</a></li>
+<li><a href="/wiki/Music_executive" title="Music executive">Music executive</a></li>
+<li><a href="/wiki/Music_journalism" title="Music journalism">Music journalism</a></li>
+<li><a href="/wiki/Music_publisher_(popular_music)" title="Music publisher (popular music)">Music publisher</a></li>
+<li><a href="/wiki/Music_store" title="Music store">Music store</a></li>
+<li><a href="/wiki/Music_venue" title="Music venue">Music venue</a></li>
+<li><a href="/wiki/Musical_instrument" title="Musical instrument">Musical instruments</a></li>
+<li><a href="/wiki/Professional_audio_store" title="Professional audio store">Professional audio store</a></li>
+<li><a href="/wiki/Promoter_(entertainment)" title="Promoter (entertainment)">Promotion</a></li>
+<li><a href="/wiki/Radio_promotion" title="Radio promotion">Radio promotion</a></li>
+<li><a href="/wiki/Record_label" title="Record label">Record label</a></li>
+<li><a href="/wiki/Record_shop" title="Record shop">Record shop</a></li>
+<li><a href="/wiki/Road_crew" title="Road crew">Road crew</a></li>
+<li><a href="/wiki/Talent_manager" title="Talent manager">Talent manager</a></li>
+<li><a href="/wiki/Tour_promoter" title="Tour promoter">Tour promoter</a></li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Production" scope="row" class="navbox-group" style="width:1%">Production</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arrangement" title="Arrangement">Arrangement</a></li>
+<li><a href="/wiki/Composer" title="Composer">Composer</a></li>
+<li><a href="/wiki/Conducting" title="Conducting">Conductor</a></li>
+<li><a href="/wiki/Disc_jockey" title="Disc jockey">Disc jockey</a></li>
+<li><a href="/wiki/Hip_hop_production" title="Hip hop production">Hip hop producer</a></li>
+<li><a href="/wiki/Horn_section" title="Horn section">Horn section</a></li>
+<li><a href="/wiki/Record_producer" title="Record producer">Record producer</a></li>
+<li><a href="/wiki/Musician" title="Musician">Recording artist</a></li>
+<li><a href="/wiki/Rhythm_section" title="Rhythm section">Rhythm section</a></li>
+<li><a href="/wiki/Orchestration" title="Orchestration">Orchestrator</a></li>
+<li><a href="/wiki/Session_musician" title="Session musician">Session musician</a></li>
+<li><a href="/wiki/Singing" title="Singing">Singer</a>
+<ul><li><a href="/wiki/Backing_vocalist" title="Backing vocalist">Backup singer</a></li>
+<li><a href="/wiki/Ghost_singer" title="Ghost singer">Ghost singer</a></li>
+<li><a href="/wiki/Vocal_coach" title="Vocal coach">Vocal coach</a></li></ul></li>
+<li><a href="/wiki/Songwriter" title="Songwriter">Songwriter</a>
+<ul><li><a href="/wiki/Ghostwriter" title="Ghostwriter">Ghostwriter</a></li></ul></li>
+<li><a href="/wiki/Audio_engineer" title="Audio engineer">Sound engineer</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Recording_format" title="Recording format">Release<br />formats</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Album" title="Album">Album</a></li>
+<li><a href="/wiki/Extended_play" title="Extended play">Extended play (EP)/Mini album</a></li>
+<li><a href="/wiki/Single_(music)" title="Single (music)">Single</a></li>
+<li><a href="/wiki/Music_video" title="Music video">Music video</a></li>
+<li><a href="/wiki/Promotional_recording" title="Promotional recording">Promotional recording</a></li>
+<li><a href="/wiki/Phonograph_record" title="Phonograph record">Phonograph record</a></li>
+<li><a href="/wiki/8-track_tape" title="8-track tape">Eight-track</a></li>
+<li><a href="/wiki/Compact_Cassette" class="mw-redirect" title="Compact Cassette">Compact cassette</a></li>
+<li><a href="/wiki/Compact_disc" title="Compact disc">CD</a></li>
+<li><a href="/wiki/DVD" title="DVD">DVD</a></li>
+<li><a href="/wiki/Airplay" title="Airplay">Airplay</a></li>
+<li><a class="mw-selflink selflink">Music download</a></li>
+<li><a href="/wiki/Streaming_media" title="Streaming media">Streaming media</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Live shows</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Concert" title="Concert">Concert</a></li>
+<li><a href="/wiki/Concert_tour" title="Concert tour">Concert tour</a></li>
+<li><a href="/wiki/Concert_residency" title="Concert residency">Concert residency</a></li>
+<li><a href="/wiki/Music_festival" title="Music festival">Music festival</a></li>
+<li><a href="/wiki/Music_competition" title="Music competition">Music competition</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Record_chart" title="Record chart">Charts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA Charts</a></li>
+<li><a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a></li>
+<li><a href="/wiki/Argentina_Hot_100" title="Argentina Hot 100"><i>Billboard</i> Argentina Hot 100</a></li>
+<li><a href="/wiki/Brasil_Hot_100_Airplay" class="mw-redirect" title="Brasil Hot 100 Airplay">Brasil Hot 100 Airplay</a></li>
+<li><a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">Canadian Hot 100</a></li>
+<li><a href="/wiki/Gaon_Music_Chart" title="Gaon Music Chart">Gaon Music Chart</a></li>
+<li><a href="/wiki/G-Music" title="G-Music">G-Music Chart</a></li>
+<li><a href="/wiki/Irish_Singles_Chart" title="Irish Singles Chart">Irish Singles Chart</a></li>
+<li><a href="/wiki/Federazione_Industria_Musicale_Italiana" title="Federazione Industria Musicale Italiana">Italian Singles Chart</a></li>
+<li><a href="/wiki/GfK_Entertainment_Charts" class="mw-redirect" title="GfK Entertainment Charts">GfK Entertainment Charts</a></li>
+<li><a href="/wiki/Entertainment_Monitoring_Africa" title="Entertainment Monitoring Africa">Entertainment Monitoring Africa</a></li>
+<li><a href="/wiki/Oricon" title="Oricon">Oricon Charts</a></li>
+<li><a href="/wiki/Official_New_Zealand_Music_Chart" title="Official New Zealand Music Chart">New Zealand Singles Chart</a></li>
+<li><a href="/wiki/Rolling_Stone_charts" title="Rolling Stone charts"><i>Rolling Stone</i> Top 100</a></li>
+<li><a href="/wiki/Sino_Chart" title="Sino Chart">Sino Chart</a></li>
+<li><a href="/wiki/Syndicat_National_de_l%27%C3%89dition_Phonographique" title="Syndicat National de l&#39;Édition Phonographique">SNEP Singles Chart</a></li>
+<li><a href="/wiki/Sverigetopplistan" title="Sverigetopplistan">Sverigetopplistan</a></li>
+<li><a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Publications</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)"><i>Billboard</i></a></li>
+<li><i><a href="/wiki/HitQuarters" title="HitQuarters">HitQuarters</a></i></li>
+<li><i><a href="/wiki/Hot_Press" title="Hot Press">Hot Press</a></i></li>
+<li><i><a href="/wiki/Kerrang!" title="Kerrang!">Kerrang!</a></i></li>
+<li><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)"><i>Mojo</i></a></li>
+<li><i><a href="/wiki/Musica_e_dischi" title="Musica e dischi">Musica e dischi</a></i></li>
+<li><i><a href="/wiki/NME" title="NME">NME</a></i></li>
+<li><a href="/wiki/Q_(magazine)" title="Q (magazine)"><i>Q</i></a></li>
+<li><i><a href="/wiki/Rolling_Stone" title="Rolling Stone">Rolling Stone</a></i></li>
+<li><i><a href="/wiki/Smash_Hits" title="Smash Hits">Smash Hits</a></i></li>
+<li><a href="/wiki/Top_of_the_Pops_(magazine)" title="Top of the Pops (magazine)"><i>Top of the Pops</i></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Music_television" title="Music television">Television</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Channels</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Channel_V" title="Channel V">Channel V</a></li>
+<li><a href="/wiki/CMT_(U.S._TV_channel)" class="mw-redirect" title="CMT (U.S. TV channel)">CMT</a></li>
+<li><a href="/wiki/Fuse_(TV_channel)" title="Fuse (TV channel)">Fuse</a></li>
+<li><a href="/wiki/Mnet_(TV_channel)" title="Mnet (TV channel)">Mnet</a></li>
+<li><a href="/wiki/MTV" title="MTV">MTV</a></li>
+<li><a href="/wiki/MTV2" title="MTV2">MTV2</a></li>
+<li><a href="/wiki/MTV_Tres" title="MTV Tres">Tr3s</a></li>
+<li><a href="/wiki/Much_(TV_channel)" title="Much (TV channel)">MuchMusic</a></li>
+<li><a href="/wiki/The_Music_Factory" title="The Music Factory">The Music Factory</a></li>
+<li><a href="/wiki/VIVA_Media" class="mw-redirect" title="VIVA Media">Viva</a></li>
+<li><a href="/wiki/VH1" title="VH1">VH1</a></li>
+<li><a href="/wiki/The_Country_Network" title="The Country Network">The Country Network</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Series</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Idol_(franchise)" class="mw-redirect" title="Idol (franchise)"><i>Idol</i> franchise</a></li>
+<li><i><a href="/wiki/Popstars" title="Popstars">Popstars</a></i></li>
+<li><i><a href="/wiki/Star_Academy" title="Star Academy">Star Academy</a></i></li>
+<li><i><a href="/wiki/The_Four_(franchise)" title="The Four (franchise)">The Four</a></i></li>
+<li><i><a href="/wiki/The_Voice_(franchise)" title="The Voice (franchise)">The Voice</a></i></li>
+<li><i><a href="/wiki/The_X_Factor" title="The X Factor">The X Factor</a></i></li>
+<li><i><a href="/wiki/Rising_Star_(franchise)" title="Rising Star (franchise)">Rising Star</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Achievements</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Music_award" title="Music award">Music award</a></li>
+<li><a href="/wiki/List_of_best-selling_music_artists" title="List of best-selling music artists">Best-selling music artists</a></li>
+<li><a href="/wiki/List_of_best-selling_albums" title="List of best-selling albums">Best-selling albums</a>
+<ul><li><a href="/wiki/List_of_best-selling_albums_by_country" title="List of best-selling albums by country">by country</a></li></ul></li>
+<li><a href="/wiki/List_of_best-selling_singles" title="List of best-selling singles">Best-selling singles</a></li>
+<li><a href="/wiki/List_of_highest-grossing_concert_tours" title="List of highest-grossing concert tours">Highest-grossing concert tours</a></li>
+<li><a href="/wiki/List_of_highest-attended_concerts" title="List of highest-attended concerts">Highest-attended concerts</a></li>
+<li><a href="/wiki/Global_Recording_Artist_of_the_Year" title="Global Recording Artist of the Year">Global Recording Artist of the Year</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Album_era" title="Album era">Album era</a></li>
+<li><a href="/wiki/Album-equivalent_unit" title="Album-equivalent unit">Album-equivalent unit</a></li>
+<li><a href="/wiki/A-side_and_B-side" title="A-side and B-side">A-side and B-side</a></li>
+<li><a href="/wiki/Backmasking" title="Backmasking">Backmasking</a></li>
+<li><a href="/wiki/Christian_music_industry" title="Christian music industry">Christian music industry</a></li>
+<li><a href="/wiki/Hidden_track" title="Hidden track">Hidden track</a></li>
+<li><a href="/wiki/List_of_largest_recorded_music_markets" title="List of largest recorded music markets">Largest recorded music markets</a></li>
+<li><a href="/wiki/Music_recording_certification" title="Music recording certification">Music certification</a></li>
+<li><a href="/wiki/Record_sales" title="Record sales">Record sales</a></li>
+<li><a href="/wiki/White_label" title="White label">White label</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Music_industry" title="Category:Music industry">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Music_digital_distribution_platforms" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Music_digital_distribution_platforms" title="Template:Music digital distribution platforms"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Music_digital_distribution_platforms" title="Template talk:Music digital distribution platforms"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Music_digital_distribution_platforms&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Music_digital_distribution_platforms" style="font-size:114%;margin:0 4em"><a href="/wiki/Music" title="Music">Music</a> <a href="/wiki/Digital_distribution" title="Digital distribution">digital distribution</a> <a href="/wiki/Content_delivery_network" title="Content delivery network">platforms</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Digital_library&amp;#10;*_Music_download&amp;#10;*_Online_music_store&amp;#10;*_Streaming_media">
+<ul><li><a href="/wiki/Digital_library" title="Digital library">Digital library</a></li>
+<li><a class="mw-selflink selflink">Music download</a></li>
+<li><a href="/wiki/Online_music_store" title="Online music store">Online music store</a></li>
+<li><a href="/wiki/Streaming_media" title="Streaming media">Streaming media</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Active</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/7digital" title="7digital">7digital</a></li>
+<li><a href="/wiki/8tracks.com" title="8tracks.com">8tracks.com</a></li>
+<li><a href="/wiki/AliMusic" title="AliMusic">AliMusic</a></li>
+<li><a href="/wiki/Amazon_Music" title="Amazon Music">Amazon Music</a></li>
+<li><a href="/wiki/Anghami" title="Anghami">Anghami</a></li>
+<li><a href="/wiki/Apple_Music" title="Apple Music">Apple Music</a></li>
+<li><a href="/wiki/Baidu_Music" title="Baidu Music">Baidu Music</a></li>
+<li><a href="/wiki/Bandcamp" title="Bandcamp">Bandcamp</a></li>
+<li><a href="/wiki/Bandit.fm" class="mw-redirect" title="Bandit.fm">Bandit.fm</a></li>
+<li><a href="/wiki/Beatport" title="Beatport">Beatport</a></li>
+<li><a href="/wiki/Bleep.com" title="Bleep.com">Bleep.com</a></li>
+<li><a href="/wiki/Boomplay_Music" title="Boomplay Music">Boomplay Music</a></li>
+<li><a href="/wiki/CD_Baby" title="CD Baby">CD Baby</a></li>
+<li><a href="/wiki/Classical_Archives" title="Classical Archives">Classical Archives</a></li>
+<li><a href="/wiki/Claro_M%C3%BAsica" title="Claro Música">Claro Música</a></li>
+<li><a href="/wiki/Deezer" title="Deezer">Deezer</a></li>
+<li><a href="/wiki/DI.FM" title="DI.FM">Digitally Imported</a></li>
+<li><a href="/wiki/Ditto_Music" title="Ditto Music">Ditto Music</a></li>
+<li><a href="/wiki/Djshop" title="Djshop">Djshop</a></li>
+<li><a href="/wiki/EmuBands" title="EmuBands">EmuBands</a></li>
+<li><a href="/wiki/EMusic" title="EMusic">eMusic</a></li>
+<li><a href="/wiki/Gaana.com" title="Gaana.com">Gaana.com</a></li>
+<li><a href="/wiki/Google_Play_Music" title="Google Play Music">Google Play Music</a></li>
+<li><a href="/wiki/HDtracks" title="HDtracks">HDtracks</a></li>
+<li><a href="/wiki/Hoopla_(digital_media_service)" title="Hoopla (digital media service)">Hoopla</a></li>
+<li><a href="/wiki/Icecast" title="Icecast">Icecast</a></li>
+<li><a href="/wiki/IHeartRadio" title="IHeartRadio">iHeartRadio</a></li>
+<li><a href="/wiki/ITunes_Store" title="ITunes Store">iTunes Store</a></li>
+<li><a href="/wiki/Jamendo" title="Jamendo">Jamendo</a></li>
+<li><a href="/wiki/JioSaavn" title="JioSaavn">JioSaavn</a></li>
+<li><a href="/wiki/JOOX" title="JOOX">JOOX</a></li>
+<li><a href="/wiki/Juno_Records" title="Juno Records">Juno Records</a></li>
+<li><a href="/wiki/KakaoMusic" title="KakaoMusic">KakaoMusic</a></li>
+<li><a href="/wiki/KKBox" title="KKBox">KKBox</a></li>
+<li><a href="/wiki/KuGou" title="KuGou">KuGou</a></li>
+<li><a href="/wiki/Last.fm" title="Last.fm">Last.fm</a></li>
+<li><a href="/wiki/Line_Music" title="Line Music">Line Music</a></li>
+<li><a href="/wiki/Live365" title="Live365">Live365</a></li>
+<li><a href="/wiki/LiveXLive" title="LiveXLive">LiveXLive (Slacker)</a></li>
+<li><a href="/wiki/Magnatune" title="Magnatune">Magnatune</a></li>
+<li><a href="/wiki/Melon_(online_music_service)" title="Melon (online music service)">Melon</a></li>
+<li><a href="/wiki/Mixcloud" title="Mixcloud">Mixcloud</a></li>
+<li><a href="/wiki/MOOV" class="mw-redirect" title="MOOV">MOOV</a></li>
+<li><a href="/wiki/Murfie" title="Murfie">Murfie</a></li>
+<li><a href="/wiki/MusicStation" title="MusicStation">MusicStation</a></li>
+<li><a href="/wiki/Music_Glue" title="Music Glue">Music Glue</a></li>
+<li><a href="/wiki/Mziiki" title="Mziiki">Mziiki</a></li>
+<li><a href="/wiki/Napster_(streaming_music_service)" title="Napster (streaming music service)">Napster</a></li>
+<li><a href="/wiki/NetEase_Music" title="NetEase Music">NetEase Music</a></li>
+<li><a href="/wiki/Nimbit" title="Nimbit">Nimbit</a></li>
+<li><a href="/wiki/NoiseTrade" title="NoiseTrade">NoiseTrade</a></li>
+<li><a href="/wiki/ONErpm" title="ONErpm">ONErpm</a></li>
+<li><a href="/wiki/OverDrive,_Inc." title="OverDrive, Inc.">OverDrive, Inc.</a></li>
+<li><a href="/wiki/Pandora_Radio" title="Pandora Radio">Pandora</a></li>
+<li><a href="/wiki/Patari_(service)" title="Patari (service)">Patari</a></li>
+<li><a href="/wiki/PayPlay.FM" title="PayPlay.FM">PayPlay.FM</a></li>
+<li><a href="/wiki/PlayStation_Music" title="PlayStation Music">PlayStation Music</a></li>
+<li><a href="/wiki/Qobuz" title="Qobuz">Qobuz</a></li>
+<li><a href="/wiki/QQ_Music" title="QQ Music">QQ Music</a></li>
+<li><a href="/wiki/Raaga.com" title="Raaga.com">Raaga.com</a></li>
+<li><a href="/wiki/Radio.com" title="Radio.com">Radio.com</a></li>
+<li><a href="/wiki/Radical.fm" title="Radical.fm">Radical.fm</a></li>
+<li><a href="/wiki/Radionomy" title="Radionomy">Radionomy</a></li>
+<li><a href="/wiki/Rearts" title="Rearts">Rearts</a></li>
+<li><a href="/wiki/RockMyRun" title="RockMyRun">RockMyRun</a></li>
+<li><a href="/wiki/ROXI" title="ROXI">ROXI</a></li>
+<li><a href="/wiki/Sellaband" title="Sellaband">Sellaband</a></li>
+<li><a href="/wiki/Spinlet" title="Spinlet">Spinlet</a></li>
+<li><a href="/wiki/Spotify" title="Spotify">Spotify</a></li>
+<li><a href="/wiki/SoundCloud" title="SoundCloud">SoundCloud</a></li>
+<li><a href="/wiki/Shazam_(application)" title="Shazam (application)">Shazam</a></li>
+<li><a href="/wiki/Tidal_(service)" title="Tidal (service)">Tidal</a></li>
+<li><a href="/wiki/Twine_(marketplace)" title="Twine (marketplace)">Twine</a></li>
+<li><a href="/wiki/WiMP" title="WiMP">WiMP</a></li>
+<li><a href="/wiki/YouTube_Music" title="YouTube Music">YouTube Music</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discontinued</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amie_Street" title="Amie Street">Amie Street</a></li>
+<li><a href="/wiki/Aupeo" title="Aupeo">Aupeo</a></li>
+<li><a href="/wiki/Beats_Music" title="Beats Music">Beats Music</a></li>
+<li><a href="/wiki/BlackBerry_World" title="BlackBerry World">BlackBerry World</a></li>
+<li><a href="/wiki/Blinkbox_Music" title="Blinkbox Music">Blinkbox Music</a></li>
+<li><a href="/wiki/BuyMusic" title="BuyMusic">BuyMusic</a></li>
+<li><a href="/wiki/Electric_Jukebox" title="Electric Jukebox">Electric Jukebox</a></li>
+<li><a href="/wiki/GhostTunes" title="GhostTunes">GhostTunes</a></li>
+<li><a href="/wiki/GoMusicNow" title="GoMusicNow">GoMusicNow</a></li>
+<li><a href="/wiki/Groove_Music" title="Groove Music">Groove Music</a></li>
+<li><a href="/wiki/Grooveshark" title="Grooveshark">Grooveshark</a></li>
+<li><a href="/wiki/Guvera" title="Guvera">Guvera</a></li>
+<li><a href="/wiki/Internet_Underground_Music_Archive" title="Internet Underground Music Archive">Internet Underground Music Archive</a></li>
+<li><a href="/wiki/Imeem" title="Imeem">imeem</a></li>
+<li><a href="/wiki/IMesh" title="IMesh">iMesh</a></li>
+<li><a href="/wiki/Kazaa" title="Kazaa">Kazaa</a></li>
+<li><a href="/wiki/Mixcrate" title="Mixcrate">Mixcrate</a></li>
+<li><a href="/wiki/MOG_(online_music)" title="MOG (online music)">Mog</a></li>
+<li><a href="/wiki/MP3.com" title="MP3.com">MP3.com</a></li>
+<li><a href="/wiki/Sony_Entertainment_Network" title="Sony Entertainment Network">Music Unlimited</a></li>
+<li><a href="/wiki/Ovi_(Nokia)" title="Ovi (Nokia)">Nokia Store</a></li>
+<li><a href="/wiki/MixRadio" title="MixRadio">MixRadio</a></li>
+<li><a href="/wiki/PlayNow_Arena" title="PlayNow Arena">PlayNow Arena</a></li>
+<li><a href="/wiki/Pono_(digital_music_service)" title="Pono (digital music service)">Pono</a></li>
+<li><a href="/wiki/PressPlay" title="PressPlay">PressPlay</a></li>
+<li><a href="/wiki/Puretracks" title="Puretracks">Puretracks</a></li>
+<li><a href="/wiki/Rara_(service)" title="Rara (service)">rara</a></li>
+<li><a href="/wiki/Rdio" title="Rdio">Rdio</a></li>
+<li><a href="/wiki/Simfy" title="Simfy">Simfy</a></li>
+<li><a href="/wiki/Songza" title="Songza">Songza</a></li>
+<li><a href="/wiki/Sony_Connect" title="Sony Connect">Sony Connect</a></li>
+<li><a href="/wiki/Spinner_(website)" title="Spinner (website)">Spinner</a></li>
+<li><a href="/wiki/SpiralFrog" title="SpiralFrog">SpiralFrog</a></li>
+<li><a href="/wiki/Stardock_Central" title="Stardock Central">Stardock Central</a></li>
+<li><a href="/wiki/Streamwaves" title="Streamwaves">Streamwaves</a></li>
+<li><a href="/wiki/Style_Jukebox" title="Style Jukebox">Style Jukebox</a></li>
+<li><a href="/wiki/Ubetoo" title="Ubetoo">Ubetoo</a></li>
+<li><a href="/wiki/Wowloud" title="Wowloud">Wowloud</a></li>
+<li><a href="/wiki/Yahoo!_Music_Radio" title="Yahoo! Music Radio">Yahoo! Music Radio/LAUNCHcast</a></li>
+<li><a href="/wiki/Yahoo!_Music_Unlimited" title="Yahoo! Music Unlimited">Yahoo! Music Unlimited</a></li>
+<li><a href="/wiki/Zune_software" title="Zune software">Zune Marketplace</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1317
+Cached time: 20190921030821
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.488 seconds
+Real time usage: 0.590 seconds
+Preprocessor visited node count: 2118/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106936/2097152 bytes
+Template argument size: 2349/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 72843/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.249/10.000 seconds
+Lua memory usage: 5.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  471.268      1 -total
+ 55.04%  259.375      2 Template:Reflist
+ 44.46%  209.507     23 Template:Cite_web
+ 14.54%   68.518      3 Template:Citation_needed
+ 13.23%   62.365      3 Template:Fix
+  9.61%   45.294      1 Template:Use_dmy_dates
+  9.32%   43.906      5 Template:Navbox
+  8.04%   37.895      7 Template:Category_handler
+  7.58%   35.717      1 Template:Music_industry
+  4.52%   21.279      3 Template:Delink
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:797714-0!canonical and timestamp 20190921030820 and revision id 915583660
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Music_download&amp;oldid=915583660">https://en.wikipedia.org/w/index.php?title=Music_download&amp;oldid=915583660</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Online_content_distribution" title="Category:Online content distribution">Online content distribution</a></li><li><a href="/wiki/Category:File_sharing" title="Category:File sharing">File sharing</a></li><li><a href="/wiki/Category:Recorded_music" title="Category:Recorded music">Recorded music</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_Japanese-language_sources_(ja)" title="Category:CS1 Japanese-language sources (ja)">CS1 Japanese-language sources (ja)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2015" title="Category:Use dmy dates from December 2015">Use dmy dates from December 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2012" title="Category:Articles with unsourced statements from October 2012">Articles with unsourced statements from October 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2011" title="Category:Articles with unsourced statements from December 2011">Articles with unsourced statements from December 2011</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_July_2012" title="Category:Articles containing potentially dated statements from July 2012">Articles containing potentially dated statements from July 2012</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Music+download" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Music+download" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Music_download" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Music_download" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Music_download">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Music_download&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Music_download&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Music_download" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Music_download" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Music_download&amp;oldid=915583660" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Music_download&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6473564" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Music_download&amp;id=915583660" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Music+download">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Music+download&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Music_download&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D9%85%D9%8A%D9%84_%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89" title="تحميل موسيقى – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Musiqi_y%C3%BCkl%C9%99m%C9%99" title="Musiqi yükləmə – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Desc%C3%A0rrega_digital" title="Descàrrega digital – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Stahov%C3%A1n%C3%AD_hudby" title="Stahování hudby – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Musikdownload" title="Musikdownload – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/Digital_download_(%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE)" title="Digital download (μουσική) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Descarga_de_m%C3%BAsica" title="Descarga de música – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF_%D9%85%D9%88%D8%B3%DB%8C%D9%82%DB%8C" title="دانلود موسیقی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9chargement_de_musique" title="Téléchargement de musique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9D%8C%EC%95%85_%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C" title="음악 다운로드 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B5%D6%80%D5%A1%D5%AA%D5%B7%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%A1%D5%B6_%D5%B6%D5%A5%D6%80%D5%A2%D5%A5%D5%BC%D5%B6%D5%B8%D6%82%D5%B4" title="Երաժշտության ներբեռնում – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%97%E0%A5%80%E0%A4%A4_%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1" title="संगीत डाउनलोड – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Unduhan_musik" title="Unduhan musik – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Musica_digitale" title="Musica digitale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%AA%E1%83%98%E1%83%A4%E1%83%A0%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A9%E1%83%90%E1%83%9B%E1%83%9D%E1%83%9C%E1%83%90%E1%83%A2%E1%83%95%E1%83%98%E1%83%A0%E1%83%97%E1%83%98" title="ციფრული ჩამონატვირთი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%8B_%D0%B6%D2%AF%D0%BA%D1%82%D0%B5%D1%83" title="Музыканы жүктеу – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Zenelet%C3%B6lt%C3%A9s" title="Zeneletöltés – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D1%83%D0%B7%D0%B8%D1%87%D0%BA%D0%BE_%D1%81%D0%B8%D0%BC%D0%BD%D1%83%D0%B2%D0%B0%D1%9A%D0%B5" title="Музичко симнување – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Muat_turun_digital" title="Muat turun digital – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Muziekdownload" title="Muziekdownload – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%9F%B3%E6%A5%BD%E9%85%8D%E4%BF%A1" title="音楽配信 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Digital_download" title="Digital download – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Download_digital" title="Download digital – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Desc%C4%83rcarea_muzicii" title="Descărcarea muzicii – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B5_%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8" title="Цифровое скачивание музыки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Muisic_dounlaid" title="Muisic dounlaid – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Music_download" title="Music download – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/S%C5%A5ahovanie_hudby" title="Sťahovanie hudby – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%AF%D8%A7%DA%AF%D8%B1%D8%AA%D9%86%DB%8C_%D9%85%DB%86%D8%B3%DB%8C%D9%82%D8%A7" title="داگرتنی مۆسیقا – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nettimusiikki" title="Nettimusiikki – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Digital_nedladdning" title="Digital nedladdning – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/M%C3%BCzik_indirme" title="Müzik indirme – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B0%D0%BD%D1%82%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F_%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B8" title="Завантаження музики – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%E1%BA%A3i_nh%E1%BA%A1c" title="Tải nhạc – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%95%B8%E7%A2%BC%E9%9F%B3%E6%A8%82%E4%B8%8B%E8%BC%89" title="數碼音樂下載 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E9%9F%B3%E6%A8%82%E4%B8%8B%E8%BC%89" title="數位音樂下載 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6473564#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 September 2019, at 04:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Music_download&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.590","ppvisitednodes":{"value":2118,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106936,"limit":2097152},"templateargumentsize":{"value":2349,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":72843,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  471.268      1 -total"," 55.04%  259.375      2 Template:Reflist"," 44.46%  209.507     23 Template:Cite_web"," 14.54%   68.518      3 Template:Citation_needed"," 13.23%   62.365      3 Template:Fix","  9.61%   45.294      1 Template:Use_dmy_dates","  9.32%   43.906      5 Template:Navbox","  8.04%   37.895      7 Template:Category_handler","  7.58%   35.717      1 Template:Music_industry","  4.52%   21.279      3 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.249","limit":"10.000"},"limitreport-memusage":{"value":5578056,"limit":52428800}},"cachereport":{"origin":"mw1317","timestamp":"20190921030821","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Music download","url":"https:\/\/en.wikipedia.org\/wiki\/Music_download","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6473564","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6473564","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-08T19:43:46Z","dateModified":"2019-09-14T04:01:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/eb\/ITunes_Music_Store_in_a_mobile_Phone.jpg","headline":"digital transfer of music from an Internet-facing computer or website to a user's local desktop computer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

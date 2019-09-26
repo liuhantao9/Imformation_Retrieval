@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Maroni (river) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Maroni_(river)","wgTitle":"Maroni (river)","wgCurRevisionId":887589972,"wgRevisionId":887589972,"wgArticleId":1849310,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use dmy dates from October 2011","Articles containing French-language text","Articles containing Dutch-language text","All articles with unsourced statements","Articles with unsourced statements from June 2014","Commons category link is on Wikidata","Coordinates on Wikidata","Rivers of French Guiana","Rivers of Suriname","Rivers of France","French Guiana–Suriname border","International rivers of South America","Sipaliwini District"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Maroni_(river)","wgRelevantArticleId":1849310,"wgRequestId":"XYwLugpAMFYAAATsbu0AAACR","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Marowijne_River","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":
+"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Maroni_(river)","wgCoordinates":{"lat":2,"lon":-54},"wgWikibaseItemId":"Q1369002","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg/1200px-ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maroni_(river)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Maroni_(river)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Maroni_(river)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Maroni_(river)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Maroni_river rootpage-Maroni_river skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Maroni (river)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Marowijne_River&amp;redirect=no" class="mw-redirect" title="Marowijne River">Marowijne River</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">river in South America, forming the border between Suriname and French Guiana</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #CEDEFF;">Maroni River<br /><div class="nickname" style="display:inline;font-size:78%">Marowijne</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:ALI,_M._(2011-2013)._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_(13).jpg" class="image"><img alt="ALI, M. (2011-2013). Parc Amazonien de la Guyane. Fleuve Maroni. 1 (13).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg/250px-ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg" decoding="async" width="250" height="166" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg/375px-ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg/500px-ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg 2x" data-file-width="4288" data-file-height="2848" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Location</th></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Country</th><td><a href="/wiki/France" title="France">France</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">City</th><td><a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a> (Suriname); <a href="/wiki/Saint-Laurent-du-Maroni" title="Saint-Laurent-du-Maroni">Saint-Laurent-du-Maroni</a> (France)</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Physical characteristics</th></tr><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row">Source</th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;location</span></th><td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row"><a href="/wiki/River_mouth" title="River mouth">Mouth</a></th><td><a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;elevation</div></th><td>0&#160;m (0&#160;ft)</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Length</th><td>611.7&#160;km (380.1&#160;mi)</td></tr><tr><th scope="row">Basin size</th><td>65,830&#160;km<sup>2</sup> (25,420&#160;sq&#160;mi)</td></tr><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Discharge</th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;average</span></th><td>1,700&#160;m<sup>3</sup>/s (60,000&#160;cu&#160;ft/s)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_(1896).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg/275px-L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg" decoding="async" width="275" height="315" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg/413px-L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg/550px-L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_%281896%29.jpg 2x" data-file-width="4808" data-file-height="5500" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:L.C._van_Panhuys_-_Kaart_van_de_Beneden-Marowijne_(1896).jpg" class="internal" title="Enlarge"></a></div>Map of the Maroni River from 1896.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Maroni_Fluss_Sonnenaufgang.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maroni_Fluss_Sonnenaufgang.jpg/275px-Maroni_Fluss_Sonnenaufgang.jpg" decoding="async" width="275" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maroni_Fluss_Sonnenaufgang.jpg/413px-Maroni_Fluss_Sonnenaufgang.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maroni_Fluss_Sonnenaufgang.jpg/550px-Maroni_Fluss_Sonnenaufgang.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Maroni_Fluss_Sonnenaufgang.jpg" class="internal" title="Enlarge"></a></div>Sunrise over the Maroni River</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Maroni_Fluss_Uferregion.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maroni_Fluss_Uferregion.JPG/275px-Maroni_Fluss_Uferregion.JPG" decoding="async" width="275" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maroni_Fluss_Uferregion.JPG/413px-Maroni_Fluss_Uferregion.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Maroni_Fluss_Uferregion.JPG/550px-Maroni_Fluss_Uferregion.JPG 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Maroni_Fluss_Uferregion.JPG" class="internal" title="Enlarge"></a></div>Maroni River, view from French Guiana to Suriname</div></div></div>
+<p>The <b>Maroni</b> or <b>Marowijne</b> (French: <i lang="fr">Maroni</i>, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Marowijne</i>, <a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a>: <i>Marwina-Liba</i>) is a river in South America that forms the border between <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a> and <a href="/wiki/Suriname" title="Suriname">Suriname</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Course"><span class="tocnumber">1</span> <span class="toctext">Course</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Territorial_dispute"><span class="tocnumber">2</span> <span class="toctext">Territorial dispute</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Numbers"><span class="tocnumber">3</span> <span class="toctext">Numbers</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Exploration"><span class="tocnumber">4</span> <span class="toctext">Exploration</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Course">Course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit&amp;section=1" title="Edit section: Course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Maroni runs through the <a href="/wiki/Guianan_moist_forests" title="Guianan moist forests">Guianan moist forests</a> ecoregion.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+It originates in the <a href="/wiki/Tumuk_Humak_Mountains" title="Tumuk Humak Mountains">Tumuk Humak Mountains</a> and forms the (disputed) border between <a href="/wiki/France" title="France">France</a> (<a href="/wiki/Region_of_France" class="mw-redirect" title="Region of France">region</a> of French Guiana) and Suriname. In its upper reaches, it is also known as the <a href="/wiki/Lawa_River_(South_America)" title="Lawa River (South America)">Lawa River</a>, and close to its source it is known as the Marouini River.
+</p><p>There are two nature preserves located in the estuary region on the Surinamese side of the river, near the village of <a href="/wiki/Galibi,_Suriname" title="Galibi, Suriname">Galibi</a>. They provide protection for the birds and the <a href="/wiki/Leatherback_Sea_Turtle" class="mw-redirect" title="Leatherback Sea Turtle">Leatherback Sea Turtles</a> that hatch there.
+</p>
+<h2><span class="mw-headline" id="Territorial_dispute">Territorial dispute</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit&amp;section=2" title="Edit section: Territorial dispute">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Borders_of_Suriname" title="Borders of Suriname">Borders of Suriname</a></div>
+<p>In 1860, the question was posed from the French side, which of the two tributary rivers was the headwater, and thus the border. A joint French-Dutch commission was appointed to review the issue. The Dutch side of the commission consisted of J.H. Baron van Heerdt tot Eversberg, J.F.A. Cateau van Rosevelt and August Kappler. Luits Vidal, Ronmy, Boudet and Dr. Rech composed the French side. In 1861 measurements were taken, which produced the following result: the Lawa had a <a href="/wiki/Discharge_(hydrology)" title="Discharge (hydrology)">discharge</a> of 35,960 m<sup>3</sup>/minute at a width of 436&#160;m; the Tapanahony had a discharge of 20,291 m<sup>3</sup>/minute at a width of 285&#160; m. Thus, the Lawa River was the <a href="/wiki/Headwater" class="mw-redirect" title="Headwater">headwater</a> of the Maroni River.
+</p><p>There were no problems with this decision until 1885. However, the discovery of gold in the area between the Lawa and the Tapanahony created a new border conflict. On 29 November 1888, France and the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> reached an agreement that the conflict should be subject to arbitration. Czar <a href="/wiki/Alexander_III_of_Russia" title="Alexander III of Russia">Alexander III of Russia</a>, acting as the arbitrator, decided that the Lawa was the headwater of the Maroni, and thus should be considered the border.
+</p><p>However, this decision created another issue as to which river is the source of the Lawa. The Netherlands considered the Marowini (the eastern tributary river) to be the source of the Lawa; the French considered the <a href="/wiki/Litani_River_(South_America)" class="mw-redirect" title="Litani River (South America)">Litani</a>, located further to the west, to be the source of the Lawa. This issue has still not been resolved.
+</p><p>The <i>Litani</i> originates in the Tumuk Humak Mountains at approximately 2½°&#160;N 55°&#160;W; along its path it is fed by <i>Koele Koelebreek</i>, the <i>Lokereek</i>, the <i>Mapaonikreek</i> and the <i>Oelemari</i>.
+</p><p>The <i>Marowini</i> also has its source in the Tumuk Humak Mountains, at approximately 2°&#160;N, 54°&#160;W; it also absorbs the <i>Koelebreek</i>, among others.
+</p>
+<h2><span class="mw-headline" id="Numbers">Numbers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit&amp;section=3" title="Edit section: Numbers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Maroni basin is 68,700&#160;km²; above the island <i><a href="/wiki/Langatabbetje" class="mw-redirect" title="Langatabbetje">Langatabbetje</a></i> (110&#160;km away from the mouth of the river) this area is 63,700&#160;km². Between 1952 and 1973, the average discharge near <i>Langatabbetje</i> was about 1,700&#160;m³/second. The minimum was 95&#160;m³/second, the maximum 6,550&#160;m³/second. The estuary is approximately 90&#160;km long; the average tidal range in the estuary is 2&#160;m; in the dry season, the salt reaches about 40&#160;km upstream to the town of <a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a>.
+</p><p>The estimated potential hydro power for Suriname is between 1150 and 1250 megawatts.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2014)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Exploration">Exploration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit&amp;section=4" title="Edit section: Exploration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Maroni is the most extensively studied of all the rivers in Suriname. In the 16th century, there were already ships exploring the estuary, by <a href="/wiki/Lawrence_Keymis" class="mw-redirect" title="Lawrence Keymis">Lawrence Keymis</a>, <a href="/w/index.php?title=Thomas_Masham&amp;action=edit&amp;redlink=1" class="new" title="Thomas Masham (page does not exist)">Thomas Masham</a>, <a href="/wiki/Antonio_de_Berrio" title="Antonio de Berrio">Antonio de Berrio</a> and <a href="/w/index.php?title=Adriaen_Cabeliau&amp;action=edit&amp;redlink=1" class="new" title="Adriaen Cabeliau (page does not exist)">Adriaen Cabeliau</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and in the 17th century, by Harcourt, Fisher and De Vries. In the 18th century more extensive excursions took place, by Mentell, Patris, Le Blond and Heneman and in the 19th century by Zegelaar, <a href="/wiki/Jules_Crevaux" title="Jules Crevaux">Jules Crevaux</a>, Coudreau, Ten Kate, Joost and others.
+</p><p>Of importance in the 20th century were the Gonini and Tapanahony expeditions, and the Tumuk Humak and Southern Border Expeditions. From these arose the research of the <i>Geologisch Mijnbouwkundige Dienst</i> (GMD) and the <i>Centraal Bureau voor Luchtkartering</i> (CBL).
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFSchipperTeunissenLim" class="citation">Schipper, Jan; Teunissen, Pieter; Lim, Burton, <a rel="nofollow" class="external text" href="http://www.worldwildlife.org/ecoregions/nt0125"><i>Northern South America: Guyana, Suriname, French Guiana, northern Brazil, and eastern Venezuela (NT0125)</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">3 April</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Northern+South+America%3A+Guyana%2C+Suriname%2C+French+Guiana%2C+northern+Brazil%2C+and+eastern+Venezuela+%28NT0125%29&amp;rft.aulast=Schipper&amp;rft.aufirst=Jan&amp;rft.au=Teunissen%2C+Pieter&amp;rft.au=Lim%2C+Burton&amp;rft_id=http%3A%2F%2Fwww.worldwildlife.org%2Fecoregions%2Fnt0125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaroni+%28river%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Walter Raleigh.  Joyce Lorimer (ed.). <i>Sir Walter Ralegh's Discoverie of Guiana</i>. Ashgate. p.&#160;360. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-904180-87-5" title="Special:BookSources/0-904180-87-5"><bdi>0-904180-87-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sir+Walter+Ralegh%27s+Discoverie+of+Guiana&amp;rft.pages=360&amp;rft.pub=Ashgate&amp;rft.isbn=0-904180-87-5&amp;rft.au=Walter+Raleigh&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMaroni+%28river%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<ul><li>C.F.A. Bruijning und J. Voorhoeve (Ed.): <i>Encyclopedie van Suriname</i>. Amsterdam &amp; Brussels 1977, B.V. Uitgeversmaatschappij Argus <a href="/wiki/Elsevier" title="Elsevier">Elsevier</a>, p.&#160;256, 396–397; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-10-01842-3" title="Special:BookSources/90-10-01842-3">90-10-01842-3</a>.</li></ul>
+<p><br />
+</p>
+<table role="presentation" class="mbox-small-left plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Maroni_River" class="extiw" title="commons:Category:Maroni River">Maroni River</a></b></i>.</td></tr>
+</tbody></table>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Maroni_(river)&amp;params=2_N_54_W_source:enwiki-plaintext-parser"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">2°N</span> <span class="longitude">54°W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">2°N 54°W</span><span style="display:none">&#xfeff; / <span class="geo">2; -54</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20190925040213
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.460 seconds
+Real time usage: 0.664 seconds
+Preprocessor visited node count: 2169/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 23486/2097152 bytes
+Template argument size: 3076/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7735/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.284/10.000 seconds
+Lua memory usage: 11.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  621.118      1 -total
+ 25.59%  158.924      3 Template:Infobox
+ 24.30%  150.943      1 Template:Infobox_river
+ 20.70%  128.589      1 Template:Lang-fr
+ 18.30%  113.634      1 Template:Reflist
+ 15.34%   95.302      1 Template:Citation
+  7.04%   43.712      1 Template:Citation_needed
+  6.58%   40.880      1 Template:ISBN
+  6.50%   40.354      1 Template:Fix
+  6.28%   39.025      1 Template:Short_description
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1849310-0!canonical and timestamp 20190925040212 and revision id 887589972
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maroni_(river)&amp;oldid=887589972">https://en.wikipedia.org/w/index.php?title=Maroni_(river)&amp;oldid=887589972</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rivers_of_French_Guiana" title="Category:Rivers of French Guiana">Rivers of French Guiana</a></li><li><a href="/wiki/Category:Rivers_of_Suriname" title="Category:Rivers of Suriname">Rivers of Suriname</a></li><li><a href="/wiki/Category:Rivers_of_France" title="Category:Rivers of France">Rivers of France</a></li><li><a href="/wiki/Category:French_Guiana%E2%80%93Suriname_border" title="Category:French Guiana–Suriname border">French Guiana–Suriname border</a></li><li><a href="/wiki/Category:International_rivers_of_South_America" title="Category:International rivers of South America">International rivers of South America</a></li><li><a href="/wiki/Category:Sipaliwini_District" title="Category:Sipaliwini District">Sipaliwini District</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2011" title="Category:Use dmy dates from October 2011">Use dmy dates from October 2011</a></li><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Dutch-language_text" title="Category:Articles containing Dutch-language text">Articles containing Dutch-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">Articles with unsourced statements from June 2014</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Maroni+%28river%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maroni+%28river%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Maroni_(river)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Maroni_(river)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Maroni_(river)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Maroni_(river)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maroni_(river)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maroni_(river)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maroni_(river)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Maroni_(river)&amp;oldid=887589972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Maroni_(river)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1369002" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maroni_%28river%29&amp;id=887589972" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Maroni_River" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maroni+%28river%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Maroni+%28river%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Maroni_(river)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BD%D1%96_(%D1%80%D0%B0%D0%BA%D0%B0)" title="Мароні (рака) – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Maroni" title="Maroni – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Maroni" title="Maroni – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Maroni_(Fluss)" title="Maroni (Fluss) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/R%C3%ADo_Maroni" title="Río Maroni – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Maroni_(fleuve)" title="Maroni (fleuve) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Maroni_(rijeka)" title="Maroni (rijeka) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Marowijne" title="Marowijne – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%A0%E1%83%9D%E1%83%9C%E1%83%98" title="მარონი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Maroni" title="Maroni – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Marowijne_(rivier)" title="Marowijne (rivier) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AD%E3%83%8B%E5%B7%9D" title="マロニ川 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Maroni_(rzeka)" title="Maroni (rzeka) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Rio_Maroni" title="Rio Maroni – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Maroni_(fluviu)" title="Maroni (fluviu) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BD%D0%B8" title="Марони – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Marwina-Liba" title="Marwina-Liba – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BE%D0%BD%D1%96" title="Мароні – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%A9%AC%E7%BD%97%E5%B0%BC%E6%B2%B3" title="马罗尼河 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1369002#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 March 2019, at 16:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Maroni_(river)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.664","ppvisitednodes":{"value":2169,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":23486,"limit":2097152},"templateargumentsize":{"value":3076,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7735,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  621.118      1 -total"," 25.59%  158.924      3 Template:Infobox"," 24.30%  150.943      1 Template:Infobox_river"," 20.70%  128.589      1 Template:Lang-fr"," 18.30%  113.634      1 Template:Reflist"," 15.34%   95.302      1 Template:Citation","  7.04%   43.712      1 Template:Citation_needed","  6.58%   40.880      1 Template:ISBN","  6.50%   40.354      1 Template:Fix","  6.28%   39.025      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.284","limit":"10.000"},"limitreport-memusage":{"value":11718617,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20190925040213","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Maroni (river)","url":"https:\/\/en.wikipedia.org\/wiki\/Maroni_(river)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1369002","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1369002","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-06T14:57:41Z","dateModified":"2019-03-13T16:14:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/ef\/ALI%2C_M._%282011-2013%29._Parc_Amazonien_de_la_Guyane._Fleuve_Maroni._1_%2813%29.jpg","headline":"river in South America, forming the border between Suriname and French Guiana"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

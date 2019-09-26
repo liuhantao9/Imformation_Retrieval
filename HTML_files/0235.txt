@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Willoughbyland - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Willoughbyland","wgTitle":"Willoughbyland","wgCurRevisionId":912252618,"wgRevisionId":912252618,"wgArticleId":50049888,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using infobox country or infobox former country with the flag caption or type parameters","Coordinates not on Wikidata","History of Suriname","Former English colonies","People of former British colonies and protectorates in the Americas"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun",
+"Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Willoughbyland","wgRelevantArticleId":50049888,"wgRequestId":"XYtnxQpAMFgAAKBtxLAAAAAM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":5.85,"lon":-55.2},"wgWikibaseItemId":"Q55637776","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready"
+,"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Willoughbyland"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Willoughbyland&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Willoughbyland&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Willoughbyland"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Willoughbyland rootpage-Willoughbyland skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Willoughbyland</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;font-size:88%;"><tbody><tr><th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><div style="display:inline" class="fn org country-name">Willoughbyland</div><br /></th></tr><tr><td colspan="2" style="text-align:center">1650–1667</td></tr><tr><td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;"><div style="display:table; width:100%;">
+            <div style="display:table-cell; vertical-align:middle; padding: 0px 5px 3px;"><a href="/wiki/File:Flag_of_England.svg" class="image" title="Flag of Willoughbyland"><img alt="Flag of Willoughbyland" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/125px-Flag_of_England.svg.png" decoding="async" width="125" height="75" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/188px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/250px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></div>
+        </div>
+        <div style="font-size:90%;"><a href="/wiki/Flag_of_England" title="Flag of England">Flag</a></div></td></tr><tr><th scope="row">Status</th><td>Colony (<a href="/wiki/Kingdom_of_England" title="Kingdom of England">Kingdom of England</a>)</td></tr><tr><th scope="row">Common&#160;languages</th><td><b>Official</b><br /><a href="/wiki/English_language" title="English language">English</a></td></tr><tr><th scope="row"><a href="/wiki/Ethnic_group" title="Ethnic group">Ethnic&#160;groups</a> <div style="font-weight:normal;display:inline;"></div></th><td><a href="/wiki/English_people" title="English people">English</a><br /><a href="/wiki/Afro-Surinamese" title="Afro-Surinamese">Africans</a><br /><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous Amerindians</a><br /><span class="nowrap"><a href="/wiki/History_of_the_Jews_in_Brazil" title="History of the Jews in Brazil">Brazilian Jews</a></span></td></tr><tr><th scope="row">Religion <div style="font-weight:normal;display:inline;"></div></th><td><a href="/wiki/Christianity" title="Christianity">Christianity</a><br /><a href="/wiki/Judaism" title="Judaism">Judaism</a><br /><a href="/wiki/Native_American_religion" title="Native American religion">Indigenous Native religions</a><br /><a href="/wiki/Traditional_African_religions" title="Traditional African religions">Traditional African religions</a><br /><a href="/wiki/Afro-American_religion" title="Afro-American religion">Afro-American religions</a></td></tr><tr><th scope="row">Government</th><td>Constitutional Monarchy</td></tr><tr><th scope="row">History</th><td>&#160;</td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;Established </div></th><td>1650</td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;Disestablished </div></th><td>1667</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><td colspan="2" style="text-align:center">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+
+<tbody><tr>
+<td style="text-align:center; border:0; padding-bottom:0"><div id="before-after"></div> <b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b>
+</td></tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/20px-Flag_of_England.svg.png" decoding="async" width="20" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/30px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />
+</td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/w/index.php?title=Marshall%27s_Creek&amp;action=edit&amp;redlink=1" class="new" title="Marshall&#39;s Creek (page does not exist)">Marshall's Creek</a>
+</td></tr>
+<tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/en/d/d2/Blank.png" decoding="async" width="22" height="15" data-file-width="3" data-file-height="2" />
+</td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous peoples in Suriname</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a href="/wiki/Surinam_(Dutch_colony)" title="Surinam (Dutch colony)">Surinam (Dutch colony)</a>
+</td>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr></tbody></table></td></tr><tr><th scope="row">Today part of</th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr></tbody></table>
+<p><b>Willoughbyland</b> was a short-lived early English colony in what is now <a href="/wiki/Suriname" title="Suriname">Suriname</a>. It was founded in 1650 by <a href="/wiki/Francis_Willoughby,_5th_Baron_Willoughby_of_Parham" title="Francis Willoughby, 5th Baron Willoughby of Parham">Lord Willoughby</a> when he was the Royalist <a href="/wiki/Governor_of_Barbados" class="mw-redirect" title="Governor of Barbados">Governor of Barbados</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Chief_Justice"><span class="tocnumber">2</span> <span class="toctext">Chief Justice</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Final_years"><span class="tocnumber">3</span> <span class="toctext">Final years</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Willoughbyland&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lord Francis Willoughby, a Parliamentarian turned Royalist, had been appointed Governor of Barbados by the exiled King Charles II and in view of his precarious position planned to settle an alternative colony in Suriname, beyond the reach of the Parliamentarians. He therefore at his own personal cost equipped a ship of 20 guns, and two smaller vessels, with the things necessary for the support of a new plantation.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Although Major <a href="/wiki/Anthony_Rowse" title="Anthony Rowse">Anthony Rowse</a> actually established the colony in Willoughby's name, Willoughby himself went there in person two years later and further furnished it with things requisite for defence and trade.
+</p><p>'Willoughbyland', as it was called, consisted of around 30,000 acres (120&#160;km<sup>2</sup>) and a fort. In 1663 there were ca. 50 plantations on which most of the work was done by native Indians and 3,000 African slaves.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> There were around 1,000 whites settlers, who had been joined by Brazilian Jews attracted by the religious freedom granted to all settlers by the English. The Jews were granted freedom of conscience, the right to erect a synagogue (the first of which was built in 1654), eligibility for election as burgesses and from seven to 12 years’ exemption from taxation.
+</p><p>The colony was run on democratic lines, described by one settler as ‘a peculiar form of government, elective in the people’, with the annual election of a governor from among the planters. The colony was administered by an assembly of twenty-one men chosen by and from the colony's wealthier male landowners, and a six-man council appointed by the governor. The governor and council administered justice and proposed measures – such as raising money for defence or building a prison – which would then be voted on by the assembly, who would meet every few months, usually in one of the larger plantation houses.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>By the end of the 1650s there were some 4,000 settlers and this number grew weekly from incomers and from natural growth ‘for the women are very prolifical and have lusty children’. By this time, located alongside the rivers that constituted the sole method of travel and transport, lay around 200 plantations, of which 50 were growing what was considered the finest sugar in the world.
+</p><p>Yet the colony had already reached its zenith. The 1660 <a href="/wiki/Restoration_(1660)" title="Restoration (1660)">Restoration of the Monarchy</a> in England triggered a series of disasters in Willoughbyland. The colony's elected governor, William Byam, described by Aphra Behn as ‘the most fawning fair-tongu’d fellow in the world ... not fit to be mentioned with the worst of slaves’, used the return of the king to declare himself permanent governor. As he later explained: "Here democracy fell, by the loyal concessions to monarchy." Scheduled elections were cancelled as a ‘needlesse and unnecessary Charge and Trouble to the inhabitants’. There were fierce protests and Byam started locking up or expelling his critics. Soon the colony had descended into angry factionalism.
+</p><p>Willoughby himself, who had been relieved of his Governorship of Barbados by the Parliamentarians and returned to England, was in 1662 restored to the governorship of Barbados and given the proprietorship of some of the ‘Charibbee’ islands and of Willoughbyland, to be held jointly with the Earl of Clarendon. This gave him almost unlimited power there, a state of affairs unwelcome to many of the planters. A 1662 warrant to the Attorney-General read <i>"Aug. 27 1662. 359. Warrant to (the Attorney-General). To prepare a bill containing a lease to pass the Great Seal to Francis Lord Willoughby of Parham, and his assigns, for 7 years from Christmas Day next, of all his Majesty's islands, colonies, and plantations, known by the name of the Caribbee Islands and others, between 1 and 20 N. Lat. from the island of St. John de Porto Rico to 324 easterly, rendering to his Majesty, his heirs and successors, one moiety of all fines, customs, rents, dues, &amp;c. raised out of the same, the other moiety to be kept by the said Lord Willoughby and his assigns for his or their own benefit. 1 p. [Dom. Entry Bk., Chas. II., Vol. VII., pp. 205, 206.]"</i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Chief_Justice">Chief Justice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Willoughbyland&amp;action=edit&amp;section=2" title="Edit section: Chief Justice">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Part of his Royal grant gave Willoughby or his appointee responsibility to administer justice, including the death penalty.<i>"It seems that Willoughby himself, and his establishment in Suriname, was above the law. Wasn't this the mistake that Charles I had made and had been punished for? To preserve order at home, plans had been made by Parliament three weeks before Charles II landed at Dover, that officials such as sheriffs, mayors and constables should continue in their duties in the Kings name. Rumours of this reached Byam in Suriname at the same time as he learnt of the return of the King. He then claimed to have received a similar order to keep in his post, even though his year's office had only a month to run."</i>  <sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Final_years">Final years</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Willoughbyland&amp;action=edit&amp;section=3" title="Edit section: Final years">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When at last Willoughby revisited his colony in November 1664, he only narrowly survived assassination. Worse, his entourage introduced a fever into the colony, which killed as many as a third of the population.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The <a href="/wiki/Second_Anglo-Dutch_War" title="Second Anglo-Dutch War">Second Anglo-Dutch War</a> broke out in March 1665. Willoughbyland was captured by the Dutch in 1667 and the main settlement renamed <a href="/wiki/Fort_Zeelandia_(Paramaribo)" title="Fort Zeelandia (Paramaribo)">Fort Zeelandia</a>. Under the <a href="/wiki/Treaty_of_Westminster_(1674)" title="Treaty of Westminster (1674)">Treaty of Westminster (1674)</a>, Willoughbyland was exchanged for <a href="/wiki/New_Amsterdam" title="New Amsterdam">New Amsterdam</a>, (now <a href="/wiki/New_York_City" title="New York City">New York City</a>)<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Willoughbyland&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Cromwell conquers Jamaica (Parker 84, 111) and Willoughby was imprisoned (Parker p. 116)</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol5/vii-lxxxiii">'Preface', in <i>Calendar of State Papers Colonial, America and West Indies: Volume 5, 1661–1668</i></a>, ed. W Noel Sainsbury (London, 1880), pp. vii–lxxxiii. British History Online [accessed 18 September 2017]</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">George Warren (1667) An impartial description of Surinam.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.historytoday.com/matthew-parker/britains-forgotten-south-american-colony">Matthew Parker précis of his own book</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.british-history.ac.uk/cal-state-papers/colonial/america-west-indies/vol5/pp102-107">'America and West Indies: August 1662'</a>, in <i>Calendar of State Papers Colonial, America and West Indies: Volume 5, 1661–1668</i>, ed. W Noel Sainsbury (London, 1880), pp. 102–107. <i>British History Online</i> [accessed 18 September 2017].</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">(Parker <i>ibid</i>)</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">(Parker <i>ibid</i>)</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Briggs, Philip (2015). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=FtTeBgAAQBAJ&amp;pg=PA10&amp;lpg=PA10&amp;dq=1651%E2%80%931667+Willoughbyland+Suriname"><i>Suriname</i></a>. Bradt Travel Guides, p. 10. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781841629100" title="Special:BookSources/9781841629100">9781841629100</a></span>
+</li>
+</ol></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Willoughbyland&amp;params=5_51_N_55_12_W_type:country_source:kolossus-ptwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">5°51′N</span> <span class="longitude">55°12′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.850°N 55.200°W</span><span style="display:none">&#xfeff; / <span class="geo">5.850; -55.200</span></span></span></a></span></span></span>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Chief_Justices_of_the_Territories_of_the_British_Empire_and_the_United_Kingdom" style="padding:3px"><table class="nowraplinks plainlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chief_Justices_of_British_overseas_territories" title="Template:Chief Justices of British overseas territories"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chief_Justices_of_British_overseas_territories" title="Template talk:Chief Justices of British overseas territories"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Chief_Justices_of_British_overseas_territories&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Chief_Justices_of_the_Territories_of_the_British_Empire_and_the_United_Kingdom" style="font-size:114%;margin:0 4em">Chief Justices of the Territories of the <a href="/wiki/British_Empire" title="British Empire">British Empire</a> and the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id=";_Legend&amp;#10;:_Current_territory&amp;#10;:_Former_territory&amp;#10;:_Now_a_Commonwealth_realm&amp;#10;:_Now_a_member_of_the_Commonwealth_of_Nations"><div class="hlist">
+<dl><dt><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Legend</span></dt>
+<dd><u>Current territory</u></dd>
+<dd>Former territory</dd>
+<dd>* Now a <a href="/wiki/Commonwealth_realm" title="Commonwealth realm">Commonwealth realm</a></dd>
+<dd><i>Now a member of the <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a></i></dd></dl>
+</div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Europe" style="font-size:114%;margin:0 4em">Europe</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Since 1234 <u><a href="/wiki/Lord_Chief_Justice_of_England_and_Wales" title="Lord Chief Justice of England and Wales">England and Wales</a></u></li>
+<li>Since c.1200 <u><a href="/wiki/Lord_President_of_the_Court_of_Session" title="Lord President of the Court of Session">Scotland</a></u></li>
+<li>1175-1921 <a href="/wiki/Lord_Chief_Justice_of_Ireland" title="Lord Chief Justice of Ireland">Ireland</a></li>
+<li>1708–1757 <a href="/wiki/Menorca" title="Menorca">Menorca</a></li>
+<li>Since 1713 <u><a href="/wiki/Chief_Justice_of_Gibraltar" title="Chief Justice of Gibraltar">Gibraltar</a></u></li>
+<li>1763–1782 <a href="/wiki/Menorca" title="Menorca">Menorca</a></li>
+<li>1798–1802 <a href="/wiki/Menorca" title="Menorca">Menorca</a></li>
+<li>1800–1813 <i><a href="/wiki/Malta_Protectorate" title="Malta Protectorate">Malta (Protectorate)</a></i></li>
+<li>1813–1964 <i><a href="/wiki/Chief_Justice_of_Malta" title="Chief Justice of Malta">Malta (Colony)</a></i></li>
+<li>1807–1890 <a href="/wiki/Heligoland" title="Heligoland">Heligoland</a></li>
+<li>1809–1864 <a href="/wiki/United_States_of_the_Ionian_Islands" title="United States of the Ionian Islands">Ionian Islands</a></li>
+<li>1878–1960 <i><a href="/wiki/Chief_Justice_of_Cyprus" title="Chief Justice of Cyprus">Cyprus</a></i></li>
+<li>1921–1937 <a href="/wiki/Chief_Justice_of_Ireland" title="Chief Justice of Ireland">Irish Free State</a></li>
+<li>Since 1922 <a href="/wiki/Lord_Chief_Justice_of_Northern_Ireland" title="Lord Chief Justice of Northern Ireland">Northern Ireland</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Americas" style="font-size:114%;margin:0 4em">Americas</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">17th century and before</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">18th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th and 20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1579 <a href="/wiki/New_Albion" title="New Albion">New Albion</a></li>
+<li>1583–1907 <a href="/wiki/Supreme_Court_of_Newfoundland_and_Labrador_(Court_of_Appeal)" title="Supreme Court of Newfoundland and Labrador (Court of Appeal)">Newfoundland</a></li>
+<li>1605–1979 *<i><a href="/wiki/Chief_Justice_of_St_Lucia" title="Chief Justice of St Lucia">Saint Lucia</a></i></li>
+<li>1607–1776 <a href="/wiki/Supreme_Court_of_Virginia" title="Supreme Court of Virginia">Virginia</a></li>
+<li>Since 1619 <u><a href="/wiki/Chief_Justice_of_Bermuda" title="Chief Justice of Bermuda">Bermuda</a></u></li>
+<li>1620–1691 <a href="/wiki/Plymouth_Colony" title="Plymouth Colony">Plymouth Colony</a></li>
+<li>1623–1883 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Saint Kitts</a> *<i>(<a href="/wiki/Saint_Kitts_%26_Nevis" class="mw-redirect" title="Saint Kitts &amp; Nevis">Saint Kitts &amp; Nevis</a>)</i></li>
+<li>1624–1966 *<i><a href="/wiki/Chief_Justice_of_Barbados" title="Chief Justice of Barbados">Barbados</a></i></li>
+<li>1625–1650 <a href="/wiki/Saint_Croix,_U.S._Virgin_Islands" class="mw-redirect" title="Saint Croix, U.S. Virgin Islands">Saint Croix</a></li>
+<li>1627–1979 *<i><a href="/wiki/Chief_Justice_of_St_Vincent" title="Chief Justice of St Vincent">Saint Vincent and the Grenadines</a></i></li>
+<li>1628–1883 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Nevis</a> *<i>(<a href="/wiki/Saint_Kitts_%26_Nevis" class="mw-redirect" title="Saint Kitts &amp; Nevis">Saint Kitts &amp; Nevis</a>)</i></li>
+<li>1629–1691 <a href="/wiki/Massachusetts_Bay_Colony" title="Massachusetts Bay Colony">Massachusetts Bay Colony</a></li>
+<li>1632–1776 <a href="/wiki/Province_of_Maryland" title="Province of Maryland">Maryland</a></li>
+<li>since 1632 <u><a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Montserrat</a></u></li>
+<li>1632–1860 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Antigua</a> *<i>(<a href="/wiki/Antigua_%26_Barbuda" class="mw-redirect" title="Antigua &amp; Barbuda">Antigua &amp; Barbuda</a>)</i></li>
+<li>1636–1776 <a href="/wiki/Connecticut_Colony" title="Connecticut Colony">Connecticut</a></li>
+<li>1636–1776 <a href="/wiki/Colony_of_Rhode_Island_and_Providence_Plantations" title="Colony of Rhode Island and Providence Plantations">Rhode Island</a></li>
+<li>1637–1662 <a href="/wiki/New_Haven_Colony" title="New Haven Colony">New Haven Colony</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1643–1860 <a href="/wiki/Bay_Islands_Department" title="Bay Islands Department">Bay Islands</a></li>
+<li>Since 1650 <u><a href="/wiki/Eastern_Caribbean_Supreme_Court" title="Eastern Caribbean Supreme Court">Anguilla</a></u></li>
+<li>1651–1667 <a class="mw-selflink selflink">Willoughbyland (Suriname)</a></li>
+<li>1655–1850 <a href="/wiki/Mosquito_Coast" title="Mosquito Coast">Mosquito Coast (protectorate)</a></li>
+<li>1655–1962 *<i><a href="/wiki/Chief_Justice_of_Jamaica" class="mw-redirect" title="Chief Justice of Jamaica">Jamaica</a></i></li>
+<li>1663–1712 <a href="/wiki/Province_of_Carolina" title="Province of Carolina">Carolina</a></li>
+<li>1664–1776 <a href="/wiki/Province_of_New_York" title="Province of New York">New York</a></li>
+<li>1665–1674 and 1702–1776 <a href="/wiki/Province_of_New_Jersey" title="Province of New Jersey">New Jersey</a></li>
+<li>Since 1666 <u><a href="/wiki/Judiciary_of_the_British_Virgin_Islands" title="Judiciary of the British Virgin Islands">British Virgin Islands</a></u></li>
+<li>Since 1670 <u><a href="/wiki/Chief_Justice_of_the_Cayman_Islands" class="mw-redirect" title="Chief Justice of the Cayman Islands">Cayman Islands</a></u></li>
+<li>1670–1973 *<i><a href="/wiki/Chief_Justice_of_the_Bahamas" title="Chief Justice of the Bahamas">Bahamas</a></i></li>
+<li>1670–1870 <a href="/wiki/Rupert%27s_Land#Law" title="Rupert&#39;s Land">Rupert's Land</a></li>
+<li>1670–1688 <a href="/wiki/San_Andr%C3%A9s_y_Providencia_Department" class="mw-redirect" title="San Andrés y Providencia Department">Saint Andrew and Providence Islands</a><sup>1</sup></li>
+<li>1671–1816 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Leeward Islands</a></li>
+<li>1674–1702 <a href="/wiki/East_Jersey" title="East Jersey">East Jersey</a></li>
+<li>1674–1702 <a href="/wiki/West_Jersey" title="West Jersey">West Jersey</a></li>
+<li>1680–1776 <a href="/wiki/Province_of_New_Hampshire" title="Province of New Hampshire">New Hampshire</a></li>
+<li>1681–1776 <a href="/wiki/Province_of_Pennsylvania" title="Province of Pennsylvania">Pennsylvania</a></li>
+<li>1686–1689 <a href="/wiki/Dominion_of_New_England" title="Dominion of New England">Dominion of New England</a></li>
+<li>1691–1776 <a href="/wiki/Massachusetts_Supreme_Judicial_Court" title="Massachusetts Supreme Judicial Court">Massachusetts</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1701–1776 <a href="/wiki/Delaware_Colony" title="Delaware Colony">Delaware</a></li>
+<li>1712–1776 <a href="/wiki/Province_of_North_Carolina" title="Province of North Carolina">North Carolina</a></li>
+<li>1712–1776 <a href="/wiki/Province_of_South_Carolina" title="Province of South Carolina">South Carolina</a></li>
+<li>1713–1867 <a href="/wiki/Nova_Scotia_Court_of_Appeal" title="Nova Scotia Court of Appeal">Nova Scotia</a></li>
+<li>1733–1776 <a href="/wiki/Province_of_Georgia" title="Province of Georgia">Georgia</a></li>
+<li>1754–1820 <a href="/wiki/Nova_Scotia_Court_of_Appeal" title="Nova Scotia Court of Appeal">Cape Breton Island</a></li>
+<li>1762–1974 *<i><a href="/wiki/Chief_Justice_of_Grenada" title="Chief Justice of Grenada">Grenada</a></i></li>
+<li>1763–1978 <i><a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Dominica</a></i></li>
+<li>1763–1873 <a href="/wiki/Chief_Justice_of_Prince_Edward_Island" class="mw-redirect" title="Chief Justice of Prince Edward Island">Prince Edward Island</a></li>
+<li>1763–1791 <a href="/wiki/Chief_Justice_of_Quebec" title="Chief Justice of Quebec">Quebec</a></li>
+<li>1763–1783 <a href="/wiki/East_Florida" title="East Florida">East Florida</a></li>
+<li>1763–1783 <a href="/wiki/West_Florida" title="West Florida">West Florida</a></li>
+<li>1784–1867 <a href="/wiki/Chief_Justice_of_New_Brunswick" title="Chief Justice of New Brunswick">New Brunswick</a></li>
+<li>1791–1841 <a href="/wiki/Chief_Justice_of_Quebec" title="Chief Justice of Quebec">Lower Canada</a></li>
+<li>1791–1841 <a href="/wiki/Chief_Justice_of_Ontario" class="mw-redirect" title="Chief Justice of Ontario">Upper Canada</a></li>
+<li>Since 1799 <u><a href="/wiki/Turks_and_Caicos_Islands" title="Turks and Caicos Islands">Turks and Caicos Islands</a></u></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1818–1846 <a href="/wiki/Columbia_District" title="Columbia District">Columbia District</a>/<a href="/wiki/Oregon_Country" title="Oregon Country">Oregon Country</a><sup>2</sup></li>
+<li>1831–1966 <a href="/wiki/Chief_Justice_of_Guyana" title="Chief Justice of Guyana">British Guiana (<i>Guyana</i>)</a></li>
+<li>Since 1833 <u><a href="/wiki/Falkland_Islands" title="Falkland Islands">Falkland Islands</a></u><sup>3</sup></li>
+<li>1833–1960 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Windward Islands</a></li>
+<li>1833–1960 <a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Leeward Islands</a></li>
+<li>1841–1867 <a href="/wiki/Chief_Justice_of_Ontario" class="mw-redirect" title="Chief Justice of Ontario">Province of Canada</a></li>
+<li>1849–1866 <a href="/wiki/Colony_of_Vancouver_Island" title="Colony of Vancouver Island">Vancouver Island</a></li>
+<li>1853–1863 <a href="/wiki/Colony_of_the_Queen_Charlotte_Islands" title="Colony of the Queen Charlotte Islands">Colony of the Queen Charlotte Islands</a></li>
+<li>1858–1866 <a href="/wiki/Supreme_Court_of_British_Columbia" title="Supreme Court of British Columbia">British Columbia</a></li>
+<li>1859–1870 <a href="/wiki/North-Western_Territory" title="North-Western Territory">North-Western Territory</a></li>
+<li>1860–1981 *<i><a href="/wiki/British_Antigua_and_Barbuda" class="mw-redirect" title="British Antigua and Barbuda">British Antigua and Barbuda</a></i></li>
+<li>1862–1863 <a href="/wiki/Stikine_Territory" class="mw-redirect" title="Stikine Territory">Stikine Territory</a></li>
+<li>1866–1871 <a href="/wiki/United_Colonies_of_Vancouver_Island_and_British_Columbia" class="mw-redirect" title="United Colonies of Vancouver Island and British Columbia">Vancouver Island and British Columbia</a></li>
+<li>1867–1931 *<i><a href="/wiki/Chief_Justice_of_Canada" title="Chief Justice of Canada">Dominion of Canada</a></i><sup>4</sup></li>
+<li>1871–1964 <a href="/wiki/Chief_Justice_of_Belize" title="Chief Justice of Belize">British Honduras (*<i>Belize</i>)</a></li>
+<li>1882–1983 *<i><a href="/wiki/Chief_Justice_of_the_Leeward_Islands" title="Chief Justice of the Leeward Islands">Saint Kitts and Nevis</a></i></li>
+<li>1889–1962 <i><a href="/wiki/Chief_Justice_of_Trinidad_and_Tobago" title="Chief Justice of Trinidad and Tobago">Trinidad and Tobago</a></i></li>
+<li>1907–1949 <a href="/wiki/Supreme_Court_of_Newfoundland_and_Labrador_(Court_of_Appeal)" title="Supreme Court of Newfoundland and Labrador (Court of Appeal)">Dominion of Newfoundland</a><sup>5</sup></li>
+<li>Since 1908 <u><a href="/wiki/South_Georgia_and_the_South_Sandwich_Islands" title="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</a></u><sup>3</sup></li>
+<li>1958–1962 <a href="/wiki/West_Indies_Federation" title="West Indies Federation">West Indies Federation</a></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>1. Now the <a href="/wiki/San_Andr%C3%A9s_y_Providencia_Department" class="mw-redirect" title="San Andrés y Providencia Department">San Andrés y Providencia Department</a> of <a href="/wiki/Colombia" title="Colombia">Colombia</a>.</li>
+<li>2. Occupied jointly with the United States.</li>
+<li>3. Occupied by Argentina during the <a href="/wiki/Falklands_War" title="Falklands War">Falklands War</a> of April–June 1982.</li>
+<li>4. In 1931, Canada and other British <a href="/wiki/British_Dominions" class="mw-redirect" title="British Dominions">dominions</a> obtained self-government through the <a href="/wiki/Statute_of_Westminster_1931" title="Statute of Westminster 1931">Statute of Westminster</a>. See <a href="/wiki/Canada%27s_name" class="mw-redirect" title="Canada&#39;s name">Canada's name</a>.</li>
+<li>5. Gave up <a href="/wiki/Responsible_government" title="Responsible government">self-rule</a> in 1934, but remained a <i><a href="/wiki/De_jure" title="De jure">de jure</a></i> Dominion until it <a href="/wiki/Provinces_and_territories_of_Canada" title="Provinces and territories of Canada">joined Canada</a> in 1949.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Africa" style="font-size:114%;margin:0 4em">Africa</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="1" style="font-weight:bold;">17th and 18th centuries</td><td class="navbox-abovebelow" colspan="2" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>Since 1658 <u><a href="/wiki/Saint_Helena" title="Saint Helena">Saint Helena</a></u><sup>14</sup></li>
+<li>1792–1961 <i><a href="/wiki/Chief_Justice_of_Sierra_Leone" class="mw-redirect" title="Chief Justice of Sierra Leone">Sierra Leone</a></i></li>
+<li>1795–1803 <a href="/wiki/Cape_Colony" title="Cape Colony">Cape Colony</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>Since 1815 <u><a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a></u><sup>14</sup></li>
+<li>Since 1816 <u><a href="/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a></u><sup>14</sup></li>
+<li>1806–1910 <a href="/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">Cape Colony</a></li>
+<li>1807–1808 <a href="/wiki/Madeira" title="Madeira">Madeira</a></li>
+<li>1810–1968 <i><a href="/wiki/Supreme_Court_of_Mauritius" title="Supreme Court of Mauritius">Mauritius</a></i></li>
+<li>1816–1965 <a href="/wiki/Chief_Justice_of_the_Gambia" title="Chief Justice of the Gambia">The Gambia</a></li>
+<li>1856–1910 <a href="/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">Natal</a></li>
+<li>1868–1966 <a href="/wiki/Basutoland" title="Basutoland">Basutoland (<i>Lesotho</i>)</a></li>
+<li>1874–1957 <a href="/wiki/Chief_Justice_of_Ghana" title="Chief Justice of Ghana">Gold Coast (<i>Ghana</i>)</a></li>
+<li>1882–1922 <a href="/wiki/Sultanate_of_Egypt" title="Sultanate of Egypt">Egypt</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1884–1966 <a href="/wiki/Bechuanaland_Protectorate" title="Bechuanaland Protectorate">Bechuanaland (<i>Botswana</i>)</a></li>
+<li>1884–1960 <a href="/wiki/British_Somaliland" title="British Somaliland">British Somaliland</a></li>
+<li>1887–1897 <a href="/wiki/Zulu_Kingdom" title="Zulu Kingdom">Zululand</a></li>
+<li>1890–1962 <i><a href="/wiki/Chief_Justice_of_Uganda" class="mw-redirect" title="Chief Justice of Uganda">Uganda</a></i></li>
+<li>1890–1963 <a href="/wiki/Chief_Justice_of_Zanzibar" title="Chief Justice of Zanzibar">Zanzibar (<i>Tanzania</i>)</a></li>
+<li>1891–1964 <a href="/wiki/Nyasaland" title="Nyasaland">Nyasaland (<i>Malawi</i>)</a></li>
+<li>1891–1907 <a href="/wiki/British_Central_Africa_Protectorate" title="British Central Africa Protectorate">British Central Africa Protectorate</a></li>
+<li>1893–1968 <i><a href="/wiki/Swaziland_Protectorate" class="mw-redirect" title="Swaziland Protectorate">Swaziland</a></i></li>
+<li>1895–1920 <a href="/wiki/Chief_Justice_of_Kenya" title="Chief Justice of Kenya">East Africa Protectorate</a></li>
+<li>1899–1956 <a href="/wiki/Anglo-Egyptian_Sudan" title="Anglo-Egyptian Sudan">Anglo-Egyptian Sudan</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1900–1914 <a href="/wiki/Chief_Justice_of_Nigeria" title="Chief Justice of Nigeria">Northern Nigeria</a></li>
+<li>1900–1914 <a href="/wiki/Chief_Justice_of_Nigeria" title="Chief Justice of Nigeria">Southern Nigeria</a></li>
+<li>1900–1910 <a href="/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">Orange River Colony</a></li>
+<li>1900–1910 <a href="/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">Transvaal Colony</a></li>
+<li>1903–1976 <i><a href="/wiki/Supreme_Court_of_Seychelles" title="Supreme Court of Seychelles">Seychelles</a></i></li>
+<li>1906–1954 <a href="/wiki/Colonial_Nigeria" title="Colonial Nigeria">Nigeria Colony</a></li>
+<li>1910–1931 <i><a href="/wiki/Chief_Justice_of_South_Africa" title="Chief Justice of South Africa">South Africa</a></i></li>
+<li>1914–1954 <a href="/wiki/Chief_Justice_of_Nigeria" title="Chief Justice of Nigeria">Nigeria Colony and Protectorate</a></li>
+<li>1915–1931 <a href="/wiki/South_West_Africa" title="South West Africa">South West Africa (<i>Namibia</i>)</a></li>
+<li>1919–1960 <a href="/wiki/Cameroons" class="mw-redirect" title="Cameroons">Cameroons (<i>Cameroon</i>)</a><sup>6</sup></li>
+<li>1920–1963 <i><a href="/wiki/Chief_Justice_of_Kenya" title="Chief Justice of Kenya">Kenya</a></i></li>
+<li>1922–1961 <a href="/wiki/Chief_Justice_of_Tanzania" title="Chief Justice of Tanzania">Tanganyika (<i>Tanzania</i>)</a><sup>6</sup></li>
+<li>1923–1965 <a href="/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia (Zimbabwe)</a><sup>7</sup></li>
+<li>1924–1964 <a href="/wiki/Northern_Rhodesia" title="Northern Rhodesia">Northern Rhodesia (<i>Zambia</i>)</a></li>
+<li>1953–1963 <a href="/wiki/Federation_of_Rhodesia_and_Nyasaland" title="Federation of Rhodesia and Nyasaland">Federation of Rhodesia and Nyasaland</a></li>
+<li>1954–1960 <i><a href="/wiki/Chief_Justice_of_Nigeria" title="Chief Justice of Nigeria">Nigeria</a></i></li>
+<li>1979–1980 <a href="/wiki/Southern_Rhodesia" title="Southern Rhodesia">Southern Rhodesia (Zimbabwe)</a><sup>7</sup></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>6. <a href="/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandate</a>.</li>
+<li>7. <a href="/wiki/Responsible_government" title="Responsible government">Self-governing</a> Southern Rhodesia <a href="/wiki/Rhodesia%27s_Unilateral_Declaration_of_Independence" title="Rhodesia&#39;s Unilateral Declaration of Independence">unilaterally declared independence</a> in 1965 (as <a href="/wiki/Rhodesia" title="Rhodesia">Rhodesia</a>) and continued as an <a href="/wiki/Diplomatic_recognition" title="Diplomatic recognition">unrecognised</a> state until the 1979 <a href="/wiki/Lancaster_House_Agreement" title="Lancaster House Agreement">Lancaster House Agreement</a>. After recognised independence in 1980, Zimbabwe was a member of the Commonwealth until it withdrew in 2003.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Asia" style="font-size:114%;margin:0 4em">Asia</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="1" style="font-weight:bold;">17th and 18th century</td><td class="navbox-abovebelow" colspan="2" style="border-left:2px solid #fdfdfd;font-weight:bold;">19th century</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1685–1824 <a href="/wiki/British_Bencoolen" title="British Bencoolen">Bencoolen</a> (<a href="/wiki/Sumatra" title="Sumatra">Sumatra</a>)</li>
+<li>1702–1705 <a href="/wiki/Pulo_Condore_(island)" class="mw-redirect" title="Pulo Condore (island)">Pulo Condore</a></li>
+<li>1757-1862 <a href="/wiki/Supreme_Court_of_Judicature_at_Fort_William" title="Supreme Court of Judicature at Fort William">Bengal (to 1862)</a></li>
+<li>1862–1947 <a href="/wiki/Calcutta_High_Court" title="Calcutta High Court">Bengal (from 1862) (<i>West Bengal (India)</i> and <i>Bangladesh</i>)</a></li>
+<li>1762–1764 <a href="/wiki/British_occupation_of_Manila" title="British occupation of Manila">Manila and Cavite</a></li>
+<li>1786–1946 <a href="/wiki/History_of_Penang" title="History of Penang">Penang (<i>Malaysia</i>)</a></li>
+<li>1795–1948 <a href="/wiki/Chief_Justice_of_Sri_Lanka" title="Chief Justice of Sri Lanka">Ceylon (<i>Sri Lanka</i>)</a></li>
+<li>1796–1965 <i><a href="/wiki/Maldives" title="Maldives">Maldives </a></i></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1812–1824 <a href="/wiki/Bangka_Island" title="Bangka Island">Banka (Sumatra)</a> and <a href="/wiki/Belitung" title="Belitung">Billiton (Sumatra)</a></li>
+<li>1819–1826 <a href="/wiki/British_Malaya" title="British Malaya">British Malaya (<i>West Malaysia</i> and <i>Singapore</i>)</a></li>
+<li>1826–1946 <a href="/wiki/Chief_Justice_of_Singapore" title="Chief Justice of Singapore">Straits Settlements (<i>Malaysia</i> and <i>Singapore</i>)</a></li>
+<li>1839–1967 <a href="/wiki/Colony_of_Aden" title="Colony of Aden">Colony of Aden</a></li>
+<li>1839–1842 <a href="/wiki/First_Anglo-Afghan_War" title="First Anglo-Afghan War">Afghanistan</a></li>
+<li>1841–1997 <a href="/wiki/Chief_Justice_of_the_Supreme_Court_of_Hong_Kong" title="Chief Justice of the Supreme Court of Hong Kong">Hong Kong</a></li>
+<li>1841–1946 <a href="/wiki/High_Courts_of_Malaysia" class="mw-redirect" title="High Courts of Malaysia">Kingdom of Sarawak (<i>Malaysia</i>)</a></li>
+<li>1848–1946 <a href="/wiki/Crown_Colony_of_Labuan" title="Crown Colony of Labuan">Labuan (<i>Malaysia</i>)</a></li>
+<li>1858–1947 <a href="/wiki/Federal_Court_of_India" title="Federal Court of India">British India (<i>India</i>, <i>Pakistan</i> and <i>Bangladesh</i>, Burma)</a> • <a href="/wiki/List_of_Chief_Justices_of_the_Bombay_High_Court" class="mw-redirect" title="List of Chief Justices of the Bombay High Court">Bombay</a> • <a href="/wiki/Calcutta_High_Court" title="Calcutta High Court">Calcutta</a> • <a href="/wiki/Madras_High_Court" title="Madras High Court">Madras</a> • <a href="/wiki/Allahabad_High_Court" title="Allahabad High Court">North-Western Provinces/Allahabad</a>)</li>
+<li>1874–1963 <a href="/wiki/High_Courts_of_Malaysia" class="mw-redirect" title="High Courts of Malaysia">British Borneo (<i>East Malaysia</i> and <i>Brunei</i>)</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1879–1919 <a href="/wiki/European_influence_in_Afghanistan" title="European influence in Afghanistan">Afghanistan</a> (protectorate)</li>
+<li>1882–1963 <a href="/wiki/High_Courts_of_Malaysia" class="mw-redirect" title="High Courts of Malaysia">British North Borneo (<i>Malaysia</i>)</a></li>
+<li>1885–1946 <a href="/wiki/Unfederated_Malay_States" title="Unfederated Malay States">Unfederated Malay States</a></li>
+<li>1888–1984 <i><a href="/wiki/Brunei_Sultanate" class="mw-redirect" title="Brunei Sultanate">Sultanate of Brunei</a></i></li>
+<li>1891–1971 <a href="/wiki/Muscat_and_Oman" title="Muscat and Oman">Muscat and Oman protectorate</a></li>
+<li>1892–1971 <a href="/wiki/Trucial_States" title="Trucial States">Trucial States</a></li>
+<li>1895–1946 <a href="/wiki/Federated_Malay_States" title="Federated Malay States">Federated Malay States</a></li>
+<li>1898–1930 <a href="/wiki/Weihaiwei_under_British_rule" title="Weihaiwei under British rule">Weihai Garrison</a></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1907–1949 <a href="/wiki/Bhutan" title="Bhutan">Bhutan</a> (protectorate)</li>
+<li>1918–1961 <a href="/wiki/Kuwait_protectorate" class="mw-redirect" title="Kuwait protectorate">Kuwait protectorate</a></li>
+<li>1920–1932 <a href="/wiki/British_Mandate_of_Mesopotamia" class="mw-redirect" title="British Mandate of Mesopotamia">Iraq</a><sup>8</sup></li>
+<li>1921–1946 <a href="/wiki/Emirate_of_Transjordan" title="Emirate of Transjordan">Transjordan</a><sup><small>8</small></sup></li>
+<li>1923–1948 <a href="/wiki/Mandatory_Palestine" title="Mandatory Palestine">Palestine</a><sup>8</sup></li>
+<li>1945–1946 <a href="/wiki/War_in_Vietnam_(1945%E2%80%931946)" class="mw-redirect" title="War in Vietnam (1945–1946)">South Vietnam</a></li>
+<li>1946–1963 <a href="/wiki/High_Courts_of_Malaysia" class="mw-redirect" title="High Courts of Malaysia">North Borneo (<i>Malaysia</i>)</a></li>
+<li>1946–1963 <a href="/wiki/High_Courts_of_Malaysia" class="mw-redirect" title="High Courts of Malaysia">Sarawak (<i>Malaysia</i>)</a></li>
+<li>1946–1963 <i><a href="/wiki/Chief_Justice_of_Singapore" title="Chief Justice of Singapore">Singapore</a></i></li>
+<li>1946–1948 <a href="/wiki/Malayan_Union" title="Malayan Union">Malayan Union</a></li>
+<li>1948–1957 <a href="/wiki/Federation_of_Malaya" title="Federation of Malaya">Federation of Malaya (<i>Malaysia</i>)</a></li>
+<li>Since 1960 <u><a href="/wiki/Akrotiri_and_Dhekelia" title="Akrotiri and Dhekelia">Akrotiri and Dhekelia</a></u> (before as part of <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>)</li>
+<li>Since 1965 <u><a href="/wiki/Government_of_the_British_Indian_Ocean_Territory" title="Government of the British Indian Ocean Territory">British Indian Ocean Territory</a></u> (before as part of <a href="/wiki/Mauritius" title="Mauritius">Mauritius</a> and the <a href="/wiki/Seychelles" title="Seychelles">Seychelles</a>)</li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>8</sup> <a href="/wiki/League_of_Nations_mandate" title="League of Nations mandate">League of Nations mandate</a>. Iraq's mandate was not enacted and replaced by the <a href="/wiki/Anglo-Iraqi_Treaty" class="mw-redirect" title="Anglo-Iraqi Treaty">Anglo-Iraqi Treaty</a></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Oceania" style="font-size:114%;margin:0 4em">Oceania</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px;background:transparent;color:inherit;"><div style="padding:0px;"><table class="navbox-columns-table" style="border-spacing: 0px; text-align:left;width:100%;"><tbody><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;">18th and 19th centuries</td><td class="navbox-abovebelow" colspan="1" style="border-left:2px solid #fdfdfd;font-weight:bold;">20th century</td></tr><tr style="vertical-align:top;"><td class="navbox-list" style="padding:0px;;;;width:10em;"><div>
+<ul><li>1788–1901 <a href="/wiki/Chief_Justice_of_New_South_Wales" title="Chief Justice of New South Wales">New South Wales</a></li>
+<li>1803–1901 <a href="/wiki/Chief_Justice_of_Tasmania" title="Chief Justice of Tasmania">Tasmania</a></li>
+<li>1807–1863 <a href="/wiki/Auckland_Islands" title="Auckland Islands">Auckland Islands</a><sup>9</sup></li>
+<li>1824–1980 <a href="/wiki/New_Hebrides" title="New Hebrides">New Hebrides (<i>Vanuatu</i>)</a></li>
+<li>1824–1901 <a href="/wiki/Chief_Justice_of_Queensland" title="Chief Justice of Queensland">Queensland</a></li>
+<li>1829–1901 <a href="/wiki/Chief_Justice_of_Western_Australia" title="Chief Justice of Western Australia">Western Australia</a></li>
+<li>1836–1901 <a href="/wiki/Chief_Justice_of_South_Australia" class="mw-redirect" title="Chief Justice of South Australia">South Australia</a></li>
+<li>since 1838 <u><a href="/wiki/Pitcairn_Islands" title="Pitcairn Islands">Pitcairn Islands</a></u></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1841–1907 <a href="/wiki/Chief_Justice_of_New_Zealand" title="Chief Justice of New Zealand">Colony of New Zealand</a></li>
+<li>1851–1901 <a href="/wiki/Chief_Justice_of_Victoria" title="Chief Justice of Victoria">Victoria</a></li>
+<li>1874–1970 <i><a href="/wiki/Chief_Justice_of_Fiji" title="Chief Justice of Fiji">Fiji</a></i><sup>10</sup></li>
+<li>1877–1976 <a href="/wiki/Chief_Judicial_Commissioner_for_the_Western_Pacific" title="Chief Judicial Commissioner for the Western Pacific">British Western Pacific Territories</a></li>
+<li>1884–1949 <a href="/wiki/Territory_of_Papua" title="Territory of Papua">Territory of Papua</a></li>
+<li>1888–1901 <a href="/wiki/Chief_Justice_of_the_Cook_Islands" title="Chief Justice of the Cook Islands">Cook Islands</a><sup>9</sup></li>
+<li>1889–1948 <a href="/wiki/Tokelau" title="Tokelau">Union Islands (Tokelau)</a><sup>9</sup></li>
+<li>1892–1979 <a href="/wiki/Gilbert_and_Ellice_Islands" title="Gilbert and Ellice Islands">Gilbert and Ellice Islands</a><sup>11</sup></li>
+<li>1893–1978 <a href="/wiki/Judiciary_of_the_Solomon_Islands" class="mw-redirect" title="Judiciary of the Solomon Islands">British Solomon Islands</a><sup>12</sup></li></ul>
+</div></td><td class="navbox-list" style="border-left:2px solid #fdfdfd;padding:0px;;;;width:10em;"><div>
+<ul><li>1900–1970 <a href="/wiki/Chief_Justice_of_Tonga" class="mw-redirect" title="Chief Justice of Tonga"><i>Tonga</i> (protected state)</a></li>
+<li>1900–1974 <a href="/wiki/Politics_of_Niue" title="Politics of Niue">Niue</a><sup>9</sup></li>
+<li>1901–1942 *<i><a href="/wiki/Chief_Justice_of_Australia" title="Chief Justice of Australia">Commonwealth of Australia</a></i>*<i><a href="/wiki/Chief_Justice_of_the_Northern_Territory" title="Chief Justice of the Northern Territory">Northern Territory</a></i></li>
+<li>1907–1953 *<i><a href="/wiki/Chief_Justice_of_New_Zealand" title="Chief Justice of New Zealand">Dominion of New Zealand</a></i></li>
+<li>1919–1942 <a href="/wiki/Nauru" title="Nauru">Nauru</a></li>
+<li>1945–1968 <a href="/wiki/Nauru" title="Nauru">Nauru</a></li>
+<li>1919–1949 <a href="/wiki/Territory_of_New_Guinea" title="Territory of New Guinea">Territory of New Guinea</a></li>
+<li>1949–1975 <i><a href="/wiki/Supreme_Court_of_Papua_New_Guinea" title="Supreme Court of Papua New Guinea">Territory of Papua and New Guinea</a></i><sup>13</sup></li></ul>
+</div></td></tr></tbody></table></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li>9. Now part of the *<i><a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">Realm of New Zealand</a></i>.</li>
+<li>10. Suspended member.</li>
+<li>11. Now <i><a href="/wiki/Kiribati" title="Kiribati">Kiribati</a></i> and *<i><a href="/wiki/Tuvalu" title="Tuvalu">Tuvalu</a></i>.</li>
+<li>12. Now the *<i><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></i>.</li>
+<li>13. Now *<i><a href="/wiki/Papua_New_Guinea" title="Papua New Guinea">Papua New Guinea</a></i>.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Antarctica_and_South_Atlantic" style="font-size:114%;margin:0 4em">Antarctica and South Atlantic</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Since 1658 <u><a href="/wiki/Saint_Helena_Supreme_Court" title="Saint Helena Supreme Court">Saint Helena</a></u><sup>14</sup></li>
+<li>Since 1815 <u><a href="/wiki/Ascension_Island" title="Ascension Island">Ascension Island</a></u><sup>14</sup></li>
+<li>Since 1816 <u><a href="/wiki/Tristan_da_Cunha" title="Tristan da Cunha">Tristan da Cunha</a></u><sup>14</sup></li>
+<li>Since 1908 <u><a href="/wiki/British_Antarctic_Territory" title="British Antarctic Territory">British Antarctic Territory</a></u><sup>15</sup></li>
+<li>1841–1933 <i><a href="/wiki/Australian_Antarctic_Territory" title="Australian Antarctic Territory">Australian Antarctic Territory</a></i> <small>(transferred to the <a href="/wiki/Commonwealth_of_Australia" class="mw-redirect" title="Commonwealth of Australia">Commonwealth of Australia</a>)</small></li>
+<li>1841–1947 <i><a href="/wiki/Ross_Dependency" title="Ross Dependency">Ross Dependency</a></i> <small>(transferred to the <a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">Realm of New Zealand</a>)</small></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>14. Since 2009 part of <u><a href="/wiki/Saint_Helena,_Ascension_and_Tristan_da_Cunha" title="Saint Helena, Ascension and Tristan da Cunha">Saint Helena, Ascension and Tristan da Cunha</a></u>; Ascension Island (1922–) and Tristan da Cunha (1938–) were previously dependencies of Saint Helena.</li>
+<li>15. Both claimed in 1908; territories formed in 1962 (British Antarctic Territory) and 1985 (South Georgia and the South Sandwich Islands).</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1244
+Cached time: 20190922001623
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 1.040 seconds
+Real time usage: 1.264 seconds
+Preprocessor visited node count: 4873/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 166155/2097152 bytes
+Template argument size: 29527/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5333/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.464/10.000 seconds
+Lua memory usage: 3.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1014.404      1 -total
+ 68.64%  696.247      1 Template:Infobox_country
+ 61.79%  626.761      2 Template:Infobox
+ 29.78%  302.103      1 Template:ISO_3166_code
+ 13.69%  138.849      1 Template:Reflist
+ 12.50%  126.805      7 Template:Navbox
+ 11.02%  111.737      1 Template:ISBN
+ 10.14%  102.907      1 Template:Infobox_country/imagetable
+  9.14%   92.745     16 Template:Both
+  8.78%   89.034      1 Template:Chief_Justices_of_British_overseas_territories
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:50049888-0!canonical and timestamp 20190922001622 and revision id 912252618
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Willoughbyland&amp;oldid=912252618">https://en.wikipedia.org/w/index.php?title=Willoughbyland&amp;oldid=912252618</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:History_of_Suriname" title="Category:History of Suriname">History of Suriname</a></li><li><a href="/wiki/Category:Former_English_colonies" title="Category:Former English colonies">Former English colonies</a></li><li><a href="/wiki/Category:People_of_former_British_colonies_and_protectorates_in_the_Americas" title="Category:People of former British colonies and protectorates in the Americas">People of former British colonies and protectorates in the Americas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_flag_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the flag caption or type parameters">Pages using infobox country or infobox former country with the flag caption or type parameters</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Willoughbyland" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Willoughbyland" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Willoughbyland" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Willoughbyland" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Willoughbyland">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Willoughbyland&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Willoughbyland&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Willoughbyland" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Willoughbyland" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Willoughbyland&amp;oldid=912252618" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Willoughbyland&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55637776" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Willoughbyland&amp;id=912252618" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Willoughbyland">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Willoughbyland&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Willoughbyland&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q55637776#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 August 2019, at 08:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Willoughbyland&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.040","walltime":"1.264","ppvisitednodes":{"value":4873,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":166155,"limit":2097152},"templateargumentsize":{"value":29527,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5333,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1014.404      1 -total"," 68.64%  696.247      1 Template:Infobox_country"," 61.79%  626.761      2 Template:Infobox"," 29.78%  302.103      1 Template:ISO_3166_code"," 13.69%  138.849      1 Template:Reflist"," 12.50%  126.805      7 Template:Navbox"," 11.02%  111.737      1 Template:ISBN"," 10.14%  102.907      1 Template:Infobox_country/imagetable","  9.14%   92.745     16 Template:Both","  8.78%   89.034      1 Template:Chief_Justices_of_British_overseas_territories"]},"scribunto":{"limitreport-timeusage":{"value":"0.464","limit":"10.000"},"limitreport-memusage":{"value":3618773,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20190922001623","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Willoughbyland","url":"https:\/\/en.wikipedia.org\/wiki\/Willoughbyland","sameAs":"http:\/\/www.wikidata.org\/entity\/Q55637776","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q55637776","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-04-05T04:54:00Z","dateModified":"2019-08-24T08:26:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/b\/be\/Flag_of_England.svg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1253"});});</script>
+</body>
+</html>

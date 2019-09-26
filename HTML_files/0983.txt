@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Kolombangara - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Kolombangara","wgTitle":"Kolombangara","wgCurRevisionId":912990124,"wgRevisionId":912990124,"wgArticleId":706067,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2014","All articles needing additional references","Coordinates on Wikidata","Commons category link is on Wikidata","Wikipedia articles with GND identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Islands of the Solomon Islands","Stratovolcanoes of the Solomon Islands","Subduction volcanoes","Western Province (Solomon Islands)","World War II sites in the Solomon Islands"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Kolombangara","wgRelevantArticleId":706067,"wgRequestId":"XYrUzApAAEQAAHk16VQAAACU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgCoordinates":{"lat":-7.966666666666667,"lon":157.06666666666666},"wgWikibaseItemId":"Q542053","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6a/Kolombangara_NASA.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Kolombangara"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Kolombangara&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Kolombangara&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Kolombangara"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Kolombangara rootpage-Kolombangara skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Kolombangara</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Kolombangara&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Kolombangara%22">"Kolombangara"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Kolombangara%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Kolombangara%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Kolombangara%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Kolombangara%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Kolombangara%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Kolombangara</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Kolombangara_NASA.jpg" class="image"><img alt="Kolombangara NASA.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kolombangara_NASA.jpg/260px-Kolombangara_NASA.jpg" decoding="async" width="260" height="178" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kolombangara_NASA.jpg/390px-Kolombangara_NASA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Kolombangara_NASA.jpg/520px-Kolombangara_NASA.jpg 2x" data-file-width="1024" data-file-height="702" /></a><div>Kolombangara seen from space (false color). <a href="/wiki/Mount_Veve" title="Mount Veve">Mount Veve</a> is clearly visible</div></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Solomon_Islands_-_Kolombangara.PNG" class="image"><img alt="Solomon Islands - Kolombangara.PNG" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Solomon_Islands_-_Kolombangara.PNG/260px-Solomon_Islands_-_Kolombangara.PNG" decoding="async" width="260" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Solomon_Islands_-_Kolombangara.PNG/390px-Solomon_Islands_-_Kolombangara.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/Solomon_Islands_-_Kolombangara.PNG/520px-Solomon_Islands_-_Kolombangara.PNG 2x" data-file-width="932" data-file-height="565" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Geography</th></tr><tr><th scope="row">Location</th><td><a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a></td></tr><tr><th scope="row">Coordinates</th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kolombangara&amp;params=7_58_S_157_04_E_type:isle"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">7°58′S</span> <span class="longitude">157°04′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">7.967°S 157.067°E</span><span style="display:none">&#xfeff; / <span class="geo">-7.967; 157.067</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Kolombangara&amp;params=7_58_S_157_04_E_type:isle"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">7°58′S</span> <span class="longitude">157°04′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">7.967°S 157.067°E</span><span style="display:none">&#xfeff; / <span class="geo">-7.967; 157.067</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Archipelago</th><td class="note"><a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a></td></tr><tr><th scope="row">Area</th><td>687.8&#160;km<sup>2</sup> (265.6&#160;sq&#160;mi)</td></tr><tr><th scope="row">Length</th><td>30&#160;km (19&#160;mi)</td></tr><tr><th scope="row">Highest&#160;elevation</th><td>1,770&#160;m (5,810&#160;ft)</td></tr><tr><th scope="row">Highest&#160;point</th><td>Mount Veve</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Administration</th></tr><tr><td colspan="2" style="text-align:center"><div><b>Solomon Islands</b></div></td></tr><tr><th scope="row">province</th><td><a href="/wiki/Western_Province_(Solomon_Islands)" title="Western Province (Solomon Islands)">Western Province</a></td></tr></tbody></table>
+<p><b>Kolombangara</b> (sometimes spelled <i>Kulambangara</i>) is an island in the <a href="/wiki/New_Georgia_Islands" title="New Georgia Islands">New Georgia Islands</a> group of the nation state of <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a> in the southwestern Pacific Ocean. The name is from a local language, a rough translation of its meaning is "Water Lord" with approximately 80 rivers and streams running down its flanks.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#World_War_II"><span class="tocnumber">2.1</span> <span class="toctext">World War II</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">3</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kolombangara&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Almost perfectly round in shape and about 30&#160;km (19 miles) across, the island is a <a href="/wiki/Stratovolcano" title="Stratovolcano">stratovolcano</a> that reaches an altitude of 1,770 metres (5,807&#160;ft) at <a href="/wiki/Mount_Veve" title="Mount Veve">Mount Veve</a>. The island forms part of the southern boundary of the <a href="/wiki/New_Georgia_Sound" title="New Georgia Sound">New Georgia Sound</a>; to the northwest the <a href="/wiki/Vella_Gulf" title="Vella Gulf">Vella Gulf</a> separates it from <a href="/wiki/Vella_Lavella" title="Vella Lavella">Vella Lavella</a> and <a href="/wiki/Gizo,_Solomon_Islands" title="Gizo, Solomon Islands">Gizo</a>, while to the southeast <a href="/wiki/New_Georgia" title="New Georgia">New Georgia</a> lies across the <a href="/wiki/Kula_Gulf" title="Kula Gulf">Kula Gulf</a>.   West-southwest of Kolombangara is <a href="/wiki/Ghizo_Island" title="Ghizo Island">Ghizo Island</a>, upon which the Western provincial capital <a href="/wiki/Gizo,_Solomon_Islands" title="Gizo, Solomon Islands">Gizo</a> is located.
+</p><p>Kolombangara is heavily forested, with few inhabitants.   Kolombangara has two notable settlements, Ringgi and Mongga, the former being the larger.  The most significant industry on the island at this time is logging, with the largest of these based at Poitete.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kolombangara&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first recorded sighting of Kolombangara by western explorers was in 1568 by the Spanish explorer <a href="/wiki/%C3%81lvaro_de_Menda%C3%B1a_de_Neira" title="Álvaro de Mendaña de Neira">Álvaro de Mendaña de Neira</a>. On March 15, 1893 Kolombangara was declared part of the <a href="/wiki/British_Solomon_Islands" title="British Solomon Islands">British Solomon Islands</a> <a href="/wiki/Protectorate" title="Protectorate">protectorate</a>. The island was occupied by the <a href="/wiki/Empire_of_Japan" title="Empire of Japan">Empire of Japan</a> in the early stages of the <a href="/wiki/Pacific_War" title="Pacific War">Pacific War</a>.
+</p>
+<h3><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kolombangara&amp;action=edit&amp;section=3" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During <a href="/wiki/World_War_II" title="World War II">World War II</a> the island and the waters around it were the scene of much fighting. The <a href="/wiki/Imperial_Japanese_Army" title="Imperial Japanese Army">Imperial Japanese Army</a> used an airstrip on some flat ground at <a href="/wiki/Vila,_Solomon_Islands" title="Vila, Solomon Islands">Vila</a> on the south shore of the island, and in May 1943 based several military units with over ten thousand troops garrisoned on the southeast side of the island under the command of Major General <a href="/wiki/Minoru_Sasaki" title="Minoru Sasaki">Minoru Sasaki</a>, in an attempt to establish a defense line through the Central Solomons. Naval battles nearby included the <a href="/wiki/Battle_of_Kula_Gulf" title="Battle of Kula Gulf">Battle of Kula Gulf</a> and <a href="/wiki/Battle_of_Kolombangara" title="Battle of Kolombangara">Battle of Kolombangara</a>.
+</p><p>The most famous and bloody  battle was the mission to intercept the "<a href="/wiki/Tokyo_Express" title="Tokyo Express">Tokyo Express</a>" supply convoy which resulted in the ramming and explosion of U.S. torpedo boat <a href="/wiki/Motor_Torpedo_Boat_PT-109" class="mw-redirect" title="Motor Torpedo Boat PT-109">PT-109</a>, manned by <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a> and his crew.  Australian <a href="/wiki/Coastwatchers" title="Coastwatchers">coastwatcher</a>, <a href="/wiki/Sub_Lieutenant" class="mw-redirect" title="Sub Lieutenant">Sub Lieutenant</a> <a href="/wiki/Arthur_Reginald_Evans" title="Arthur Reginald Evans">Arthur Reginald Evans</a>, who manned a secret observation post at the top of the island's Mount Veve volcano, spotted the explosion. After decoding news that the explosion he had witnessed was probably from the lost <i>PT-109</i> he dispatched <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islanders</a> <a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Biuku Gasa and Eroni Kumana</a> in a <a href="/wiki/Dugout_canoe" title="Dugout canoe">dugout canoe</a> to look for possible survivors. Their efforts led to the subsequent discovery and rescue of John F. Kennedy and the surviving crew.
+</p><p>After destroyers succeeded in sinking the supply ships three nights later and isolating the garrison of 12,400 there, US forces were able to "leapfrog" Kolombangara to land on <a href="/wiki/Vella_Lavella" title="Vella Lavella">Vella Lavella</a> to the west. The Japanese evacuated Kolombangara between September 23 and October 4, 1943.
+</p><p>In January 1944 a detachment of 1 officer and 6 enlisted men from the 350th Engineer General Service Regiment stationed at Munda, established a vegetable farm on the abandoned Japanese airstrip at Vila. The British government furnished 16 male natives to help with the project. With seeds acquired through the <a href="/wiki/International_Red_Cross" class="mw-redirect" title="International Red Cross">International Red Cross</a>, many vegetables were sent back to the base hospital to supplement the dehydrated meals served the recuperating veterans. The main item was <a href="/wiki/Watermelon" title="Watermelon">watermelons</a>.
+</p><p>Since 1978, the island has been part of the independent state of the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>.
+</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Kolombangara&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small-left plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Kolombangara" class="extiw" title="commons:Category:Kolombangara">Kolombangara</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pacificwrecks.com/provinces/solomons_kolombangara.html">Pacificwrecks.com: "Kolombangara, a military history"</a></li></ul>
+<p><br />
+</p>
+<div style="clear:both;"></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Solomon_Islands&amp;#124;link=Solomon_Islands_Islands_of_Solomon_Islands_by_province" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Islands_of_the_Solomon_Islands" title="Template:Islands of the Solomon Islands"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Islands_of_the_Solomon_Islands" title="Template talk:Islands of the Solomon Islands"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Islands_of_the_Solomon_Islands&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Solomon_Islands&amp;#124;link=Solomon_Islands_Islands_of_Solomon_Islands_by_province" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Solomon_Islands" title="Solomon Islands"><img alt="Solomon Islands" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/35px-Flag_of_the_Solomon_Islands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/46px-Flag_of_the_Solomon_Islands.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> <a href="/wiki/List_of_islands_of_Solomon_Islands" title="List of islands of Solomon Islands">Islands</a> of <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a> by province</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Central_Province_(Solomon_Islands)" title="Central Province (Solomon Islands)">Central</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aeaun" title="Aeaun">Aeaun</a></li>
+<li><a href="/wiki/Gavutu" title="Gavutu">Gavutu</a></li>
+<li><a href="/wiki/Mbanika" title="Mbanika">Mbanika</a></li>
+<li><a href="/wiki/Nggela_Islands" title="Nggela Islands">Nggela Islands</a></li>
+<li><a href="/wiki/Pavuvu" title="Pavuvu">Pavuvu</a></li>
+<li><a href="/wiki/Russell_Islands" title="Russell Islands">Russell Islands</a></li>
+<li><a href="/wiki/Savo_Island" title="Savo Island">Savo</a></li>
+<li><a href="/wiki/Tanambogo" title="Tanambogo">Tanambogo</a></li>
+<li><a href="/wiki/Tulagi" title="Tulagi">Tulagi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Choiseul_Province" title="Choiseul Province">Choiseul</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Choiseul_Island" title="Choiseul Island">Choiseul</a></li>
+<li><a href="/wiki/Cyprian_Bridge_Island" title="Cyprian Bridge Island">Cyprian Bridge Island</a></li>
+<li><a href="/wiki/Nuatambu" title="Nuatambu">Nuatambu</a></li>
+<li><a href="/wiki/Rob_Roy_Island" title="Rob Roy Island">Rob Roy</a></li>
+<li><a href="/wiki/Taro_Island" title="Taro Island">Taro</a></li>
+<li><a href="/wiki/Wagina_Island" title="Wagina Island">Wagina</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Guadalcanal_Province" title="Guadalcanal Province">Guadalcanal</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guadalcanal" title="Guadalcanal">Guadalcanal</a></li>
+<li><a href="/wiki/Korasahalu" title="Korasahalu">Korasahalu</a></li>
+<li><a href="/wiki/Marau_Sound" title="Marau Sound">Marau Sound</a></li>
+<li><a href="/wiki/Marapa" title="Marapa">Marapa</a></li>
+<li><a href="/wiki/Nughu" title="Nughu">Nughu</a></li>
+<li><a href="/wiki/Tavanipupu" title="Tavanipupu">Tavanipupu</a></li>
+<li><a href="/wiki/Vulelua" title="Vulelua">Vulelua</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Isabel_Province" title="Isabel Province">Isabel</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arnarvon" class="mw-redirect" title="Arnarvon">Arnarvon</a></li>
+<li><a href="/wiki/Furona_Island" title="Furona Island">Furona Island</a></li>
+<li><a href="/wiki/Kerehikapa" title="Kerehikapa">Kerehikapa</a></li>
+<li><a href="/wiki/Mahige" title="Mahige">Mahige</a></li>
+<li><a href="/wiki/Maleivona" title="Maleivona">Maleivona</a></li>
+<li><a href="/wiki/Ramos_Island" title="Ramos Island">Ramos</a></li>
+<li><a href="/wiki/San_Jorge_Island" title="San Jorge Island">San Jorge</a></li>
+<li><a href="/wiki/Santa_Isabel_Island" title="Santa Isabel Island">Santa Isabel</a></li>
+<li><a href="/wiki/Sikopo" title="Sikopo">Sikopo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Makira-Ulawa_Province" title="Makira-Ulawa Province">Makira-Ulawa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ali%27ite" title="Ali&#39;ite">Ali'ite</a></li>
+<li><a href="/wiki/Makira" title="Makira">Makira</a></li>
+<li><a href="/wiki/Malaulalo" title="Malaulalo">Malaulalo</a></li>
+<li><a href="/wiki/Malaupaina" title="Malaupaina">Malaupaina</a></li>
+<li><a href="/wiki/Pio_Island" title="Pio Island">Pio</a></li>
+<li><a href="/wiki/Olu_Malau" class="mw-redirect" title="Olu Malau">Olu Malau</a></li>
+<li><a href="/wiki/Owaraha" title="Owaraha">Santa Ana</a></li>
+<li><a href="/wiki/Owariki" title="Owariki">Santa Catalina</a></li>
+<li><a href="/wiki/Ugi_Island" title="Ugi Island">Ugi</a></li>
+<li><a href="/wiki/Ulawa_Island" title="Ulawa Island">Ulawa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Malaita_Province" title="Malaita Province">Malaita</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adagege" title="Adagege">Adagege</a></li>
+<li><a href="/wiki/Alite_Island" title="Alite Island">Alite</a></li>
+<li><a href="/wiki/Anuta_Paina" title="Anuta Paina">Anuta Paina</a></li>
+<li><a href="/wiki/Funaafou" title="Funaafou">Funaafou</a></li>
+<li><a href="/wiki/Langa_Langa_Lagoon" title="Langa Langa Lagoon">Langa Langa Lagoon</a></li>
+<li><a href="/wiki/Lau_Lagoon" title="Lau Lagoon">Lau Lagoon</a></li>
+<li><a href="/wiki/Laulasi_Island" title="Laulasi Island">Laulasi</a></li>
+<li><a href="/wiki/Maana%27omba" title="Maana&#39;omba">Maana'omba</a></li>
+<li><a href="/wiki/Malaita" title="Malaita">Malaita</a></li>
+<li><a href="/wiki/South_Malaita_Island" title="South Malaita Island">Maramasike</a></li>
+<li><a href="/wiki/Mbasakana" title="Mbasakana">Mbasakana</a></li>
+<li><a href="/wiki/Ndai" title="Ndai">Ndai</a></li>
+<li><a href="/wiki/Ontong_Java_Atoll" title="Ontong Java Atoll">Ontong Java</a></li>
+<li><a href="/wiki/Roncador_Reef" title="Roncador Reef">Roncador Reef</a></li>
+<li><a href="/wiki/Sikaiana" title="Sikaiana">Sikaiana</a></li>
+<li><a href="/wiki/Sulufou" title="Sulufou">Sulufou</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Rennell_and_Bellona_Province" title="Rennell and Bellona Province">Rennell and Bellona</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bellona_Island" title="Bellona Island">Bellona</a></li>
+<li><a href="/wiki/Indispensable_Reefs" title="Indispensable Reefs">Indispensable Reefs</a></li>
+<li><a href="/wiki/Rennell_Island" title="Rennell Island">Rennell</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Temotu_Province" title="Temotu Province">Temotu</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anuta" title="Anuta">Anuta</a></li>
+<li><a href="/wiki/Banie_(island)" title="Banie (island)">Banie</a></li>
+<li><a href="/wiki/Bass_Islands_(Duff_Islands)" title="Bass Islands (Duff Islands)">Bass Islands</a></li>
+<li><a href="/wiki/Duff_Islands" title="Duff Islands">Duff Islands</a></li>
+<li><a href="/wiki/Fatutaka" title="Fatutaka">Fatutaka</a></li>
+<li><a href="/wiki/Fenualoa" title="Fenualoa">Fenualoa</a></li>
+<li><a href="/wiki/Lomlom" title="Lomlom">Lomlom</a></li>
+<li><a href="/wiki/Makalom" title="Makalom">Makalom</a></li>
+<li><a href="/wiki/Malo_(Solomon_Islands)" title="Malo (Solomon Islands)">Malo</a></li>
+<li><a href="/wiki/Matema_Island" title="Matema Island">Matema</a></li>
+<li><a href="/wiki/Nend%C3%B6" class="mw-redirect" title="Nendö">Nendö</a></li>
+<li><a href="/wiki/Ngalo" title="Ngalo">Ngalo</a></li>
+<li><a href="/wiki/Ngandeli" title="Ngandeli">Ngandeli</a></li>
+<li><a href="/wiki/Ngatendo" title="Ngatendo">Ngatendo</a></li>
+<li><a href="/wiki/Ngawa_Island" title="Ngawa Island">Ngawa</a></li>
+<li><a href="/wiki/Nibanga_Nendi" title="Nibanga Nendi">Nibanga Nendi</a></li>
+<li><a href="/wiki/Nibanga_Temau" title="Nibanga Temau">Nibanga Temau</a></li>
+<li><a href="/wiki/Nifiloli" title="Nifiloli">Nifiloli</a></li>
+<li><a href="/wiki/Nukapu" title="Nukapu">Nukapu</a></li>
+<li><a href="/wiki/Nalongo_and_Nupani" title="Nalongo and Nupani">Nupani</a></li>
+<li><a href="/wiki/Patteson_Shoal" title="Patteson Shoal">Patteson Shoal</a></li>
+<li><a href="/wiki/Pigeon_Island_(Solomon_Islands)" title="Pigeon Island (Solomon Islands)">Pigeon</a></li>
+<li><a href="/wiki/Pileni" title="Pileni">Pileni</a></li>
+<li><a href="/wiki/Reef_Islands" title="Reef Islands">Reef Islands</a></li>
+<li><a href="/wiki/Santa_Cruz_Islands" title="Santa Cruz Islands">Santa Cruz Islands</a></li>
+<li><a href="/wiki/Tahua" title="Tahua">Tahua</a></li>
+<li><a href="/wiki/Taumako" title="Taumako">Taumako</a></li>
+<li><a href="/wiki/Teanu_(island)" title="Teanu (island)">Teanu</a></li>
+<li><a href="/wiki/Temotu_Noi" title="Temotu Noi">Temotu Noi</a></li>
+<li><a href="/wiki/Tikopia" title="Tikopia">Tikopia</a></li>
+<li><a href="/wiki/Tinakula" title="Tinakula">Tinakula</a></li>
+<li><a href="/wiki/Utupua" class="mw-redirect" title="Utupua">Utupua</a></li>
+<li><a href="/wiki/Vanikoro" title="Vanikoro">Vanikoro</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Western_Province_(Solomon_Islands)" title="Western Province (Solomon Islands)">Western</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arundel_Island" title="Arundel Island">Arundel</a></li>
+<li><a href="/wiki/Balalae_Island" title="Balalae Island">Balalae</a></li>
+<li><a href="/wiki/Faisi" title="Faisi">Faisi</a></li>
+<li><a href="/wiki/Fauro_Island" title="Fauro Island">Fauro</a></li>
+<li><a href="/wiki/Ghizo_Island" title="Ghizo Island">Ghizo</a></li>
+<li><a href="/wiki/Ghoi" title="Ghoi">Ghoi</a></li>
+<li><a href="/wiki/Kennedy_Island" title="Kennedy Island">Kennedy</a></li>
+<li><a href="/wiki/Kiambe" title="Kiambe">Kiambe</a></li>
+<li><a href="/wiki/Kingguru" title="Kingguru">Kingguru</a></li>
+<li><a class="mw-selflink selflink">Kolombangara</a></li>
+<li><a href="/wiki/Liapari" title="Liapari">Liapari</a></li>
+<li><a href="/wiki/Logha" title="Logha">Logha</a></li>
+<li><a href="/wiki/Lola_Island" title="Lola Island">Lola</a></li>
+<li><a href="/wiki/Lumbari_Island" title="Lumbari Island">Lumbari</a></li>
+<li><a href="/wiki/Magusaiai" title="Magusaiai">Magusaiai</a></li>
+<li><a href="/wiki/Masamasa" title="Masamasa">Masamasa</a></li>
+<li><a href="/wiki/Marovo_Island" title="Marovo Island">Marovo</a></li>
+<li><a href="/wiki/Matikuri" title="Matikuri">Matikuri</a></li>
+<li><a href="/wiki/Mbava" title="Mbava">Mbava</a></li>
+<li><a href="/wiki/Mborokua" title="Mborokua">Mborokua</a></li>
+<li><a href="/wiki/Mbulo_Island" title="Mbulo Island">Mbulo</a></li>
+<li><a href="/wiki/Mondomondo" title="Mondomondo">Mondomondo</a></li>
+<li><a href="/wiki/Mono_Island" title="Mono Island">Mono</a></li>
+<li><a href="/wiki/Nakaza_Island" title="Nakaza Island">Nakaza</a></li>
+<li><a href="/wiki/New_Georgia" title="New Georgia">New Georgia</a></li>
+<li><a href="/wiki/New_Georgia_Islands" title="New Georgia Islands">New Georgia Islands</a></li>
+<li><a href="/wiki/Nggatokae_Island" title="Nggatokae Island">Nggatokae</a></li>
+<li><a href="/wiki/Nusatupe" title="Nusatupe">Nusatupe</a></li>
+<li><a href="/wiki/Ovau_Island" title="Ovau Island">Ovau Island</a></li>
+<li><a href="/wiki/Pirumeri" class="mw-redirect" title="Pirumeri">Pirumeri</a></li>
+<li><a href="/wiki/Ranongga" title="Ranongga">Ranongga</a></li>
+<li><a href="/wiki/Rendova_Island" title="Rendova Island">Rendova</a></li>
+<li><a href="/wiki/Shortland_Island" title="Shortland Island">Shortland</a></li>
+<li><a href="/wiki/Shortland_Islands" title="Shortland Islands">Shortland Islands</a></li>
+<li><a href="/wiki/Simbo" title="Simbo">Simbo</a></li>
+<li><a href="/wiki/Stirling_Island" title="Stirling Island">Stirling</a></li>
+<li><a href="/wiki/Telina" title="Telina">Telina</a></li>
+<li><a href="/wiki/Tetepare_Island" title="Tetepare Island">Tetepare</a></li>
+<li><a href="/wiki/Treasury_Islands" title="Treasury Islands">Treasury Islands</a></li>
+<li><a href="/wiki/Vella_Lavella" title="Vella Lavella">Vella Lavella</a></li>
+<li><a href="/wiki/Uepi" title="Uepi">Uepi</a></li>
+<li><a href="/wiki/Vangunu" title="Vangunu">Vangunu</a></li>
+<li><a href="/wiki/Vonavona" title="Vonavona">Vonavona</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="PT-109" style=";wide;padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:PT-109" title="Template:PT-109"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:PT-109" title="Template talk:PT-109"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:PT-109&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="PT-109" style="font-size:114%;margin:0 4em"><a href="/wiki/Motor_Torpedo_Boat_PT-109" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Craft</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PT_boat" title="PT boat">PT boat</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-109" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i></a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-59" class="mw-redirect" title="Motor Torpedo Boat PT-59"><i>PT-59</i></a></li>
+<li><a href="/wiki/Japanese_destroyer_Amagiri_(1930)" title="Japanese destroyer Amagiri (1930)">Japanese destroyer <i>Amagiri</i></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">People</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></li>
+<li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Biuku Gasa</a></li>
+<li><a href="/wiki/Biuku_Gasa_and_Eroni_Kumana" title="Biuku Gasa and Eroni Kumana">Eroni Kumana</a></li>
+<li><a href="/wiki/Arthur_Reginald_Evans" title="Arthur Reginald Evans">Arthur Evans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Media</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/PT-109_(song)" title="PT-109 (song)">1962 Song</a></li>
+<li><a href="/wiki/PT_109_(film)" title="PT 109 (film)">1963 Film</a></li>
+<li><a href="/wiki/PT-109_(comic_book)" class="mw-redirect" title="PT-109 (comic book)">Comic book</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat_PT-109#Legacy" class="mw-redirect" title="Motor Torpedo Boat PT-109"><i>PT-109</i> (model) kit</a></li>
+<li><a href="/wiki/PT-109_(video_game)" title="PT-109 (video game)">Video game</a></li>
+<li><a href="/wiki/The_Search_for_Kennedy%27s_PT_109" title="The Search for Kennedy&#39;s PT 109"><i>The Search for Kennedy's PT 109</i> (2002 film)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color:#DCDCDC;">Related</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kennedy_Island" title="Kennedy Island">Kasolo Island (Kennedy Island)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q542053&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q542053&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q542053" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4492634-0">4492634-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/246275414">246275414</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/246275414">246275414</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20190925024533
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.388 seconds
+Real time usage: 0.576 seconds
+Preprocessor visited node count: 2478/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 58824/2097152 bytes
+Template argument size: 3723/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 5.26 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  468.654      1 -total
+ 49.74%  233.099      1 Template:Infobox_islands
+ 40.58%  190.167      1 Template:Infobox
+ 21.03%   98.566      1 Template:Refimprove
+ 15.86%   74.332      1 Template:Ambox
+ 12.29%   57.620     10 Template:Infobox_islands/area
+ 10.78%   50.540      1 Template:Commons_category
+  8.72%   40.865      1 Template:Convinfobox
+  8.30%   38.919      1 Template:Coord
+  8.17%   38.297      3 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:706067-0!canonical and timestamp 20190925024532 and revision id 912990124
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Kolombangara&amp;oldid=912990124">https://en.wikipedia.org/w/index.php?title=Kolombangara&amp;oldid=912990124</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Islands_of_the_Solomon_Islands" title="Category:Islands of the Solomon Islands">Islands of the Solomon Islands</a></li><li><a href="/wiki/Category:Stratovolcanoes_of_the_Solomon_Islands" title="Category:Stratovolcanoes of the Solomon Islands">Stratovolcanoes of the Solomon Islands</a></li><li><a href="/wiki/Category:Subduction_volcanoes" title="Category:Subduction volcanoes">Subduction volcanoes</a></li><li><a href="/wiki/Category:Western_Province_(Solomon_Islands)" title="Category:Western Province (Solomon Islands)">Western Province (Solomon Islands)</a></li><li><a href="/wiki/Category:World_War_II_sites_in_the_Solomon_Islands" title="Category:World War II sites in the Solomon Islands">World War II sites in the Solomon Islands</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2014" title="Category:Articles needing additional references from April 2014">Articles needing additional references from April 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Kolombangara" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Kolombangara" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Kolombangara" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Kolombangara" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Kolombangara">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Kolombangara&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Kolombangara&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Kolombangara" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Kolombangara" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Kolombangara&amp;oldid=912990124" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Kolombangara&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q542053" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Kolombangara&amp;id=912990124" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Kolombangara" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Kolombangara">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Kolombangara&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Kolombangara&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0" title="Коломбангара – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Kolombangara_Island" title="Kolombangara Island – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Kolombangara" title="Kolombangara – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Kolombangara" title="Kolombangara – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%A1%AC%EB%B0%A9%EA%B0%80%EB%9D%BC%EC%84%AC" title="콜롬방가라섬 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%9B%E1%83%91%E1%83%90%E1%83%9C%E1%83%92%E1%83%90%E1%83%A0%E1%83%90" title="კოლომბანგარა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%90%E3%83%B3%E3%82%AC%E3%83%A9%E5%B3%B6" title="コロンバンガラ島 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0" title="Коломбангара – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kolombangara" title="Kolombangara – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%B3%D0%B0%D1%80%D0%B0" title="Коломбангара – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%A7%91%E9%9A%86%E7%8F%AD%E5%8A%A0%E6%8B%89%E5%B3%B6" title="科隆班加拉島 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q542053#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 August 2019, at 05:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Kolombangara&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.388","walltime":"0.576","ppvisitednodes":{"value":2478,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":58824,"limit":2097152},"templateargumentsize":{"value":3723,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  468.654      1 -total"," 49.74%  233.099      1 Template:Infobox_islands"," 40.58%  190.167      1 Template:Infobox"," 21.03%   98.566      1 Template:Refimprove"," 15.86%   74.332      1 Template:Ambox"," 12.29%   57.620     10 Template:Infobox_islands/area"," 10.78%   50.540      1 Template:Commons_category","  8.72%   40.865      1 Template:Convinfobox","  8.30%   38.919      1 Template:Coord","  8.17%   38.297      3 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":5520752,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20190925024533","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Kolombangara","url":"https:\/\/en.wikipedia.org\/wiki\/Kolombangara","sameAs":"http:\/\/www.wikidata.org\/entity\/Q542053","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q542053","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-05T18:23:14Z","dateModified":"2019-08-29T05:16:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6a\/Kolombangara_NASA.jpg","headline":"island in the New Georgia Islands group of the Solomon Islands"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":707,"wgHostname":"mw1273"});});</script>
+</body>
+</html>

@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Operation Aphrodite - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Operation_Aphrodite","wgTitle":"Operation Aphrodite","wgCurRevisionId":917297700,"wgRevisionId":917297700,"wgArticleId":1417902,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Pages using web citations with no URL","All articles with failed verification","Articles with failed verification from June 2010","World War II weapons of the United States","World War II strategic bombing conducted by the United States","1944 in aviation","Guided missiles of the United States","Boeing B-17 Flying Fortress"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May",
+"June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Operation_Aphrodite","wgRelevantArticleId":1417902,"wgRequestId":"XYorIApAIC4AAJ6HAzQAAADI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2915673","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/a2/Aphroditie-droneb17.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Operation_Aphrodite"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Operation_Aphrodite&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Operation_Aphrodite&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Operation_Aphrodite"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Operation_Aphrodite rootpage-Operation_Aphrodite skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Operation Aphrodite</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em;width:25.5em;border-spacing:2px;"><tbody><tr><th colspan="2" class="hproduct" style="text-align:center;font-size:125%;font-weight:bold;background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;"><span class="fn org"> Aphrodite, BQ-7, BQ-8 </span></th></tr><tr><td colspan="2" style="text-align:center;text-align:center;border-bottom:1px solid #aaa;line-height:1.5em;"><a href="/wiki/File:Aphroditie-droneb17.jpg" class="image"><img alt="Aphroditie-droneb17.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Aphroditie-droneb17.jpg/300px-Aphroditie-droneb17.jpg" decoding="async" width="300" height="238" srcset="//upload.wikimedia.org/wikipedia/commons/a/a2/Aphroditie-droneb17.jpg 1.5x" data-file-width="355" data-file-height="282" /></a><div>Aphrodite drone at takeoff</div></td></tr><tr><th scope="row" style="padding-right:1em">Type</th><td><a href="/wiki/Guided_missile" class="mw-redirect" title="Guided missile">Radio-controlled bombers</a> as <a href="/wiki/Guided_missile" class="mw-redirect" title="Guided missile">guided missiles</a></td></tr><tr><th scope="row" style="padding-right:1em">Place&#160;of&#160;origin</th><td>United States</td></tr><tr><th colspan="2" style="text-align:center;background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Service history</th></tr><tr><th scope="row" style="padding-right:1em">In&#160;service</th><td>1944</td></tr><tr><th scope="row" style="padding-right:1em">Used&#160;by</th><td><a href="/wiki/United_States_Army_Air_Forces" title="United States Army Air Forces">United States Army Air Forces</a> (Aphrodite)<br /><a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> (Anvil)</td></tr><tr><th colspan="2" style="text-align:center;background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;">Specifications</th></tr><tr><th scope="row" style="padding-right:1em">Warhead</th><td>Payload: 30,000 LB (13,600&#160;kg) <sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> <a href="/wiki/Torpex" title="Torpex">Torpex</a></td></tr><tr><td colspan="2" style="text-align:center"><hr /></td></tr><tr><th scope="row" style="padding-right:1em"><div style="line-height:1.25em">Guidance<br />system</div></th><td><a href="/wiki/Azon" title="Azon">Azon</a> (TV sensor, radio control)<br />
+<b>Castor</b> (radar &amp; TV sensors, radio control)</td></tr></tbody></table>
+<p><b>Aphrodite</b> and <b>Anvil</b> were the <a href="/wiki/World_War_II" title="World War II">World War II</a> <a href="/wiki/Code_name" title="Code name">code names</a> of <a href="/wiki/United_States_Army_Air_Forces" title="United States Army Air Forces">United States Army Air Forces</a> and <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a> operations to use <a href="/wiki/B-17_Flying_Fortress_variants" class="mw-redirect" title="B-17 Flying Fortress variants">B-17</a> and <a href="/wiki/PB4Y" class="mw-redirect" title="PB4Y">PB4Y</a> bombers as <a href="/wiki/Precision-guided_munition" title="Precision-guided munition">precision-guided munitions</a> against bunkers and other hardened/reinforced enemy facilities, such as those targeted during <a href="/wiki/Operation_Crossbow" title="Operation Crossbow">Operation Crossbow</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The plan called for B-17 aircraft that had been taken out of operational service (various nicknames existed such as "robot", "baby", "drone" or "weary Willy"<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>) to be loaded to capacity with <a href="/wiki/Explosive_material" class="mw-redirect" title="Explosive material">explosives</a>, and flown by radio control into bomb-resistant fortifications such as German <a href="/wiki/U-boat" title="U-boat">U-boat</a> pens and <a href="/wiki/V-weapon" class="mw-redirect" title="V-weapon">V-weapon</a> sites.
+</p><p>It was hoped that it would match the British success with <a href="/wiki/Tallboy_bomb" class="mw-redirect" title="Tallboy bomb">Tallboy</a> and <a href="/wiki/Grand_Slam_bomb" class="mw-redirect" title="Grand Slam bomb">Grand Slam</a> ground penetration bombs but the project was dangerous, expensive and unsuccessful. Of 14 missions flown, none resulted in the successful destruction of a target. Many aircraft lost control and crashed or were shot down by flak, and many pilots were killed. However, a handful of aircraft scored near misses. One notable pilot death was that of Lt&#160;<a href="/wiki/Joseph_P._Kennedy,_Jr." class="mw-redirect" title="Joseph P. Kennedy, Jr.">Joseph P. Kennedy, Jr.</a>, USNR, the elder brother of future US President <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a>.
+</p><p>The program effectively ceased on January 27, 1945 when General <a href="/wiki/Carl_Andrew_Spaatz" class="mw-redirect" title="Carl Andrew Spaatz">Spaatz</a> sent an urgent message to Doolittle: "Aphrodite babies must not be launched against the enemy until further orders".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Proposal"><span class="tocnumber">1</span> <span class="toctext">Proposal</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Procedure"><span class="tocnumber">2</span> <span class="toctext">Procedure</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Missions"><span class="tocnumber">3</span> <span class="toctext">Missions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Proposal">Proposal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit&amp;section=1" title="Edit section: Proposal">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>By late 1943, General <a href="/wiki/Henry_H._Arnold" title="Henry H. Arnold">Henry H. Arnold</a> had directed Brigadier General <a href="/wiki/Grandison_Gardner" title="Grandison Gardner">Grandison Gardner</a>'s electronic engineers at <a href="/wiki/Eglin_Field" class="mw-redirect" title="Eglin Field">Eglin Field</a>, Florida, to outfit war-weary bombers with automatic pilots so that they could be remotely controlled.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The plan was first proposed to Major General <a href="/wiki/Jimmy_Doolittle" title="Jimmy Doolittle">Jimmy Doolittle</a> some time in 1944. Doolittle approved the plan for Operation Aphrodite on June 26, and assigned the <a href="/wiki/3d_Air_Division" class="mw-redirect" title="3d Air Division">3rd Bombardment Division</a> with preparing and flying the drone aircraft, which was to be designated BQ-7.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In the U.S. Navy's similar project, Operation Anvil, the drone was designated BQ-8.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Final assignment of responsibility was given to the <a href="/wiki/562d_Flying_Training_Squadron" class="mw-redirect" title="562d Flying Training Squadron">562nd Bomb Squadron</a> at <a href="/wiki/RAF_Honington" title="RAF Honington">RAF Honington</a> in <a href="/wiki/Suffolk" title="Suffolk">Suffolk</a>. Similarly, on July 6, 1944, the U.S. Navy Special Attack Unit (SAU-1) was formed under ComAirLant, with Commander James A. Smith, Officer in Charge, for transfer without delay to Commander Fleet Air Wing 7 in Europe to attack German V-1 and <a href="/wiki/V-2_rocket_facilities_of_World_War_II" title="V-2 rocket facilities of World War II">V-2 sites</a> with <a href="/wiki/B-24_Liberator#U.S._Navy_nomenclature_and_sub-variants" class="mw-redirect" title="B-24 Liberator">PB4Y-1s</a> converted to assault drones.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Procedure">Procedure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit&amp;section=2" title="Edit section: Procedure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:262px;"><a href="/wiki/File:B-17.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/B-17.jpg/260px-B-17.jpg" decoding="async" width="260" height="199" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/B-17.jpg/390px-B-17.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/B-17.jpg/520px-B-17.jpg 2x" data-file-width="860" data-file-height="659" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:B-17.jpg" class="internal" title="Enlarge"></a></div>After completing 80 <a href="/wiki/91st_Bomb_Group" class="mw-redirect" title="91st Bomb Group">323rd BS</a> missions, Aphrodite B-17F (<i>The Careful Virgin</i>) was used against Mimoyecques but impacted short of target by controller error.</div></div></div>
+<p>Old <a href="/wiki/Boeing_B-17_Flying_Fortress" title="Boeing B-17 Flying Fortress">Boeing B-17 Flying Fortress</a> bombers were stripped of all normal combat armament and all other non-essential gear (armor, guns, bomb racks, <a href="/wiki/Transceiver" title="Transceiver">transceiver</a>, seats, etc.), relieving about 12,000&#160;lb (5,400&#160;kg) of weight. To allow easier exit when the pilot and co-pilot were to parachute out, the <a href="/wiki/Aircraft_canopy" title="Aircraft canopy">canopy</a>  was removed.  <a href="/wiki/Azon" title="Azon">Azon</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> <a href="/wiki/Radio_control" title="Radio control">radio remote-control</a> equipment was added, with two <a href="/wiki/Television_camera" class="mw-redirect" title="Television camera">television cameras</a> fitted in the cockpit to allow a view of both the ground and the main instrumentation panel to be transmitted back to an accompanying CQ-17 'mothership'.
+</p><p>The drone was loaded with explosives weighing more than twice that of a B-17's normal bomb payload. The British <a href="/wiki/Torpex" title="Torpex">Torpex</a> used for the purpose was itself 50% more powerful than TNT.
+</p><p>A relatively remote location in <a href="/wiki/Norfolk" title="Norfolk">Norfolk</a>, <a href="/wiki/RAF_Fersfield" title="RAF Fersfield">RAF Fersfield</a>, was the launch site. Initially, <a href="/wiki/RAF_Woodbridge" title="RAF Woodbridge">RAF Woodbridge</a> had been selected for its long runway, but the possibility of a damaged aircraft that diverted to Woodbridge for landings colliding with a loaded drone caused concerns. The remote control system was insufficient for safe <a href="/wiki/Takeoff" title="Takeoff">takeoff</a>, so each drone was taken aloft by a volunteer pilot and a volunteer flight engineer to an altitude of 2,000&#160;ft (600 m) for transfer of control to the CQ-17 operators. After successful turnover of control of the drone, the two-man crew would arm the payload and parachute out of the <a href="/wiki/Cockpit" title="Cockpit">cockpit</a>. The 'mothership' would then direct the missile to the target.
+</p><p>
+When the training program was complete, the 562nd Squadron had ten drones and four "motherships".</p><div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Missions">Missions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit&amp;section=3" title="Edit section: Missions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:left;">
+<caption>Aphrodite missions
+</caption>
+
+<tbody><tr valign="top">
+<th>Target
+</th>
+<th>Date
+</th>
+<th>Aircraft
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Fortress_of_Mimoyecques" title="Fortress of Mimoyecques">Mimoyecques</a>
+</td>
+<td>August 4, 1944
+</td>
+<td>1 B-17
+</td>
+<td>Mission 515: Pilot Lt. Fain Pool and autopilot engineer "S. Sgt. Philip Enterline" successfully parachuted, and the drone spun out of control.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Siracourt_V-1_bunker" title="Siracourt V-1 bunker">Siracourt V-1 bunker</a>
+</td>
+<td>August 4, 1944
+</td>
+<td>B-17 39835
+</td>
+<td>Mission 515: Control problems led to drone crashing in wood at <a href="/wiki/Sudbourne" title="Sudbourne">Sudbourne</a> ("pilot killed when abandoned aircraft too soon").<sup id="cite_ref-Baugher_11-0" class="reference"><a href="#cite_note-Baugher-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/La_Coupole" title="La Coupole">Watten</a>, <a href="/wiki/Blockhaus_d%27%C3%89perlecques" title="Blockhaus d&#39;Éperlecques">Wizernes</a>
+</td>
+<td>August 4, 1944
+</td>
+<td>2 B-17s
+</td>
+<td>Mission 515: One plane lost control after the first crewman bailed out, and crashed near <a href="/wiki/Orford,_Suffolk" title="Orford, Suffolk">Orford</a>, making a huge crater and destroying more than 2 <a href="/wiki/Acre" title="Acre">acres</a> (8,000 sq m) of the surrounding countryside; the second crewman was killed. The view from the nose of the other drone was obscured as it came over the target, and it missed by several hundred feet.  (Alternate sources claim 1 hit 1,500 feet short &amp; 1 was shot down,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> and that 1 drone crashed killing 1 crew of 2 men).<sup id="cite_ref-usaaf_13-0" class="reference"><a href="#cite_note-usaaf-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Watten
+</td>
+<td>August 6, 1944
+</td>
+<td>B-17 30342<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><br /><span class="nowrap">B-17 30212 (<i>Quarterback</i>)</span><br />B-17 31394
+</td>
+<td>Crews abandoned the missiles without complications; a few minutes later one lost control and fell into the sea.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Both 30342 and 31394 experienced control problems and crashed into the sea, while B-17 30342 *T'aint A Bird II* impacted at Gravelines, probably due to flak damage.<sup id="cite_ref-jb42_2_16-0" class="reference"><a href="#cite_note-jb42_2-16">&#91;16&#93;</a></sup>  The other also lost control, but turned inland and began to circle the important industrial town and port of <a href="/wiki/Ipswich" title="Ipswich">Ipswich</a>. After several minutes, it crashed harmlessly at sea.
+</td></tr>
+<tr>
+<td><a href="/wiki/Heligoland" title="Heligoland">Heligoland</a>
+</td>
+<td>August 1944
+</td>
+<td>
+</td>
+<td>After modifications to change to a different control system, the second casualty of the operation was suffered during this mission, when one pilot's parachute failed to open. The missile also failed, most likely shot down by flak before reaching the target.
+</td></tr>
+<tr>
+<td><a href="/wiki/Heide" title="Heide">Heide</a>
+</td>
+<td>August 1944
+</td>
+<td>4 drones
+</td>
+<td>Three aircraft failed to reach their target due to control malfunctions, the fourth crashed near enough to cause significant damage and high casualties.
+</td></tr>
+<tr>
+<td>Mimoyecques<sup id="cite_ref-jb42_2_16-1" class="reference"><a href="#cite_note-jb42_2-16">&#91;16&#93;</a></sup>
+</td>
+<td>August 12, 1944
+</td>
+<td>PB4Y-1 32271 (ex USAAF B-24J 42-110007)
+</td>
+<td>The single US Navy BQ-8 detonated prematurely over the <a href="/wiki/River_Blyth,_Suffolk" title="River Blyth, Suffolk">Blyth</a> estuary, eastern England, killing Lieutenant <a href="/wiki/Joseph_P._Kennedy,_Jr." class="mw-redirect" title="Joseph P. Kennedy, Jr.">Joseph P. Kennedy, Jr.</a> and Lieutenant Wilford J. Willy<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Mission 549/<a href="/wiki/Le_Havre" title="Le Havre">Le Havre</a>
+</td>
+<td>August 13, 1944
+</td>
+<td>1 B-17
+</td>
+<td>The drone with 2,000&#160;lbs (907&#160;kg) of bombs missed the target and a supporting <a href="/wiki/De_Havilland_Mosquito" title="De Havilland Mosquito">de Havilland Mosquito</a> was destroyed by the exploding bombs.<sup id="cite_ref-usaaf_13-1" class="reference"><a href="#cite_note-usaaf-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><span class="nowrap"><a href="/wiki/Heligoland" title="Heligoland">Heligoland</a> U-boat pens<sup id="cite_ref-Baugher_11-1" class="reference"><a href="#cite_note-Baugher-11">&#91;11&#93;</a></sup></span>
+</td>
+<td>September 3, 1944
+</td>
+<td>PB4Y-1 63954
+</td>
+<td>Second USN "Anvil" project controller flew aircraft into <a href="/wiki/D%C3%BCne" title="Düne">Dune Island</a> by mistake.
+</td></tr>
+<tr>
+<td><a href="/wiki/Heligoland" title="Heligoland">Heligoland</a> U-boat pens<sup id="cite_ref-jb42_2_16-2" class="reference"><a href="#cite_note-jb42_2-16">&#91;16&#93;</a></sup>
+</td>
+<td>September 11, 1944
+</td>
+<td>B-17 30180
+</td>
+<td>Hit by enemy flak and crashed into sea
+</td></tr>
+<tr>
+<td><a href="/wiki/Hemmingstedt" title="Hemmingstedt">Hemmingstedt</a>
+</td>
+<td><span class="nowrap">September 14, 1944</span>
+</td>
+<td>B-17s 39827 &amp; 30363 (<i>Ruth L III</i>)
+</td>
+<td>Against the Hemmingstedt/<a href="/wiki/Heide" title="Heide">Heide</a> oil refinery target of the <a href="/wiki/Oil_Campaign_of_World_War_II" class="mw-redirect" title="Oil Campaign of World War II">Oil Campaign</a> (unsuccessfully attacked by conventional bombers on August 4), both drones missed the target due to poor weather conditions.<sup id="cite_ref-Baugher_11-2" class="reference"><a href="#cite_note-Baugher-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Heligoland" title="Heligoland">Heligoland</a> U-boat pens<sup id="cite_ref-Baugher_11-3" class="reference"><a href="#cite_note-Baugher-11">&#91;11&#93;</a></sup>
+</td>
+<td>October 15, 1944
+</td>
+<td>B-17 30039 <i><a href="/wiki/Liberty_Belle_(B-17)" class="mw-redirect" title="Liberty Belle (B-17)">Liberty Belle</a></i><br />B-17 37743
+</td>
+<td>Both drones missed target due to poor weather conditions
+</td></tr>
+<tr>
+<td><a href="/wiki/Heligoland" title="Heligoland">Heligoland</a> U-boat pens
+</td>
+<td>October 30, 1944
+</td>
+<td>B-17 30066 (<i>Mugwump</i>)<br />B-17 3438
+</td>
+<td>Mission 693A: 2 of 5 B-17s make an Aphrodite attack on Heligoland Island, Germany; escort is provided by 7 P-47s.<sup id="cite_ref-usaaf_13-2" class="reference"><a href="#cite_note-usaaf-13">&#91;13&#93;</a></sup>  Concluding that the BQ-7 was not successful against 'hard targets', <a href="/wiki/United_States_Strategic_Air_Forces" class="mw-redirect" title="United States Strategic Air Forces">United States Strategic Air Forces</a> Headquarters ordered that it be sent against industrial targets instead, and 2 more missions were flown. Bad weather prevented the primary target from being identified, and both aircraft were directed towards Berlin. 3438 soon crashed into water due to low fuel. 30066 flew independently to Sweden where it crashed. The escorting aircraft had previously had to return due to low fuel.
+</td></tr>
+<tr>
+<td><a href="/wiki/Herford" title="Herford">Herford</a> marshalling yard<sup id="cite_ref-Baugher_11-4" class="reference"><a href="#cite_note-Baugher-11">&#91;11&#93;</a></sup>
+</td>
+<td>December 5, 1944
+</td>
+<td>B-17 39824<br />B-17 30353 (<i>Ten Knights in the Bar Room</i>)
+</td>
+<td>Target not located due to cloud cover, so both directed at alternate target of <a href="/wiki/Ederm%C3%BCnde" title="Edermünde">Haldorf</a>. Both crashed outside town.
+</td></tr>
+<tr>
+<td><a href="/wiki/Oldenburg" title="Oldenburg">Oldenburg</a> power station<sup id="cite_ref-jb42_2_16-3" class="reference"><a href="#cite_note-jb42_2-16">&#91;16&#93;</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (June 2010)">failed verification</span></a></i>&#93;</sup>
+</td>
+<td>January 1, 1945
+</td>
+<td>B-17 30178 <i>Darlin' Dolly</i> and B-17 30237 <i>Stump Jumper</i>
+</td>
+<td>Stump Jumper pilot was Captain Jack L. Hodson who received the Distinguished Flying Cross for his actions. Both shot down by flak before reaching target.
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Mistel" title="Mistel">Mistel</a></li>
+<li><a href="/wiki/Joseph_P._Kennedy,_Jr." class="mw-redirect" title="Joseph P. Kennedy, Jr.">Joseph P. Kennedy, Jr.</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Notes</b>
+</p>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Weeks, Albert. "In Operation Aphrodite, explosive-laden aircraft were to be flown against German targets".</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=In+Operation+Aphrodite%2C+explosive-laden+aircraft+were+to+be+flown+against+German+targets.&amp;rft.aulast=Weeks&amp;rft.aufirst=Albert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Spark, Nick T. (October 2004). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080417214556/http://www.mugualumni.org/secretarsenal/page9.html">"Television Goes to War"</a>. <i>Secret Arsenal: Advanced American Weapons of WWII</i>. <a href="/wiki/Wings_(US_magazine)" title="Wings (US magazine)">Wings</a>. Archived from <a rel="nofollow" class="external text" href="http://www.mugualumni.org/secretarsenal/page9.html">the original</a> on 2008-04-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-05-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Secret+Arsenal%3A+Advanced+American+Weapons+of+WWII&amp;rft.atitle=Television+Goes+to+War&amp;rft.date=2004-10&amp;rft.aulast=Spark&amp;rft.aufirst=Nick+T.&amp;rft_id=http%3A%2F%2Fwww.mugualumni.org%2Fsecretarsenal%2Fpage9.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Nichol, John; Rennell, Tony. "Tail-End Charlies — The Last Battles of the Bomber War 1944–45".</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Tail-End+Charlies+%E2%80%94+The+Last+Battles+of+the+Bomber+War+1944%E2%80%9345&amp;rft.aulast=Nichol&amp;rft.aufirst=John&amp;rft.au=Rennell%2C+Tony&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+<cite class="citation book"><a href="/wiki/Jack_Olsen" title="Jack Olsen">Olsen, Jack</a> (1970). <i>Aphrodite: Desperate Mission</i>. Putnam's Sons. p.&#160;308.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Aphrodite%3A+Desperate+Mission&amp;rft.pages=308&amp;rft.pub=Putnam%27s+Sons&amp;rft.date=1970&amp;rft.aulast=Olsen&amp;rft.aufirst=Jack&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Daso, D. A. (2002). <i>Architects of American Air Supremacy: General Hap Arnold and Dr. Theodore Von Karman</i>. Forest Grove: University Press of the Pacific. p.&#160;72. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780898758610" title="Special:BookSources/9780898758610"><bdi>9780898758610</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Architects+of+American+Air+Supremacy%3A+General+Hap+Arnold+and+Dr.+Theodore+Von+Karman&amp;rft.place=Forest+Grove&amp;rft.pages=72&amp;rft.pub=University+Press+of+the+Pacific&amp;rft.date=2002&amp;rft.isbn=9780898758610&amp;rft.aulast=Daso&amp;rft.aufirst=D.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070501064818/http://home.att.net/~jbaugher2/b17_14.html">"BQ-7"</a>. <i>Encyclopedia of American Aircraft</i>. Joseph F. Baugher. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher2/b17_14.html">the original</a> on May 1, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+of+American+Aircraft&amp;rft.atitle=BQ-7&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher2%2Fb17_14.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.designation-systems.net/dusrm/app1/bq-8.html">"Consolidated BQ-8"</a>. <i>Directory of U.S. Military Rockets and Missiles</i>. Andreas Parsch<span class="reference-accessdate">. Retrieved <span class="nowrap">May 16,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Directory+of+U.S.+Military+Rockets+and+Missiles&amp;rft.atitle=Consolidated+BQ-8&amp;rft_id=http%3A%2F%2Fwww.designation-systems.net%2Fdusrm%2Fapp1%2Fbq-8.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.history.navy.mil/branches/avchr5.htm">"World War II 1940–1945"</a>. <i>Naval Aviation Chronology in World War II</i>. Naval Historical Center<span class="reference-accessdate">. Retrieved <span class="nowrap">April 10,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Naval+Aviation+Chronology+in+World+War+II&amp;rft.atitle=World+War+II+1940%E2%80%931945&amp;rft_id=http%3A%2F%2Fwww.history.navy.mil%2Fbranches%2Favchr5.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Reynolds, George A. <a rel="nofollow" class="external text" href="http://www.458bg.com/azonproject.htm">"Azon Project"</a>. 458bg.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Azon+Project&amp;rft.pub=458bg.com&amp;rft.aulast=Reynolds&amp;rft.aufirst=George+A.&amp;rft_id=http%3A%2F%2Fwww.458bg.com%2Fazonproject.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Miller, Donald L (2006). <i>Masters of the Air</i>. Simon &amp; Schuster. p.&#160;300.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Masters+of+the+Air&amp;rft.pages=300&amp;rft.pub=Simon+%26+Schuster&amp;rft.date=2006&amp;rft.aulast=Miller&amp;rft.aufirst=Donald+L&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Baugher-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Baugher_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Baugher_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Baugher_11-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Baugher_11-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Baugher_11-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Joe_Baugher" title="Joe Baugher">Baugher, Joseph F.</a> "Encyclopedia of American Aircraft". att.net.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Encyclopedia+of+American+Aircraft&amp;rft.pub=att.net&amp;rft.aulast=Baugher&amp;rft.aufirst=Joseph+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Missing or empty <code class="cs1-code">&#124;url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>
+<ul><li><cite class="citation web">Baugher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20091002020641/http://home.att.net/~jbaugher/1941_4.html">"1941 USAAF Serial Numbers (41-24340 to 41-30847)"</a>. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher/1941_4.html">the original</a> on 2 October 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">7 September</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1941+USAAF+Serial+Numbers+%2841-24340+to+41-30847%29&amp;rft.au=Baugher&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher%2F1941_4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web">Baugher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090916173927/http://home.att.net/~jbaugher/1942_2.html">"1942 USAAF Serial Numbers (42-30032 to 42-39757)"</a>. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher/1942_2.html">the original</a> on 16 September 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">29 August</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1942+USAAF+Serial+Numbers+%2842-30032+to+42-39757%29&amp;rft.au=Baugher&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher%2F1942_2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web">Baugher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090404070929/http://home.att.net/~jbaugher/1942_2a.html">"1942 USAAF Serial Numbers (42-39758 to 42-50026)"</a>. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher/1942_2a.html">the original</a> on 4 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1942+USAAF+Serial+Numbers+%2842-39758+to+42-50026%29&amp;rft.au=Baugher&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher%2F1942_2a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web">Baugher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090130012608/http://home.att.net/~jbaugher/1942_3a.html">"1942 USAAF Serial Numbers (42-57213 to 42-70685)"</a>. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher/1942_3a.html">the original</a> on 30 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">9 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=1942+USAAF+Serial+Numbers+%2842-57213+to+42-70685%29&amp;rft.au=Baugher&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher%2F1942_3a.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Werrell, Kenneth P (September 1985). <a rel="nofollow" class="external text" href="http://oai.dtic.mil/oai/oai?verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA162646"><i>The Evolution of the Cruise Missile</i></a>. p.&#160;32<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Evolution+of+the+Cruise+Missile&amp;rft.pages=32&amp;rft.date=1985-09&amp;rft.aulast=Werrell&amp;rft.aufirst=Kenneth+P&amp;rft_id=http%3A%2F%2Foai.dtic.mil%2Foai%2Foai%3Fverb%3DgetRecord%26metadataPrefix%3Dhtml%26identifier%3DADA162646&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-usaaf-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-usaaf_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-usaaf_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-usaaf_13-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070912155604/http://www.airwarweb.net/usaaf/8af_1944.php">"8th Air Force 1944 Chronicles"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.airwarweb.net/usaaf/8af_1944.php">the original</a> on 2007-09-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=8th+Air+Force+1944+Chronicles&amp;rft_id=http%3A%2F%2Fwww.airwarweb.net%2Fusaaf%2F8af_1944.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>  <a rel="nofollow" class="external text" href="http://www.airwarweb.net/usaaf/8af_1944-06.php">June</a>, <a rel="nofollow" class="external text" href="https://archive.is/20080303030232/http://www.airwarweb.net/usaaf/8af_1944-07.php">July</a>, <a rel="nofollow" class="external text" href="https://archive.is/20071214030628/http://www.airwarweb.net/usaaf/8af_1944-08.php">August</a>, <a rel="nofollow" class="external text" href="http://www.airwarweb.net/usaaf/8af_1944-09.php">September</a>, <a rel="nofollow" class="external text" href="http://www.airwarweb.net/usaaf/8af_1944-10.php">October</a>/</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.americanairmuseum.com/aircraft/4329">"42-30342"</a>. <i>American Air Museum in Britain</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=American+Air+Museum+in+Britain&amp;rft.atitle=42-30342&amp;rft_id=http%3A%2F%2Fwww.americanairmuseum.com%2Faircraft%2F4329&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><i>Norfolk Airfields in the Second World War</i> Graham Smith. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85306-320-6" title="Special:BookSources/978-1-85306-320-6">978-1-85306-320-6</a>.</span>
+</li>
+<li id="cite_note-jb42_2-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-jb42_2_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jb42_2_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-jb42_2_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-jb42_2_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080224153559/http://home.att.net/~jbaugher/thirdseries4.html">"US Navy and US Marine Corps Bureau Numbers, Third Series (30147 to 39998)"</a>. <i>Encyclopedia of American Aircraft</i>. Joseph F. Baugher. Archived from <a rel="nofollow" class="external text" href="http://home.att.net/~jbaugher/thirdseries4.html">the original</a> on 2008-02-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Encyclopedia+of+American+Aircraft&amp;rft.atitle=US+Navy+and+US+Marine+Corps+Bureau+Numbers%2C+Third+Series+%2830147+to+39998%29&amp;rft_id=http%3A%2F%2Fhome.att.net%2F~jbaugher%2Fthirdseries4.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070514043255/http://www.aviationmuseum.net/Joe_Kennedy.htm">"Lt. Joe Kennedy"</a>. Norfolk &amp; Suffolk Aviation Museum. Archived from <a rel="nofollow" class="external text" href="http://www.aviationmuseum.net/Joe_Kennedy.htm">the original</a> on 2007-05-14<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-04-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Lt.+Joe+Kennedy&amp;rft.pub=Norfolk+%26+Suffolk+Aviation+Museum&amp;rft_id=http%3A%2F%2Fwww.aviationmuseum.net%2FJoe_Kennedy.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<p><b>Further reading</b>
+</p>
+<ul><li><cite class="citation book">Gray, Edwin (1996). <i>Operation Aphrodite's B-17 "Smart Bomb"</i>. Aviation History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Operation+Aphrodite%27s+B-17+%22Smart+Bomb%22&amp;rft.pub=Aviation+History&amp;rft.date=1996&amp;rft.au=Gray%2C+Edwin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOperation+Aphrodite" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1235
+Cached time: 20190923052853
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.520 seconds
+Preprocessor visited node count: 1940/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38540/2097152 bytes
+Template argument size: 2032/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 62894/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.219/10.000 seconds
+Lua memory usage: 7.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  459.395      1 -total
+ 54.43%  250.064      1 Template:Reflist
+ 20.63%   94.784      1 Template:Infobox_weapon
+ 18.45%   84.776      1 Template:Infobox
+ 18.38%   84.450      2 Template:Cite_journal
+ 15.97%   73.369     14 Template:Cite_web
+ 11.84%   54.377      1 Template:Failed_verification
+ 10.39%   47.727      1 Template:Fix
+  8.07%   37.072      1 Template:ISBN
+  6.71%   30.808      5 Template:Cite_book
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1417902-0!canonical and timestamp 20190923052852 and revision id 917297700
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Operation_Aphrodite&amp;oldid=917297700">https://en.wikipedia.org/w/index.php?title=Operation_Aphrodite&amp;oldid=917297700</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:World_War_II_weapons_of_the_United_States" title="Category:World War II weapons of the United States">World War II weapons of the United States</a></li><li><a href="/wiki/Category:World_War_II_strategic_bombing_conducted_by_the_United_States" title="Category:World War II strategic bombing conducted by the United States">World War II strategic bombing conducted by the United States</a></li><li><a href="/wiki/Category:1944_in_aviation" title="Category:1944 in aviation">1944 in aviation</a></li><li><a href="/wiki/Category:Guided_missiles_of_the_United_States" title="Category:Guided missiles of the United States">Guided missiles of the United States</a></li><li><a href="/wiki/Category:Boeing_B-17_Flying_Fortress" title="Category:Boeing B-17 Flying Fortress">Boeing B-17 Flying Fortress</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_June_2010" title="Category:Articles with failed verification from June 2010">Articles with failed verification from June 2010</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Operation+Aphrodite" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Operation+Aphrodite" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Operation_Aphrodite" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Operation_Aphrodite" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Operation_Aphrodite">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Operation_Aphrodite&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Operation_Aphrodite" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Operation_Aphrodite" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Operation_Aphrodite&amp;oldid=917297700" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Operation_Aphrodite&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2915673" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Operation_Aphrodite&amp;id=917297700" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Operation+Aphrodite">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Operation+Aphrodite&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Operation_Aphrodite&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Operaci%C3%B3n_Afrodita" title="Operación Afrodita – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Aphrodite" title="Opération Aphrodite – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Progetto_Aphrodite" title="Progetto Aphrodite – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%91%D7%A6%D7%A2_%D7%90%D7%A4%D7%A8%D7%95%D7%93%D7%99%D7%98%D7%94" title="מבצע אפרודיטה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Projekt_Afrodyta" title="Projekt Afrodyta – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2915673#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 September 2019, at 05:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Operation_Aphrodite&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.520","ppvisitednodes":{"value":1940,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38540,"limit":2097152},"templateargumentsize":{"value":2032,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":62894,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  459.395      1 -total"," 54.43%  250.064      1 Template:Reflist"," 20.63%   94.784      1 Template:Infobox_weapon"," 18.45%   84.776      1 Template:Infobox"," 18.38%   84.450      2 Template:Cite_journal"," 15.97%   73.369     14 Template:Cite_web"," 11.84%   54.377      1 Template:Failed_verification"," 10.39%   47.727      1 Template:Fix","  8.07%   37.072      1 Template:ISBN","  6.71%   30.808      5 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.219","limit":"10.000"},"limitreport-memusage":{"value":8230070,"limit":52428800}},"cachereport":{"origin":"mw1235","timestamp":"20190923052853","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Operation Aphrodite","url":"https:\/\/en.wikipedia.org\/wiki\/Operation_Aphrodite","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2915673","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2915673","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-21T19:09:20Z","dateModified":"2019-09-23T05:28:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a2\/Aphroditie-droneb17.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nieuw Nickerie - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nieuw_Nickerie","wgTitle":"Nieuw Nickerie","wgCurRevisionId":891409678,"wgRevisionId":891409678,"wgArticleId":2112547,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Commons category link is on Wikidata","Resorts of Suriname","Guyana–Suriname border crossings","Populated places in Nickerie District","Nieuw Nickerie","Populated places established in 1879","1879 establishments in South America"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nieuw_Nickerie","wgRelevantArticleId":2112547,"wgRequestId":"XYrUTwpAIC4AAEPFQCwAAAAT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":5.933333333333334,"lon":-56.983333333333334},"wgWikibaseItemId":"Q738313","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/1200px-Nickerie.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nieuw_Nickerie"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nieuw_Nickerie"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nieuw_Nickerie rootpage-Nieuw_Nickerie skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nieuw Nickerie</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Resort and City in Nickerie, Suriname</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Nieuw Nickerie</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname">Resort</a> and City</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Nickerie.jpg" class="image" title="Street in Nieuw Nickerie"><img alt="Street in Nieuw Nickerie" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/250px-Nickerie.jpg" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/375px-Nickerie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/500px-Nickerie.jpg 2x" data-file-width="3456" data-file-height="2304" /></a><div style="padding:0.4em 0 0 0;">Street in Nieuw Nickerie</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Suriname_location_map.svg" class="image" title="Nieuw Nickerie is located in Suriname"><img alt="Nieuw Nickerie is located in Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/250px-Suriname_location_map.svg.png" decoding="async" width="250" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/375px-Suriname_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/500px-Suriname_location_map.svg.png 2x" data-file-width="1181" data-file-height="1205" /></a><div style="position:absolute;top:9.157%;left:32.34%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Nieuw Nickerie" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Nieuw Nickerie" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Nieuw Nickerie</div></div></div></div><div>Location in Suriname</div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nieuw_Nickerie&amp;params=05_56_N_56_59_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">05°56′N</span> <span class="longitude">56°59′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.933°N 56.983°W</span><span style="display:none">&#xfeff; / <span class="geo">5.933; -56.983</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nieuw_Nickerie&amp;params=05_56_N_56_59_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">05°56′N</span> <span class="longitude">56°59′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.933°N 56.983°W</span><span style="display:none">&#xfeff; / <span class="geo">5.933; -56.983</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">District</a></th><td><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>30&#160;km<sup>2</sup> (10&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>0&#160;m (0&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2012 census)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>12,818</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>430/km<sup>2</sup> (1,100/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Climate</a></th><td><a href="/wiki/Tropical_monsoon_climate" title="Tropical monsoon climate">Am</a></td></tr></tbody></table>
+<p><b>Nieuw Nickerie</b><sup id="cite_ref-GEOnet_1-0" class="reference"><a href="#cite_note-GEOnet-1">&#91;1&#93;</a></sup> (pronounced 'Niekérie') is the third largest city in <a href="/wiki/Suriname" title="Suriname">Suriname</a> with a population estimated at 12,818. It is the <a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">capital city</a> of the <a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">district</a>, and the terminus of the <a href="/wiki/East-West_Link_(Suriname)" title="East-West Link (Suriname)">East-West Link</a>.
+</p><p>Nieuw Nickerie lies on the mouth of the <a href="/wiki/Nickerie_(river)" class="mw-redirect" title="Nickerie (river)">Nickerie river</a> on the <a href="/wiki/Atlantic" class="mw-redirect" title="Atlantic">Atlantic</a> coast, opposite the mouth of the <a href="/wiki/Courantyne_River" title="Courantyne River">Corantijn river</a> (Courantyne) and the Guyanese town of <a href="/wiki/Corriverton" title="Corriverton">Corriverton</a> (Springlands), to which a <a href="/wiki/Ferry" title="Ferry">ferry</a> service operates.
+</p><p>The main industries are <a href="/wiki/Banana" title="Banana">bananas</a> and <a href="/wiki/Rice" title="Rice">rice</a>. The town contains a market and several hotels, including the Hotel Ameerali, Hotel de President, Hotel Tropical, Hotel de Vesting and Residence Inn. The only Surinamese hospital outside of Paramaribo, <a href="/wiki/Lachmipersad_Mungra_Regional_Hospital_Nickerie" title="Lachmipersad Mungra Regional Hospital Nickerie">Lachmipersad Mungra Regional Hospital Nickerie</a>, is located on the Annastraat in Nieuw-Nickerie.
+</p><p>Nieuw Nickerie was built in 1879 after the former center of the district, <a href="/wiki/Nieuw_Rotterdam" title="Nieuw Rotterdam">Nieuw Rotterdam</a>, was destroyed by floods.
+</p><p><a href="/wiki/Majoor_Henry_Fernandes_Airport" title="Majoor Henry Fernandes Airport">Majoor Henry Fernandes Airport</a>, also known as <i>Nieuw Nickerie Airport</i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> is located near the city.
+</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit&amp;section=1" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="width:100%">
+<div>
+<table class="wikitable collapsible collapsed" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;">
+
+<tbody><tr>
+<th colspan="14">Climate data for Nickerie, Suriname
+</th></tr>
+<tr>
+<th scope="row">Month
+</th>
+<th scope="col">Jan
+</th>
+<th scope="col">Feb
+</th>
+<th scope="col">Mar
+</th>
+<th scope="col">Apr
+</th>
+<th scope="col">May
+</th>
+<th scope="col">Jun
+</th>
+<th scope="col">Jul
+</th>
+<th scope="col">Aug
+</th>
+<th scope="col">Sep
+</th>
+<th scope="col">Oct
+</th>
+<th scope="col">Nov
+</th>
+<th scope="col">Dec
+</th>
+<th scope="col" style="border-left-width:medium">Year
+</th></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °C (°F)
+</th>
+<td style="background: #FF3E00; color:#000000;">32.5<br />(90.5)
+</td>
+<td style="background: #FF3E00; color:#000000;">32.4<br />(90.3)
+</td>
+<td style="background: #FF3E00; color:#000000;">32.5<br />(90.5)
+</td>
+<td style="background: #FF3900; color:#000000;">33.2<br />(91.8)
+</td>
+<td style="background: #FF2E00; color:#000000;">34.8<br />(94.6)
+</td>
+<td style="background: #FF3300; color:#000000;">34.0<br />(93.2)
+</td>
+<td style="background: #FF3000; color:#000000;">34.5<br />(94.1)
+</td>
+<td style="background: #FF2800; color:#000000;">35.6<br />(96.1)
+</td>
+<td style="background: #FF2A00; color:#000000;">35.4<br />(95.7)
+</td>
+<td style="background: #FF2300; color:#000000;">36.3<br />(97.3)
+</td>
+<td style="background: #FF2D00; color:#000000;">34.9<br />(94.8)
+</td>
+<td style="background: #FF3500; color:#000000;">33.8<br />(92.8)
+</td>
+<td style="background: #FF2300; color:#000000; border-left-width:medium">36.3<br />(97.3)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)
+</th>
+<td style="background: #FF5600; color:#000000;">28.9<br />(84.0)
+</td>
+<td style="background: #FF5600; color:#000000;">29.0<br />(84.2)
+</td>
+<td style="background: #FF5400; color:#000000;">29.2<br />(84.6)
+</td>
+<td style="background: #FF5200; color:#000000;">29.5<br />(85.1)
+</td>
+<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
+</td>
+<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
+</td>
+<td style="background: #FF4D00; color:#000000;">30.3<br />(86.5)
+</td>
+<td style="background: #FF4700; color:#000000;">31.1<br />(88.0)
+</td>
+<td style="background: #FF4300; color:#000000;">31.7<br />(89.1)
+</td>
+<td style="background: #FF4300; color:#000000;">31.7<br />(89.1)
+</td>
+<td style="background: #FF4900; color:#000000;">30.9<br />(87.6)
+</td>
+<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
+</td>
+<td style="background: #FF4E00; color:#000000; border-left-width:medium">30.1<br />(86.2)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)
+</th>
+<td style="background: #FF6700; color:#000000;">26.5<br />(79.7)
+</td>
+<td style="background: #FF6600; color:#000000;">26.6<br />(79.9)
+</td>
+<td style="background: #FF6400; color:#000000;">26.9<br />(80.4)
+</td>
+<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
+</td>
+<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
+</td>
+<td style="background: #FF6300; color:#000000;">27.1<br />(80.8)
+</td>
+<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
+</td>
+<td style="background: #FF5E00; color:#000000;">27.8<br />(82.0)
+</td>
+<td style="background: #FF5A00; color:#000000;">28.3<br />(82.9)
+</td>
+<td style="background: #FF5B00; color:#000000;">28.2<br />(82.8)
+</td>
+<td style="background: #FF5E00; color:#000000;">27.8<br />(82.0)
+</td>
+<td style="background: #FF6300; color:#000000;">27.0<br />(80.6)
+</td>
+<td style="background: #FF6100; color:#000000; border-left-width:medium">27.3<br />(81.1)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)
+</th>
+<td style="background: #FF7C00; color:#000000;">23.5<br />(74.3)
+</td>
+<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
+</td>
+<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
+</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
+</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
+</td>
+<td style="background: #FF7900; color:#000000;">23.9<br />(75.0)
+</td>
+<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
+</td>
+<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
+</td>
+<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
+</td>
+<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
+</td>
+<td style="background: #FF7900; color:#000000;">23.9<br />(75.0)
+</td>
+<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
+</td>
+<td style="background: #FF7800; color:#000000; border-left-width:medium">24.0<br />(75.2)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °C (°F)
+</th>
+<td style="background: #FF9F40; color:#000000;">18.3<br />(64.9)
+</td>
+<td style="background: #FFA042; color:#000000;">18.2<br />(64.8)
+</td>
+<td style="background: #FF9A35; color:#000000;">19.1<br />(66.4)
+</td>
+<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
+</td>
+<td style="background: #FF8F1F; color:#000000;">20.7<br />(69.3)
+</td>
+<td style="background: #FF9021; color:#000000;">20.6<br />(69.1)
+</td>
+<td style="background: #FF8D1C; color:#000000;">20.9<br />(69.6)
+</td>
+<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
+</td>
+<td style="background: #FF8D1C; color:#000000;">20.9<br />(69.6)
+</td>
+<td style="background: #FF9225; color:#000000;">20.3<br />(68.5)
+</td>
+<td style="background: #FF9429; color:#000000;">20.0<br />(68.0)
+</td>
+<td style="background: #FF9327; color:#000000;">20.1<br />(68.2)
+</td>
+<td style="background: #FFA042; color:#000000; border-left-width:medium">18.2<br />(64.8)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
+</th>
+<td style="background: #00E100; color:#000000;">191<br />(7.5)
+</td>
+<td style="background: #44FF44; color:#000000;">114<br />(4.5)
+</td>
+<td style="background: #59FF59; color:#000000;">111<br />(4.4)
+</td>
+<td style="background: #00D700; color:#000000;">191<br />(7.5)
+</td>
+<td style="background: #008F00; color:#FFFFFF;">246<br />(9.7)
+</td>
+<td style="background: #003000; color:#FFFFFF;">316<br />(12.4)
+</td>
+<td style="background: #007100; color:#FFFFFF;">266<br />(10.5)
+</td>
+<td style="background: #04FF04; color:#000000;">168<br />(6.6)
+</td>
+<td style="background: #A1FFA1; color:#000000;">61<br />(2.4)
+</td>
+<td style="background: #A4FFA4; color:#000000;">61<br />(2.4)
+</td>
+<td style="background: #85FF85; color:#000000;">79<br />(3.1)
+</td>
+<td style="background: #00F700; color:#000000;">176<br />(6.9)
+</td>
+<td style="background: #04FF04; color:#000000; border-left-width:medium">1,980<br />(77.9)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)
+</th>
+<td style="background: #0000C4; color:#FFFFFF;">82
+</td>
+<td style="background: #0000C8; color:#FFFFFF;">81
+</td>
+<td style="background: #0000CB; color:#FFFFFF;">80
+</td>
+<td style="background: #0000CB; color:#FFFFFF;">80
+</td>
+<td style="background: #0000C4; color:#FFFFFF;">82
+</td>
+<td style="background: #0000C0; color:#FFFFFF;">83
+</td>
+<td style="background: #0000C4; color:#FFFFFF;">82
+</td>
+<td style="background: #0000CB; color:#FFFFFF;">80
+</td>
+<td style="background: #0000D3; color:#FFFFFF;">78
+</td>
+<td style="background: #0000D3; color:#FFFFFF;">78
+</td>
+<td style="background: #0000CF; color:#FFFFFF;">79
+</td>
+<td style="background: #0000C4; color:#FFFFFF;">82
+</td>
+<td style="background: #0000C8; color:#FFFFFF; border-left-width:medium">81
+</td></tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: <a href="/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-GEOnet-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GEOnet_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geonames.nga.mil/namesgaz/detaillinksearch.asp?G_NAME=&#39;32FA8839F6053774E0440003BA962ED3&#39;&amp;Diacritics=DC">Nieuw Nickerie, Nickerie, Suriname</a> at <a href="/wiki/GEOnet_Names_Server" title="GEOnet Names Server">GEOnet Names Server</a>. Retrieved 17 November 2009.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gcmap.com/airport/SMNI">Airport information for SMNI</a> at Great Circle Mapper. </span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://aviation-safety.net/database/airport/airport.php?id=ICK">Accident history for ICK</a> at <a href="/wiki/Aviation_Safety_Network" title="Aviation Safety Network">Aviation Safety Network</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dwd.de/DWD/klima/beratung/ak/ak_812020_kt.pdf">"Klimatafel von Nickerie / Surinam"</a> <span class="cs1-format">(PDF)</span>. Federal Ministry of Transport and Digital Infrastructure<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Klimatafel+von+Nickerie+%2F+Surinam&amp;rft.pub=Federal+Ministry+of+Transport+and+Digital+Infrastructure&amp;rft_id=http%3A%2F%2Fwww.dwd.de%2FDWD%2Fklima%2Fberatung%2Fak%2Fak_812020_kt.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANieuw+Nickerie" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<p><br />
+</p>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Nieuw-Nickerie" class="extiw" title="commons:Category:Nieuw-Nickerie">Nieuw-Nickerie</a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#228B22;color:#FFFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Resorts_of_Suriname" title="Template:Resorts of Suriname"><abbr title="View this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Resorts_of_Suriname" title="Template talk:Resorts of Suriname"><abbr title="Discuss this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Resorts_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname"><span style="color:#FFFFFF">Districts</span></a>  and   <a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname"><span style="color:#FFFFFF">resorts of Suriname</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Brokopondo_District" title="Brokopondo District">Brokopondo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a></li>
+<li><a href="/wiki/Centrum,_Brokopondo" title="Centrum, Brokopondo">Centrum</a></li>
+<li><a href="/wiki/Klaaskreek" title="Klaaskreek">Klaaskreek</a></li>
+<li><a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a></li>
+<li><a href="/wiki/Marshallkreek" title="Marshallkreek">Marshallkreek</a></li>
+<li><a href="/wiki/Sarakreek" title="Sarakreek">Sarakreek</a></li></ul>
+</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Suriname_resorts.png" class="image"><img alt="Suriname resorts.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/200px-Suriname_resorts.png" decoding="async" width="200" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/300px-Suriname_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/400px-Suriname_resorts.png 2x" data-file-width="1281" data-file-height="878" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commewijne_District" title="Commewijne District">Commewijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alkmaar,_Suriname" title="Alkmaar, Suriname">Alkmaar</a></li>
+<li><a href="/wiki/Bakkie,_Suriname" title="Bakkie, Suriname">Bakkie</a></li>
+<li><a href="/wiki/Johan_%26_Margaretha" title="Johan &amp; Margaretha">Margaretha</a></li>
+<li><a href="/wiki/Meerzorg" title="Meerzorg">Meerzorg</a></li>
+<li><a href="/wiki/Nieuw_Amsterdam,_Suriname" title="Nieuw Amsterdam, Suriname">Nieuw Amsterdam</a></li>
+<li><a href="/wiki/Tamanredjo" title="Tamanredjo">Tamanredjo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coronie_District" title="Coronie District">Coronie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Johanna_Maria" title="Johanna Maria">Johanna Maria</a></li>
+<li><a href="/wiki/Totness,_Suriname" title="Totness, Suriname">Totness</a></li>
+<li><a href="/wiki/Welgelegen,_Coronie_District" title="Welgelegen, Coronie District">Welgelegen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Marowijne_District" title="Marowijne District">Marowijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a></li>
+<li><a href="/wiki/Galibi,_Suriname" title="Galibi, Suriname">Galibi</a></li>
+<li><a href="/wiki/Moengo" title="Moengo">Moengo</a></li>
+<li><a href="/wiki/Moengotapoe" title="Moengotapoe">Moengotapoe</a></li>
+<li><a href="/wiki/Patamacca" title="Patamacca">Patamacca</a></li>
+<li><a href="/wiki/Wanhatti" title="Wanhatti">Wanhatti</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Groot_Henar" title="Groot Henar">Groot Henar</a></li>
+<li><a class="mw-selflink selflink">Nieuw Nickerie</a></li>
+<li><a href="/wiki/Oostelijke_Polders" title="Oostelijke Polders">Oostelijke Polders</a></li>
+<li><a href="/wiki/Wageningen,_Suriname" title="Wageningen, Suriname">Wageningen</a></li>
+<li><a href="/wiki/Westelijke_Polders" title="Westelijke Polders">Westelijke Polders</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Para_District" title="Para District">Para District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bigi_Poika" title="Bigi Poika">Bigi Poika</a></li>
+<li><a href="/wiki/Carolina,_Suriname" title="Carolina, Suriname">Carolina</a></li>
+<li><a href="/wiki/Noord,_Suriname" title="Noord, Suriname">Noord</a></li>
+<li><a href="/wiki/Oost,_Suriname" title="Oost, Suriname">Oost</a></li>
+<li><a href="/wiki/Zuid,_Suriname" title="Zuid, Suriname">Zuid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paramaribo_District" title="Paramaribo District">Paramaribo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beekhuizen" title="Beekhuizen">Beekhuizen</a></li>
+<li><a href="/wiki/Blauwgrond" title="Blauwgrond">Blauwgrond</a></li>
+<li><a href="/wiki/Centrum,_Paramaribo" title="Centrum, Paramaribo">Centrum</a></li>
+<li><a href="/wiki/Flora,_Suriname" title="Flora, Suriname">Flora</a></li>
+<li><a href="/wiki/Latour,_Suriname" title="Latour, Suriname">Latour</a></li>
+<li><a href="/wiki/Livorno,_Suriname" title="Livorno, Suriname">Livorno</a></li>
+<li><a href="/wiki/Munder,_Suriname" title="Munder, Suriname">Munder</a></li>
+<li><a href="/wiki/Pontbuiten" title="Pontbuiten">Pontbuiten</a></li>
+<li><a href="/wiki/Rainville,_Suriname" title="Rainville, Suriname">Rainville</a></li>
+<li><a href="/wiki/Tammenga" title="Tammenga">Tammenga</a></li>
+<li><a href="/wiki/Weg_naar_See" class="mw-redirect" title="Weg naar See">Weg naar See</a></li>
+<li><a href="/wiki/Welgelegen,_Paramaribo_District" title="Welgelegen, Paramaribo District">Welgelegen</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Calcutta,_Suriname" title="Calcutta, Suriname">Calcutta</a></li>
+<li><a href="/wiki/Groningen,_Suriname" title="Groningen, Suriname">Groningen</a></li>
+<li><a href="/wiki/Jarikaba" title="Jarikaba">Jarikaba</a></li>
+<li><a href="/wiki/Kampong_Baroe" title="Kampong Baroe">Kampong Baroe</a></li>
+<li><a href="/wiki/Tijgerkreek" title="Tijgerkreek">Tijgerkreek</a></li>
+<li><a href="/wiki/Wayamboweg" title="Wayamboweg">Wayamboweg</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boven_Coppename" title="Boven Coppename">Boven Coppename</a></li>
+<li><a href="/wiki/Boven_Saramacca" title="Boven Saramacca">Boven Saramacca</a></li>
+<li><a href="/wiki/Boven_Suriname" title="Boven Suriname">Boven Suriname</a></li>
+<li><a href="/wiki/Coeroeni" title="Coeroeni">Coeroeni</a></li>
+<li><a href="/wiki/Kabalebo" title="Kabalebo">Kabalebo</a></li>
+<li><a href="/wiki/Tapanahony" title="Tapanahony">Tapanahony</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/De_Nieuwe_Grond" title="De Nieuwe Grond">De Nieuwe Grond</a></li>
+<li><a href="/wiki/Domburg,_Suriname" title="Domburg, Suriname">Domburg</a></li>
+<li><a href="/wiki/Houttuin" title="Houttuin">Houttuin</a></li>
+<li><a href="/wiki/Koewarasan" title="Koewarasan">Koewarasan</a></li>
+<li><a href="/wiki/Kwatta" title="Kwatta">Kwatta</a></li>
+<li><a href="/wiki/Lelydorp" title="Lelydorp">Lelydorp</a></li>
+<li><a href="/wiki/Saramacca_Polder" title="Saramacca Polder">Saramacca Polder</a></li></ul>
+</div></td></tr></tbody></table></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20190925024328
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.444 seconds
+Real time usage: 0.623 seconds
+Preprocessor visited node count: 4446/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62350/2097152 bytes
+Template argument size: 9659/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 4210/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.181/10.000 seconds
+Lua memory usage: 4.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  562.207      1 -total
+ 61.73%  347.055      1 Template:Infobox_settlement
+ 44.03%  247.518      1 Template:Infobox
+ 17.72%   99.615      1 Template:Reflist
+ 15.26%   85.780      1 Template:Cite_web
+ 10.82%   60.803      3 Template:Main_other
+  8.42%   47.357      7 Template:Both
+  7.57%   42.559      3 Template:Infobox_settlement/metric
+  7.52%   42.273      1 Template:Coord
+  7.39%   41.548      1 Template:Infobox_settlement/areadisp
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2112547-0!canonical and timestamp 20190925024327 and revision id 891409678
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678">https://en.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Resorts_of_Suriname" title="Category:Resorts of Suriname">Resorts of Suriname</a></li><li><a href="/wiki/Category:Guyana%E2%80%93Suriname_border_crossings" title="Category:Guyana–Suriname border crossings">Guyana–Suriname border crossings</a></li><li><a href="/wiki/Category:Populated_places_in_Nickerie_District" title="Category:Populated places in Nickerie District">Populated places in Nickerie District</a></li><li><a href="/wiki/Category:Nieuw_Nickerie" title="Category:Nieuw Nickerie">Nieuw Nickerie</a></li><li><a href="/wiki/Category:Populated_places_established_in_1879" title="Category:Populated places established in 1879">Populated places established in 1879</a></li><li><a href="/wiki/Category:1879_establishments_in_South_America" title="Category:1879 establishments in South America">1879 establishments in South America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nieuw+Nickerie" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nieuw+Nickerie" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nieuw_Nickerie" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nieuw_Nickerie" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nieuw_Nickerie">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nieuw_Nickerie" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nieuw_Nickerie" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738313" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nieuw_Nickerie&amp;id=891409678" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nieuw-Nickerie" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nieuw+Nickerie">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nieuw+Nickerie&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nieuw_Nickerie&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%88_%D9%86%DB%8C%DA%A9%D8%B1%DB%8C" title="نیو نیکری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%88%EC%9A%B0%EB%8B%88%EC%BC%80%EB%A6%AC" title="니우니케리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%90%D7%91_%D7%A0%D7%99%D7%A7%D7%A8%D7%99" title="ניאב ניקרי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Naujasis_Nikeris" title="Naujasis Nikeris – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%83%E3%82%B1%E3%83%AA%E3%83%BC" title="ニウ・ニッケリー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8C%D0%B8%D0%B2-%D0%9D%D0%B8%D0%BA%D0%BA%D0%B5%D1%80%D0%B8" title="Ньив-Никкери – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%8C%D1%97%D0%B2-%D0%9D%D1%96%D0%BA%D0%BA%D0%B5%D1%80%D1%96" title="Ньїв-Ніккері – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%86%DB%8C%D9%88_%D9%86%DB%8C%DA%A9%D8%A7%D8%B1%DB%8C" title="نیو نیکاری – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Uz%27_Nikkeri" title="Uz&#039; Nikkeri – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E5%B0%BC%E5%85%8B%E9%87%8C" title="新尼克里 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738313#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 7 April 2019, at 19:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.444","walltime":"0.623","ppvisitednodes":{"value":4446,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62350,"limit":2097152},"templateargumentsize":{"value":9659,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":4210,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  562.207      1 -total"," 61.73%  347.055      1 Template:Infobox_settlement"," 44.03%  247.518      1 Template:Infobox"," 17.72%   99.615      1 Template:Reflist"," 15.26%   85.780      1 Template:Cite_web"," 10.82%   60.803      3 Template:Main_other","  8.42%   47.357      7 Template:Both","  7.57%   42.559      3 Template:Infobox_settlement/metric","  7.52%   42.273      1 Template:Coord","  7.39%   41.548      1 Template:Infobox_settlement/areadisp"]},"scribunto":{"limitreport-timeusage":{"value":"0.181","limit":"10.000"},"limitreport-memusage":{"value":4626528,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20190925024328","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nieuw Nickerie","url":"https:\/\/en.wikipedia.org\/wiki\/Nieuw_Nickerie","sameAs":"http:\/\/www.wikidata.org\/entity\/Q738313","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q738313","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-25T11:03:15Z","dateModified":"2019-04-07T19:48:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Nickerie.jpg","headline":"resort of Suriname"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":750,"wgHostname":"mw1325"});});</script>
+</body>
+</html>

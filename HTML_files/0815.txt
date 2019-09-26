@@ -1,0 +1,933 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Lieutenant (navy) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Lieutenant_(navy)","wgTitle":"Lieutenant (navy)","wgCurRevisionId":917076520,"wgRevisionId":917076520,"wgArticleId":29496977,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Pages including recorded pronunciations (English)","Articles with short description","Military ranks of the Royal Navy","Military ranks of the United States Navy","Military ranks of the United States Coast Guard","Naval ranks"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb",
+"Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lieutenant_(navy)","wgRelevantArticleId":29496977,"wgRequestId":"XYqW5gpAMFoAAFlLNbEAAAAO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Lieutenant_(naval)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Lieutenant_(navy)","wgWikibaseItemId":"Q457271","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Lieutenant_(navy)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Lieutenant_(navy)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Lieutenant_navy rootpage-Lieutenant_navy skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Lieutenant (navy)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Lieutenant_(naval)&amp;redirect=no" class="mw-redirect" title="Lieutenant (naval)">Lieutenant (naval)</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For general information on the rank of lieutenant, including army and air force use, see <a href="/wiki/Lieutenant" title="Lieutenant">Lieutenant</a>.</div>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Commissioned officer rank in many nations' navies</div>
+<table class="infobox collapsible autocollapse" style="clear:right; float:right; width:auto; font-size:85%; border-spacing:2px; text-align:center; white-space:nowrap">
+<tbody><tr>
+<th colspan="3" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;"><div style="font-size:110%;padding:0.15em 3em 0.15em 0.15em"><a href="/wiki/List_of_comparative_military_ranks" title="List of comparative military ranks">Comparative</a> <a href="/wiki/Military_rank" title="Military rank">military ranks</a> in <a href="/wiki/English-speaking_world" title="English-speaking world">English</a></div>
+</th></tr>
+<tr style="font-size:110%">
+<th style="width:33%">Navies</th>
+<th style="width:33%">Armies</th>
+<th style="width:33%">Air forces
+</th></tr>
+<tr>
+<th colspan="3" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;"><span style="font-size:95%;"><a href="/wiki/Officer_(armed_forces)" title="Officer (armed forces)">Commissioned officers</a></span>
+</th></tr>
+<tr style="line-height:1.2em">
+<td><a href="/wiki/Admiral_of_the_fleet" title="Admiral of the fleet">Admiral of<br />the fleet</a></td>
+<td><a href="/wiki/Field_marshal" title="Field marshal">Field marshal</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/General_of_the_army" title="General of the army">General of the army</a></td>
+<td><a href="/wiki/Marshal_of_the_air_force" title="Marshal of the air force">Marshal of<br />the air force</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Admiral" title="Admiral">Admiral</a></td>
+<td><a href="/wiki/General_officer#Specific_rank_of_general" title="General officer">General</a></td>
+<td><a href="/wiki/Air_chief_marshal" title="Air chief marshal">Air chief marshal</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Vice_admiral" title="Vice admiral">Vice admiral</a></td>
+<td style="padding-right:0.75em"><a href="/wiki/Lieutenant_general" title="Lieutenant general">Lieutenant general</a></td>
+<td><a href="/wiki/Air_marshal" title="Air marshal">Air marshal</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Rear_admiral" title="Rear admiral">Rear admiral</a></td>
+<td><a href="/wiki/Major_general" title="Major general">Major general</a></td>
+<td><a href="/wiki/Air_vice-marshal" title="Air vice-marshal">Air vice-marshal</a>
+</td></tr>
+<tr style="line-height:1.2em">
+<td style="vertical-align:middle"><a href="/wiki/Commodore_(rank)" title="Commodore (rank)">Commodore</a></td>
+<td><a href="/wiki/Brigadier" title="Brigadier">Brigadier</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Brigadier_general" title="Brigadier general">brigadier general</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Air_commodore" title="Air commodore">Air commodore</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Captain_(naval)" title="Captain (naval)">Captain</a></td>
+<td><a href="/wiki/Colonel" title="Colonel">Colonel</a></td>
+<td><a href="/wiki/Group_captain" title="Group captain">Group captain</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Commander" title="Commander">Commander</a></td>
+<td style="padding-right:"><a href="/wiki/Lieutenant_colonel" title="Lieutenant colonel">Lieutenant colonel</a></td>
+<td><a href="/wiki/Wing_commander_(rank)" title="Wing commander (rank)">Wing commander</a>
+</td></tr>
+<tr style="line-height:1.2em">
+<td><a href="/wiki/Lieutenant_commander" title="Lieutenant commander">Lieutenant<br />commander</a></td>
+<td><a href="/wiki/Major" title="Major">Major</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Commandant_(rank)" title="Commandant (rank)">commandant</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Squadron_leader" title="Squadron leader">Squadron leader</a>
+</td></tr>
+<tr>
+<td><a class="mw-selflink selflink">Lieutenant</a></td>
+<td><a href="/wiki/Captain_(armed_forces)" title="Captain (armed forces)">Captain</a></td>
+<td><a href="/wiki/Flight_lieutenant" title="Flight lieutenant">Flight lieutenant</a>
+</td></tr>
+<tr style="line-height:1.2em">
+<td style="vertical-align:middle"><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">Lieutenant<br />junior grade</a> <span style="font-size:90%;">or</span> <br /><a href="/wiki/Sub-lieutenant" title="Sub-lieutenant">sub-lieutenant</a></td>
+<td><a href="/wiki/Lieutenant" title="Lieutenant">Lieutenant</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/First_lieutenant" title="First lieutenant">first lieutenant</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Flying_officer" title="Flying officer">Flying officer</a>
+</td></tr>
+<tr style="line-height:1.2em">
+<td style="vertical-align:middle"><a href="/wiki/Ensign_(rank)" title="Ensign (rank)">Ensign</a> <span style="font-size:90%;">or</span> <br /><a href="/wiki/Midshipman" title="Midshipman">midshipman</a></td>
+<td style="padding-right:0.75em"><a href="/wiki/Second_lieutenant" title="Second lieutenant">Second lieutenant</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Pilot_officer" title="Pilot officer">Pilot officer</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">Officer cadet</a></td>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">Officer cadet</a></td>
+<td><a href="/wiki/Flight_cadet" title="Flight cadet">Flight cadet</a>
+</td></tr>
+<tr>
+<th colspan="3" style="background-color:#C3D6EF;text-align:center;vertical-align:middle;font-size:110%;"><span style="font-size:95%;"><a href="/wiki/Enlisted_rank" title="Enlisted rank">Enlisted grades</a></span>
+</th></tr>
+<tr style="line-height:1.2em">
+<td style="vertical-align:middle"><a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Chief_petty_officer" title="Chief petty officer">chief petty officer</a></td>
+<td><a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Sergeant_major" title="Sergeant major">sergeant major</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Warrant_officer" title="Warrant officer">Warrant officer</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Petty_officer" title="Petty officer">Petty officer</a></td>
+<td><a href="/wiki/Sergeant" title="Sergeant">Sergeant</a></td>
+<td><a href="/wiki/Flight_sergeant" title="Flight sergeant">Flight sergeant</a>
+</td></tr>
+<tr style="line-height:1.2em">
+<td style="vertical-align:middle"><a href="/wiki/Leading_seaman" title="Leading seaman">Leading seaman</a></td>
+<td><a href="/wiki/Corporal" title="Corporal">Corporal</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Bombardier_(rank)" title="Bombardier (rank)">bombardier</a></td>
+<td style="vertical-align:middle"><a href="/wiki/Corporal" title="Corporal">Corporal</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Seaman_(rank)" title="Seaman (rank)">Seaman</a></td>
+<td><a href="/wiki/Private_(rank)" title="Private (rank)">Private</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Gunner_(rank)" title="Gunner (rank)">gunner</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Trooper_(rank)" title="Trooper (rank)">trooper</a></td>
+<td><a href="/wiki/Aircraftman" title="Aircraftman">Aircraftman</a> <span style="font-size:90%;">or</span><br /><a href="/wiki/Airman" title="Airman">airman</a>
+</td></tr>
+<tr>
+<td colspan="3" style="text-align:right;"><a href="/wiki/Template_talk:Military_ranks" title="Template talk:Military ranks">Talk</a>·<a href="/wiki/Template:Military_ranks" title="Template:Military ranks">View</a>
+</td></tr></tbody></table>
+<p><b>Lieutenant</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;nb 1&#93;</a></sup> (abbreviated <b>Lt</b>, <b>LT</b>, <b>LT(N)</b>, <b>Lt(N)</b>, <b>Lieut</b> and <b>LEUT</b>, depending on nation) is a <a href="/wiki/Commissioned_officer" class="mw-redirect" title="Commissioned officer">commissioned officer</a> rank in many nations' <a href="/wiki/Navy" title="Navy">navies</a>. It is typically the most senior of junior officer ranks. In most navies, the rank's insignia may consist of two medium gold braid stripes, the uppermost stripe featuring an <a href="/wiki/Executive_curl" title="Executive curl">executive curl</a> in many <a href="/wiki/Commonwealth_of_Nations" title="Commonwealth of Nations">Commonwealth of Nations</a>; or three stripes of equal or unequal width.
+</p><p>The now immediately senior rank of <a href="/wiki/Lieutenant_commander" title="Lieutenant commander">lieutenant commander</a> was formerly a senior naval lieutenant rank. Many navies also use a subordinate rank of <a href="/wiki/Sub-lieutenant" title="Sub-lieutenant">sub-lieutenant</a>. The appointment of "first lieutenant" in many navies is held by a senior lieutenant.
+</p><p>A navy lieutenant ranks higher than an <a href="/wiki/Lieutenant#Army_ranks" title="Lieutenant">army lieutenant</a>; the navy rank of lieutenant is a <a href="/wiki/Ranks_and_insignia_of_NATO" title="Ranks and insignia of NATO">NATO OF-2</a> (US grade O-3) and ranks with an <a href="/wiki/Captain_(armed_forces)" title="Captain (armed forces)">army captain</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Rank_insignia"><span class="tocnumber">2</span> <span class="toctext">Rank insignia</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#&quot;First_lieutenant&quot;_in_naval_usage"><span class="tocnumber">3</span> <span class="toctext">"First lieutenant" in naval usage</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From at least 1580,<sup id="cite_ref-RNM_2-0" class="reference"><a href="#cite_note-RNM-2">&#91;1&#93;</a></sup> the lieutenant on a ship had been the officer immediately subordinate to the captain. Before the <a href="/wiki/English_Restoration" class="mw-redirect" title="English Restoration">English Restoration</a>, lieutenants were appointed by their captains, and this inevitably led to abuses and to the widespread appointment of men of insufficient qualification. In 1677, <a href="/wiki/Samuel_Pepys" title="Samuel Pepys">Samuel Pepys</a>, while he was <a href="/wiki/Parliamentary_and_Financial_Secretary_to_the_Admiralty" title="Parliamentary and Financial Secretary to the Admiralty">Chief Secretary to the Admiralty</a>, introduced the first examination for lieutenant,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup> and thereafter their seniority was dated from the passing of this examination.
+</p><p>A lieutenant was numbered by his seniority within the ship on which he served, so that a frigate (which was entitled to three) would have a first, a second, and a third lieutenant. A <a href="/wiki/First-rate" title="First-rate">first-rate ship</a> was entitled to six, and they were numbered accordingly. At first, a lieutenant's commission was given only for the particular ship in which he served, but after the loss of <a href="/wiki/HMS_Wager_(1739)" title="HMS Wager (1739)">HMS <i>Wager</i></a> in 1741 and the <a href="/wiki/Wager_Mutiny" title="Wager Mutiny">subsequent mutiny</a>, the Royal Navy changed its policy and lieutenants were given more general commissions upon passing their examination.<sup id="cite_ref-RNM_2-1" class="reference"><a href="#cite_note-RNM-2">&#91;1&#93;</a></sup>
+</p><p>During the early days of the naval rank, some lieutenants could be very junior indeed, while others could be on the cusp of promotion to captain; those lieutenants ranged across present-day army ranks from a second lieutenant through to a lieutenant colonel. As the rank structure of navies stabilized, and the ranks of commander, lieutenant commander, and sub-lieutenant were introduced, the rank of naval lieutenant became less wide-ranging and is today the equivalent of an army captain (NATO OF-2 or US O-3).
+</p><p>In the United States Navy, promotion to lieutenant is governed by Department of Defense policies derived from the <a href="/wiki/Defense_Officer_Personnel_Management_Act" title="Defense Officer Personnel Management Act">Defense Officer Personnel Management Act</a> of 1980. DOPMA guidelines suggest that 95% of <a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">lieutenants (junior grade)</a> should be promoted to lieutenant after serving a minimum of two years at the lower rank.
+</p>
+<h2><span class="mw-headline" id="Rank_insignia">Rank insignia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=2" title="Edit section: Rank insignia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The insignia of a lieutenant in many navies, including the Royal Navy,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup> consists of two medium <a href="/wiki/Gold_braid" class="mw-redirect" title="Gold braid">gold braid</a> stripes (top stripe with loop) on a <a href="/wiki/Navy_blue" title="Navy blue">navy blue</a> or black background. This pattern was copied by the United States Navy and various air forces for their equivalent ranks grades, except that the executive curl is removed (see <a href="/wiki/Flight_lieutenant" title="Flight lieutenant">flight lieutenant</a>).
+</p>
+<table align="center">
+
+<tbody><tr align="center">
+<td><a href="/wiki/File:Lieutenant-de-vaisseau-France.png" class="image"><img alt="Lieutenant-de-vaisseau-France.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lieutenant-de-vaisseau-France.png/50px-Lieutenant-de-vaisseau-France.png" decoding="async" width="50" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lieutenant-de-vaisseau-France.png/75px-Lieutenant-de-vaisseau-France.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Lieutenant-de-vaisseau-France.png/100px-Lieutenant-de-vaisseau-France.png 2x" data-file-width="128" data-file-height="250" /></a>
+</td>
+<td><a href="/wiki/File:16_-_kptlt.png" class="image"><img alt="16 - kptlt.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/16_-_kptlt.png/43px-16_-_kptlt.png" decoding="async" width="43" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/16_-_kptlt.png/65px-16_-_kptlt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/16_-_kptlt.png/87px-16_-_kptlt.png 2x" data-file-width="98" data-file-height="225" /></a>
+</td>
+<td><a href="/wiki/File:GR-Navy-OF2.svg" class="image"><img alt="GR-Navy-OF2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GR-Navy-OF2.svg/43px-GR-Navy-OF2.svg.png" decoding="async" width="43" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GR-Navy-OF2.svg/64px-GR-Navy-OF2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/GR-Navy-OF2.svg/86px-GR-Navy-OF2.svg.png 2x" data-file-width="100" data-file-height="232" /></a>
+</td>
+<td><a href="/wiki/File:IN_Lieutenant.png" class="image"><img alt="IN Lieutenant.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IN_Lieutenant.png/44px-IN_Lieutenant.png" decoding="async" width="44" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IN_Lieutenant.png/66px-IN_Lieutenant.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/IN_Lieutenant.png/87px-IN_Lieutenant.png 2x" data-file-width="100" data-file-height="228" /></a>
+</td>
+<td><a href="/wiki/File:13-Navsarvan.png" class="image"><img alt="13-Navsarvan.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/13-Navsarvan.png/93px-13-Navsarvan.png" decoding="async" width="93" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/13-Navsarvan.png/139px-13-Navsarvan.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/13-Navsarvan.png/185px-13-Navsarvan.png 2x" data-file-width="1173" data-file-height="1265" /></a>
+</td>
+<td><a href="/wiki/File:POL_PMW_pagon1_kapitan_marynarki.svg" class="image"><img alt="POL PMW pagon1 kapitan marynarki.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg/40px-POL_PMW_pagon1_kapitan_marynarki.svg.png" decoding="async" width="40" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg/60px-POL_PMW_pagon1_kapitan_marynarki.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/POL_PMW_pagon1_kapitan_marynarki.svg/80px-POL_PMW_pagon1_kapitan_marynarki.svg.png 2x" data-file-width="250" data-file-height="625" /></a>
+</td>
+<td><a href="/wiki/File:POR-Navy-primeiro-tenente.png" class="image"><img alt="POR-Navy-primeiro-tenente.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/POR-Navy-primeiro-tenente.png/50px-POR-Navy-primeiro-tenente.png" decoding="async" width="50" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/POR-Navy-primeiro-tenente.png/75px-POR-Navy-primeiro-tenente.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/POR-Navy-primeiro-tenente.png/100px-POR-Navy-primeiro-tenente.png 2x" data-file-width="160" data-file-height="296" /></a>
+</td>
+<td><a href="/wiki/File:RO-Navy-OF-3s.png" class="image"><img alt="RO-Navy-OF-3s.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/RO-Navy-OF-3s.png/50px-RO-Navy-OF-3s.png" decoding="async" width="50" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/RO-Navy-OF-3s.png/75px-RO-Navy-OF-3s.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/RO-Navy-OF-3s.png/100px-RO-Navy-OF-3s.png 2x" data-file-width="106" data-file-height="203" /></a>
+</td>
+<td><a href="/wiki/File:9arm.png" class="image"><img alt="9arm.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/9arm.png/96px-9arm.png" decoding="async" width="96" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/c/ca/9arm.png 1.5x" data-file-width="110" data-file-height="114" /></a>
+</td>
+<td><a href="/wiki/File:Generic-Navy-O3.svg" class="image"><img alt="Generic-Navy-O3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/50px-Generic-Navy-O3.svg.png" decoding="async" width="50" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/75px-Generic-Navy-O3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/100px-Generic-Navy-O3.svg.png 2x" data-file-width="100" data-file-height="185" /></a>
+</td>
+<td><a href="/wiki/File:Generic-Navy-O3.svg" class="image"><img alt="Generic-Navy-O3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/50px-Generic-Navy-O3.svg.png" decoding="async" width="50" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/75px-Generic-Navy-O3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Generic-Navy-O3.svg/100px-Generic-Navy-O3.svg.png 2x" data-file-width="100" data-file-height="185" /></a>
+</td>
+<td><a href="/wiki/File:US_Navy_O3_insignia.svg" class="image"><img alt="US Navy O3 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_O3_insignia.svg/50px-US_Navy_O3_insignia.svg.png" decoding="async" width="50" height="86" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_O3_insignia.svg/75px-US_Navy_O3_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/US_Navy_O3_insignia.svg/100px-US_Navy_O3_insignia.svg.png 2x" data-file-width="245" data-file-height="420" /></a>
+</td></tr>
+<tr align="center">
+<td>France
+</td>
+<td>Germany
+</td>
+<td>Greece
+</td>
+<td>India
+</td>
+<td>Iran
+</td>
+<td>Poland
+</td>
+<td>Portugal
+</td>
+<td>Romania
+</td>
+<td>Spain
+</td>
+<td>United Kingdom
+</td>
+<td>Canada
+</td>
+<td>United States
+</td></tr></tbody></table>
+<h2><span id=".22First_lieutenant.22_in_naval_usage"></span><span class="mw-headline" id="&quot;First_lieutenant&quot;_in_naval_usage">"First lieutenant" in naval usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=3" title="Edit section: &quot;First lieutenant&quot; in naval usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>first lieutenant</b> (1st Lt or 1LT) in the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> and other Commonwealth navies, is a post or appointment, rather than a rank. Historically, the lieutenants in a ship were ranked in accordance with seniority, with the most senior being termed the first lieutenant and acting as the <a href="/wiki/Second-in-command" title="Second-in-command">second-in-command</a>. Although lieutenants are no longer numbered by seniority, the post of "first lieutenant" remains.
+</p><p>In minor war vessels, <a href="/wiki/Destroyer" title="Destroyer">destroyers</a> and <a href="/wiki/Frigate" title="Frigate">frigates</a>, the first lieutenant (either a lieutenant or lieutenant commander) is second in command, <a href="/wiki/Executive_officer" title="Executive officer">executive officer</a> (XO) and head of the executive branch; in larger ships, where a commander of the warfare specialisation is appointed as the executive officer, a first lieutenant (normally a lieutenant commander) is appointed as his deputy. The post of first lieutenant in a <a href="/wiki/Shore_establishment" class="mw-redirect" title="Shore establishment">shore establishment</a> carries a similar responsibility to that of the first lieutenant of a <a href="/wiki/Capital_ship" title="Capital ship">capital ship</a>.
+</p><p>In the U.S. Navy or U.S. Coast Guard, the billet of first lieutenant describes the officer in charge of the <a href="/wiki/Deck_department" title="Deck department">deck department</a> or division, depending on the size of the ship. In smaller ships that have only a single deck division, the billet is typically filled by an ensign; while in larger ships, with a deck department consisting of multiple subordinate divisions, the billet may be filled by a lieutenant commander. On submarines and smaller Coast Guard cutters, the billet of first lieutenant may be filled by a <a href="/wiki/Petty_officer" title="Petty officer">petty officer</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886046874">@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}</style><div class="mw-stack stack-container stack-right mobile-float-reset"><div style="overflow: hidden; margin: 1px;"><div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/32px-Bluetank.png" decoding="async" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/48px-Bluetank.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bluetank.png/64px-Bluetank.png 2x" data-file-width="400" data-file-height="237" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:War" title="Portal:War">War portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Yacht_foresail.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/24px-Yacht_foresail.svg.png" decoding="async" width="24" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/37px-Yacht_foresail.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/49px-Yacht_foresail.svg.png 2x" data-file-width="836" data-file-height="955" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Nautical" title="Portal:Nautical">Nautical portal</a></span></li></ul></div></div></div>
+<ul><li><a href="/wiki/Comparative_military_ranks" class="mw-redirect" title="Comparative military ranks">Comparative military ranks</a></li>
+<li><a href="/wiki/Captain_lieutenant" title="Captain lieutenant">Captain lieutenant</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The pronunciation of <i>lieutenant</i> is generally split between <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;f&#39; in &#39;find&#39;">f</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">lef-<span style="font-size:90%">TEN</span>-ənt</i></a>, <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;f&#39; in &#39;find&#39;">f</span></span>-/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">lif-</i></a>, generally in the United Kingdom, Ireland, and Commonwealth countries, and <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/uː/: &#39;oo&#39; in &#39;goose&#39;">uː</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span><span title="/ɛ/: &#39;e&#39; in &#39;dress&#39;">ɛ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span></span>/</a></span>&#32;<span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:En-us-lieutenant-2.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span><a href="//upload.wikimedia.org/wikipedia/commons/1/19/En-us-lieutenant-2.ogg" class="internal" title="En-us-lieutenant-2.ogg">listen</a></span></span>)</span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling">loo-<span style="font-size:90%">TEN</span>-ənt</i></a>, <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span></span>-/</a></span></span>, generally associated with the United States. See <a href="/wiki/Lieutenant" title="Lieutenant">lieutenant</a>.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-RNM-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-RNM_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RNM_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141011015812/http://www.royalnavalmuseum.org/info_sheets_nav_rankings.htm">"Officer Ranks in the Royal Navy  - Lieutenant"</a>. Royal Naval Museum. Archived from <a rel="nofollow" class="external text" href="http://www.royalnavalmuseum.org/info_sheets_nav_rankings.htm#Lt">the original</a> on 2014-10-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Officer+Ranks+in+the+Royal+Navy++-+Lieutenant&amp;rft.pub=Royal+Naval+Museum&amp;rft_id=http%3A%2F%2Fwww.royalnavalmuseum.org%2Finfo_sheets_nav_rankings.htm%23Lt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALieutenant+%28navy%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">J. D. Davies, <i>Gentlemen and Tarpaulins</i> (Oxford University Press, 1991, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-820263-9" title="Special:BookSources/978-0-19-820263-9">978-0-19-820263-9</a>), p. 40</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081012070139/http://www.royal-navy.mod.uk/server/show/nav.3761">"Uniforms and Badges of Rank - Royal Navy website"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.royal-navy.mod.uk/server/show/nav.3761">the original</a> on 2008-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-10-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Uniforms+and+Badges+of+Rank+-+Royal+Navy+website&amp;rft_id=http%3A%2F%2Fwww.royal-navy.mod.uk%2Fserver%2Fshow%2Fnav.3761&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALieutenant+%28navy%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<table class="navbox collapsible autocollapse">
+
+<tbody><tr>
+<th colspan="14" class="navbox-title" style="background-color: #B0C4DE;"><div class="plainlinks hlist navbar mini" style="float:left; text-align:left"><ul><li class="nv-view"><a href="/wiki/Template:UK_officer_ranks" title="Template:UK officer ranks"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UK_officer_ranks" title="Template talk:UK officer ranks"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UK_officer_ranks&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div><div style="font-size:114%;margin:0 4em"><a href="/wiki/Letters_patent" title="Letters patent">Commissioned</a> <a href="/wiki/Officer_(armed_forces)" title="Officer (armed forces)">officer</a> <a href="/wiki/Military_rank" title="Military rank">ranks</a> of the <a href="/wiki/British_Armed_Forces" title="British Armed Forces">British Armed Forces</a></div>
+</th></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;"><a href="/wiki/Ranks_and_insignia_of_NATO" title="Ranks and insignia of NATO">NATO rank code</a>
+</th>
+<th style="text-align:center;background-color: #DCDCDC;">Student officer
+</th>
+<th style="text-align:center;background-color: #DCDCDC;" colspan="2">OF-1
+</th>
+<th style="text-align:center;background-color: #DCDCDC;">OF-2
+</th>
+<th style="text-align:center;background-color: #DCDCDC;">OF-3
+</th>
+<th style="text-align:center;background-color: #DCDCDC;">OF-4
+</th>
+<th style="text-align:center;background-color: #DCDCDC;">OF-5
+</th>
+<th style="text-align:center;background-color: #DCDCDC;"><a href="/wiki/1_star_rank" class="mw-redirect" title="1 star rank">OF-6<br />*</a>
+</th>
+<th style="text-align:center;background-color: #DCDCDC;"><a href="/wiki/2_star_rank" class="mw-redirect" title="2 star rank">OF-7<br />**</a>
+</th>
+<th style="text-align:center;background-color: #DCDCDC;"><a href="/wiki/3_star_rank" class="mw-redirect" title="3 star rank">OF-8<br />***</a>
+</th>
+<th style="text-align:center;background-color: #DCDCDC;"><a href="/wiki/4_star_rank" class="mw-redirect" title="4 star rank">OF-9<br />****</a>
+</th>
+<th style="text-align:center;background-color: #DCDCDC;"><a href="/wiki/5_star_rank" class="mw-redirect" title="5 star rank">OF-10<br />*****</a>
+</th></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;"><a href="/wiki/Royal_Navy_officer_rank_insignia" title="Royal Navy officer rank insignia">Royal Navy</a>
+</th>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">O Cdt</a>
+</td>
+<td><a href="/wiki/Midshipman" title="Midshipman">Mid</a>
+</td>
+<td><a href="/wiki/Sub-lieutenant" title="Sub-lieutenant">SLt</a>
+</td>
+<td><a class="mw-selflink selflink">Lt</a>
+</td>
+<td><a href="/wiki/Lieutenant_commander_(Royal_Navy)" title="Lieutenant commander (Royal Navy)">Lt Cdr</a>
+</td>
+<td><a href="/wiki/Commander_(Royal_Navy)" title="Commander (Royal Navy)">Cdr</a>
+</td>
+<td><a href="/wiki/Captain_(Royal_Navy)" title="Captain (Royal Navy)">Capt</a>
+</td>
+<td><a href="/wiki/Commodore_(Royal_Navy)" title="Commodore (Royal Navy)">Cdre</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(Royal_Navy)" title="Rear admiral (Royal Navy)">RAdm</a>
+</td>
+<td><a href="/wiki/Vice-admiral_(Royal_Navy)" title="Vice-admiral (Royal Navy)">VAdm</a>
+</td>
+<td><a href="/wiki/Admiral_(Royal_Navy)" title="Admiral (Royal Navy)">Adm</a>
+</td>
+<td><a href="/wiki/Admiral_of_the_Fleet_(Royal_Navy)" title="Admiral of the Fleet (Royal Navy)">Adm of the Fleet</a>
+</td></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;"><a href="/wiki/Royal_Marines" title="Royal Marines">Royal Marines</a>
+</th>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">O Cdt</a>
+</td>
+<td><a href="/wiki/Second_lieutenant" title="Second lieutenant">2Lt</a>
+</td>
+<td><a href="/wiki/Lieutenant_(British_Army_and_Royal_Marines)" title="Lieutenant (British Army and Royal Marines)">Lt</a>
+</td>
+<td><a href="/wiki/Captain_(British_Army_and_Royal_Marines)" title="Captain (British Army and Royal Marines)">Capt</a>
+</td>
+<td><a href="/wiki/Major_(United_Kingdom)" title="Major (United Kingdom)">Maj</a>
+</td>
+<td><a href="/wiki/Lieutenant_colonel_(United_Kingdom)" title="Lieutenant colonel (United Kingdom)">Lt Col</a>
+</td>
+<td><a href="/wiki/Colonel_(United_Kingdom)" title="Colonel (United Kingdom)">Col</a>
+</td>
+<td><a href="/wiki/Brigadier_(United_Kingdom)" title="Brigadier (United Kingdom)">Brig</a>
+</td>
+<td><a href="/wiki/Major-general_(United_Kingdom)" title="Major-general (United Kingdom)">Maj-Gen</a>
+</td>
+<td><a href="/wiki/Lieutenant-general_(United_Kingdom)" title="Lieutenant-general (United Kingdom)">Lt-Gen</a>
+</td>
+<td><a href="/wiki/General_(United_Kingdom)" title="General (United Kingdom)">Gen</a>
+</td>
+<td><a href="/wiki/Captain_General_Royal_Marines" title="Captain General Royal Marines">Capt-Gen</a>
+</td></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;"><a href="/wiki/British_Army_officer_rank_insignia" title="British Army officer rank insignia">Army</a>
+</th>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">O Cdt</a>
+</td>
+<td><a href="/wiki/Second_lieutenant" title="Second lieutenant">2Lt</a>
+</td>
+<td><a href="/wiki/Lieutenant_(British_Army_and_Royal_Marines)" title="Lieutenant (British Army and Royal Marines)">Lt</a>
+</td>
+<td><a href="/wiki/Captain_(British_Army_and_Royal_Marines)" title="Captain (British Army and Royal Marines)">Capt</a>
+</td>
+<td><a href="/wiki/Major_(United_Kingdom)" title="Major (United Kingdom)">Maj</a>
+</td>
+<td><a href="/wiki/Lieutenant_colonel_(United_Kingdom)" title="Lieutenant colonel (United Kingdom)">Lt Col</a>
+</td>
+<td><a href="/wiki/Colonel_(United_Kingdom)" title="Colonel (United Kingdom)">Col</a>
+</td>
+<td><a href="/wiki/Brigadier_(United_Kingdom)" title="Brigadier (United Kingdom)">Brig</a>
+</td>
+<td><a href="/wiki/Major-general_(United_Kingdom)" title="Major-general (United Kingdom)">Maj-Gen</a>
+</td>
+<td><a href="/wiki/Lieutenant-general_(United_Kingdom)" title="Lieutenant-general (United Kingdom)">Lt-Gen</a>
+</td>
+<td><a href="/wiki/General_(United_Kingdom)" title="General (United Kingdom)">Gen</a>
+</td>
+<td><a href="/wiki/Field_marshal_(United_Kingdom)" title="Field marshal (United Kingdom)">Fd Mshl</a>
+</td></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;"><a href="/wiki/RAF_officer_ranks" title="RAF officer ranks">Royal Air Force</a>
+</th>
+<td><a href="/wiki/Officer_cadet" title="Officer cadet">Off Cdt</a> / <a href="/w/index.php?title=Student_Officer&amp;action=edit&amp;redlink=1" class="new" title="Student Officer (page does not exist)">SO</a>
+</td>
+<td><a href="/wiki/Acting_pilot_officer" title="Acting pilot officer">APO</a> / <a href="/wiki/Pilot_officer" title="Pilot officer">Plt Off</a>
+</td>
+<td><a href="/wiki/Flying_officer" title="Flying officer">Fg Off</a>
+</td>
+<td><a href="/wiki/Flight_lieutenant" title="Flight lieutenant">Flt Lt</a>
+</td>
+<td><a href="/wiki/Squadron_leader" title="Squadron leader">Sqn Ldr</a>
+</td>
+<td><a href="/wiki/Wing_commander_(rank)" title="Wing commander (rank)">Wg Cdr</a>
+</td>
+<td><a href="/wiki/Group_captain" title="Group captain">Gp Capt</a>
+</td>
+<td><a href="/wiki/Air_commodore" title="Air commodore">Air Cdre</a>
+</td>
+<td><a href="/wiki/Air_vice-marshal" title="Air vice-marshal">AVM</a>
+</td>
+<td><a href="/wiki/Air_marshal" title="Air marshal">Air Mshl</a>
+</td>
+<td><a href="/wiki/Air_chief_marshal" title="Air chief marshal">Air Chf Mshl</a>
+</td>
+<td><a href="/wiki/Marshal_of_the_Royal_Air_Force" title="Marshal of the Royal Air Force">Mshl of the RAF</a>
+</td></tr>
+<tr>
+<th style="text-align:right;background-color: #DCDCDC;">Lists
+</th>
+<th colspan="13" style="background-color: #DCDCDC;"><div class="hlist hlist-separated"><ul><li><a href="/wiki/List_of_Royal_Navy_rear_admirals" title="List of Royal Navy rear admirals">rear admirals</a></li><li><a href="/wiki/List_of_Royal_Navy_vice_admirals" title="List of Royal Navy vice admirals">vice admirals</a></li><li><a href="/wiki/List_of_Royal_Navy_admirals" class="mw-redirect" title="List of Royal Navy admirals">admirals</a></li><li><a href="/wiki/List_of_Royal_Marines_full_generals" title="List of Royal Marines full generals">RM full generals</a></li><li><a href="/wiki/List_of_British_Army_full_generals" title="List of British Army full generals">British Army full generals</a></li><li><a href="/wiki/List_of_Royal_Air_Force_air_chief_marshals" title="List of Royal Air Force air chief marshals">air chief marshals</a></li><li><a href="/wiki/List_of_female_British_general,_flag_and_air_officers" title="List of female British general, flag and air officers">female general, flag and air officers</a></li></ul></div>
+</th></tr></tbody></table>
+<table class="navbox collapsible autocollapse">
+
+<tbody><tr>
+<th colspan="15" class="navbox-title" style="background:lightsteelblue;"><div class="plainlinks hlist navbar mini" style="float:left; text-align:left"><ul><li class="nv-view"><a href="/wiki/Template:US_officer_ranks" title="Template:US officer ranks"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:US_officer_ranks" title="Template talk:US officer ranks"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:US_officer_ranks&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div><div style="font-size:114%;margin:0 4em">United States uniformed services <a href="/wiki/Officer_(armed_forces)#United_States" title="Officer (armed forces)">commissioned officer</a> and <a href="/wiki/Officer_candidate#United_States" title="Officer candidate">officer candidate</a> ranks</div>
+</th></tr>
+<tr>
+<th style="background:gainsboro;">Pay grade / branch of service
+</th>
+<th style="background:gainsboro;">Officer<br />candidate
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-1</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-2</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-3</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-4</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-5</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">O-6</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap"><a href="/wiki/One-star_rank#United_States_one-star_ranks" title="One-star rank">O-7</a></span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap"><a href="/wiki/Two-star_rank#United_States_two-star_ranks" title="Two-star rank">O-8</a></span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap"><a href="/wiki/Three-star_rank#United_States_three-star_ranks" title="Three-star rank">O-9</a></span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap"><a href="/wiki/Four-star_rank#United_States" title="Four-star rank">O-10</a></span>
+</th>
+<th style="background:gainsboro;"><a href="/wiki/Five-star_rank#US_five-star_ranks" title="Five-star rank">O-11</a>
+</th>
+<th style="background:gainsboro;"><a href="/wiki/Six-star_rank" title="Six-star rank">Special<br />grade</a>
+</th></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;">Insignia
+</td>
+<td><a href="/wiki/File:US_Navy_OC_shoulderboard.svg" class="image"><img alt="alt=alt=Officer Candidate" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/US_Navy_OC_shoulderboard.svg/12px-US_Navy_OC_shoulderboard.svg.png" decoding="async" width="12" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/US_Navy_OC_shoulderboard.svg/18px-US_Navy_OC_shoulderboard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/US_Navy_OC_shoulderboard.svg/24px-US_Navy_OC_shoulderboard.svg.png 2x" data-file-width="101" data-file-height="252" /></a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:US-O1_insignia.svg" class="image"><img alt="alt=alt=Second lieutenant / Ensign" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/US-O1_insignia.svg/10px-US-O1_insignia.svg.png" decoding="async" width="10" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/US-O1_insignia.svg/15px-US-O1_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/US-O1_insignia.svg/20px-US-O1_insignia.svg.png 2x" data-file-width="200" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/File:US-O2_insignia.svg" class="image"><img alt="alt=alt=First lieutenant / Lieutenant (junior grade)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O2_insignia.svg/10px-US-O2_insignia.svg.png" decoding="async" width="10" height="25" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O2_insignia.svg/15px-US-O2_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O2_insignia.svg/20px-US-O2_insignia.svg.png 2x" data-file-width="200" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/File:US-O3_insignia.svg" class="image"><img alt="alt=alt=alt=Captain / Lieutenant" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O3_insignia.svg/25px-US-O3_insignia.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O3_insignia.svg/38px-US-O3_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/US-O3_insignia.svg/50px-US-O3_insignia.svg.png 2x" data-file-width="534" data-file-height="500" /></a>
+</td>
+<td><a href="/wiki/File:US-O4_insignia.svg" class="image"><img alt="alt=alt=Major / Lieutenant commander" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US-O4_insignia.svg/25px-US-O4_insignia.svg.png" decoding="async" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US-O4_insignia.svg/38px-US-O4_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/US-O4_insignia.svg/50px-US-O4_insignia.svg.png 2x" data-file-width="500" data-file-height="524" /></a>
+</td>
+<td><a href="/wiki/File:US-O5_insignia.svg" class="image"><img alt="alt=alt=Lieutenant colonel / Commander" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US-O5_insignia.svg/25px-US-O5_insignia.svg.png" decoding="async" width="25" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US-O5_insignia.svg/38px-US-O5_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/US-O5_insignia.svg/50px-US-O5_insignia.svg.png 2x" data-file-width="500" data-file-height="524" /></a>
+</td>
+<td><a href="/wiki/File:US-O6_insignia.svg" class="image"><img alt="alt=alt=Colonel / Captain" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-O6_insignia.svg/30px-US-O6_insignia.svg.png" decoding="async" width="30" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-O6_insignia.svg/45px-US-O6_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/US-O6_insignia.svg/60px-US-O6_insignia.svg.png 2x" data-file-width="950" data-file-height="475" /></a>
+</td>
+<td><a href="/wiki/File:US-O7_insignia.svg" class="image"><img alt="alt=alt=Brigadier general / Rear admiral (lower half)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/US-O7_insignia.svg/25px-US-O7_insignia.svg.png" decoding="async" width="25" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/US-O7_insignia.svg/38px-US-O7_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/US-O7_insignia.svg/50px-US-O7_insignia.svg.png 2x" data-file-width="622" data-file-height="583" /></a>
+</td>
+<td><a href="/wiki/File:US-O8_insignia.svg" class="image"><img alt="alt=alt=Major General / Rear admiral" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/US-O8_insignia.svg/35px-US-O8_insignia.svg.png" decoding="async" width="35" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/US-O8_insignia.svg/53px-US-O8_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/US-O8_insignia.svg/70px-US-O8_insignia.svg.png 2x" data-file-width="1262" data-file-height="591" /></a>
+</td>
+<td><a href="/wiki/File:US-O9_insignia.svg" class="image"><img alt="alt=alt=Lieutenant general / Vice admiral" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/US-O9_insignia.svg/50px-US-O9_insignia.svg.png" decoding="async" width="50" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/US-O9_insignia.svg/75px-US-O9_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/US-O9_insignia.svg/100px-US-O9_insignia.svg.png 2x" data-file-width="1892" data-file-height="591" /></a>
+</td>
+<td><a href="/wiki/File:US-O10_insignia.svg" class="image"><img alt="alt=alt=General / Admiral" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/US-O10_insignia.svg/70px-US-O10_insignia.svg.png" decoding="async" width="70" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/US-O10_insignia.svg/105px-US-O10_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/US-O10_insignia.svg/140px-US-O10_insignia.svg.png 2x" data-file-width="2514" data-file-height="583" /></a>
+</td>
+<td><a href="/wiki/File:US-O11_insignia.svg" class="image"><img alt="alt=alt=General of the Air Force / General of the Army / Fleet Admiral" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/US-O11_insignia.svg/50px-US-O11_insignia.svg.png" decoding="async" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/US-O11_insignia.svg/75px-US-O11_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/US-O11_insignia.svg/100px-US-O11_insignia.svg.png 2x" data-file-width="1676" data-file-height="1541" /></a>
+</td>
+<td><a href="/wiki/File:6_Star.svg" class="image"><img alt="alt=alt=General of the Armies / Admiral of the Navy" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/6_Star.svg/50px-6_Star.svg.png" decoding="async" width="50" height="46" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/6_Star.svg/75px-6_Star.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/6_Star.svg/100px-6_Star.svg.png 2x" data-file-width="1676" data-file-height="1541" /></a>[2]
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/23px-Flag_of_the_United_States_Army.svg.png" decoding="async" width="23" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/35px-Flag_of_the_United_States_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/46px-Flag_of_the_United_States_Army.svg.png 2x" data-file-width="5940" data-file-height="4680" /></span> <a href="/wiki/United_States_Army" title="United States Army">Army</a>
+</td>
+<td><a href="/wiki/Officer_cadet#United_States" title="Officer cadet">CDT</a> / <a href="/wiki/Officer_candidate#U.S._Army" title="Officer candidate">OC</a>
+</td>
+<td><a href="/wiki/Second_lieutenant#United_States" title="Second lieutenant">2LT</a>
+</td>
+<td><a href="/wiki/First_lieutenant#United_States" title="First lieutenant">1LT</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-3)" title="Captain (United States O-3)">CPT</a>
+</td>
+<td><a href="/wiki/Major_(United_States)" title="Major (United States)">MAJ</a>
+</td>
+<td><a href="/wiki/Lieutenant_colonel_(United_States)" title="Lieutenant colonel (United States)">LTC</a>
+</td>
+<td><a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">COL</a>
+</td>
+<td><a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">BG</a>
+</td>
+<td><a href="/wiki/Major_general_(United_States)" title="Major general (United States)">MG</a>
+</td>
+<td><a href="/wiki/Lieutenant_general_(United_States)" title="Lieutenant general (United States)">LTG</a>
+</td>
+<td><a href="/wiki/General_(United_States)" title="General (United States)">GEN</a>
+</td>
+<td><a href="/wiki/General_of_the_Army_(United_States)" title="General of the Army (United States)">GA</a><sup>[3]</sup>
+</td>
+<td><a href="/wiki/General_of_the_Armies" title="General of the Armies">GAS</a><sup>[3]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/23px-Flag_of_the_United_States_Marine_Corps.svg.png" decoding="async" width="23" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/35px-Flag_of_the_United_States_Marine_Corps.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/46px-Flag_of_the_United_States_Marine_Corps.svg.png 2x" data-file-width="5940" data-file-height="4680" /></span> <a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">Marine Corps</a>
+</td>
+<td><a href="/wiki/Midshipman#United_States_Navy_and_Marine_Corps" title="Midshipman">Midn</a> / <a href="/wiki/Officer_candidate#U.S._Marine_Corps" title="Officer candidate">Cand</a>
+</td>
+<td><a href="/wiki/Second_lieutenant#United_States" title="Second lieutenant">2ndLt</a>
+</td>
+<td><a href="/wiki/First_lieutenant#United_States" title="First lieutenant">1stLt</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-3)" title="Captain (United States O-3)">Capt</a>
+</td>
+<td><a href="/wiki/Major_(United_States)" title="Major (United States)">Maj</a>
+</td>
+<td><a href="/wiki/Lieutenant_colonel_(United_States)" title="Lieutenant colonel (United States)">LtCol</a>
+</td>
+<td><a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">Col</a>
+</td>
+<td><a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">BGen</a>
+</td>
+<td><a href="/wiki/Major_general_(United_States)" title="Major general (United States)">MajGen</a>
+</td>
+<td><a href="/wiki/Lieutenant_general_(United_States)" title="Lieutenant general (United States)">LtGen</a>
+</td>
+<td><a href="/wiki/General_(United_States)" title="General (United States)">Gen</a>
+</td>
+<td><sup>[5]</sup>
+</td>
+<td><sup>[5]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/23px-Flag_of_the_United_States_Navy.svg.png" decoding="async" width="23" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/35px-Flag_of_the_United_States_Navy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/46px-Flag_of_the_United_States_Navy.svg.png 2x" data-file-width="1280" data-file-height="1008" /></span> <a href="/wiki/United_States_Navy" title="United States Navy">Navy</a>
+</td>
+<td><a href="/wiki/Midshipman#United_States_Navy_and_Marine_Corps" title="Midshipman">MIDN</a> / <a href="/wiki/Officer_candidate#U.S._Navy" title="Officer candidate">OC</a>
+</td>
+<td><a href="/wiki/Ensign_(rank)#United_States" title="Ensign (rank)">ENS</a>
+</td>
+<td><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">LTJG</a>
+</td>
+<td><a class="mw-selflink selflink">LT</a>
+</td>
+<td><a href="/wiki/Lieutenant_commander_(United_States)" title="Lieutenant commander (United States)">LCDR</a>
+</td>
+<td><a href="/wiki/Commander_(United_States)" title="Commander (United States)">CDR</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-6)" title="Captain (United States O-6)">CAPT</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral_(lower_half)" title="Rear admiral (United States)">RDML</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral" title="Rear admiral (United States)">RADM</a>
+</td>
+<td><a href="/wiki/Vice_admiral_(United_States)" title="Vice admiral (United States)">VADM</a>
+</td>
+<td><a href="/wiki/Admiral_(United_States)" title="Admiral (United States)">ADM</a>
+</td>
+<td><a href="/wiki/Fleet_admiral_(United_States)" title="Fleet admiral (United States)">FADM</a><sup>[3]</sup>
+</td>
+<td><a href="/wiki/Admiral_of_the_Navy_(United_States)" title="Admiral of the Navy (United States)">AN</a><sup>[3]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/23px-Flag_of_the_United_States_Air_Force.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/35px-Flag_of_the_United_States_Air_Force.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/46px-Flag_of_the_United_States_Air_Force.svg.png 2x" data-file-width="1024" data-file-height="614" /></span> <a href="/wiki/United_States_Air_Force" title="United States Air Force">Air Force</a>
+</td>
+<td><a href="/wiki/Officer_cadet#United_States" title="Officer cadet">Cadet</a> / <a href="/wiki/Officer_candidate#U.S._Air_Force" title="Officer candidate">OT</a> / <a href="/wiki/Officer_candidate#U.S._Air_Force" title="Officer candidate">OC</a>
+</td>
+<td><a href="/wiki/Second_lieutenant#United_States" title="Second lieutenant">2nd Lt</a>
+</td>
+<td><a href="/wiki/First_lieutenant#United_States" title="First lieutenant">1st Lt</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-3)" title="Captain (United States O-3)">Capt</a>
+</td>
+<td><a href="/wiki/Major_(United_States)" title="Major (United States)">Maj</a>
+</td>
+<td><a href="/wiki/Lieutenant_colonel_(United_States)" title="Lieutenant colonel (United States)">Lt Col</a>
+</td>
+<td><a href="/wiki/Colonel_(United_States)" title="Colonel (United States)">Col</a>
+</td>
+<td><span class="nowrap"><a href="/wiki/Brigadier_general_(United_States)" title="Brigadier general (United States)">Brig Gen</a></span>
+</td>
+<td><span class="nowrap"><a href="/wiki/Major_general_(United_States)" title="Major general (United States)">Maj Gen</a></span>
+</td>
+<td><a href="/wiki/Lieutenant_general_(United_States)" title="Lieutenant general (United States)">Lt Gen</a>
+</td>
+<td><a href="/wiki/General_(United_States)" title="General (United States)">Gen</a>
+</td>
+<td><a href="/wiki/General_of_the_Air_Force" title="General of the Air Force">GAF</a><sup>[3]</sup>
+</td>
+<td><sup>[5]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/23px-Flag_of_the_United_States_Coast_Guard.svg.png" decoding="async" width="23" height="18" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/35px-Flag_of_the_United_States_Coast_Guard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/46px-Flag_of_the_United_States_Coast_Guard.svg.png 2x" data-file-width="1024" data-file-height="803" /></span> <a href="/wiki/United_States_Coast_Guard" title="United States Coast Guard">Coast Guard</a>
+</td>
+<td><a href="/wiki/Officer_cadet#United_States" title="Officer cadet">CDT</a> / <a href="/wiki/Officer_candidate#U.S._Coast_Guard" title="Officer candidate">OC</a>
+</td>
+<td><a href="/wiki/Ensign_(rank)#United_States" title="Ensign (rank)">ENS</a>
+</td>
+<td><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">LTJG</a>
+</td>
+<td><a class="mw-selflink selflink">LT</a>
+</td>
+<td><a href="/wiki/Lieutenant_commander_(United_States)" title="Lieutenant commander (United States)">LCDR</a>
+</td>
+<td><a href="/wiki/Commander_(United_States)" title="Commander (United States)">CDR</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-6)" title="Captain (United States O-6)">CAPT</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral_(lower_half)" title="Rear admiral (United States)">RDML</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral" title="Rear admiral (United States)">RADM</a>
+</td>
+<td><a href="/wiki/Vice_admiral_(United_States)" title="Vice admiral (United States)">VADM</a>
+</td>
+<td><a href="/wiki/Admiral_(United_States)" title="Admiral (United States)">ADM</a>
+</td>
+<td><sup>[5]</sup>
+</td>
+<td><sup>[5]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/23px-Flag_of_the_United_States_Public_Health_Service.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/35px-Flag_of_the_United_States_Public_Health_Service.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/46px-Flag_of_the_United_States_Public_Health_Service.svg.png 2x" data-file-width="760" data-file-height="400" /></span> <a href="/wiki/United_States_Public_Health_Service_Commissioned_Corps" title="United States Public Health Service Commissioned Corps">PHS Corps</a>
+</td>
+<td><sup>[OC]</sup>
+</td>
+<td><a href="/wiki/Ensign_(rank)#United_States" title="Ensign (rank)">ENS</a>
+</td>
+<td><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">LTJG</a>
+</td>
+<td><a class="mw-selflink selflink">LT</a>
+</td>
+<td><a href="/wiki/Lieutenant_commander_(United_States)" title="Lieutenant commander (United States)">LCDR</a>
+</td>
+<td><a href="/wiki/Commander_(United_States)" title="Commander (United States)">CDR</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-6)" title="Captain (United States O-6)">CAPT</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral_(lower_half)" title="Rear admiral (United States)">RADM</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral" title="Rear admiral (United States)">RADM</a>
+</td>
+<td><a href="/wiki/Vice_admiral_(United_States)" title="Vice admiral (United States)">VADM</a>
+</td>
+<td><a href="/wiki/Admiral_(United_States)" title="Admiral (United States)">ADM</a>
+</td>
+<td><sup>[5]</sup>
+</td>
+<td><sup>[5]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NOAA_Flag.svg/23px-NOAA_Flag.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NOAA_Flag.svg/35px-NOAA_Flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NOAA_Flag.svg/46px-NOAA_Flag.svg.png 2x" data-file-width="691" data-file-height="418" /></span> <a href="/wiki/NOAA_Commissioned_Officer_Corps" title="NOAA Commissioned Officer Corps">NOAA Corps</a>
+</td>
+<td><a href="/wiki/Officer_candidate#NOAA_Corps" title="Officer candidate">OC</a>
+</td>
+<td><a href="/wiki/Ensign_(rank)#United_States" title="Ensign (rank)">ENS</a>
+</td>
+<td><a href="/wiki/Lieutenant_(junior_grade)" title="Lieutenant (junior grade)">LTJG</a>
+</td>
+<td><a class="mw-selflink selflink">LT</a>
+</td>
+<td><a href="/wiki/Lieutenant_commander_(United_States)" title="Lieutenant commander (United States)">LCDR</a>
+</td>
+<td><a href="/wiki/Commander_(United_States)" title="Commander (United States)">CDR</a>
+</td>
+<td><a href="/wiki/Captain_(United_States_O-6)" title="Captain (United States O-6)">CAPT</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral_(lower_half)" title="Rear admiral (United States)">RDML</a>
+</td>
+<td><a href="/wiki/Rear_admiral_(United_States)#Rear_admiral" title="Rear admiral (United States)">RADM</a>
+</td>
+<td><a href="/wiki/Vice_admiral_(United_States)" title="Vice admiral (United States)">VADM</a>
+</td>
+<td><sup>[4]</sup>
+</td>
+<td><sup>[5]</sup>
+</td>
+<td><sup>[5]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:lightsteelblue;" colspan="15"><small><sup>[1]</sup> No universal insignia for officer candidate rank; Navy candidate insignia shown<br /><sup>[2]</sup>Official 1945 proposal for General of the Armies insignia; <a href="/wiki/John_J._Pershing" title="John J. Pershing">John J. Pershing</a>'s GAS insignia: <a href="/wiki/File:General_of_Armies_insignia.svg" class="image"><img alt="alt=alt=General of the Armies" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/General_of_Armies_insignia.svg/45px-General_of_Armies_insignia.svg.png" decoding="async" width="45" height="10" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/General_of_Armies_insignia.svg/68px-General_of_Armies_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/General_of_Armies_insignia.svg/90px-General_of_Armies_insignia.svg.png 2x" data-file-width="2514" data-file-height="583" /></a>; <a href="/wiki/George_Dewey" title="George Dewey">George Dewey</a>'s <a href="/wiki/Admiral_of_the_Navy_(United_States)" title="Admiral of the Navy (United States)">Admiral of the Navy</a> insignia: <a href="/wiki/File:US_Admiral_of_Navy_shoulderboard.svg" class="image"><img alt="alt=alt=Admiral of the Navy" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/US_Admiral_of_Navy_shoulderboard.svg/45px-US_Admiral_of_Navy_shoulderboard.svg.png" decoding="async" width="45" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/US_Admiral_of_Navy_shoulderboard.svg/68px-US_Admiral_of_Navy_shoulderboard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/US_Admiral_of_Navy_shoulderboard.svg/90px-US_Admiral_of_Navy_shoulderboard.svg.png 2x" data-file-width="183" data-file-height="68" /></a><br /><sup>[3]</sup> Rank used for specific officers in wartime only, not permanent addition to rank structure <br /><sup>[4]</sup> Grade is authorized by the <a href="/wiki/United_States_Code" title="United States Code">U.S. Code</a> for use but has not been created<br /><sup>[5]</sup> Grade has never been created or authorized<br /></small>
+</td></tr></tbody></table>
+<table class="navbox collapsible autocollapse">
+
+<tbody><tr>
+<th colspan="6" class="navbox-title" style="background:lightsteelblue;"><div class="plainlinks hlist navbar mini" style="float:left; text-align:left"><ul><li class="nv-view"><a href="/wiki/Template:US_officer_ranks" title="Template:US officer ranks"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:US_officer_ranks" title="Template talk:US officer ranks"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:US_officer_ranks&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div><div style="font-size:114%;margin:0 4em">United States <a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">warrant officer and commissioned warrant officer</a> ranks</div>
+</th></tr>
+<tr>
+<th class="navbox-group" style="background:gainsboro;">
+</th>
+<th style="background:gainsboro;"><span class="nowrap">W-1</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">W-2</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">W-3</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">W-4</span>
+</th>
+<th style="background:gainsboro;"><span class="nowrap">W-5</span>
+</th></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Army" title="United States Army">Army</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/50px-Flag_of_the_United_States_Army.svg.png" decoding="async" width="50" height="39" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/75px-Flag_of_the_United_States_Army.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_the_United_States_Army.svg/100px-Flag_of_the_United_States_Army.svg.png 2x" data-file-width="5940" data-file-height="4680" /></span>
+</td>
+<td><a href="/wiki/File:US-Army-WO1.svg" class="image"><img alt="US-Army-WO1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/US-Army-WO1.svg/10px-US-Army-WO1.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/US-Army-WO1.svg/15px-US-Army-WO1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/US-Army-WO1.svg/20px-US-Army-WO1.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">WO1</a>
+</td>
+<td><a href="/wiki/File:US-Army-CW2.svg" class="image"><img alt="US-Army-CW2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/US-Army-CW2.svg/10px-US-Army-CW2.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/US-Army-CW2.svg/15px-US-Army-CW2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/US-Army-CW2.svg/20px-US-Army-CW2.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CW2</a>
+</td>
+<td><a href="/wiki/File:US-Army-CW3.svg" class="image"><img alt="US-Army-CW3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US-Army-CW3.svg/10px-US-Army-CW3.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US-Army-CW3.svg/15px-US-Army-CW3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/US-Army-CW3.svg/20px-US-Army-CW3.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CW3</a>
+</td>
+<td><a href="/wiki/File:US-Army-CW4.svg" class="image"><img alt="US-Army-CW4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-Army-CW4.svg/10px-US-Army-CW4.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-Army-CW4.svg/15px-US-Army-CW4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-Army-CW4.svg/20px-US-Army-CW4.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CW4</a>
+</td>
+<td><a href="/wiki/File:US-Army-CW5.svg" class="image"><img alt="US-Army-CW5.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/US-Army-CW5.svg/10px-US-Army-CW5.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/US-Army-CW5.svg/15px-US-Army-CW5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/US-Army-CW5.svg/20px-US-Army-CW5.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CW5</a>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Marine_Corps" title="United States Marine Corps">Marine Corps</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/50px-Flag_of_the_United_States_Marine_Corps.svg.png" decoding="async" width="50" height="39" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/75px-Flag_of_the_United_States_Marine_Corps.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Flag_of_the_United_States_Marine_Corps.svg/100px-Flag_of_the_United_States_Marine_Corps.svg.png 2x" data-file-width="5940" data-file-height="4680" /></span>
+</td>
+<td><a href="/wiki/File:USMC_WO1.svg" class="image"><img alt="USMC WO1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/USMC_WO1.svg/10px-USMC_WO1.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/USMC_WO1.svg/15px-USMC_WO1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/USMC_WO1.svg/20px-USMC_WO1.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">WO1</a>
+</td>
+<td><a href="/wiki/File:USMC_CWO2.svg" class="image"><img alt="USMC CWO2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/USMC_CWO2.svg/10px-USMC_CWO2.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/USMC_CWO2.svg/15px-USMC_CWO2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/USMC_CWO2.svg/20px-USMC_CWO2.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO2</a>
+</td>
+<td><a href="/wiki/File:USMC_CWO3.svg" class="image"><img alt="USMC CWO3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USMC_CWO3.svg/10px-USMC_CWO3.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USMC_CWO3.svg/15px-USMC_CWO3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/USMC_CWO3.svg/20px-USMC_CWO3.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO3</a>
+</td>
+<td><a href="/wiki/File:USMC_CWO4.svg" class="image"><img alt="USMC CWO4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/USMC_CWO4.svg/10px-USMC_CWO4.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/USMC_CWO4.svg/15px-USMC_CWO4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/USMC_CWO4.svg/20px-USMC_CWO4.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO4</a>
+</td>
+<td><a href="/wiki/File:USMC_CWO5.svg" class="image"><img alt="USMC CWO5.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/USMC_CWO5.svg/10px-USMC_CWO5.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/USMC_CWO5.svg/15px-USMC_CWO5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/USMC_CWO5.svg/20px-USMC_CWO5.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO5</a>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Navy" title="United States Navy">Navy</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/50px-Flag_of_the_United_States_Navy.svg.png" decoding="async" width="50" height="39" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/75px-Flag_of_the_United_States_Navy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_the_United_States_Navy.svg/100px-Flag_of_the_United_States_Navy.svg.png 2x" data-file-width="1280" data-file-height="1008" /></span>
+</td>
+<td><a href="/wiki/File:US_Navy_WO1_insignia.svg" class="image"><img alt="US Navy WO1 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Navy_WO1_insignia.svg/40px-US_Navy_WO1_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Navy_WO1_insignia.svg/60px-US_Navy_WO1_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/US_Navy_WO1_insignia.svg/80px-US_Navy_WO1_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">WO1</a>
+</td>
+<td><a href="/wiki/File:US_Navy_CW2_insignia.svg" class="image"><img alt="US Navy CW2 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/US_Navy_CW2_insignia.svg/40px-US_Navy_CW2_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/US_Navy_CW2_insignia.svg/60px-US_Navy_CW2_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/US_Navy_CW2_insignia.svg/80px-US_Navy_CW2_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO2</a>
+</td>
+<td><a href="/wiki/File:US_Navy_CW3_insignia.svg" class="image"><img alt="US Navy CW3 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Navy_CW3_insignia.svg/40px-US_Navy_CW3_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Navy_CW3_insignia.svg/60px-US_Navy_CW3_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/US_Navy_CW3_insignia.svg/80px-US_Navy_CW3_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO3</a>
+</td>
+<td><a href="/wiki/File:US_Navy_CW4_insignia.svg" class="image"><img alt="US Navy CW4 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/US_Navy_CW4_insignia.svg/40px-US_Navy_CW4_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/US_Navy_CW4_insignia.svg/60px-US_Navy_CW4_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/US_Navy_CW4_insignia.svg/80px-US_Navy_CW4_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO4</a>
+</td>
+<td><a href="/wiki/File:US_Navy_CW5_insignia.svg" class="image"><img alt="US Navy CW5 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/US_Navy_CW5_insignia.svg/40px-US_Navy_CW5_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/US_Navy_CW5_insignia.svg/60px-US_Navy_CW5_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/US_Navy_CW5_insignia.svg/80px-US_Navy_CW5_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO5</a>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Air_Force" title="United States Air Force">Air Force</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/50px-Flag_of_the_United_States_Air_Force.svg.png" decoding="async" width="50" height="30" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/75px-Flag_of_the_United_States_Air_Force.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_the_United_States_Air_Force.svg/100px-Flag_of_the_United_States_Air_Force.svg.png 2x" data-file-width="1024" data-file-height="614" /></span>
+</td>
+<td><a href="/wiki/File:USAF-WO1.svg" class="image"><img alt="USAF-WO1.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/USAF-WO1.svg/10px-USAF-WO1.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/USAF-WO1.svg/15px-USAF-WO1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/USAF-WO1.svg/20px-USAF-WO1.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">WO1</a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:USAF-CW2.svg" class="image"><img alt="USAF-CW2.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/USAF-CW2.svg/10px-USAF-CW2.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/USAF-CW2.svg/15px-USAF-CW2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/USAF-CW2.svg/20px-USAF-CW2.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO2</a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:USAF-CW3.svg" class="image"><img alt="USAF-CW3.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USAF-CW3.svg/10px-USAF-CW3.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USAF-CW3.svg/15px-USAF-CW3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b9/USAF-CW3.svg/20px-USAF-CW3.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO3</a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:USAF-CW4.svg" class="image"><img alt="USAF-CW4.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/USAF-CW4.svg/10px-USAF-CW4.svg.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/USAF-CW4.svg/15px-USAF-CW4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/USAF-CW4.svg/20px-USAF-CW4.svg.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO4</a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:USAF_CW5.png" class="image"><img alt="USAF CW5.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/USAF_CW5.png/10px-USAF_CW5.png" decoding="async" width="10" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/USAF_CW5.png/15px-USAF_CW5.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/USAF_CW5.png/20px-USAF_CW5.png 2x" data-file-width="40" data-file-height="131" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO5</a><sup>[1]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Coast_Guard" title="United States Coast Guard">Coast Guard</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/50px-Flag_of_the_United_States_Coast_Guard.svg.png" decoding="async" width="50" height="39" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/75px-Flag_of_the_United_States_Coast_Guard.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Coast_Guard.svg/100px-Flag_of_the_United_States_Coast_Guard.svg.png 2x" data-file-width="1024" data-file-height="803" /></span>
+</td>
+<td><a href="/wiki/File:USCG_WO1_insignia.svg" class="image"><img alt="USCG WO1 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USCG_WO1_insignia.svg/40px-USCG_WO1_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USCG_WO1_insignia.svg/60px-USCG_WO1_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USCG_WO1_insignia.svg/80px-USCG_WO1_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">WO1</a><sup>[1]</sup>
+</td>
+<td><a href="/wiki/File:USCG_CW2_insignia.svg" class="image"><img alt="USCG CW2 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/USCG_CW2_insignia.svg/40px-USCG_CW2_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/USCG_CW2_insignia.svg/60px-USCG_CW2_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/USCG_CW2_insignia.svg/80px-USCG_CW2_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO2</a>
+</td>
+<td><a href="/wiki/File:USCG_CW3_insignia.svg" class="image"><img alt="USCG CW3 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/USCG_CW3_insignia.svg/40px-USCG_CW3_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/USCG_CW3_insignia.svg/60px-USCG_CW3_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/USCG_CW3_insignia.svg/80px-USCG_CW3_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO3</a>
+</td>
+<td><a href="/wiki/File:USCG_CW4_insignia.svg" class="image"><img alt="USCG CW4 insignia.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USCG_CW4_insignia.svg/40px-USCG_CW4_insignia.svg.png" decoding="async" width="40" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USCG_CW4_insignia.svg/60px-USCG_CW4_insignia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USCG_CW4_insignia.svg/80px-USCG_CW4_insignia.svg.png 2x" data-file-width="150" data-file-height="420" /></a><br /><a href="/wiki/Warrant_officer_(United_States)" title="Warrant officer (United States)">CWO4</a>
+</td>
+<td><sup>[2]</sup>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:gainsboro;"><a href="/wiki/United_States_Public_Health_Service_Commissioned_Corps" title="United States Public Health Service Commissioned Corps">PHS Corps</a><br /><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/50px-Flag_of_the_United_States_Public_Health_Service.svg.png" decoding="async" width="50" height="26" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/75px-Flag_of_the_United_States_Public_Health_Service.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_the_United_States_Public_Health_Service.svg/100px-Flag_of_the_United_States_Public_Health_Service.svg.png 2x" data-file-width="760" data-file-height="400" /></span>
+</td>
+<td><sup>[2]</sup>
+</td>
+<td><sup>[2]</sup>
+</td>
+<td><sup>[2]</sup>
+</td>
+<td><sup>[2]</sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td class="navbox-group" style="background:lightsteelblue;text-align:center;" colspan="6"><sup>[1]</sup> <i>Grade inactive</i><br /><sup>[2]</sup> <i>Grade is authorized for use by <a href="/wiki/United_States_Code" title="United States Code">U.S. Code</a> but has not been created</i>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20190922041932
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.404 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 1308/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46899/2097152 bytes
+Template argument size: 5057/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 10826/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  381.624      1 -total
+ 55.74%  212.714      2 Template:Reflist
+ 22.98%   87.703      2 Template:Cite_web
+ 12.61%   48.116      4 Template:IPAc-en
+ 12.12%   46.251      1 Template:Stack
+ 10.51%   40.099      1 Template:ISBN
+  8.76%   33.430      1 Template:For
+  6.86%   26.168      1 Template:Military_ranks
+  5.69%   21.717      1 Template:UK_officer_ranks
+  5.66%   21.596      1 Template:Portal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29496977-0!canonical and timestamp 20190922041932 and revision id 917076520
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Lieutenant_(navy)&amp;oldid=917076520">https://en.wikipedia.org/w/index.php?title=Lieutenant_(navy)&amp;oldid=917076520</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Military_ranks_of_the_Royal_Navy" title="Category:Military ranks of the Royal Navy">Military ranks of the Royal Navy</a></li><li><a href="/wiki/Category:Military_ranks_of_the_United_States_Navy" title="Category:Military ranks of the United States Navy">Military ranks of the United States Navy</a></li><li><a href="/wiki/Category:Military_ranks_of_the_United_States_Coast_Guard" title="Category:Military ranks of the United States Coast Guard">Military ranks of the United States Coast Guard</a></li><li><a href="/wiki/Category:Naval_ranks" title="Category:Naval ranks">Naval ranks</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Pages_including_recorded_pronunciations_(English)" title="Category:Pages including recorded pronunciations (English)">Pages including recorded pronunciations (English)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Lieutenant+%28navy%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Lieutenant+%28navy%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Lieutenant_(navy)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Lieutenant_(navy)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Lieutenant_(navy)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Lieutenant_(navy)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Lieutenant_(navy)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Lieutenant_(navy)&amp;oldid=917076520" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Lieutenant_(navy)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q457271" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Lieutenant_%28navy%29&amp;id=917076520" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Lieutenant+%28navy%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Lieutenant+%28navy%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Lieutenant_(navy)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Leytenant_(HDQ)" title="Leytenant (HDQ) – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Poru%C4%8D%C3%ADk_(n%C3%A1mo%C5%99n%C3%AD_hodnost)" title="Poručík (námořní hodnost) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A5%CF%80%CE%BF%CF%80%CE%BB%CE%BF%CE%AF%CE%B1%CF%81%CF%87%CE%BF%CF%82" title="Υποπλοίαρχος – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Teniente_de_nav%C3%ADo" title="Teniente de navío – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%88%D8%B3%D8%B1%D9%88%D8%A7%D9%86" title="ناوسروان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Lieutenant_de_vaisseau" title="Lieutenant de vaisseau – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Luitenant-op-see_2e_klasse" title="Luitenant-op-see 2e klasse – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%9C%84_(%ED%95%B4%EA%B5%B0)" title="대위 (해군) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Tenente_di_vascello" title="Tenente di vascello – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%98%D7%A0%D7%A0%D7%98_(%D7%97%D7%99%D7%9C_%D7%99%D7%9D)" title="לוטננט (חיל ים) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kapitan_marynarki" title="Kapitan marynarki – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D1%82%D0%B5%D0%BD%D0%B0%D0%BD%D1%82_%D1%84%D0%BB%D0%BE%D1%82%D0%B0" title="Лейтенант флота – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D1%82%D0%B5%D0%BD%D0%B0%D0%BD%D1%82_(%D0%92%D0%9C%D0%A1)" title="Лейтенант (ВМС) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E4%B8%8A%E5%B0%89_(%E6%B5%B7%E8%BB%8D)" title="上尉 (海軍) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q457271#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 04:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Lieutenant_(navy)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.404","walltime":"0.593","ppvisitednodes":{"value":1308,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46899,"limit":2097152},"templateargumentsize":{"value":5057,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":10826,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  381.624      1 -total"," 55.74%  212.714      2 Template:Reflist"," 22.98%   87.703      2 Template:Cite_web"," 12.61%   48.116      4 Template:IPAc-en"," 12.12%   46.251      1 Template:Stack"," 10.51%   40.099      1 Template:ISBN","  8.76%   33.430      1 Template:For","  6.86%   26.168      1 Template:Military_ranks","  5.69%   21.717      1 Template:UK_officer_ranks","  5.66%   21.596      1 Template:Portal"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":3412477,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20190922041932","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Lieutenant (navy)","url":"https:\/\/en.wikipedia.org\/wiki\/Lieutenant_(navy)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q457271","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q457271","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-06T09:30:05Z","dateModified":"2019-09-22T04:19:32Z","headline":"commissioned officer rank in many nations' navies"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1255"});});</script>
+</body>
+</html>

@@ -1,0 +1,924 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Massachusetts's 11th congressional district - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Massachusetts's_11th_congressional_district","wgTitle":"Massachusetts's 11th congressional district","wgCurRevisionId":903855652,"wgRevisionId":903855652,"wgArticleId":3094297,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from November 2013","All articles to be expanded","Articles using small message boxes","Data missing","Commons category link is on Wikidata","1795 establishments in Massachusetts","Congressional districts of Massachusetts","Obsolete United States congressional districts","1993 disestablishments in Massachusetts","Constituencies established in 1795","Constituencies disestablished in 1993"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable"
+:["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Massachusetts's_11th_congressional_district","wgRelevantArticleId":3094297,"wgRequestId":"XYugggpAAEYAAIKTRSIAAACO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"11th_congressional_district_of_Massachusetts","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":
+!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Massachusetts%27s_11th_congressional_district","wgWikibaseItemId":"Q6784116","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup",
+"mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/79/1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Massachusetts%27s_11th_congressional_district"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Massachusetts%27s_11th_congressional_district"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Massachusetts_s_11th_congressional_district rootpage-Massachusetts_s_11th_congressional_district skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Massachusetts's 11th congressional district</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=11th_congressional_district_of_Massachusetts&amp;redirect=no" class="mw-redirect" title="11th congressional district of Massachusetts">11th congressional district of Massachusetts</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png/220px-1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png" decoding="async" width="220" height="346" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png/330px-1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png/440px-1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png 2x" data-file-width="454" data-file-height="714" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png" class="internal" title="Enlarge"></a></div>Massachusetts's 11th congressional district, 1901</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Massachusetts_congressional_districts_large.pdf" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Massachusetts_congressional_districts_large.pdf/page1-220px-Massachusetts_congressional_districts_large.pdf.jpg" decoding="async" width="220" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Massachusetts_congressional_districts_large.pdf/page1-330px-Massachusetts_congressional_districts_large.pdf.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Massachusetts_congressional_districts_large.pdf/page1-440px-Massachusetts_congressional_districts_large.pdf.jpg 2x" data-file-width="1650" data-file-height="1275" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Massachusetts_congressional_districts_large.pdf" class="internal" title="Enlarge"></a></div>Massachusetts's <b>current</b> districts, since 2013</div></div></div>
+<p><b>Massachusetts Congressional District 11</b> is an <b>obsolete</b> congressional district in eastern <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>.  It was eliminated in 1993 after the <a href="/wiki/United_States_Census,_1990" class="mw-redirect" title="United States Census, 1990">1990 U.S. Census</a>.  Its last <a href="/wiki/Congressman" class="mw-redirect" title="Congressman">Congressman</a> was <a href="/wiki/Brian_J._Donnelly" title="Brian J. Donnelly">Brian Donnelly</a>; its most notable were <a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a> following his term as president, eventual president <a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a> and Speaker of the House <a href="/wiki/Tip_O%27Neill" title="Tip O&#39;Neill">Tip O'Neill</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Cities_and_towns_in_the_district"><span class="tocnumber">1</span> <span class="toctext">Cities and towns in the district</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1790s-1880s"><span class="tocnumber">1.1</span> <span class="toctext">1790s-1880s</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#1890s"><span class="tocnumber">1.2</span> <span class="toctext">1890s</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#1910s-1940s"><span class="tocnumber">1.3</span> <span class="toctext">1910s-1940s</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#1960s-1980s"><span class="tocnumber">1.4</span> <span class="toctext">1960s-1980s</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#List_of_members_representing_the_district"><span class="tocnumber">2</span> <span class="toctext">List of members representing the district</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Cities_and_towns_in_the_district">Cities and towns in the district</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=1" title="Edit section: Cities and towns in the district">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="1790s-1880s">1790s-1880s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=2" title="Edit section: 1790s-1880s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">November 2013</span>)</i></small></div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="1890s">1890s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=3" title="Edit section: 1890s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1893: Suffolk County: Boston, Wards 21, 22. 23, 25. "Middlesex County: City of Newton, towns of Belmont, Holliston, Sherborn, and Water-
+town. Norfolk County: Towns of Bellingham, Brookline, Dedham, Dover, Foxboro, Franklin, Hyde Park, Medfield, Medway, Millis, Needham, Norfolk, Norwood, Sharon, Walpole, and Wrentham. Bristol County: Town of North Attleboro. Worcester County: Towns of Hopedale and Milford."<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1910s-1940s">1910s-1940s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=4" title="Edit section: 1910s-1940s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1916: Suffolk County: Boston Wards 10, 11 (Precincts 3, 4, 5, 6, 7, 8, 9), 12, 18, 19, 21, 22, 23.<sup id="cite_ref-directory1916_2-0" class="reference"><a href="#cite_note-directory1916-2">&#91;2&#93;</a></sup>
+</p><p>1921: Boston (Wards 7, 8, 13, 14, 15, 16, 22, 23).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>1941: Boston (Wards 1, 2, 3, 22), Cambridge, Somerville (Wards 1, 2, 3).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="1960s-1980s">1960s-1980s</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=5" title="Edit section: 1960s-1980s">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>1968: "Norfolk County: City of Quincy. Towns of Avon, Braintree, Canton, Dedham, Holbrook, Milton, Norwood, Randolph, Sharon, Stoughton, and Weymouth. Plymouth County: City of Brockton. Suffolk County: City of Boston: Ward 18."<sup id="cite_ref-directory1968_5-0" class="reference"><a href="#cite_note-directory1968-5">&#91;5&#93;</a></sup>
+</p><p>1977: "Norfolk County: City of Quincy. Towns of Avon, Braintree, Holbrook, Milton, Randolph, and Stoughton. Plymouth County: City of Brockton. Towns of Abington and Whitman. Suffolk County: City of Boston: Wards 15, 16, 17, 18."<sup id="cite_ref-directory1977_6-0" class="reference"><a href="#cite_note-directory1977-6">&#91;6&#93;</a></sup>
+</p><p>1985: "Norfolk County: City of Quincy. Towns of Avon, Braintree, Holbrook, Milton, Randolph, and Weymouth. Plymouth County: City of Brockton. Towns of Abington, East Bridgewater, Rockland, West Bridgewater, and Whitman. Suffolk County: City of Boston: Wards 15, 16, 17, and 18."<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="List_of_members_representing_the_district">List of members representing the district</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=6" title="Edit section: List of members representing the district">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align:center">
+<tbody><tr>
+<th>Representative
+</th>
+<th>Party
+</th>
+<th>Years
+</th>
+<th><a href="/wiki/List_of_United_States_Congresses" title="List of United States Congresses">Cong<br />ress</a>
+</th>
+<th>District home
+</th>
+<th>Electoral history
+</th>
+<th>District location
+</th></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Theophilus_Bradbury" title="Theophilus Bradbury">Theophilus Bradbury</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">March 4, 1795 –<br />July 24, 1797
+</td>
+<td><a href="/wiki/4th_United_States_Congress" title="4th United States Congress">4th</a><br /><a href="/wiki/5th_United_States_Congress" title="5th United States Congress">5th</a>
+</td>
+<td><a href="/wiki/Newburyport,_Massachusetts" title="Newburyport, Massachusetts">Newburyport</a>
+</td>
+<td><a href="/wiki/1794%E2%80%931795_United_States_House_of_Representatives_elections_in_Massachusetts" title="1794–1795 United States House of Representatives elections in Massachusetts">Elected in 1795 on the third ballot</a>.<br /><a href="/wiki/1796%E2%80%931797_United_States_House_of_Representatives_elections_in_Massachusetts" title="1796–1797 United States House of Representatives elections in Massachusetts">Re-elected in 1796</a>.<br />Resigned to become a <a href="/wiki/Massachusetts_Supreme_Court" class="mw-redirect" title="Massachusetts Supreme Court">Massachusetts Supreme Court</a> Justice.
+</td>
+<td rowspan="4"><b>1795 – 1803</b><br />"4th Middle district"
+</td></tr>
+<tr style="height:3em">
+<td colspan="2"><i>Vacant</i>
+</td>
+<td nowrap="">July 25, 1797 –<br />November 26, 1797
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Bailey_Bartlett" title="Bailey Bartlett">Bailey Bartlett</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">November 27, 1797 –<br />March 3, 1801
+</td>
+<td><a href="/wiki/5th_United_States_Congress" title="5th United States Congress">5th</a><br /><a href="/wiki/6th_United_States_Congress" title="6th United States Congress">6th</a>
+</td>
+<td><a href="/wiki/Essex_County,_Massachusetts" title="Essex County, Massachusetts">Essex County</a>
+</td>
+<td><a href="/wiki/1797_Massachusetts%27s_11th_congressional_district_special_election" title="1797 Massachusetts&#39;s 11th congressional district special election">Elected August 4, 1797 to finish Bradbury's term</a> and seated November 27, 1797.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><br /><a href="/wiki/1798%E2%80%931799_United_States_House_of_Representatives_elections_in_Massachusetts" title="1798–1799 United States House of Representatives elections in Massachusetts">Re-elected in 1798</a>.<br />Retired.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:ManassehCutlerPortrait.jpg" class="image"><img alt="ManassehCutlerPortrait.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ManassehCutlerPortrait.jpg/100px-ManassehCutlerPortrait.jpg" decoding="async" width="100" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ManassehCutlerPortrait.jpg/150px-ManassehCutlerPortrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/ManassehCutlerPortrait.jpg/200px-ManassehCutlerPortrait.jpg 2x" data-file-width="1110" data-file-height="1777" /></a><br /><b><a href="/wiki/Manasseh_Cutler" title="Manasseh Cutler">Manasseh Cutler</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">March 4, 1801 –<br />March 3, 1803
+</td>
+<td><a href="/wiki/7th_United_States_Congress" title="7th United States Congress">7th</a>
+</td>
+<td><a href="/wiki/Hamilton,_Massachusetts" title="Hamilton, Massachusetts">Hamilton</a>
+</td>
+<td><a href="/wiki/1800%E2%80%931801_United_States_House_of_Representatives_elections_in_Massachusetts" title="1800–1801 United States House of Representatives elections in Massachusetts">Elected in 1800</a>.<br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts03&#160;!"><a href="/wiki/Massachusetts%27s_3rd_congressional_district" title="Massachusetts&#39;s 3rd congressional district">3rd district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/William_Stedman" title="William Stedman">William Stedman</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">March 4, 1803 –<br />July 16, 1810
+</td>
+<td><a href="/wiki/8th_United_States_Congress" title="8th United States Congress">8th</a><br /><a href="/wiki/9th_United_States_Congress" title="9th United States Congress">9th</a><br /><a href="/wiki/10th_United_States_Congress" title="10th United States Congress">10th</a><br /><a href="/wiki/11th_United_States_Congress" title="11th United States Congress">11th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><a href="/wiki/1802%E2%80%931803_United_States_House_of_Representatives_elections_in_Massachusetts" title="1802–1803 United States House of Representatives elections in Massachusetts">Elected in 1802</a>.<br /><a href="/wiki/1804_United_States_House_of_Representatives_elections_in_Massachusetts" title="1804 United States House of Representatives elections in Massachusetts">Re-elected in 1804</a>.<br /><a href="/wiki/1806_United_States_House_of_Representatives_elections_in_Massachusetts" title="1806 United States House of Representatives elections in Massachusetts">Re-elected in 1806</a>.<br /><a href="/wiki/1808_United_States_House_of_Representatives_elections_in_Massachusetts" title="1808 United States House of Representatives elections in Massachusetts">Re-elected in 1808</a>.<br />Resigned to become Clerk of Courts for <a href="/wiki/Worcester_County,_Massachusetts" title="Worcester County, Massachusetts">Worcester County</a>.
+</td>
+<td rowspan="3"><b>1803 – 1815</b><br />"Worcester North district"
+</td></tr>
+<tr style="height:3em">
+<td colspan="2"><i>Vacant</i>
+</td>
+<td nowrap="">July 16, 1810 –<br />October 8, 1810
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Abijah_Bigelow.jpg" class="image"><img alt="Abijah Bigelow.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Abijah_Bigelow.jpg/100px-Abijah_Bigelow.jpg" decoding="async" width="100" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Abijah_Bigelow.jpg/150px-Abijah_Bigelow.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Abijah_Bigelow.jpg/200px-Abijah_Bigelow.jpg 2x" data-file-width="3523" data-file-height="4000" /></a><br /><b><a href="/wiki/Abijah_Bigelow" title="Abijah Bigelow">Abijah Bigelow</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">October 8, 1810 –<br />March 3, 1815
+</td>
+<td><a href="/wiki/11th_United_States_Congress" title="11th United States Congress">11th</a><br /><a href="/wiki/12th_United_States_Congress" title="12th United States Congress">12th</a><br /><a href="/wiki/13th_United_States_Congress" title="13th United States Congress">13th</a>
+</td>
+<td><a href="/wiki/Leominster,_Massachusetts" title="Leominster, Massachusetts">Leominster</a>
+</td>
+<td><a href="/wiki/1810_Massachusetts%27s_11th_congressional_district_special_election" title="1810 Massachusetts&#39;s 11th congressional district special election">Elected to finish Stedman's term</a>.<br /><a href="/wiki/1810%E2%80%931811_United_States_House_of_Representatives_elections_in_Massachusetts" title="1810–1811 United States House of Representatives elections in Massachusetts">Re-elected in 1810</a>.<br /><a href="/wiki/1812%E2%80%931813_United_States_House_of_Representatives_elections_in_Massachusetts" title="1812–1813 United States House of Representatives elections in Massachusetts">Re-elected in 1812</a>.<br />Redistricted to the <span data-sort-value="Massachusetts12&#160;!"><a href="/wiki/Massachusetts%27s_12th_congressional_district" title="Massachusetts&#39;s 12th congressional district">12th district</a></span> and retired.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Elijah_Brigham.jpg" class="image"><img alt="Elijah Brigham.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Elijah_Brigham.jpg/100px-Elijah_Brigham.jpg" decoding="async" width="100" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Elijah_Brigham.jpg/150px-Elijah_Brigham.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Elijah_Brigham.jpg/200px-Elijah_Brigham.jpg 2x" data-file-width="411" data-file-height="488" /></a><br /><b><a href="/wiki/Elijah_Brigham" title="Elijah Brigham">Elijah Brigham</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">March 4, 1815 –<br />February 22, 1816
+</td>
+<td><a href="/wiki/14th_United_States_Congress" title="14th United States Congress">14th</a>
+</td>
+<td><a href="/wiki/Westborough,_Massachusetts" title="Westborough, Massachusetts">Westborough</a><br />(now <a href="/wiki/Northborough,_Massachusetts" title="Northborough, Massachusetts">Northborough</a>)
+</td>
+<td><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span> and <a href="/wiki/1814%E2%80%931815_United_States_House_of_Representatives_elections_in_Massachusetts" title="1814–1815 United States House of Representatives elections in Massachusetts">re-elected in 1814</a>.<br />Died.
+</td>
+<td rowspan="4"><b>1815 – 1823</b><br />"Worcester South district"
+</td></tr>
+<tr style="height:3em">
+<td colspan="2"><i>Vacant</i>
+</td>
+<td nowrap="">February 22, 1816 –<br />December 1, 1816
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Benjamin_Adams_(politician)" title="Benjamin Adams (politician)">Benjamin Adams</a></b>
+</td>
+<td style="background-color:#F6D6C9"><a href="/wiki/Federalist_Party_(United_States)" class="mw-redirect" title="Federalist Party (United States)">Federalist</a>
+</td>
+<td nowrap="">December 2, 1816 –<br />March 3, 1821
+</td>
+<td><a href="/wiki/14th_United_States_Congress" title="14th United States Congress">14th</a><br /><a href="/wiki/15th_United_States_Congress" title="15th United States Congress">15th</a><br /><a href="/wiki/16th_United_States_Congress" title="16th United States Congress">16th</a>
+</td>
+<td><a href="/wiki/Uxbridge,_Massachusetts" title="Uxbridge, Massachusetts">Uxbridge</a>
+</td>
+<td><a href="/wiki/1816_Massachusetts%27s_11th_congressional_district_special_election" title="1816 Massachusetts&#39;s 11th congressional district special election">Elected August 26, 1816 to finish Brigham's term</a> and seated December 2, 1816.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><br /><a href="/wiki/1816%E2%80%931817_United_States_House_of_Representatives_elections_in_Massachusetts" title="1816–1817 United States House of Representatives elections in Massachusetts">Re-elected in 1816</a>.<br /><a href="/wiki/1818%E2%80%931819_United_States_House_of_Representatives_elections_in_Massachusetts" title="1818–1819 United States House of Representatives elections in Massachusetts">Re-elected in 1818</a>.<br />Lost re-election.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Johnathan_Russell" class="mw-redirect" title="Johnathan Russell">Johnathan Russell</a></b>
+</td>
+<td style="background:#AACC99"><a href="/wiki/Democratic-Republican_Party_(United_States)" class="mw-redirect" title="Democratic-Republican Party (United States)">Democratic-<br />Republican</a>
+</td>
+<td nowrap="">March 4, 1821 –<br />March 3, 1823
+</td>
+<td><a href="/wiki/17th_United_States_Congress" title="17th United States Congress">17th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><a href="/wiki/1820%E2%80%931821_United_States_House_of_Representatives_elections_in_Massachusetts" title="1820–1821 United States House of Representatives elections in Massachusetts">Elected in 1820</a>.<br />Redistricted to the <span data-sort-value="Massachusetts05&#160;!"><a href="/wiki/Massachusetts%27s_5th_congressional_district" title="Massachusetts&#39;s 5th congressional district">5th district</a></span> and retired.
+</td></tr>
+<tr style="height:3em">
+<td align="left" rowspan="2"><b><a href="/wiki/Aaron_Hobart" title="Aaron Hobart">Aaron Hobart</a></b>
+</td>
+<td style="background:#AACC99"><a href="/wiki/Democratic-Republican_Party" title="Democratic-Republican Party">Adams-Clay<br />Democratic-<br />Republican</a>
+</td>
+<td nowrap="">March 4, 1823 –<br />March 3, 1825
+</td>
+<td rowspan="2"><a href="/wiki/18th_United_States_Congress" title="18th United States Congress">18th</a><br /><a href="/wiki/19th_United_States_Congress" title="19th United States Congress">19th</a>
+</td>
+<td rowspan="2"><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td rowspan="2"><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts08&#160;!"><a href="/wiki/Massachusetts%27s_8th_congressional_district" title="Massachusetts&#39;s 8th congressional district">8th district</a></span> and <a href="/wiki/1822%E2%80%931823_United_States_House_of_Representatives_elections_in_Massachusetts" title="1822–1823 United States House of Representatives elections in Massachusetts">re-elected in 1822</a>.<br /><a href="/wiki/1824%E2%80%931825_United_States_House_of_Representatives_elections_in_Massachusetts" title="1824–1825 United States House of Representatives elections in Massachusetts">Re-elected in 1824</a>.<br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td rowspan="4"><b>1823 – 1833</b><br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td style="background:#FFE6B0"><a href="/wiki/Anti-Jacksonian" class="mw-redirect" title="Anti-Jacksonian">Anti-Jacksonian</a>
+</td>
+<td nowrap="">March 4, 1825 –<br />March 3, 1827
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Joseph_Richardson_(US_politician)" class="mw-redirect" title="Joseph Richardson (US politician)">Joseph Richardson</a></b>
+</td>
+<td style="background:#FFE6B0"><a href="/wiki/Anti-Jacksonian" class="mw-redirect" title="Anti-Jacksonian">Anti-Jacksonian</a>
+</td>
+<td>March 4, 1827 –<br />March 3, 1831
+</td>
+<td><a href="/wiki/20th_United_States_Congress" title="20th United States Congress">20th</a><br /><a href="/wiki/21st_United_States_Congress" title="21st United States Congress">21st</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg" class="image"><img alt="John Quincy Adams - copy of 1843 Philip Haas Daguerreotype.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg/100px-John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg" decoding="async" width="100" height="139" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg/150px-John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg/200px-John_Quincy_Adams_-_copy_of_1843_Philip_Haas_Daguerreotype.jpg 2x" data-file-width="3083" data-file-height="4270" /></a><br /><b><a href="/wiki/John_Quincy_Adams" title="John Quincy Adams">John Quincy Adams</a></b>
+</td>
+<td style="background:#FFE6B0"><a href="/wiki/Anti-Jacksonian_Party" class="mw-redirect" title="Anti-Jacksonian Party">Anti-Jacksonian</a>
+</td>
+<td nowrap="">March 4, 1831 –<br />March 3, 1833
+</td>
+<td><a href="/wiki/22nd_United_States_Congress" title="22nd United States Congress">22nd</a>
+</td>
+<td><a href="/wiki/Braintree,_Massachusetts" title="Braintree, Massachusetts">Braintree</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts12&#160;!"><a href="/wiki/Massachusetts%27s_12th_congressional_district" title="Massachusetts&#39;s 12th congressional district">12th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td rowspan="3" align="left"><b><a href="/wiki/John_Reed_Jr." title="John Reed Jr.">John Reed Jr.</a></b>
+</td>
+<td style="background:#FFE6B0"><a href="/wiki/Anti-Jacksonian_Party" class="mw-redirect" title="Anti-Jacksonian Party">Anti-Jacksonian</a>
+</td>
+<td nowrap="">March 4, 1833 –<br />March 3, 1835
+</td>
+<td rowspan="3"><a href="/wiki/23rd_United_States_Congress" title="23rd United States Congress">23rd</a><br /><a href="/wiki/24th_United_States_Congress" title="24th United States Congress">24th</a><br /><a href="/wiki/25th_United_States_Congress" title="25th United States Congress">25th</a><br /><a href="/wiki/26th_United_States_Congress" title="26th United States Congress">26th</a>
+</td>
+<td rowspan="3"><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td rowspan="3"><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td rowspan="4"><b>1833 – 1843</b><br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td style="background:#FFFF99"><a href="/wiki/Anti-Masonic_Party_(United_States)" class="mw-redirect" title="Anti-Masonic Party (United States)">Anti-<br />Masonic</a>
+</td>
+<td nowrap="">March 4, 1835 –<br />March 3, 1837
+</td></tr>
+<tr style="height:3em">
+<td style="background:#F0C862"><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td>
+<td nowrap="">March 4, 1837 –<br />March 3, 1841
+</td></tr>
+<tr style="height:3em">
+<td align="left"><b><a href="/wiki/Barker_Burnell" title="Barker Burnell">Barker Burnell</a></b>
+</td>
+<td style="background:#F0C862"><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td>
+<td nowrap="">March 4, 1841 –<br />March 3, 1843
+</td>
+<td><a href="/wiki/27th_United_States_Congress" title="27th United States Congress">27th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td colspan="2">District eliminated
+</td>
+<td>March 3, 1843
+</td></tr>
+<tr style="height:3em">
+<td colspan="2">District recreated
+</td>
+<td>March 4, 1853
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:JohnZGoodrich.jpg" class="image"><img alt="JohnZGoodrich.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/JohnZGoodrich.jpg/100px-JohnZGoodrich.jpg" decoding="async" width="100" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/JohnZGoodrich.jpg/150px-JohnZGoodrich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/JohnZGoodrich.jpg/200px-JohnZGoodrich.jpg 2x" data-file-width="362" data-file-height="418" /></a><br /><b><a href="/wiki/John_Z._Goodrich" title="John Z. Goodrich">John Z. Goodrich</a></b>
+</td>
+<td style="background:#F0C862"><a href="/wiki/Whig_Party_(United_States)" title="Whig Party (United States)">Whig</a>
+</td>
+<td nowrap="">March 4, 1853 –<br />March 3, 1855
+</td>
+<td><a href="/wiki/33rd_United_States_Congress" title="33rd United States Congress">33rd</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts07&#160;!"><a href="/wiki/Massachusetts%27s_7th_congressional_district" title="Massachusetts&#39;s 7th congressional district">7th district</a></span>.<br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Mark_Trafton.jpg" class="image"><img alt="Mark Trafton.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mark_Trafton.jpg/100px-Mark_Trafton.jpg" decoding="async" width="100" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mark_Trafton.jpg/150px-Mark_Trafton.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mark_Trafton.jpg/200px-Mark_Trafton.jpg 2x" data-file-width="471" data-file-height="505" /></a><br /><b><a href="/wiki/Mark_Trafton" title="Mark Trafton">Mark Trafton</a></b>
+</td>
+<td style="background:#D99FE8"><a href="/wiki/Know_Nothing" title="Know Nothing">Know Nothing</a>
+</td>
+<td nowrap="">March 4, 1855 –<br />March 3, 1857
+</td>
+<td><a href="/wiki/34th_United_States_Congress" title="34th United States Congress">34th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:HLDawes.jpg" class="image"><img alt="HLDawes.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/100px-HLDawes.jpg" decoding="async" width="100" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/150px-HLDawes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/200px-HLDawes.jpg 2x" data-file-width="617" data-file-height="671" /></a><br /><b><a href="/wiki/Henry_L._Dawes" title="Henry L. Dawes">Henry L. Dawes</a><sup id="cite_ref-directory1861_10-0" class="reference"><a href="#cite_note-directory1861-10">&#91;10&#93;</a></sup></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1857 –<br />March 3, 1863
+</td>
+<td><a href="/wiki/35th_United_States_Congress" title="35th United States Congress">35th</a><br /><a href="/wiki/36th_United_States_Congress" title="36th United States Congress">36th</a><br /><a href="/wiki/37th_United_States_Congress" title="37th United States Congress">37th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td colspan="2">District eliminated
+</td>
+<td>1863
+</td>
+<td>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td colspan="2">District recreated
+</td>
+<td>1873
+</td>
+<td>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:HLDawes.jpg" class="image"><img alt="HLDawes.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/100px-HLDawes.jpg" decoding="async" width="100" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/150px-HLDawes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/HLDawes.jpg/200px-HLDawes.jpg 2x" data-file-width="617" data-file-height="671" /></a><br /><b><a href="/wiki/Henry_L._Dawes" title="Henry L. Dawes">Henry L. Dawes</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1873 –<br />March 3, 1875
+</td>
+<td><a href="/wiki/43rd_United_States_Congress" title="43rd United States Congress">43rd</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span>.<br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:CWChapin.jpg" class="image"><img alt="CWChapin.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/CWChapin.jpg/100px-CWChapin.jpg" decoding="async" width="100" height="127" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/CWChapin.jpg/150px-CWChapin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/CWChapin.jpg/200px-CWChapin.jpg 2x" data-file-width="606" data-file-height="771" /></a><br /><b><a href="/wiki/Chester_W._Chapin" title="Chester W. Chapin">Chester W. Chapin</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">March 4, 1875 –<br />March 3, 1877
+</td>
+<td><a href="/wiki/44th_United_States_Congress" title="44th United States Congress">44th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:GovGeorgeDRobinson.jpg" class="image"><img alt="GovGeorgeDRobinson.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/GovGeorgeDRobinson.jpg/100px-GovGeorgeDRobinson.jpg" decoding="async" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/c/cd/GovGeorgeDRobinson.jpg 1.5x" data-file-width="150" data-file-height="200" /></a><br /><b><a href="/wiki/George_D._Robinson" title="George D. Robinson">George D. Robinson</a><sup id="cite_ref-directory1878_11-0" class="reference"><a href="#cite_note-directory1878-11">&#91;11&#93;</a></sup><sup id="cite_ref-directory1882_12-0" class="reference"><a href="#cite_note-directory1882-12">&#91;12&#93;</a></sup></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1877 –<br />March 3, 1883
+</td>
+<td><a href="/wiki/45th_United_States_Congress" title="45th United States Congress">45th</a><br /><a href="/wiki/46th_United_States_Congress" title="46th United States Congress">46th</a><br /><a href="/wiki/47th_United_States_Congress" title="47th United States Congress">47th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts12&#160;!"><a href="/wiki/Massachusetts%27s_12th_congressional_district" title="Massachusetts&#39;s 12th congressional district">12th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:William_Whiting_II.png" class="image"><img alt="William Whiting II.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/William_Whiting_II.png/100px-William_Whiting_II.png" decoding="async" width="100" height="119" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/William_Whiting_II.png/150px-William_Whiting_II.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/William_Whiting_II.png/200px-William_Whiting_II.png 2x" data-file-width="2110" data-file-height="2519" /></a><br /><b><a href="/wiki/William_Whiting_II_(politician)" class="mw-redirect" title="William Whiting II (politician)">William Whiting</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1883 –<br />March 3, 1889
+</td>
+<td><a href="/wiki/48th_United_States_Congress" title="48th United States Congress">48th</a><br /><a href="/wiki/49th_United_States_Congress" title="49th United States Congress">49th</a><br /><a href="/wiki/50th_United_States_Congress" title="50th United States Congress">50th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Rodney_Wallace_(politician)_picture.png" class="image"><img alt="Rodney Wallace (politician) picture.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rodney_Wallace_%28politician%29_picture.png/100px-Rodney_Wallace_%28politician%29_picture.png" decoding="async" width="100" height="116" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rodney_Wallace_%28politician%29_picture.png/150px-Rodney_Wallace_%28politician%29_picture.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rodney_Wallace_%28politician%29_picture.png/200px-Rodney_Wallace_%28politician%29_picture.png 2x" data-file-width="299" data-file-height="346" /></a><br /><b><a href="/wiki/Rodney_Wallace_(politician)" class="mw-redirect" title="Rodney Wallace (politician)">Rodney Wallace</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1889 –<br />March 3, 1891
+</td>
+<td><a href="/wiki/51st_United_States_Congress" title="51st United States Congress">51st</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Frederick_S._Coolidge.png" class="image"><img alt="Frederick S. Coolidge.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Frederick_S._Coolidge.png/100px-Frederick_S._Coolidge.png" decoding="async" width="100" height="145" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Frederick_S._Coolidge.png/150px-Frederick_S._Coolidge.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Frederick_S._Coolidge.png/200px-Frederick_S._Coolidge.png 2x" data-file-width="229" data-file-height="331" /></a><br /><b><a href="/wiki/Frederick_S._Coolidge" title="Frederick S. Coolidge">Frederick S. Coolidge</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">March 4, 1891 –<br />March 3, 1893
+</td>
+<td><a href="/wiki/52nd_United_States_Congress" title="52nd United States Congress">52nd</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:William_Franklin_Draper_(April_9,_1842_-_January_28,_1910).png" class="image"><img alt="William Franklin Draper (April 9, 1842 - January 28, 1910).png" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png/100px-William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png" decoding="async" width="100" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png/150px-William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png/200px-William_Franklin_Draper_%28April_9%2C_1842_-_January_28%2C_1910%29.png 2x" data-file-width="423" data-file-height="631" /></a><br /><b><a href="/wiki/William_Franklin_Draper_(politician)" title="William Franklin Draper (politician)">William F. Draper</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1893 –<br />March 3, 1897
+</td>
+<td><a href="/wiki/53rd_United_States_Congress" title="53rd United States Congress">53rd</a><br /><a href="/wiki/54th_United_States_Congress" title="54th United States Congress">54th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Charles_F._Sprague.png" class="image"><img alt="Charles F. Sprague.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Charles_F._Sprague.png/100px-Charles_F._Sprague.png" decoding="async" width="100" height="107" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Charles_F._Sprague.png/150px-Charles_F._Sprague.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Charles_F._Sprague.png/200px-Charles_F._Sprague.png 2x" data-file-width="569" data-file-height="608" /></a><br /><b><a href="/wiki/Charles_F._Sprague" title="Charles F. Sprague">Charles F. Sprague</a><sup id="cite_ref-directory1897_13-0" class="reference"><a href="#cite_note-directory1897-13">&#91;13&#93;</a></sup></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1897 –<br />March 3, 1901
+</td>
+<td><a href="/wiki/55th_United_States_Congress" title="55th United States Congress">55th</a><br /><a href="/wiki/56th_United_States_Congress" title="56th United States Congress">56th</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Samuel_Leland_Powers.png" class="image"><img alt="Samuel Leland Powers.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Samuel_Leland_Powers.png/100px-Samuel_Leland_Powers.png" decoding="async" width="100" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Samuel_Leland_Powers.png/150px-Samuel_Leland_Powers.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Samuel_Leland_Powers.png/200px-Samuel_Leland_Powers.png 2x" data-file-width="322" data-file-height="403" /></a><br /><b><a href="/wiki/Samuel_L._Powers" title="Samuel L. Powers">Samuel L. Powers</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1901 –<br />March 3, 1903
+</td>
+<td><a href="/wiki/57th_United_States_Congress" title="57th United States Congress">57th</a>
+</td>
+<td><a href="/wiki/Newton,_Massachusetts" title="Newton, Massachusetts">Newton</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts12&#160;!"><a href="/wiki/Massachusetts%27s_12th_congressional_district" title="Massachusetts&#39;s 12th congressional district">12th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:John_Andrew_Sullivan.jpg" class="image"><img alt="John Andrew Sullivan.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/John_Andrew_Sullivan.jpg/100px-John_Andrew_Sullivan.jpg" decoding="async" width="100" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/John_Andrew_Sullivan.jpg/150px-John_Andrew_Sullivan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/John_Andrew_Sullivan.jpg/200px-John_Andrew_Sullivan.jpg 2x" data-file-width="832" data-file-height="1392" /></a><br /><b><a href="/wiki/John_Andrew_Sullivan" title="John Andrew Sullivan">John Andrew Sullivan</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">March 4, 1903 –<br />March 3, 1907
+</td>
+<td><a href="/wiki/58th_United_States_Congress" title="58th United States Congress">58th</a><br /><a href="/wiki/59th_United_States_Congress" title="59th United States Congress">59th</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Andrew_James_Peters_42nd_Mayor_of_Boston.png" class="image"><img alt="Andrew James Peters 42nd Mayor of Boston.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Andrew_James_Peters_42nd_Mayor_of_Boston.png/100px-Andrew_James_Peters_42nd_Mayor_of_Boston.png" decoding="async" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Andrew_James_Peters_42nd_Mayor_of_Boston.png/150px-Andrew_James_Peters_42nd_Mayor_of_Boston.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Andrew_James_Peters_42nd_Mayor_of_Boston.png/200px-Andrew_James_Peters_42nd_Mayor_of_Boston.png 2x" data-file-width="457" data-file-height="610" /></a><br /><b><a href="/wiki/Andrew_J._Peters" class="mw-redirect" title="Andrew J. Peters">Andrew J. Peters</a><sup id="cite_ref-directory1909_14-0" class="reference"><a href="#cite_note-directory1909-14">&#91;14&#93;</a></sup></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">March 4, 1907 –<br />August 15, 1914
+</td>
+<td><a href="/wiki/60th_United_States_Congress" title="60th United States Congress">60th</a><br /><a href="/wiki/61st_United_States_Congress" title="61st United States Congress">61st</a><br /><a href="/wiki/62nd_United_States_Congress" title="62nd United States Congress">62nd</a><br /><a href="/wiki/63rd_United_States_Congress" title="63rd United States Congress">63rd</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Resigned to become Asst. Secretary to the <a href="/wiki/United_States_Treasury_Department" class="mw-redirect" title="United States Treasury Department">US Treasury Department</a>.
+</td></tr>
+<tr style="height:3em">
+<td colspan="2"><i>Vacant</i>
+</td>
+<td nowrap="">August 15, 1914 –<br />March 3, 1915
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:George_H._Tinkham.jpg" class="image"><img alt="George H. Tinkham.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/George_H._Tinkham.jpg/100px-George_H._Tinkham.jpg" decoding="async" width="100" height="146" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/George_H._Tinkham.jpg/150px-George_H._Tinkham.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/George_H._Tinkham.jpg/200px-George_H._Tinkham.jpg 2x" data-file-width="342" data-file-height="500" /></a><br /><b><a href="/wiki/George_H._Tinkham" title="George H. Tinkham">George H. Tinkham</a></b>
+</td>
+<td style="background:#FFB6B6"><a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican</a>
+</td>
+<td nowrap="">March 4, 1915 –<br />March 3, 1933
+</td>
+<td><a href="/wiki/64th_United_States_Congress" title="64th United States Congress">64th</a><br /><a href="/wiki/65th_United_States_Congress" title="65th United States Congress">65th</a><br /><a href="/wiki/66th_United_States_Congress" title="66th United States Congress">66th</a><br /><a href="/wiki/67th_United_States_Congress" title="67th United States Congress">67th</a><br /><a href="/wiki/68th_United_States_Congress" title="68th United States Congress">68th</a><br /><a href="/wiki/69th_United_States_Congress" title="69th United States Congress">69th</a><br /><a href="/wiki/70th_United_States_Congress" title="70th United States Congress">70th</a><br /><a href="/wiki/71st_United_States_Congress" title="71st United States Congress">71st</a><br /><a href="/wiki/72nd_United_States_Congress" title="72nd United States Congress">72nd</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:John_Joseph_Douglass.png" class="image"><img alt="John Joseph Douglass.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Joseph_Douglass.png/100px-John_Joseph_Douglass.png" decoding="async" width="100" height="113" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Joseph_Douglass.png/150px-John_Joseph_Douglass.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/John_Joseph_Douglass.png/200px-John_Joseph_Douglass.png 2x" data-file-width="231" data-file-height="261" /></a><br /><b><a href="/wiki/John_J._Douglass" title="John J. Douglass">John J. Douglass</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">March 4, 1933 –<br />January 3, 1935
+</td>
+<td><a href="/wiki/73rd_United_States_Congress" title="73rd United States Congress">73rd</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th district</a></span>.<br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><br /><b><a href="/wiki/John_P._Higgins" class="mw-redirect" title="John P. Higgins">John P. Higgins</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1935 –<br />September 30, 1937
+</td>
+<td><a href="/wiki/74th_United_States_Congress" title="74th United States Congress">74th</a><br /><a href="/wiki/75th_United_States_Congress" title="75th United States Congress">75th</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Resigned to become <a href="/wiki/Chief_justice" title="Chief justice">chief justice</a> of Superior Court of Massachusetts.
+</td></tr>
+<tr style="height:3em">
+<td colspan="2"><i>Vacant</i>
+</td>
+<td nowrap="">September 30, 1937 –<br />December 14, 1937
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:ThomasAFlaherty.jpg" class="image"><img alt="ThomasAFlaherty.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/ThomasAFlaherty.jpg/100px-ThomasAFlaherty.jpg" decoding="async" width="100" height="125" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/ThomasAFlaherty.jpg/150px-ThomasAFlaherty.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/ThomasAFlaherty.jpg/200px-ThomasAFlaherty.jpg 2x" data-file-width="1496" data-file-height="1870" /></a><br /><b><a href="/wiki/Thomas_A._Flaherty" title="Thomas A. Flaherty">Thomas A. Flaherty</a><sup id="cite_ref-directory1938_15-0" class="reference"><a href="#cite_note-directory1938-15">&#91;15&#93;</a></sup></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">December 14, 1937 –<br />January 3, 1943
+</td>
+<td><a href="/wiki/75th_United_States_Congress" title="75th United States Congress">75th</a><br /><a href="/wiki/76th_United_States_Congress" title="76th United States Congress">76th</a><br /><a href="/wiki/77th_United_States_Congress" title="77th United States Congress">77th</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Retired.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:James_Michael_Curley.jpg" class="image"><img alt="James Michael Curley.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Michael_Curley.jpg/100px-James_Michael_Curley.jpg" decoding="async" width="100" height="123" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Michael_Curley.jpg/150px-James_Michael_Curley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/James_Michael_Curley.jpg/200px-James_Michael_Curley.jpg 2x" data-file-width="792" data-file-height="976" /></a><br /><b><a href="/wiki/James_Michael_Curley" title="James Michael Curley">James Michael Curley</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1943 –<br />January 3, 1947
+</td>
+<td><a href="/wiki/78th_United_States_Congress" title="78th United States Congress">78th</a><br /><a href="/wiki/79th_United_States_Congress" title="79th United States Congress">79th</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Retired.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg" class="image"><img alt="John F. Kennedy, White House color photo portrait.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/100px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg" decoding="async" width="100" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/150px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/200px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg 2x" data-file-width="1419" data-file-height="1840" /></a><br /><b><a href="/wiki/John_F._Kennedy" title="John F. Kennedy">John F. Kennedy</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1947 –<br />January 3, 1953
+</td>
+<td><a href="/wiki/80th_United_States_Congress" title="80th United States Congress">80th</a><br /><a href="/wiki/81st_United_States_Congress" title="81st United States Congress">81st</a><br /><a href="/wiki/82nd_United_States_Congress" title="82nd United States Congress">82nd</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Retired to <a href="/wiki/1952_United_States_Senate_election_in_Massachusetts" title="1952 United States Senate election in Massachusetts">run for U.S. Senator</a>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Tip_O%27Neill_1978_(retouched).jpg" class="image"><img alt="Tip O&#39;Neill 1978 (retouched).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tip_O%27Neill_1978_%28retouched%29.jpg/100px-Tip_O%27Neill_1978_%28retouched%29.jpg" decoding="async" width="100" height="133" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tip_O%27Neill_1978_%28retouched%29.jpg/150px-Tip_O%27Neill_1978_%28retouched%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Tip_O%27Neill_1978_%28retouched%29.jpg/200px-Tip_O%27Neill_1978_%28retouched%29.jpg 2x" data-file-width="1664" data-file-height="2220" /></a><br /><b><a href="/wiki/Tip_O%27Neill" title="Tip O&#39;Neill">Tip O'Neill</a></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1953 –<br />January 3, 1963
+</td>
+<td><a href="/wiki/83rd_United_States_Congress" title="83rd United States Congress">83rd</a><br /><a href="/wiki/84th_United_States_Congress" title="84th United States Congress">84th</a><br /><a href="/wiki/85th_United_States_Congress" title="85th United States Congress">85th</a><br /><a href="/wiki/86th_United_States_Congress" title="86th United States Congress">86th</a><br /><a href="/wiki/87th_United_States_Congress" title="87th United States Congress">87th</a>
+</td>
+<td><a href="/wiki/Cambridge,_Massachusetts" title="Cambridge, Massachusetts">Cambridge</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br /><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> to the <span data-sort-value="Massachusetts08&#160;!"><a href="/wiki/Massachusetts%27s_8th_congressional_district" title="Massachusetts&#39;s 8th congressional district">8th district</a></span>.
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:James_A._Burke.jpg" class="image"><img alt="James A. Burke.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/James_A._Burke.jpg/100px-James_A._Burke.jpg" decoding="async" width="100" height="114" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/James_A._Burke.jpg/150px-James_A._Burke.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/James_A._Burke.jpg/200px-James_A._Burke.jpg 2x" data-file-width="435" data-file-height="495" /></a><br /><b><a href="/wiki/James_A._Burke_(Massachusetts_politician)" title="James A. Burke (Massachusetts politician)">James A. Burke</a><sup id="cite_ref-directory1968_5-1" class="reference"><a href="#cite_note-directory1968-5">&#91;5&#93;</a></sup></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1963 –<br />January 3, 1979
+</td>
+<td><a href="/wiki/88th_United_States_Congress" title="88th United States Congress">88th</a><br /><a href="/wiki/89th_United_States_Congress" title="89th United States Congress">89th</a><br /><a href="/wiki/90th_United_States_Congress" title="90th United States Congress">90th</a><br /><a href="/wiki/91st_United_States_Congress" title="91st United States Congress">91st</a><br /><a href="/wiki/92nd_United_States_Congress" title="92nd United States Congress">92nd</a><br /><a href="/wiki/93rd_United_States_Congress" title="93rd United States Congress">93rd</a><br /><a href="/wiki/94th_United_States_Congress" title="94th United States Congress">94th</a><br /><a href="/wiki/95th_United_States_Congress" title="95th United States Congress">95th</a>
+</td>
+<td><a href="/wiki/Milton,_Massachusetts" title="Milton, Massachusetts">Milton</a>
+</td>
+<td><a href="/wiki/Redistricting" title="Redistricting">Redistricted</a> from the <span data-sort-value="Massachusetts13&#160;!"><a href="/wiki/Massachusetts%27s_13th_congressional_district" title="Massachusetts&#39;s 13th congressional district">13th district</a></span>.<br /><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span>
+</td></tr>
+<tr style="height:3em">
+<td align="left"><a href="/wiki/File:Brian_J._Donnelly.jpg" class="image"><img alt="Brian J. Donnelly.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brian_J._Donnelly.jpg/100px-Brian_J._Donnelly.jpg" decoding="async" width="100" height="115" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brian_J._Donnelly.jpg/150px-Brian_J._Donnelly.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Brian_J._Donnelly.jpg/200px-Brian_J._Donnelly.jpg 2x" data-file-width="404" data-file-height="463" /></a><br /><b><a href="/wiki/Brian_J._Donnelly" title="Brian J. Donnelly">Brian J. Donnelly</a><sup id="cite_ref-directory1991_16-0" class="reference"><a href="#cite_note-directory1991-16">&#91;16&#93;</a></sup></b>
+</td>
+<td style="background:#B0CEFF"><a href="/wiki/Democratic_Party_(United_States)" title="Democratic Party (United States)">Democratic</a>
+</td>
+<td nowrap="">January 3, 1979 –<br />January 3, 1993
+</td>
+<td><a href="/wiki/96th_United_States_Congress" title="96th United States Congress">96th</a><br /><a href="/wiki/97th_United_States_Congress" title="97th United States Congress">97th</a><br /><a href="/wiki/98th_United_States_Congress" title="98th United States Congress">98th</a><br /><a href="/wiki/99th_United_States_Congress" title="99th United States Congress">99th</a><br /><a href="/wiki/100th_United_States_Congress" title="100th United States Congress">100th</a><br /><a href="/wiki/101st_United_States_Congress" title="101st United States Congress">101st</a><br /><a href="/wiki/102nd_United_States_Congress" title="102nd United States Congress">102nd</a>
+</td>
+<td><a href="/wiki/Boston,_Massachusetts" class="mw-redirect" title="Boston, Massachusetts">Boston</a>
+</td>
+<td><span class="plainlinks"><span style="font-size:85%;"><i>[Data unknown/missing.]</i></span></span><br />Retired.
+</td></tr>
+<tr style="height:3em">
+<td colspan="2">District eliminated
+</td>
+<td>January 3, 1993
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Francis M. Cox (1893). <a rel="nofollow" class="external text" href="http://hdl.handle.net/2027/mdp.39015022758133?urlappend=%3Bseq=60">"Massachusetts"</a>. <i>Official Congressional Directory: Fifty-Third Congress</i> (2nd ed.). Washington DC: Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Official+Congressional+Directory%3A+Fifty-Third+Congress&amp;rft.place=Washington+DC&amp;rft.edition=2nd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1893&amp;rft.au=Francis+M.+Cox&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fmdp.39015022758133%3Furlappend%3D%253Bseq%3D60&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-directory1916-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1916_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://hdl.handle.net/2027/uc1.l0075858456?urlappend=%3Bseq=62">"Massachusetts"</a>. <i>Official Congressional Directory: 64th Congress</i> (2nd ed.). Washington DC: Government Printing Office. 1916.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Official+Congressional+Directory%3A+64th+Congress&amp;rft.place=Washington+DC&amp;rft.edition=2nd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1916&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fuc1.l0075858456%3Furlappend%3D%253Bseq%3D62&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFCommonwealth_of_Massachusetts1921" class="citation">Commonwealth of Massachusetts (1921), <a rel="nofollow" class="external text" href="http://hdl.handle.net/2027/nnc1.cu56182970?urlappend=%3Bseq=35">"Population of Congressional Districts"</a>, <i>Population of Massachusetts as determined by the fourteenth census of the United States 1920</i>, Boston: Wright &amp; Potter</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Population+of+Congressional+Districts&amp;rft.btitle=Population+of+Massachusetts+as+determined+by+the+fourteenth+census+of+the+United+States+1920&amp;rft.place=Boston&amp;rft.pub=Wright+%26+Potter&amp;rft.date=1921&amp;rft.au=Commonwealth+of+Massachusetts&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fnnc1.cu56182970%3Furlappend%3D%253Bseq%3D35&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFCommonwealth_of_Massachusetts1941" class="citation">Commonwealth of Massachusetts (1941), <a rel="nofollow" class="external text" href="https://archive.org/stream/populationofmass1940mass#page/35/mode/1up">"Population of Congressional Districts"</a>, <i>Population of Massachusetts as determined by the sixteenth census of the United States, 1940</i>, Boston: Wright &amp; Potter, <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/10056477">10056477</a>, <q>House No. 2849</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Population+of+Congressional+Districts&amp;rft.btitle=Population+of+Massachusetts+as+determined+by+the+sixteenth+census+of+the+United+States%2C+1940&amp;rft.place=Boston&amp;rft.pub=Wright+%26+Potter&amp;rft.date=1941&amp;rft_id=info%3Aoclcnum%2F10056477&amp;rft.au=Commonwealth+of+Massachusetts&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fpopulationofmass1940mass%23page%2F35%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1968-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-directory1968_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-directory1968_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongress00wash#page/74/mode/2up">"Massachusetts"</a>. <i>Official Congressional Directory: 90th Congress</i>. Washington DC: Government Printing Office. 1968.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Official+Congressional+Directory%3A+90th+Congress&amp;rft.place=Washington+DC&amp;rft.pub=Government+Printing+Office&amp;rft.date=1968&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongress00wash%23page%2F74%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1977-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1977_6-0">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://hdl.handle.net/2027/uc1.31158002391372?urlappend=%3Bseq=117">"Massachusetts"</a>, <i>1977 Official Congressional Directory: 95th Congress</i>, Washington DC: U.S. Government Printing Office, 1977</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=1977+Official+Congressional+Directory%3A+95th+Congress&amp;rft.place=Washington+DC&amp;rft.pub=U.S.+Government+Printing+Office&amp;rft.date=1977&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fuc1.31158002391372%3Furlappend%3D%253Bseq%3D117&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="http://hdl.handle.net/2027/uc1.31158013115752?urlappend=%3Bseq=124">"Massachusetts"</a>. <i>1985-1986 Official Congressional Directory: 99th Congress</i>. Washington DC: Government Printing Office. 1985.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=1985-1986+Official+Congressional+Directory%3A+99th+Congress&amp;rft.place=Washington+DC&amp;rft.pub=Government+Printing+Office&amp;rft.date=1985&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2027%2Fuc1.31158013115752%3Furlappend%3D%253Bseq%3D124&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://historycms2.house.gov/WorkArea/DownloadAsset.aspx?id=40191">"Forth Congress March 4, 1797, to March 3, 1799"</a>. Office of the Historian, United States House of Representatives<span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2019</span> &#8211; via History.house.gov.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Forth+Congress+March+4%2C+1797%2C+to+March+3%2C+1799&amp;rft.pub=Office+of+the+Historian%2C+United+States+House+of+Representatives&amp;rft_id=https%3A%2F%2Fhistorycms2.house.gov%2FWorkArea%2FDownloadAsset.aspx%3Fid%3D40191&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://historycms2.house.gov/WorkArea/DownloadAsset.aspx?id=40204">"Fourteenth Congress March 4, 1815 to March 3, 1817"</a>. Office of the Historian, United States House of Representatives<span class="reference-accessdate">. Retrieved <span class="nowrap">January 11,</span> 2019</span> &#8211; via History.house.gov.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fourteenth+Congress+March+4%2C+1815+to+March+3%2C+1817&amp;rft.pub=Office+of+the+Historian%2C+United+States+House+of+Representatives&amp;rft_id=https%3A%2F%2Fhistorycms2.house.gov%2FWorkArea%2FDownloadAsset.aspx%3Fid%3D40204&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1861-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1861_10-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://archive.org/stream/congressionaldirunit#page/10/mode/1up">"Massachusetts"</a>. <i>Congressional Directory for the Second Session of the Thirty-Seventh Congress</i>. Washington DC: House of Representatives. 1861.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Congressional+Directory+for+the+Second+Session+of+the+Thirty-Seventh+Congress&amp;rft.place=Washington+DC&amp;rft.pub=House+of+Representatives&amp;rft.date=1861&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fcongressionaldirunit%23page%2F10%2Fmode%2F1up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1878-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1878_11-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ben. Perley Poore (1878). <a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongres02conggoog#page/n40/mode/2up">"Massachusetts"</a>. <i>Congressional Directory: 45th Congress</i> (3rd ed.). Washington DC: Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Congressional+Directory%3A+45th+Congress&amp;rft.place=Washington+DC&amp;rft.edition=3rd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1878&amp;rft.au=Ben.+Perley+Poore&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongres02conggoog%23page%2Fn40%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1882-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1882_12-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Ben. Perley Poore (1882). <a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongres07pringoog#page/n46/mode/2up">"Massachusetts"</a>. <i>Congressional Directory: 47th Congress</i> (3rd ed.). Washington DC: Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Congressional+Directory%3A+47th+Congress&amp;rft.place=Washington+DC&amp;rft.edition=3rd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1882&amp;rft.au=Ben.+Perley+Poore&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongres07pringoog%23page%2Fn46%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1897-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1897_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">L.A. Coolidge (1897). <a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongres08pringoog#page/n74/mode/2up">"Massachusetts"</a>. <i>Official Congressional Directory: Fifty-Fifth Congress</i>. Washington DC: Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Official+Congressional+Directory%3A+Fifty-Fifth+Congress&amp;rft.place=Washington+DC&amp;rft.pub=Government+Printing+Office&amp;rft.date=1897&amp;rft.au=L.A.+Coolidge&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongres08pringoog%23page%2Fn74%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1909-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1909_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book">A.J. Halford (1909). <a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongres03hgoog#page/n94/mode/2up">"Massachusetts"</a>. <i>Congressional Directory: 60th Congress</i> (2nd ed.). Washington DC: Government Printing Office.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Congressional+Directory%3A+60th+Congress&amp;rft.place=Washington+DC&amp;rft.edition=2nd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1909&amp;rft.au=A.J.+Halford&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongres03hgoog%23page%2Fn94%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1938-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1938_15-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://archive.org/stream/officialcongres00unit#page/46/mode/2up">"Massachusetts"</a>. <i>Official Congressional Directory: 75th Congress</i> (2nd ed.). Washington DC: Government Printing Office. 1938.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=Official+Congressional+Directory%3A+75th+Congress&amp;rft.place=Washington+DC&amp;rft.edition=2nd&amp;rft.pub=Government+Printing+Office&amp;rft.date=1938&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fofficialcongres00unit%23page%2F46%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-directory1991-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-directory1991_16-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://archive.org/stream/19911992official014340mbp#page/n171/mode/2up">"Massachusetts"</a>. <i>1991-1992 Official Congressional Directory: 102nd Congress</i>. Washington DC: Government Printing Office. 1991.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Massachusetts&amp;rft.btitle=1991-1992+Official+Congressional+Directory%3A+102nd+Congress&amp;rft.place=Washington+DC&amp;rft.pub=Government+Printing+Office&amp;rft.date=1991&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2F19911992official014340mbp%23page%2Fn171%2Fmode%2F2up&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<ul><li><cite class="citation book">Martis, Kenneth C. (1989). <i>The Historical Atlas of Political Parties in the United States Congress</i>. New York: Macmillan Publishing Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Historical+Atlas+of+Political+Parties+in+the+United+States+Congress&amp;rft.place=New+York&amp;rft.pub=Macmillan+Publishing+Company&amp;rft.date=1989&amp;rft.aulast=Martis&amp;rft.aufirst=Kenneth+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Martis, Kenneth C. (1982). <i>The Historical Atlas of United States Congressional Districts</i>. New York: Macmillan Publishing Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Historical+Atlas+of+United+States+Congressional+Districts&amp;rft.place=New+York&amp;rft.pub=Macmillan+Publishing+Company&amp;rft.date=1982&amp;rft.aulast=Martis&amp;rft.aufirst=Kenneth+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMassachusetts%27s+11th+congressional+district" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100423082228/http://bioguide.congress.gov/biosearch/biosearch.asp">Congressional Biographical Directory of the United States 1774–present</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Massachusetts%27s_11th_congressional_district" class="extiw" title="commons:Category:Massachusetts&#39;s 11th congressional district">Massachusetts's 11th congressional district</a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Massachusetts&amp;#039;s_congressional_districts" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:USCongDistStateMA" title="Template:USCongDistStateMA"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:USCongDistStateMA" title="Template talk:USCongDistStateMA"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:USCongDistStateMA&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Massachusetts&amp;#039;s_congressional_districts" style="font-size:114%;margin:0 4em"><a href="/wiki/Massachusetts%27s_congressional_districts" title="Massachusetts&#39;s congressional districts">Massachusetts's congressional districts</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><div class="wrap"> 
+<dl><dt><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">Current districts</span></dt>
+<dd><span data-sort-value="Massachusetts01&#160;!"><a href="/wiki/Massachusetts%27s_1st_congressional_district" title="Massachusetts&#39;s 1st congressional district">1st</a></span></dd>
+<dd><span data-sort-value="Massachusetts02&#160;!"><a href="/wiki/Massachusetts%27s_2nd_congressional_district" title="Massachusetts&#39;s 2nd congressional district">2nd</a></span></dd>
+<dd><span data-sort-value="Massachusetts03&#160;!"><a href="/wiki/Massachusetts%27s_3rd_congressional_district" title="Massachusetts&#39;s 3rd congressional district">3rd</a></span></dd>
+<dd><span data-sort-value="Massachusetts04&#160;!"><a href="/wiki/Massachusetts%27s_4th_congressional_district" title="Massachusetts&#39;s 4th congressional district">4th</a></span></dd>
+<dd><span data-sort-value="Massachusetts05&#160;!"><a href="/wiki/Massachusetts%27s_5th_congressional_district" title="Massachusetts&#39;s 5th congressional district">5th</a></span></dd>
+<dd><span data-sort-value="Massachusetts06&#160;!"><a href="/wiki/Massachusetts%27s_6th_congressional_district" title="Massachusetts&#39;s 6th congressional district">6th</a></span></dd>
+<dd><span data-sort-value="Massachusetts07&#160;!"><a href="/wiki/Massachusetts%27s_7th_congressional_district" title="Massachusetts&#39;s 7th congressional district">7th</a></span></dd>
+<dd><span data-sort-value="Massachusetts08&#160;!"><a href="/wiki/Massachusetts%27s_8th_congressional_district" title="Massachusetts&#39;s 8th congressional district">8th</a></span></dd>
+<dd><span data-sort-value="Massachusetts09&#160;!"><a href="/wiki/Massachusetts%27s_9th_congressional_district" title="Massachusetts&#39;s 9th congressional district">9th</a></span></dd></dl>
+</div>
+<div class="wrap"> 
+<dl><dt><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"/><span class="nobold">All districts</span></dt>
+<dd><span data-sort-value="MassachusettsAL&#160;!"><a href="/wiki/Massachusetts%27s_at-large_congressional_seat" title="Massachusetts&#39;s at-large congressional seat">At-large</a></span></dd>
+<dd><span data-sort-value="Massachusetts01&#160;!"><a href="/wiki/Massachusetts%27s_1st_congressional_district" title="Massachusetts&#39;s 1st congressional district">1st</a></span></dd>
+<dd><span data-sort-value="Massachusetts02&#160;!"><a href="/wiki/Massachusetts%27s_2nd_congressional_district" title="Massachusetts&#39;s 2nd congressional district">2nd</a></span></dd>
+<dd><span data-sort-value="Massachusetts03&#160;!"><a href="/wiki/Massachusetts%27s_3rd_congressional_district" title="Massachusetts&#39;s 3rd congressional district">3rd</a></span></dd>
+<dd><span data-sort-value="Massachusetts04&#160;!"><a href="/wiki/Massachusetts%27s_4th_congressional_district" title="Massachusetts&#39;s 4th congressional district">4th</a></span></dd>
+<dd><span data-sort-value="Massachusetts05&#160;!"><a href="/wiki/Massachusetts%27s_5th_congressional_district" title="Massachusetts&#39;s 5th congressional district">5th</a></span></dd>
+<dd><span data-sort-value="Massachusetts06&#160;!"><a href="/wiki/Massachusetts%27s_6th_congressional_district" title="Massachusetts&#39;s 6th congressional district">6th</a></span></dd>
+<dd><span data-sort-value="Massachusetts07&#160;!"><a href="/wiki/Massachusetts%27s_7th_congressional_district" title="Massachusetts&#39;s 7th congressional district">7th</a></span></dd>
+<dd><span data-sort-value="Massachusetts08&#160;!"><a href="/wiki/Massachusetts%27s_8th_congressional_district" title="Massachusetts&#39;s 8th congressional district">8th</a></span></dd>
+<dd><span data-sort-value="Massachusetts09&#160;!"><a href="/wiki/Massachusetts%27s_9th_congressional_district" title="Massachusetts&#39;s 9th congressional district">9th</a></span></dd>
+<dd><span data-sort-value="Massachusetts10&#160;!"><a href="/wiki/Massachusetts%27s_10th_congressional_district" title="Massachusetts&#39;s 10th congressional district">10th</a></span></dd>
+<dd><span data-sort-value="Massachusetts11&#160;!"><a class="mw-selflink selflink">11th</a></span></dd>
+<dd><span data-sort-value="Massachusetts12&#160;!"><a href="/wiki/Massachusetts%27s_12th_congressional_district" title="Massachusetts&#39;s 12th congressional district">12th</a></span></dd>
+<dd><span data-sort-value="Massachusetts13&#160;!"><a href="/wiki/Massachusetts%27s_13th_congressional_district" title="Massachusetts&#39;s 13th congressional district">13th</a></span></dd>
+<dd><span data-sort-value="Massachusetts14&#160;!"><a href="/wiki/Massachusetts%27s_14th_congressional_district" title="Massachusetts&#39;s 14th congressional district">14th</a></span></dd>
+<dd><span data-sort-value="Massachusetts15&#160;!"><a href="/wiki/Massachusetts%27s_15th_congressional_district" title="Massachusetts&#39;s 15th congressional district">15th</a></span></dd>
+<dd><span data-sort-value="Massachusetts16&#160;!"><a href="/wiki/Massachusetts%27s_16th_congressional_district" title="Massachusetts&#39;s 16th congressional district">16th</a></span></dd>
+<dd><span data-sort-value="Massachusetts17&#160;!"><a href="/wiki/Massachusetts%27s_17th_congressional_district" title="Massachusetts&#39;s 17th congressional district">17th</a></span></dd>
+<dd><span data-sort-value="Massachusetts18&#160;!"><a href="/wiki/Massachusetts%27s_18th_congressional_district" title="Massachusetts&#39;s 18th congressional district">18th</a></span></dd>
+<dd><span data-sort-value="Massachusetts19&#160;!"><a href="/wiki/Massachusetts%27s_19th_congressional_district" title="Massachusetts&#39;s 19th congressional district">19th</a></span></dd>
+<dd><span data-sort-value="Massachusetts20&#160;!"><a href="/wiki/Massachusetts%27s_20th_congressional_district" title="Massachusetts&#39;s 20th congressional district">20th</a></span></dd></dl>
+</div>
+<ul><li><i>The at-large and 10th–20th districts are obsolete. The 14th–20th districts moved to <a href="/wiki/District_of_Maine" title="District of Maine">Maine</a> in 1820, and the 14th–16th districts were later restored in Massachusetts.</i></li></ul>
+<dl><dt>See also</dt>
+<dd>Massachusetts's past and present <a href="/wiki/List_of_United_States_Representatives_from_Massachusetts" title="List of United States Representatives from Massachusetts">representatives</a>, <a href="/wiki/List_of_United_States_senators_from_Massachusetts" title="List of United States senators from Massachusetts">senators</a>, and <a href="/wiki/United_States_congressional_delegations_from_Massachusetts" title="United States congressional delegations from Massachusetts">delegations</a></dd></dl>
+<ul><li>Recent U.S. House elections in Massachusetts: <a href="/wiki/2006_United_States_House_of_Representatives_elections_in_Massachusetts" title="2006 United States House of Representatives elections in Massachusetts">2006</a>, <a href="/wiki/2008_United_States_House_of_Representatives_elections_in_Massachusetts" title="2008 United States House of Representatives elections in Massachusetts">2008</a>, <a href="/wiki/2010_United_States_House_of_Representatives_elections_in_Massachusetts" title="2010 United States House of Representatives elections in Massachusetts">2010</a>, <a href="/wiki/2012_United_States_House_of_Representatives_elections_in_Massachusetts" title="2012 United States House of Representatives elections in Massachusetts">2012</a>, <a href="/wiki/2014_United_States_House_of_Representatives_elections_in_Massachusetts" title="2014 United States House of Representatives elections in Massachusetts">2014</a>, <a href="/wiki/2016_United_States_House_of_Representatives_elections_in_Massachusetts" title="2016 United States House of Representatives elections in Massachusetts">2016</a>, <a href="/wiki/2018_United_States_House_of_Representatives_elections_in_Massachusetts" title="2018 United States House of Representatives elections in Massachusetts">2018</a>, <a href="/wiki/2020_United_States_House_of_Representatives_elections_in_Massachusetts" title="2020 United States House of Representatives elections in Massachusetts">2020</a></li></ul>
+<ul><li><a href="/wiki/List_of_United_States_congressional_districts" title="List of United States congressional districts">All U.S. districts</a></li>
+<li><a href="/wiki/United_States_congressional_apportionment" title="United States congressional apportionment">Apportionment</a></li>
+<li><a href="/wiki/Redistricting" title="Redistricting">Redistricting </a></li>
+<li><a href="/wiki/Gerrymandering_in_the_United_States" title="Gerrymandering in the United States">Gerrymandering</a></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190925024453
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.056 seconds
+Real time usage: 1.284 seconds
+Preprocessor visited node count: 12779/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 112241/2097152 bytes
+Template argument size: 8833/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 52652/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.560/10.000 seconds
+Lua memory usage: 5.93 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1077.987      1 -total
+ 27.23%  293.517      1 Template:Reflist
+ 26.64%  287.225    276 Template:Ordinal
+ 26.19%  282.286     36 Template:USCongressOrdinal
+ 22.37%  241.128     23 Template:For_loop
+ 21.78%  234.810     46 Template:Ushr
+ 21.05%  226.878     46 Template:Sort
+ 17.75%  191.335      1 Template:USCongDistStateMA
+ 17.37%  187.248      1 Template:USCongDistState
+ 16.81%  181.192      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3094297-0!canonical and timestamp 20190925024452 and revision id 903855652
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;oldid=903855652">https://en.wikipedia.org/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;oldid=903855652</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1795_establishments_in_Massachusetts" title="Category:1795 establishments in Massachusetts">1795 establishments in Massachusetts</a></li><li><a href="/wiki/Category:Congressional_districts_of_Massachusetts" title="Category:Congressional districts of Massachusetts">Congressional districts of Massachusetts</a></li><li><a href="/wiki/Category:Obsolete_United_States_congressional_districts" title="Category:Obsolete United States congressional districts">Obsolete United States congressional districts</a></li><li><a href="/wiki/Category:1993_disestablishments_in_Massachusetts" title="Category:1993 disestablishments in Massachusetts">1993 disestablishments in Massachusetts</a></li><li><a href="/wiki/Category:Constituencies_established_in_1795" title="Category:Constituencies established in 1795">Constituencies established in 1795</a></li><li><a href="/wiki/Category:Constituencies_disestablished_in_1993" title="Category:Constituencies disestablished in 1993">Constituencies disestablished in 1993</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_November_2013" title="Category:Articles to be expanded from November 2013">Articles to be expanded from November 2013</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Data_missing" title="Category:Data missing">Data missing</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Massachusetts%27s+11th+congressional+district" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Massachusetts%27s+11th+congressional+district" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Massachusetts%27s_11th_congressional_district" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Massachusetts%27s_11th_congressional_district" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Massachusetts%27s_11th_congressional_district">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Massachusetts%27s_11th_congressional_district" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Massachusetts%27s_11th_congressional_district" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;oldid=903855652" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6784116" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Massachusetts%27s_11th_congressional_district&amp;id=903855652" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Massachusetts%27s_11th_congressional_district" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Massachusetts%27s+11th+congressional+district">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Massachusetts%27s+11th+congressional+district&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/11e_congresdistrict_van_Massachusetts" title="11e congresdistrict van Massachusetts – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6784116#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 June 2019, at 11:13<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Massachusetts%27s_11th_congressional_district&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.056","walltime":"1.284","ppvisitednodes":{"value":12779,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":112241,"limit":2097152},"templateargumentsize":{"value":8833,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":52652,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1077.987      1 -total"," 27.23%  293.517      1 Template:Reflist"," 26.64%  287.225    276 Template:Ordinal"," 26.19%  282.286     36 Template:USCongressOrdinal"," 22.37%  241.128     23 Template:For_loop"," 21.78%  234.810     46 Template:Ushr"," 21.05%  226.878     46 Template:Sort"," 17.75%  191.335      1 Template:USCongDistStateMA"," 17.37%  187.248      1 Template:USCongDistState"," 16.81%  181.192      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.560","limit":"10.000"},"limitreport-memusage":{"value":6220260,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20190925024453","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Massachusetts's 11th congressional district","url":"https:\/\/en.wikipedia.org\/wiki\/Massachusetts%27s_11th_congressional_district","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6784116","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6784116","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-06T15:41:46Z","dateModified":"2019-06-28T11:13:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/79\/1901_District_11_detail_of_Massachusetts_Congressional_Districts_map_BPL_12688.png","headline":"Former U.S. House district from 1795 to 1993"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1275"});});</script>
+</body>
+</html>

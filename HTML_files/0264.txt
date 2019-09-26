@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dutch government-in-exile - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dutch_government-in-exile","wgTitle":"Dutch government-in-exile","wgCurRevisionId":917826764,"wgRevisionId":917826764,"wgArticleId":79873,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use dmy dates from January 2019","Articles needing additional references from February 2010","All articles needing additional references","Articles containing Dutch-language text","Pages using infobox country or infobox former country with the symbol caption or type parameters","All articles with unsourced statements","Articles with unsourced statements from May 2018","Netherlands in World War II","Governments in exile during World War II","Former governments in exile","Netherlands–United Kingdom relations","British Empire in World War II",
+"United Kingdom in World War II","Wilhelmina of the Netherlands","1940s in the City of Westminster"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dutch_government-in-exile","wgRelevantArticleId":79873,"wgRequestId":"XYulzgpAADwAAE4UpCUAAACA","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2401707","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site",
+"mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dutch_government-in-exile"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dutch_government-in-exile"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dutch_government-in-exile rootpage-Dutch_government-in-exile skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dutch government-in-exile</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">WWII government of the Netherlands during Nazi occupation</div><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dutch_government-in-exile&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Dutch+government-in-exile%22">"Dutch government-in-exile"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Dutch+government-in-exile%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Dutch+government-in-exile%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Dutch+government-in-exile%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Dutch+government-in-exile%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Dutch+government-in-exile%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="infobox geography vcard" style="width:22em;font-size:88%;"><tbody><tr><th colspan="2" class="adr" style="text-align:center;font-size:125%;font-weight:bold;padding:0.25em 0.33em 0.33em;line-height:1.2em;font-size:1.25em;"><div style="display:inline" class="fn org country-name">Dutch government-in-exile</div><br /><div style="padding-top:0.25em; font-weight:normal;"><i lang="nl" title="Dutch language text">Nederlandse regering in ballingschap</i></div></th></tr><tr><td colspan="2" style="text-align:center">1940–1945</td></tr><tr><td colspan="2" style="text-align:center;text-align:center;padding:0.5em 0;"><div style="display:table; width:100%;">
+        <div style="display:table-cell; width:58%; vertical-align:middle; padding-left:5px;">
+            <div style="padding-bottom:3px;"><a href="/wiki/File:Flag_of_the_Netherlands.svg" class="image" title="Flag of Netherlands"><img alt="Flag of Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png" decoding="async" width="125" height="83" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/188px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/250px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></div>
+            <div style="font-size:90%;"><a href="/wiki/Flag_of_the_Netherlands" title="Flag of the Netherlands">Flag</a></div>
+        </div>
+        <div style="display:table-cell; vertical-align:middle; padding: 0px 5px;">
+            <div style="padding-bottom:3px;"><a href="/wiki/File:Royal_coat_of_arms_of_the_Netherlands.svg" class="image" title="Coat of arms of Netherlands"><img alt="Coat of arms of Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg/85px-Royal_coat_of_arms_of_the_Netherlands.svg.png" decoding="async" width="85" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg/128px-Royal_coat_of_arms_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Royal_coat_of_arms_of_the_Netherlands.svg/170px-Royal_coat_of_arms_of_the_Netherlands.svg.png 2x" data-file-width="952" data-file-height="1045" /></a></div>
+            <div style="font-size:90%;"><a href="/wiki/Coat_of_arms_of_the_Netherlands" title="Coat of arms of the Netherlands"> Coat of arms</a></div>
+        </div>
+    </div></td></tr><tr><th scope="row">Status</th><td><a href="/wiki/Government_in_exile" title="Government in exile">Government in exile</a></td></tr><tr><th scope="row">Capital</th><td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a></td></tr><tr class="mergedrow"><th scope="row">Capital-in-exile</th><td><a href="/wiki/London" title="London">London</a></td></tr><tr><th scope="row"><a href="/wiki/Politics_of_Netherlands" class="mw-redirect" title="Politics of Netherlands">Government</a></th><td><a href="/wiki/Transitional_government" class="mw-redirect" title="Transitional government">Transitional government</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_monarchs_of_the_Netherlands" title="List of monarchs of the Netherlands">Queen</a></th><td>&#160;</td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;1940-1945 </div></th><td><a href="/wiki/Wilhelmina_of_the_Netherlands" title="Wilhelmina of the Netherlands">Wilhelmina</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_Prime_Ministers_of_the_Netherlands" class="mw-redirect" title="List of Prime Ministers of the Netherlands">Prime Minister</a></th><td>&#160;</td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;1940 </div></th><td><a href="/wiki/Dirk_Jan_de_Geer" title="Dirk Jan de Geer">Dirk Jan de Geer</a></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;1940-1945 </div></th><td><a href="/wiki/Pieter_Sjoerds_Gerbrandy" title="Pieter Sjoerds Gerbrandy">Pieter Sjoerds Gerbrandy</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row">Historical era</th><td><a href="/wiki/World_War_II" title="World War II">World War II</a></td></tr><tr class="mergedrow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;<a href="/wiki/Battle_of_the_Netherlands#The_surrender_of_the_Dutch_Army" title="Battle of the Netherlands">Surrender of the Dutch Army in the Battle of the Netherlands</a> </div></th><td>15 May 1940</td></tr><tr class="mergedrow"><th scope="row"><div style="text-indent:-0.9em;margin-left:1.2em;font-weight:normal;">•&#160;<a href="/wiki/Liberation_Day_(Netherlands)" title="Liberation Day (Netherlands)">Liberation from Nazi Germany</a> </div></th><td>5 May 1945</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row"><a href="/wiki/ISO_3166" title="ISO 3166">ISO 3166 code</a></th><td><a href="/wiki/ISO_3166-2:NL" title="ISO 3166-2:NL">NL</a></td></tr><tr><td colspan="2" style="text-align:center">
+<table style="width:95%; background: transparent; text-align:center; margin:0 auto;">
+
+<tbody><tr>
+<td style="text-align:center; border:0; padding-bottom:0"><div id="before-after"></div> <b>Preceded by</b></td>
+<td style="text-align:center;border:0; padding-bottom:0;"><b>Succeeded by</b>
+</td></tr>
+<tr>
+<td style="vertical-align:top; text-align:center; border:0;">
+<table style="width:100%; background: transparent; text-align:center; margin:0 auto; border:0;">
+
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />
+</td>
+<td style="border:0; padding:0; vertical-align:middle; text-align:left;"><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td>
+<td style="vertical-align:top; text-align:center;border:0;">
+<table style="width:92%; background:transparent; text-align:center; margin:0 auto; border:0;">
+
+<tbody><tr>
+<td style="border:0; padding:0; vertical-align:middle; text-align:right;"><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</td>
+<td style="border:0; padding:0; vertical-align:middle;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/20px-Flag_of_the_Netherlands.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/30px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:A4_Piccadilly,_near_Green_Park_-_DSC04259.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG/250px-A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG/375px-A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG/500px-A4_Piccadilly%2C_near_Green_Park_-_DSC04259.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:A4_Piccadilly,_near_Green_Park_-_DSC04259.JPG" class="internal" title="Enlarge"></a></div>Stratton House on <a href="/wiki/Piccadilly" title="Piccadilly">Piccadilly</a> by <a href="/wiki/Green_Park" title="Green Park">Green Park</a>, where the Dutch government was based</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg/250px-Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg" decoding="async" width="250" height="315" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg/375px-Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg/500px-Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg 2x" data-file-width="1686" data-file-height="2124" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pieter_Gerbrandy_radiorede_op_1941-09-23_voor_de_BBC_met_microfoon.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Pieter_Sjoerds_Gerbrandy" title="Pieter Sjoerds Gerbrandy">Pieter Sjoerds Gerbrandy</a>, Prime Minister of the exiled government at a BBC microphone, 23 September 1941</div></div></div>
+<p>The <b>Dutch government in exile</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Nederlandse regering in ballingschap</i>), also known as the <b>London Cabinet</b> (<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>: <i lang="nl">Londens kabinet</i>), was the <a href="/wiki/Government_in_exile" title="Government in exile">government in exile</a> of the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a>, headed by <a href="/wiki/Wilhelmina_of_the_Netherlands" title="Wilhelmina of the Netherlands">Queen Wilhelmina</a>, that evacuated to <a href="/wiki/London" title="London">London</a> after the <a href="/wiki/Battle_of_the_Netherlands" title="Battle of the Netherlands">German invasion</a> of the country during <a href="/wiki/World_War_II" title="World War II">World War II</a> on 10 May 1940.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background_and_exile"><span class="tocnumber">1</span> <span class="toctext">Background and exile</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Exile_in_London"><span class="tocnumber">2</span> <span class="toctext">Exile in London</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background_and_exile">Background and exile</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit&amp;section=1" title="Edit section: Background and exile">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prior to 1940, the Netherlands was a neutral country, generally on good terms with Germany. On 10 May 1940, Germany invaded the Netherlands.  <a href="/wiki/Wilhelmina_of_the_Netherlands" title="Wilhelmina of the Netherlands">Queen Wilhelmina</a> fled the country by sea, arriving in London on 13 May.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The Netherlands armed forces surrendered two days later as it had been unable to withstand the speed of Germany's blitzkrieg style attack. In London, the queen took charge of the Dutch government in exile, which was established at Stratton House in the <a href="/wiki/Piccadilly" title="Piccadilly">Piccadilly</a> area of London, opposite <a href="/wiki/Green_Park" title="Green Park">Green Park</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>  Initially, their hope was that <a href="/wiki/France" title="France">France</a> would regroup and liberate the country.  Although there was an attempt in this direction, it soon failed, because the Allied forces were surrounded and forced to evacuate at <a href="/wiki/Battle_of_Dunkirk" title="Battle of Dunkirk">Dunkirk</a>. The Dutch armed forces in the Netherlands, except for those occupying Zeeland, surrendered on 15 May 1940. In Britain, Queen Wilhelmina took charge of the Dutch government in exile.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>To safeguard the succession, the heir to the throne <a href="/wiki/Juliana_of_the_Netherlands" title="Juliana of the Netherlands">Princess Juliana</a> and her family were sent farther to Canada, where they spent the war.
+</p><p>The government-in-exile was soon faced with a dilemma. After France had been defeated, the <a href="/wiki/Vichy_France" title="Vichy France">Vichy French</a> government came to power, proposing to <a href="/wiki/Hitler" class="mw-redirect" title="Hitler">Hitler</a> a policy of collaboration. This led to a conflict between Prime Minister <a href="/wiki/Dirk_Jan_de_Geer" title="Dirk Jan de Geer">Dirk Jan de Geer</a> and the Queen. De Geer wanted to return to the Netherlands and collaborate as well. The government in exile was still in control of the <a href="/wiki/Dutch_East_Indies" title="Dutch East Indies">Dutch East Indies</a> with all its resources: it was the third largest oil producer at the time (after the US and the USSR). Wilhelmina realized that if the Dutch collaborated with Germany, the Dutch East Indies would be surrendered to <a href="/wiki/Japan" title="Japan">Japan</a>, as <a href="/wiki/French_Indochina" title="French Indochina">French Indochina</a> was surrendered later by orders of the Vichy government.
+</p>
+<h2><span class="mw-headline" id="Exile_in_London">Exile in London</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit&amp;section=2" title="Edit section: Exile in London">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Because the Netherlands' hope for liberation was now the entry of the <a href="/wiki/United_States" title="United States">US</a> or the <a href="/wiki/Soviet_Union" title="Soviet Union">USSR</a> into the war, the Queen dismissed her prime minister, De Geer, and replaced him with <a href="/wiki/Pieter_Sjoerds_Gerbrandy" title="Pieter Sjoerds Gerbrandy">Pieter Sjoerds Gerbrandy</a>, who worked with Churchill and Roosevelt on ways to smooth the path for an American entry. <a href="/wiki/Aruba" title="Aruba">Aruba</a> and <a href="/wiki/Cura%C3%A7ao_and_Dependencies" title="Curaçao and Dependencies">Curaçao</a>, the then world-class exporting oil refineries, were important suppliers of refined products to the Allies. Aruba became a British protectorate from 1940 to 1942 and a US protectorate from 1942 to 1945. On November 23, 1941, under an agreement with the Netherlands government-in-exile, the United States occupied <a href="/wiki/Surinam_(Dutch_colony)" title="Surinam (Dutch colony)">Dutch Guiana</a> to protect the <a href="/wiki/Bauxite" title="Bauxite">bauxite</a> mines.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> An oil boycott was imposed on Japan, which helped to spark the <a href="/wiki/Attack_on_Pearl_Harbor" title="Attack on Pearl Harbor">Pearl Harbor attack</a>.
+</p><p>In September 1944, the Dutch, <a href="/wiki/Belgian_government_in_exile" title="Belgian government in exile">Belgian</a> and <a href="/wiki/Luxembourgish_government-in-exile" class="mw-redirect" title="Luxembourgish government-in-exile">Luxembourgish governments in exile</a> began formulating an agreement over the creation of a <a href="/wiki/Benelux" title="Benelux">Benelux Customs Union</a>.<sup id="cite_ref-Walsh1_4-0" class="reference"><a href="#cite_note-Walsh1-4">&#91;4&#93;</a></sup> The agreement was signed in the <a href="/wiki/London_Customs_Convention" title="London Customs Convention">London Customs Convention</a> on 5 September 1944.
+</p><p>The Queen's unusual action was later ratified by the Dutch Parliament in 1946. Churchill called her "the only man in the Dutch government".<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>After World War II ended, Wilhelmina and her government returned from exile to re-establish a regime more democratic than ever before.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dutch_resistance" title="Dutch resistance">Dutch resistance</a></li>
+<li><a href="/wiki/Netherlands_in_World_War_II" title="Netherlands in World War II">Netherlands in World War II</a></li>
+<li><a href="/wiki/Radio_Oranje" title="Radio Oranje">Radio Oranje</a></li>
+<li><a href="/wiki/Reichskommissariat_Niederlande" title="Reichskommissariat Niederlande">Reichskommissariat Niederlande</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.historylearningsite.co.uk/world-war-two/world-war-two-in-western-europe/the-attack-on-western-europe/the-german-invasion-of-holland/">"The German invasion of Holland - History Learning Site"</a>. <i>History Learning Site</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=History+Learning+Site&amp;rft.atitle=The+German+invasion+of+Holland+-+History+Learning+Site&amp;rft_id=http%3A%2F%2Fwww.historylearningsite.co.uk%2Fworld-war-two%2Fworld-war-two-in-western-europe%2Fthe-attack-on-western-europe%2Fthe-german-invasion-of-holland%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADutch+government-in-exile" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.londonremembers.com/memorials/netherlands-government-in-exile">"Plaque: Netherlands Government in exile"</a>. London Remembers<span class="reference-accessdate">. Retrieved <span class="nowrap">6 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Plaque%3A+Netherlands+Government+in+exile&amp;rft.pub=London+Remembers&amp;rft_id=http%3A%2F%2Fwww.londonremembers.com%2Fmemorials%2Fnetherlands-government-in-exile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADutch+government-in-exile" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://faculty.virginia.edu/setear/students/fdrneutr/Home.html">World War II Timeline</a></span>
+</li>
+<li id="cite_note-Walsh1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Walsh1_4-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Walsh, Jeremy. <a rel="nofollow" class="external text" href="http://martindale.cc.lehigh.edu/sites/martindale.cc.lehigh.edu/files/BeneluxEconomy.pdf">"Benelux Economic Union – A New Role for the 21st Century"</a> <span class="cs1-format">(PDF)</span>. <i><a href="/wiki/Lehigh_University" title="Lehigh University">Lehigh University</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Lehigh+University&amp;rft.atitle=Benelux+Economic+Union+%E2%80%93+A+New+Role+for+the+21st+Century&amp;rft.aulast=Walsh&amp;rft.aufirst=Jeremy&amp;rft_id=http%3A%2F%2Fmartindale.cc.lehigh.edu%2Fsites%2Fmartindale.cc.lehigh.edu%2Ffiles%2FBeneluxEconomy.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADutch+government-in-exile" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waroverholland.nl/index.php?page=the-royal-family">"War Over Holland - The Royal Family"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 September</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=War+Over+Holland+-+The+Royal+Family&amp;rft_id=http%3A%2F%2Fwww.waroverholland.nl%2Findex.php%3Fpage%3Dthe-royal-family&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADutch+government-in-exile" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.britannica.com/place/Netherlands/History#ref414177">"Netherlands - History | history - geography"</a>. <i>Encyclopedia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">27 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Encyclopedia+Britannica&amp;rft.atitle=Netherlands+-+History+%7C+history+-+geography&amp;rft_id=https%3A%2F%2Fwww.britannica.com%2Fplace%2FNetherlands%2FHistory%23ref414177&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADutch+government-in-exile" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Governments_in_exile_during_World_War_II" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:lightsteelblue;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Governments_in_exile" title="Template:Governments in exile"><abbr title="View this template" style=";background:lightsteelblue;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Governments_in_exile" title="Template talk:Governments in exile"><abbr title="Discuss this template" style=";background:lightsteelblue;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Governments_in_exile&amp;action=edit"><abbr title="Edit this template" style=";background:lightsteelblue;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Governments_in_exile_during_World_War_II" style="font-size:114%;margin:0 4em"><a href="/wiki/Government_in_exile" title="Government in exile">Governments in exile</a> during <a href="/wiki/World_War_II" title="World War II">World War II</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Belgian_government_in_exile" title="Belgian government in exile">Belgium</a> <span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Prime Minister: <a href="/wiki/Hubert_Pierlot" title="Hubert Pierlot">Hubert Pierlot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Czechoslovak_government-in-exile" title="Czechoslovak government-in-exile">Czechoslovakia</a> <span class="flagicon"><a href="/wiki/Czechoslovakia" title="Czechoslovakia"><img alt="Czechoslovakia" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>President: <a href="/wiki/Edvard_Bene%C5%A1" title="Edvard Beneš">Edvard Beneš</a><br />Prime Minister: <a href="/wiki/Jan_%C5%A0r%C3%A1mek" title="Jan Šrámek">Jan Šrámek</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Free_France" title="Free France">France</a> <span class="flagicon"><a href="/wiki/Free_France" title="Free France"><img alt="Free France" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Free_France_%281940-1944%29.svg/23px-Flag_of_Free_France_%281940-1944%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Free_France_%281940-1944%29.svg/35px-Flag_of_Free_France_%281940-1944%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_of_Free_France_%281940-1944%29.svg/45px-Flag_of_Free_France_%281940-1944%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charles_de_Gaulle" title="Charles de Gaulle">Charles de Gaulle</a></li>
+<li><a href="/wiki/Henri_Giraud" title="Henri Giraud">Henri Giraud</a></li>
+<li><a href="/wiki/French_Committee_of_National_Liberation" title="French Committee of National Liberation">French Committee of National Liberation</a> (from 1943)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Greek_government-in-exile" title="Greek government-in-exile">Greece</a> <span class="flagicon"><a href="/wiki/Kingdom_of_Greece" title="Kingdom of Greece"><img alt="Kingdom of Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Greece_%281822-1978%29.svg/23px-Flag_of_Greece_%281822-1978%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Greece_%281822-1978%29.svg/35px-Flag_of_Greece_%281822-1978%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Greece_%281822-1978%29.svg/45px-Flag_of_Greece_%281822-1978%29.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/George_II_of_Greece" title="George II of Greece">King George II</a><br />Prime Minister: <a href="/wiki/Emmanouil_Tsouderos" title="Emmanouil Tsouderos">Emmanouil Tsouderos</a> <span style="font-size:90%;">(1941–1944) </span>, <a href="/wiki/Sofoklis_Venizelos" title="Sofoklis Venizelos">Sofoklis Venizelos</a> <span style="font-size:90%;">(1944) </span>,<a href="/wiki/Georgios_Papandreou" title="Georgios Papandreou">Georgios Papandreou</a> <span style="font-size:90%;">(1944-1945) </span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Luxembourg_government_in_exile" title="Luxembourg government in exile">Luxembourg</a> <span class="flagicon"><a href="/wiki/Luxembourg" title="Luxembourg"><img alt="Luxembourg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/35px-Flag_of_Luxembourg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/46px-Flag_of_Luxembourg.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charlotte,_Grand_Duchess_of_Luxembourg" title="Charlotte, Grand Duchess of Luxembourg">Grand Duchess Charlotte</a><br />Prime Minister: <a href="/wiki/Pierre_Dupong" title="Pierre Dupong">Pierre Dupong</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Netherlands</a> <span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wilhelmina_of_the_Netherlands" title="Wilhelmina of the Netherlands">Queen Wilhelmina</a><br />Prime Minister: <a href="/wiki/Dirk_Jan_de_Geer" title="Dirk Jan de Geer">Dirk Jan de Geer</a> <span style="font-size:90%;">(1940) </span>, <a href="/wiki/Pieter_Sjoerds_Gerbrandy" title="Pieter Sjoerds Gerbrandy">Pieter Sjoerds Gerbrandy</a> <span style="font-size:90%;">(1940–1945) </span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nygaardsvold%27s_Cabinet" title="Nygaardsvold&#39;s Cabinet">Norway</a> <span class="flagicon"><a href="/wiki/Norway" title="Norway"><img alt="Norway" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/32px-Flag_of_Norway.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/41px-Flag_of_Norway.svg.png 2x" data-file-width="1100" data-file-height="800" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Haakon_VII_of_Norway" title="Haakon VII of Norway">King Haakon VII</a><br />Prime Minister: <a href="/wiki/Johan_Nygaardsvold" title="Johan Nygaardsvold">Johan Nygaardsvold</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Polish_government-in-exile" title="Polish government-in-exile">Poland</a> <span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>President: <a href="/wiki/W%C5%82adys%C5%82aw_Raczkiewicz" title="Władysław Raczkiewicz">Władysław Raczkiewicz</a><br />Prime Minister: <a href="/wiki/W%C5%82adys%C5%82aw_Sikorski" title="Władysław Sikorski">Władysław Sikorski</a> <span style="font-size:90%;">(1939–1943) </span>, <a href="/wiki/Stanis%C5%82aw_Miko%C5%82ajczyk" title="Stanisław Mikołajczyk">Stanisław Mikołajczyk</a> <span style="font-size:90%;">(1943–1944) </span>, <a href="/wiki/Tomasz_Arciszewski" title="Tomasz Arciszewski">Tomasz Arciszewski</a> <span style="font-size:90%;">(1944–1945) </span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Yugoslav_government-in-exile" title="Yugoslav government-in-exile">Yugoslavia</a> <span class="flagicon"><a href="/wiki/Kingdom_of_Yugoslavia" title="Kingdom of Yugoslavia"><img alt="Kingdom of Yugoslavia" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg/23px-Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg/35px-Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg/45px-Flag_of_Yugoslavia_%281918%E2%80%931941%29.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Peter_II_of_Yugoslavia" title="Peter II of Yugoslavia">King Peter II</a><br />Prime Minister: <a href="/wiki/Du%C5%A1an_Simovi%C4%87" title="Dušan Simović">Dušan Simović</a> <span style="font-size:90%;">(1941–1942) </span>, <a href="/wiki/Slobodan_Jovanovi%C4%87" title="Slobodan Jovanović">Slobodan Jovanović</a> <span style="font-size:90%;">(1942–1943) </span>, <a href="/w/index.php?title=Milo%C5%A1_Trifunovi%C4%87_(politician)&amp;action=edit&amp;redlink=1" class="new" title="Miloš Trifunović (politician) (page does not exist)">Miloš Trifunović</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BE%D1%88_%D0%A2%D1%80%D0%B8%D1%84%D1%83%D0%BD%D0%BE%D0%B2%D0%B8%D1%9B_(%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B0%D1%80)" class="extiw" title="sr:Милош Трифуновић (политичар)">sr</a>&#93;</span> <span style="font-size:90%;">(1943) </span>, <a href="/wiki/Bo%C5%BEidar_Puri%C4%87" title="Božidar Purić">Božidar Purić</a> <span style="font-size:90%;">(1943–1944) </span>, <a href="/wiki/Ivan_%C5%A0uba%C5%A1i%C4%87" title="Ivan Šubašić">Ivan Šubašić</a> <span style="font-size:90%;">(1944–1945) </span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unrecognised groups</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Austrian_Democratic_Union" title="Austrian Democratic Union">Austria</a></li>
+<li><a href="/wiki/Danish_Freedom_Council" title="Danish Freedom Council">Denmark</a></li>
+<li><a href="/wiki/Free_Thai_Movement" title="Free Thai Movement">Thailand</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1343
+Cached time: 20190925173622
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.944 seconds
+Real time usage: 1.159 seconds
+Preprocessor visited node count: 5070/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 77442/2097152 bytes
+Template argument size: 6641/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14906/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.602/10.000 seconds
+Lua memory usage: 15.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1053.776      1 -total
+ 61.94%  652.754      1 Template:Infobox_country
+ 60.79%  640.552      4 Template:Infobox
+ 25.46%  268.310      3 Template:ISO_3166_code
+ 16.47%  173.602      1 Template:Lang
+ 11.61%  122.302      1 Template:Reflist
+  9.59%  101.078      3 Template:Cite_news
+  7.87%   82.936      1 Template:Governments_in_exile
+  7.51%   79.097      1 Template:Navbox
+  5.78%   60.954      1 Template:More_citations_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:79873-0!canonical and timestamp 20190925173624 and revision id 917826764
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dutch_government-in-exile&amp;oldid=917826764">https://en.wikipedia.org/w/index.php?title=Dutch_government-in-exile&amp;oldid=917826764</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Netherlands_in_World_War_II" title="Category:Netherlands in World War II">Netherlands in World War II</a></li><li><a href="/wiki/Category:Governments_in_exile_during_World_War_II" title="Category:Governments in exile during World War II">Governments in exile during World War II</a></li><li><a href="/wiki/Category:Former_governments_in_exile" title="Category:Former governments in exile">Former governments in exile</a></li><li><a href="/wiki/Category:Netherlands%E2%80%93United_Kingdom_relations" title="Category:Netherlands–United Kingdom relations">Netherlands–United Kingdom relations</a></li><li><a href="/wiki/Category:British_Empire_in_World_War_II" title="Category:British Empire in World War II">British Empire in World War II</a></li><li><a href="/wiki/Category:United_Kingdom_in_World_War_II" title="Category:United Kingdom in World War II">United Kingdom in World War II</a></li><li><a href="/wiki/Category:Wilhelmina_of_the_Netherlands" title="Category:Wilhelmina of the Netherlands">Wilhelmina of the Netherlands</a></li><li><a href="/wiki/Category:1940s_in_the_City_of_Westminster" title="Category:1940s in the City of Westminster">1940s in the City of Westminster</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2019" title="Category:Use dmy dates from January 2019">Use dmy dates from January 2019</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2010" title="Category:Articles needing additional references from February 2010">Articles needing additional references from February 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Dutch-language_text" title="Category:Articles containing Dutch-language text">Articles containing Dutch-language text</a></li><li><a href="/wiki/Category:Pages_using_infobox_country_or_infobox_former_country_with_the_symbol_caption_or_type_parameters" title="Category:Pages using infobox country or infobox former country with the symbol caption or type parameters">Pages using infobox country or infobox former country with the symbol caption or type parameters</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2018" title="Category:Articles with unsourced statements from May 2018">Articles with unsourced statements from May 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dutch+government-in-exile" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dutch+government-in-exile" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dutch_government-in-exile" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dutch_government-in-exile" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dutch_government-in-exile">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dutch_government-in-exile" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dutch_government-in-exile" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dutch_government-in-exile&amp;oldid=917826764" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dutch_government-in-exile&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2401707" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dutch_government-in-exile&amp;id=917826764" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dutch_government_in_exile" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dutch+government-in-exile">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dutch+government-in-exile&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dutch_government-in-exile&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D9%83%D9%88%D9%85%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D9%81%D9%89_%D8%A7%D9%84%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9" title="حكومة المنفى الهولندية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Govern_neerland%C3%A8s_a_l%27exili" title="Govern neerlandès a l&#039;exili – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Nederlanda_registaro_en_ekzilo" title="Nederlanda registaro en ekzilo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gouvernement_n%C3%A9erlandais_en_exil" title="Gouvernement néerlandais en exil – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%84%A4%EB%8D%9C%EB%9E%80%EB%93%9C_%EB%A7%9D%EB%AA%85_%EC%A0%95%EB%B6%80" title="네덜란드 망명 정부 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Pemerintahan_Belanda_di_pengasingan" title="Pemerintahan Belanda di pengasingan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Governo_in_esilio_dei_Paesi_Bassi" title="Governo in esilio dei Paesi Bassi – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Londens_kabinet" title="Londens kabinet – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Guvernul_neerlandez_%C3%AEn_exil" title="Guvernul neerlandez în exil – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2401707#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 17:36<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dutch_government-in-exile&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.944","walltime":"1.159","ppvisitednodes":{"value":5070,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":77442,"limit":2097152},"templateargumentsize":{"value":6641,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14906,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 1053.776      1 -total"," 61.94%  652.754      1 Template:Infobox_country"," 60.79%  640.552      4 Template:Infobox"," 25.46%  268.310      3 Template:ISO_3166_code"," 16.47%  173.602      1 Template:Lang"," 11.61%  122.302      1 Template:Reflist","  9.59%  101.078      3 Template:Cite_news","  7.87%   82.936      1 Template:Governments_in_exile","  7.51%   79.097      1 Template:Navbox","  5.78%   60.954      1 Template:More_citations_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.602","limit":"10.000"},"limitreport-memusage":{"value":15920459,"limit":52428800}},"cachereport":{"origin":"mw1343","timestamp":"20190925173622","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dutch government-in-exile","url":"https:\/\/en.wikipedia.org\/wiki\/Dutch_government-in-exile","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2401707","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2401707","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-03T07:34:26Z","dateModified":"2019-09-25T17:36:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/20\/Flag_of_the_Netherlands.svg","headline":"WWII government of the Netherlands during Nazi occupation"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1265"});});</script>
+</body>
+</html>

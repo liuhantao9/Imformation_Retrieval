@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>National Party of Suriname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"National_Party_of_Suriname","wgTitle":"National Party of Suriname","wgCurRevisionId":904570924,"wgRevisionId":904570924,"wgArticleId":2069326,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Dutch-language sources (nl)","Use dmy dates from May 2015","Articles to be expanded from May 2015","All articles to be expanded","Articles needing translation from Dutch Wikipedia","All stub articles","Political parties in Suriname","South American political party stubs","Suriname stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",
+"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"National_Party_of_Suriname","wgRelevantArticleId":2069326,"wgRequestId":"XYpF@gpAAD4AAElJ-gwAAAKT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2564279","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready",
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/National_Party_of_Suriname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=National_Party_of_Suriname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=National_Party_of_Suriname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/National_Party_of_Suriname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-National_Party_of_Suriname rootpage-National_Party_of_Suriname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">National Party of Suriname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="box-Expand_language plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" decoding="async" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;padding-right: 3em; font-weight: normal; text-align: left">This article <b>may be expanded with text translated from the <a href="https://nl.wikipedia.org/wiki/Nationale_Partij_Suriname" class="extiw" title="nl:Nationale Partij Suriname">corresponding article</a> in Dutch</b>. &#32;<i><small>(May 2015)</small></i> <small>Click [show] for important translation instructions.</small></div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<ul><li class="mw-empty-elt"></li>
+<li>Machine translation like <a rel="nofollow" class="external text" href="https://deepl.com">Deepl</a> or <a rel="nofollow" class="external text" href="https://translate.google.com/">Google Translate</a>  is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</li>
+<li>Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</li>
+<li>You <b>must</b> provide <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright attribution</a> in the <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> accompanying your translation by providing an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source of your translation. A model attribution edit summary (using German): <code>Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.</code></li>
+<li>You should also add the template &#123;&#123;<a href="/wiki/Template:Translated_page" title="Template:Translated page">Translated page</a>&#125;&#125; to the <a href="/wiki/Talk:National_Party_of_Suriname" title="Talk:National Party of Suriname">talk page</a>.</li>
+<li>For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</li></ul></div></div></div></td></tr></tbody></table><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;padding-top:0; padding-bottom:0;"><div style="padding-top:0.3em; padding-bottom:0.3em; border-top:2px solid #99CC33; border-bottom:2px solid #99CC33; line-height: 1;"><div style="display:inline;" class="fn org">National Party of Suriname</div><br /><div style="font-size: 0.8em;" class="nickname">Nationale Partij Suriname</div></div></th></tr><tr><th scope="row" style="line-height:1.3em;">Abbreviation</th><td class="nickname" style="line-height:1.3em;">NPS</td></tr><tr><th scope="row" style="line-height:1.3em;">Leader</th><td class="agent" style="line-height:1.3em;"><a href="/wiki/Gregory_Rusland" title="Gregory Rusland">Gregory Rusland</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Founded</th><td style="line-height:1.3em;">29 September 1946</td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/List_of_political_ideologies" title="List of political ideologies">Ideology</a></th><td class="category" style="line-height:1.3em;"><a href="/wiki/Social_democracy" title="Social democracy">Social democracy</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/Political_spectrum" title="Political spectrum">Political&#160;position</a></th><td class="category" style="line-height:1.3em;"><a href="/wiki/Centre-left_politics" title="Centre-left politics">Centre-left</a></td></tr><tr><th scope="row" style="line-height:1.3em;">Colours</th><td style="line-height:1.3em;"><span style="background-color:#99CC33; color:black; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <a href="/wiki/Green" title="Green">Green</a></td></tr><tr><th scope="row" style="line-height:1.3em;"><a href="/wiki/National_Assembly_(Suriname)" title="National Assembly (Suriname)">National Assembly</a></th><td style="line-height:1.3em;"><div style="width: 100px;"><span class="nowrap">2 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 4%; height: 100%;"></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;line-height: 0.8em; padding-top:0.5em; padding-bottom:0;">Website</th></tr><tr><td colspan="2" style="text-align:center;line-height:1.3em;"><a rel="nofollow" class="external text" href="https://www.npssuriname.org/">npssuriname.org</a></td></tr><tr><td colspan="2" style="text-align:center;padding-top:0;"><div class="plainlist" style="line-height:1.3em; padding-top:0.3em; border-top:2px solid #99CC33;"><ul><li><a href="/wiki/Politics_of_Suriname" title="Politics of Suriname">Politics of Suriname</a></li><li><a href="/wiki/List_of_political_parties_in_Suriname" title="List of political parties in Suriname">Political parties</a></li><li><a href="/wiki/Elections_in_Suriname" title="Elections in Suriname">Elections</a></li></ul></div></td></tr></tbody></table><p>The <b>National Party of Suriname</b> (<i>Nationale Partij Suriname</i>, NPS) is a <a href="/wiki/Political_party" title="Political party">political party</a> in <a href="/wiki/Suriname" title="Suriname">Suriname</a>, founded in 1946, and since June 2012 led by <a href="/wiki/Gregory_Rusland" title="Gregory Rusland">Gregory Rusland</a>. For a long time it was the largest ruling party in the country, and it has been in government for over 40 years. Of the 16 general elections held in Suriname, the party became first 11 times and lost 5 times.
+</p><p>At the 2005 <a href="/wiki/2005_Surinamese_legislative_election" class="mw-redirect" title="2005 Surinamese legislative election">legislative elections</a>, the party was part of the <a href="/wiki/New_Front_for_Democracy_and_Development" title="New Front for Democracy and Development">New Front for Democracy and Development</a> that won 41.2% of the popular vote and 23 out of 51 seats in the <a href="/wiki/National_Assembly_of_Suriname" class="mw-redirect" title="National Assembly of Suriname">National Assembly</a>.
+</p><p>In June 2012 <a href="/wiki/Ronald_Venetiaan" title="Ronald Venetiaan">Ronald Venetiaan</a> stepped down from party leadership. Party elections were held for his successor with Gregory Rusland winning seven out of eleven districts, and <a href="/wiki/Ivan_Fernald" title="Ivan Fernald">Ivan Fernald</a> winning four.<sup id="cite_ref-star_1-0" class="reference"><a href="#cite_note-star-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Electoral_results">Electoral results</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Party_of_Suriname&amp;action=edit&amp;section=1" title="Edit section: Electoral results">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>Election year
+</th>
+<th>No. of
+<p>overall seats won
+</p>
+</th>
+<th>+/–
+</th>
+<th>Rank
+</th>
+<th>Government
+</th></tr>
+<tr>
+<th>1949
+</th>
+<td><div style="width: 100px;"><span class="nowrap">12 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 57%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 12
+</td>
+<td><b>1th</b>
+</td>
+<td>majority
+</td></tr>
+<tr>
+<th>1951
+</th>
+<td><div style="width: 100px;"><span class="nowrap">13 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 62%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 1
+</td>
+<td><b>1th</b>
+</td>
+<td>majority
+</td></tr>
+<tr>
+<th>1955
+</th>
+<td><div style="width: 100px;"><span class="nowrap">2 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 10%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 11
+</td>
+<td>6th
+</td>
+<td>in opposition
+</td></tr>
+<tr>
+<th>1958
+</th>
+<td><div style="width: 100px;"><span class="nowrap">9 / 21</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 43%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 7
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1963
+</th>
+<td><div style="width: 100px;"><span class="nowrap">14 / 36</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 39%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 5
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1967
+</th>
+<td><div style="width: 100px;"><span class="nowrap">17 / 39</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 44%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1969
+</th>
+<td><div style="width: 100px;"><span class="nowrap">11 / 39</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 28%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 6
+</td>
+<td>2th
+</td>
+<td>in opposition
+</td></tr>
+<tr>
+<th>1973
+</th>
+<td><div style="width: 100px;"><span class="nowrap">13 / 39</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 33%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1977
+</th>
+<td><div style="width: 100px;"><span class="nowrap">15 / 39</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 38%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1987
+</th>
+<td><div style="width: 100px;"><span class="nowrap">15 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 29%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Steady" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/11px-Steady2.svg.png" decoding="async" title="Steady" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/17px-Steady2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Steady2.svg/22px-Steady2.svg.png 2x" data-file-width="300" data-file-height="300" /> 0
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1991
+</th>
+<td><div style="width: 100px;"><span class="nowrap">12 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 24%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>1996
+</th>
+<td><div style="width: 100px;"><span class="nowrap">9 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 18%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 3
+</td>
+<td>2th
+</td>
+<td>in opposition
+</td></tr>
+<tr>
+<th>2000
+</th>
+<td><div style="width: 100px;"><span class="nowrap">15 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 29%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 6
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>2005
+</th>
+<td><div style="width: 100px;"><span class="nowrap">8 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 16%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 8
+</td>
+<td><b>1th</b>
+</td>
+<td>in coalition
+</td></tr>
+<tr>
+<th>2010
+</th>
+<td><div style="width: 100px;"><span class="nowrap">4 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 8%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 4
+</td>
+<td>4th
+</td>
+<td>in opposition
+</td></tr>
+<tr>
+<th>2015
+</th>
+<td><div style="width: 100px;"><span class="nowrap">2 / 51</span><div role="img" style="box-sizing: border-box; border: 1px solid #aaa; height: 1.15em; position: relative;"><div style="background-color: #99CC33; width: 4%; height: 100%;"></div></div></div>
+</td>
+<td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2
+</td>
+<td>5th
+</td>
+<td>in opposition
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=National_Party_of_Suriname&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-star-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-star_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.starnieuws.com/index.php/welcome/index/video/354/">"Gregory Rusland, nieuwe voorzitter NPS"</a> (in Dutch). StarNieuws<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gregory+Rusland%2C+nieuwe+voorzitter+NPS&amp;rft.pub=StarNieuws&amp;rft_id=http%3A%2F%2Fwww.starnieuws.com%2Findex.php%2Fwelcome%2Findex%2Fvideo%2F354%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Party+of+Suriname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waterkant.net/suriname/2012/06/17/gregory-rusland-leider-nationale-partij-suriname/">"Gregory Rusland leider Nationale Partij Suriname"</a> (in Dutch). 17 June 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">22 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gregory+Rusland+leider+Nationale+Partij+Suriname&amp;rft.date=2012-06-17&amp;rft_id=http%3A%2F%2Fwww.waterkant.net%2Fsuriname%2F2012%2F06%2F17%2Fgregory-rusland-leider-nationale-partij-suriname%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANational+Party+of+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Political_parties_in_Suriname_23x15px&amp;#124;border_&amp;#124;alt=Suriname&amp;#124;link=Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Surinamese_political_parties" title="Template:Surinamese political parties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Surinamese_political_parties" title="Template talk:Surinamese political parties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Surinamese_political_parties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Political_parties_in_Suriname_23x15px&amp;#124;border_&amp;#124;alt=Suriname&amp;#124;link=Suriname" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_political_parties_in_Suriname" title="List of political parties in Suriname">Political parties in Suriname</a> <span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parliamentary</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_Democratic_Party_(Suriname)" title="National Democratic Party (Suriname)">National Democratic Party</a></li>
+<li><a href="/wiki/V7_(political_alliance)" title="V7 (political alliance)">V7</a>
+<ul><li><a href="/wiki/Brotherhood_and_Unity_in_Politics" title="Brotherhood and Unity in Politics">BEP</a></li>
+<li><a href="/wiki/Democratic_Alternative_%2791" title="Democratic Alternative &#39;91">DA '91</a></li>
+<li><a class="mw-selflink selflink">NPS</a></li>
+<li><a href="/wiki/Pertjajah_Luhur" title="Pertjajah Luhur">PL</a></li>
+<li><a href="/wiki/Surinamese_Labour_Party" title="Surinamese Labour Party">SPA</a></li>
+<li><a href="/wiki/Progressive_Reform_Party_(Suriname)" title="Progressive Reform Party (Suriname)">VHP</a></li></ul></li>
+<li><a href="/wiki/A-Combination" title="A-Combination">A-Combination</a>
+<ul><li><a href="/wiki/General_Liberation_and_Development_Party" title="General Liberation and Development Party">ABOP</a></li>
+<li><a href="/wiki/Party_for_National_Unity_and_Solidarity" title="Party for National Unity and Solidarity">KTPI</a></li>
+<li><a href="/w/index.php?title=Party_for_Democracy_and_Development&amp;action=edit&amp;redlink=1" class="new" title="Party for Democracy and Development (page does not exist)">PDO</a></li></ul></li>
+<li><a href="/wiki/Party_for_Democracy_and_Development_through_Unity" title="Party for Democracy and Development through Unity">Party for Democracy and Development through Unity</a></li>
+<li><a href="/wiki/Progressive_Workers%27_and_Farmers%27_Union" title="Progressive Workers&#39; and Farmers&#39; Union">Progressive Workers' and Farmers' Union</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Extraparliamentary</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basic_Party_for_Renewal_and_Democracy" title="Basic Party for Renewal and Democracy">Basic Party for Renewal and Democracy</a></li>
+<li><a href="/wiki/Democratic_National_Platform_2000" title="Democratic National Platform 2000">Democratic National Platform 2000</a></li>
+<li><a href="/wiki/Democrats_of_the_21st_Century" title="Democrats of the 21st Century">Democrats of the 21st Century</a></li>
+<li><a href="/wiki/Meeting_Point_2000" title="Meeting Point 2000">Meeting Point 2000</a></li>
+<li><a href="/wiki/Political_Wing_of_the_FAL" title="Political Wing of the FAL">Political Wing of the FAL</a></li>
+<li><a href="/wiki/Seeka" title="Seeka">Seeka</a></li>
+<li><a href="/wiki/Union_of_Progressive_Surinamese" title="Union of Progressive Surinamese">Union of Progressive Surinamese</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Portal:Politics" title="Portal:Politics">Portal:Politics</a></li>
+<li><a href="/wiki/List_of_political_parties_by_country" class="mw-redirect" title="List of political parties by country">List of political parties</a></li>
+<li><a href="/wiki/Politics_of_Suriname" title="Politics of Suriname">Politics of Suriname</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Suriname.svg" class="image"><img alt="Stub icon 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/25px-Flag_of_Suriname.svg.png" decoding="async" width="25" height="17" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/38px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/50px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a> <img alt="Stub icon 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/20px-Vote_icon.svg.png" decoding="async" width="20" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/30px-Vote_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vote_icon.svg/40px-Vote_icon.svg.png 2x" data-file-width="326" data-file-height="393" /></td><td><i>This article about a Surinamese political party is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=National_Party_of_Suriname&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-party-stub" title="Template:Suriname-party-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-party-stub" title="Template talk:Suriname-party-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-party-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20190914035950
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.420 seconds
+Real time usage: 0.548 seconds
+Preprocessor visited node count: 3046/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52758/2097152 bytes
+Template argument size: 5660/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5980/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.202/10.000 seconds
+Lua memory usage: 3.91 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  476.182      1 -total
+ 31.92%  151.979      1 Template:Infobox_political_party
+ 28.06%  133.633      1 Template:Infobox
+ 25.54%  121.609      1 Template:Reflist
+ 23.82%  113.409      2 Template:Cite_web
+ 18.19%   86.603      1 Template:Expand_Dutch
+ 17.55%   83.577      1 Template:Expand_language
+ 14.27%   67.946      1 Template:Ambox
+ 10.69%   50.910     17 Template:Composition_bar
+ 10.26%   48.857      1 Template:Hidden
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2069326-0!canonical and timestamp 20190914035950 and revision id 904570924
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=National_Party_of_Suriname&amp;oldid=904570924">https://en.wikipedia.org/w/index.php?title=National_Party_of_Suriname&amp;oldid=904570924</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Political_parties_in_Suriname" title="Category:Political parties in Suriname">Political parties in Suriname</a></li><li><a href="/wiki/Category:South_American_political_party_stubs" title="Category:South American political party stubs">South American political party stubs</a></li><li><a href="/wiki/Category:Suriname_stubs" title="Category:Suriname stubs">Suriname stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2015" title="Category:Use dmy dates from May 2015">Use dmy dates from May 2015</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_May_2015" title="Category:Articles to be expanded from May 2015">Articles to be expanded from May 2015</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Dutch_Wikipedia" title="Category:Articles needing translation from Dutch Wikipedia">Articles needing translation from Dutch Wikipedia</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=National+Party+of+Suriname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=National+Party+of+Suriname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/National_Party_of_Suriname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:National_Party_of_Suriname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/National_Party_of_Suriname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=National_Party_of_Suriname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=National_Party_of_Suriname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/National_Party_of_Suriname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/National_Party_of_Suriname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=National_Party_of_Suriname&amp;oldid=904570924" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=National_Party_of_Suriname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2564279" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=National_Party_of_Suriname&amp;id=904570924" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=National+Party+of+Suriname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=National+Party+of+Suriname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=National_Party_of_Suriname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AD%D8%B2%D8%A8_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A_%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D9%86%D8%A7%D9%85%D9%8A" title="الحزب الوطني السورينامي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nationale_Partij_Suriname" title="Nationale Partij Suriname – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Partido_Nacional_de_Surinam" title="Partido Nacional de Surinam – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Nacia_Partio_de_Surinamo" title="Nacia Partio de Surinamo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%B0%E0%A5%80%E0%A4%A8%E0%A4%BE%E0%A4%AE_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%80%E0%A4%AF_%E0%A4%A6%E0%A4%B2" title="सूरीनाम राष्ट्रीय दल – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nationale_Partij_Suriname" title="Nationale Partij Suriname – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%B0%E0%A4%BF%E0%A4%A8%E0%A4%BE%E0%A4%AE_%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF_%E0%A4%AA%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%9F%E0%A5%80" title="सुरिनाम राष्ट्रिय पार्टी – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%8A%E3%83%A0%E5%9B%BD%E6%B0%91%E5%85%9A" title="スリナム国民党 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D1%8F_%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B0" title="Национальная партия Суринама – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Surinams_nationella_parti" title="Surinams nationella parti – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2564279#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 July 2019, at 02:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=National_Party_of_Suriname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.420","walltime":"0.548","ppvisitednodes":{"value":3046,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52758,"limit":2097152},"templateargumentsize":{"value":5660,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5980,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  476.182      1 -total"," 31.92%  151.979      1 Template:Infobox_political_party"," 28.06%  133.633      1 Template:Infobox"," 25.54%  121.609      1 Template:Reflist"," 23.82%  113.409      2 Template:Cite_web"," 18.19%   86.603      1 Template:Expand_Dutch"," 17.55%   83.577      1 Template:Expand_language"," 14.27%   67.946      1 Template:Ambox"," 10.69%   50.910     17 Template:Composition_bar"," 10.26%   48.857      1 Template:Hidden"]},"scribunto":{"limitreport-timeusage":{"value":"0.202","limit":"10.000"},"limitreport-memusage":{"value":4100977,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190914035950","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"National Party of Suriname","url":"https:\/\/en.wikipedia.org\/wiki\/National_Party_of_Suriname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2564279","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2564279","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-18T19:37:02Z","dateModified":"2019-07-03T02:32:41Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Convalescence - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Convalescence","wgTitle":"Convalescence","wgCurRevisionId":887705213,"wgRevisionId":887705213,"wgArticleId":6045553,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Health care","Medical phenomena","Health stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Convalescence","wgRelevantArticleId":6045553,"wgRequestId":"XYo9ZApAAEEAAB4iaHoAAAAL","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1891441","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/63/Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Convalescence"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Convalescence&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Convalescence&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Convalescence"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Convalescence rootpage-Convalescence skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Convalescence</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg/220px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg" decoding="async" width="220" height="271" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg/330px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg/440px-Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg 2x" data-file-width="1032" data-file-height="1269" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg" class="internal" title="Enlarge"></a></div>A convalescent woman. Photo by Paolo Monti.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg/220px-%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg" decoding="async" width="220" height="151" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg/330px-%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg/440px-%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg 2x" data-file-width="1672" data-file-height="1148" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:%27Religious_melancholia_and_convalescence%27_Wellcome_L0022597.jpg" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Melancholia" title="Melancholia">Religious melancholia</a> and convalescence</i></div></div></div>
+<p><b>Convalescence</b> is the gradual recovery of <a href="/wiki/Health" title="Health">health</a> and strength after <a href="/wiki/Illness" class="mw-redirect" title="Illness">illness</a> or <a href="/wiki/Injury" title="Injury">injury</a>. It refers to the later stage of an <a href="/wiki/Infectious_Disease" class="mw-redirect" title="Infectious Disease">infectious disease</a> or illness when the patient recovers and returns to previous health, but may continue to be a source of infection to others even if feeling better.<sup id="cite_ref-Cole_1947_1-0" class="reference"><a href="#cite_note-Cole_1947-1">&#91;1&#93;</a></sup> In this sense, "<a href="/wiki/Healing" title="Healing">recovery</a>" can be considered a synonymous term. This also sometimes includes <a href="/wiki/Patient_Care" class="mw-redirect" title="Patient Care">patient care</a> after a <a href="/wiki/Major_surgery" class="mw-redirect" title="Major surgery">major surgery</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> under which they are required to visit the <a href="/wiki/Physician" title="Physician">doctor</a> for regular <a href="/wiki/Check-up" class="mw-redirect" title="Check-up">check-ups</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Convalescent care facilities are sometimes recognized by the acronym CCF.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convalescence&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Drug_rehabilitation" title="Drug rehabilitation">Rehabilitation</a>, therapy to control a medical condition such as an addiction</li>
+<li><a href="/wiki/Recuperation_(recovery)" class="mw-redirect" title="Recuperation (recovery)">Recuperation (recovery)</a>, a period of physical or mental recovery</li>
+<li><a href="/wiki/Recuperation_(sociology)" class="mw-redirect" title="Recuperation (sociology)">Recuperation (sociology)</a>, a sociological concept</li>
+<li><a href="/wiki/Relapse" title="Relapse">Relapse</a>, reappearance of symptoms</li>
+<li><a href="/wiki/Remission_(medicine)" title="Remission (medicine)">Remission</a>, absence of symptoms in chronic diseases</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convalescence&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Cole_1947-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Cole_1947_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Cole WH, Keeton RW, Calloway NO, Glickman N, Mitchell HH, Dyniewicz J, Howes D (October 1947). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1803419">"Studies in Postoperative Convalescence"</a>. <i>Annals of Surgery</i>. <b>126</b> (4): 592–609. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1097%2F00000658-194710000-00017">10.1097/00000658-194710000-00017</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1803419">1803419</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17859018">17859018</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Surgery&amp;rft.atitle=Studies+in+Postoperative+Convalescence&amp;rft.volume=126&amp;rft.issue=4&amp;rft.pages=592-609&amp;rft.date=1947-10&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1803419&amp;rft_id=info%3Apmid%2F17859018&amp;rft_id=info%3Adoi%2F10.1097%2F00000658-194710000-00017&amp;rft.aulast=Cole&amp;rft.aufirst=WH&amp;rft.au=Keeton%2C+RW&amp;rft.au=Calloway%2C+NO&amp;rft.au=Glickman%2C+N&amp;rft.au=Mitchell%2C+HH&amp;rft.au=Dyniewicz%2C+J&amp;rft.au=Howes%2C+D&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1803419&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bisgaard T, Kehlet H, Rosenberg J (February 2001). "Pain and convalescence after laparoscopic cholecystectomy". <i>The European Journal of Surgery = Acta Chirurgica</i>. <b>167</b> (2): 84–96. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1080%2F110241501750070510">10.1080/110241501750070510</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11266262">11266262</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+European+Journal+of+Surgery+%3D+Acta+Chirurgica&amp;rft.atitle=Pain+and+convalescence+after+laparoscopic+cholecystectomy&amp;rft.volume=167&amp;rft.issue=2&amp;rft.pages=84-96&amp;rft.date=2001-02&amp;rft_id=info%3Adoi%2F10.1080%2F110241501750070510&amp;rft_id=info%3Apmid%2F11266262&amp;rft.aulast=Bisgaard&amp;rft.aufirst=T&amp;rft.au=Kehlet%2C+H&amp;rft.au=Rosenberg%2C+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Laplace (February 1946). "Convalescence from surgical procedures. I. Studies of the circulation lying and standing, of tremor, and of a program of bed exercises and early rising". <i>American Heart Journal</i>. <b>31</b> (2): 249. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2F0002-8703%2846%2990635-7">10.1016/0002-8703(46)90635-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Heart+Journal&amp;rft.atitle=Convalescence+from+surgical+procedures.+I.+Studies+of+the+circulation+lying+and+standing%2C+of+tremor%2C+and+of+a+program+of+bed+exercises+and+early+rising&amp;rft.volume=31&amp;rft.issue=2&amp;rft.pages=249&amp;rft.date=1946-02&amp;rft_id=info%3Adoi%2F10.1016%2F0002-8703%2846%2990635-7&amp;rft.au=Laplace&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Tui C, Wright AM, Mulholland JH, Carabba V, Barcham I, Vinci VJ (July 1944). <a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1617881">"Studies on Surgical Convalescence I-Sources of Nitrogen Loss Postgastrectomy and Effect of High Amino-Acid and High Caloric Intake on Convalescence"</a>. <i>Annals of Surgery</i>. <b>120</b> (1): 99–122. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1097%2F00000658-194407000-00013">10.1097/00000658-194407000-00013</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC1617881">1617881</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17858477">17858477</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+Surgery&amp;rft.atitle=Studies+on+Surgical+Convalescence+I-Sources+of+Nitrogen+Loss+Postgastrectomy+and+Effect+of+High+Amino-Acid+and+High+Caloric+Intake+on+Convalescence&amp;rft.volume=120&amp;rft.issue=1&amp;rft.pages=99-122&amp;rft.date=1944-07&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1617881&amp;rft_id=info%3Apmid%2F17858477&amp;rft_id=info%3Adoi%2F10.1097%2F00000658-194407000-00013&amp;rft.aulast=Tui&amp;rft.aufirst=C&amp;rft.au=Wright%2C+AM&amp;rft.au=Mulholland%2C+JH&amp;rft.au=Carabba%2C+V&amp;rft.au=Barcham%2C+I&amp;rft.au=Vinci%2C+VJ&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC1617881&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Pillsbury BL (1978). <a rel="nofollow" class="external text" href="https://embryo.asu.edu/pages/doing-month-confinement-and-convalescence-chinese-women-after-childbirth-1978-barbara-lk">"<span class="cs1-kern-left">'</span>Doing the Month': Confinement and Convalescence of Chinese Women After Childbirth"</a>. <i>The Embryo Project Encyclopedia</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Embryo+Project+Encyclopedia&amp;rft.atitle=%27Doing+the+Month%27%3A+Confinement+and+Convalescence+of+Chinese+Women+After+Childbirth&amp;rft.date=1978&amp;rft.aulast=Pillsbury&amp;rft.aufirst=Barbara+L.K.&amp;rft_id=https%3A%2F%2Fembryo.asu.edu%2Fpages%2Fdoing-month-confinement-and-convalescence-chinese-women-after-childbirth-1978-barbara-lk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://academic.oup.com/gerontologist/article-abstract/55/Suppl_2/719/2489541?redirectedFrom=fulltext">"Transitional Convalescent Facilities (tcf): a pilot alternative rehabilitation programme for patients who require a longer term of rehabilitation"</a>. <i>The Gerontologist</i>. <b>55</b> (Suppl_2): 719. 2015-10-23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fgeront%2Fgnv358.02">10.1093/geront/gnv358.02</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Gerontologist&amp;rft.atitle=Transitional+Convalescent+Facilities+%28tcf%29%3A+a+pilot+alternative+rehabilitation+programme+for+patients+who+require+a+longer+term+of+rehabilitation&amp;rft.volume=55&amp;rft.issue=Suppl_2&amp;rft.pages=719&amp;rft.date=2015-10-23&amp;rft_id=info%3Adoi%2F10.1093%2Fgeront%2Fgnv358.02&amp;rft_id=https%3A%2F%2Facademic.oup.com%2Fgerontologist%2Farticle-abstract%2F55%2FSuppl_2%2F719%2F2489541%3FredirectedFrom%3Dfulltext&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvalescence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convalescence&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a> The dictionary definition of <a href="https://en.wiktionary.org/wiki/Special:Search/convalescence" class="extiw" title="wiktionary:Special:Search/convalescence"><i>convalescence</i></a> at Wiktionary</li></ul>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Esculaap4.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Esculaap4.svg/20px-Esculaap4.svg.png" decoding="async" width="20" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Esculaap4.svg/30px-Esculaap4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Esculaap4.svg/40px-Esculaap4.svg.png 2x" data-file-width="200" data-file-height="300" /></a></td><td><i>This <a href="/wiki/Health" title="Health">health</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Convalescence&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Health-stub" title="Template:Health-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Health-stub" title="Template talk:Health-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Health-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1263
+Cached time: 20190907043206
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.180 seconds
+Real time usage: 0.245 seconds
+Preprocessor visited node count: 452/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17362/2097152 bytes
+Template argument size: 158/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20461/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.112/10.000 seconds
+Lua memory usage: 2.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  206.316      1 -total
+ 87.43%  180.382      1 Template:Reflist
+ 75.46%  155.683      5 Template:Cite_journal
+  9.37%   19.332      1 Template:Health-stub
+  8.09%   16.687      1 Template:Asbox
+  3.32%    6.847      1 Template:Cite_web
+  3.13%    6.463      1 Template:Wiktionary-inline
+  2.14%    4.424      1 Template:Sister-inline
+  1.52%    3.140      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:6045553-0!canonical and timestamp 20190907043206 and revision id 887705213
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Convalescence&amp;oldid=887705213">https://en.wikipedia.org/w/index.php?title=Convalescence&amp;oldid=887705213</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Health_care" title="Category:Health care">Health care</a></li><li><a href="/wiki/Category:Medical_phenomena" title="Category:Medical phenomena">Medical phenomena</a></li><li><a href="/wiki/Category:Health_stubs" title="Category:Health stubs">Health stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Convalescence" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Convalescence" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Convalescence" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Convalescence" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Convalescence">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Convalescence&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Convalescence&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Convalescence" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Convalescence" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Convalescence&amp;oldid=887705213" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Convalescence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1891441" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Convalescence&amp;id=887705213" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Convalescence" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Convalescence">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Convalescence&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Convalescence&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D9%87%D8%A9" title="نقاهة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Convalesc%C3%A8ncia" title="Convalescència – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rekonvaleszenz" title="Rekonvaleszenz – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Convalecencia" title="Convalecencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Eriondo" title="Eriondo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%A7%D9%87%D8%AA" title="نقاهت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Convalescence" title="Convalescence – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Convalescenza" title="Convalescenza – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BD%D0%B2%D0%B0%D0%BB%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82" title="Реконвалесцент – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%97%85%E3%81%BF%E4%B8%8A%E3%81%8C%E3%82%8A" title="病み上がり – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rekonwalescencja" title="Rekonwalescencja – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D1%8B%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5" title="Выздоровление – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BD%D0%B2%D0%B0%D0%BB%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%86%D0%B8%D1%98%D0%B0" title="Реконвалесценција – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Konvalescens" title="Konvalescens – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1891441#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 March 2019, at 09:11<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Convalescence&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.180","walltime":"0.245","ppvisitednodes":{"value":452,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17362,"limit":2097152},"templateargumentsize":{"value":158,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20461,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  206.316      1 -total"," 87.43%  180.382      1 Template:Reflist"," 75.46%  155.683      5 Template:Cite_journal","  9.37%   19.332      1 Template:Health-stub","  8.09%   16.687      1 Template:Asbox","  3.32%    6.847      1 Template:Cite_web","  3.13%    6.463      1 Template:Wiktionary-inline","  2.14%    4.424      1 Template:Sister-inline","  1.52%    3.140      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.112","limit":"10.000"},"limitreport-memusage":{"value":3137172,"limit":52428800}},"cachereport":{"origin":"mw1263","timestamp":"20190907043206","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Convalescence","url":"https:\/\/en.wikipedia.org\/wiki\/Convalescence","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1891441","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1891441","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-20T18:02:19Z","dateModified":"2019-03-14T09:11:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/63\/Paolo_Monti_-_Serie_fotografica_-_BEIC_6341398.jpg","headline":"gradual recovery of health and strength after illness or injury"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1270"});});</script>
+</body>
+</html>

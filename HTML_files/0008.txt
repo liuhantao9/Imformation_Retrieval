@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>CD single - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"CD_single","wgTitle":"CD single","wgCurRevisionId":913537287,"wgRevisionId":913537287,"wgArticleId":2104415,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2010","Articles needing additional references from December 2016","All articles needing additional references","Compact disc","Single types","Audiovisual introductions in 1985"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr",
+"May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"CD_single","wgRelevantArticleId":2104415,"wgRequestId":"XYtcrQpAAEIAAGtJ6iwAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q719645","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/CD_single"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=CD_single&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=CD_single&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/CD_single"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-CD_single rootpage-CD_single skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">CD single</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>CD single</b> (sometimes abbreviated to <b>CDS</b>) is a <a href="/wiki/Single_(music)" title="Single (music)">music single</a> in the form of a <a href="/wiki/Compact_disc" title="Compact disc">compact disc</a>. The standard in the <a href="/wiki/Rainbow_Books" title="Rainbow Books">Red Book</a> for the term <i>CD single</i> is an 8cm (3 inch) CD (or <b>Mini CD</b>).<sup id="cite_ref-e-words.jp_1-0" class="reference"><a href="#cite_note-e-words.jp-1">&#91;1&#93;</a></sup> It now refers to any single recorded onto a CD of any size, particularly the CD5, or 5-inch CD single. The format was introduced in the mid-1980s but did not gain its place in the market until the early 1990s. With the rise in digital downloads in the early 2010s, sales of CD singles have decreased.
+</p><p>Commercially released CD singles can vary in length from two songs (an A side and B side, in the tradition of 7" 45rpm records) up to six songs like an <a href="/wiki/Extended_play" title="Extended play">EP</a>. Some contain multiple mixes of one or more songs (known as <a href="/wiki/Remix" title="Remix">remixes</a>), in the tradition of <a href="/wiki/12-inch_single" class="mw-redirect" title="12-inch single">12" vinyl singles</a>, and in some cases, they may also contain a <a href="/wiki/Music_video" title="Music video">music video</a> for the single itself as well as a collectible <a href="/wiki/Poster" title="Poster">poster</a>. Depending on the nation, there may be limits on the number of songs and total length for sales to count in singles charts.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mini_CD"><span class="tocnumber">2</span> <span class="toctext">Mini CD</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Japan"><span class="tocnumber">2.1</span> <span class="toctext">Japan</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#United_States"><span class="tocnumber">2.2</span> <span class="toctext">United States</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#United_Kingdom"><span class="tocnumber">2.3</span> <span class="toctext">United Kingdom</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Technology"><span class="tocnumber">2.4</span> <span class="toctext">Technology</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Longevity"><span class="tocnumber">2.5</span> <span class="toctext">Longevity</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Technical_specifications"><span class="tocnumber">2.6</span> <span class="toctext">Technical specifications</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Demise_of_the_CD_single_in_the_United_Kingdom"><span class="tocnumber">3</span> <span class="toctext">Demise of the CD single in the United Kingdom</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Dire_Straits" title="Dire Straits">Dire Straits</a>' "<a href="/wiki/Brothers_in_Arms_(song)" title="Brothers in Arms (song)">Brothers in Arms</a>" (1985) is reported to have been the world's first CD single,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> issued in the UK in two separate singles as a promotional item, one distinguished with a logo for the tour, Live in '85, and a second to commemorate the Australian leg of the tour marked Live in '86. Containing four tracks, it had a very limited print run. The first commercially released CD Single was Angeline by <a href="/wiki/John_Martyn" title="John Martyn">John Martyn</a> released on 1 February 1986.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> CD singles were first made eligible for the <a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK Singles Chart</a> in 1987, and the first number 1 available on the format in that country was "<a href="/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)" title="I Wanna Dance with Somebody (Who Loves Me)">I Wanna Dance with Somebody (Who Loves Me)</a>" by <a href="/wiki/Whitney_Houston" title="Whitney Houston">Whitney Houston</a> in May 1987.
+</p><p>The <a href="/wiki/Mini_CD_single" class="mw-redirect" title="Mini CD single">Mini CD single</a> CD3 format was originally created for use for singles in the late 1980s, but met with limited success, particularly in the US.<sup id="cite_ref-auto_4-0" class="reference"><a href="#cite_note-auto-4">&#91;4&#93;</a></sup> The smaller CDs were more successful in Japan<sup id="cite_ref-RSCDNews1989_5-0" class="reference"><a href="#cite_note-RSCDNews1989-5">&#91;5&#93;</a></sup> and had a resurgence in Europe early this century, marketed as "Pock it" CDs, being small enough to fit in a shirt pocket. By 1989, the CD3 was in decline in the US (replaced by the 5-inch CD single, called CD-5).<sup id="cite_ref-RSCDNews1989_5-1" class="reference"><a href="#cite_note-RSCDNews1989-5">&#91;5&#93;</a></sup>
+</p><p>It was common in the 1990s for US record companies to release both a two-track CD and a multi-track (usually "remix") maxi CD. In the UK, record companies would also release two CDs but, usually, these consisted of three tracks or more each.
+</p><p>During the 1990s, CD single releases became less common in certain countries and were often released in smaller editions, as the major record labels feared they were cannibalizing the sales of higher-profit-margin CD albums. Pressure from record labels made singles charts in some countries become song charts, allowing album cuts to chart based only on airplay, without a single ever being released. In the US, the <a href="/wiki/Billboard_Hot_100" title="Billboard Hot 100"><i>Billboard</i> Hot 100</a> made this change in December 1998, after which very few songs were released in the CD single format in the US, but they remained extremely popular in the UK and other countries, where charts were still based solely on single sales and not radio airplay. At the end of the 1990s, the CD was the biggest-selling single format in the UK, but in the US, the dominant single format was airplay. With the advent of digital music sales, the CD single has largely been replaced as a distribution format in most countries, and most charts now include digital download counts as well as physical single sales.
+</p><p>In Australia, the <i><a href="/wiki/Herald_Sun" title="Herald Sun">Herald Sun</a></i> reported the CD single is "set to become extinct". In early July 2009, leading music store <a href="/wiki/JB_Hi-Fi" title="JB Hi-Fi">JB Hi-Fi</a> ceased stocking CD singles because of declining sales, with copies of the week's No. 1 single often selling as few as only 350 copies across all their stores nationwide.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> While CD singles no longer maintain their own section of the store, copies are still distributed but placed with the artist's albums. That is predominantly the case for popular Australian artists such as <a href="/wiki/Jessica_Mauboy" title="Jessica Mauboy">Jessica Mauboy</a>, <a href="/wiki/Kylie_Minogue" title="Kylie Minogue">Kylie Minogue</a> and, most recently, <a href="/wiki/Delta_Goodrem" title="Delta Goodrem">Delta Goodrem</a>, whose then-recent singles ("<a href="/wiki/What_Happened_to_Us" title="What Happened to Us">What Happened to Us</a>", "<a href="/wiki/Put_Your_Hands_Up_(If_You_Feel_Love)" title="Put Your Hands Up (If You Feel Love)">Put Your Hands Up (If You Feel Love)</a>" and "<a href="/wiki/Sitting_on_Top_of_the_World_(Delta_Goodrem_song)" title="Sitting on Top of the World (Delta Goodrem song)">Sitting on Top of the World</a>" respectively) were released on CD in limited quantities. The <a href="/wiki/ARIA_Charts" title="ARIA Charts">ARIA Singles Chart</a> is now "predominantly compiled from legal downloads", and <a href="/wiki/Australian_Recording_Industry_Association" title="Australian Recording Industry Association">ARIA</a> also stopped compiling their physical singles sales chart. "<a href="/wiki/On_a_Mission_(song)" title="On a Mission (song)">On a Mission</a>" by <a href="/wiki/Gabriella_Cilmi" title="Gabriella Cilmi">Gabriella Cilmi</a> was the last CD single to be stocked in <a href="/wiki/Kmart" title="Kmart">Kmart</a>, <a href="/wiki/Target_Australia" title="Target Australia">Target</a> and <a href="/wiki/Big_W" title="Big W">Big W</a>, who then concluded stocking newly released singles. <a href="/wiki/Sanity_(music_store)" title="Sanity (music store)">Sanity Entertainment</a>, having resisted the decline for longer than the other major outlets, has also ceased selling CD singles.
+</p><p>In <a href="/wiki/China" title="China">China</a> and <a href="/wiki/South_Korea" title="South Korea">South Korea</a>, CD single releases have been rare ever since the format was introduced, due of the amount of infringement and illegal file sharing over the internet, and most of the time singles have generally been album cuts chart based only on airplay, but with the advent of digital music the charts have also occasionally included digital download counts.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2010)">citation needed</span></a></i>&#93;</sup>
+</p><p>In <a href="/wiki/Greece" title="Greece">Greece</a> and <a href="/wiki/Cyprus" title="Cyprus">Cyprus</a>, the term "CD single" is used to describe an <a href="/wiki/Extended_play" title="Extended play">extended play</a> (EP) in which there may be anywhere from three to six different tracks. These releases charted on the <a href="/wiki/IFPI_Greece" title="IFPI Greece">Greek Singles Chart</a> (before it abandoned tracking altogether) with songs released as <a href="/wiki/Single_(music)" title="Single (music)">singles</a>.
+</p>
+<h2><span class="mw-headline" id="Mini_CD">Mini CD</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=2" title="Edit section: Mini CD">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox" style="width:22em"><caption>Mini CD single</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:8cm_CD_single_jacket.jpg" class="image"><img alt="8cm CD single jacket.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/8cm_CD_single_jacket.jpg/220px-8cm_CD_single_jacket.jpg" decoding="async" width="220" height="147" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/8cm_CD_single_jacket.jpg/330px-8cm_CD_single_jacket.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/8cm_CD_single_jacket.jpg/440px-8cm_CD_single_jacket.jpg 2x" data-file-width="800" data-file-height="533" /></a><div>Mini CD single</div></td></tr><tr><th scope="row">Media type</th><td><a href="/wiki/Optical_disc" title="Optical disc">Optical disc</a></td></tr><tr><th scope="row">Capacity</th><td>80 mm holds up to 24 minutes of music, or 210 MiB (210 × 2<sup>20</sup> bytes) of data.</td></tr><tr><th scope="row"><a href="/wiki/International_standard" title="International standard">Standard</a></th><td><a href="/wiki/Compact_Disc_Digital_Audio" title="Compact Disc Digital Audio">Red Book</a></td></tr><tr><th scope="row">Dimensions</th><td>8 <a href="/wiki/Centimeter" class="mw-redirect" title="Centimeter">Centimeters</a> (3.1<a href="/wiki/Inch" title="Inch">Inch</a>)</td></tr><tr><th scope="row">Usage</th><td>Audio storage</td></tr><tr><th scope="row">Released</th><td>1987<sup id="cite_ref-auto_4-1" class="reference"><a href="#cite_note-auto-4">&#91;4&#93;</a></sup></td></tr></tbody></table>
+<p>The original <i>CD single</i> (sometimes <b>mini CD single</b> or <b>3-inch CD</b> or <b>CD3</b> in the US) is a <a href="/wiki/Music_single" class="mw-redirect" title="Music single">music single</a> released on a <a href="/wiki/Mini_CD" title="Mini CD">mini Compact Disc</a> that measures 8&#160;cm (3.1&#160;in) in diameter, rather than the standard 12&#160;cm (4.7&#160;in). They are manufactured using the same methods as standard full-size CDs, and can be played in most standard audio <a href="/wiki/CD_player" title="CD player">CD players</a> and <a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a> <a href="/wiki/Disk_storage" title="Disk storage">disc drives</a>.<sup id="cite_ref-auto_4-2" class="reference"><a href="#cite_note-auto-4">&#91;4&#93;</a></sup>
+</p><p>The format was first released in the <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, <a href="/wiki/Japan" title="Japan">Japan</a>, <a href="/wiki/France" title="France">France</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a>, and <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> in 1987 as the replacement for the 7-inch single.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> While mini CDs have fallen out of popularity among most major record labels (partly due to their incompatibility with many slot-loading CD players), they remain a popular, low cost way for independent musicians and groups to release music.<sup id="cite_ref-auto_4-3" class="reference"><a href="#cite_note-auto-4">&#91;4&#93;</a></sup> 
+Capable of holding up to 20 minutes of music, most mini CD singles contain at least two tracks, often consisting of a single edit and an <a href="/wiki/Instrumental" title="Instrumental">instrumental</a> version in the same way as 7-inch <a href="/wiki/Phonograph_record" title="Phonograph record">vinyl</a> singles.<sup id="cite_ref-auto1_8-0" class="reference"><a href="#cite_note-auto1-8">&#91;8&#93;</a></sup> 
+</p>
+<h3><span class="mw-headline" id="Japan">Japan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=3" title="Edit section: Japan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These were released in both a 5" size slim <a href="/wiki/Jewel_case" class="mw-redirect" title="Jewel case">jewel case</a> and long flip-out sleeve snap-packs or (<a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>: tanzaku) as they are known in Japan.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> These sleeves could be 'snapped' and folded into a small 3" (8cm) square, rather than the original 6" by 3" inch (15×8&#160;cm) length when originally sold. 
+</p><p>Beginning in 1999 some labels began to package mini CDs in 12cm slimline cases. As the "tanzaku" sleeves slowly morphed into the use of slimline jewel cases, the mini CD single was haulted from production in the early 2000s. 
+</p><p>As popularity diminished, one of the last Japanese 8cm CD single released was a reissue and repackaging of "<a href="/wiki/I_Was_Born_to_Love_You_(song)" title="I Was Born to Love You (song)">I Was Born to Love You</a>" by <a href="/wiki/Queen_(band)" title="Queen (band)">Queen</a> in 2004. Many of the artists who released 3" CDs are from that era, including <a href="/wiki/Wink_(Japanese_band)" title="Wink (Japanese band)">Wink</a>, <a href="/wiki/Madonna_(entertainer)" title="Madonna (entertainer)">Madonna</a>, <a href="/wiki/Phil_Collins" title="Phil Collins">Phil Collins</a>, <a href="/wiki/Michael_Jackson" title="Michael Jackson">Michael Jackson</a>, <a href="/wiki/Queen_(band)" title="Queen (band)">Queen</a>, <a href="/wiki/U2" title="U2">U2</a>, <a href="/wiki/Prince_(musician)" title="Prince (musician)">Prince</a>, <a href="/wiki/Metallica" title="Metallica">Metallica</a>, <a href="/wiki/Bros" title="Bros">Bros</a>, <a href="/wiki/Huey_Lewis_and_the_News" title="Huey Lewis and the News">Huey Lewis and the News</a>, <a href="/wiki/Bon_Jovi" title="Bon Jovi">Bon Jovi</a>, <a href="/wiki/Kylie_Minogue" title="Kylie Minogue">Kylie Minogue</a>, <a href="/wiki/Falco_(musician)" title="Falco (musician)">Falco</a> and <a href="/wiki/George_Michael" title="George Michael">George Michael</a>. Some singles packaged in 5" single jewel cases contained a 5" CD adapter. 
+</p><p>Most were sold at around <a href="/wiki/Yen" class="mw-redirect" title="Yen">¥</a>1,000 (<a href="/wiki/UK%C2%A3" class="mw-redirect" title="UK£">£</a>6 or <a href="/wiki/US$" class="mw-redirect" title="US$">$</a>9) at the time of release during the late 1980s, early 2000s to the present day. 
+</p><p>However, there has been a small revival in the mini CD single with Japanese artists such as ベッド・イン（Bed In) releasing a 2017 single in long sleeve "tanzaku" form, by the record company <a href="/wiki/King_Records_(Japan)" title="King Records (Japan)">King Records</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=4" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>US versions were often packaged in cardboard slipcases, either 3" square or 6" by 3" gatefold. Others were released in 5" slimline single cases, which allowed an adapter to be included with the CD. At the time of first release in 1987, their retail price was between $4 and $6 at least $3 less than even the least-expensive 5-inch discs. <a href="/wiki/Delos_Productions" title="Delos Productions">Delos Records</a>, a small, independent label, issued the first commercially available 3-inch CDs in 1987 with 20 classical and jazz titles. The Massachusetts-based <a href="/wiki/Rykodisc" title="Rykodisc">Rykodisc</a> issued Frank Zappa’s “<a href="/wiki/Peaches_en_Regalia" title="Peaches en Regalia">Peaches en Regalia</a>” the first pop 3-inch CD. Initially when released, 300,000 of the discs were shipped to retail outlets.<sup id="cite_ref-auto_4-4" class="reference"><a href="#cite_note-auto-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=5" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=CD_single&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">December 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>UK 3" CDs were made mostly in a small square case/cover form only, some including a 5" CD adapter to use in normal compact disc players. Although the format was not widely available in the United Kingdom, several artists have released singles in the format.
+</p>
+<h3><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=6" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From a technical standpoint, a 3-inch CD follows the <a href="/wiki/Red_Book_(audio_CD_standard)" class="mw-redirect" title="Red Book (audio CD standard)">Red Book</a> standard for CD digital audio. The major difference is that the smaller physical size of the disc allows for fewer data sectors, meaning the disc can store less audio. The majority of audio CD players and CD-ROM drives have a smaller circular indentation in the CD tray for holding these discs. Most slot-loading drives, such as those found in some car CD players, are unable to manipulate the smaller discs or their adapters. Laptop drives generally only require the centre hole to hold the disc so the smaller diameter is irrelevant. In fact, software and drivers for some hardware are provided on the 3" discs.
+</p>
+<h3><span class="mw-headline" id="Longevity">Longevity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=7" title="Edit section: Longevity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, the format barely lasted into the early 1990s, partly due to inconvenience of needing to attach an adapter on every disc (very few packages were issued with one) before playing. <a href="/wiki/Sony" title="Sony">Sony</a> remained in support of the 3-inch CD having had plans to launch a 3-inch CD player for the Japanese market in 1988.<sup id="cite_ref-auto1_8-1" class="reference"><a href="#cite_note-auto1-8">&#91;8&#93;</a></sup> 
+It was largely replaced by simply putting less music on a regular full-size CD, at least among major labels.  The full-size discs are a more standard manufacturing process and so may end up being cheaper to press. The CD single format continued until 2000 for <a href="/wiki/Japan" title="Japan">Japanese</a> releases. Despite the unpopularity it survived with publishers adopting the 3-inch CD as an inexpensive way of presenting bonus material with books.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Technical_specifications">Technical specifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=8" title="Edit section: Technical specifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Data: 185-210MiB (versus 650-703MiB on a 12&#160;cm CD)</li>
+<li>Audio: 21–24 minutes (versus 74–80 minutes on a 12&#160;cm CD)<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li></ul>
+<p>The slim <a href="/wiki/CD_and_DVD_packaging" class="mw-redirect" title="CD and DVD packaging">jewel boxes</a> used for 3" CDs are nearly the same size as 3.5" <a href="/wiki/Floppy_disk" title="Floppy disk">floppy disks</a>, making storage boxes for 3.5" floppies usable for 3" CDs as well.
+</p>
+<h2><span class="mw-headline" id="Demise_of_the_CD_single_in_the_United_Kingdom">Demise of the CD single in the United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=9" title="Edit section: Demise of the CD single in the United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders sortable">
+<tbody><tr>
+<th scope="col" class="unsortable">Period
+</th>
+<th scope="col">Sales
+</th>
+<th scope="col">Percentage
+</th>
+<th scope="col" class="unsortable">Other sales
+</th></tr>
+<tr>
+<td>January–December 1999<sup id="cite_ref-Wallop_14-0" class="reference"><a href="#cite_note-Wallop-14">&#91;14&#93;</a></sup>
+</td>
+<td>78 million
+</td>
+<td>Probably 95%+
+</td>
+<td>
+</td></tr>
+<tr>
+<td>January–December 2004<sup id="cite_ref-Wallop_14-1" class="reference"><a href="#cite_note-Wallop-14">&#91;14&#93;</a></sup>
+</td>
+<td>
+</td>
+<td>Less than 50%
+</td>
+<td>DL: more than 50%
+</td></tr>
+<tr>
+<td>January–June 2006<sup id="cite_ref-Dangerfield_15-0" class="reference"><a href="#cite_note-Dangerfield-15">&#91;15&#93;</a></sup>
+</td>
+<td>
+</td>
+<td>19%
+</td>
+<td>
+<p>DL:&#160;?/76.7%<br />
+7":&#160;?/1.7%<br />
+12":&#160;?/2.1%<br />
+Other:&#160;?/0.4%
+</p>
+</td></tr>
+<tr>
+<td>January–June 2007<sup id="cite_ref-Dangerfield_15-1" class="reference"><a href="#cite_note-Dangerfield-15">&#91;15&#93;</a></sup>
+</td>
+<td>
+</td>
+<td>8.1%
+</td>
+<td>
+<p>DL:&#160;?/88.9%<br />
+7":&#160;?/1.5%<br />
+12":&#160;?/1.2%<br />
+Other:&#160;?/0.3%
+</p>
+</td></tr>
+<tr>
+<td>January–December 2007<sup id="cite_ref-Wallop_14-2" class="reference"><a href="#cite_note-Wallop-14">&#91;14&#93;</a></sup>
+</td>
+<td>8 million
+</td>
+<td>
+</td>
+<td>DL: 72.6 million
+</td></tr>
+<tr>
+<td>January–December 2008<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</td>
+<td>4.6 million
+</td>
+<td>
+</td>
+<td>DL: 110.3 million
+</td></tr>
+<tr>
+<td>January-1 October 2009<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</td>
+<td>Less than 1.6 million
+</td>
+<td>Less than 1.4%
+</td>
+<td>DL: 115.4 million
+</td></tr></tbody></table>
+<p>In September 2003, there was talk of ringtones for mobile phones outstripping CD singles sales for the year 2004.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p><p><a href="/wiki/Woolworths_Group" title="Woolworths Group">Woolworths Group</a>, which previously accounted for one third of all CD sales in the country, stopped selling CD singles in August 2008, citing the "terminal decline" of the format as customers moved to digital downloads as their preferred method of purchasing single tracks<sup id="cite_ref-Wallop_14-3" class="reference"><a href="#cite_note-Wallop-14">&#91;14&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> (the Woolworths chain itself would collapse the following November).
+</p><p>In July 2009, <i>The Guardian</i> reported that <a href="/wiki/Florence_%2B_The_Machine" class="mw-redirect" title="Florence + The Machine">Florence + The Machine</a>'s single '<a href="/wiki/Rabbit_Heart_(Raise_It_Up)" title="Rabbit Heart (Raise It Up)">Rabbit Heart (Raise It Up)</a>' sold a CD and 7" vinyl combined total of 64 copies, where it reached No. 16 in the Mid-Week Chart.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>In March 2011, <a href="/wiki/Mercury_Records" title="Mercury Records">Mercury Records</a> announced that they were to stop manufacturing CD singles for lack of demand and loss of money on the format in 2010.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>As of 2012, selected <a href="/wiki/HMV" title="HMV">HMV</a> stores sold a small selection of CD singles, mostly charity releases and acts from <i><a href="/wiki/The_X_Factor_(UK)" class="mw-redirect" title="The X Factor (UK)">The X Factor</a></i>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Single_(music)" title="Single (music)">Single</a></li>
+<li><a href="/wiki/Promotional_recording" title="Promotional recording">Radio single</a></li>
+<li><a href="/wiki/A-side_and_B-side" title="A-side and B-side">A-side and B-side</a></li>
+<li><a href="/wiki/Extended_play" title="Extended play">EP</a></li>
+<li><a href="/wiki/Maxi_single" title="Maxi single">Maxi single</a></li>
+<li><a href="/wiki/Music_download" title="Music download">Digital download</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=CD_single&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-e-words.jp-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e-words.jp_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://sp.e-words.jp/p/r-cd.html">http://sp.e-words.jp/p/r-cd.html</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.discogs.com/Dire-Straits-Brothers-In-Arms-Live-In-85/release/2977615">"Dire Straits – Brothers In Arms - Live In '85"</a>. Discogs. 1985<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dire+Straits+%E2%80%93+Brothers+In+Arms+-+Live+In+%2785&amp;rft.pub=Discogs&amp;rft.date=1985&amp;rft_id=http%3A%2F%2Fwww.discogs.com%2FDire-Straits-Brothers-In-Arms-Live-In-85%2Frelease%2F2977615&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mattscdsingles.com">"John Martyn - Angeline, First commercially released CD Single"</a>. Matt's CD Singles. 1986<span class="reference-accessdate">. Retrieved <span class="nowrap">12 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=John+Martyn+-+Angeline%2C+First+commercially+released+CD+Single&amp;rft.pub=Matt%27s+CD+Singles&amp;rft.date=1986&amp;rft_id=http%3A%2F%2Fwww.mattscdsingles.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-auto-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-auto_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-auto_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-auto_4-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://articles.chicagotribune.com/1988-08-06/entertainment/8801210237_1_cd-market-3-inch-cd-discs">3-inch Compact Discs Aim At Singles Market</a> - August 06, 1988|By Los Angeles Daily News.</span>
+</li>
+<li id="cite_note-RSCDNews1989-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-RSCDNews1989_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-RSCDNews1989_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"CD News" by Pete Howard for Rolling Stone magazine, 14–28 December 1989, page 216</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Adams, Cameron (2 July 2009). <a rel="nofollow" class="external text" href="http://www.news.com.au/national/jb-hifi-stops-selling-cd-singles-because-of-declining-sales/story-e6frfkp9-1225744990601">"JB HiFi stops selling CD singles because of declining sales"</a>. <i><a href="/wiki/Herald_Sun" title="Herald Sun">Herald Sun</a></i>. <a href="/wiki/News.com.au" title="News.com.au">News.com.au</a><span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Herald+Sun&amp;rft.atitle=JB+HiFi+stops+selling+CD+singles+because+of+declining+sales&amp;rft.date=2009-07-02&amp;rft.aulast=Adams&amp;rft.aufirst=Cameron&amp;rft_id=http%3A%2F%2Fwww.news.com.au%2Fnational%2Fjb-hifi-stops-selling-cd-singles-because-of-declining-sales%2Fstory-e6frfkp9-1225744990601&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=tVVMAgAAQBAJ&amp;pg=PT87&amp;dq=cd-3+inch+single+japan+format+20+minutes&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjb3L-KudzbAhXIY8AKHZRIAYoQ6AEIJDAA#v=onepage&amp;q=cd-3%20inch%20single%20japan%20format%2020%20minutes&amp;f=false">The Music Lover's Guide to Record Collecting</a> - By Dave Thompson. “CD-3s Good Things Don’t Always Come In Small Packages”</span>
+</li>
+<li id="cite_note-auto1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto1_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=tVVMAgAAQBAJ&amp;pg=PT87&amp;dq=cd-3+inch+single+japan+format+20+minutes&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjb3L-KudzbAhXIY8AKHZRIAYoQ6AEIJDAA#v=onepage&amp;q=cd-3%20inch%20single%20japan%20format%2020%20minutes&amp;f=false">The Music Lover's Guide to Record Collecting</a> - By Dave Thompson</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.alibris.com/glossary/glossary-music">"Glossary of Music Terms"</a>. <i><a href="/wiki/Alibris" title="Alibris">Alibris</a></i>. Alibris, Inc. alibris.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-03-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Alibris&amp;rft.atitle=Glossary+of+Music+Terms&amp;rft.pages=alibris.com&amp;rft_id=http%3A%2F%2Fwww.alibris.com%2Fglossary%2Fglossary-music&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kingrecords.co.jp/cs/g/gKIDS-471/">CO・CO・RO グラデーション</a> -（8㎝シングル) <a href="/wiki/King_Records_(Japan)" title="King Records (Japan)">King Records</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=tVVMAgAAQBAJ&amp;pg=PT87&amp;dq=cd-3+inch+single+format&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiWiJ_nqtzbAhUEKcAKHeSBDOkQ6AEILDAC#v=onepage&amp;q=cd-3%20inch%20single%20japanese%20format&amp;f=false">The Music Lover's Guide to Record Collecting</a> - By Dave Thompson</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.pricenfees.com/digit-life-archives/80-mm-cd-minus-size-plus-portability">"80 mm CD: Minus size - plus portability - ExtensivelyReviewed"</a>. <i>www.pricenfees.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.pricenfees.com&amp;rft.atitle=80+mm+CD%3A+Minus+size+-+plus+portability+-+ExtensivelyReviewed&amp;rft_id=https%3A%2F%2Fwww.pricenfees.com%2Fdigit-life-archives%2F80-mm-cd-minus-size-plus-portability&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="/wiki/Red_Book_(CD_standard)" class="mw-redirect" title="Red Book (CD standard)">Red Book (CD standard)</a></span>
+</li>
+<li id="cite_note-Wallop-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wallop_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wallop_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wallop_14-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Wallop_14-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Wallop, Harry (26 May 2008). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/uknews/2033246/CD-singles-off-the-shelves-at-Woolworths.html">"CD singles off the shelves at Woolworths"</a>. <i>The Daily Telegraph</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">20 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=CD+singles+off+the+shelves+at+Woolworths&amp;rft.date=2008-05-26&amp;rft.aulast=Wallop&amp;rft.aufirst=Harry&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2F2033246%2FCD-singles-off-the-shelves-at-Woolworths.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Dangerfield-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dangerfield_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dangerfield_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Dangerfield, Andy (23 July 2007). <a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/business/6289510.stm">"Can the CD single be saved?"</a>. <i>BBC News</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Can+the+CD+single+be+saved%3F&amp;rft.date=2007-07-23&amp;rft.aulast=Dangerfield&amp;rft.aufirst=Andy&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fbusiness%2F6289510.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Sean Michaels. <a rel="nofollow" class="external text" href="https://www.theguardian.com/music/2009/jan/08/uk-singles-sales-record-high">"UK singles sales hit record high in 2008"</a>. <i>the Guardian</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=the+Guardian&amp;rft.atitle=UK+singles+sales+hit+record+high+in+2008&amp;rft.au=Sean+Michaels&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2009%2Fjan%2F08%2Fuk-singles-sales-record-high&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news">Khan, Urmee (23 October 2009). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/culture/music/6417323/Sales-of-music-singles-hit-record-levels-thanks-to-internet-downloads.html">"Sales of music singles hit record levels thanks to internet downloads"</a>. <i>The Daily Telegraph</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=Sales+of+music+singles+hit+record+levels+thanks+to+internet+downloads&amp;rft.date=2009-10-23&amp;rft.aulast=Khan&amp;rft.aufirst=Urmee&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fculture%2Fmusic%2F6417323%2FSales-of-music-singles-hit-record-levels-thanks-to-internet-downloads.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.musiclawupdates.com/?p=4132">"Music Law Updates"</a>. <i>musiclawupdates.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=musiclawupdates.com&amp;rft.atitle=Music+Law+Updates&amp;rft_id=http%3A%2F%2Fwww.musiclawupdates.com%2F%3Fp%3D4132&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Ruki Sayid (26 May 2008). <a rel="nofollow" class="external text" href="https://www.mirror.co.uk/news/uk-news/cd-singles-to-be-axed-as-sales-fall-310166">"CD singles to be axed as sales fall"</a>. <i>mirror</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mirror&amp;rft.atitle=CD+singles+to+be+axed+as+sales+fall&amp;rft.date=2008-05-26&amp;rft.au=Ruki+Sayid&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Fuk-news%2Fcd-singles-to-be-axed-as-sales-fall-310166&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Rosie Swash. <a rel="nofollow" class="external text" href="https://www.theguardian.com/music/musicblog/2009/jul/15/chart-sales">"A chart hit with 64 sales?"</a>. <i>the Guardian</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=the+Guardian&amp;rft.atitle=A+chart+hit+with+64+sales%3F&amp;rft.au=Rosie+Swash&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2Fmusicblog%2F2009%2Fjul%2F15%2Fchart-sales&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">metrowebukmetro. <a rel="nofollow" class="external text" href="http://www.metro.co.uk/music/859140-arcade-fires-label-mercury-records-abolishes-physical-cd-singles">"Arcade Fire's label Mercury Records abolishes physical CD singles - Metro News"</a>. <i>Metro</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Metro&amp;rft.atitle=Arcade+Fire%27s+label+Mercury+Records+abolishes+physical+CD+singles+-+Metro+News&amp;rft.au=metrowebukmetro&amp;rft_id=http%3A%2F%2Fwww.metro.co.uk%2Fmusic%2F859140-arcade-fires-label-mercury-records-abolishes-physical-cd-singles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACD+single" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Compact_disc" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Compact_disc" title="Template:Compact disc"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Compact_disc" title="Template talk:Compact disc"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Compact_disc&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Compact_disc" style="font-size:114%;margin:0 4em"><a href="/wiki/Compact_disc" title="Compact disc">Compact disc</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discs</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Compact_disc" title="Compact disc">CD</a></li>
+<li><a href="/wiki/Compact_Disc_Digital_Audio" title="Compact Disc Digital Audio">CD-DA</a>
+<ul><li>Red Book</li></ul></li>
+<li><a href="/wiki/CD-R" title="CD-R">CD-R</a>
+<ul><li>Orange Book</li></ul></li>
+<li><a href="/wiki/CD-ROM" title="CD-ROM">CD-ROM</a>
+<ul><li>Yellow Book</li></ul></li>
+<li><a href="/wiki/CD-RW" title="CD-RW">CD-RW</a></li>
+<li><a href="/wiki/Mount_Rainier_(packet_writing)" title="Mount Rainier (packet writing)">CD-MRW</a></li>
+<li><a href="/wiki/CD-RW" title="CD-RW">CD-MO</a></li>
+<li><a href="/wiki/Philips_CD-i" title="Philips CD-i">CD-i</a>
+<ul><li><a href="/wiki/Green_Book_(CD_standard)" title="Green Book (CD standard)">Green Book</a></li></ul></li>
+<li><a href="/wiki/CD-Text" title="CD-Text">CD-Text</a></li>
+<li><a href="/wiki/Blue_Book_(CD_standard)" title="Blue Book (CD standard)">CD+</a>
+<ul><li>Blue Book</li></ul></li>
+<li><a href="/wiki/Compact_Disc_%2B_Extended_Graphics" class="mw-redirect" title="Compact Disc + Extended Graphics">CD+EG</a></li>
+<li><a href="/wiki/CD%2BG" title="CD+G">CD+G</a> (Karaoke)</li>
+<li><a href="/wiki/Gold_Compact_Disc" class="mw-redirect" title="Gold Compact Disc">Gold CD</a></li>
+<li><a href="/wiki/Mini_CD" title="Mini CD">MiniCD</a></li>
+<li><a href="/wiki/Mixed_Mode_CD" title="Mixed Mode CD">Mixed Mode CD</a></li>
+<li><a href="/wiki/Photo_CD" title="Photo CD">Photo CD</a>
+<ul><li>Beige Book</li></ul></li>
+<li><a href="/wiki/PMCD" title="PMCD">PMCD</a></li>
+<li><a href="/wiki/Shaped_Compact_Disc" title="Shaped Compact Disc">shaped CD</a>
+<ul><li><a href="/wiki/Mini_CD" title="Mini CD">business card CD</a></li></ul></li>
+<li><a href="/wiki/Super_Video_CD" title="Super Video CD">SVCD</a></li>
+<li><a href="/wiki/Video_CD" title="Video CD">VCD</a>
+<ul><li><a href="/wiki/White_Book_(CD_standard)" title="White Book (CD standard)">White Book</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rainbow_Books" title="Rainbow Books">Rainbow Books</a></li>
+<li><a href="/wiki/Optical_disc_authoring" title="Optical disc authoring">CD authoring</a></li>
+<li><a href="/wiki/Optical_disc_authoring" title="Optical disc authoring">CD burning</a></li>
+<li><a href="/wiki/Compact_Disc_and_DVD_copy_protection" title="Compact Disc and DVD copy protection">CD copy protection</a></li>
+<li><a href="/wiki/Disk_image#Uses" title="Disk image">CD emulation</a></li>
+<li><a href="/wiki/Compact_Disc_manufacturing" title="Compact Disc manufacturing">CD manufacturing</a></li>
+<li><a href="/wiki/Ripping" title="Ripping">CD ripping</a></li>
+<li><a href="/wiki/Disc_rot" title="Disc rot">CD rot</a>
+<ul><li><a href="/wiki/Compact_Disc_bronzing" class="mw-redirect" title="Compact Disc bronzing">CD bronzing</a></li></ul></li>
+<li><a href="/wiki/Compact_Disc_subcode" title="Compact Disc subcode">CD subcode</a></li>
+<li><a href="/wiki/C2_error" title="C2 error">C2 error</a></li>
+<li><a href="/wiki/CD-i_Ready" title="CD-i Ready">CD-i Ready</a></li>
+<li><a href="/wiki/Four-channel_Compact_Disc_Digital_Audio" title="Four-channel Compact Disc Digital Audio">4ch CD-DA</a></li>
+<li><a href="/wiki/El_Torito_(CD-ROM_standard)" title="El Torito (CD-ROM standard)">El Torito</a></li>
+<li><a href="/wiki/ISO_9660" title="ISO 9660">ISO 9660</a>
+<ul><li><a href="/wiki/Joliet_(file_system)" title="Joliet (file system)">Joliet</a></li>
+<li><a href="/wiki/Romeo_file_system" title="Romeo file system">Romeo</a></li>
+<li><a href="/wiki/Rock_Ridge" title="Rock Ridge">Rock Ridge</a></li>
+<li><a href="/wiki/ISO_13490" title="ISO 13490">ISO 13490</a></li></ul></li>
+<li><a href="/wiki/Universal_Disk_Format" title="Universal Disk Format">UDF</a></li>
+<li><a href="/wiki/Extended_Resolution_Compact_Disc" title="Extended Resolution Compact Disc">XRCD</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hardware/Software/Content</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Optical_disc_packaging" title="Optical disc packaging">CD Case</a></li>
+<li><a href="/wiki/Optical_disc_drive" title="Optical disc drive">CD drive</a></li>
+<li><a href="/wiki/CD_player" title="CD player">CD player</a>
+<ul><li><a href="/wiki/Portable_CD_player" title="Portable CD player">Portable CD player</a></li></ul></li>
+<li><a href="/wiki/Optical_disc_drive" title="Optical disc drive">CD recorder</a></li>
+<li><a href="/wiki/CD_ripper" title="CD ripper">CD ripper</a></li>
+<li><a class="mw-selflink selflink">CD single</a>
+<ul><li><a href="/wiki/Mini_CD_single" class="mw-redirect" title="Mini CD single">Mini CD single</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Court cases</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Orange-Book-Standard" title="Orange-Book-Standard">Orange-Book-Standard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Compact_Disc_and_DVD_copy_protection_schemes" title="List of Compact Disc and DVD copy protection schemes">CD copy protection schemes</a></li>
+<li><a href="/wiki/List_of_compact_disc_player_manufacturers" title="List of compact disc player manufacturers">CD player manufacturers</a></li>
+<li><a href="/wiki/List_of_optical_disc_authoring_software" title="List of optical disc authoring software">Optical disc authoring software</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Variants based on CD</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/5.1_Music_Disc" title="5.1 Music Disc">5.1 Music Disc</a></li>
+<li><a href="/wiki/Black_Book_(non-standard_disc_format)" title="Black Book (non-standard disc format)">Black Book</a></li>
+<li><a href="/wiki/CD_Video" title="CD Video">CD Video</a>
+<ul><li><a href="/wiki/Video_Single_Disc" title="Video Single Disc">Video Single Disc</a></li></ul></li>
+<li><a href="/wiki/CDVD" title="CDVD">cDVD</a></li>
+<li><a href="/wiki/Double-density_compact_disc" title="Double-density compact disc">DD-CD</a>
+<ul><li>Purple Book</li></ul></li>
+<li><a href="/wiki/DualDisc" title="DualDisc">DualDisc</a></li>
+<li><a href="/wiki/High_Definition_Compatible_Digital" title="High Definition Compatible Digital">HDCD</a></li>
+<li><a href="/wiki/DVD-Audio" title="DVD-Audio">Hybrid DVD-Audio</a></li>
+<li><a href="/wiki/Super_Audio_CD" title="Super Audio CD">Hybrid SACD</a>
+<ul><li>Scarlet Book</li></ul></li>
+<li><a href="/wiki/MovieCD" title="MovieCD">MovieCD</a></li>
+<li><a href="/wiki/Compressed_audio_optical_disc" title="Compressed audio optical disc">MP3 CD</a></li>
+<li><a href="/wiki/Picture_CD" title="Picture CD">Picture CD</a></li>
+<li><a href="/wiki/VinylDisc" title="VinylDisc">VinylDisc</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blu-ray" title="Blu-ray">Blu-ray</a></li>
+<li><a href="/wiki/DVD" title="DVD">DVD</a></li>
+<li><a href="/wiki/HD_DVD" title="HD DVD">HD DVD</a></li>
+<li><a href="/wiki/LaserDisc" title="LaserDisc">LaserDisc</a></li>
+<li><a href="/wiki/MiniDisc" title="MiniDisc">MiniDisc</a></li>
+<li><a href="/wiki/Super_Audio_CD" title="Super Audio CD">SACD</a></li>
+<li><a href="/wiki/Universal_Media_Disc" title="Universal Media Disc">UMD</a></li>
+<li><a href="/wiki/Write_once_read_many" title="Write once read many">WORM</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Compact_disc" title="Category:Compact disc">Category</a></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Compact_discs" class="extiw" title="commons:Category:Compact discs">Commons</a></li>
+<li><img alt="Wiktionary page" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/16px-Wiktionary-logo.svg.png" decoding="async" title="Wiktionary page" width="16" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/24px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/32px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /> <a href="https://en.wiktionary.org/wiki/en:CD" class="extiw" title="wikt:en:CD">Wiktionary</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20190907045710
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.448 seconds
+Real time usage: 0.574 seconds
+Preprocessor visited node count: 1332/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46607/2097152 bytes
+Template argument size: 996/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 42614/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.222/10.000 seconds
+Lua memory usage: 5.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  468.053      1 -total
+ 37.63%  176.109      1 Template:Reflist
+ 25.93%  121.354      9 Template:Cite_web
+ 20.46%   95.777      1 Template:Citation_needed
+ 15.30%   71.609      1 Template:Fix
+ 14.57%   68.184      1 Template:Infobox_media
+ 11.34%   53.093      2 Template:Convert
+ 10.45%   48.910      1 Template:Infobox
+  9.46%   44.291      2 Template:Category_handler
+  6.34%   29.691      1 Template:CD
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2104415-0!canonical and timestamp 20190907045709 and revision id 913537287
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=CD_single&amp;oldid=913537287">https://en.wikipedia.org/w/index.php?title=CD_single&amp;oldid=913537287</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Compact_disc" title="Category:Compact disc">Compact disc</a></li><li><a href="/wiki/Category:Single_types" title="Category:Single types">Single types</a></li><li><a href="/wiki/Category:Audiovisual_introductions_in_1985" title="Category:Audiovisual introductions in 1985">Audiovisual introductions in 1985</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2010" title="Category:Articles with unsourced statements from April 2010">Articles with unsourced statements from April 2010</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2016" title="Category:Articles needing additional references from December 2016">Articles needing additional references from December 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=CD+single" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=CD+single" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/CD_single" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:CD_single" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/CD_single">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=CD_single&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=CD_single&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/CD_single" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/CD_single" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=CD_single&amp;oldid=913537287" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=CD_single&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q719645" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=CD_single&amp;id=913537287" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=CD+single">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=CD+single&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=CD_single&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%B3%D8%B7%D9%88%D8%A7%D9%86%D8%A9_%D9%85%D9%86%D9%81%D8%B1%D8%AF%D8%A9" title="أسطوانة منفردة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/CD_%D1%81%D0%B8%D0%BD%D0%B3%D1%8A%D0%BB" title="CD сингъл – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/CD_singl" title="CD singl – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Sencillo_en_CD" title="Sencillo en CD – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%E2%80%8C%D8%AF%DB%8C_%D8%AA%DA%A9" title="سی‌دی تک – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/CD_%EC%8B%B1%EA%B8%80" title="CD 싱글 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Compact_Disc_single" title="Compact Disc single – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%B0%D0%BA%D1%82%D0%B5%D0%BD_%D0%94%D0%B8%D1%81%D0%BA_%D1%81%D0%B8%D0%BD%D0%B3%D0%BB" title="Компактен Диск сингл – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Single_cakera_padat" title="Single cakera padat – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Singel_CD" title="Singel CD – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/CD_single" title="CD single – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/CD_single" title="CD single – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/CD-%D1%81%D0%B8%D0%BD%D0%B3%D0%BB" title="CD-сингл – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/CD_single" title="CD single – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Compact_Disc_single" title="Compact Disc single – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/CD_singel" title="CD singel – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/CD-singel" title="CD-singel – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B5%E0%B8%94%E0%B8%B5%E0%B8%8B%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%A5" title="ซีดีซิงเกิล – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/CD_single" title="CD single – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/CD-%D1%81%D0%B8%D0%BD%D0%B3%D0%BB" title="CD-сингл – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q719645#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 1 September 2019, at 17:49<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=CD_single&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.574","ppvisitednodes":{"value":1332,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46607,"limit":2097152},"templateargumentsize":{"value":996,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":42614,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  468.053      1 -total"," 37.63%  176.109      1 Template:Reflist"," 25.93%  121.354      9 Template:Cite_web"," 20.46%   95.777      1 Template:Citation_needed"," 15.30%   71.609      1 Template:Fix"," 14.57%   68.184      1 Template:Infobox_media"," 11.34%   53.093      2 Template:Convert"," 10.45%   48.910      1 Template:Infobox","  9.46%   44.291      2 Template:Category_handler","  6.34%   29.691      1 Template:CD"]},"scribunto":{"limitreport-timeusage":{"value":"0.222","limit":"10.000"},"limitreport-memusage":{"value":5886026,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20190907045710","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"CD single","url":"https:\/\/en.wikipedia.org\/wiki\/CD_single","sameAs":"http:\/\/www.wikidata.org\/entity\/Q719645","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q719645","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-24T02:47:05Z","dateModified":"2019-09-01T17:49:13Z","headline":"music single in the form of a standard size compact disc"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

@@ -1,0 +1,1618 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dutch orthography - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dutch_orthography","wgTitle":"Dutch orthography","wgCurRevisionId":908621905,"wgRevisionId":908621905,"wgArticleId":1800293,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Dutch-language external links","Dutch language","Latin-script orthographies"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dutch_orthography","wgRelevantArticleId":1800293,"wgRequestId":"XYou9QpAMEwAAEhK-1AAAAAW",
+"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1309004","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":
+"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dutch_orthography"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dutch_orthography&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dutch_orthography&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dutch_orthography"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dutch_orthography rootpage-Dutch_orthography skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dutch orthography</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Dutch_grammar" title="Dutch grammar">Dutch grammar</a></th></tr><tr><th style="padding:0.1em">
+Dutch verbs</th></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Dutch_conjugation" title="Dutch conjugation">Dutch conjugation</a></li>
+<li><a href="/wiki/%27t_kofschip" title="&#39;t kofschip">'t kofschip</a></li>
+<li><a href="/wiki/T-rules" title="T-rules">T-rules</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+Dutch nouns</th></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Archaic_Dutch_declension" title="Archaic Dutch declension">Archaic Dutch declension</a></li>
+<li><a href="/wiki/Gender_in_Dutch_grammar" title="Gender in Dutch grammar">Gender in Dutch grammar</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a class="mw-selflink selflink">Dutch orthography</a></th></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/List_of_Dutch_dictionaries" title="List of Dutch dictionaries">List of Dutch dictionaries</a></li>
+<li><a href="/wiki/IJ_(digraph)" title="IJ (digraph)">IJ</a></li></ul></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Dutch_phonology" title="Dutch phonology">Dutch phonology</a></th></tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Dutch_grammar" title="Template:Dutch grammar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Dutch_grammar" title="Template talk:Dutch grammar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Dutch_grammar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Dutch orthography</b> uses the <a href="/wiki/Latin_alphabet" title="Latin alphabet">Latin alphabet</a> and has evolved to suit the needs of the <a href="/wiki/Dutch_language" title="Dutch language">Dutch language</a>. The spelling system is issued by government decree and is compulsory for all government documentation and educational establishments.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Alphabet"><span class="tocnumber">1</span> <span class="toctext">Alphabet</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sound_to_spelling_correspondences"><span class="tocnumber">2</span> <span class="toctext">Sound to spelling correspondences</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Loanwords"><span class="tocnumber">3</span> <span class="toctext">Loanwords</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Vowel_length"><span class="tocnumber">4</span> <span class="toctext">Vowel length</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Historical_overview"><span class="tocnumber">4.1</span> <span class="toctext">Historical overview</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Checked_and_free_vowels"><span class="tocnumber">4.2</span> <span class="toctext">Checked and free vowels</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Double_vowels_and_consonants"><span class="tocnumber">4.3</span> <span class="toctext">Double vowels and consonants</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#The_letter_e"><span class="tocnumber">4.4</span> <span class="toctext">The letter e</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Morphological_alternations"><span class="tocnumber">4.5</span> <span class="toctext">Morphological alternations</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Exceptions"><span class="tocnumber">4.6</span> <span class="toctext">Exceptions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Final_devoicing_and_the_&#39;t_kofschip_rule"><span class="tocnumber">5</span> <span class="toctext">Final devoicing and the '<i>t kofschip</i> rule</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#⟨v⟩_and_⟨z⟩"><span class="tocnumber">5.1</span> <span class="toctext">&#x27e8;v&#x27e9; and &#x27e8;z&#x27e9;</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Diacritics"><span class="tocnumber">6</span> <span class="toctext">Diacritics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Acute_accent"><span class="tocnumber">6.1</span> <span class="toctext">Acute accent</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Examples"><span class="tocnumber">6.1.1</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-16"><a href="#Diaeresis"><span class="tocnumber">6.2</span> <span class="toctext">Diaeresis</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Diacritics_in_loanwords"><span class="tocnumber">6.3</span> <span class="toctext">Diacritics in loanwords</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Apostrophe"><span class="tocnumber">7</span> <span class="toctext">Apostrophe</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Bibliography"><span class="tocnumber">11</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Alphabet">Alphabet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=1" title="Edit section: Alphabet">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dutch_alphabet_(1560).gif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dutch_alphabet_%281560%29.gif/220px-Dutch_alphabet_%281560%29.gif" decoding="async" width="220" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dutch_alphabet_%281560%29.gif/330px-Dutch_alphabet_%281560%29.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Dutch_alphabet_%281560%29.gif/440px-Dutch_alphabet_%281560%29.gif 2x" data-file-width="1008" data-file-height="838" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dutch_alphabet_(1560).gif" class="internal" title="Enlarge"></a></div>The Dutch alphabet in 1560, still including the <a href="/wiki/Long_s" title="Long s">long s</a></div></div></div>
+<p>The modern Dutch alphabet consists of the 26 letters of the <a href="/wiki/ISO_basic_Latin_alphabet" title="ISO basic Latin alphabet">ISO basic Latin alphabet</a> and is used for the <a href="/wiki/Dutch_language" title="Dutch language">Dutch language</a>. Five (or six) letters are <a href="/wiki/Vowel" title="Vowel">vowels</a> and 21 (or 20) letters are <a href="/wiki/Consonant" title="Consonant">consonants</a>. The letter <i>E</i> is the most frequently used letter in the Dutch alphabet. The least frequently used letters are <i>Q</i> and <i>X</i>. In some aspects, the digraph <i><a href="/wiki/IJ_(digraph)" title="IJ (digraph)">IJ</a></i> behaves as a single letter.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg/220px-Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg.png" decoding="async" width="220" height="166" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg/330px-Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg/440px-Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg.png 2x" data-file-width="570" data-file-height="429" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Comparison_of_normal_and_italic_of_ij_and_%C3%BF.svg" class="internal" title="Enlarge"></a></div>The letters <a href="/wiki/I" title="I">i</a> and <a href="/wiki/J" title="J">j</a> together (1), the digraph <a href="/wiki/IJ_(digraph)" title="IJ (digraph)">ij</a> (2) and the letter <a href="/wiki/Y" title="Y">y</a> (4) can all be found in Dutch words; only the letter y with a diaeresis (3) is not used in Dutch</div></div></div>
+<table class="wikitable">
+<tbody><tr>
+<th>Letter</th>
+<th>Letter name</th>
+<th>Spelling alphabet<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th></tr>
+<tr>
+<td><a href="/wiki/A" title="A">A</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[aː]</span></td>
+<td><b>A</b>nton
+</td></tr>
+<tr>
+<td><a href="/wiki/B" title="B">B</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[beː]</span></td>
+<td><b>B</b>ernhard
+</td></tr>
+<tr>
+<td><a href="/wiki/C" title="C">C</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[seː]</span></td>
+<td><b>C</b>ornelis
+</td></tr>
+<tr>
+<td><a href="/wiki/D" title="D">D</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[deː]</span></td>
+<td><b>D</b>irk
+</td></tr>
+<tr>
+<td><a href="/wiki/E" title="E">E</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[eː]</span></td>
+<td><b>E</b>duard
+</td></tr>
+<tr>
+<td><a href="/wiki/F" title="F">F</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛf]</span></td>
+<td><b>F</b>erdinand
+</td></tr>
+<tr>
+<td><a href="/wiki/G" title="G">G</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɣeː]</span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td>
+<td><b>G</b>erard
+</td></tr>
+<tr>
+<td><a href="/wiki/H" title="H">H</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɦaː]</span></td>
+<td><b>H</b>endrik
+</td></tr>
+<tr>
+<td><a href="/wiki/I" title="I">I</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[i]</span></td>
+<td><b>I</b>zaak
+</td></tr>
+<tr>
+<td><a href="/wiki/J" title="J">J</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[jeː]</span></td>
+<td><b>J</b>ohan/<b>J</b>acob
+</td></tr>
+<tr>
+<td><a href="/wiki/K" title="K">K</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[kaː]</span></td>
+<td><b>K</b>arel
+</td></tr>
+<tr>
+<td><a href="/wiki/L" title="L">L</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛɫ]</span></td>
+<td><b>L</b>odewijk/<b>L</b>eo
+</td></tr>
+<tr>
+<td><a href="/wiki/M" title="M">M</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛm]</span></td>
+<td><b>M</b>aria
+</td></tr>
+<tr>
+<td><a href="/wiki/N" title="N">N</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛn]</span></td>
+<td><b>N</b>ico
+</td></tr>
+<tr>
+<td><a href="/wiki/O" title="O">O</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[oː]</span></td>
+<td><b>O</b>tto
+</td></tr>
+<tr>
+<td><a href="/wiki/P" title="P">P</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[peː]</span></td>
+<td><b>P</b>ieter
+</td></tr>
+<tr>
+<td><a href="/wiki/Q" title="Q">Q</a><sup id="cite_ref-loan_3-0" class="reference"><a href="#cite_note-loan-3">&#91;3&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ky]</span></td>
+<td><b>Q</b>uirinius/<b>Q</b>uinten
+</td></tr>
+<tr>
+<td><a href="/wiki/R" title="R">R</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛɾ]</span></td>
+<td><b>R</b>ichard/<b>R</b>udolf
+</td></tr>
+<tr>
+<td><a href="/wiki/S" title="S">S</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛs]</span></td>
+<td><b>S</b>imon
+</td></tr>
+<tr>
+<td><a href="/wiki/T" title="T">T</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[teː]</span></td>
+<td><b>T</b>heodoor
+</td></tr>
+<tr>
+<td><a href="/wiki/U" title="U">U</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[y]</span></td>
+<td><b>U</b>trecht
+</td></tr>
+<tr>
+<td><a href="/wiki/V" title="V">V</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[veː]</span></td>
+<td><b>V</b>ictor
+</td></tr>
+<tr>
+<td><a href="/wiki/W" title="W">W</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʋeː]</span></td>
+<td><b>W</b>illem
+</td></tr>
+<tr>
+<td><a href="/wiki/X" title="X">X</a><sup id="cite_ref-loan_3-1" class="reference"><a href="#cite_note-loan-3">&#91;3&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɪks]</span></td>
+<td><b>X</b>antippe
+</td></tr>
+<tr>
+<td><a href="/wiki/Y" title="Y">Y</a><sup id="cite_ref-loan_3-2" class="reference"><a href="#cite_note-loan-3">&#91;3&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛɪ]</span><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></td>
+<td><b>Y</b>psilon
+</td></tr>
+<tr>
+<td><i><a href="/wiki/IJ_(digraph)" title="IJ (digraph)">IJ</a></i><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛɪ]</span></td>
+<td><i><b>IJ</b>muiden/<b>IJ</b>sbrand</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/Z" title="Z">Z</a></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[zɛt]</span></td>
+<td><b>Z</b>acharias
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sound_to_spelling_correspondences">Sound to spelling correspondences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=2" title="Edit section: Sound to spelling correspondences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dutch uses the following letters and letter combinations. Note that for simplicity, dialectal variation and subphonemic distinctions are not always indicated. See <a href="/wiki/Dutch_phonology" title="Dutch phonology">Dutch phonology</a> for more information.
+</p><p>The following list shows letters and combinations, along with their pronunciations, found in modern native or nativised vocabulary:
+</p>
+<table>
+<tbody><tr>
+<td style="vertical-align: top">
+<table class="wikitable">
+<caption><a href="/wiki/Consonant" title="Consonant">Consonants</a>
+</caption>
+<tbody><tr>
+<th rowspan="2">spelling</th>
+<th colspan="2"><a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a>
+</th></tr>
+<tr>
+<th>normally</th>
+<th>final
+</th></tr>
+<tr>
+<td><b>b</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/b/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p/</span>
+</td></tr>
+<tr>
+<td><b>ch</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span>
+</td></tr>
+<tr>
+<td><b>d</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/d/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span>
+</td></tr>
+<tr>
+<td><b>f</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/f/</span>
+</td></tr>
+<tr>
+<td><b>g</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/<a href="/wiki/Voiced_velar_fricative" title="Voiced velar fricative">ɣ</a>/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/<a href="/wiki/Voiceless_velar_fricative" title="Voiceless velar fricative">x</a>/</span>
+</td></tr>
+<tr>
+<td><b>h</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/<a href="/wiki/Voiced_glottal_fricative" title="Voiced glottal fricative">ɦ</a>/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>j</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/j/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>k</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span>
+</td></tr>
+<tr>
+<td><b>l</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/l/</span>
+</td></tr>
+<tr>
+<td><b>m</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/m/</span>
+</td></tr>
+<tr>
+<td><b>n</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/n/</span>
+</td></tr>
+<tr>
+<td><b>ng</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ŋ/</span>
+</td></tr>
+<tr>
+<td><b>p</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/p/</span>
+</td></tr>
+<tr>
+<td><b>r</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/r/</span>
+</td></tr>
+<tr>
+<td><b>s</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span>
+</td></tr>
+<tr>
+<td><b>sch</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/sx/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span><sup id="cite_ref-sch_6-0" class="reference"><a href="#cite_note-sch-6">&#91;6&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span><sup id="cite_ref-sch_6-1" class="reference"><a href="#cite_note-sch-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>t</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span>
+</td></tr>
+<tr>
+<td><b>th</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>v</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/v/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>w</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/<a href="/wiki/Labiodental_approximant" title="Labiodental approximant">ʋ</a>/</span>
+</td></tr>
+<tr>
+<td><b>z</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span></td>
+<td>&#8212;
+</td></tr>
+</tbody></table>
+</td>
+<td style="vertical-align: top">
+<table class="wikitable">
+<caption><a href="/wiki/Vowel" title="Vowel">Vowels</a>&#160;and&#160;<a href="/wiki/Diphthong" title="Diphthong">diphthongs</a>
+</caption>
+<tbody><tr>
+<th rowspan="2">spelling</th>
+<th colspan="2"><a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a>
+</th></tr>
+<tr>
+<th>checked</th>
+<th>free
+</th></tr>
+<tr>
+<td><b>a</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑ/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aː/</span>
+</td></tr>
+<tr>
+<td><b>aa</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aː/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>aai</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aːi̯/</span>
+</td></tr>
+<tr>
+<td><b>ai</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑi̯/</span>
+</td></tr>
+<tr>
+<td><b>au</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑu̯/</span>
+</td></tr>
+<tr>
+<td><b>auw</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑu̯/</span>
+</td></tr>
+<tr>
+<td><b>e</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span><sup id="cite_ref-unstressed_8-0" class="reference"><a href="#cite_note-unstressed-8">&#91;8&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span><sup id="cite_ref-unstressed_8-1" class="reference"><a href="#cite_note-unstressed-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ee</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span>
+</td></tr>
+<tr>
+<td><b>eeuw</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eːu̯/</span>
+</td></tr>
+<tr>
+<td><b>ei</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛi̯/</span>
+</td></tr>
+<tr>
+<td><b>eu</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/øː/</span>
+</td></tr>
+<tr>
+<td><b>i</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɪ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span><sup id="cite_ref-unstressed_8-2" class="reference"><a href="#cite_note-unstressed-8">&#91;8&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i(ː)/</span>
+</td></tr>
+<tr>
+<td><b>ie</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i(ː)/</span>
+</td></tr>
+<tr>
+<td><b>ieuw</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/iu̯/</span>
+</td></tr>
+<tr>
+<td><b>ij</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛi̯/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i(ː)/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>o</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɔ/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oː/</span>
+</td></tr>
+<tr>
+<td><b>oe</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span>
+</td></tr>
+<tr>
+<td><b>oei</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ui̯/</span>
+</td></tr>
+<tr>
+<td><b>oi</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɔi̯/</span>
+</td></tr>
+<tr>
+<td><b>oo</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oː/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>ooi</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oːi̯/</span>
+</td></tr>
+<tr>
+<td><b>ou</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑu̯/</span>
+</td></tr>
+<tr>
+<td><b>ouw</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɑu̯/</span>
+</td></tr>
+<tr>
+<td><b>u</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʏ/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/y(ː)/</span>
+</td></tr>
+<tr>
+<td><b>ui</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/œy̯/</span>
+</td></tr>
+<tr>
+<td><b>uu</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/y(ː)/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>uw</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/yu̯/</span>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>The following additional letters and pronunciations appear in non-native vocabulary or words using older, obsolete spellings (often conserved in proper names):
+</p>
+<table>
+<tbody><tr>
+<td style="vertical-align: top">
+<table class="wikitable">
+<caption><a href="/wiki/Consonant" title="Consonant">Consonants</a>
+</caption>
+<tbody><tr>
+<th rowspan="2">spelling</th>
+<th colspan="2"><a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a>
+</th></tr>
+<tr>
+<th>normally</th>
+<th>final
+</th></tr>
+<tr>
+<td><b>c</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span> <sup id="cite_ref-c_10-0" class="reference"><a href="#cite_note-c-10">&#91;10&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span>
+</td></tr>
+<tr>
+<td><b>ç</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>ck</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span>
+</td></tr>
+<tr>
+<td><b>ch</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span> <sup id="cite_ref-ch_12-0" class="reference"><a href="#cite_note-ch-12">&#91;12&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>g</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʒ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dʒ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡ/</span><sup id="cite_ref-g_13-0" class="reference"><a href="#cite_note-g-13">&#91;13&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span><sup id="cite_ref-g_13-1" class="reference"><a href="#cite_note-g-13">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>gh</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɣ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span>
+</td></tr>
+<tr>
+<td><b>gch</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>(i)ll</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/j/</span><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>j</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʒ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dʒ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span> <sup id="cite_ref-j_15-0" class="reference"><a href="#cite_note-j-15">&#91;15&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span> <sup id="cite_ref-j_15-1" class="reference"><a href="#cite_note-j-15">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ñ</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/nj/</span><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>ph</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/f/</span><sup id="cite_ref-ph_17-0" class="reference"><a href="#cite_note-ph-17">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>q</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span><sup id="cite_ref-q_18-0" class="reference"><a href="#cite_note-q-18">&#91;18&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>qu</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kʋ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span><sup id="cite_ref-qu_19-0" class="reference"><a href="#cite_note-qu-19">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>s</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span><sup id="cite_ref-s_20-0" class="reference"><a href="#cite_note-s-20">&#91;20&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>sch</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span><sup id="cite_ref-sch2_21-0" class="reference"><a href="#cite_note-sch2-21">&#91;21&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span><sup id="cite_ref-sch2_21-1" class="reference"><a href="#cite_note-sch2-21">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>sh</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>
+</td></tr>
+<tr>
+<td><b>sj</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span><sup id="cite_ref-(t)sj_22-0" class="reference"><a href="#cite_note-(t)sj-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>sz</b>
+</td>
+<td>—</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span><sup id="cite_ref-sz_23-0" class="reference"><a href="#cite_note-sz-23">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ti(e)</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/(t)si/</span><sup id="cite_ref-ti_24-0" class="reference"><a href="#cite_note-ti-24">&#91;24&#93;</a></sup></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>th</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/d/</span><sup id="cite_ref-th_25-0" class="reference"><a href="#cite_note-th-25">&#91;25&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span><sup id="cite_ref-th_25-1" class="reference"><a href="#cite_note-th-25">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>tsj</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span><sup id="cite_ref-(t)sj_22-1" class="reference"><a href="#cite_note-(t)sj-22">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>x</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ks/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡz/</span><sup id="cite_ref-x_26-0" class="reference"><a href="#cite_note-x-26">&#91;26&#93;</a></sup></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ks/</span>
+</td></tr>
+<tr>
+<td><b>y</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/j/</span>
+</td></tr>
+<tr>
+<td><b>z</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ts/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dz/</span><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</td></tr>
+</tbody></table>
+</td>
+<td style="vertical-align: top">
+<table class="wikitable">
+<caption><a href="/wiki/Vowel" title="Vowel">Vowels</a>&#160;and&#160;<a href="/wiki/Diphthong" title="Diphthong">diphthongs</a>
+</caption>
+<tbody><tr>
+<th rowspan="2">spelling</th>
+<th colspan="2"><a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a>
+</th></tr>
+<tr>
+<th>checked</th>
+<th>free
+</th></tr>
+<tr>
+<td><b>aaij</b>, <b>aay</b>, <b>aij</b>, <b>ay</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aːi̯/</span><sup id="cite_ref-ij-y_28-0" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ae</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aː/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span><sup id="cite_ref-ae_29-0" class="reference"><a href="#cite_note-ae-29">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>aei</b>, <b>aeij</b>, <b>aey</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/aːi̯/</span><sup id="cite_ref-ij-y_28-1" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup><sup id="cite_ref-ae_29-1" class="reference"><a href="#cite_note-ae-29">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ai</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛː/</span>
+</td></tr>
+<tr>
+<td><b>au(x)</b>, <b>eau(x)</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oː/</span><sup id="cite_ref-au_30-0" class="reference"><a href="#cite_note-au-30">&#91;30&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>è</b>, <b>ê</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛː/</span>
+</td></tr>
+<tr>
+<td><b>é</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ei̯/</span>
+</td></tr>
+<tr>
+<td><b>eij</b>, <b>ey</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛi̯/</span><sup id="cite_ref-ij-y_28-2" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>eu</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/œː/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/œy̯/</span><sup id="cite_ref-eu_31-0" class="reference"><a href="#cite_note-eu-31">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>o</b>, <b>ô</b>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɔː/</span></td>
+<td>&#8212;
+</td></tr>
+<tr>
+<td><b>oeij</b>, <b>oey</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ui̯/</span><sup id="cite_ref-ij-y_28-3" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>oi</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋɑ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋaː/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oː/</span><sup id="cite_ref-oi_32-0" class="reference"><a href="#cite_note-oi-32">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>oo</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ooij</b>, <b>ooy</b>, <b>oij</b>, <b>oy</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oːi̯/</span><sup id="cite_ref-ij-y_28-4" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>ou</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>u</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span>
+</td></tr>
+<tr>
+<td><b>ui</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋi(ː)/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/uː/</span><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>uij</b>, <b>uy</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/œy̯/</span><sup id="cite_ref-ij-y_28-5" class="reference"><a href="#cite_note-ij-y-28">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td><b>y</b>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɪ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛi̯/</span><sup id="cite_ref-y_36-0" class="reference"><a href="#cite_note-y-36">&#91;36&#93;</a></sup>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Loanwords">Loanwords</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=3" title="Edit section: Loanwords">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Loanwords often keep their original spellings: <i>cadeau</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kaːˈdoː/</span> 'gift' (from French). The Latin letters <i>c</i>, <i>qu</i>, <i>x</i> and <i>y</i> (from Greek υ) are sometimes adapted to <i>k</i>, <i>kw</i>, <i>ks</i> and <i>i</i>. Greek letters φ and ῥ become <i>f</i> and <i>r</i>, not <i>ph</i> or <i>rh</i>, but θ mostly becomes <i>th</i> (except before a consonant, after <i>f</i> or <i>ch</i> and at the end of words). Combinations <i>-eon-, -ion-, -yon-</i> in loanwords from French are written with a single <i>n</i> (<i>mayonaise</i>) except when a schwa follows (<i>stationnement</i>).
+</p>
+<h2><span class="mw-headline" id="Vowel_length">Vowel length</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=4" title="Edit section: Vowel length">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Vowel length is always indicated but in different ways by using an intricate system of single and double letters.
+</p>
+<h3><span class="mw-headline" id="Historical_overview">Historical overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=5" title="Edit section: Historical overview">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Old_Dutch" title="Old Dutch">Old Dutch</a> possessed phonemic consonant length in addition to phonemic vowel length, with no correspondence between them. Thus, long vowels could appear in closed syllables, and short vowels could occur in open syllables. In the transition to early <a href="/wiki/Middle_Dutch" title="Middle Dutch">Middle Dutch</a>, short vowels were lengthened when they stood in open syllables. Short vowels could now occur only in closed syllables. Consonants could still be long in pronunciation and acted to close the preceding syllable. Therefore, any short vowel that was followed by a long consonant remained short.
+</p><p>The spelling system used by early Middle Dutch scribes accounted for that by indicating the vowel length only when it was necessary (sometimes by writing a double vowel but also in other ways). As the length was implicit in open syllables, it was not indicated there, and only a single vowel was written. Long consonants were indicated usually by writing the consonant letter double, which meant that a short vowel was always followed by at least two consonant letters or by just one consonant at the end of a word.
+</p><p>Later in Middle Dutch, the distinction between short and long consonants started to disappear. That made it possible for short vowels to appear in open syllables once again. Because there was no longer a phonetic distinction between single and double consonants (they were both pronounced short now), Dutch writers started to use double consonants to indicate that the preceding vowel was short even when the consonant had not been long in the past. That eventually led to the modern Dutch spelling system.
+</p>
+<h3><span class="mw-headline" id="Checked_and_free_vowels">Checked and free vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=6" title="Edit section: Checked and free vowels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Modern Dutch spelling still retains many of the details of the late Middle Dutch system. The distinction between <a href="/wiki/Checked_and_free_vowels" title="Checked and free vowels">checked and free vowels</a> is important in Dutch spelling. A checked vowel is one that is followed by a consonant in the same syllable (the syllable is closed) while a free vowel ends the syllable (the syllable is open). This distinction can apply to pronunciation or spelling independently, but a syllable that is checked in pronunciation will always be checked in spelling as well (except in some unassimilated loanwords).
+</p>
+<ul><li>Checked in neither: <i><b>la</b>-ten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlaː.tə(n)/</span> ("to leave", "to let")</li>
+<li>Checked in spelling only: <i><b>lat</b>-ten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlɑ.tə(n)/</span> ("laths")</li>
+<li>Checked in both: <i>lat</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɑt/</span> ("lath"), <i><b>lat</b>-je</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlɑt.jə/</span> ("little lath")</li></ul>
+<p>A single vowel that is checked in <b>neither</b> is always long/tense. A vowel that is checked in <b>both</b> is always short/lax. The following table shows the pronunciation of the same three-letter sequence in different situations, with hyphens indicating the syllable divisions in the written form, and the IPA period to indicate them in the spoken form:
+</p>
+<table class="wikitable">
+<caption>Pronunciation of checked and free single vowels
+</caption>
+<tbody><tr>
+<th rowspan="2">Letter
+</th>
+<th colspan="2">Free in both
+</th>
+<th colspan="3">Checked in both
+</th></tr>
+<tr>
+<th>Pronunciation
+</th>
+<th>Example<br />Multiple syllables
+</th>
+<th>Pronunciation
+</th>
+<th>Example<br />One syllable
+</th>
+<th>Example<br />Multiple syllables
+</th></tr>
+<tr>
+<th>a
+</th>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">aː</span>
+</td>
+<td><i>ra-men</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈraː.mə(n)/</span> ("windows, to estimate")
+</td>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɑ</span>
+</td>
+<td><i>ram</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/rɑm/</span> ("ram")
+</td>
+<td><i>ram-pen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈrɑm.pə(n)/</span> ("disasters")
+</td></tr>
+<tr>
+<th style="text-align: center">e
+</th>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">eː</span>
+</td>
+<td><i>te-len</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈteː.lə(n)/</span> ("to cultivate")
+</td>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛ</span>
+</td>
+<td><i>tel</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tɛl/</span> ("count")
+</td>
+<td><i>tel-den</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈtɛl.də(n)/</span> ("counted")
+</td></tr>
+<tr>
+<th style="text-align: center">i
+</th>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">i(ː)</span>
+</td>
+<td><i>Ti-ne</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈti.nə/</span> (a name)
+</td>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɪ</span>
+</td>
+<td><i>tin</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tɪn/</span> ("tin")
+</td>
+<td><i>tin-ten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈtɪn.tə(n)/</span> ("tints")
+</td></tr>
+<tr>
+<th style="text-align: center">o
+</th>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">oː</span>
+</td>
+<td><i>ko-per</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈkoː.pər/</span> ("copper, buyer")
+</td>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔ</span>
+</td>
+<td><i>kop</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kɔp/</span> ("cup, head")
+</td>
+<td><i>kop-te</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈkɔp.tə/</span> ("headed [a ball]")
+</td></tr>
+<tr>
+<th style="text-align: center">u
+</th>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">y(ː)</span>
+</td>
+<td><i>Lu-kas</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈly.kɑs/</span> (a name)
+</td>
+<td style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʏ</span>
+</td>
+<td><i>buk</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bʏk/</span> ("bow" [verb])
+</td>
+<td><i>buk-te</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bʏk.tə/</span> ("bowed")
+</td></tr></tbody></table>
+<p>Free &#x27e8;i&#x27e9; is fairly rare and is mostly confined to loanwords and names. As tense <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/y/</span> is rare except before <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/r/</span>, free &#x27e8;u&#x27e9; is likewise rare except before &#x27e8;r&#x27e9;.
+</p><p>The same rule applies to word-final vowels, which are always long because they are not followed by any consonant (but see below on &#x27e8;e&#x27e9;). Short vowels, not followed by any consonant, do not normally exist in Dutch, and there is no normal way to indicate them in the spelling.
+</p>
+<h3><span class="mw-headline" id="Double_vowels_and_consonants">Double vowels and consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=7" title="Edit section: Double vowels and consonants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When a vowel is short/lax but is free in pronunciation, the spelling is made checked by writing the following consonant doubled, so that the vowel is kept short according to the default rules. That has no effect on pronunciation, as modern Dutch does not have long consonants:
+</p>
+<ul><li><i>ram-men</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈrɑ.mə(n)/</span> ("rams, to ram")</li>
+<li><i>tel-len</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈtɛ.lə(n)/</span> ("to count")</li>
+<li><i>tin-nen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈtɪ.nə(n)/</span> ("made of tin")</li>
+<li><i>kop-pen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈkɔ.pə(n)/</span> ("cups, heads, to head [a ball]")</li>
+<li><i>luk-ken</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlʏ.kə(n)/</span> ("to succeed")</li></ul>
+<p>When a vowel is long/tense but still checked in pronunciation, it is necessarily checked in spelling as well. A change is thus needed to indicate the length, which is done by writing the vowel doubled. Doubled &#x27e8;i&#x27e9; does not occur.
+</p>
+<ul><li><i>raam</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/raːm/</span> ("window"), <i>raam-de</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈraːm.də/</span> ("estimated")</li>
+<li><i>teel</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/teːl/</span> ("cultivate"), <i>teel-de</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈteːl.də/</span> ("cultivated")</li>
+<li><i>koop</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/koːp/</span> ("buy, sale"), <i>koop-sel</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈkoːp.səl/</span> ("something bought")</li>
+<li><i>Luuk</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lyk/</span> (a name)</li></ul>
+<h3><span class="mw-headline" id="The_letter_e">The letter e</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=8" title="Edit section: The letter e">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A single &#x27e8;e&#x27e9; indicates short and long e but is also used to indicate the neutral schwa sound <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span> in unstressed syllables. Because the schwa is always short, &#x27e8;e&#x27e9; is never followed by a double consonant when it represents <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span>.
+</p>
+<ul><li><i>ap-pe-len</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈɑ.pə.lə(n)/</span> ("apples")</li>
+<li><i>ge-ko-men</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɣə.ˈkoː.mə(n)/</span> ("(has) come")</li>
+<li><i>kin-de-ren</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈkɪn.də.rə(n)/</span> ("children")</li></ul>
+<p>A word-final long <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span> is written &#x27e8;ee&#x27e9; (or &#x27e8;é&#x27e9; in some loanwords), as an exception to the normal rules. That means that a word-final single &#x27e8;e&#x27e9; will always represent a schwa.
+</p>
+<ul><li><i>jee</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/jeː/</span> (expression of woe), <i>je</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/jə/</span> ("you")</li>
+<li><i>mee</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/meː/</span> ("along, with"), <i>me</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/mə/</span> ("me")</li>
+<li><i>wee</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋeː/</span> ("contraction of the womb"), <i>we</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋə/</span> ("we")</li></ul>
+<p>Because the position of the stress in a polysyllabic word is not indicated in the spelling, that can lead to ambiguity. Some pairs of words are spelled the same, but &#x27e8;e&#x27e9; represents either stressed <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛ/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span> or unstressed <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span>, depending on how the stress is placed.
+</p>
+<ul><li><i>be-de-len</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈbeː.də.lə(n)/</span> ("to beg") or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bə.ˈdeː.lə(n)/</span> ("to impart with, to grant")</li>
+<li><i>ver-gaan-de</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈvɛr.ˌɣaːn.də/</span> ("far-going, far-reaching") or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/vər.ˈɣaːn.də/</span> ("perishing")</li></ul>
+<h3><span class="mw-headline" id="Morphological_alternations">Morphological alternations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=9" title="Edit section: Morphological alternations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The length of a vowel generally does not change in the pronunciation of different forms of a word. However, in different forms of a word, a syllable may alternate between checked and free depending on the syllable that follows. The spelling rules nonetheless follow the simplest representation, writing double letters only when necessary. Consequently, some forms of the same word may be written with single letters while others are written with double letters. That commonly occurs between the singular and plural of a noun or between the infinitive and the conjugated forms of verbs. Examples of alternations are shown below. Note that there are no examples with <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i/</span> because free &#x27e8;i&#x27e9; does not occur in native words:
+</p>
+<table class="wikitable">
+<caption>Spelling alternation between free and checked
+</caption>
+<tbody><tr>
+<th>Long/tense<br />vowel</th>
+<th>When free</th>
+<th>When checked
+</th>
+<th>Short/lax<br />vowel</th>
+<th>When checked</th>
+<th>When free
+</th></tr>
+<tr>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">aː</span>
+</th>
+<td><i>laten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlaːtə(n)/</span> ("to let")</td>
+<td><i>laat</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/laːt/</span> ("(I) let")
+</td>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɑ</span>
+</th>
+<td><i>lat</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɑt/</span> ("lat")</td>
+<td><i>latten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlɑtə(n)/</span> ("lats")
+</td></tr>
+<tr>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">eː</span>
+</th>
+<td><i>leken</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈleːkə(n)/</span> ("appeared", plural)</td>
+<td><i>leek</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/leːk/</span> ("appeared", singular)
+</td>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛ</span>
+</th>
+<td><i>lek</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɛk/</span> ("(I) leak")</td>
+<td><i>lekken</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlɛkə(n)/</span> ("to leak")
+</td></tr>
+<tr>
+<th style="text-align: center">&#8211;
+</th>
+<td>&#8211;</td>
+<td>&#8211;
+</td>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɪ</span>
+</th>
+<td><i>til</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tɪl/</span> ("(I) lift")</td>
+<td><i>tillen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈtɪlə(n)/</span> ("to lift")
+</td></tr>
+<tr>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">oː</span>
+</th>
+<td><i>bonen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈboːnə(n)/</span> ("beans")</td>
+<td><i>boon</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/boːn/</span> ("bean")
+</td>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔ</span>
+</th>
+<td><i>bon</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bɔn/</span> ("ticket")</td>
+<td><i>bonnen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈbɔnə(n)/</span> ("tickets")
+</td></tr>
+<tr>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">y(ː)</span>
+</th>
+<td><i>muren</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈmyːrə(n)/</span> ("walls")</td>
+<td><i>muur</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/myːr/</span> ("wall")
+</td>
+<th style="text-align: center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʏ</span>
+</th>
+<td><i>mus</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/mʏs/</span> ("sparrow")</td>
+<td><i>mussen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈmʏsə(n)/</span> ("sparrows")
+</td></tr></tbody></table>
+<p>There are some irregular nouns that change their vowel from short/lax in the singular to long/tense in the plural. Their spelling does not alternate between single and double letters. However, the sound <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɪ/</span> becomes <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/eː/</span> in the plural in such nouns, not <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/iː/</span> That is reflected in the spelling.
+</p>
+<ul><li><i>dag</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dɑx/</span> ("day"), <i>da-gen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈdaː.ɣə(n)/</span> ("days")</li>
+<li><i>weg</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋɛx/</span> ("road, way"), <i>we-gen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈʋeː.ɣə(n)/</span> ("roads, ways")</li>
+<li><i>schip</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/sxɪp/</span> ("ship"), <i>sche-pen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈsxeː.pə(n)/</span> ("ships")</li>
+<li><i>lot</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɔt/</span> ("lottery ticket"), <i>lo-ten</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈloː.tə(n)/</span> ("lottery tickets")</li></ul>
+<h3><span class="mw-headline" id="Exceptions">Exceptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=10" title="Edit section: Exceptions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a rule, the simplest representation is always chosen. A double vowel is never written in an open syllable, and a double consonant is never written at the end of a word or when next to another consonant. A double vowel is rarely followed by a double consonant, as it could be simplified by writing them both single.
+</p><p>The past tense of verbs may have a double vowel, followed by a double consonant, to distinguish those forms from the present tense.
+</p>
+<ul><li><i>ha-ten</i> ("hate"), <i>haat-ten</i> ("hated"), both <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈɦaː.tə(n)/</span></li>
+<li><i>ra-den</i> ("guess"), <i>raad-den</i> ("guessed"), both <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈraː.də(n)/</span></li></ul>
+<p>Compounds should be read as if each word were spelled separately, and they may therefore appear to violate the normal rules. That may sometimes cause confusion if the word is not known to be a compound.
+</p>
+<ul><li><i>dag-ar-bei-der</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈdɑx.ˌɑr.bɛi.dər/</span> or more fluently <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈdɑ.ˌɣɑr.bɛi.dər/</span> ("day labourer"), a compound of <i>dag</i> ("day") + <i>arbeider</i> ("labourer") so it is not divided as <i>*da-gar-bei-der</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">*/ˈdaː.ˌɣɑr.bɛi.dər/</span>. If it were not a compound, it would be written <i>*dag-gar-bei-der</i> to keep the first "a" short.</li>
+<li><i>een-en-twin-tig</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈeː.nən.ˌtʋɪn.təx/</span> ("twenty-one"), a compound of <i>een</i> ("one") + <i>en</i> ("and") + <i>twintig</i> ("twenty"). If it were not a compound, it would be written <i>*e-nen-twin-tig</i> to avoid having a double vowel at the end of a syllable.</li>
+<li><i>mee-doen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈmeː.dun/</span> ("to participate"), a compound of <i>mee</i> ("along (with)") + <i>doen</i> ("do"). If it were not a compound, it would be written <i>*me-doen</i> to avoid having a double vowel at the end of a syllable. The word <i>mee</i> itself has a double vowel because of the exception with final <i>-e</i>, as noted above.</li></ul>
+<h2><span id="Final_devoicing_and_the_.27t_kofschip_rule"></span><span class="mw-headline" id="Final_devoicing_and_the_'t_kofschip_rule">Final devoicing and the '<i>t kofschip</i> rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=11" title="Edit section: Final devoicing and the &#039;t kofschip rule">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Final_obstruent_devoicing" class="mw-redirect" title="Final obstruent devoicing">Final obstruent devoicing</a> and <a href="/wiki/%27t_kofschip" title="&#39;t kofschip">'t kofschip</a></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/T-rules" title="T-rules">T-rules</a></div>
+<p>Final devoicing is not indicated in Dutch spelling; words are usually spelled according to the historically original consonant. Therefore, a word may be written with a letter for a voiced consonant at the end of a word but still be pronounced with a voiceless consonant:
+</p>
+<ul><li><i>heb</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɦɛp/</span> "(I) have" but <i>hebben</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈɦɛbə(n)/</span> "to have"</li>
+<li><i>paard</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/paːrt/</span> "horse" but <i>paarden</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈpaːrdə(n)/</span> "horses"</li>
+<li><i>leg</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɛx/</span> "(I) lay" but <i>leggen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈlɛɣə(n)/</span> "to lay"</li></ul>
+<p>Weak verbs form their past tense and past participle by addition of a dental, &#x27e8;d&#x27e9; or &#x27e8;t&#x27e9; depending on the <a href="/wiki/Voice_(phonetics)" title="Voice (phonetics)">voicing</a> of the preceding consonant(s) (see <a href="/wiki/Assimilation_(linguistics)" class="mw-redirect" title="Assimilation (linguistics)">Assimilation (linguistics)</a>). However, because final consonants are always devoiced, there is no difference in pronunciation between these in the participle. Nonetheless, in accordance with the above rules, the orthography operates as if the consonant were still voiced. It is written in the past participle the same as the other past tense forms in which it is not word-final. To help memorise when to write &#x27e8;d&#x27e9; and when &#x27e8;t&#x27e9;, Dutch students are taught the rule "'t kofschip is met thee beladen" ("the merchant ship is loaded with tea"). If the verb stem in the <b>infinitive</b> ends with one of the consonants of "'t kofschip" (-t, -k, -f, -s, -ch or -p), the past tense dental is a -t-; otherwise, it is a -d-. However, the rule also applies to loanwords ending in -c, -q or -x, as these are also voiceless.
+</p>
+<table class="wikitable" border="1">
+<caption>Examples
+</caption>
+<tbody><tr>
+<th>Dutch
+</th>
+<th>Meaning
+</th>
+<th>Dutch sentence
+</th>
+<th>English corresponding sentence
+</th></tr>
+<tr>
+<td>werken
+</td>
+<td>to work
+</td>
+<td>ik werkte
+</td>
+<td>I worked
+</td></tr>
+<tr>
+<td>krabben
+</td>
+<td>to scratch
+</td>
+<td>ik krabde
+</td>
+<td>I scratched
+</td></tr></tbody></table>
+<h3><span id=".E2.9F.A8v.E2.9F.A9_and_.E2.9F.A8z.E2.9F.A9"></span><span class="mw-headline" id="⟨v⟩_and_⟨z⟩">&#x27e8;v&#x27e9; and &#x27e8;z&#x27e9;</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=12" title="Edit section: ⟨v⟩ and ⟨z⟩">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The letters &#x27e8;v&#x27e9; and &#x27e8;z&#x27e9; are somewhat special:
+</p>
+<ul><li>They are permitted only at the start of a syllable in native words, not at the end.</li>
+<li>For historic reasons, they are never preceded by a short/lax vowel and so never occur doubled.</li>
+<li>When the sounds <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/v/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span> occur at the end of a syllable, they are written &#x27e8;f&#x27e9; and &#x27e8;s&#x27e9; respectively.</li></ul>
+<p>Then, therefore, final devoicing is reflected in the spelling:
+</p>
+<ul><li><i>blijven</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈblɛivə(n)/</span> ("to stay") → <i>blijf</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/blɛif/</span> "(I) stay"</li>
+<li><i>huizen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈɦœyzə(n)/</span> "houses" → <i>huis</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɦœys/</span> "house"</li></ul>
+<p>However, &#x27e8;f&#x27e9; and &#x27e8;s&#x27e9; are also written at the end of a syllable that is not final. The pronunciation remains voiced even if the spelling shows a voiceless consonant. This is most common in the past tense forms of weak verbs:
+</p>
+<ul><li><i>leven</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈleːvə(n)/</span> ("to live") → <i>lee<b>fd</b>e</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈleːvdə/</span> "(I) lived"</li>
+<li><i>blozen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈbloːzə(n)/</span> ("to blush") → <i>bloo<b>sd</b>e</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈbloːzdə/</span> "(I) blushed"</li></ul>
+<p>Compare this to verbs in which the final consonant is underlyingly voiceless. Here, the dental assimilation rule calls for the ending <i>-te</i>, which gives away the voicelessness of the previous sound even if the spelling of that sound itself does not:
+</p>
+<ul><li><i>blaffen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈblɑfə(n)/</span> ("to bark") → <i>bla<b>ft</b>e</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈblɑftə/</span> "(I) barked"</li>
+<li><i>ruisen</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈrœysə(n)/</span> ("to rustle, to hiss") → <i>rui<b>st</b>e</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ˈrœystə/</span> "(I) rustled"</li></ul>
+<p>Some modern loanwords and new coinages do not follow these rules. However, these words tend to not follow the other spelling rules as well: <i>buzzen</i> ("to page (call on a pager)") → <i>buzz</i> ("(I) page"), <i>buzzde</i> ("(I) paged").
+</p>
+<h2><span class="mw-headline" id="Diacritics">Diacritics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=13" title="Edit section: Diacritics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dutch uses the <a href="/wiki/Acute_accent" title="Acute accent">acute accent</a> to mark stress and the <a href="/wiki/Diaeresis_(diacritic)" title="Diaeresis (diacritic)">diaeresis</a> (trema) to disambiguate diphthongs/triphthongs. Occasionally, other diacritics are used in loanwords. Accents are not necessarily placed on capital letters (for example, the word <i>Eén</i> at the beginning of a sentence) unless the whole word is written in capitals.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Acute_accent">Acute accent</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=14" title="Edit section: Acute accent">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:VRT_E%C3%A9n_logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VRT_E%C3%A9n_logo.svg/220px-VRT_E%C3%A9n_logo.svg.png" decoding="async" width="220" height="104" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VRT_E%C3%A9n_logo.svg/330px-VRT_E%C3%A9n_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VRT_E%C3%A9n_logo.svg/440px-VRT_E%C3%A9n_logo.svg.png 2x" data-file-width="512" data-file-height="243" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:VRT_E%C3%A9n_logo.svg" class="internal" title="Enlarge"></a></div>Logo for <i><a href="/wiki/E%C3%A9n" title="Eén">Eén</a></i> (<i>One</i>), a Flemish TV station in Belgium</div></div></div>
+<p>Acute accents may be used to emphasise a word in a phrase, on the vowel in the stressed syllable. If the vowel is written as a digraph, an acute accent is put on both parts of the digraph. Although that rule includes <i><a href="/wiki/IJ_(digraph)" title="IJ (digraph)">ij</a></i>, the acute accent on the j is frequently omitted in typing (resulting in íj instead of íj́), as putting an acute accent on a j is still problematic in most word processing software.<sup id="cite_ref-klemtoon_38-0" class="reference"><a href="#cite_note-klemtoon-38">&#91;38&#93;</a></sup> If the vowel is written as more than two letters, the accent is put on the first two vowel letters – except when the first letter is a capital one. According to the <a href="/wiki/Taalunie" class="mw-redirect" title="Taalunie">Taalunie</a>, accents on capital letters are used only in <a href="/wiki/All_caps" title="All caps">all caps</a> and in loanwords.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> So, it is correct to write <i>één</i>, <i>Eén</i>, and <i>ÉÉN</i>, but not to write <i>Één</i>. The <a href="/wiki/Genootschap_Onze_Taal" title="Genootschap Onze Taal">Genootschap Onze Taal</a> states that accents can be put on capital letters whenever the need arises, but makes an exception for <i>Eén</i>.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p><p>Stress on a short vowel, written with only one letter, is occasionally marked with a <a href="/wiki/Grave_accent" title="Grave accent">grave accent</a>: <i>Kàn jij dat?</i> (equivalent to the example below), <i><a href="https://en.wiktionary.org/wiki/wel" class="extiw" title="wikt:wel">wèl</a></i>. However, it is technically incorrect to do so.<sup id="cite_ref-klemtoon_38-1" class="reference"><a href="#cite_note-klemtoon-38">&#91;38&#93;</a></sup>
+</p><p>Additionally, the acute accent may also be used to mark different meanings of various words, including <i>een/één</i> (<a href="/wiki/Indefinite_article" class="mw-redirect" title="Indefinite article">a(n)</a>/<a href="/wiki/1_(number)" class="mw-redirect" title="1 (number)">one</a>), <i>voor/vóór</i> (for/before), <i>vóórkomen/voorkómen</i> (to occur/to prevent), and <i>vérstrekkend/verstrékkend</i> (far-reaching/issuing), as shown in the examples below.
+</p>
+<h4><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=15" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<table>
+
+<tbody><tr>
+<td>Dat was háár ijsje.</td>
+<td>That was <i>her</i> ice cream.
+</td></tr>
+<tr>
+<td>Ik wil het nú!</td>
+<td>I want it <i>now</i>!
+</td></tr>
+<tr>
+<td>Dat is héél mooi.</td>
+<td>That is <i>very</i> nice.
+</td></tr>
+<tr>
+<td>Kán jij dat?</td>
+<td><i>Can</i> you <small>(are you able to)</small> do that?
+</td></tr>
+<tr>
+<td>Tóé nou!</td>
+<td>Come on!
+</td></tr>
+<tr>
+<td>Die fiets is niet óúd, hij is níéuw!</td>
+<td>That bike is not <i>old</i>, it is <i>new</i>!
+</td></tr>
+<tr>
+<td>Hij heeft een boek.</td>
+<td>He has a book.
+</td></tr>
+<tr>
+<td>Hij heeft één boek.</td>
+<td>He has one book.
+</td></tr>
+<tr>
+<td>Ik zal voor jou opstaan.</td>
+<td>I will get up for you.
+</td></tr>
+<tr>
+<td>Ik zal vóór jou opstaan.</td>
+<td>I will get up before you.
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Diaeresis">Diaeresis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=16" title="Edit section: Diaeresis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A <a href="/wiki/Diaeresis_(diacritic)" title="Diaeresis (diacritic)">diaeresis</a> is used to mark a <a href="/wiki/Hiatus_(linguistics)" title="Hiatus (linguistics)">hiatus</a>, if the combination of vowel letters may be either mistaken for a digraph or interpreted in more than one way: "geïnd" (collected), "geüpload" (uploaded), "egoïstisch" (egoistic), "sympathieën" (sympathies, preferences), coördinaat (coordinate), "reëel" (realistic), "zeeën" (seas). On a line break that separates the vowels but keeps parts of a digraph together, the diaeresis becomes redundant and so is not written: ego-/istisch, sympathie-/en, re-/eel, zee-/en.
+</p>
+<h3><span class="mw-headline" id="Diacritics_in_loanwords">Diacritics in loanwords</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=17" title="Edit section: Diacritics in loanwords">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Grave_accent" title="Grave accent">grave accent</a> is used in some French loanwords and generally when pronunciation would be wrong without it, such as <i><a href="/wiki/Apr%C3%A8s-ski" class="mw-redirect" title="Après-ski">après-ski</a></i>, <i>barrière</i> (barrier), <i>bèta</i>, <i>caissière</i> (female cashier), <i>carrière</i> (career) and <i>hè?</i> ("What?"), <i>blèren</i> (to yell). Officially, <i>appel</i> is always written without an accent, but sometimes an accent is used to distinguish between <i>appel</i> ("apple") and <i>appèl</i> ("appeal", "roll call", and others).<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p><p>Besides being used to mark stress, <a href="/wiki/Acute_accent" title="Acute accent">acute accents</a> are also used in many loanwords (mainly from French) such as <i>logé</i> (overnight guest), <i>coupé</i> (train compartment), <i>oké</i> (okay) and <i>café</i>.
+</p><p>Similarly, a <a href="/wiki/Circumflex_accent" class="mw-redirect" title="Circumflex accent">circumflex accent</a> is also used in some French loanwords, including <i>enquête</i> (survey), and <i>fêteren</i> (to treat). For <i>gênant</i> (embarrassing) it is indecisive, some sources state it should be without the accent since it makes no difference to the pronunciation, others prefer to use the accent.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> The circumflex accent is also used in <a href="/wiki/West_Frisian_Dutch" title="West Frisian Dutch">West Frisian Dutch</a> and so in general Dutch as well if there is no translation. <i>Skûtsjesilen</i> is the most common example, where <i>silen</i> is West Frisian Dutch for <i>zeilen</i> (to sail) and a <i>skûtsje</i> is a specific type of sailboat.
+</p>
+<h2><span class="mw-headline" id="Apostrophe">Apostrophe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=18" title="Edit section: Apostrophe">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As in English, an apostrophe is used to mark omission of a part of word or several words:
+</p>
+<table>
+<tbody><tr>
+<td>’n</td>
+<td>(een)</td>
+<td>a, an
+</td></tr>
+<tr>
+<td>’t</td>
+<td>(het)</td>
+<td>it/the
+</td></tr>
+<tr>
+<td>’k</td>
+<td>(ik)</td>
+<td>I
+</td></tr>
+<tr>
+<td>’r</td>
+<td>(haar)</td>
+<td>her
+</td></tr>
+<tr>
+<td>m’n</td>
+<td>(mijn)</td>
+<td>my
+</td></tr>
+<tr>
+<td>z’n</td>
+<td>(zijn)</td>
+<td>his
+</td></tr>
+<tr>
+<td>zo’n</td>
+<td>(zo een)</td>
+<td>such a(n)
+</td></tr>
+<tr>
+<td>’s ochtends</td>
+<td>(des ochtends (<i>archaic</i>))</td>
+<td>in the morning
+</td></tr>
+<tr>
+<td>’s middags</td>
+<td>(des middags (<i>archaic</i>))</td>
+<td>in the afternoon
+</td></tr>
+<tr>
+<td>’s avonds</td>
+<td>(des avonds (<i>archaic</i>))</td>
+<td>in the evening
+</td></tr>
+<tr>
+<td>’s nachts</td>
+<td>(des nachts (<i>archaic</i>))</td>
+<td>in the night
+</td></tr>
+<tr>
+<td>’s zomers</td>
+<td>(des zomers (<i>archaic</i>))</td>
+<td>in the summer
+</td></tr>
+<tr>
+<td>’s winters</td>
+<td>(des winters (<i>archaic</i>))</td>
+<td>in the winter
+</td></tr>
+<tr>
+<td>’s-Gravenhage (<i>formal</i>)</td>
+<td>(des Graven hage (<i>archaic</i>))</td>
+<td><a href="/wiki/Den_Haag" class="mw-redirect" title="Den Haag">Den Haag</a> (The Hague)
+</td></tr>
+<tr>
+<td>’s-Hertogenbosch</td>
+<td>(des Hertogen bosch (<i>archaic</i>))</td>
+<td><a href="/wiki/%E2%80%99s-Hertogenbosch" class="mw-redirect" title="’s-Hertogenbosch">’s-Hertogenbosch</a>
+</td></tr>
+<tr>
+<td>A’dam (<i>informal</i>)</td>
+<td>(Amsterdam)</td>
+<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>
+</td></tr>
+<tr>
+<td>R’dam (<i>informal</i>)</td>
+<td>(Rotterdam)</td>
+<td><a href="/wiki/Rotterdam" title="Rotterdam">Rotterdam</a>
+</td></tr></tbody></table>
+<p>Contrary to the city of Den Haag, ’s-Hertogenbosch has decided to retain the more formal orthography of its name for common communication like road signing.
+</p><p>Except in <a href="/wiki/All_caps" title="All caps">all caps</a>, the letter immediately following a word-initial apostrophe is not capitalised. If necessary, the second word is capitalised instead:
+</p>
+<dl><dd>’s Avonds is zij nooit thuis. (In the evening, she is never at home.)</dd></dl>
+<p>Originally, an apostrophe looked like an elevated comma (&#160;’&#160;). Since the introduction of typewriters and, later, computers, the use of a single quote (&#160;'&#160;) has become common.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dutch_braille" class="mw-redirect" title="Dutch braille">Dutch braille</a></li>
+<li><a href="/wiki/History_of_Dutch_orthography" title="History of Dutch orthography">History of Dutch orthography</a></li>
+<li><a href="/wiki/IJ_(digraph)" title="IJ (digraph)">IJ (digraph)</a></li>
+<li><a href="/wiki/Matthijs_Siegenbeek" title="Matthijs Siegenbeek">Matthijs Siegenbeek</a></li>
+<li><a href="/wiki/Nederlandse_Taalunie" class="mw-redirect" title="Nederlandse Taalunie">Nederlandse Taalunie</a></li>
+<li><a href="/wiki/English_spelling" class="mw-redirect" title="English spelling">English spelling</a></li>
+<li><a href="/wiki/Grand_Dictation_of_the_Dutch_Language" title="Grand Dictation of the Dutch Language">Grand Dictation of the Dutch Language</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">The <a href="/wiki/NATO_phonetic_alphabet" title="NATO phonetic alphabet">NATO phonetic alphabet</a> is also used, and sometimes the two are even mixed.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.dbnl.org/tekst/paar001abnu01_01/paar001abnu01_01_0016.htm">Standard Dutch pronunciation guide by P.C. Paardekooper</a></span>
+</li>
+<li id="cite_note-loan-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-loan_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-loan_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-loan_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">The letters &#x27e8;q&#x27e9;, &#x27e8;x&#x27e9;, and &#x27e8;y&#x27e9; occur mostly in <a href="/wiki/Loanwords" class="mw-redirect" title="Loanwords">loanwords</a>, but they may also appear in words and names that reflect older spelling conventions. &#x27e8;Q&#x27e9; is almost always followed by &#x27e8;u&#x27e9; (that is, &#x27e8;qu&#x27e9;) because nearly every word with a &#x27e8;qu&#x27e9; is borrowed from <a href="/wiki/French_language" title="French language">French</a> or <a href="/wiki/Latin" title="Latin">Latin</a>.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Normally, &#x27e8;y&#x27e9; is generally called <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛɪ/</span>. However, when it is used in common speech and/or the need arises to distinguish the letter from &#x27e8;<a href="/wiki/IJ_(digraph)" title="IJ (digraph)">ij</a>&#x27e9;, it is most often referred to as <i>Griekse ij</i> (sometimes written &#x27e8;Griekse Y&#x27e9; <a rel="nofollow" class="external autonumber" href="http://www.meertens.knaw.nl/nfd/component.php?act=detail&amp;naam=ij-y">[1]</a>)('Greek Y'); <i>i-grec</i>, a <a href="/wiki/French_language" title="French language">French</a> word having a similar meaning; or <i><a href="/wiki/Ypsilon" class="mw-redirect" title="Ypsilon">ypsilon</a></i>.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">The <a href="/wiki/IJ_(digraph)" title="IJ (digraph)">digraph <i>IJ</i></a> behaves like a separate letter for capitalisation. In alphabetical order, <i>IJ</i> may not be distinguished from with <i>Y</i> (usual for telephone directories), or it may come between <i>ii</i> and <i>ik</i> (which is common in dictionaries). In Dutch <a href="/wiki/Primary_education" title="Primary education">primary education</a> the (more common) digraph <i>IJ</i> often replaces the (less common) <i>Y</i> as the 25th letter of the alphabet.</span>
+</li>
+<li id="cite_note-sch-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-sch_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sch_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Used only in the suffix <i>-isch</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/is/</span> and its form <i>-ische</i> <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/isə/</span>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">In words like <i>thans</i>, <i>thee</i> and <i>thuis</i>.</span>
+</li>
+<li id="cite_note-unstressed-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-unstressed_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-unstressed_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-unstressed_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">&#x27e8;e&#x27e9; and &#x27e8;i&#x27e9;, when unstressed, are sometimes pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">&#x27e8;ij&#x27e9; is normally <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɛi̯/</span>. It is exceptionally <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/i(ː)/</span> in the word <i>bijzonder</i> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ə/</span> in the suffix <i>-lijk</i>.</span>
+</li>
+<li id="cite_note-c-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-c_10-0">^</a></b></span> <span class="reference-text">&#x27e8;c&#x27e9; before &#x27e8;e&#x27e9;, &#x27e8;i&#x27e9;, &#x27e8;y&#x27e9;, is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span> (or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span> in some loanwords from Italian) and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span> otherwise.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">The <a href="/wiki/Cedilla" title="Cedilla">cedilla</a> is used to indicate pronunciation as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span> when &#x27e8;c&#x27e9; is followed by &#x27e8;a&#x27e9;, &#x27e8;o&#x27e9; or &#x27e8;u&#x27e9;.</span>
+</li>
+<li id="cite_note-ch-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-ch_12-0">^</a></b></span> <span class="reference-text">&#x27e8;ch&#x27e9; is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span> in Italian loanwords, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span>, <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span> in loanwords from other sources.</span>
+</li>
+<li id="cite_note-g-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-g_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-g_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">&#x27e8;g&#x27e9; may be pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʒ/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dʒ/</span> before &#x27e8;e&#x27e9; &#x27e8;i&#x27e9; or &#x27e8;y&#x27e9; in words of Romance or English origin.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">&#x27e8;(i)ll&#x27e9; is found in words from French or occasionally Spanish.</span>
+</li>
+<li id="cite_note-j-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-j_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-j_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">&#x27e8;j&#x27e9; is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/x/</span> in Spanish loanwords, as a postalveolar in loanwords from other sources.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">The letter &#x27e8;ñ&#x27e9; occurs only in a few Spanish loanwords.</span>
+</li>
+<li id="cite_note-ph-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-ph_17-0">^</a></b></span> <span class="reference-text">Used only in some proper names like <i><a href="/wiki/Zutphen" title="Zutphen">Zutphen</a></i>. Words of Greek origin are written with &#x27e8;f&#x27e9; but formerly with &#x27e8;ph&#x27e9;.</span>
+</li>
+<li id="cite_note-q-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-q_18-0">^</a></b></span> <span class="reference-text">In the rare cases when &#x27e8;q&#x27e9; is <i>not</i> followed by &#x27e8;u&#x27e9;, it is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span>. In those cases, &#x27e8;q&#x27e9; is most likely a result of <a href="/wiki/Transliteration" title="Transliteration">transliteration</a> from languages such as <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic</a>.</span>
+</li>
+<li id="cite_note-qu-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-qu_19-0">^</a></b></span> <span class="reference-text">&#x27e8;qu&#x27e9; is normally pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/kʋ/</span> but as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/k/</span> before &#x27e8;e&#x27e9; or &#x27e8;i&#x27e9; in loanwords from French or Spanish.</span>
+</li>
+<li id="cite_note-s-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-s_20-0">^</a></b></span> <span class="reference-text">&#x27e8;s&#x27e9; may be pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/z/</span> before a vowel in words of foreign origin.</span>
+</li>
+<li id="cite_note-sch2-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-sch2_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sch2_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span> is used mostly in words of German origin. It is also <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/s/</span> finally in older Dutch spellings, which are now spelled with just &#x27e8;s&#x27e9;</span>
+</li>
+<li id="cite_note-(t)sj-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-(t)sj_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-(t)sj_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃ/</span> and <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tʃ/</span> occur as independent phonemes only in words of foreign origin. The sounds are approximated using the "native" spellings &#x27e8;sj&#x27e9; and &#x27e8;tsj&#x27e9; respectively.</span>
+</li>
+<li id="cite_note-sz-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-sz_23-0">^</a></b></span> <span class="reference-text">Used in some proper names such as <i><a href="/wiki/Lambert_Jacobsz" title="Lambert Jacobsz">Jacobsz</a></i>, as a contraction of <i>-s zoon</i> (...'s son).</span>
+</li>
+<li id="cite_note-ti-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-ti_24-0">^</a></b></span> <span class="reference-text">&#x27e8;ti&#x27e9; followed by a vowel is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/(t)si/</span> in loanwords of Latin origin.</span>
+</li>
+<li id="cite_note-th-25"><span class="mw-cite-backlink">^ <a href="#cite_ref-th_25-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-th_25-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">&#x27e8;th&#x27e9; is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span> in words of Greek origin. In English loanwords, it is most often approximated with <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/t/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/d/</span> according to the English pronunciation, or speakers may attempt to pronounce dental fricatives, as in English.</span>
+</li>
+<li id="cite_note-x-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-x_26-0">^</a></b></span> <span class="reference-text">&#x27e8;x&#x27e9; is sometimes pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɡz/</span> between vowels, usually in southern dialects.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">&#x27e8;z&#x27e9; is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ts/</span> in words of German or Italian origin. In Italian words, it may also be <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/dz/</span> between vowels.</span>
+</li>
+<li id="cite_note-ij-y-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-ij-y_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ij-y_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ij-y_28-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ij-y_28-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ij-y_28-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-ij-y_28-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">In diphthongs, &#x27e8;ij&#x27e9; and &#x27e8;y&#x27e9; are obsolete spellings for &#x27e8;i&#x27e9;. They are found mostly in names.</span>
+</li>
+<li id="cite_note-ae-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-ae_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ae_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">&#x27e8;ae&#x27e9; is an obsolete spelling for &#x27e8;aa&#x27e9;. In Latin words, it is treated identical to &#x27e8;ee&#x27e9;.</span>
+</li>
+<li id="cite_note-au-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-au_30-0">^</a></b></span> <span class="reference-text">In words of French origin.</span>
+</li>
+<li id="cite_note-eu-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-eu_31-0">^</a></b></span> <span class="reference-text"> &#x27e8;eu&#x27e9; is pronounced as <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/œy̯/</span> by some speakers in words of Greek origin.</span>
+</li>
+<li id="cite_note-oi-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-oi_32-0">^</a></b></span> <span class="reference-text">&#x27e8;oi&#x27e9; is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋɑ/</span> or <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋaː/</span> in French loanwords. In archaic Dutch spellings, mostly proper nouns, it may also be <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/oː/</span> (for example, <a href="/wiki/Oisterwijk" title="Oisterwijk">Oisterwijk</a> or <a href="/wiki/Helvoirt" title="Helvoirt">Helvoirt</a>).</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">&#x27e8;oo&#x27e9; is generally <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span> in English loanwords.</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">&#x27e8;ou&#x27e9; is generally <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/u(ː)/</span> in loanwords from French or Greek.</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">&#x27e8;ui&#x27e9; is pronounced <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʋi(ː)/</span> in loanwords from French. In English loanwords, such as <i>cruise</i>, it is <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/uː/</span>.</span>
+</li>
+<li id="cite_note-y-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-y_36-0">^</a></b></span> <span class="reference-text">&#x27e8;y&#x27e9; is usually pronounced as &#x27e8;i&#x27e9; or &#x27e8;ie&#x27e9;. It is also an obsolete spelling variant of &#x27e8;ij&#x27e9;.</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.onzetaal.nl/taaladvies/advies/accenten-op-hoofdletters">Onze Taal: Accenten op hoofdletters (in Dutch)</a></span>
+</li>
+<li id="cite_note-klemtoon-38"><span class="mw-cite-backlink">^ <a href="#cite_ref-klemtoon_38-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-klemtoon_38-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span class="languageicon">(in Dutch)</span> <a rel="nofollow" class="external text" href="https://taaladvies.net/taal/advies/tekst/16">Klemtoonteken (algemeen)</a>, Taalunie. Accessed 3 September 2018.</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><span class="languageicon">(in Dutch)</span> <a rel="nofollow" class="external text" href="https://taaladvies.net/taal/advies/vraag/1842">Accenttekens en andere diakritische tekens op hoofdletters</a>, Taalunie. Accessed on 3 September 2018.</span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><span class="languageicon">(in Dutch)</span> <a rel="nofollow" class="external text" href="https://onzetaal.nl/taaladvies/accenten-op-hoofdletters">Accenten op hoofdletters</a>, Onze Taal. Accessed 3 September 2018.</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.onzetaal.nl/taaladvies/advies/appel-appl">Onze Taal: appel / appèl</a> (in Dutch)</span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://onzetaal.nl/taaladvies/accent-circonflexe/">Onze Taal: genant / gênant</a> (in Dutch)</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061008191650/http://www.dbnl.nl/tekst/wink003gron01/">De grondbeginselen der Nederlandsche spelling. Ontwerp der spelling voor het aanstaande Nederlandsch Woordenboek</a> (1863) by L.A. te Winkel</li>
+<li><a rel="nofollow" class="external text" href="http://www.gutenberg.org/etext/27335">De grondbeginselen der Nederlandsche spelling. Regeling der spelling voor het woordenboek der Nederlandsche taal</a> (1873) by L.A. te Winkel and M. de Vries</li>
+<li><a rel="nofollow" class="external text" href="http://woordenlijst.org/">De woordenlijst der Nederlandse taal online</a> (2005) by the Dutch Language Union (Taalunie)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060822005752/http://www.dewittespelling.nl/">De witte spelling</a> (2006) by the Society "Onze Taal"</li>
+<li><a rel="nofollow" class="external text" href="http://stevenroyedwards.com/nieuwespelling.html">"New Spelling" of the Dutch language</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bckelk.ukfsn.org/phon.full.html">Phonetic/spelling alphabets for various languages</a></li></ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit&amp;section=22" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Vincent van Heuven, <i>Spelling en Lezen.  Hoe Tragisch Zijn de Werkwoordsvormen?</i>, Assen: Van Gorcum, 1978.</li>
+<li>Rob Naborn, <i>De Spelling-Siegenbeek (1804)</i>, Doctoraalscriptie, Vrije Universiteit, Amsterdam, 1985.</li>
+<li>Marijke van der Wal, <i>Geschiedenis van het Nederlands</i>, Utrecht: Het Spectrum, 1994.</li>
+<li>Nicoline van der Sijs, <i>Taal als mensenwerk. Het ontstaan van het ABN</i>, Den Haag: Sdu Uitgevers, 2004.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Orthographies_of_the_world&amp;#039;s_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Language_orthographies" title="Template:Language orthographies"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Language_orthographies" title="Template talk:Language orthographies"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Language_orthographies&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Orthographies_of_the_world&amp;#039;s_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Orthography" title="Orthography">Orthographies</a> of the <a href="/wiki/Lists_of_languages" title="Lists of languages">world's languages</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abkhaz_alphabet" title="Abkhaz alphabet">Abkhaz</a></li>
+<li><a href="/wiki/Albanian_alphabet" title="Albanian alphabet">Albanian</a></li>
+<li><a href="/wiki/Arabic_alphabet" title="Arabic alphabet">Arabic</a></li>
+<li><a href="/wiki/Avestan_alphabet" title="Avestan alphabet">Avestan</a></li>
+<li><a href="/wiki/Azerbaijani_alphabet" title="Azerbaijani alphabet">Azerbaijani</a></li>
+<li><a href="/wiki/Belarusian_alphabet" title="Belarusian alphabet">Belarusian</a></li>
+<li><a href="/wiki/Bengali_alphabet" title="Bengali alphabet">Bengali</a></li>
+<li><a href="/wiki/Bulgarian_alphabet" title="Bulgarian alphabet">Bulgarian</a></li>
+<li><a href="/wiki/Catalan_orthography" title="Catalan orthography">Catalan</a></li>
+<li><a href="/wiki/Chakma_script" title="Chakma script">Chakma</a></li>
+<li><a href="/wiki/Cherokee_syllabary" title="Cherokee syllabary">Cherokee</a></li>
+<li><a href="/wiki/Written_Chinese" title="Written Chinese">Chinese</a></li>
+<li><a href="/wiki/Czech_orthography" title="Czech orthography">Czech</a></li>
+<li><a href="/wiki/Danish_orthography" title="Danish orthography">Danish</a></li>
+<li><a class="mw-selflink selflink">Dutch</a></li>
+<li><a href="/wiki/English_orthography" title="English orthography">English</a></li>
+<li><a href="/wiki/Ge%CA%BDez_script" title="Geʽez script">Ethiopian Semitic languages</a></li>
+<li><a href="/wiki/Esperanto_orthography" title="Esperanto orthography">Esperanto</a></li>
+<li><a href="/wiki/Estonian_orthography" title="Estonian orthography">Estonian</a></li>
+<li><a href="/wiki/Faroese_orthography" title="Faroese orthography">Faroese</a></li>
+<li><a href="/wiki/Filipino_orthography" title="Filipino orthography">Filipino</a></li>
+<li><a href="/wiki/Finnish_orthography" title="Finnish orthography">Finnish</a></li>
+<li><a href="/wiki/French_orthography" title="French orthography">French</a></li>
+<li><a href="/wiki/Fula_alphabets" title="Fula alphabets">Fula</a></li>
+<li><a href="/wiki/Georgian_scripts" title="Georgian scripts">Georgian</a></li>
+<li><a href="/wiki/German_orthography" title="German orthography">German</a></li>
+<li><a href="/wiki/Greek_orthography" title="Greek orthography">Greek</a></li>
+<li><a href="/wiki/Gujarati_script" title="Gujarati script">Gujarati</a></li>
+<li><a href="/wiki/Hawaiian_alphabet" title="Hawaiian alphabet">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_spelling" title="Hebrew spelling">Hebrew</a>
+<ul><li><a href="/wiki/Biblical_Hebrew_orthography" title="Biblical Hebrew orthography">Biblical</a></li></ul></li>
+<li><a href="/wiki/Hindustani_orthography" title="Hindustani orthography">Hindustani</a>
+<ul><li><a href="/wiki/Urdu_alphabet" title="Urdu alphabet">Urdu</a></li></ul></li>
+<li><a href="/wiki/Hungarian_orthography" title="Hungarian orthography">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_orthography" title="Icelandic orthography">Icelandic</a></li>
+<li><a href="/wiki/Inuktitut_syllabics" title="Inuktitut syllabics">Inuktitut</a></li>
+<li><a href="/wiki/Irish_orthography" title="Irish orthography">Irish</a></li>
+<li><a href="/wiki/Italian_orthography" title="Italian orthography">Italian</a></li>
+<li><a href="/wiki/Japanese_writing_system" title="Japanese writing system">Japanese</a></li>
+<li><a href="/wiki/Hangul" title="Hangul">Korean</a></li>
+<li><a href="/wiki/Kazakh_alphabets" title="Kazakh alphabets">Kazakh</a></li>
+<li><a href="/wiki/Kyrgyz_alphabets" title="Kyrgyz alphabets">Kyrgyz</a></li>
+<li><a href="/wiki/Kurdish_alphabets" title="Kurdish alphabets">Kurdish</a></li>
+<li><a href="/wiki/Latin_spelling_and_pronunciation" title="Latin spelling and pronunciation">Latin</a></li>
+<li><a href="/wiki/Latvian_orthography" title="Latvian orthography">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_orthography" title="Lithuanian orthography">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_alphabet" title="Macedonian alphabet">Macedonian</a></li>
+<li><a href="/wiki/Malay_alphabet" title="Malay alphabet">Malay</a></li>
+<li><a href="/wiki/Maldivian_writing_systems" title="Maldivian writing systems">Maldivian</a></li>
+<li><a href="/wiki/Maltese_alphabet" title="Maltese alphabet">Maltese</a></li>
+<li><a href="/wiki/Massachusett_writing_systems" title="Massachusett writing systems">Massachusett</a></li>
+<li><a href="/wiki/Mongolian_writing_systems" title="Mongolian writing systems">Mongolian</a></li>
+<li><a href="/wiki/Montenegrin_alphabet" title="Montenegrin alphabet">Montenegrin</a></li>
+<li><a href="/wiki/Nahuatl_orthography" title="Nahuatl orthography">Nahuatl</a></li>
+<li><a href="/wiki/Norwegian_orthography" title="Norwegian orthography">Norwegian</a></li>
+<li><a href="/wiki/Odia_script" title="Odia script">Odia</a></li>
+<li><a href="/wiki/Ojibwe_writing_systems" title="Ojibwe writing systems">Ojibwe</a></li>
+<li><a href="/wiki/Okinawan_scripts" title="Okinawan scripts">Okinawan</a></li>
+<li><a href="/wiki/Osage_script" title="Osage script">Osage</a></li>
+<li><a href="/wiki/Papiamento_orthography" title="Papiamento orthography">Papiamento</a></li>
+<li><a href="/wiki/Pashto_alphabet" title="Pashto alphabet">Pashto</a></li>
+<li><a href="/wiki/Persian_alphabet" title="Persian alphabet">Persian</a></li>
+<li><a href="/wiki/Polish_orthography" title="Polish orthography">Polish</a></li>
+<li><a href="/wiki/Portuguese_orthography" title="Portuguese orthography">Portuguese</a></li>
+<li><a href="/wiki/Romanian_alphabet" title="Romanian alphabet">Romanian</a></li>
+<li><a href="/wiki/Russian_orthography" title="Russian orthography">Russian</a></li>
+<li><a href="/wiki/S%C3%A1mi_orthography" title="Sámi orthography">Sámi</a></li>
+<li><a href="/wiki/Scottish_Gaelic_orthography" title="Scottish Gaelic orthography">Scottish Gaelic</a></li>
+<li>Serbo-Croatian
+<ul><li><a href="/wiki/Gaj%27s_Latin_alphabet" title="Gaj&#39;s Latin alphabet">Latin</a></li>
+<li><a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Cyrillic</a></li></ul></li>
+<li><a href="/wiki/Sicilian_orthography" title="Sicilian orthography">Sicilian</a></li>
+<li><a href="/wiki/Slovak_orthography" title="Slovak orthography">Slovak</a></li>
+<li><a href="/wiki/Slovene_alphabet" title="Slovene alphabet">Slovene</a></li>
+<li><a href="/wiki/Somali_alphabets" title="Somali alphabets">Somali</a></li>
+<li><a href="/wiki/Sorbian_alphabet" title="Sorbian alphabet">Sorbian</a></li>
+<li><a href="/wiki/Sesotho_orthography" title="Sesotho orthography">Sotho</a></li>
+<li><a href="/wiki/Spanish_orthography" title="Spanish orthography">Spanish</a></li>
+<li><a href="/wiki/Swedish_orthography" title="Swedish orthography">Swedish</a></li>
+<li><a href="/wiki/Tajik_alphabet" title="Tajik alphabet">Tajik</a></li>
+<li><a href="/wiki/Tamil_script" title="Tamil script">Tamil</a></li>
+<li><a href="/wiki/Tatar_alphabet" title="Tatar alphabet">Tatar</a></li>
+<li><a href="/wiki/Telugu_script" title="Telugu script">Telugu</a></li>
+<li><a href="/wiki/Thai_script" title="Thai script">Thai</a></li>
+<li><a href="/wiki/Turkish_alphabet" title="Turkish alphabet">Turkish</a></li>
+<li><a href="/wiki/Turkmen_alphabet" title="Turkmen alphabet">Turkmen</a></li>
+<li><a href="/wiki/Ukrainian_alphabet" title="Ukrainian alphabet">Ukrainian</a></li>
+<li><a href="/wiki/Uyghur_alphabets" title="Uyghur alphabets">Uyghur</a></li>
+<li><a href="/wiki/Uzbek_alphabet" title="Uzbek alphabet">Uzbek</a></li>
+<li><a href="/wiki/Vai_syllabary" title="Vai syllabary">Vai</a></li>
+<li><a href="/wiki/Vietnamese_alphabet" title="Vietnamese alphabet">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_orthography" title="Welsh orthography">Welsh</a></li>
+<li><a href="/wiki/West_Frisian_alphabet" title="West Frisian alphabet">West Frisian</a></li>
+<li><a href="/wiki/Yakut_scripts" title="Yakut scripts">Yakut</a></li>
+<li><a href="/wiki/Yiddish_orthography" title="Yiddish orthography">Yiddish</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1302
+Cached time: 20190915133058
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.464 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 3465/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 54415/2097152 bytes
+Template argument size: 2588/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 23003/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 8.65 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  364.596      1 -total
+ 61.67%  224.853      1 Template:Reflist
+ 48.97%  178.552      3 Template:Nl
+ 47.70%  173.927      1 Template:Link_language
+  9.81%   35.782      1 Template:Dutch_Grammar
+  8.27%   30.159      1 Template:Sidebar
+  6.23%   22.713      1 Template:Category_handler
+  4.75%   17.301    333 Template:IPA
+  3.38%   12.310      1 Template:Main
+  3.17%   11.559      1 Template:Language_orthographies
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1800293-0!canonical and timestamp 20190915133058 and revision id 908621905
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dutch_orthography&amp;oldid=908621905">https://en.wikipedia.org/w/index.php?title=Dutch_orthography&amp;oldid=908621905</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Dutch_language" title="Category:Dutch language">Dutch language</a></li><li><a href="/wiki/Category:Latin-script_orthographies" title="Category:Latin-script orthographies">Latin-script orthographies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Dutch-language_external_links" title="Category:Articles with Dutch-language external links">Articles with Dutch-language external links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dutch+orthography" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dutch+orthography" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dutch_orthography" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dutch_orthography" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dutch_orthography">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dutch_orthography&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dutch_orthography&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dutch_orthography" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dutch_orthography" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dutch_orthography&amp;oldid=908621905" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dutch_orthography&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1309004" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dutch_orthography&amp;id=908621905" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dutch+orthography">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dutch+orthography&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dutch_orthography&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D9%88%D8%A7%D8%B9%D8%AF_%D8%A7%D9%84%D8%A5%D9%85%D9%84%D8%A7%D8%A1_%D8%A7%D9%84%D9%87%D9%88%D9%84%D9%86%D8%AF%D9%8A%D8%A9" title="قواعد الإملاء الهولندية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ortografia_del_neerland%C3%A8s" title="Ortografia del neerlandès – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rechtschreibung_des_Niederl%C3%A4ndischen" title="Rechtschreibung des Niederländischen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%D9%81%D8%A8%D8%A7%DB%8C_%D9%87%D9%84%D9%86%D8%AF%DB%8C" title="الفبای هلندی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%D0%BF%D0%B8%D1%81_%D0%BD%D0%B0_%D1%85%D0%BE%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%BE%D1%82_%D1%98%D0%B0%D0%B7%D0%B8%D0%BA" title="Правопис на холандскиот јазик – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nederlandse_spelling" title="Nederlandse spelling – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8D%B7%E8%98%AD%E8%AA%9E%E6%AD%A3%E5%AF%AB%E6%B3%95" title="荷蘭語正寫法 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1309004#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2019, at 21:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dutch_orthography&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.464","walltime":"0.542","ppvisitednodes":{"value":3465,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54415,"limit":2097152},"templateargumentsize":{"value":2588,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":23003,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  364.596      1 -total"," 61.67%  224.853      1 Template:Reflist"," 48.97%  178.552      3 Template:Nl"," 47.70%  173.927      1 Template:Link_language","  9.81%   35.782      1 Template:Dutch_Grammar","  8.27%   30.159      1 Template:Sidebar","  6.23%   22.713      1 Template:Category_handler","  4.75%   17.301    333 Template:IPA","  3.38%   12.310      1 Template:Main","  3.17%   11.559      1 Template:Language_orthographies"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":9066076,"limit":52428800}},"cachereport":{"origin":"mw1302","timestamp":"20190915133058","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dutch orthography","url":"https:\/\/en.wikipedia.org\/wiki\/Dutch_orthography","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1309004","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1309004","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-26T15:58:36Z","dateModified":"2019-07-30T21:53:13Z","headline":"orthography of the Dutch language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":157,"wgHostname":"mw1241"});});</script>
+</body>
+</html>

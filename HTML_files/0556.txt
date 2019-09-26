@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Biome - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biome","wgTitle":"Biome","wgCurRevisionId":915607183,"wgRevisionId":915607183,"wgArticleId":4802,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","CS1 errors: dates","Wikipedia pages semi-protected against vandalism","Articles with short description","Articles needing additional references from August 2012","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from September 2016","Wikipedia external links cleanup from March 2017","Wikipedia spam cleanup from March 2017","Wikipedia articles with GND identifiers","Biomes","Habitats"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
+"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biome","wgRelevantArticleId":4802,"wgRequestId":"XYog6ApAICsAADvn7LkAAAAS","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q101998","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest",
+"ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/1200px-Vegetation.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biome"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Biome"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Biome rootpage-Biome skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until September 19, 2020 at 12:09 UTC, due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Biome</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Distinct biological communities that have formed in response to a shared physical climate</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Biome&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Biome%22">"Biome"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Biome%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Biome%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Biome%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Biome%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Biome%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">August 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:502px;"><a href="/wiki/File:Vegetation.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/500px-Vegetation.png" decoding="async" width="500" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/750px-Vegetation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/1000px-Vegetation.png 2x" data-file-width="1385" data-file-height="622" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Vegetation.png" class="internal" title="Enlarge"></a></div>One way of mapping terrestrial biomes around the world</div></div></div>
+<p>A <b>biome</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="/aɪ/: &#39;i&#39; in &#39;tide&#39;">aɪ</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="&#39;m&#39; in &#39;my&#39;">m</span></span>/</a></span></span> is a community of <a href="/wiki/Flora" title="Flora">plants</a> and <a href="/wiki/Fauna" title="Fauna">animals</a> that have common characteristics for the <a href="/wiki/Natural_environment" title="Natural environment">environment</a> they exist in. They can be found over a range of continents. Biomes are distinct biological <a href="/wiki/Community_(ecology)" title="Community (ecology)">communities</a> that have formed in response to a shared physical <a href="/wiki/Climate" title="Climate">climate</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>  <i>Biome</i> is a broader term than <i><a href="/wiki/Habitat" title="Habitat">habitat</a></i>; any biome can comprise a variety of habitats.
+</p><p>While a biome can cover large areas, a microbiome is a mix of organisms that coexist in a defined space on a much smaller scale.  For example, the <a href="/wiki/Human_microbiome" title="Human microbiome">human microbiome</a> is the collection of bacteria, viruses, and other microorganisms that are present on or in a human body.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>A 'biota' is the total collection of organisms of a geographic region or a time period, from local geographic scales and instantaneous temporal scales all the way up to whole-planet and whole-timescale spatiotemporal scales. The biotas of the Earth make up the <a href="/wiki/Biosphere" title="Biosphere">biosphere</a>.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046785">.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}</style><div class="toclimit-3"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History_of_the_concept"><span class="tocnumber">1</span> <span class="toctext">History of the concept</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classifications"><span class="tocnumber">2</span> <span class="toctext">Classifications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Holdridge_(1947,_1964)_life_zones"><span class="tocnumber">2.1</span> <span class="toctext">Holdridge (1947, 1964) life zones</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Allee_(1949)_biome-types"><span class="tocnumber">2.2</span> <span class="toctext">Allee (1949) biome-types</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Kendeigh_(1961)_biomes"><span class="tocnumber">2.3</span> <span class="toctext">Kendeigh (1961) biomes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Whittaker_(1962,_1970,_1975)_biome-types"><span class="tocnumber">2.4</span> <span class="toctext">Whittaker (1962, 1970, 1975) biome-types</span></a>
+<ul>
+<li class="toclevel-3 tocsection-7"><a href="#Key_definitions_for_understanding_Whittaker&#39;s_scheme"><span class="tocnumber">2.4.1</span> <span class="toctext">Key definitions for understanding Whittaker's scheme</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Whittaker&#39;s_parameters_for_classifying_biome-types"><span class="tocnumber">2.4.2</span> <span class="toctext">Whittaker's parameters for classifying biome-types</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Biome-types"><span class="tocnumber">2.4.3</span> <span class="toctext">Biome-types</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-10"><a href="#Goodall_(1974-)_ecosystem_types"><span class="tocnumber">2.5</span> <span class="toctext">Goodall (1974-) ecosystem types</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Walter_(1976,_2002)_zonobiomes"><span class="tocnumber">2.6</span> <span class="toctext">Walter (1976, 2002) zonobiomes</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Schultz_(1988)_ecozones"><span class="tocnumber">2.7</span> <span class="toctext">Schultz (1988) ecozones</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Bailey_(1989)_ecoregions"><span class="tocnumber">2.8</span> <span class="toctext">Bailey (1989) ecoregions</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Olson_&amp;_Dinerstein_(1998)_biomes_for_WWF_/_Global_200"><span class="tocnumber">2.9</span> <span class="toctext">Olson &amp; Dinerstein (1998) biomes for WWF / Global 200</span></a>
+<ul>
+<li class="toclevel-3 tocsection-15"><a href="#Biogeographic_realms_(terrestrial_and_freshwater)"><span class="tocnumber">2.9.1</span> <span class="toctext">Biogeographic realms (terrestrial and freshwater)</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Biogeographic_realms_(marine)"><span class="tocnumber">2.9.2</span> <span class="toctext">Biogeographic realms (marine)</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Biomes_(terrestrial)"><span class="tocnumber">2.9.3</span> <span class="toctext">Biomes (terrestrial)</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Biomes_(freshwater)"><span class="tocnumber">2.9.4</span> <span class="toctext">Biomes (freshwater)</span></a></li>
+<li class="toclevel-3 tocsection-19"><a href="#Biomes_(marine)"><span class="tocnumber">2.9.5</span> <span class="toctext">Biomes (marine)</span></a></li>
+<li class="toclevel-3 tocsection-20"><a href="#Summary_of_the_scheme"><span class="tocnumber">2.9.6</span> <span class="toctext">Summary of the scheme</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-21"><a href="#Other_biomes"><span class="tocnumber">3</span> <span class="toctext">Other biomes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-22"><a href="#Marine_biomes"><span class="tocnumber">3.1</span> <span class="toctext">Marine biomes</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Anthropogenic_biomes"><span class="tocnumber">3.2</span> <span class="toctext">Anthropogenic biomes</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Microbial_biomes"><span class="tocnumber">3.3</span> <span class="toctext">Microbial biomes</span></a>
+<ul>
+<li class="toclevel-3 tocsection-25"><a href="#Endolithic_biomes"><span class="tocnumber">3.3.1</span> <span class="toctext">Endolithic biomes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="History_of_the_concept">History of the concept</span></h2>
+<p>The term was suggested in 1916 by <a href="/wiki/Frederic_Clements" title="Frederic Clements">Clements</a>, originally as a synonym for <a href="/wiki/Biotic_community" class="mw-redirect" title="Biotic community">biotic community</a> of <a href="/wiki/Karl_M%C3%B6bius" title="Karl Möbius">Möbius</a> (1877).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Later, it gained its current definition, based on earlier concepts of <a href="/wiki/Physiognomy" title="Physiognomy">phytophysiognomy</a>, <a href="/wiki/Formation_(vegetation)" class="mw-redirect" title="Formation (vegetation)">formation</a> and <a href="/wiki/Vegetation" title="Vegetation">vegetation</a> (used in opposition to <a href="/wiki/Flora" title="Flora">flora</a>), with the inclusion of the animal element and the exclusion of the taxonomic element of species composition.<sup id="cite_ref-Coutinho_5-0" class="reference"><a href="#cite_note-Coutinho-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> In 1935, <a href="/wiki/Arthur_Tansley" title="Arthur Tansley">Tansley</a> added the climatic and soil aspects to the idea, calling it <a href="/wiki/Ecosystem" title="Ecosystem">ecosystem</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The <a href="/wiki/International_Biological_Program" title="International Biological Program">International Biological Program</a> (1964–74) projects popularized the concept of biome.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>However, in some contexts, the term biome is used in a different manner. In German literature, particularly in the <a href="/wiki/Heinrich_Walter" title="Heinrich Walter">Walter</a> terminology, the term is used similarly as <a href="/wiki/Biotope" title="Biotope">biotope</a> (a concrete geographical unit), while the biome definition used in this article is used as an international, non-regional, terminology - irrespectively of the continent in which an area is present, it takes the same biome name - and corresponds to his "zonobiome", "orobiome" and "pedobiome" (biomes determined by climate zone, altitude or soil).<sup id="cite_ref-WalterBreckle_10-0" class="reference"><a href="#cite_note-WalterBreckle-10">&#91;10&#93;</a></sup>
+</p><p>In Brazilian literature, the term "biome" is sometimes used as synonym of "<a href="/wiki/Biogeographic_province" class="mw-redirect" title="Biogeographic province">biogeographic province</a>", an area based on species composition (the term "<a href="/wiki/Floristic_province" class="mw-redirect" title="Floristic province">floristic province</a>" being used when plant species are considered), or also as synonym of the "morphoclimatic and phytogeographical domain" of <a href="/wiki/Aziz_Ab%27S%C3%A1ber" title="Aziz Ab&#39;Sáber">Ab'Sáber</a>, a geographic space with subcontinental dimensions, with the predominance of similar geomorphologic and climatic characteristics, and of a certain vegetation form. Both include many biomes in fact.<sup id="cite_ref-Coutinho_5-1" class="reference"><a href="#cite_note-Coutinho-5">&#91;5&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classifications">Classifications</span></h2>
+<p>To divide the world in a few ecological zones is a difficult attempt, notably because of the small-scale variations that exist everywhere on earth and because of the gradual changeover from one biome to the other. Their boundaries must therefore be drawn arbitrarily and their characterization made according to the average conditions that predominate in them.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>A 1978 study on North American grasslands<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> found a positive <a href="/wiki/Logistic_regression" title="Logistic regression">logistic correlation</a> between <a href="/wiki/Evapotranspiration" title="Evapotranspiration">evapotranspiration</a> in mm/yr and above-ground net primary production in g/m<sup>2</sup>/yr. The general results from the study were that precipitation and water use led to above-ground primary production, while <a href="/wiki/Sunlight" title="Sunlight">solar irradiation</a> and temperature lead to below-ground primary production (roots), and temperature and water lead to cool and warm season growth habit.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  These findings help explain the categories used in Holdridge’s bioclassification scheme (see below), which were then later simplified by Whittaker. The number of classification schemes and the variety of determinants used in those schemes, however, should be taken as strong indicators that biomes do not fit perfectly into the classification schemes created.
+</p>
+<h3><span id="Holdridge_.281947.2C_1964.29_life_zones"></span><span class="mw-headline" id="Holdridge_(1947,_1964)_life_zones">Holdridge (1947, 1964) life zones</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Holdridge_life_zones" title="Holdridge life zones">Holdridge life zones</a></div>
+<p>Holdridge classified climates based on the biological effects of temperature and <a href="/wiki/Rainfall" class="mw-redirect" title="Rainfall">rainfall</a> on <a href="/wiki/Vegetation" title="Vegetation">vegetation</a> under the assumption that these two <a href="/wiki/Abiotic" class="mw-redirect" title="Abiotic">abiotic</a> factors are the largest determinants of the types of vegetation found in a habitat. Holdridge uses the four axes to define 30 so-called "humidity provinces", which are clearly visible in his diagram. While this scheme largely ignores soil and sun exposure, Holdridge acknowledged that these were important.
+</p>
+<h3><span id="Allee_.281949.29_biome-types"></span><span class="mw-headline" id="Allee_(1949)_biome-types">Allee (1949) biome-types</span></h3>
+<p>The principal biome-types by Allee (1949):<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Tundra" title="Tundra">Tundra</a></li>
+<li><a href="/wiki/Taiga" title="Taiga">Taiga</a></li>
+<li>Deciduous forest</li>
+<li>Grasslands</li>
+<li><a href="/wiki/Desert" title="Desert">Desert</a></li>
+<li>High plateaus</li>
+<li>Tropical forest</li>
+<li>Minor terrestrial biomes</li></ul>
+<h3><span id="Kendeigh_.281961.29_biomes"></span><span class="mw-headline" id="Kendeigh_(1961)_biomes">Kendeigh (1961) biomes</span></h3>
+<p>The principal biomes of the world by Kendeigh (1961):<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<ul><li>Terrestrial
+<ul><li><a href="/wiki/Temperate_deciduous_forest" title="Temperate deciduous forest">Temperate deciduous forest</a></li>
+<li><a href="/wiki/Pinophyta" title="Pinophyta">Coniferous</a> forest</li>
+<li><a href="/wiki/Woodland" title="Woodland">Woodland</a></li>
+<li><a href="/wiki/Chaparral" title="Chaparral">Chaparral</a></li>
+<li><a href="/wiki/Tundra" title="Tundra">Tundra</a></li>
+<li><a href="/wiki/Grassland" title="Grassland">Grassland</a></li>
+<li><a href="/wiki/Desert" title="Desert">Desert</a></li>
+<li>Tropical <a href="/wiki/Savanna" title="Savanna">savanna</a></li>
+<li><a href="/wiki/Tropical" class="mw-redirect" title="Tropical">Tropical</a> forest</li></ul></li>
+<li>Marine
+<ul><li>Oceanic plankton and <a href="/wiki/Nekton" title="Nekton">nekton</a></li>
+<li>Balanoid-gastropod-<a href="/wiki/Thallophyte" title="Thallophyte">thallophyte</a></li>
+<li><a href="/wiki/Pelecypod" class="mw-redirect" title="Pelecypod">Pelecypod</a>-annelid</li>
+<li><a href="/wiki/Coral" title="Coral">Coral</a> reef</li></ul></li></ul>
+<h3><span id="Whittaker_.281962.2C_1970.2C_1975.29_biome-types"></span><span class="mw-headline" id="Whittaker_(1962,_1970,_1975)_biome-types">Whittaker (1962, 1970, 1975) biome-types</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Climate_influence_on_terrestrial_biome.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Climate_influence_on_terrestrial_biome.svg/220px-Climate_influence_on_terrestrial_biome.svg.png" decoding="async" width="220" height="214" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Climate_influence_on_terrestrial_biome.svg/330px-Climate_influence_on_terrestrial_biome.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Climate_influence_on_terrestrial_biome.svg/440px-Climate_influence_on_terrestrial_biome.svg.png 2x" data-file-width="716" data-file-height="696" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Climate_influence_on_terrestrial_biome.svg" class="internal" title="Enlarge"></a></div>The distribution of vegetation types as a function of mean annual temperature and precipitation.</div></div></div>
+<p><a href="/wiki/Robert_Harding_Whittaker" class="mw-redirect" title="Robert Harding Whittaker">Whittaker</a> classified biomes using two abiotic factors: precipitation and temperature. His scheme can be seen as a simplification of Holdridge's; more readily accessible, but missing Holdridge's greater specificity.
+</p><p>Whittaker based his approach on theoretical assertions and empirical sampling. He was in a unique position to make such a holistic assertion because he had previously compiled a review of biome classifications.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h4><span id="Key_definitions_for_understanding_Whittaker.27s_scheme"></span><span class="mw-headline" id="Key_definitions_for_understanding_Whittaker's_scheme">Key definitions for understanding Whittaker's scheme</span></h4>
+<ul><li><a href="/wiki/Physiognomy" title="Physiognomy">Physiognomy</a>: the apparent characteristics, outward features, or appearance of ecological communities or species.</li>
+<li>Biome: a grouping of terrestrial ecosystems on a given continent that is similar in vegetation structure, physiognomy, features of the environment and characteristics of their animal communities.</li>
+<li><a href="/wiki/Formation_(vegetation)" class="mw-redirect" title="Formation (vegetation)">Formation</a>: a major kind of community of plants on a given continent.</li>
+<li>Biome-type: grouping of convergent biomes or formations of different continents, defined by physiognomy.</li>
+<li>Formation-type: a grouping of convergent formations.</li></ul>
+<p>Whittaker's distinction between biome and formation can be simplified: formation is used when applied to <a href="/wiki/Plant_communities" class="mw-redirect" title="Plant communities">plant communities</a> only, while biome is used when concerned with both plants and animals. Whittaker's convention of biome-type or formation-type is simply a broader method to categorize similar communities.<sup id="cite_ref-Whittaker1975_19-0" class="reference"><a href="#cite_note-Whittaker1975-19">&#91;19&#93;</a></sup> 
+</p>
+<h4><span id="Whittaker.27s_parameters_for_classifying_biome-types"></span><span class="mw-headline" id="Whittaker's_parameters_for_classifying_biome-types">Whittaker's parameters for classifying biome-types</span></h4>
+<p>Whittaker, seeing the need for a simpler way to express the relationship of community structure to the environment, used what he called "gradient analysis" of <a href="/wiki/Ecocline" class="mw-redirect" title="Ecocline">ecocline</a> patterns to relate communities to climate on a worldwide scale. Whittaker considered four main ecoclines in the terrestrial realm.<sup id="cite_ref-Whittaker1975_19-1" class="reference"><a href="#cite_note-Whittaker1975-19">&#91;19&#93;</a></sup>
+</p>
+<ol><li>Intertidal levels: The wetness gradient of areas that are exposed to alternating water and dryness with intensities that vary by location from high to low tide</li>
+<li>Climatic moisture gradient</li>
+<li>Temperature gradient by altitude</li>
+<li>Temperature gradient by latitude</li></ol>
+<p>Along these gradients, Whittaker noted several trends that allowed him to qualitatively establish biome-types:
+</p>
+<ul><li>The gradient runs from favorable to the extreme, with corresponding changes in productivity.</li>
+<li>Changes in physiognomic complexity vary with how favorable of an environment exists (decreasing community structure and reduction of stratal differentiation as the environment becomes less favorable).</li>
+<li>Trends in the diversity of structure follow trends in species diversity; alpha and beta species diversities decrease from favorable to extreme environments.</li>
+<li>Each growth-form (i.e. grasses, shrubs, etc.) has its characteristic place of maximum importance along the ecoclines.</li>
+<li>The same growth forms may be dominant in similar environments in widely different parts of the world.</li></ul>
+<p>Whittaker summed the effects of gradients (3) and (4) to get an overall temperature gradient and combined this with a gradient (2), the moisture gradient, to express the above conclusions in what is known as the Whittaker classification scheme. The scheme graphs average annual precipitation (x-axis) versus average annual temperature (y-axis) to classify biome-types.
+</p>
+<h4><span class="mw-headline" id="Biome-types">Biome-types</span></h4>
+<ol><li>Tropical rainforest</li>
+<li>Tropical seasonal rainforest
+<ul><li>deciduous</li>
+<li>semideciduous</li></ul></li>
+<li>Temperate giant rainforest</li>
+<li>Montane rainforest</li>
+<li>Temperate deciduous forest</li>
+<li>Temperate evergreen forest
+<ul><li>needleleaf</li>
+<li>sclerophyll</li></ul></li>
+<li>Subarctic-subalpin needle-leaved forests (taiga)</li>
+<li>Elfin woodland</li>
+<li>Thorn forests and woodlands</li>
+<li>Thorn scrub</li>
+<li>Temperate woodland</li>
+<li>Temperate shrublands
+<ul><li>deciduous</li>
+<li>heath</li>
+<li>sclerophyll</li>
+<li>subalpine-needleleaf</li>
+<li>subalpine-broadleaf</li></ul></li>
+<li>Savanna</li>
+<li>Temperate grassland</li>
+<li>Alpine grasslands</li>
+<li>Tundra</li>
+<li>Tropical desert</li>
+<li>Warm-temperate desert</li>
+<li>Cool temperate desert scrub</li>
+<li>Arctic-alpine desert</li>
+<li>Bog</li>
+<li>Tropical fresh-water swamp forest</li>
+<li>Temperate fresh-water swamp forest</li>
+<li>Mangrove swamp</li>
+<li>Salt marsh</li>
+<li>Wetland<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup></li></ol>
+<h3><span id="Goodall_.281974-.29_ecosystem_types"></span><span class="mw-headline" id="Goodall_(1974-)_ecosystem_types">Goodall (1974-) ecosystem types</span></h3>
+<p>...
+The multiauthored series <i>Ecosystems of the world</i>, edited by <a href="/wiki/David_W._Goodall" class="mw-redirect" title="David W. Goodall">David W. Goodall</a>, provides a comprehensive coverage of the major "ecosystem types or biomes" on earth:<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<div><ol style="list-style-type:upper-roman"><li>Terrestrial Ecosystems
+  <div><ol style="list-style-type:upper-alpha"><li>Natural Terrestrial Ecosystems
+    <div><ol><li>Wet Coastal Ecosystems</li><li>Dry Coastal Ecosystems</li><li>Polar and Alpine Tundra</li><li>Mires: Swamp, Bog, Fen, and Moor</li><li>Temperate Deserts and Semi-Deserts</li><li>Coniferous Forests</li><li>Temperate Deciduous Forests</li><li>Natural Grasslands</li><li>Heathlands and Related Shrublands</li><li>Temperate Broad-Leaved Evergreen Forests</li><li>Mediterranean-Type Shrublands</li><li>Hot Deserts and Arid Shrublands</li><li>Tropical Savannas</li><li>Tropical Rain Forest Ecosystems</li><li>Wetland Forests</li><li>Ecosystems of Disturbed Ground</li></ol></div></li><li>Managed Terrestrial Ecosystems
+    <div><ol start="17"><li>Managed Grasslands</li><li>Field Crop Ecosystems</li><li>Tree Crop Ecosystems</li><li>Greenhouse Ecosystems</li><li>Bioindustrial Ecosystems</li></ol></div></li></ol></div></li><li>Aquatic Ecosystems
+  <div><ol style="list-style-type:upper-alpha"><li>Inland Aquatic Ecosystems
+    <div><ol start="22"><li>River and Stream Ecosystems</li><li>Lakes and Reservoirs</li></ol></div></li><li>Marine Ecosystems
+    <div><ol start="24"><li>Intertidal and Littoral Ecosystems</li><li>Coral Reefs</li><li>Estuaries and Enclosed Seas</li><li>Ecosystems of the Continental Shelves</li><li>Ecosystems of the Deep Ocean</li></ol></div></li><li>Managed Aquatic Ecosystems
+    <div><ol start="29"><li>Managed Aquatic Ecosystems</li></ol></div></li></ol></div></li><li>Underground Ecosystems
+  <div><ol start="30"><li>Cave Ecosystems</li></ol></div></li></ol></div>
+<h3><span id="Walter_.281976.2C_2002.29_zonobiomes"></span><span class="mw-headline" id="Walter_(1976,_2002)_zonobiomes">Walter (1976, 2002) zonobiomes</span></h3>
+<p>The eponymously-named <a href="/wiki/Heinrich_Walter" title="Heinrich Walter">Heinrich Walter</a> classification scheme considers the seasonality of temperature and precipitation. The system, also assessing precipitation and temperature, finds nine major biome types, with the important climate traits and <a href="/wiki/Vegetation_type" class="mw-redirect" title="Vegetation type">vegetation types</a>. The boundaries of each biome correlate to the conditions of moisture and cold stress that are strong determinants of plant form, and therefore the vegetation that defines the region. Extreme conditions, such as flooding in a swamp, can create different kinds of communities within the same biome.<sup id="cite_ref-WalterBreckle_10-1" class="reference"><a href="#cite_note-WalterBreckle-10">&#91;10&#93;</a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Zonobiome
+</th>
+<th>Zonal soil type
+</th>
+<th>Zonal vegetation type
+</th></tr>
+<tr>
+<td>ZB I. <a href="/wiki/Equatorial_region" class="mw-redirect" title="Equatorial region">Equatorial</a>, always moist, little temperature seasonality
+</td>
+<td>Equatorial brown clays
+</td>
+<td>Evergreen <a href="/wiki/Tropical_rainforest" title="Tropical rainforest">tropical rainforest</a>
+</td></tr>
+<tr>
+<td>ZB II. <a href="/wiki/Tropical" class="mw-redirect" title="Tropical">Tropical</a>, summer rainy season and cooler “winter” dry season
+</td>
+<td>Red clays or red earths
+</td>
+<td><a href="/wiki/Tropical_seasonal_forest" class="mw-redirect" title="Tropical seasonal forest">Tropical seasonal forest</a>, seasonal <a href="/wiki/Tropical_and_subtropical_dry_broadleaf_forests" title="Tropical and subtropical dry broadleaf forests">dry forest</a>, scrub, or savanna
+</td></tr>
+<tr>
+<td>ZB III. <a href="/wiki/Subtropical" class="mw-redirect" title="Subtropical">Subtropical</a>, highly seasonal, <a href="/wiki/Arid" title="Arid">arid</a> climate
+</td>
+<td>Serosemes, sierozemes
+</td>
+<td>Desert vegetation with considerable exposed surface
+</td></tr>
+<tr>
+<td>ZB IV. <a href="/wiki/Mediterranean" class="mw-redirect" title="Mediterranean">Mediterranean</a>, winter rainy season and summer drought
+</td>
+<td>Mediterranean brown earths
+</td>
+<td><a href="/wiki/Sclerophyll" title="Sclerophyll">Sclerophyllous</a> (drought-adapted), frost-sensitive shrublands and woodlands
+</td></tr>
+<tr>
+<td>ZB V. Warm temperate, occasional frost, often with summer rainfall maximum
+</td>
+<td>Yellow or red forest soils, slightly podsolic soils
+</td>
+<td>Temperate evergreen forest, somewhat frost-sensitive
+</td></tr>
+<tr>
+<td>ZB VI. <a href="/wiki/Nemoral" title="Nemoral">Nemoral</a>, moderate climate with winter freezing
+</td>
+<td>Forest brown earths and grey forest soils
+</td>
+<td>Frost-resistant, <a href="/wiki/Deciduous" title="Deciduous">deciduous</a>, temperate forest
+</td></tr>
+<tr>
+<td>ZB VII. <a href="/wiki/Continental_climate" title="Continental climate">Continental</a>, arid, with warm or hot summers and cold winters
+</td>
+<td>Chernozems to serozems
+</td>
+<td>Grasslands and temperate deserts
+</td></tr>
+<tr>
+<td>ZB VIII. <a href="/wiki/Boreal_climate" class="mw-redirect" title="Boreal climate">Boreal</a>, cold temperate with cool summers and long winters
+</td>
+<td>Podsols
+</td>
+<td>Evergreen, frost-hardy, needle-leaved forest (<a href="/wiki/Taiga" title="Taiga">taiga</a>)
+</td></tr>
+<tr>
+<td>ZB IX. <a href="/wiki/Polar_climate" title="Polar climate">Polar</a>, short, cool summers and long, cold winters
+</td>
+<td>Tundra humus soils with solifluction (<a href="/wiki/Permafrost" title="Permafrost">permafrost</a> soils)
+</td>
+<td>Low, evergreen vegetation, without trees, growing over permanently frozen soils
+</td></tr>
+</tbody></table>
+<h3><span id="Schultz_.281988.29_ecozones"></span><span class="mw-headline" id="Schultz_(1988)_ecozones">Schultz (1988) ecozones</span></h3>
+<p>Schultz (1988) defined nine <a href="/wiki/Ecozone" class="mw-redirect" title="Ecozone">ecozones</a> (note that his concept of ecozone is more similar to the concept of biome used in this article than to the concept of ecozone of BBC):<sup id="cite_ref-Schultz_24-0" class="reference"><a href="#cite_note-Schultz-24">&#91;24&#93;</a></sup>
+</p>
+<ol><li>polar/subpolar zone</li>
+<li>boreal zone</li>
+<li>humid mid-latitudes</li>
+<li>arid mid-latitudes</li>
+<li>tropical/subtropical arid lands</li>
+<li>Mediterranean-type subtropics</li>
+<li>seasonal tropics</li>
+<li>humid subtropics</li>
+<li>humid tropics</li></ol>
+<h3><span id="Bailey_.281989.29_ecoregions"></span><span class="mw-headline" id="Bailey_(1989)_ecoregions">Bailey (1989) ecoregions</span></h3>
+<p><a href="/wiki/Robert_Bailey_(geographer)" title="Robert Bailey (geographer)">Robert G. Bailey</a> nearly developed a <a href="/wiki/Biogeography" title="Biogeography">biogeographical</a> classification system of <a href="/wiki/Ecoregion" title="Ecoregion">ecoregions</a> for the United States in a map published in 1976. He subsequently expanded the system to include the rest of North America in 1981, and the world in 1989. The Bailey system, based on climate, is divided into seven domains (polar, humid temperate, dry, humid, and humid tropical), with further divisions based on other climate characteristics (subarctic, warm temperate, hot temperate, and subtropical; marine and continental; lowland and mountain).<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<ul><li><b>100 Polar Domain</b>
+<ul><li>120 <a href="/wiki/Tundra" title="Tundra">Tundra</a> Division (Köppen: <a href="/wiki/Ice_Cap_Climate" class="mw-redirect" title="Ice Cap Climate">Ft</a>)</li>
+<li>M120 Tundra Division&#160;– Mountain Provinces</li>
+<li>130 Subarctic Division (Köppen: <a href="/wiki/Tundra" title="Tundra">E</a>)</li>
+<li>M130 Subarctic Division&#160;– Mountain Provinces</li></ul></li>
+<li><b>200 Humid Temperate Domain</b>
+<ul><li>210 Warm Continental Division (Köppen: portion of <a href="/wiki/Humid_continental_climate" title="Humid continental climate">Dcb</a>)</li>
+<li>M210 Warm Continental Division&#160;– Mountain Provinces</li>
+<li>220 Hot Continental Division (Köppen: portion of <a href="/wiki/Humid_continental_climate" title="Humid continental climate">Dca</a>)</li>
+<li>M220 Hot Continental Division&#160;– Mountain Provinces</li>
+<li>230 Subtropical Division (Köppen: portion of <a href="/wiki/Humid_subtropical_climate" title="Humid subtropical climate">Cf</a>)</li>
+<li>M230 Subtropical Division&#160;– Mountain Provinces</li>
+<li>240 Marine Division (Köppen: <a href="/wiki/Oceanic_climate" title="Oceanic climate">Do</a>)</li>
+<li>M240 Marine Division&#160;– Mountain Provinces</li>
+<li>250 Prairie Division (Köppen: arid portions of <a href="/wiki/Humid_subtropical_climate" title="Humid subtropical climate">Cf</a>, <a href="/wiki/Humid_continental_climate" title="Humid continental climate">Dca</a>, <a href="/wiki/Humid_continental_climate" title="Humid continental climate">Dcb</a>)</li>
+<li>260 Mediterranean Division (Köppen: <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">Cs</a>)</li>
+<li>M260 Mediterranean Division&#160;– Mountain Provinces</li></ul></li>
+<li><b>300 Dry Domain</b>
+<ul><li>310 Tropical/Subtropical Steppe Division</li>
+<li>M310 Tropical/Subtropical Steppe Division&#160;– Mountain Provinces</li>
+<li>320 Tropical/Subtropical Desert Division</li>
+<li>330 Temperate Steppe Division</li>
+<li>340 Temperate Desert Division</li></ul></li>
+<li><b>400 Humid Tropical Domain</b>
+<ul><li>410 Savanna Division</li>
+<li>420 Rainforest Division</li></ul></li></ul>
+<p><span id="Biome_WWF_System"></span>
+</p>
+<h3><span id="Olson_.26_Dinerstein_.281998.29_biomes_for_WWF_.2F_Global_200"></span><span class="mw-headline" id="Olson_&amp;_Dinerstein_(1998)_biomes_for_WWF_/_Global_200">Olson &amp; Dinerstein (1998) biomes for WWF / Global 200</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Global_200" title="Global 200">Global 200</a></div>
+<p>A team of biologists convened by the <a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">World Wildlife Fund</a> (WWF) developed a scheme that divided the world's land area into <a href="/wiki/Biogeographic_realm" title="Biogeographic realm">biogeographic realms</a> (called "ecozones" in a BBC scheme), and these into <a href="/wiki/Ecoregions" class="mw-redirect" title="Ecoregions">ecoregions</a> (Olson &amp; Dinerstein, 1998, etc.). Each ecoregion is characterized by a main biome (also called major habitat type).<sup id="cite_ref-Olson1998_27-0" class="reference"><a href="#cite_note-Olson1998-27">&#91;27&#93;</a></sup><sup id="cite_ref-Olson2001_28-0" class="reference"><a href="#cite_note-Olson2001-28">&#91;28&#93;</a></sup>
+</p><p>This classification is used to define the <a href="/wiki/Global_200" title="Global 200">Global 200</a> list of <a href="/wiki/Ecoregion" title="Ecoregion">ecoregions</a> identified by the WWF as priorities for conservation.<sup id="cite_ref-Olson1998_27-1" class="reference"><a href="#cite_note-Olson1998-27">&#91;27&#93;</a></sup>
+</p><p>For the <a href="/wiki/Terrestrial_ecoregions" class="mw-redirect" title="Terrestrial ecoregions">terrestrial ecoregions</a>, there is a specific EcoID, format XXnnNN (XX is the <a href="/wiki/Biogeographic_realm" title="Biogeographic realm">biogeographic realm</a>, nn is the biome number, NN is the individual number).
+</p>
+<h4><span id="Biogeographic_realms_.28terrestrial_and_freshwater.29"></span><span class="mw-headline" id="Biogeographic_realms_(terrestrial_and_freshwater)">Biogeographic realms (terrestrial and freshwater)</span></h4>
+<ul><li>NA: <a href="/wiki/Nearctic" class="mw-redirect" title="Nearctic">Nearctic</a></li>
+<li>PA: <a href="/wiki/Palearctic" class="mw-redirect" title="Palearctic">Palearctic</a></li>
+<li>AT: <a href="/wiki/Afrotropic" class="mw-redirect" title="Afrotropic">Afrotropic</a></li>
+<li>IM: <a href="/wiki/Indomalaya" class="mw-redirect" title="Indomalaya">Indomalaya</a></li>
+<li>AA: <a href="/wiki/Australasia_ecozone" class="mw-redirect" title="Australasia ecozone">Australasia</a></li>
+<li>NT: <a href="/wiki/Neotropic" class="mw-redirect" title="Neotropic">Neotropic</a></li>
+<li>OC: <a href="/wiki/Oceania_ecozone" class="mw-redirect" title="Oceania ecozone">Oceania</a></li>
+<li>AN: <a href="/wiki/Antarctic_ecozone" class="mw-redirect" title="Antarctic ecozone">Antarctic</a><sup id="cite_ref-Olson2001_28-1" class="reference"><a href="#cite_note-Olson2001-28">&#91;28&#93;</a></sup></li></ul>
+<p>The applicability of the realms scheme above - based on Udvardy (1975) - to most freshwater taxa is unresolved.<sup id="cite_ref-Abell_29-0" class="reference"><a href="#cite_note-Abell-29">&#91;29&#93;</a></sup>
+</p>
+<h4><span id="Biogeographic_realms_.28marine.29"></span><span class="mw-headline" id="Biogeographic_realms_(marine)">Biogeographic realms (marine)</span></h4>
+<ul><li><a href="/wiki/Arctic" title="Arctic">Arctic</a></li>
+<li><a href="/w/index.php?title=Temperate_Northern_Atlantic&amp;action=edit&amp;redlink=1" class="new" title="Temperate Northern Atlantic (page does not exist)">Temperate Northern Atlantic</a></li>
+<li><a href="/wiki/Temperate_Northern_Pacific" title="Temperate Northern Pacific">Temperate Northern Pacific</a></li>
+<li><a href="/wiki/Tropical_Atlantic" title="Tropical Atlantic">Tropical Atlantic</a></li>
+<li><a href="/wiki/Western_Indo-Pacific" title="Western Indo-Pacific">Western Indo-Pacific</a></li>
+<li><a href="/wiki/Central_Indo-Pacific" title="Central Indo-Pacific">Central Indo-Pacific</a></li>
+<li><a href="/w/index.php?title=Eastern_Indo-Pacific&amp;action=edit&amp;redlink=1" class="new" title="Eastern Indo-Pacific (page does not exist)">Eastern Indo-Pacific</a></li>
+<li><a href="/wiki/Tropical_Eastern_Pacific" title="Tropical Eastern Pacific">Tropical Eastern Pacific</a></li>
+<li><a href="/w/index.php?title=Temperate_South_America&amp;action=edit&amp;redlink=1" class="new" title="Temperate South America (page does not exist)">Temperate South America</a></li>
+<li><a href="/w/index.php?title=Temperate_Southern_Africa&amp;action=edit&amp;redlink=1" class="new" title="Temperate Southern Africa (page does not exist)">Temperate Southern Africa</a></li>
+<li><a href="/w/index.php?title=Temperate_Australasia&amp;action=edit&amp;redlink=1" class="new" title="Temperate Australasia (page does not exist)">Temperate Australasia</a></li>
+<li><a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a><sup id="cite_ref-Spalding_30-0" class="reference"><a href="#cite_note-Spalding-30">&#91;30&#93;</a></sup></li></ul>
+<h4><span id="Biomes_.28terrestrial.29"></span><span class="mw-headline" id="Biomes_(terrestrial)">Biomes (terrestrial)</span></h4>
+<ol><li><a href="/wiki/Tropical_and_subtropical_moist_broadleaf_forests" title="Tropical and subtropical moist broadleaf forests">Tropical and subtropical moist broadleaf forests</a> (tropical and subtropical, humid)</li>
+<li><a href="/wiki/Tropical_and_subtropical_dry_broadleaf_forests" title="Tropical and subtropical dry broadleaf forests">Tropical and subtropical dry broadleaf forests</a> (tropical and subtropical, semihumid)</li>
+<li><a href="/wiki/Tropical_and_subtropical_coniferous_forests" title="Tropical and subtropical coniferous forests">Tropical and subtropical coniferous forests</a> (tropical and subtropical, semihumid)</li>
+<li><a href="/wiki/Temperate_broadleaf_and_mixed_forests" class="mw-redirect" title="Temperate broadleaf and mixed forests">Temperate broadleaf and mixed forests</a> (temperate, humid)</li>
+<li><a href="/wiki/Temperate_coniferous_forests" class="mw-redirect" title="Temperate coniferous forests">Temperate coniferous forests</a> (temperate, humid to semihumid)</li>
+<li><a href="/wiki/Taiga" title="Taiga">Boreal forests/taiga</a> (subarctic, humid)</li>
+<li><a href="/wiki/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands" title="Tropical and subtropical grasslands, savannas, and shrublands">Tropical and subtropical grasslands, savannas, and shrublands</a> (tropical and subtropical, semiarid)</li>
+<li><a href="/wiki/Temperate_grasslands,_savannas,_and_shrublands" title="Temperate grasslands, savannas, and shrublands">Temperate grasslands, savannas, and shrublands</a> (temperate, semiarid)</li>
+<li><a href="/wiki/Flooded_grasslands_and_savannas" title="Flooded grasslands and savannas">Flooded grasslands and savannas</a> (temperate to tropical, fresh or brackish water inundated)</li>
+<li><a href="/wiki/Montane_grasslands_and_shrublands" title="Montane grasslands and shrublands">Montane grasslands and shrublands</a> (alpine or montane climate)</li>
+<li><a href="/wiki/Tundra" title="Tundra">Tundra</a> (Arctic)</li>
+<li><a href="/wiki/Mediterranean_forests,_woodlands,_and_scrub" title="Mediterranean forests, woodlands, and scrub">Mediterranean forests, woodlands, and scrub</a> or <a href="/wiki/Sclerophyll_forest" class="mw-redirect" title="Sclerophyll forest">sclerophyll forests</a> (temperate warm, semihumid to semiarid with winter rainfall)</li>
+<li><a href="/wiki/Deserts_and_xeric_shrublands" title="Deserts and xeric shrublands">Deserts and xeric shrublands</a> (temperate to tropical, arid)</li>
+<li><a href="/wiki/Mangrove" title="Mangrove">Mangrove</a> (subtropical and tropical, salt water inundated)<sup id="cite_ref-Olson2001_28-2" class="reference"><a href="#cite_note-Olson2001-28">&#91;28&#93;</a></sup></li></ol>
+<h4><span id="Biomes_.28freshwater.29"></span><span class="mw-headline" id="Biomes_(freshwater)">Biomes (freshwater)</span></h4>
+<p>According to the WWF, the following are classified as <a href="/wiki/Freshwater" class="mw-redirect" title="Freshwater">freshwater</a> biomes:<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<ul><li>Large <a href="/wiki/Lake" title="Lake">lakes</a></li>
+<li>Large <a href="/wiki/River_deltas" class="mw-redirect" title="River deltas">river deltas</a></li>
+<li>Polar <a href="/wiki/Freshwater" class="mw-redirect" title="Freshwater">freshwaters</a></li>
+<li>Montane <a href="/wiki/Freshwater" class="mw-redirect" title="Freshwater">freshwaters</a></li>
+<li>Temperate <a href="/wiki/Upland_and_lowland_(freshwater_ecology)" class="mw-redirect" title="Upland and lowland (freshwater ecology)">coastal rivers</a></li>
+<li>Temperate floodplain rivers and <a href="/wiki/Wetland" title="Wetland">wetlands</a></li>
+<li>Temperate <a href="/wiki/Upland_and_lowland_(freshwater_ecology)" class="mw-redirect" title="Upland and lowland (freshwater ecology)">upland rivers</a></li>
+<li>Tropical and subtropical <a href="/wiki/Upland_and_lowland_(freshwater_ecology)" class="mw-redirect" title="Upland and lowland (freshwater ecology)">coastal rivers</a></li>
+<li>Tropical and subtropical floodplain rivers and <a href="/wiki/Wetland" title="Wetland">wetlands</a></li>
+<li>Tropical and subtropical <a href="/wiki/Upland_and_lowland_(freshwater_ecology)" class="mw-redirect" title="Upland and lowland (freshwater ecology)">upland rivers</a></li>
+<li>Xeric freshwaters and <a href="/wiki/Endorheic_basin" title="Endorheic basin">endorheic basins</a></li>
+<li><a href="/wiki/Oceanic_islands" class="mw-redirect" title="Oceanic islands">Oceanic islands</a></li></ul>
+<h4><span id="Biomes_.28marine.29"></span><span class="mw-headline" id="Biomes_(marine)">Biomes (marine)</span></h4>
+<p>Biomes of the coastal and <a href="/wiki/Continental_shelf" title="Continental shelf">continental shelf</a> areas (<a href="/wiki/Neritic_zone" title="Neritic zone">neritic zone</a>):
+</p>
+<ul><li>Polar</li>
+<li>Temperate shelves and sea</li>
+<li>Temperate <a href="/wiki/Upwelling" title="Upwelling">upwelling</a></li>
+<li>Tropical <a href="/wiki/Upwelling" title="Upwelling">upwelling</a></li>
+<li><a href="/wiki/Coral_reef" title="Coral reef">Tropical coral</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup></li></ul>
+<h4><span class="mw-headline" id="Summary_of_the_scheme">Summary of the scheme</span></h4>
+<ul><li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a>
+<ul><li><a href="/wiki/Biogeographic_realm" title="Biogeographic realm">Biogeographic realms</a> (terrestrial) (8)
+<ul><li><a href="/wiki/Ecoregions" class="mw-redirect" title="Ecoregions">Ecoregions</a> (867), each characterized by a main biome type (14)
+<ul><li><a href="/wiki/Ecosystems" class="mw-redirect" title="Ecosystems">Ecosystems</a> (<a href="/wiki/Biotope" title="Biotope">biotopes</a>)</li></ul></li></ul></li></ul></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a>
+<ul><li><a href="/wiki/Biogeographic_realm" title="Biogeographic realm">Biogeographic realms</a> (freshwater) (8)
+<ul><li><a href="/wiki/Ecoregions" class="mw-redirect" title="Ecoregions">Ecoregions</a> (426), each characterized by a main biome type (12)
+<ul><li><a href="/wiki/Ecosystems" class="mw-redirect" title="Ecosystems">Ecosystems</a> (biotopes)</li></ul></li></ul></li></ul></li>
+<li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a>
+<ul><li>Biogeographic realms (marine) (12)
+<ul><li>(<a href="/wiki/Ecoregion#Marine" title="Ecoregion">Marine provinces</a>) (62)
+<ul><li><a href="/wiki/Ecoregions" class="mw-redirect" title="Ecoregions">Ecoregions</a> (232), each characterized by a main biome type (5)
+<ul><li><a href="/wiki/Ecosystems" class="mw-redirect" title="Ecosystems">Ecosystems</a> (biotopes)</li></ul></li></ul></li></ul></li></ul></li></ul>
+<p>Example:
+</p>
+<ul><li><a href="/wiki/Biosphere" title="Biosphere">Biosphere</a>
+<ul><li><a href="/wiki/Biogeographic_realm" title="Biogeographic realm">Biogeographic realm</a>: <a href="/wiki/Palearctic" class="mw-redirect" title="Palearctic">Palearctic</a>
+<ul><li><a href="/wiki/Ecoregion" title="Ecoregion">Ecoregion</a>: <a href="/wiki/Dinaric_Mountains_mixed_forests" title="Dinaric Mountains mixed forests">Dinaric Mountains mixed forests</a> (PA0418); biome type: <a href="/wiki/Temperate_broadleaf_and_mixed_forests" class="mw-redirect" title="Temperate broadleaf and mixed forests">temperate broadleaf and mixed forests</a>
+<ul><li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a>: <a href="/wiki/Orjen" title="Orjen">Orjen</a>, vegetation belt between 1,100–1,450 m, Oromediterranean zone, nemoral zone (temperate zone)
+<ul><li><a href="/wiki/Biotope" title="Biotope">Biotope</a>: <i>Oreoherzogio-Abietetum illyricae</i> Fuk. (<a href="/wiki/Dinaric_calcareous_block_fir_forest#Plant_list" title="Dinaric calcareous block fir forest">Plant list</a>)
+<ul><li>Plant: Silver fir (<i><a href="/wiki/Abies_alba" title="Abies alba">Abies alba</a></i>)</li></ul></li></ul></li></ul></li></ul></li></ul></li></ul>
+<h2><span class="mw-headline" id="Other_biomes">Other biomes</span></h2>
+<h3><span class="mw-headline" id="Marine_biomes">Marine biomes</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Marine_habitats" title="Marine habitats">Marine habitats</a></div>
+<p>Pruvot (1896) zones or "systems":<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>
+</p>
+<ul><li><a href="/wiki/Litoral" class="mw-redirect" title="Litoral">Litoral zone</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic zone</a></li>
+<li><a href="/wiki/Abyssal_zone" title="Abyssal zone">Abyssal zone</a></li></ul>
+<p><a href="/wiki/Longhurst_code" title="Longhurst code">Longhurst (1998) biomes</a>:<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p>
+<ul><li>Coastal</li>
+<li>Polar</li>
+<li>Trade wind</li>
+<li>Westerly</li></ul>
+<p>Other marine habitat types (not covered yet by the Global 200/WWF scheme):<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<ul><li><a href="/wiki/Open_sea" class="mw-redirect" title="Open sea">Open sea</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic zone</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic zone</a> (trades and westerlies)</li>
+<li><a href="/wiki/Abyssal" class="mw-redirect" title="Abyssal">Abyssal</a></li>
+<li><a href="/wiki/Hadal" class="mw-redirect" title="Hadal">Hadal</a> (ocean trench)</li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a>/<a href="/wiki/Intertidal_zone" title="Intertidal zone">Intertidal zone</a></li>
+<li><a href="/wiki/Salt_marsh" title="Salt marsh">Salt marsh</a></li>
+<li><a href="/wiki/Estuary" title="Estuary">Estuaries</a></li>
+<li>Coastal lagoons/Atoll lagoons</li>
+<li><a href="/wiki/Kelp_forest" title="Kelp forest">Kelp forest</a></li>
+<li><a href="/wiki/Pack_ice" class="mw-redirect" title="Pack ice">Pack ice</a></li></ul>
+<h3><span class="mw-headline" id="Anthropogenic_biomes">Anthropogenic biomes</span></h3>
+<p>Humans have altered global patterns of <a href="/wiki/Biodiversity" title="Biodiversity">biodiversity</a> and ecosystem processes. As a result, vegetation forms predicted by conventional biome systems can no longer be observed across much of Earth's land surface as they have been replaced by crop and rangelands or cities. <a href="/wiki/Anthropogenic_biomes" class="mw-redirect" title="Anthropogenic biomes">Anthropogenic biomes</a> provide an alternative view of the terrestrial biosphere based on global patterns of sustained direct human interaction with ecosystems, including <a href="/wiki/Agriculture" title="Agriculture">agriculture</a>, <a href="/wiki/Human_settlement" title="Human settlement">human settlements</a>, <a href="/wiki/Urbanization" title="Urbanization">urbanization</a>, <a href="/wiki/Forestry" title="Forestry">forestry</a> and other <a href="/wiki/Land_use" title="Land use">uses of land</a>. Anthropogenic biomes offer a new way forward in ecology and conservation by recognizing the irreversible coupling of human and ecological systems at global scales and moving us toward an understanding of how best to live in and manage our biosphere and the anthropogenic biomes we live in.
+</p><p>Major anthropogenic biomes:
+</p>
+<ul><li>Dense settlements</li>
+<li><a href="/wiki/Cropland" class="mw-redirect" title="Cropland">Croplands</a></li>
+<li><a href="/wiki/Rangeland" title="Rangeland">Rangelands</a></li>
+<li>Forested</li>
+<li>Indoor<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Microbial_biomes">Microbial biomes</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Habitat#Microhabitats" title="Habitat">Habitat §&#160;Microhabitats</a></div>
+<h4><span class="mw-headline" id="Endolithic_biomes">Endolithic biomes</span></h4>
+<p>The <a href="/wiki/Endolith" title="Endolith">endolithic</a> biome, consisting entirely of microscopic life in rock <a href="/wiki/Porosity" title="Porosity">pores</a> and cracks, kilometers beneath the surface, has only recently been discovered, and does not fit well into most classification schemes.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Biomics" title="Biomics">Biomics</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Ecotope" title="Ecotope">Ecotope</a></li>
+<li><a href="/wiki/Climate_classification" title="Climate classification">Climate classification</a></li>
+<li><a href="/wiki/Life_zones" class="mw-redirect" title="Life zones">Life zones</a></li>
+<li><a href="/wiki/Natural_environment" title="Natural environment">Natural environment</a></li></ul>
+</div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Aegopodium_podagraria1_ies.jpg" class="image"><img alt="Aegopodium podagraria1 ies.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/24px-Aegopodium_podagraria1_ies.jpg" decoding="async" width="24" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/36px-Aegopodium_podagraria1_ies.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aegopodium_podagraria1_ies.jpg/48px-Aegopodium_podagraria1_ies.jpg 2x" data-file-width="800" data-file-height="700" /></a></span><a href="/wiki/Portal:Environment" title="Portal:Environment">Environment portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Earth_Day_Flag.png" class="image"><img alt="Earth Day Flag.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/24px-Earth_Day_Flag.png" decoding="async" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/36px-Earth_Day_Flag.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Earth_Day_Flag.png/48px-Earth_Day_Flag.png 2x" data-file-width="6000" data-file-height="4000" /></a></span><a href="/wiki/Portal:Ecology" title="Portal:Ecology">Ecology portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:The_Earth_seen_from_Apollo_17_with_transparent_background.png" class="image"><img alt="The Earth seen from Apollo 17 with transparent background.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/21px-The_Earth_seen_from_Apollo_17_with_transparent_background.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/32px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Earth_seen_from_Apollo_17_with_transparent_background.png/42px-The_Earth_seen_from_Apollo_17_with_transparent_background.png 2x" data-file-width="2790" data-file-height="2776" /></a></span><a href="/wiki/Portal:Earth_sciences" title="Portal:Earth sciences">Earth sciences portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Issoria_lathonia.jpg" class="image"><img alt="Issoria lathonia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/24px-Issoria_lathonia.jpg" decoding="async" width="24" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/36px-Issoria_lathonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/48px-Issoria_lathonia.jpg 2x" data-file-width="629" data-file-height="445" /></a></span><a href="/wiki/Portal:Biology" title="Portal:Biology">Biology portal</a></span></li></ul></div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ucmp.berkeley.edu/exhibits/biomes/index.php">"The world's biomes"</a>. <i>www.ucmp.berkeley.edu</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20081204035155/http://www.ucmp.berkeley.edu/exhibits/biomes/index.php">Archived</a> from the original on 2008-12-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-11-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.ucmp.berkeley.edu&amp;rft.atitle=The+world%27s+biomes&amp;rft_id=http%3A%2F%2Fwww.ucmp.berkeley.edu%2Fexhibits%2Fbiomes%2Findex.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Cain, Michael; Bowman, William; Hacker, Sally (2014). <i>Ecology</i> (Third ed.). Massachusetts: Sinauer. p.&#160;51. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780878939084" title="Special:BookSources/9780878939084"><bdi>9780878939084</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ecology&amp;rft.place=Massachusetts&amp;rft.pages=51&amp;rft.edition=Third&amp;rft.pub=Sinauer&amp;rft.date=2014&amp;rft.isbn=9780878939084&amp;rft.aulast=Cain&amp;rft.aufirst=Michael&amp;rft.au=Bowman%2C+William&amp;rft.au=Hacker%2C+Sally&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.npr.org/sections/health-shots/2012/06/13/154913334/finally-a-map-of-all-the-microbes-on-your-body">"Finally, A Map Of All The Microbes On Your Body"</a>. <i>NPR.org</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180416013033/https://www.npr.org/sections/health-shots/2012/06/13/154913334/finally-a-map-of-all-the-microbes-on-your-body">Archived</a> from the original on 2018-04-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-04-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NPR.org&amp;rft.atitle=Finally%2C+A+Map+Of+All+The+Microbes+On+Your+Body&amp;rft_id=https%3A%2F%2Fwww.npr.org%2Fsections%2Fhealth-shots%2F2012%2F06%2F13%2F154913334%2Ffinally-a-map-of-all-the-microbes-on-your-body&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Clements, F. E. 1917. The development and structure of biotic communities. <i>J. Ecology</i> 5:120–121. Abstract of a talk in 1916, <a rel="nofollow" class="external autonumber" href="https://www.jstor.org/stable/2255652?seq=1#page_scan_tab_contents">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161007005736/http://www.jstor.org/stable/2255652?seq=1#page_scan_tab_contents">Archived</a> 2016-10-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-Coutinho-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Coutinho_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Coutinho_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Coutinho, L. M. (2006). O conceito de bioma. <i>Acta Bot. Bras.</i> 20(1): 13-23, <a rel="nofollow" class="external autonumber" href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-33062006000100002">[2]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161007001409/http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-33062006000100002">Archived</a> 2016-10-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Martins, F. R. &amp; Batalha, M. A. (2011). Formas de vida, espectro biológico de Raunkiaer e fisionomia da vegetação. In: Felfili, J. M., Eisenlohr, P. V.; Fiuza de Melo, M. M. R.; Andrade, L. A.; Meira Neto, J. A. A. (Org.). <i>Fitossociologia no Brasil: métodos e estudos de caso.</i> Vol. 1. Viçosa: Editora UFV. p. 44-85. <a rel="nofollow" class="external autonumber" href="http://files.hisaias.webnode.com/200000112-37f2239e9a/Cap%202.pdf">[3]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160924062109/http://files.hisaias.webnode.com/200000112-37f2239e9a/Cap%202.pdf">Archived</a> 2016-09-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Earlier version, 2003, <a rel="nofollow" class="external autonumber" href="http://www2.ib.unicamp.br/profs/fsantos/bt682/2003/Apostila-FormasVida-2003.pdf">[4]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160827014258/http://www2.ib.unicamp.br/profs/fsantos/bt682/2003/Apostila-FormasVida-2003.pdf">Archived</a> 2016-08-27 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Cox, C. B., Moore, P.D. &amp; Ladle, R. J. 2016. <i>Biogeography: an ecological and evolutionary approach</i>. 9th edition. John Wiley &amp; Sons: Hoboken, p. 20, <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=RBcWCgAAQBAJ">[5]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161126224232/https://books.google.com/books?id=RBcWCgAAQBAJ">Archived</a> 2016-11-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Tansley, A.G. (1935). The use and abuse of vegetational terms and concepts. <i>Ecology</i> 16 (3): 284–307, <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161006125220/http://www.ecology150anniversary.net/wp-content/uploads/2015/12/tansley-1935.pdf">"Archived copy"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.ecology150anniversary.net/wp-content/uploads/2015/12/tansley-1935.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2016-10-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-09-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.ecology150anniversary.net%2Fwp-content%2Fuploads%2F2015%2F12%2Ftansley-1935.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Box, E.O. &amp; Fujiwara, K. (2005). Vegetation types and their broad-scale distribution. In: van der Maarel, E. (ed.). <i>Vegetation ecology</i>. Blackwell Scientific, Oxford. pp 106–128, <a rel="nofollow" class="external autonumber" href="https://e.famnit.upr.si/pluginfile.php/14045/mod_resource/content/1/Vegetation%20Ecology.pdf">[6]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160828093637/https://e.famnit.upr.si/pluginfile.php/14045/mod_resource/content/1/Vegetation%20Ecology.pdf">Archived</a> 2016-08-28 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-WalterBreckle-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-WalterBreckle_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WalterBreckle_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Walter, H. &amp; Breckle, S-W. (2002). <i>Walter's Vegetation of the Earth: The Ecological Systems of the Geo-Biosphere</i>. New York: Springer-Verlag, p. 86, <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=SdaCSwxK5bIC">[7]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161127041949/https://books.google.com/books?id=SdaCSwxK5bIC">Archived</a> 2016-11-27 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Batalha, M.A. (2011). The Brazilian cerrado is not a biome. <i>Biota Neotrop.</i> 11:21–4, <a rel="nofollow" class="external autonumber" href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1676-06032011000100001">[8]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161007001350/http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1676-06032011000100001">Archived</a> 2016-10-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Fiaschi, P.; Pirani, J.R. 2009. Review of plant biogeographic studies in Brazil. <i>Journal of Systematics and Evolution</i>, v. 47, p. 477-496. Disponível em: &lt;<a rel="nofollow" class="external free" href="https://www.researchgate.net/publication/249500929_Review_of_plant_biogeographic_studies_in_Brazil">https://www.researchgate.net/publication/249500929_Review_of_plant_biogeographic_studies_in_Brazil</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170831040555/https://www.researchgate.net/publication/249500929_Review_of_plant_biogeographic_studies_in_Brazil">Archived</a> 2017-08-31 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&gt;.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Schultz, Jürgen (1995). <i>The ecozones of the world</i>. pp.&#160;2–3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3540582932" title="Special:BookSources/3540582932"><bdi>3540582932</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+ecozones+of+the+world&amp;rft.pages=2-3&amp;rft.date=1995&amp;rft.isbn=3540582932&amp;rft.aulast=Schultz&amp;rft.aufirst=J%C3%BCrgen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Sims, Phillip L.; Singh, J.S. (July 1978). "The Structure and Function of Ten Western North American Grasslands: III. Net Primary Production, Turnover and Efficiencies of Energy Capture and Water Use". <i>Journal of Ecology</i>. British Ecological Society. <b>66</b> (2): 573–597. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F2259152">10.2307/2259152</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Ecology&amp;rft.atitle=The+Structure+and+Function+of+Ten+Western+North+American+Grasslands%3A+III.+Net+Primary+Production%2C+Turnover+and+Efficiencies+of+Energy+Capture+and+Water+Use&amp;rft.volume=66&amp;rft.issue=2&amp;rft.pages=573-597&amp;rft.date=1978-07&amp;rft_id=info%3Adoi%2F10.2307%2F2259152&amp;rft.aulast=Sims&amp;rft.aufirst=Phillip+L.&amp;rft.au=Singh%2C+J.S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Pomeroy, Lawrence R. and James J. Alberts, editors. Concepts of Ecosystem Ecology. New York: Springer-Verlag, 1988.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Allee, W.C. (1949). <i>Principles of animal ecology</i>. Philadelphia, Saunders Co., <a rel="nofollow" class="external autonumber" href="https://www.biodiversitylibrary.org/bibliography/7325#/summary">[9]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171001021240/http://www.biodiversitylibrary.org/bibliography/7325#/summary">Archived</a> 2017-10-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Kendeigh, S.C. (1961). <i>Animal ecology</i>. Englewood Cliffs, N.J., Prentice-Hall, [Englewood Cliffs, N.J., Prentice-Hall,1961.].</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Whittaker, Robert H., Botanical Review, Classification of Natural Communities, Vol. 28, No. 1 (Jan–Mar 1962), pp. 1–239.</span>
+</li>
+<li id="cite_note-Whittaker1975-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Whittaker1975_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Whittaker1975_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Whittaker, Robert H. Communities and Ecosystems. New York: MacMillan Publishing Company, Inc., 1975.</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Whittaker, R. H. (1970). <i>Communities and Ecosystems</i>. Toronto, p. 51–64, <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=T6m0AAAAIAAJ">[10]</a>.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Goodall, D. W. (editor-in-chief). <i>Ecosystems of the World.</i> Elsevier, Amsterdam. 36 vol., 1974-, <a rel="nofollow" class="external autonumber" href="https://www.elsevier.com/books/book-series/ecosystems-of-the-world">[11]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160918205830/https://www.elsevier.com/books/book-series/ecosystems-of-the-world">Archived</a> 2016-09-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Walter, H. 1976. <i>Die ökologischen Systeme der Kontinente (Biogeosphäre). Prinzipien ihrer Gliederung mit Beispielen</i>. Stuttgart.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Walter, H. &amp; Breckle, S-W. (1991). <i>Ökologie der Erde</i>, Band 1, Grundlagen. Stuttgart.</span>
+</li>
+<li id="cite_note-Schultz-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-Schultz_24-0">^</a></b></span> <span class="reference-text">Schultz, J. <i>Die Ökozonen der Erde</i>, 1st ed., Ulmer, Stuttgart, Germany, 1988, 488 pp.; 2nd ed., 1995, 535 pp.; 3rd ed., 2002. Transl.: <i>The Ecozones of the World: The Ecological Divisions of the Geosphere</i>. Berlin: Springer-Verlag, 1995; 2nd ed., 2005, <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=V9L8yPzAjxIC">[12]</a>.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.fs.fed.us/land/ecosysmgmt/index.html">http://www.fs.fed.us/land/ecosysmgmt/index.html</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090101030631/http://www.fs.fed.us/land/ecosysmgmt/index.html">Archived</a> 2009-01-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> Bailey System, US Forest Service</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Bailey, R. G. 1989. Explanatory supplement to ecoregions map of the continents. <i>Environmental Conservation</i> 16: 307-309. [With map of land-masses of the world, "Ecoregions of the Continents — Scale 1&#160;: 30,000,000", published as a supplement.]</span>
+</li>
+<li id="cite_note-Olson1998-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-Olson1998_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Olson1998_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Olson, D. M. &amp; E. Dinerstein (1998). The Global 200: A representation approach to conserving the Earth’s most biologically valuable ecoregions. <i>Conservation Biol.</i> 12:502–515, <a rel="nofollow" class="external autonumber" href="http://planet.uwc.ac.za/nisl/Biodiversity/pdf/OlsonDinerstein1998.pdf">[13]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161007001330/http://planet.uwc.ac.za/nisl/Biodiversity/pdf/OlsonDinerstein1998.pdf">Archived</a> 2016-10-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-Olson2001-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Olson2001_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Olson2001_28-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Olson2001_28-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. (2001). Terrestrial ecoregions of the world: a new map of life on Earth. <i>Bioscience</i> 51(11):933-938, <a rel="nofollow" class="external autonumber" href="http://wolfweb.unr.edu/~ldyer/classes/396/olsonetal.pdf">[14]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120917072415/http://wolfweb.unr.edu/~ldyer/classes/396/olsonetal.pdf">Archived</a> 2012-09-17 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-Abell-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-Abell_29-0">^</a></b></span> <span class="reference-text">Abell, R., M. Thieme, C. Revenga, M. Bryer, M. Kottelat, N. Bogutskaya, B. Coad, N. Mandrak, S. Contreras-Balderas, W. Bussing, M. L. J. Stiassny, P. Skelton, G. R. Allen, P. Unmack, A. Naseka, R. Ng, N. Sindorf, J. Robertson, E. Armijo, J. Higgins, T. J. Heibel, E. Wikramanayake, D. Olson, H. L. Lopez, R. E. d. Reis, J. G. Lundberg, M. H. Sabaj Perez, and P. Petry. (2008). Freshwater ecoregions of the world: A new map of biogeographic units for freshwater biodiversity conservation. <i>BioScience</i> 58:403-414, <a rel="nofollow" class="external autonumber" href="http://www.feow.org/downloads/Abell_et_al_08_BioScience.pdf">[15]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161006151241/http://www.feow.org/downloads/Abell_et_al_08_BioScience.pdf">Archived</a> 2016-10-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-Spalding-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spalding_30-0">^</a></b></span> <span class="reference-text">Spalding, M. D. et al. (2007). Marine ecoregions of the world: a bioregionalization of coastal and shelf areas. <i>BioScience</i> 57: 573-583, <a rel="nofollow" class="external autonumber" href="http://algae.thu.edu.tw/lab/2013_Meeting_FebJune/2007_Marine_ecoregions_of_the_world.pdf">[16]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161006104440/http://algae.thu.edu.tw/lab/2013_Meeting_FebJune/2007_Marine_ecoregions_of_the_world.pdf">Archived</a> 2016-10-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">"Freshwater Ecoregions of the World: Major Habitat Types" <cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081007024422/http://www.feow.org/mht.php">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.feow.org/mht.php">the original</a> on 2008-10-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.feow.org%2Fmht.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>. Accessed May 12, 2008.</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a href="/wiki/World_Wide_Fund_for_Nature" title="World Wide Fund for Nature">WWF</a>: <a rel="nofollow" class="external text" href="http://www.worldwildlife.org/science/ecoregions/marine/item1266.html">Marine Ecoregions of the World</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090207101156/http://www.worldwildlife.org/science/ecoregions/marine/item1266.html">Archived</a> 2009-02-07 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Pruvot, G. Conditions générales de la vie dans les mers et principes de distribution des organismes marins: Année Biologique, vol. 2, pp. 559—587, 1896, <a rel="nofollow" class="external autonumber" href="https://www.biodiversitylibrary.org/item/23581#page/597/mode/1up">[17]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161018205608/http://www.biodiversitylibrary.org/item/23581#page/597/mode/1up">Archived</a> 2016-10-18 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text">Longhurst, A. 1998. <i>Ecological Geography of the Sea</i>. San Diego: Academic Press, <a rel="nofollow" class="external autonumber" href="https://books.google.com/books?id=MFHK18F5aCsC">[18]</a>.</span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation news">Zimmer, Carl (March 19, 2015). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2015/03/19/science/the-next-frontier-the-great-indoors.html?ref=science">"The Next Frontier: The Great Indoors"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180614024514/https://www.nytimes.com/2015/03/19/science/the-next-frontier-the-great-indoors.html?ref=science">Archived</a> from the original on June 14, 2018<span class="reference-accessdate">. Retrieved March 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=The+Next+Frontier%3A+The+Great+Indoors&amp;rft.date=2015-03-19&amp;rft.aulast=Zimmer&amp;rft.aufirst=Carl&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2015%2F03%2F19%2Fscience%2Fthe-next-frontier-the-great-indoors.html%3Fref%3Dscience&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span> <span class="cs1-visible-error error citation-comment">Check date values in: <code class="cs1-code">&#124;access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wisegeek.com/what-is-the-endolithic-biome.htm">"What is the Endolithic Biome? (with picture)"</a>. <i>wiseGEEK</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170307124108/http://www.wisegeek.com/what-is-the-endolithic-biome.htm">Archived</a> from the original on 2017-03-07<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=wiseGEEK&amp;rft.atitle=What+is+the+Endolithic+Biome%3F+%28with+picture%29&amp;rft_id=http%3A%2F%2Fwww.wisegeek.com%2Fwhat-is-the-endolithic-biome.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table class="box-External_links plainlinks metadata ambox ambox-style ambox-external_links" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This section's <b>use of <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a> may not follow Wikipedia's policies or guidelines</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Biome&amp;action=edit">improve this article</a> by removing <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_mirror_or_a_repository_of_links,_images,_or_media_files" title="Wikipedia:What Wikipedia is not">excessive</a> or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">inappropriate</a> external links, and converting useful links where appropriate into <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">footnote references</a>.</span>  <small class="date-container"><i>(<span class="date">March 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Biome" class="extiw" title="wiktionary:Biome">Biome</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Biomes_and_ecosystems#Q101998" class="extiw" title="wikivoyage:Biomes and ecosystems">Biomes and ecosystems</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.eoearth.org/topics/view/51cbfc84f702fc2ba812bc2d/">"Biomes"</a>. <a href="/wiki/Encyclopedia_of_Earth" title="Encyclopedia of Earth">Encyclopedia of Earth</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Biomes&amp;rft.pub=Encyclopedia+of+Earth&amp;rft_id=http%3A%2F%2Fwww.eoearth.org%2Ftopics%2Fview%2F51cbfc84f702fc2ba812bc2d%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiome" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><a rel="nofollow" class="external text" href="http://mbgnet.mobot.org">Biomes of the world (Missouri Botanic Garden)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.theglobaleducationproject.org/earth/global-ecology.php#3">Global Currents and Terrestrial Biomes Map</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.worldbiomes.com/">WorldBiomes.com</a> is a site covering the 5 principal world biome types: aquatic, desert, forest, grasslands, and tundra.</li>
+<li>UWSP's online textbook <i>The Physical Environment</i>:&#160;– <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110228054041/http://www.uwsp.edu/geo/faculty/ritter/geog101/textbook/biomes/outline.html"><i>Earth Biomes</i></a></li>
+<li>Panda.org's <a rel="nofollow" class="external text" href="http://wwf.panda.org/about_our_earth/ecoregions/about/habitat_types/">Habitats</a>&#160;– describes the 14 major terrestrial habitats, 7 major freshwater habitats, and 5 major marine habitats.</li>
+<li>Panda.org's <a rel="nofollow" class="external text" href="http://wwf.panda.org/about_our_earth/ecoregions/about/habitat_types/habitats/">Habitats Simplified</a>&#160;– provides simplified explanations for 10 major terrestrial and aquatic habitat types.</li>
+<li>UCMP Berkeley's <a rel="nofollow" class="external text" href="http://www.ucmp.berkeley.edu/glossary/gloss5/biome/">The World's Biomes</a>&#160;– provides lists of characteristics for some biomes and measurements of climate statistics.</li>
+<li>Gale/Cengage has an excellent <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110711070312/http://www.galeschools.com/environment/biomes/overview.htm">Biome Overview</a> of terrestrial, aquatic, and man-made biomes with a particular focus on trees native to each, and has detailed descriptions of desert, rain forest, and wetland biomes.</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=8V__OMAru0k&amp;list=UUJ6JRRdBvDDpzEesWZw-5og">Islands Of Wildness, The Natural Lands Of North America by Jim Bones, a video about continental biomes and climate change.</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=VbqH4-TMqGI">Dreams Of The Earth, Love Songs For A Troubled Planet by Jim Bones, a poetic video about the North American Biomes and climate change.</a></li>
+<li>NASA's Earth Observatory <a rel="nofollow" class="external text" href="http://earthobservatory.nasa.gov/Experiments/Biome/">Mission: Biomes</a> gives an <a href="https://en.wiktionary.org/wiki/exemplar" class="extiw" title="wikt:exemplar">exemplar</a> of each biome that is described in detail and provides scientific measurements of the <a href="/wiki/Climate" title="Climate">climate</a> statistics that define each biome.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Biogeographic_regionalisations" style="padding:3px"><table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#f0f0f0;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Biomes" title="Template:Biomes"><abbr title="View this template" style="background:#f0f0f0;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Biomes" title="Template talk:Biomes"><abbr title="Discuss this template" style="background:#f0f0f0;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Biomes&amp;action=edit"><abbr title="Edit this template" style="background:#f0f0f0;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Biogeographic_regionalisations" style="font-size:114%;margin:0 4em"><a href="/wiki/Biogeography#Biogeographic_regionalisations" title="Biogeography">Biogeographic regionalisations</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#f0f0f0;;width:1%"><a class="mw-selflink selflink">Biomes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:9em;background:#329B32;">Terrestrial<br />biomes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:#90A010;">Polar/montane</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tundra" title="Tundra">Tundra</a></li>
+<li><a href="/wiki/Taiga" title="Taiga">Taiga</a></li>
+<li><a href="/wiki/Montane_grasslands_and_shrublands" title="Montane grasslands and shrublands">Montane grasslands and shrublands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lightgreen;">Temperate</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Temperate_coniferous_forest" title="Temperate coniferous forest">Coniferous forests</a></li>
+<li><a href="/wiki/Temperate_broadleaf_and_mixed_forest" title="Temperate broadleaf and mixed forest">Broadleaf and mixed forests</a></li>
+<li><a href="/wiki/Temperate_deciduous_forest" title="Temperate deciduous forest">Deciduous forests</a></li>
+<li><a href="/wiki/Temperate_grasslands,_savannas,_and_shrublands" title="Temperate grasslands, savannas, and shrublands">Grasslands, savannas, and shrublands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#20A010;">Tropical and<br /> subtropical</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tropical_and_subtropical_coniferous_forests" title="Tropical and subtropical coniferous forests">Coniferous forests</a></li>
+<li><a href="/wiki/Tropical_and_subtropical_moist_broadleaf_forests" title="Tropical and subtropical moist broadleaf forests">Moist broadleaf forests</a></li>
+<li><a href="/wiki/Tropical_and_subtropical_dry_broadleaf_forests" title="Tropical and subtropical dry broadleaf forests">Dry broadleaf forests</a></li>
+<li><a href="/wiki/Tropical_and_subtropical_grasslands,_savannas,_and_shrublands" title="Tropical and subtropical grasslands, savannas, and shrublands">Grasslands, savannas, and shrublands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#CFDC60;">Dry</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mediterranean_forests,_woodlands,_and_scrub" title="Mediterranean forests, woodlands, and scrub">Mediterranean forests, woodlands, and scrub</a></li>
+<li><a href="/wiki/Deserts_and_xeric_shrublands" title="Deserts and xeric shrublands">Deserts and xeric shrublands</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:mediumseagreen;">Wet</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Flooded_grasslands_and_savannas" title="Flooded grasslands and savannas">Flooded grasslands and savannas</a></li>
+<li><a href="/wiki/Riparian_zone" title="Riparian zone">Riparian</a></li>
+<li><a href="/wiki/Wetland" title="Wetland">Wetland</a></li>
+<li><a href="/wiki/Mangrove" title="Mangrove">Mangrove</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em;background:#55AAFF;">Aquatic<br />biomes</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pond" title="Pond">Pond</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Intertidal_zone" title="Intertidal zone">Intertidal</a></li>
+<li><a href="/wiki/Mangrove" title="Mangrove">Mangroves</a></li>
+<li><a href="/wiki/Kelp_forest" title="Kelp forest">Kelp forests</a></li>
+<li><a href="/wiki/Coral_reef" title="Coral reef">Coral reefs</a></li>
+<li><a href="/wiki/Neritic_zone" title="Neritic zone">Neritic zone</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic zone</a></li>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vents</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seeps</a></li>
+<li><a href="/wiki/Demersal_zone" title="Demersal zone">Demersal zone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em;background:silver;">Other biomes</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Endolith" title="Endolith">Endolithic zone</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0f0f0;;width:1%"><a href="/wiki/Biogeographic_realm" title="Biogeographic realm">Biogeographic <br /> realms</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:9em;background:#329B32;">Terrestrial</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Afrotropical_realm" title="Afrotropical realm">Afrotropical</a></li>
+<li><a href="/wiki/Antarctic_realm" title="Antarctic realm">Antarctic</a></li>
+<li><a href="/wiki/Australasian_realm" title="Australasian realm">Australasian</a></li>
+<li><a href="/wiki/Indomalayan_realm" title="Indomalayan realm">Indomalayan</a></li>
+<li><a href="/wiki/Nearctic_realm" title="Nearctic realm">Nearctic</a></li>
+<li><a href="/wiki/Neotropical_realm" title="Neotropical realm">Neotropical</a></li>
+<li><a href="/wiki/Oceanian_realm" title="Oceanian realm">Oceanian</a></li>
+<li><a href="/wiki/Palearctic_realm" title="Palearctic realm">Palearctic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em;background:#55AAFF;">Marine</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arctic_realm" title="Arctic realm">Arctic</a></li>
+<li><a href="/wiki/Tropical_Atlantic" title="Tropical Atlantic">Tropical Atlantic</a></li>
+<li><a href="/wiki/Central_Indo-Pacific" title="Central Indo-Pacific">Central Indo-Pacific</a></li>
+<li><a href="/wiki/Western_Indo-Pacific" title="Western Indo-Pacific">Western Indo-Pacific</a></li>
+<li><a href="/wiki/Temperate_Northern_Pacific" title="Temperate Northern Pacific">Temperate Northern Pacific</a></li>
+<li><a href="/wiki/Tropical_Eastern_Pacific" title="Tropical Eastern Pacific">Tropical Eastern Pacific</a></li>
+<li><a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em">Subdivisions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_biogeographic_provinces" title="List of biogeographic provinces">Biogeographic provinces</a></li>
+<li><a href="/wiki/Bioregion" title="Bioregion">Bioregions</a></li>
+<li><a href="/wiki/Ecoregion" title="Ecoregion">Ecoregions</a>
+<ul><li><a href="/wiki/Lists_of_ecoregions" title="Lists of ecoregions">Lists of ecoregions</a></li>
+<li><a href="/wiki/Global_200" title="Global 200">Global 200 ecoregions</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0f0f0;;width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ecological_land_classification" title="Ecological land classification">Ecological land classification</a></li>
+<li><a href="/wiki/Floristic_kingdom" class="mw-redirect" title="Floristic kingdom">Floristic kingdoms</a></li>
+<li><a href="/wiki/Vegetation" title="Vegetation">Vegetation classifications</a></li>
+<li><a href="/wiki/Zoogeographic_region" class="mw-redirect" title="Zoogeographic region">Zoogeographic regions</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Earth" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#0055AA; color:#ffffff;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Physical_Earth" title="Template:Physical Earth"><abbr title="View this template" style=";background:#0055AA; color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Physical_Earth" title="Template talk:Physical Earth"><abbr title="Discuss this template" style=";background:#0055AA; color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Physical_Earth&amp;action=edit"><abbr title="Edit this template" style=";background:#0055AA; color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Earth" style="font-size:114%;margin:0 4em"><a href="/wiki/Earth" title="Earth"><span style="color:white;">Earth</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#ffffff; color:#0055AA;"><a href="/wiki/Continent" title="Continent"><span style="color:#0055AA;">Continents</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Africa" title="Africa">Africa</a></li>
+<li><a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></li>
+<li><a href="/wiki/Asia" title="Asia">Asia</a></li>
+<li><a href="/wiki/Australia_(continent)" title="Australia (continent)">Australia</a></li>
+<li><a href="/wiki/Europe" title="Europe">Europe</a></li>
+<li><a href="/wiki/North_America" title="North America">North America</a></li>
+<li><a href="/wiki/South_America" title="South America">South America</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/Earth" title="Earth"><img alt="Earth Western Hemisphere.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Earth_Western_Hemisphere.jpg/100px-Earth_Western_Hemisphere.jpg" decoding="async" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Earth_Western_Hemisphere.jpg/150px-Earth_Western_Hemisphere.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Earth_Western_Hemisphere.jpg/200px-Earth_Western_Hemisphere.jpg 2x" data-file-width="2048" data-file-height="2048" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#ffffff; color:#0055AA;"><a href="/wiki/Ocean" title="Ocean"><span style="color:#0055AA;">Oceans</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a></li>
+<li><a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a></li>
+<li><a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a></li>
+<li><a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a></li>
+<li><a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#ffffff; color:#0055AA;"><a href="/wiki/Earth" title="Earth"><span style="color:#0055AA;">Earth</span></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Geography" title="Geography">Geography</a></li>
+<li><a href="/wiki/Geology" title="Geology">Geology</a></li>
+<li><a href="/wiki/Future_of_Earth" title="Future of Earth">Future of Earth</a></li>
+<li><a href="/wiki/Geological_history_of_Earth" title="Geological history of Earth">Geological history of Earth</a></li>
+<li><a href="/wiki/History_of_Earth" title="History of Earth">History of Earth</a></li>
+<li><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate tectonics</a></li>
+<li><a href="/wiki/Structure_of_the_Earth" title="Structure of the Earth">Structure of the Earth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#ffffff; color:#0055AA;"><a href="/wiki/Natural_environment" title="Natural environment"><span style="color:#0055AA;">Environment</span></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Biome</a></li>
+<li><a href="/wiki/Ecology" title="Ecology">Ecology</a></li>
+<li><a href="/wiki/Ecosystem" title="Ecosystem">Ecosystem</a></li>
+<li><a href="/wiki/Nature" title="Nature">Nature</a></li>
+<li><a href="/wiki/Wilderness" title="Wilderness">Wilderness</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#ffffff; color:#0055AA;">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Earth_Day" title="Earth Day">Earth Day</a></li>
+<li><a href="/wiki/Earth_science" title="Earth science">Earth science</a></li>
+<li><a href="/wiki/Geologic_record" title="Geologic record">Geologic record</a></li>
+<li><a href="/wiki/Geology_of_solar_terrestrial_planets" title="Geology of solar terrestrial planets">Geology of solar terrestrial planets</a></li>
+<li><a href="/wiki/Earth%27s_location_in_the_Universe" class="mw-redirect" title="Earth&#39;s location in the Universe">Location in Universe</a></li>
+<li><a href="/wiki/Solar_System" title="Solar System">Solar System</a></li>
+<li><a href="/wiki/World" title="World">World</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#0055AA; color:#ffffff"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Earth" title="Category:Earth"><span style="color:#ffffff;">Category</span></a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q101998&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q101998&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q101998" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4132387-7">4132387-7</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20190923222915
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.740 seconds
+Real time usage: 1.009 seconds
+Preprocessor visited node count: 2217/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 105716/2097152 bytes
+Template argument size: 1215/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 13/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 48157/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.362/10.000 seconds
+Lua memory usage: 8.1 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  831.451      1 -total
+ 32.96%  274.048      1 Template:Reflist
+ 14.40%  119.760      6 Template:Cite_web
+  9.83%   81.704      1 Template:More_citations_needed
+  9.11%   75.753      2 Template:Ambox
+  9.07%   75.379      1 Template:Pp-vandalism
+  8.56%   71.204      5 Template:Navbox
+  6.59%   54.771      9 Template:Ordered_list
+  5.81%   48.292     18 Template:Webarchive
+  5.39%   44.827      1 Template:Cite_journal
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4802-0!canonical and timestamp 20190923222914 and revision id 915607183
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biome&amp;oldid=915607183">https://en.wikipedia.org/w/index.php?title=Biome&amp;oldid=915607183</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Biomes" title="Category:Biomes">Biomes</a></li><li><a href="/wiki/Category:Habitats" title="Category:Habitats">Habitats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2016" title="Category:Articles with unsourced statements from September 2016">Articles with unsourced statements from September 2016</a></li><li><a href="/wiki/Category:Wikipedia_external_links_cleanup_from_March_2017" title="Category:Wikipedia external links cleanup from March 2017">Wikipedia external links cleanup from March 2017</a></li><li><a href="/wiki/Category:Wikipedia_spam_cleanup_from_March_2017" title="Category:Wikipedia spam cleanup from March 2017">Wikipedia spam cleanup from March 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biome" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Biome" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Biome" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Biome" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Biome">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Biome&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Biome&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Biome" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Biome" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Biome&amp;oldid=915607183" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Biome&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q101998" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biome&amp;id=915607183" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Biomes" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Biomes_and_ecosystems" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biome">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Biome&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Biome&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bioom" title="Bioom – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D9%8A%D9%88%D9%85" title="حيوم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Bioma" title="Bioma – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Biom" title="Biom – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BE%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%B2" title="জীবাঞ্চল – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%91%D1%96%D1%91%D0%BC" title="Біём – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Biom" title="Biom – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Bioma" title="Bioma – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Biom" title="Biom – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Biom" title="Biom – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/%C3%96kozone" title="Ökozone – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Bioom" title="Bioom – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CE%B3%CE%B1%CE%BF%CE%B9%CE%BA%CE%BF%CF%83%CF%8D%CF%83%CF%84%CE%B7%CE%BC%CE%B1" title="Μεγαοικοσύστημα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Bioma" title="Bioma – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Biomo" title="Biomo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Bioma" title="Bioma – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B3%D8%AA%E2%80%8C%D8%A8%D9%88%D9%85" title="زیست‌بوم – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Biome" title="Biome – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Bith%C3%B3m" title="Bithóm – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Bioma" title="Bioma – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%83%9D%EB%AC%BC_%EA%B5%B0%EA%B3%84" title="생물 군계 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B2%D5%AB%D5%B8%D5%B4" title="Բիոմ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A4%BE%E0%A4%AF%E0%A5%8B%E0%A4%AE" title="बायोम – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Biom" title="Biom – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Bioma" title="Bioma – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/L%C3%ADfbelti" title="Lífbelti – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Bioma" title="Bioma – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%95%D7%9E%D7%94" title="ביומה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Bioma" title="Bioma – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A3%E1%83%9C%E1%83%94%E1%83%91%E1%83%A0%E1%83%98%E1%83%95%E1%83%98_%E1%83%96%E1%83%9D%E1%83%9C%E1%83%94%E1%83%91%E1%83%98" title="ბუნებრივი ზონები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Biy%C3%B2m" title="Biyòm – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Bioma" title="Bioma – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Biomas" title="Biomas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Biom" title="Biom – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Biom" title="Biom – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bioom" title="Bioom – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB" title="生物群系 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Biom" title="Biom – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Biom" title="Biom – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Bi%C3%B2ma" title="Biòma – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D9%88%D9%85" title="بايوم – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Biom" title="Biom – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Biom" title="Biom – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Bioma" title="Bioma – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Biom" title="Biom – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Biome" title="Biome – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Biome" title="Biome – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Bi%C3%B3m" title="Bióm – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Biom" title="Biom – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B2%DB%8C%D9%86%D8%AF%DB%95_%D9%87%DB%95%D8%B1%DB%8E%D9%85%DB%95%DA%A9%D8%A7%D9%86%DB%8C_%D9%88%D8%B4%DA%A9%D8%A7%D9%86%DB%8C" title="زیندە هەرێمەکانی وشکانی – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%B8%D0%BE%D0%BC" title="Биом – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Biom" title="Biom – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Biomi" title="Biomi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Biom" title="Biom – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Biyoma" title="Biyoma – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8" title="ชีวนิเวศ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Biyom" title="Biyom – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BE%D0%BC" title="Біом – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Qu%E1%BA%A7n_x%C3%A3_sinh_v%E1%BA%ADt" title="Quần xã sinh vật – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a href="https://vls.wikipedia.org/wiki/Bioom" title="Bioom – West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target">West-Vlams</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%9F%E7%89%A9%E7%BE%A4%E7%B3%BB" title="生物群系 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q101998#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 September 2019, at 07:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Biome&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.740","walltime":"1.009","ppvisitednodes":{"value":2217,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":105716,"limit":2097152},"templateargumentsize":{"value":1215,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":13,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":48157,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  831.451      1 -total"," 32.96%  274.048      1 Template:Reflist"," 14.40%  119.760      6 Template:Cite_web","  9.83%   81.704      1 Template:More_citations_needed","  9.11%   75.753      2 Template:Ambox","  9.07%   75.379      1 Template:Pp-vandalism","  8.56%   71.204      5 Template:Navbox","  6.59%   54.771      9 Template:Ordered_list","  5.81%   48.292     18 Template:Webarchive","  5.39%   44.827      1 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.362","limit":"10.000"},"limitreport-memusage":{"value":8492263,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190923222915","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Biome","url":"https:\/\/en.wikipedia.org\/wiki\/Biome","sameAs":"http:\/\/www.wikidata.org\/entity\/Q101998","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q101998","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-12-13T15:20:02Z","dateModified":"2019-09-14T07:51:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e4\/Vegetation.png","headline":"distinct biological communities that have formed in response to a shared physical climate"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

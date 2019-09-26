@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hinduism in Suriname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hinduism_in_Suriname","wgTitle":"Hinduism in Suriname","wgCurRevisionId":915413728,"wgRevisionId":915413728,"wgArticleId":58532320,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Suriname stubs","Hinduism in Suriname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hinduism_in_Suriname","wgRelevantArticleId":58532320,"wgRequestId":"XYt42wpAAEIAAIpWocUAAAAI","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q60528549","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"jquery.tablesorter.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
+"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b3/Arya_Dewaker%2C_exterior5.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hinduism_in_Suriname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hinduism_in_Suriname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hinduism_in_Suriname rootpage-Hinduism_in_Suriname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hinduism in Suriname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arya_Dewaker,_exterior5.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arya_Dewaker%2C_exterior5.jpg/220px-Arya_Dewaker%2C_exterior5.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arya_Dewaker%2C_exterior5.jpg/330px-Arya_Dewaker%2C_exterior5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Arya_Dewaker%2C_exterior5.jpg/440px-Arya_Dewaker%2C_exterior5.jpg 2x" data-file-width="709" data-file-height="399" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arya_Dewaker,_exterior5.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Arya_Dewaker" title="Arya Dewaker">Arya Dewaker</a> Hindu temple in <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a></div></div></div>
+<p><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a> is the second-largest religion in <a href="/wiki/Suriname" title="Suriname">Suriname</a>. According to the 2012 census of Suriname, Hindus constitute 22.3% of the population.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Suriname has the second largest percentage of Hindus in the Western Hemisphere, after <a href="/wiki/Guyana" title="Guyana">Guyana</a> (24.8%).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Demographics"><span class="tocnumber">2</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Population_by_year"><span class="tocnumber">2.1</span> <span class="toctext">Population by year</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Population_by_districts"><span class="tocnumber">2.2</span> <span class="toctext">Population by districts</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Hindu_denominations"><span class="tocnumber">3</span> <span class="toctext">Hindu denominations</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Ethnicity"><span class="tocnumber">4</span> <span class="toctext">Ethnicity</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Contemporary_Society"><span class="tocnumber">5</span> <span class="toctext">Contemporary Society</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Language"><span class="tocnumber">5.1</span> <span class="toctext">Language</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Festivals"><span class="tocnumber">5.2</span> <span class="toctext">Festivals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:KITLV_-_33936_-_Hindu_woman,_festively_dressed,_in_Surinam_-_circa_1900.tif" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif/lossy-page1-220px-KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif.jpg" decoding="async" width="220" height="290" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif/lossy-page1-330px-KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif/lossy-page1-440px-KITLV_-_33936_-_Hindu_woman%2C_festively_dressed%2C_in_Surinam_-_circa_1900.tif.jpg 2x" data-file-width="1955" data-file-height="2579" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:KITLV_-_33936_-_Hindu_woman,_festively_dressed,_in_Surinam_-_circa_1900.tif" class="internal" title="Enlarge"></a></div>Hindu woman festively dressed in Suriname in 1900</div></div></div>
+<p>The story of Hindus in Suriname is broadly parallel to that in <a href="/wiki/Guyana" title="Guyana">Guyana</a>. <a href="/wiki/Indian_indenture_system" title="Indian indenture system">Indian indentured labourers</a> were sent to colonial <a href="/wiki/Dutch_colonisation_of_the_Guianas" title="Dutch colonisation of the Guianas">Dutch Guiana</a> by special arrangement between the Dutch and British.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The difference is that the Netherlands' more liberal policy toward Hinduism allowed a stronger culture to develop. Examples are the lack of a rigid caste system and the almost universal reading of the <a href="/wiki/Gita" class="mw-redirect" title="Gita">Gita</a> and <a href="/wiki/Ramayana" title="Ramayana">Ramayana</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=2" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to the 2012 census,there are 120,623 Hindus in Suriname,constituting 22.3% of the population.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Population_by_year">Population by year</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=3" title="Edit section: Population by year">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th><b>Year</b>
+</th>
+<th><b>Percent of Hindus</b>
+</th>
+<th><b>Change</b>
+</th></tr>
+<tr>
+<td><b>1990</b>
+</td>
+<td><b>16.4%</b>
+</td>
+<td><b>-</b>
+</td></tr>
+<tr>
+<td><b>1916</b>
+</td>
+<td><b>19.8%</b>
+</td>
+<td style="background: lightgreen"><b>+3.4%</b>
+</td></tr>
+<tr>
+<td><b>1936</b>
+</td>
+<td><b>21.8%</b>
+</td>
+<td style="background: lightgreen"><b>+2.0%</b>
+</td></tr>
+<tr>
+<td><b>1946</b>
+</td>
+<td><b>19.5%</b>
+</td>
+<td style="background: Red"><b>-2.3%</b>
+</td></tr>
+<tr>
+<td><b>1964</b>
+</td>
+<td><b>27%</b>
+</td>
+<td style="background: Green"><b>+7.5%</b>
+</td></tr>
+<tr>
+<td><b>1971</b>
+</td>
+<td><b>29.5%</b>
+</td>
+<td style="background: lightgreen"><b>+2.5%</b>
+</td></tr>
+<tr>
+<td><b>1980</b>
+</td>
+<td><b>27.4%</b>
+</td>
+<td style="background: Red"><b>-2.1%</b>
+</td></tr>
+<tr>
+<td><b>2004</b>
+</td>
+<td><b>19.9%%</b>
+</td>
+<td style="background: Red"><b>-7.4%</b>
+</td></tr>
+<tr>
+<td><b>2012</b>
+</td>
+<td><b>22.3%</b>
+</td>
+<td style="background: lightgreen"><b>+2.4%</b>
+</td></tr></tbody></table>
+<p>The percentage of Hindus increased initially (1900 – 1930s), fluctuated slightly between the 1930s and 1980s, and remained stable in the 20s (20%).The demographic changes in the religious population in the first half of the 20th century can be explained by migration. In the second half of the 20th century, in particular after 1970s the decline of Hindus might be explained by large migration to the Netherlands during the independence (1975) and the military regime in the 1980-1987.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Population_by_districts">Population by districts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=4" title="Edit section: Population by districts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Suriname_Hindu.PNG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Suriname_Hindu.PNG/220px-Suriname_Hindu.PNG" decoding="async" width="220" height="218" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Suriname_Hindu.PNG/330px-Suriname_Hindu.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Suriname_Hindu.PNG/440px-Suriname_Hindu.PNG 2x" data-file-width="716" data-file-height="709" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Suriname_Hindu.PNG" class="internal" title="Enlarge"></a></div>Distribution of Hindus by district</div></div></div>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>District</th>
+<th>Percent of Hindus
+</th></tr>
+<tr>
+<td><a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca</a></td>
+<td>44.6%
+</td></tr>
+<tr>
+<td><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a></td>
+<td>43.2%
+</td></tr>
+<tr>
+<td><a href="/wiki/Wanica" class="mw-redirect" title="Wanica">Wanica</a></td>
+<td>39.9%
+</td></tr>
+<tr>
+<td><a href="/wiki/Commewijne_District" title="Commewijne District">Commewijne District</a></td>
+<td>24.5%
+</td></tr>
+<tr>
+<td><a href="/wiki/Paramaribo_District" title="Paramaribo District">Paramaribo</a></td>
+<td>13.8%
+</td></tr>
+<tr>
+<td><a href="/wiki/Para_District" title="Para District">Para</a></td>
+<td>4.9%
+</td></tr>
+<tr>
+<td><a href="/wiki/Coronie" class="mw-redirect" title="Coronie">Coronie</a></td>
+<td>2.2%
+</td></tr>
+<tr>
+<td><a href="/wiki/Marowijne_District" title="Marowijne District">Marowijne</a></td>
+<td>0.9%
+</td></tr>
+<tr>
+<td><a href="/wiki/Brokopondo_District" title="Brokopondo District">Brokopondo</a></td>
+<td>0.4%
+</td></tr>
+<tr>
+<td><a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini</a></td>
+<td>0.3%
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Hindu_denominations">Hindu denominations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=5" title="Edit section: Hindu denominations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Arya_Samaj_in_Suriname" title="Arya Samaj in Suriname">Arya Samaj in Suriname</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Hindoe_temple_in_Nickerie_(31125297781).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hindoe_temple_in_Nickerie_%2831125297781%29.jpg/220px-Hindoe_temple_in_Nickerie_%2831125297781%29.jpg" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hindoe_temple_in_Nickerie_%2831125297781%29.jpg/330px-Hindoe_temple_in_Nickerie_%2831125297781%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hindoe_temple_in_Nickerie_%2831125297781%29.jpg/440px-Hindoe_temple_in_Nickerie_%2831125297781%29.jpg 2x" data-file-width="4734" data-file-height="2661" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hindoe_temple_in_Nickerie_(31125297781).jpg" class="internal" title="Enlarge"></a></div>Hindu temple in <a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a></div></div></div>
+<p>According to the 2012 census, 18% of Surinamese are <a href="/wiki/Sanatani" class="mw-redirect" title="Sanatani">Sanatani</a> Hindus, 3.1% are <a href="/wiki/Arya_Samaj" title="Arya Samaj">Arya Samaj</a>, and the remaining 1.2% followed other forms of Hinduism.
+</p><p><a href="/wiki/ISKCON" class="mw-redirect" title="ISKCON">ISKCON</a> also have a presence in Suriname.The first Hare Krishna devotees to visit Suriname were devotees from Guyana way back in the early 1980’s. The first Center was established about two decades ago, and now there is a vibrant preaching center in the country’s second city, New Nickerie. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ethnicity">Ethnicity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=6" title="Edit section: Ethnicity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="barbox tright" style="overflow-x: auto;">
+<div style="border:1px solid silver; font-size:88%; padding:0.4em; width:auto; background: white;">
+<table style="text-align:left; border-collapse:collapse; width:100%;">
+<tbody><tr style="background:#fcd116"><th style="text-align:center;" colspan="5">Ethnicity<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></th></tr>
+<tr style="font-size:88%; height:4px;">
+<td style="padding:0 4px; text-align:left;">Ethnicity</td>
+<td style="padding:0 4px; text-align:right;"></td>
+<td style="width:100px; text-align:left;"></td>
+<td style="padding:0 4px; width:1em; text-align:right;">Percent</td>
+<td style="padding:0 4px; text-align:right;"></td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Indian</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Yellow; width:95.7%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">95.7%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Mixed</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Blue; width:2.6%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">2.6%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Javanese</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Red; width:0.75%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.75%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Creole</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:green; width:0.14%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.14%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Chinese</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:green; width:0.13%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.13%</td>
+</tr>
+<tr>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Others</td>
+<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:grey; width:0.2%; overflow: hidden;">&#8201;</div></td>
+<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">0.2%</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+<p>Majority of the Hindus in Suriname are <a href="/wiki/East_Indians" title="East Indians">East Indians</a> both in absolute terms and in percentage.Hinduism has a considerable following among Mixed ethnic people(3210 people) and <a href="/wiki/Javanese_Surinamese" title="Javanese Surinamese">Javanese Surinamese</a>(915 people).Hinduism is also practised among <a href="/wiki/Chinese_Surinamese" title="Chinese Surinamese">Chinese Surinamese</a>(157 people),Creole (142 people),<a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroon</a>(84 people),<a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous people</a>(83 people) and <a href="/wiki/Afro-Surinamese" title="Afro-Surinamese">Afro-Surinamese</a>(59 people)<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>.
+</p>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>Ethnic group</th>
+<th>Percent of Ethnic group practising Hinduism
+</th></tr>
+<tr>
+<td><a href="/wiki/Indo-Surinamese" title="Indo-Surinamese">Indo-Surinamese</a></td>
+<td>78%
+</td></tr>
+<tr>
+<td>Mixed</td>
+<td>4.4%
+</td></tr>
+<tr>
+<td><a href="/wiki/Chinese_Surinamese" title="Chinese Surinamese">Chinese</a></td>
+<td>2%
+</td></tr>
+<tr>
+<td><a href="/wiki/Afro-Surinamese" title="Afro-Surinamese">Afro-Surinamese</a></td>
+<td>1.5%
+</td></tr>
+<tr>
+<td><a href="/wiki/Javanese_Surinamese" title="Javanese Surinamese">Javanese</a></td>
+<td>1.2%
+</td></tr>
+<tr>
+<td><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous people</a></td>
+<td>0.4%
+</td></tr>
+<tr>
+<td>Creole</td>
+<td>0.17%
+</td></tr>
+<tr>
+<td><a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroon</a></td>
+<td>0.07%
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Contemporary_Society">Contemporary Society</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=7" title="Edit section: Contemporary Society">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Paramaribo,_Hindu_Temple.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paramaribo%2C_Hindu_Temple.JPG/220px-Paramaribo%2C_Hindu_Temple.JPG" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paramaribo%2C_Hindu_Temple.JPG/330px-Paramaribo%2C_Hindu_Temple.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Paramaribo%2C_Hindu_Temple.JPG/440px-Paramaribo%2C_Hindu_Temple.JPG 2x" data-file-width="2448" data-file-height="3264" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Paramaribo,_Hindu_Temple.JPG" class="internal" title="Enlarge"></a></div>Shri Vishnu mandir, <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a></div></div></div>
+<h3><span class="mw-headline" id="Language">Language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=8" title="Edit section: Language">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In contrast to the neighbouring Guyanese Hindus who speak English,most of the Surinamese Hindus speak <a href="/wiki/Sarnami_Hindustani" class="mw-redirect" title="Sarnami Hindustani">Sarnami Hindustani</a>, a dialect of <a href="/wiki/Bhojpuri" class="mw-redirect" title="Bhojpuri">Bhojpuri</a>.This is largely due to the fact that the Dutch did not force the Indo-Caribbean population to abandon their native languages, unlike in British colonies like <a href="/wiki/Trinidad" title="Trinidad">Trinidad</a> and <a href="/wiki/Guyana" title="Guyana">Guyana</a>, where English was imposed as a means of attempting to erase cultural and religious traditions.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Festivals">Festivals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=9" title="Edit section: Festivals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Deepavali" class="mw-redirect" title="Deepavali">Deepavali</a> and <a href="/wiki/Holi" title="Holi">Holi</a> are national holidays in Suriname.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Hinduism_in_Trinidad_and_Tobago" title="Hinduism in Trinidad and Tobago">Hinduism in Trinidad and Tobago</a></li>
+<li><a href="/wiki/Hinduism_in_Belize" title="Hinduism in Belize">Hinduism in Belize</a></li>
+<li><a href="/wiki/Hinduism_in_the_Netherlands" title="Hinduism in the Netherlands">Hinduism in the Netherlands</a></li>
+<li><a href="/wiki/Hinduism_in_Guyana" title="Hinduism in Guyana">Hinduism in Guyana</a></li>
+<li><a href="/wiki/Hinduism_in_Guadeloupe" title="Hinduism in Guadeloupe">Hinduism in Guadeloupe</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistics-suriname.org/images/Presentatie.pdf">"Microsoft PowerPoint - DEFINITIEF-VOL-I.ppt"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Microsoft+PowerPoint+-+DEFINITIEF-VOL-I.ppt&amp;rft_id=http%3A%2F%2Fwww.statistics-suriname.org%2Fimages%2FPresentatie.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHinduism+in+Suriname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.gopio.net/publications_articles/Immigration_lecture_Sandew_Hira.pdf">http://www.gopio.net/publications_articles/Immigration_lecture_Sandew_Hira.pdf</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.guyanaundersiege.com/cultural/hindus%20of%20south%20america.htm">"Hindus of South America"</a>. Guyanaundersiege.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-09-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Hindus+of+South+America&amp;rft.pub=Guyanaundersiege.com&amp;rft_id=http%3A%2F%2Fwww.guyanaundersiege.com%2Fcultural%2Fhindus%2520of%2520south%2520america.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHinduism+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Emmer, Pieter Cornelis; Ulijaszek, Stanley (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=xDO0BAAAQBAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><i>The Dutch Slave Trade, 1500-1850</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781845450311" title="Special:BookSources/9781845450311"><bdi>9781845450311</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Dutch+Slave+Trade%2C+1500-1850&amp;rft.date=2006&amp;rft.isbn=9781845450311&amp;rft.aulast=Emmer&amp;rft.aufirst=Pieter+Cornelis&amp;rft.au=Ulijaszek%2C+Stanley&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DxDO0BAAAQBAJ%26printsec%3Dfrontcover%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHinduism+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.statistics-suriname.org/images/Presentatie.pdf">http://www.statistics-suriname.org/images/Presentatie.pdf</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.researchgate.net/publication/310188560_Colonial_Christian_Dominance_and_Religious_Diversity_in_Suriname">https://www.researchgate.net/publication/310188560_Colonial_Christian_Dominance_and_Religious_Diversity_in_Suriname</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://iskconnews.org/iskcon-suriname-holds-first-ratha-yatra,5834/">https://iskconnews.org/iskcon-suriname-holds-first-ratha-yatra,5834/</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf">https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf">https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://m.huffpost.com/us/entry/us_7222082">https://m.huffpost.com/us/entry/us_7222082</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://publicholidays.la/suriname/">https://publicholidays.la/suriname/</a></span>
+</li>
+</ol></div></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag_of_Suriname.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/30px-Flag_of_Suriname.svg.png" decoding="async" width="30" height="20" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/60px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></td><td><i>This <a href="/wiki/Suriname" title="Suriname">Suriname</a>-related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hinduism_in_Suriname&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-stub" title="Template:Suriname-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-stub" title="Template talk:Suriname-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1224
+Cached time: 20190913034207
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.200 seconds
+Real time usage: 0.257 seconds
+Preprocessor visited node count: 583/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12625/2097152 bytes
+Template argument size: 2560/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12067/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.079/10.000 seconds
+Lua memory usage: 2.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.111      1 -total
+ 67.40%  115.337      1 Template:Reflist
+ 50.02%   85.582      2 Template:Cite_web
+ 14.38%   24.601      1 Template:See_also
+ 11.34%   19.408      1 Template:Suriname-stub
+  9.67%   16.547      1 Template:Asbox
+  5.23%    8.943      1 Template:Cite_book
+  5.15%    8.820      1 Template:Bar_box
+  2.49%    4.264      6 Template:Bar_percent
+  1.89%    3.241      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:58532320-0!canonical and timestamp 20190913034207 and revision id 915413728
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hinduism_in_Suriname&amp;oldid=915413728">https://en.wikipedia.org/w/index.php?title=Hinduism_in_Suriname&amp;oldid=915413728</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Suriname_stubs" title="Category:Suriname stubs">Suriname stubs</a></li><li><a href="/wiki/Category:Hinduism_in_Suriname" title="Category:Hinduism in Suriname">Hinduism in Suriname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hinduism+in+Suriname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hinduism+in+Suriname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hinduism_in_Suriname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hinduism_in_Suriname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hinduism_in_Suriname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hinduism_in_Suriname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hinduism_in_Suriname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hinduism_in_Suriname&amp;oldid=915413728" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hinduism_in_Suriname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q60528549" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hinduism_in_Suriname&amp;id=915413728" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hinduism+in+Suriname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hinduism+in+Suriname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hinduism_in_Suriname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%88%D8%B3%D9%8A%D8%A9_%D9%81%D9%8A_%D8%B3%D9%88%D8%B1%D9%8A%D9%86%D8%A7%D9%85" title="الهندوسية في سورينام – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B4%D0%B0_%D2%BA%D0%B8%D0%BD%D0%B4_%D0%B4%D0%B8%D0%BD%D0%B5" title="Суринамда Һинд дине – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q60528549#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 03:42<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hinduism_in_Suriname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.257","ppvisitednodes":{"value":583,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12625,"limit":2097152},"templateargumentsize":{"value":2560,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12067,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.111      1 -total"," 67.40%  115.337      1 Template:Reflist"," 50.02%   85.582      2 Template:Cite_web"," 14.38%   24.601      1 Template:See_also"," 11.34%   19.408      1 Template:Suriname-stub","  9.67%   16.547      1 Template:Asbox","  5.23%    8.943      1 Template:Cite_book","  5.15%    8.820      1 Template:Bar_box","  2.49%    4.264      6 Template:Bar_percent","  1.89%    3.241      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.079","limit":"10.000"},"limitreport-memusage":{"value":2479084,"limit":52428800}},"cachereport":{"origin":"mw1224","timestamp":"20190913034207","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hinduism in Suriname","url":"https:\/\/en.wikipedia.org\/wiki\/Hinduism_in_Suriname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q60528549","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q60528549","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-09-20T06:28:01Z","dateModified":"2019-09-13T03:42:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b3\/Arya_Dewaker%2C_exterior5.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

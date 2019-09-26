@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Maritime boundary - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Maritime_boundary","wgTitle":"Maritime boundary","wgCurRevisionId":898646928,"wgRevisionId":898646928,"wgArticleId":29613061,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from January 2018","Articles with permanently dead external links","Webarchive template wayback links","Maritime boundaries"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"Maritime_boundary","wgRelevantArticleId":29613061,"wgRequestId":"XYqOnQpAME4AAEupjcgAAABL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3089219","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zonmar-en.svg/1200px-Zonmar-en.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Maritime_boundary"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Maritime_boundary&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Maritime_boundary&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Maritime_boundary"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Maritime_boundary rootpage-Maritime_boundary skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Maritime boundary</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Zonmar-en.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zonmar-en.svg/220px-Zonmar-en.svg.png" decoding="async" width="220" height="328" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zonmar-en.svg/330px-Zonmar-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Zonmar-en.svg/440px-Zonmar-en.svg.png 2x" data-file-width="493" data-file-height="735" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Zonmar-en.svg" class="internal" title="Enlarge"></a></div>Features, limits and zones</div></div></div>
+<p>A <b>maritime boundary</b> is a conceptual division of the <a href="/wiki/Earth" title="Earth">Earth</a>'s water surface areas using <a href="/wiki/Physical_geography" title="Physical geography">physiographic</a> or <a href="/wiki/Human_geography" title="Human geography">geopolitical</a> criteria. As such, it usually bounds areas of exclusive <a href="/wiki/Sovereignty" title="Sovereignty">national rights</a> over mineral and biological resources,<sup id="cite_ref-vliz_info_1-0" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup> encompassing maritime features, limits and zones.<sup id="cite_ref-geoscience_2-0" class="reference"><a href="#cite_note-geoscience-2">&#91;2&#93;</a></sup> Generally, a maritime boundary is delineated at a particular distance from a jurisdiction's coastline. Although in some countries the term <i>maritime boundary</i> represents <a href="/wiki/Border" title="Border">borders</a> of a <a href="/wiki/Maritime_nation" title="Maritime nation">maritime nation</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> that are recognized by the <a href="/wiki/United_Nations_Convention_on_the_Law_of_the_Sea" title="United Nations Convention on the Law of the Sea">United Nations Convention on the Law of the Sea</a>, maritime borders usually serve to identify the edge of <a href="/wiki/International_waters" title="International waters">international waters</a>.
+</p><p>Maritime boundaries exist in the context of <a href="/wiki/Territorial_waters" title="Territorial waters">territorial waters</a>, <a href="/wiki/Contiguous_zone" class="mw-redirect" title="Contiguous zone">contiguous zones</a>, and <a href="/wiki/Exclusive_economic_zone" title="Exclusive economic zone">exclusive economic zones</a>; however, the terminology does not encompass <a href="/wiki/Lake" title="Lake">lake</a> or <a href="/wiki/River" title="River">river</a> boundaries, which are considered within the context of land boundaries.
+</p><p>Some maritime boundaries have remained indeterminate despite efforts to clarify them. This is explained by an array of factors, some of which involve regional problems.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The delineation of maritime boundaries has strategic, economic and environmental implications.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terminology"><span class="tocnumber">1</span> <span class="toctext">Terminology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Features"><span class="tocnumber">1.1</span> <span class="toctext">Features</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Limits"><span class="tocnumber">1.2</span> <span class="toctext">Limits</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Zones"><span class="tocnumber">1.3</span> <span class="toctext">Zones</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Treaties"><span class="tocnumber">2.1</span> <span class="toctext">Treaties</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Disputes"><span class="tocnumber">3</span> <span class="toctext">Disputes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Unresolved_maritime_boundaries"><span class="tocnumber">3.1</span> <span class="toctext">Unresolved maritime boundaries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=1" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The terms <a href="https://en.wiktionary.org/wiki/boundary" class="extiw" title="wikt:boundary">boundary</a>, <a href="/wiki/Frontier" title="Frontier">frontier</a> and <a href="/wiki/Border" title="Border">border</a> are often used as if they were interchangeable, but they are also terms with precise meanings.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>A boundary is a line. The terms "frontier", "borderland" and "border" are zones of indeterminate width.  Such areas forms the outermost part of a country. Borders are bounded on one side by a national boundary.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> There are variations in the specific terminology of maritime boundary agreements which have been concluded since the 1970s. Such differences are less important than what is being delimited.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Features">Features</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=2" title="Edit section: Features">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Features that affect maritime boundaries include <a href="/wiki/Island" title="Island">islands</a> and the submerged seabed of the <a href="/wiki/Continental_shelf" title="Continental shelf">continental shelf</a>.<sup id="cite_ref-geoscience_2-1" class="reference"><a href="#cite_note-geoscience-2">&#91;2&#93;</a></sup>
+</p><p>The process of <a href="/wiki/Boundary_delimitation" title="Boundary delimitation">boundary delimitation</a> in the <a href="/wiki/Ocean" title="Ocean">ocean</a> encompasses the <a href="/wiki/Natural_prolongation" class="mw-redirect" title="Natural prolongation">natural prolongation</a> of <a href="/wiki/Geology" title="Geology">geological</a> features and <a href="/wiki/Outlying_territory" title="Outlying territory">outlying territory</a>. The process of establishing "positional" borders encompasses the distinction between previously resolved and never-resolved controversies.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Limits">Limits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=3" title="Edit section: Limits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The limits of maritime boundaries are expressed in <a href="/wiki/Polyline" class="mw-redirect" title="Polyline">polylines</a> and in <a href="/wiki/Polygon" title="Polygon">polygon</a> layers of sovereignty and control,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> calculated from the declaration of a baseline. The conditions under which a state may establish such baseline are described in the United Nations Convention on the Law of the Sea (UNCLOS). A baseline of a country can be the low water line, a straight baseline (a line that encloses bays, estuaries, inland waters,...) or a combination of the two.<sup id="cite_ref-vliz_info_1-1" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Zones">Zones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=4" title="Edit section: Zones">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The zones of maritime boundaries are expressed in concentric limits surrounding coastal and feature baselines.<sup id="cite_ref-vliz_info_1-2" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup>
+</p>
+<ul><li>Inland waters&#8212;the zone inside the baseline.</li>
+<li>Territorial sea&#8212;the zone extending 12&#160;nm. from the baseline.<sup id="cite_ref-geoscience_2-2" class="reference"><a href="#cite_note-geoscience-2">&#91;2&#93;</a></sup></li>
+<li>Contiguous zone&#8212;the area extending 24&#160;nm. from the baseline.<sup id="cite_ref-geoscience_2-3" class="reference"><a href="#cite_note-geoscience-2">&#91;2&#93;</a></sup></li>
+<li>Exclusive Economic Zone&#8212;the area extending 200&#160;nm. from the baseline except when the space between two countries is less than 400&#160;nm.<sup id="cite_ref-geoscience_2-4" class="reference"><a href="#cite_note-geoscience-2">&#91;2&#93;</a></sup></li></ul>
+<p>In the case of overlapping zones, the boundary is presumed to conform to the <a href="/wiki/Equidistance_principle" title="Equidistance principle">equidistance principle</a> or it is explicitly described in a multilateral treaty.<sup id="cite_ref-vliz_info_1-3" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup>
+</p><p>Contemporary negotiations have produced <a href="/wiki/Tripoint" title="Tripoint">tripoint</a> and <a href="/wiki/Quadripoint" title="Quadripoint">quadripoint</a> determinations. For example, in the 1982 <a href="/wiki/Australia%E2%80%93France_Marine_Delimitation_Agreement" title="Australia–France Marine Delimitation Agreement">Australia–France Marine Delimitation Agreement</a>, for the purposes of drawing the treaty's equidistant lines it was assumed that France has sovereignty over <a href="/wiki/Matthew_and_Hunter_Islands" class="mw-redirect" title="Matthew and Hunter Islands">Matthew and Hunter Islands</a>, a territory that is also claimed by <a href="/wiki/Vanuatu" title="Vanuatu">Vanuatu</a>. The northernmost point in the boundary is a tripoint with the <a href="/wiki/Solomon_Islands" title="Solomon Islands">Solomon Islands</a>. The boundary runs in a roughly north–south direction and then turns and runs west–east until it almost reaches the <a href="/wiki/170th_meridian_east" title="170th meridian east">170th meridian east</a>.<sup id="cite_ref-anderson_11-0" class="reference"><a href="#cite_note-anderson-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_countries_and_territories_by_maritime_boundaries" title="List of countries and territories by maritime boundaries">List of countries and territories by maritime boundaries</a></div>
+<p>The concept of maritime boundaries is a relatively new concept.<sup id="cite_ref-vliz_info_1-4" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup> The historical record is a backdrop for evaluating border issues.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>  The evaluation of historic rights are governed by distinct legal regimes in customary international law, including research and analysis based on
+</p>
+<ul><li>acquisition and occupation<sup id="cite_ref-jagota183_13-0" class="reference"><a href="#cite_note-jagota183-13">&#91;13&#93;</a></sup></li>
+<li>the existence of rights <i><a href="/wiki/Ipso_facto" title="Ipso facto">ipso facto</a></i> and <i><a href="/wiki/Ab_initio" title="Ab initio">ab initio</a></i>.<sup id="cite_ref-jagota183_13-1" class="reference"><a href="#cite_note-jagota183-13">&#91;13&#93;</a></sup></li></ul>
+<p>The study of treaties on maritime boundaries is important as (a) as a source of general or particular international law; (b) as evidence of existing customary law; and (c) as evidence of the emerging development of custom.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> The development of "customary law" affects all nations.
+</p><p>The attention accorded this subject has evolved beyond formerly-conventional norms like the <a href="/wiki/Three-mile_limit" title="Three-mile limit">three-mile limit</a>.
+</p>
+<h3><span class="mw-headline" id="Treaties">Treaties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=6" title="Edit section: Treaties">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_maritime_boundary_treaties" title="List of maritime boundary treaties">List of maritime boundary treaties</a></div>
+<p>Multilateral treaties and documents describing the baselines of countries can be found on the website of the United Nations.<sup id="cite_ref-vliz_info_1-5" class="reference"><a href="#cite_note-vliz_info-1">&#91;1&#93;</a></sup>
+</p><p>For example, the Australia–France Marine Delimitation Agreement establishes ocean boundaries between Australia and New Caledonia in the Coral Sea (including the boundary between Australia's Norfolk Island and New Caledonia). It consists of 21 straight-line maritime segments defined by 22 individual coordinate points forming a modified equidistant line between the two territories.<sup id="cite_ref-anderson_11-1" class="reference"><a href="#cite_note-anderson-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Disputes">Disputes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=7" title="Edit section: Disputes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_territorial_disputes" title="List of territorial disputes">List of territorial disputes</a></div>
+<p>Controversies about territorial waters tend to encompass two dimensions: (a) territorial sovereignty, which are a legacy of history; and (b) relevant jurisdictional rights and interests in maritime boundaries, which are mainly due to differing interpretations of the law of the sea.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> An example of this may be reviewed in the context of the ongoing Kuwait-Iraq maritime dispute over the <a href="/wiki/Khawr_Abd_Allah" title="Khawr Abd Allah">Khawr Abd Allah</a> waterway.
+</p><p>Many disputes have been resolved through negotiations,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> but not all.
+</p>
+<h3><span class="mw-headline" id="Unresolved_maritime_boundaries">Unresolved maritime boundaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=8" title="Edit section: Unresolved maritime boundaries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Map_of_Korean_maritime_border.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_of_Korean_maritime_border.svg/220px-Map_of_Korean_maritime_border.svg.png" decoding="async" width="220" height="158" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_of_Korean_maritime_border.svg/330px-Map_of_Korean_maritime_border.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Map_of_Korean_maritime_border.svg/440px-Map_of_Korean_maritime_border.svg.png 2x" data-file-width="912" data-file-height="653" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Map_of_Korean_maritime_border.svg" class="internal" title="Enlarge"></a></div>The disputed maritime <a href="/wiki/Border" title="Border">border</a> between North and South Korea in the <a href="/wiki/Yellow_Sea" title="Yellow Sea">West Sea</a>:<sup id="cite_ref-ryoo13_17-0" class="reference"><a href="#cite_note-ryoo13-17">&#91;17&#93;</a></sup><br /> <span style="background-color:blue; color:white; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <span style="color:blue;"> <b>A:</b></span> <a href="/wiki/Northern_Limit_Line" title="Northern Limit Line">Northern Limit Line</a>, created by the United Nations in 1953<sup id="cite_ref-reuters2010_18-0" class="reference"><a href="#cite_note-reuters2010-18">&#91;18&#93;</a></sup><br /> <span style="background-color:red; color:black; border:1px solid darkgray; text-align:center;">&#160;&#160;&#160;&#160;</span> <span style="color:red;"> <b>B:</b></span> "Inter-Korean MDL in the Yellow Sea", declared by North Korea in 1999<sup id="cite_ref-peoplesdaily2010_19-0" class="reference"><a href="#cite_note-peoplesdaily2010-19">&#91;19&#93;</a></sup>  The locations of specific islands are reflected in the configuration of each maritime boundary, including: <div><ol><li><a href="/wiki/Yeonpyeong_Island" class="mw-redirect" title="Yeonpyeong Island">Yeonpyeong Island</a></li><li><a href="/wiki/Baengnyeong_Island" class="mw-redirect" title="Baengnyeong Island">Baengnyeong Island</a></li><li><a href="/wiki/Daecheong_Island" class="mw-redirect" title="Daecheong Island">Daecheong Island</a></li></ol></div>  <b>Other map features:</b> <div><ol start="4"><li><a href="/wiki/Jung-gu,_Incheon" class="mw-redirect" title="Jung-gu, Incheon">Jung-gu</a> (Incheon Intl. Airport)</li><li><a href="/wiki/Seoul" title="Seoul">Seoul</a></li><li><a href="/wiki/Incheon" title="Incheon">Incheon</a></li><li><a href="/wiki/Haeju" title="Haeju">Haeju</a></li><li><a href="/wiki/Kaesong" title="Kaesong">Kaesong</a></li><li><a href="/wiki/Ganghwa_County" title="Ganghwa County">Ganghwa County</a></li><li>Bukdo Myeon</li><li><a href="/wiki/Deokjeokdo" title="Deokjeokdo">Deokjeokdo</a></li><li>Jawol Myeon</li><li>Yeongheung Myeon</li></ol></div></div></div></div>
+<p>Among the array of unsettled disputes, the maritime borders of the two Koreas in the Yellow Sea represent a visually stark contrast.<sup id="cite_ref-ryoo13_17-1" class="reference"><a href="#cite_note-ryoo13-17">&#91;17&#93;</a></sup>
+</p>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Northern_Limit_Line" title="Northern Limit Line">Northern Limit Line</a></div>
+<p>A western line of military control between the two Koreas was unilaterally established by the <a href="/wiki/United_Nations_Command" title="United Nations Command">United Nations Command</a> in 1953.<sup id="cite_ref-elferllink314_20-0" class="reference"><a href="#cite_note-elferllink314-20">&#91;20&#93;</a></sup><sup id="cite_ref-kim2010_21-0" class="reference"><a href="#cite_note-kim2010-21">&#91;21&#93;</a></sup> Although the North asserts a differently configured boundary line, there is no dispute that a few small islands close to the North Korean coastline have remained jurisdiction of the United Nations since 1953.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>The map at the right shows the differing maritime boundary lines of the two Koreas. The ambits of these boundaries encompass overlapping jurisdictional claims.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The explicit differences in the way the boundary lines are configured is shown in the map at the right.
+</p><p>In a very small area, this represents a unique illustration of differences in mapping and delineation strategies.
+</p>
+<ul><li>On one hand, the boundary line created by the United Nations ("A") reflects the geographic features of the coastal baseline.<sup id="cite_ref-reuters2010_18-1" class="reference"><a href="#cite_note-reuters2010-18">&#91;18&#93;</a></sup></li>
+<li>On the other hand, while the boundary line declared by North Korea does acknowledge specific non-DPRK island enclaves, its "Military Demarcation Line" in the ocean ("B") is essentially a straight line.<sup id="cite_ref-peoplesdaily2010_19-1" class="reference"><a href="#cite_note-peoplesdaily2010-19">&#91;19&#93;</a></sup></li></ul>
+<p>Violent clashes in these disputed waters include what are known as the <a href="/wiki/First_Battle_of_Yeonpyeong" title="First Battle of Yeonpyeong">first Yeonpyeong incident</a>, the <a href="/wiki/Second_Battle_of_Yeonpyeong" title="Second Battle of Yeonpyeong">second Yeonpyeong incident</a>, and the <a href="/wiki/Bombardment_of_Yeonpyeong" title="Bombardment of Yeonpyeong">Bombardment of Yeonpyeong</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_countries_and_territories_by_land_and_maritime_borders" title="List of countries and territories by land and maritime borders">List of countries and territories by land and maritime borders</a></li>
+<li><a href="/wiki/List_of_political_and_geographic_borders" title="List of political and geographic borders">List of political and geographic borders</a></li>
+<li><a href="/wiki/Exclusive_Economic_Zone" class="mw-redirect" title="Exclusive Economic Zone">Exclusive Economic Zone</a></li>
+<li><a href="/wiki/Arctic_Cooperation_and_Politics" class="mw-redirect" title="Arctic Cooperation and Politics">Arctic Cooperation and Politics</a></li>
+<li><a href="/wiki/Territorial_claims_in_the_Arctic" title="Territorial claims in the Arctic">Territorial claims in the Arctic</a></li>
+<li><a href="/wiki/International_Seabed_Authority" title="International Seabed Authority">International Seabed Authority</a></li>
+<li><a href="/wiki/Beagle_Channel_Arbitration" title="Beagle Channel Arbitration">Beagle Channel Arbitration</a></li>
+<li><a href="/wiki/South_Pacific_Applied_Geoscience_Commission" title="South Pacific Applied Geoscience Commission">South Pacific Applied Geoscience Commission</a></li>
+<li><a href="/wiki/International_Court_of_Justice" title="International Court of Justice">International Court of Justice</a></li>
+<li><a href="/wiki/Jurisdiction_of_the_International_Court_of_Justice" title="Jurisdiction of the International Court of Justice">Jurisdiction of the International Court of Justice</a></li>
+<li><a href="/wiki/Permanent_Court_of_Arbitration" title="Permanent Court of Arbitration">Permanent Court of Arbitration</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=10" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-vliz_info-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-vliz_info_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vliz_info_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-vliz_info_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-vliz_info_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-vliz_info_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-vliz_info_1-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">VLIZ Maritime Boundaries Geodatabase, <a rel="nofollow" class="external text" href="http://www.vliz.be/vmdcdata/marbound/info.php">General info</a>; retrieved 19 Nov 2010</span>
+</li>
+<li id="cite_note-geoscience-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-geoscience_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-geoscience_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-geoscience_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-geoscience_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-geoscience_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Geoscience Australia, <a rel="nofollow" class="external text" href="http://www.ga.gov.au/marine/jurisdiction/definitions.jsp">Maritime definitions</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since January 2018">permanent dead link</span></a></i>&#93;</span></sup>; retrieved 19 Nov 2010</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">United States Department of State, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184424/http://www.state.gov/g/oes/ocns/opa/convention/c28187.htm">Maritime boundaries</a>&#160;; retrieved 19 Nov 2010.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Valencia, Mark J. (2001). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZhXN8ILQCnIC&amp;pg=PA149"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=ZhXN8ILQCnIC&amp;pg=PA149">Maritime Regime Building: Lessons Learned and Their Relevance for Northeast Asia,<i> pp. 149-166.</i></a>, p. 149, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Geoscience Australia, <a rel="nofollow" class="external text" href="http://www.ga.gov.au/about/projects/marine/law-sea-maritime-jurisdiction">Law of the Sea and Maritime Jurisdiction Project</a>.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Prescott, John Robert Victor. (2008). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=r4FJXXciuhsC&amp;pg=PA11"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=r4FJXXciuhsC&amp;pg=PA11">International Frontiers and Boundaries: Law, Politics and Geography,<i> p. 11.</i></a>, p. 11, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Prescott, <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=r4FJXXciuhsC&amp;pg=PA12">p. 12.</a></i>, p. 12, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Charney, <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=RN0GnOcw0McC&amp;pg=PA3288">Vol. V, p. 3288.</a></i>, p. 3288, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Koo, Min Gyu. (2010). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=8Ac9hLAES18C&amp;pg=PA2"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=8Ac9hLAES18C&amp;pg=PA2">Disputes and Maritime Regime Building in East Asia,<i> p. 2 </i></a>, p. 2, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a> citing Friedrich V. Kratochwil, Paul Rohrlich, Harpreet Mahajan. (1985). <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/peace-and-disputed-sovereignty-reflections-on-conflict-over-territory/oclc/12550771"><i>Peace and disputed sovereignty,</i></a> p. 20.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">VLIZ, <a rel="nofollow" class="external text" href="http://www.vliz.be/vmdcdata/marbound/index.php">Intro</a></span>
+</li>
+<li id="cite_note-anderson-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-anderson_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-anderson_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Anderson, Ewan W. (2003). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=E7-menNPxREC&amp;pg=PA60"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=E7-menNPxREC&amp;pg=PA60">International Boundaries: A Geopolitical Atlas,<i> pp. 60–61, 64</i></a>, p. 60, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>; Charney, Jonathan I. <i>et al.</i> (1993). <i>International Maritime Boundaries,</i> Vol. 1, p. 905; Charney, (1998). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=o5ft2DfBJcIC&amp;pg=PA1185">Vol. 2, pp. 1185–1194.</a></i>, p. 1185, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Koo, <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=8Ac9hLAES18C&amp;pg=PA10">p. 10.</a></i>, p. 10, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-jagota183-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-jagota183_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-jagota183_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Jagota, S. P. <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=7H59YEj-zC0C&amp;pg=PA183"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=7H59YEj-zC0C&amp;pg=PA183">Maritime Boundaries,<i> p. 183.</i></a>, p. 183, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Jagota, S. P. <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=7H59YEj-zC0C&amp;pg=PA69"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=7H59YEj-zC0C&amp;pg=PA69">Maritime Boundaries,<i> p. 69.</i></a>, p. 69, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="/wiki/Ji_Guoxing" title="Ji Guoxing">Ji Guoxing</a>. (1995). <a rel="nofollow" class="external text" href="http://escholarship.org/uc/item/7rq2b069">"Maritime Jurisdiction in the Three China Seas," p. 3</a>, UC Berkeley: <a href="/wiki/UC_Institute_on_Global_Conflict_and_Cooperation" class="mw-redirect" title="UC Institute on Global Conflict and Cooperation">UC Institute on Global Conflict and Cooperation</a>; retrieved 15 Nov 2010.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Chris Carleton <i>et al.</i> (2002). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=weMB1l9dYPUC&amp;pg=PA43"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=weMB1l9dYPUC&amp;pg=PA43">Developments in the Technical Determination of Maritime Space,<i> p. 43.</i></a>, p. 43, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a>; excerpt, "By far the preferred method of handling disputes among states, including those related to maritime boundaries, is through bilateral negotiations. In contrast to other methods, negotiations may be regarded as a universally accepted means...."</span>
+</li>
+<li id="cite_note-ryoo13-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-ryoo13_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ryoo13_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Ryoo, Moo Bong. (2009). <a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA500904&amp;Location=U2&amp;doc=GetTRDoc.pdf">"The Korean Armistice and the Islands,"</a> p. 13 (at  <a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA500904&amp;Location=U2&amp;doc=GetTRDoc.pdf">PDF-p. 21</a>). Strategy research project at the U.S. Army War College; retrieved 26 Nov 2010.</span>
+</li>
+<li id="cite_note-reuters2010-18"><span class="mw-cite-backlink">^ <a href="#cite_ref-reuters2010_18-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-reuters2010_18-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.reuters.com/article/idUSTRE6AM2O820101123">"Factbox: What is the Korean Northern Limit Line?"</a> Reuters (UK). 23 Nov 2010; retrieved 26 Nov 2010.</span>
+</li>
+<li id="cite_note-peoplesdaily2010-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-peoplesdaily2010_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-peoplesdaily2010_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://english.peopledaily.com.cn/200211/21/eng20021121_107188.shtml">"NLL&#8212;Controversial Sea Border Between S.Korea, DPRK, "</a> <i>People's Daily</i> (PRC), 21 Nov 2002; retrieved 26 Nov 2010.</span>
+</li>
+<li id="cite_note-elferllink314-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-elferllink314_20-0">^</a></b></span> <span class="reference-text">Elferink, Alex G. Oude. (1994). <i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=x-VYb-wida8C&amp;pg=PA314"></a></i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=x-VYb-wida8C&amp;pg=PA314">The Law of Maritime Boundary Delimitation: a Case Study of the Russian Federation,<i> p. 314.</i></a>, p. 314, at <a href="/wiki/Google_Books" title="Google Books">Google Books</a></span>
+</li>
+<li id="cite_note-kim2010-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-kim2010_21-0">^</a></b></span> <span class="reference-text">Kim, Kwang-Tae. <a rel="nofollow" class="external text" href="http://www.time.com/time/world/article/0,8599,2032789,00.html#ixzz16AytHQUq">"After Exchange of Fire, N. Korea Threatens More Strikes on South,"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101126232614/http://www.time.com/time/world/article/0,8599,2032789,00.html">Archived</a> 2010-11-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>Time</i> (US). 23 Nov 2010.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Ryoo, OMB Form No. 0704-0188 (at  <a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA500904&amp;Location=U2&amp;doc=GetTRDoc.pdf">PDF-p. 3</a>).</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Ryoo, pp. 13-15 (at  <a rel="nofollow" class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA500904&amp;Location=U2&amp;doc=GetTRDoc.pdf">PDF-pp. 21-23</a>).</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Kim, Kwang-Tae. <a rel="nofollow" class="external text" href="http://www.time.com/time/world/article/0,8599,2032789,00.html#ixzz16AytHQUq">"After Exchange of Fire, N. Korea Threatens More Strikes on South,"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20101126232614/http://www.time.com/time/world/article/0,8599,2032789,00.html">Archived</a> 2010-11-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>Time</i> (US). 23 Nov 2010; Williams, David and Peter Simpson. <a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/news/article-1332240/Korea-brink-South-warns-retaliation-Norths-shellfire-strike-kills-marines.html#ixzz16AtMQpwL">"Korea on the brink: South warns of retaliation after North's shellfire strike kills two marines,"</a> <i>Daily Mail</i> (UK). 24 Nov 2010; retrieved 26 Nov 2010.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ewan_Anderson" title="Ewan Anderson">Anderson, Ewan W.</a> (2003). <i>International Boundaries: A Geopolitical Atlas.</i> Routledge: New York. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57958-375-0" title="Special:BookSources/978-1-57958-375-0">978-1-57958-375-0</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/international-boundaries-a-geopolitical-atlas/oclc/54061586&amp;referer=brief_results">OCLC 54061586</a></li>
+<li>Carleton, Chris; Shelagh Furness and Clive Schofield. (2001). <i>Developments in the Technical Determination of Maritime Space: Delimitation, Dispute Resolution, Geographical Information Systems and the Role of the Technical Expert.</i> Durham, UK: IBRU. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-897643-47-1" title="Special:BookSources/978-1-897643-47-1">978-1-897643-47-1</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/developments-in-the-technical-determination-of-maritime-space-delimitation-dispute-resolution-geographical-information-systems-and-the-role-of-the-technical-expert/oclc/248943759">OCLC 248943759</a></li>
+<li><a href="/wiki/Jonathan_Charney" title="Jonathan Charney">Charney, Jonathan I.</a>, David A. Colson, Robert W. Smith. (2005). <i>International Maritime Boundaries,</i> 5 vols. Leiden: Martinus Nijhoff Publishers. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-1187-4" title="Special:BookSources/978-0-7923-1187-4">978-0-7923-1187-4</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-411-1954-4" title="Special:BookSources/978-90-411-1954-4">978-90-411-1954-4</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-411-0345-1" title="Special:BookSources/978-90-411-0345-1">978-90-411-0345-1</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-14461-3" title="Special:BookSources/978-90-04-14461-3">978-90-04-14461-3</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-14479-8" title="Special:BookSources/978-90-04-14479-8">978-90-04-14479-8</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/international-maritime-boundaries/oclc/23254092">OCLC 23254092</a></li>
+<li>Elferink, Alex G. Oude, (1994). <i>The Law of Maritime Boundary Delimitation: a Case Study of the Russian Federation.</i> Dordrecht: Martinus Nijhoff. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7923-3082-0" title="Special:BookSources/978-0-7923-3082-0">978-0-7923-3082-0</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/law-of-maritime-boundary-delimitation-a-case-study-of-the-russian-federation/oclc/123566768">OCLC 123566768</a></li>
+<li>Jagota, S. P. (1985). <i>Maritime Boundary.</i> Martinis Nijhoff: Dordrecht. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-247-3133-6" title="Special:BookSources/978-90-247-3133-6">978-90-247-3133-6</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-247-2616-5" title="Special:BookSources/978-90-247-2616-5">978-90-247-2616-5</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/maritime-boundary/oclc/11756409&amp;referer=brief_results">OCLC 	1175640</a></li>
+<li>Koo, Min Gyu. (2010). <i>Disputes and Maritime Regime Building in East Asia.</i> Dordrecht: Springer. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4419-6223-2" title="Special:BookSources/978-1-4419-6223-2">978-1-4419-6223-2</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/island-disputes-and-maritime-regime-building-in-east-asia-between-a-rock-and-a-hard-place/oclc/626823444">OCLC 626823444</a></li>
+<li>Kratochwil, Friedrich V., Paul Rohrlich, Harpreet Mahajan. (1985). <i>Peace and Disputed Sovereignty.</i> Lanham, Maryland: University Press of America. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8191-4953-4" title="Special:BookSources/978-0-8191-4953-4">978-0-8191-4953-4</a>; <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8191-4954-1" title="Special:BookSources/978-0-8191-4954-1">978-0-8191-4954-1</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/peace-and-disputed-sovereignty-reflections-on-conflict-over-territory/oclc/12550771&amp;referer=brief_results">OCLC 12550771</a></li>
+<li><a href="/wiki/John_Robert_Victor_Prescott" title="John Robert Victor Prescott">Prescott, John Robert Victor</a> and Gillian D. Triggs. (2008). <i>International Frontiers and Boundaries: Law, Politics and Geography.</i> Leiden: Martinus Nijhoff. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-16785-8" title="Special:BookSources/978-90-04-16785-8">978-90-04-16785-8</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/international-frontiers-and-boundaries/oclc/212375790">OCLC 212375790</a></li>
+<li>__________. (1985). <i>The Maritime Political Boundaries of the World.</i> London: Methuen. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-416-41750-0" title="Special:BookSources/978-0-416-41750-0">978-0-416-41750-0</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/maritime-political-boundaries-of-the-world/oclc/12582178?referer=di&amp;ht=edition">OCLC 12582178</a></li>
+<li>Valencia, Mark J. (2001). <i>Maritime Regime Building: Lessons Learned and Their Relevance for Northeast Asia.</i> The Hague: Martinus Nijhoff. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-411-1580-5" title="Special:BookSources/978-90-411-1580-5">978-90-411-1580-5</a>; <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/maritime-regime-building-lessons-learned-and-their-relevance-for-northeast-asia/oclc/174100966">OCLC 174100966</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Donaldson, John and Alison Williams. "Understanding Maritime Jurisdictional Disputes: The East China Sea and Beyond," <i><a href="/wiki/Journal_of_International_Affairs" title="Journal of International Affairs">Journal of International Affairs</a>,</i> Vol. 59, No. 1.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Terra.png" class="image"><img alt="Terra.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/21px-Terra.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/32px-Terra.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Terra.png/42px-Terra.png 2x" data-file-width="599" data-file-height="599" /></a></span><a href="/wiki/Portal:International_relations" title="Portal:International relations">international relations portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/US_Department_of_State" class="mw-redirect" title="US Department of State">US Department of State</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">Limits in the Seas</a></li>
+<li><a href="/wiki/Flanders_Marine_Institute" title="Flanders Marine Institute">Flanders Marine Institute</a>, <a rel="nofollow" class="external text" href="http://www.vliz.be/vmdcdata/marbound/index.php">VLIZ Maritime Boundaries Geodatabase</a></li>
+<li><a rel="nofollow" class="external text" href="http://legal.un.org/avl/ls/Shaw_BD.html">Lecture</a> by <a href="/wiki/Malcolm_Shaw" title="Malcolm Shaw">Malcolm Shaw</a> entitled <i>Principles of Maritime Delimitation</i> in the <a rel="nofollow" class="external text" href="http://legal.un.org/avl/lectureseries.html">Lecture Series of the United Nations Audiovisual Library of International Law</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Lists_of_countries_by_geographical_rankings" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Geography_country_lists" title="Template:Geography country lists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Geography_country_lists" title="Template talk:Geography country lists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Geography_country_lists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Lists_of_countries_by_geographical_rankings" style="font-size:114%;margin:0 4em"><a href="/wiki/Lists_of_countries_and_territories" title="Lists of countries and territories">Lists of countries</a> by <a href="/wiki/Geography" title="Geography">geographical</a> <a href="/wiki/List_of_international_rankings" title="List of international rankings">rankings</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Area</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_and_dependencies_by_area" title="List of countries and dependencies by area">Total</a></li>
+<li><a href="/wiki/Exclusive_economic_zone" title="Exclusive economic zone">Exclusive economic zone</a></li>
+<li><a href="/wiki/List_of_countries_by_forest_area" title="List of countries by forest area">Forest</a></li>
+<li><a href="/wiki/List_of_countries_by_irrigated_land_area" title="List of countries by irrigated land area">Irrigated</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Extreme points</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_elevation_extremes_by_country" title="List of elevation extremes by country">Elevation</a>
+<ul><li><a href="/wiki/List_of_countries_by_highest_point" class="mw-redirect" title="List of countries by highest point">highest</a></li>
+<li><a href="/wiki/List_of_countries_by_average_elevation" title="List of countries by average elevation">average</a></li>
+<li><a href="/wiki/List_of_countries_by_lowest_point" class="mw-redirect" title="List of countries by lowest point">lowest</a></li></ul></li>
+<li>Latitude
+<ul><li><a href="/wiki/List_of_countries_by_northernmost_point" title="List of countries by northernmost point">Northernmost</a></li>
+<li><a href="/wiki/List_of_countries_by_southernmost_point" title="List of countries by southernmost point">Southernmost</a></li></ul></li>
+<li>Longitude
+<ul><li><a href="/wiki/List_of_countries_by_easternmost_point" title="List of countries by easternmost point">Easternmost</a></li>
+<li><a href="/wiki/List_of_countries_by_westernmost_point" title="List of countries by westernmost point">Westernmost</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Perimeter</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_countries_by_length_of_coastline" title="List of countries by length of coastline">Coastline length</a></li>
+<li><a href="/wiki/List_of_countries_and_territories_by_land_borders" title="List of countries and territories by land borders">Land border length</a></li>
+<li>Number of bordering countries
+<ul><li><a href="/wiki/List_of_countries_and_territories_by_land_borders" title="List of countries and territories by land borders">land-only</a></li>
+<li><a href="/wiki/List_of_countries_and_territories_by_land_and_maritime_borders" title="List of countries and territories by land and maritime borders">land and maritime</a></li>
+<li><a href="/wiki/List_of_countries_and_territories_by_maritime_boundaries" title="List of countries and territories by maritime boundaries">maritime-only</a></li></ul></li>
+<li><a href="/wiki/List_of_countries_and_territories_by_border/area_ratio" title="List of countries and territories by border/area ratio">List of countries and territories by border/area ratio</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Freshwater
+<ul><li><a href="/wiki/List_of_countries_by_total_renewable_water_resources" title="List of countries by total renewable water resources">resources</a></li>
+<li><a href="/wiki/List_of_countries_by_freshwater_withdrawal" title="List of countries by freshwater withdrawal">withdrawal</a></li></ul></li>
+<li><a href="/wiki/List_of_time_zones_by_country" title="List of time zones by country">Time zones</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist" style="text-align:center">
+<ul><li><a href="/wiki/List_of_international_rankings" title="List of international rankings">List of international rankings</a></li>
+<li><a href="/wiki/List_of_top_international_rankings_by_country" title="List of top international rankings by country">List of top international rankings by country</a></li>
+<li><a href="/wiki/Lists_by_country" title="Lists by country">Lists by country</a></li></ul>
+</div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20190918222648
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.448 seconds
+Real time usage: 0.577 seconds
+Preprocessor visited node count: 4151/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41184/2097152 bytes
+Template argument size: 9287/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 45405/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 4.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  475.506      1 -total
+ 40.43%  192.251     16 Template:ISBN
+ 31.09%  147.820      1 Template:Reflist
+ 21.80%  103.680     16 Template:Catalog_lookup_link
+ 16.26%   77.308      1 Template:Dead_link
+ 13.24%   62.938      1 Template:Fix
+ 12.30%   58.492      2 Template:Category_handler
+  7.67%   36.461      3 Template:Main
+  7.26%   34.536     16 Template:Error-small
+  6.27%   29.814     16 Template:Small
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:29613061-0!canonical and timestamp 20190918222647 and revision id 898646928
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Maritime_boundary&amp;oldid=898646928">https://en.wikipedia.org/w/index.php?title=Maritime_boundary&amp;oldid=898646928</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Maritime_boundaries" title="Category:Maritime boundaries">Maritime boundaries</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_January_2018" title="Category:Articles with dead external links from January 2018">Articles with dead external links from January 2018</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Maritime+boundary" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Maritime+boundary" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Maritime_boundary" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Maritime_boundary" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Maritime_boundary">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Maritime_boundary&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Maritime_boundary&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Maritime_boundary" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Maritime_boundary" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Maritime_boundary&amp;oldid=898646928" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Maritime_boundary&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3089219" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Maritime_boundary&amp;id=898646928" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Maritime_borders" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Maritime+boundary">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Maritime+boundary&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Maritime_boundary&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D9%88%D8%AF_%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9" title="حدود بحرية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Frontera_mar%C3%ADtima" title="Frontera marítima – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Marlimo" title="Marlimo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%B2_%D8%A2%D8%A8%DB%8C" title="مرز آبی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Fronti%C3%A8re_maritime" title="Frontière maritime – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Maritiem_rechtsgebied" title="Maritiem rechtsgebied – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Fronteira_mar%C3%ADtima" title="Fronteira marítima – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Hangganang_pandagat" title="Hangganang pandagat – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B2%E0%AF%8D_%E0%AE%8E%E0%AE%B2%E0%AF%8D%E0%AE%B2%E0%AF%88" title="கடல் எல்லை – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3089219#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 May 2019, at 01:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Maritime_boundary&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.448","walltime":"0.577","ppvisitednodes":{"value":4151,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41184,"limit":2097152},"templateargumentsize":{"value":9287,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":45405,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  475.506      1 -total"," 40.43%  192.251     16 Template:ISBN"," 31.09%  147.820      1 Template:Reflist"," 21.80%  103.680     16 Template:Catalog_lookup_link"," 16.26%   77.308      1 Template:Dead_link"," 13.24%   62.938      1 Template:Fix"," 12.30%   58.492      2 Template:Category_handler","  7.67%   36.461      3 Template:Main","  7.26%   34.536     16 Template:Error-small","  6.27%   29.814     16 Template:Small"]},"scribunto":{"limitreport-timeusage":{"value":"0.110","limit":"10.000"},"limitreport-memusage":{"value":4324202,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20190918222648","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Maritime boundary","url":"https:\/\/en.wikipedia.org\/wiki\/Maritime_boundary","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3089219","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3089219","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-15T23:39:51Z","dateModified":"2019-05-25T01:07:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7d\/Zonmar-en.svg","headline":"boundary between marine zones over which countries have rights, or between such zones and international waters"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1243"});});</script>
+</body>
+</html>

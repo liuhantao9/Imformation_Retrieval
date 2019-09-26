@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Brigham and Women's Hospital - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brigham_and_Women's_Hospital","wgTitle":"Brigham and Women's Hospital","wgCurRevisionId":908635596,"wgRevisionId":908635596,"wgArticleId":1608724,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Pages using the Kartographer extension","Teaching hospitals in Massachusetts","Hospitals in Boston","Harvard Medical School","Hospitals established in 1980","Roxbury, Boston"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brigham_and_Women's_Hospital","wgRelevantArticleId":1608724,"wgRequestId":"XYpbMwpAME0AAKdVwzIAAADV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_1bc864739ac85dc3e4ba32de7f2cfeadbd8e1218":[{"type":"ExternalData","service":"geoshape","url":
+"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q2900977","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Brigham and Women\u0026#39;s Hospital","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q2900977","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Brigham and Women\u0026#39;s Hospital"}},{"type":"Feature","geometry":{"coordinates":[-71.1493,42.3261],"type":"Point"},"properties":{"marker-color":"#5E74F3","title":"Brigham and Women\u0026#39;s Hospital","marker-symbol":"hospital"}}]},"wgWikibaseItemId":"Q2900977","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":
+"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Brigham_and_Womens_Hospital_logo.svg/1200px-Brigham_and_Womens_Hospital_logo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brigham_and_Women%27s_Hospital"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brigham_and_Women%27s_Hospital"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brigham_and_Women_s_Hospital rootpage-Brigham_and_Women_s_Hospital skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Brigham and Women's Hospital</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Hospital in  Massachusetts, United States</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Brigham and Women's Hospital</th></tr><tr><td colspan="2" class="category" style="text-align:center"><a href="/wiki/Partners_HealthCare" title="Partners HealthCare">Partners HealthCare</a></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Brigham_and_Womens_Hospital_logo.svg" class="image"><img alt="Brigham and Womens Hospital logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Brigham_and_Womens_Hospital_logo.svg/150px-Brigham_and_Womens_Hospital_logo.svg.png" decoding="async" width="150" height="175" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/80/Brigham_and_Womens_Hospital_logo.svg/225px-Brigham_and_Womens_Hospital_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/80/Brigham_and_Womens_Hospital_logo.svg/300px-Brigham_and_Womens_Hospital_logo.svg.png 2x" data-file-width="144" data-file-height="168" /></a></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:75francis180.jpg" class="image"><img alt="75francis180.jpg" src="//upload.wikimedia.org/wikipedia/commons/5/52/75francis180.jpg" decoding="async" width="180" height="288" data-file-width="180" data-file-height="288" /></a></td></tr><tr><td colspan="2" style="text-align:center"><a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="10" data-overlays="[&quot;_1bc864739ac85dc3e4ba32de7f2cfeadbd8e1218&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,10,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Brigham+and+Women%27s+Hospital&amp;groups=_1bc864739ac85dc3e4ba32de7f2cfeadbd8e1218); width: 270px; height: 200px;" href="/wiki/Special:Map/10/a/a/en"></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Geography</th></tr><tr><th scope="row">Location</th><td>75 Francis Street<br />Boston, Massachusetts, United States</td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brigham_and_Women%27s_Hospital&amp;params=42.336152_N_71.106834_W_region:US-MA_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°20′10″N</span> <span class="longitude">71°06′25″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.336152°N 71.106834°W</span><span style="display:none">&#xfeff; / <span class="geo">42.336152; -71.106834</span></span></span></a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Organization</th></tr><tr><th scope="row"><a href="/wiki/Hospital#Types" title="Hospital">Hospital type</a></th><td class="category"><a href="/wiki/Teaching_hospital" title="Teaching hospital">Teaching</a></td></tr><tr><th scope="row"><a href="/wiki/University" title="University">Affiliated university</a></th><td><a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Services</th></tr><tr><th scope="row"><a href="/wiki/Emergency_department" title="Emergency department">Emergency department</a></th><td><a href="/wiki/Level_I_trauma_center" class="mw-redirect" title="Level I trauma center">Level I trauma center</a></td></tr><tr><th scope="row">Beds</th><td>793</td></tr><tr><th scope="row"><a href="/wiki/Helipad" title="Helipad">Helipad</a></th><td><a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">FAA</a> <a href="/wiki/Location_identifier" title="Location identifier">LID</a>: <b>MA39</b></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">History</th></tr><tr><th scope="row">Founded</th><td>1980</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Links</th></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://brighamandwomens.org">brighamandwomens<wbr />.org</a></span></td></tr><tr><th scope="row">Lists</th><td><a href="/wiki/List_of_hospitals_in_Massachusetts" title="List of hospitals in Massachusetts">Hospitals in Massachusetts</a></td></tr></tbody></table>
+<p><b>Brigham and Women's Hospital</b> (<b>BWH</b>, "<b>The Brigham</b>") is the second largest <a href="/wiki/Teaching_hospital" title="Teaching hospital">teaching hospital</a> of <a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a> and the largest hospital of the <a href="/wiki/Longwood_Medical_and_Academic_Area" title="Longwood Medical and Academic Area">Longwood Medical and Academic Area</a> in <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Massachusetts" title="Massachusetts">Massachusetts</a>. Along with <a href="/wiki/Massachusetts_General_Hospital" title="Massachusetts General Hospital">Massachusetts General Hospital</a>, it is one of the two founding members of <a href="/wiki/Partners_HealthCare" title="Partners HealthCare">Partners HealthCare</a>, the largest healthcare provider in Massachusetts. Brigham and Women's Hospital conducts the second largest hospital-based research program in the world, with an annual research budget of more than $630 million. Pioneering milestones at BWH include the world's first successful heart valve operation and the world's first solid organ transplant. <a href="/wiki/Elizabeth_Nabel" title="Elizabeth Nabel">Elizabeth Nabel</a> is the current President of Brigham and Women's Hospital. 
+</p><p>In 2019, Brigham and Women's ranked thirteenth in the annual <i><a href="/wiki/U.S._News_%26_World_Report" title="U.S. News &amp; World Report">U.S. News &amp; World Report</a></i> hospital rankings. Brigham was listed as the number two hospital in Massachusetts and <a href="/wiki/Greater_Boston" title="Greater Boston">Greater Boston</a>. The hospital ranked in eleven adult specialties.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Core_service_lines"><span class="tocnumber">1</span> <span class="toctext">Core service lines</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Quality_and_safety"><span class="tocnumber">2</span> <span class="toctext">Quality and safety</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Research"><span class="tocnumber">3</span> <span class="toctext">Research</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History"><span class="tocnumber">4</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Core_service_lines">Core service lines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=1" title="Edit section: Core service lines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Dana-Farber" class="mw-redirect" title="Dana-Farber">Dana-Farber</a>/Brigham and Women's Cancer Center: The center brings together a cancer institute and a hospital, creating 13 specialized disease centers.</li>
+<li>Carl J. and Ruth Shapiro Cardiovascular Center.</li>
+<li>Brigham and Women's Orthopedic and Arthritis Center: They specialize in research and therapies for bone and joint disease and injury.</li>
+<li>Brigham and Women's Neurosciences Institute: The BWH Neurosciences Institute offers treatments for all diseases of the nervous system. The institute integrates neurology, neurosurgery, psychiatry and neuroradiology, with advanced research and clinical trials.</li>
+<li>Mary Horrigan Connors Center for Women's Health: BWH specializes in high-risk obstetric care, newborn intensive care, infertility services, complex gynecologic surgery, and gender-specific care.<sup id="cite_ref-brighamandwomens_2-0" class="reference"><a href="#cite_note-brighamandwomens-2">&#91;2&#93;</a></sup></li>
+<li>Osher Center for Integrative Medicine including chiropractic care.</li></ul>
+<h2><span class="mw-headline" id="Quality_and_safety">Quality and safety</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=2" title="Edit section: Quality and safety">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the early 1990s, BWH pioneered Computerized Physician Order Entry (CPOE) to prevent medication errors. BWH has received patient safety awards for its electronic Medication Administration Record (eMAR) and bar-coding system, which places barcodes on patients' medications, name bands and nurses' badges. A nurse scans all three barcodes before administering a medication to ensure that each patient receives the correct medication and dosage at the correct time.<sup id="cite_ref-brighamandwomens_2-1" class="reference"><a href="#cite_note-brighamandwomens-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>The orthopedic surgery department focused on patients' satisfaction for those who received knee and hip replacements. Leaders in the department included John Wright, Mary Anne Kenyon, and Carolyn Beagan, but they gave little attention to holding costs down.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Research">Research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=3" title="Edit section: Research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 2013 the BWH Biomedical Research Institute (BRI) received $630 million in research support from all sources. For over a decade, it has been one of the two hospitals receiving the most National Institutes of Health (NIH) funding among independent hospitals in the United States.  It employs over 3,300 researchers.
+</p><p>BRI has worked on regenerative medicine, designing nanoparticles to attack different types of cancer, and starting a clinical trial for a type of Alzheimer’s disease vaccine. BWH research also includes population studies including the Nurses’ Health Study and Physicians’ Health Study.<sup id="cite_ref-brighamandwomens_2-2" class="reference"><a href="#cite_note-brighamandwomens-2">&#91;2&#93;</a></sup>
+</p><p>The 21st century has seen dramatic shifts in the diagnostic and therapeutic approach to lung carcinomas, beginning with the discovery of EGFR mutations and their role in directing management with targeted tyrosine kinase inhibitors. Since 2003 this has reshaped the approach at the molecular diagnostic testing center at the Brigham and Women's Hospital/Dana-Farber Cancer Institute.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In 2017, the hospital will host the first human clinical trials to reverse the ageing process using <a href="/wiki/NAD%2B" class="mw-redirect" title="NAD+">NAD+</a>. The trials will be headed by biologist <a href="/wiki/David_Andrew_Sinclair" title="David Andrew Sinclair">David Sinclair</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=4" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bwh-longwood.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bwh-longwood.jpg/220px-Bwh-longwood.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bwh-longwood.jpg/330px-Bwh-longwood.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bwh-longwood.jpg/440px-Bwh-longwood.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bwh-longwood.jpg" class="internal" title="Enlarge"></a></div>221 Longwood Avenue, formerly the Boston Lying-In Hospital building, part of Brigham and Women's Hospital but separate from the main building at 15-75 Francis Street; view from Longwood Avenue</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Free_Hospital_for_Women.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Hospital_for_Women.jpg/220px-Free_Hospital_for_Women.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Hospital_for_Women.jpg/330px-Free_Hospital_for_Women.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Free_Hospital_for_Women.jpg/440px-Free_Hospital_for_Women.jpg 2x" data-file-width="1280" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Free_Hospital_for_Women.jpg" class="internal" title="Enlarge"></a></div>Former site of the Free Hospital for Women across the street from <a href="/wiki/Olmsted_Park" title="Olmsted Park">Olmsted Park</a>. This institution was absorbed into Brigham and Women's Hospital.</div></div></div>
+<p>Brigham and Women's represents the 1980 merger of three Harvard-affiliated Boston hospitals:
+</p>
+<ul><li><b><a href="/wiki/Peter_Bent_Brigham" title="Peter Bent Brigham">Peter Bent Brigham</a> Hospital</b> established in 1913</li>
+<li><b><a href="/wiki/Peter_Bent_Brigham#Legacy_and_endowments" title="Peter Bent Brigham">Robert Breck Brigham</a> Hospital</b> established in 1914</li>
+<li><b>Boston Hospital for Women</b> established in 1966 as a merger of:
+<ul><li>Boston Lying-In Hospital established in 1832 as one of America’s first maternity hospitals</li>
+<li>Free Hospital for Women established in 1875</li></ul></li></ul>
+<p>In 1954, the Peter Bent Brigham hospital became the location for the first ever successful kidney transplant, performed by <a href="/wiki/Joseph_Murray" title="Joseph Murray">Joseph Murray</a>, on <a href="/wiki/Richard_Herrick" title="Richard Herrick">Richard Herrick</a>.
+</p><p>After a 10-year affiliation with <a href="/wiki/Faulkner_Hospital" class="mw-redirect" title="Faulkner Hospital">Faulkner Hospital</a> in the <a href="/wiki/Jamaica_Plain" title="Jamaica Plain">Jamaica Plain</a> section of Boston, BWH merged with the community hospital in 2012 to form Brigham and Women’s Faulkner Hospital.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In April 2017, Brigham and Women’s announced they would be offering <a href="/wiki/Buyout" title="Buyout">voluntary buyouts</a> to 1,600 staff in an effort to control costs.  The hospital is currently profitable, but this move was due to higher labor and other costs, while payments from <a href="/wiki/Health_insurance_in_the_United_States" title="Health insurance in the United States">insurance companies</a> are projected to have little to no increase. The hospital also needs to pay for two large projects, a $550 million new outpatient and research building that opened last year and a $335 million new software system that launched in 2015.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Also in April 2017, the <a href="/wiki/United_States_District_Court_for_the_District_of_Massachusetts" title="United States District Court for the District of Massachusetts">United States District Court for the District of Massachusetts</a> announced that Brigham and Women’s Hospital and their non-profit hospital and physicians network, Partners HealthCare, agreed to pay a $10 million fine to resolve allegations that a <a href="/wiki/Stem_cell" title="Stem cell">stem cell</a> research lab fraudulently obtained <a href="/wiki/Federal_grants_in_the_United_States" title="Federal grants in the United States">federal grant funding</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://health.usnews.com/best-hospitals/area/ma/brigham-and-womens-hospital-6140215">"Brigham and Women's Hospital"</a>. <i><a href="/wiki/U.S._News_%26_World_Report" title="U.S. News &amp; World Report">U.S. News &amp; World Report</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-07-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=U.S.+News+%26+World+Report&amp;rft.atitle=Brigham+and+Women%27s+Hospital&amp;rft_id=http%3A%2F%2Fhealth.usnews.com%2Fbest-hospitals%2Farea%2Fma%2Fbrigham-and-womens-hospital-6140215&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-brighamandwomens-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-brighamandwomens_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-brighamandwomens_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-brighamandwomens_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brighamandwomens.org">"Boston Hospital &amp; Medical Center - Brigham and Women's Hospital"</a>. <i>www.brighamandwomens.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.brighamandwomens.org&amp;rft.atitle=Boston+Hospital+%26+Medical+Center+-+Brigham+and+Women%27s+Hospital&amp;rft_id=http%3A%2F%2Fwww.brighamandwomens.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Thomas W. Cooley, et al. "Implementation of computerized prescriber order entry in four academic medical centers," <i>American Journal of Health-System Pharmacy</i> (12/15/2012) 69#24 pp 2166-2173</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"Patients Come First at Brigham and Women's Department of Orthopedic Surgery," <i>Journal of Bone and Joint Surgery, American Volume</i> (March 2013) Special Report, Jeffrey Shyu, p17-23.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Neal Lindeman, "Molecular Diagnostics of Lung Cancers at the Brigham and Women's Hospital and Dana-Farber Cancer Institute: Technology in Rapid Evolution," <i>Archives of Pathology &amp; Laboratory Medicine</i> (Oct 2012) 136#10 pp 1198-1200</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.sciencedaily.com/releases/2017/03/170323141340.htm">"Scientists unveil a giant leap for anti-aging"</a>. <i>sciencedaily.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sciencedaily.com&amp;rft.atitle=Scientists+unveil+a+giant+leap+for+anti-aging&amp;rft_id=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2017%2F03%2F170323141340.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Massachusetts Health Policy Commission (18 December 2013). <a rel="nofollow" class="external text" href="http://www.mass.gov/anf/docs/hpc/hpc-preliminary-review-of-phs-ssh-harbor-12-18-2013.pdf">"Preliminary Review of PHS Proposed Acquisition"</a> <span class="cs1-format">(pdf)</span>. <i>mass.gov</i>. pp.&#160;1, 5<span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=mass.gov&amp;rft.atitle=Preliminary+Review+of+PHS+Proposed+Acquisition&amp;rft.pages=1%2C+5&amp;rft.date=2013-12-18&amp;rft.au=Massachusetts+Health+Policy+Commission&amp;rft_id=http%3A%2F%2Fwww.mass.gov%2Fanf%2Fdocs%2Fhpc%2Fhpc-preliminary-review-of-phs-ssh-harbor-12-18-2013.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">McCluskey, Priyanka Dayal (2017-04-27). <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/business/2017/04/27/brigham-hospital-offers-voluntary-buyouts-workers/ziDBNctyyioYrRL0GJ2t0J/story.html">"Brigham and Women's offers buyouts to 1,600 workers"</a>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Brigham+and+Women%E2%80%99s+offers+buyouts+to+1%2C600+workers&amp;rft.date=2017-04-27&amp;rft.aulast=McCluskey&amp;rft.aufirst=Priyanka+Dayal&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fbusiness%2F2017%2F04%2F27%2Fbrigham-hospital-offers-voluntary-buyouts-workers%2FziDBNctyyioYrRL0GJ2t0J%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Finucane, Martin (2017-04-27). <a rel="nofollow" class="external text" href="https://www.bostonglobe.com/metro/2017/04/27/million-settlement-announced-brigham-and-women-research-fraud-case/Tml7mJl1isJhUwSOZIyNlO/story.html">"Partners, Brigham and Women's to pay $10m in research fraud case"</a>. <i><a href="/wiki/The_Boston_Globe" title="The Boston Globe">The Boston Globe</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-04-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Boston+Globe&amp;rft.atitle=Partners%2C+Brigham+and+Women%E2%80%99s+to+pay+%2410m+in+research+fraud+case&amp;rft.date=2017-04-27&amp;rft.aulast=Finucane&amp;rft.aufirst=Martin&amp;rft_id=https%3A%2F%2Fwww.bostonglobe.com%2Fmetro%2F2017%2F04%2F27%2Fmillion-settlement-announced-brigham-and-women-research-fraud-case%2FTml7mJl1isJhUwSOZIyNlO%2Fstory.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrigham+and+Women%27s+Hospital" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.brighamandwomens.org/">Official Brigham and Women's Hospital website</a></li>
+<li><a rel="nofollow" class="external text" href="http://id.lib.harvard.edu/ead/med00080/catalog">Boston Hospital for Women Records, 1926–1983 (inclusive), 1966–1979 (bulk). BWH c5. Harvard Medical Library, Francis A. Countway Library of Medicine, Boston, Mass.</a></li>
+<li><a rel="nofollow" class="external text" href="http://id.lib.harvard.edu/ead/med00034/catalog">Brigham and Women’s Hospital records, 1913– (inclusive), 1980–2000 (bulk). BWH c1. Harvard Medical Library, Francis A. Countway Library of Medicine, Boston, Mass.</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1265
+Cached time: 20190914020044
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.324 seconds
+Real time usage: 0.424 seconds
+Preprocessor visited node count: 1451/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24916/2097152 bytes
+Template argument size: 3451/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 20179/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.188/10.000 seconds
+Lua memory usage: 4.06 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.269      1 -total
+ 62.28%  232.473      1 Template:Infobox_hospital
+ 39.52%  147.528      1 Template:Infobox
+ 35.42%  132.194      1 Template:Reflist
+ 25.47%   95.081      4 Template:Cite_web
+ 11.69%   43.645      2 Template:If_declined
+ 10.65%   39.769      1 Template:Infobox_mapframe
+  8.60%   32.085      2 Template:Infobox_hospital/lists
+  6.86%   25.625      8 Template:Delink
+  5.84%   21.807      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1608724-0!canonical and timestamp 20190914020044 and revision id 908635596
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;oldid=908635596">https://en.wikipedia.org/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;oldid=908635596</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Teaching_hospitals_in_Massachusetts" title="Category:Teaching hospitals in Massachusetts">Teaching hospitals in Massachusetts</a></li><li><a href="/wiki/Category:Hospitals_in_Boston" title="Category:Hospitals in Boston">Hospitals in Boston</a></li><li><a href="/wiki/Category:Harvard_Medical_School" title="Category:Harvard Medical School">Harvard Medical School</a></li><li><a href="/wiki/Category:Hospitals_established_in_1980" title="Category:Hospitals established in 1980">Hospitals established in 1980</a></li><li><a href="/wiki/Category:Roxbury,_Boston" title="Category:Roxbury, Boston">Roxbury, Boston</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brigham+and+Women%27s+Hospital" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brigham+and+Women%27s+Hospital" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brigham_and_Women%27s_Hospital" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Brigham_and_Women%27s_Hospital" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Brigham_and_Women%27s_Hospital">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brigham_and_Women%27s_Hospital" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brigham_and_Women%27s_Hospital" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;oldid=908635596" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2900977" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brigham_and_Women%27s_Hospital&amp;id=908635596" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brigham_and_Women%27s_Hospital" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brigham+and+Women%27s+Hospital">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brigham+and+Women%27s+Hospital&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Brigham_and_Women%E2%80%99s_Hospital" title="Brigham and Women’s Hospital – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%97%D7%95%D7%9C%D7%99%D7%9D_%D7%91%D7%A8%D7%99%D7%92%D7%94%D7%9D_%D7%90%D7%A0%D7%93_%D7%95%D7%99%D7%9E%D7%A0%D7%A1" title="בית חולים בריגהם אנד וימנס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Brigham_and_Women%27s_Hospital" title="Brigham and Women&#039;s Hospital – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E8%8E%B1%E6%A0%B9%E5%A6%87%E5%A5%B3%E5%8C%BB%E9%99%A2" title="布莱根妇女医院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2900977#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 31 July 2019, at 00:12<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brigham_and_Women%27s_Hospital&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.424","ppvisitednodes":{"value":1451,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24916,"limit":2097152},"templateargumentsize":{"value":3451,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20179,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  373.269      1 -total"," 62.28%  232.473      1 Template:Infobox_hospital"," 39.52%  147.528      1 Template:Infobox"," 35.42%  132.194      1 Template:Reflist"," 25.47%   95.081      4 Template:Cite_web"," 11.69%   43.645      2 Template:If_declined"," 10.65%   39.769      1 Template:Infobox_mapframe","  8.60%   32.085      2 Template:Infobox_hospital/lists","  6.86%   25.625      8 Template:Delink","  5.84%   21.807      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.188","limit":"10.000"},"limitreport-memusage":{"value":4254418,"limit":52428800}},"cachereport":{"origin":"mw1265","timestamp":"20190914020044","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brigham and Women's Hospital","url":"https:\/\/en.wikipedia.org\/wiki\/Brigham_and_Women%27s_Hospital","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2900977","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2900977","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-15T06:39:15Z","dateModified":"2019-07-31T00:12:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/80\/Brigham_and_Womens_Hospital_logo.svg","headline":"hospital in Boston, Massachusetts, United States"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1242"});});</script>
+</body>
+</html>

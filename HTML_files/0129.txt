@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Arawak language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Arawak_language","wgTitle":"Arawak language","wgCurRevisionId":915260709,"wgRevisionId":915260709,"wgArticleId":637993,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 18","Webarchive template wayback links","CS1: long volume value","Language articles with old Ethnologue 18 speaker data","Languages with ISO 639-2 code","CS1 errors: missing periodical","Wikipedia articles with NDL identifiers","Arawakan languages","Indigenous languages of the South American Northeast","Languages of Guyana","Languages of Suriname","Languages of French Guiana","Languages of Venezuela"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":
+"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arawak_language","wgRelevantArticleId":637993,"wgRequestId":"XYoxcwpAMEsAAGG@UNYAAABR","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2655664","wgCentralAuthMobileDomain":
+!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arawak_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arawak_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arawak_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arawak_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Arawak_language rootpage-Arawak_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Arawak language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color:  #c0dde6;">Arawak</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color:  #c0dde6;">Lokono</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>, <a href="/wiki/Guyana" title="Guyana">Guyana</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Region</th><td style="line-height:1.35em;"><a href="/wiki/Guianas" class="mw-redirect" title="Guianas">Guianas</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Lokono" title="Lokono">Lokono</a> (Arawak)</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">(2,510 cited 1990–2011)<sup id="cite_ref-e18_1-0" class="reference"><a href="#cite_note-e18-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/Arawakan" class="mw-redirect" title="Arawakan">Arawakan</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+Northern<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><a href="/wiki/Ta-Arawakan" class="mw-redirect" title="Ta-Arawakan">Ta-Arawakan</a><ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Arawak</b></li></ul></li></ul></li></ul></div></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Writing_system" title="Writing system">Writing system</a></span></div></th><td style="line-height:1.35em;"><a href="/wiki/Latin_script" title="Latin script">Latin script</a></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color:  #c0dde6;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-2" title="ISO 639-2">ISO 639-2</a></span></th><td style="line-height:1.35em;"><code><span class="plainlinks"><a rel="nofollow" class="external text" href="https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?code_ID=30">arw</a></span></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;"><code><a href="https://iso639-3.sil.org/code/arw" class="extiw" title="iso639-3:arw">arw</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/araw1276">araw1276</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
+<p><b>Arawak</b> (Arowak/Aruák), also known as <b>Lokono</b> (<b>Lokono Dian</b>, literally 'people's talk' by its speakers), is an <a href="/wiki/Arawakan_language" class="mw-redirect" title="Arawakan language">Arawakan language</a> spoken by the <a href="/wiki/Lokono" title="Lokono">Lokono</a> (Arawak) people of <a href="/wiki/South_America" title="South America">South America</a> in eastern <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>, <a href="/wiki/Guyana" title="Guyana">Guyana</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a>, and <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> It is the eponymous language of the Arawakan language family.
+</p><p>Lokono has an <a href="/wiki/Active%E2%80%93stative" class="mw-redirect" title="Active–stative">active–stative</a> syntax.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Classification"><span class="tocnumber">2</span> <span class="toctext">Classification</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Etymology"><span class="tocnumber">2.1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Alternative_Names"><span class="tocnumber">2.2</span> <span class="toctext">Alternative Names</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Geographic_Distribution"><span class="tocnumber">3</span> <span class="toctext">Geographic Distribution</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Phonology"><span class="tocnumber">4</span> <span class="toctext">Phonology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Consonants"><span class="tocnumber">4.1</span> <span class="toctext">Consonants</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Vowels"><span class="tocnumber">4.2</span> <span class="toctext">Vowels</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Grammar"><span class="tocnumber">5</span> <span class="toctext">Grammar</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Cross-Refrencing_Affixes"><span class="tocnumber">5.1</span> <span class="toctext">Cross-Refrencing Affixes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Vocabulary"><span class="tocnumber">6</span> <span class="toctext">Vocabulary</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Gender"><span class="tocnumber">6.1</span> <span class="toctext">Gender</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Number"><span class="tocnumber">6.2</span> <span class="toctext">Number</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Possession"><span class="tocnumber">6.3</span> <span class="toctext">Possession</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Negation"><span class="tocnumber">6.4</span> <span class="toctext">Negation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Writing_System"><span class="tocnumber">7</span> <span class="toctext">Writing System</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Examples[21]"><span class="tocnumber">8</span> <span class="toctext">Examples<sup>&#91;21&#93;</sup></span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lokono is a critically endangered language.<sup id="cite_ref-:02_5-0" class="reference"><a href="#cite_note-:02-5">&#91;5&#93;</a></sup> The Lokono language is most commonly spoken in South America. Some specific countries where this language is spoken include Guyana, Suriname, French Guiana, and Venezuela.<sup id="cite_ref-:1_6-0" class="reference"><a href="#cite_note-:1-6">&#91;6&#93;</a></sup> The percentage of living fluent speakers with active knowledge of the language is estimated to be 5% of the ethnic population.<sup id="cite_ref-:2_7-0" class="reference"><a href="#cite_note-:2-7">&#91;7&#93;</a></sup> There are small communities of semi-speakers who have varying degrees of comprehension and fluency in Lokono that keep the language alive..<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> It is estimated that there are around 2,500 remaining speakers (including fluent and semi-fluent speakers).<sup id="cite_ref-:4_9-0" class="reference"><a href="#cite_note-:4-9">&#91;9&#93;</a></sup> The decline in the use of Lokono as a language of communication is due to its lack of transmission from older speakers to the next generation. The language is not being passed to young children, as they are taught to speak the official languages of their countries. The oldest generation of speakers are around the age of 70 years of age of older.<sup id="cite_ref-:02_5-1" class="reference"><a href="#cite_note-:02-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Classification">Classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=2" title="Edit section: Classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Lokono language is part of the larger Arawakan language family spoken by indigenous people in South and Central America along with the Caribbean.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> It spans four countries of Central America — Belize, Honduras, Guatemala, Nicaragua — and eight of South America — Bolivia, Guyana, French Guiana, Surinam, Venezuela, Colombia, Peru, Brazil (and also formerly Argentina and Paraguay). With about 40 extant languages, it is the largest language family in Latin America.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=3" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Arawak</i> is a tribal name in reference to the main crop food, the cassava root. It is commonly known as <i>Manioc.</i> The cassava root is a popular staple to millions in South America, Asia and Africa.<sup id="cite_ref-:8_12-0" class="reference"><a href="#cite_note-:8-12">&#91;12&#93;</a></sup> It is a woody shrub grown in tropical or subtropical regions. The speakers of the Arawak language also identify themselves as, <i>Lokono</i>, which translates to "the people" . The Arawak language within itself is known as, <i>Lokono Dian</i>, "the people's speech".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Alternative_Names">Alternative Names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=4" title="Edit section: Alternative Names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Alternative names of the same language include Arawák, Arahuaco, Aruak, Arowak, Arawac, Araguaco, Aruaqui, Arwuak, Arrowukas, Arahuacos, Locono, and Luccumi.<sup id="cite_ref-:102_14-0" class="reference"><a href="#cite_note-:102-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geographic_Distribution">Geographic Distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=5" title="Edit section: Geographic Distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lokono is an Arawakan language most commonly found to be spoken in eastern Venezuela, Guyana, Suriname and French Guiana. It was also formerly spoken on Caribbean islands such as Barbados and other neighboring countries. There are approximately 2,500 native speakers today. The following are regions where Arawak has been found spoken by native speakers.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<ul><li class="mw-empty-elt"></li>
+<li class="mw-empty-elt"></li></ul>
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=6" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Consonants">Consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=7" title="Edit section: Consonants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><sup id="cite_ref-:11_16-0" class="reference"><a href="#cite_note-:11-16">&#91;16&#93;</a></sup>
+</p>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th colspan="2">
+</th>
+<th><a href="/wiki/Bilabial_consonant" title="Bilabial consonant">Bilabial</a>
+</th>
+<th><a href="/wiki/Alveolar_consonant" title="Alveolar consonant">Alveolar</a>
+</th>
+<th><a href="/wiki/Retroflex_consonant" title="Retroflex consonant">Retroflex</a>
+</th>
+<th><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
+</th>
+<th><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a>
+</th>
+<th><a href="/wiki/Glottal_consonant" title="Glottal consonant">Glottal</a>
+</th></tr>
+<tr>
+<th rowspan="3"><a href="/wiki/Stop_consonant" title="Stop consonant">Stop</a>
+</th>
+<th><small>voiceless</small>
+</th>
+<td>
+</td>
+<td>t
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>k
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Aspirated_consonant" title="Aspirated consonant"><small>aspirated</small></a>
+</th>
+<td>
+</td>
+<td>tʰ
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>kʰ
+</td>
+<td>
+</td></tr>
+<tr>
+<th><a href="/wiki/Voice_(phonetics)" title="Voice (phonetics)"><small>voiced</small></a>
+</th>
+<td>b
+</td>
+<td>d
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Fricative_consonant" title="Fricative consonant">Fricative</a>
+</th>
+<td>ɸ
+</td>
+<td>s
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>h
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Nasal_consonant" title="Nasal consonant">Nasal</a>
+</th>
+<td>m
+</td>
+<td>n
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Approximant_consonant" title="Approximant consonant">Approximant</a>
+</th>
+<td>w
+</td>
+<td>l
+</td>
+<td>
+</td>
+<td>j
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Trill_consonant" title="Trill consonant">Trill</a>
+</th>
+<td>
+</td>
+<td>r
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Flap_consonant" class="mw-redirect" title="Flap consonant">Flap</a>
+</th>
+<td>
+</td>
+<td>
+</td>
+<td>ɽ
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<p>William Pet observes an additional /p/ in loanwords.<sup id="cite_ref-:0_17-0" class="reference"><a href="#cite_note-:0-17">&#91;17&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Character Used
+</th>
+<th>Additional Usage
+</th>
+<th>IPA symbol
+</th>
+<th>Arawak Pronunciation
+</th></tr>
+<tr>
+<td>b
+</td>
+<td>
+</td>
+<td>b
+</td>
+<td>Like <i>b</i> in <i>boy</i>.
+</td></tr>
+<tr>
+<td>ch
+</td>
+<td>č
+</td>
+<td>t͡ʃ
+</td>
+<td>Like <i>ch</i> in <i>chair</i>.
+</td></tr>
+<tr>
+<td>d
+</td>
+<td>
+</td>
+<td>d ~ d͡ʒ
+</td>
+<td>Like <i>d</i> in <i>day</i>. Before <i>i</i> the Arawak pronunciation sounds like the <i>j</i> in <i>jeep</i>.
+</td></tr>
+<tr>
+<td>f
+</td>
+<td>
+</td>
+<td>Φ
+</td>
+<td>This sound does not exist in English. It is pronounced by narrowing your lips and blowing through them, as if you were playing a flute.
+</td></tr>
+<tr>
+<td>h
+</td>
+<td>
+</td>
+<td>h
+</td>
+<td>Like <i>h</i> in <i>hay.</i>
+</td></tr>
+<tr>
+<td>j
+</td>
+<td>y
+</td>
+<td>j
+</td>
+<td>Like <i>y</i> in <i>yes</i>).
+</td></tr>
+<tr>
+<td>k
+</td>
+<td>c, qu
+</td>
+<td>k
+</td>
+<td>Like the soft <i>k</i> sound in English <i>ski</i>.
+</td></tr>
+<tr>
+<td>kh
+</td>
+<td>c, qu, k
+</td>
+<td>k<sup>h</sup>
+</td>
+<td>Like the hard <i>k</i> sound in English <i>key</i>.
+</td></tr>
+<tr>
+<td>l
+</td>
+<td>
+</td>
+<td>l
+</td>
+<td>Like <i>l</i> in <i>light</i>.
+</td></tr>
+<tr>
+<td>lh
+</td>
+<td>r,r
+</td>
+<td>ɽ
+</td>
+<td>No exact equivalent in American English. This is a retroflex r, pronounced with the tongue touching the back of the palate. It is found in Indian-English. Some American English speakers also pronounce this sound in the middle of the word "hurting."
+</td></tr>
+<tr>
+<td>m
+</td>
+<td>
+</td>
+<td>m
+</td>
+<td>Like <i>m</i> in <i>moon</i>.
+</td></tr>
+<tr>
+<td>n
+</td>
+<td>
+</td>
+<td>n
+</td>
+<td>Like <i>n</i> in <i>night</i>.
+</td></tr>
+<tr>
+<td>p
+</td>
+<td>
+</td>
+<td>p
+</td>
+<td>Like the soft <i>p</i> in <i>spin</i>.
+</td></tr>
+<tr>
+<td>,
+</td>
+<td>
+</td>
+<td>ɾ
+</td>
+<td>Like the <i>r</i> in Spanish <i>pero</i>, somewhat like the <i>tt</i> in American English <i>butter</i>.
+</td></tr>
+<tr>
+<td>s
+</td>
+<td>z, c
+</td>
+<td>s
+</td>
+<td>Like the <i>s</i> in <i>sun</i>.
+</td></tr>
+<tr>
+<td>t
+</td>
+<td>
+</td>
+<td>t ~ t͡ʃ
+</td>
+<td>Like the soft <i>t</i> in <i>star</i>. Before <i>i</i> the Arawak pronunciation sounds like the <i>ch</i> in <i>cheek</i>.
+</td></tr>
+<tr>
+<td>th
+</td>
+<td>t
+</td>
+<td>t<sup>h</sup> ~ t͡ʃʰ
+</td>
+<td>Like the hard <i>t</i> in <i>tar</i>. Before <i>i</i> the Arawak pronunciation sounds like the <i>ch</i> in <i>cheek</i>.
+</td></tr>
+<tr>
+<td>w
+</td>
+<td>hu
+</td>
+<td>w
+</td>
+<td>Like <i>w</i> in <i>way</i>.
+</td></tr>
+<tr>
+<td>'
+</td>
+<td>
+</td>
+<td>ʔ
+</td>
+<td>A pause sound, like the one in the middle of the word "uh-oh."
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Vowels">Vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=8" title="Edit section: Vowels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align: center;">
+<tbody><tr>
+<th>
+</th>
+<th>Front
+</th>
+<th>Central
+</th>
+<th>Back
+</th></tr>
+<tr>
+<th>Close
+</th>
+<td>i
+</td>
+<td>ɨ
+</td>
+<td>
+</td></tr>
+<tr>
+<th>Mid
+</th>
+<td>e
+</td>
+<td>
+</td>
+<td>o
+</td></tr>
+<tr>
+<th>Open
+</th>
+<td>
+</td>
+<td>a
+</td>
+<td>
+</td></tr></tbody></table>
+<p>Pet notes that phonetic realization of /o/ varies between [o] and [u].<sup id="cite_ref-:0_17-1" class="reference"><a href="#cite_note-:0-17">&#91;17&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Character Used
+</th>
+<th>Additional Usage
+</th>
+<th>IPA Symbol
+</th>
+<th>Arawak Pronunciation
+</th></tr>
+<tr>
+<td>a
+</td>
+<td>
+</td>
+<td>a
+</td>
+<td>Like the <i>a</i> in <i>father</i>.
+</td></tr>
+<tr>
+<td>aa
+</td>
+<td>a·
+</td>
+<td>aː
+</td>
+<td>Like <i>a</i> only held longer.
+</td></tr>
+<tr>
+<td>e
+</td>
+<td>
+</td>
+<td>e
+</td>
+<td>Like the <i>e</i> sound in Spanish, similar to the <i>a</i> in <i>gate</i>.
+</td></tr>
+<tr>
+<td>ee
+</td>
+<td>e·, e:
+</td>
+<td>eː
+</td>
+<td>Like <i>e</i> only held longer.
+</td></tr>
+<tr>
+<td>i
+</td>
+<td>
+</td>
+<td>i
+</td>
+<td>Like the <i>i</i> in <i>police</i>.
+</td></tr>
+<tr>
+<td>ii
+</td>
+<td>i·, i:
+</td>
+<td>iː
+</td>
+<td>Like <i>i</i> only held longer.
+</td></tr>
+<tr>
+<td>o
+</td>
+<td>
+</td>
+<td>o ~ u
+</td>
+<td>Like <i>o</i> in <i>note</i> or <i>u</i> in <i>flute</i>.
+</td></tr>
+<tr>
+<td>oo
+</td>
+<td>o·, o:
+</td>
+<td>oː
+</td>
+<td>Like <i>o</i> only held longer.
+</td></tr>
+<tr>
+<td>y
+</td>
+<td>u, <s>i</s>
+</td>
+<td>ɨ
+</td>
+<td>Like the <i>u</i> in <i>upon</i>, only pronounced higher in the mouth.
+</td></tr>
+<tr>
+<td>yy
+</td>
+<td>y:, uu, <s>ii</s>
+</td>
+<td>ɨː
+</td>
+<td>Like <i>y</i> only held longer.
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Grammar">Grammar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=9" title="Edit section: Grammar">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Personal_pronouns" class="mw-redirect" title="Personal pronouns">personal pronouns</a> are shown below. The forms on the left are free forms, which can stand alone. The forms on the right are bound forms (<a href="/wiki/Prefixes" class="mw-redirect" title="Prefixes">prefixes</a>), which must be attached to the front of a <a href="/wiki/Verb" title="Verb">verb</a>, a <a href="/wiki/Noun" title="Noun">noun</a>, or a <a href="/wiki/Postposition" class="mw-redirect" title="Postposition">postposition</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>
+</th>
+<th>singular
+</th>
+<th>plural
+</th></tr>
+<tr>
+<th>1st person
+</th>
+<td><i>de, da-</i>
+</td>
+<td><i>we, wa-</i>
+</td></tr>
+<tr>
+<th>2nd person
+</th>
+<td><i>bi, by-</i>
+</td>
+<td><i>hi, hy-</i>
+</td></tr>
+<tr>
+<th>3rd person
+</th>
+<td><i>li, ly-</i> (he)
+<p><i>tho, thy-</i> (she)
+</p>
+</td>
+<td><i>ne, na-</i>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Cross-Refrencing_Affixes">Cross-Refrencing Affixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=10" title="Edit section: Cross-Refrencing Affixes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>All verbs are sectioned into transitive, active transitive and stative intransitive.<sup id="cite_ref-:11_16-1" class="reference"><a href="#cite_note-:11-16">&#91;16&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Prefixes( A/Sa) and Suffixes(O/So) of Cross-Reference Affixes
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th>
+<th>
+</th></tr>
+<tr>
+<td>
+</td>
+<td colspan="2"><b>prefixes</b>
+</td>
+<td colspan="2"><b>suffixes</b>
+</td></tr>
+<tr>
+<td>Person
+</td>
+<td><u>sg</u>
+</td>
+<td><u>pl</u>
+</td>
+<td><u>sg</u>
+</td>
+<td><u>pl</u>
+</td></tr>
+<tr>
+<td>1
+</td>
+<td><i>nu- or ta-</i>
+</td>
+<td><i>wa-</i>
+</td>
+<td><i>-na, -te</i>
+</td>
+<td><i>-wa</i>
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><i>(p)i-</i>
+</td>
+<td><i>(h)i-</i>
+</td>
+<td><i>-pi</i>
+</td>
+<td><i>-hi</i>
+</td></tr>
+<tr>
+<td>3(non formal)
+</td>
+<td><i>ri-, i</i>
+</td>
+<td><i>na-</i>
+</td>
+<td><i>ri, -i</i>
+</td>
+<td><i>-na</i>
+</td></tr>
+<tr>
+<td>3(formal)
+</td>
+<td><i>thu-, ru-</i>
+</td>
+<td><i>na-</i>
+</td>
+<td><i>-thu,-ru, -u</i>
+</td>
+<td><i>-na</i>
+</td></tr>
+<tr>
+<td>'impersonal'
+</td>
+<td><i>pa-</i>
+</td>
+<td><i>-</i>
+</td>
+<td><i>-</i>
+</td>
+<td><i>-</i>
+</td></tr></tbody></table>
+<p><i>A= Sa=cross referencing prefix</i>
+</p><p><i>O=So= cross referencing suffix</i>
+</p>
+<h2><span class="mw-headline" id="Vocabulary">Vocabulary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=11" title="Edit section: Vocabulary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Gender">Gender</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=12" title="Edit section: Gender">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the Arawak language there are two distinct genders of masculine and feminine. They are used in cross referencing affixes, in demonstratives, in nominalization and in personal pronouns. Typical pronominal genders for example are feminine and non-feminine. The markers go back to Arawak third person singular cross referencing&#160;: feminine <i>-(r)u,</i> masculine <i>-(r)i</i><sup id="cite_ref-:102_14-1" class="reference"><a href="#cite_note-:102-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Number">Number</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=13" title="Edit section: Number">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Arawak Languages do distinguish singular and plural, however plural is optional unless the referent is a person. Markers used are <i>*-na/-ni</i> (animate/human plural) and <i>*-pe</i> (inanimate/animate non-human plural)<sup id="cite_ref-:102_14-2" class="reference"><a href="#cite_note-:102-14">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Possession">Possession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=14" title="Edit section: Possession">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Arawak nouns are fragmented into inalienably and alienably possessed. Inalienably crossed nouns include things such as body parts, terms for kinship and common nouns like food selections. Deverbal nominalization belong to that grouping. Both forms of possession  are marked with prefixes (A/Sa) . Inalienably possessed nouns have what is known as an "unpossessed" form (also known as 'absolute') marked with the suffix <i>*-tfi or *-hV.</i> Alienably possessed nouns take one of the suffixes <i>*-ne/ni, *-te, *-re, *i/e, or *-na.</i> All suffixes used as nominalizers.<sup id="cite_ref-:12_19-0" class="reference"><a href="#cite_note-:12-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Negation">Negation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=15" title="Edit section: Negation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Arawak languages have a negative prefix <i>ma-</i> and attributive-relative prefix <i>ka-.</i> An example of the use is <i>ka-witi-w</i> (a woman with good eyes) and <i>ma-witti-w (a woman with bad eyes aka. blind) .</i>
+</p>
+<h2><span class="mw-headline" id="Writing_System">Writing System</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=16" title="Edit section: Writing System">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Arawak language system has an alphabetical system similar to the Roman Alphabet with some minor changes and new additions to letters. The letters in brackets under each alphabetical letter is the IPA symbol for each letter.<sup id="cite_ref-:13_20-0" class="reference"><a href="#cite_note-:13-20">&#91;20&#93;</a></sup>
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:580px;"><a href="/wiki/File:Arawak_Language_Alphabet-_project_2017.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/b/bf/Arawak_Language_Alphabet-_project_2017.png" decoding="async" width="578" height="239" class="thumbimage" data-file-width="578" data-file-height="239" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arawak_Language_Alphabet-_project_2017.png" class="internal" title="Enlarge"></a></div>Writing System &amp; Language of Arawak(Lokono) Language</div></div></div></div>
+<h2><span id="Examples.5B21.5D"></span><span class="mw-headline" id="Examples[21]">Examples<sup id="cite_ref-:14_21-0" class="reference"><a href="#cite_note-:14-21">&#91;21&#93;</a></sup></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=17" title="Edit section: Examples[21]">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th>English
+</th>
+<th>Eastern Arawak (French Guiana)
+</th>
+<th>Western Arawak (Venezuela, Guyana, and Suriname)
+</th></tr>
+<tr>
+<td>One
+</td>
+<td>Ábą
+</td>
+<td>Aba
+</td></tr>
+<tr>
+<td>Two
+</td>
+<td>Bian
+</td>
+<td>Biama
+</td></tr>
+<tr>
+<td>Three
+</td>
+<td>Kabun
+</td>
+<td>Kabyn
+</td></tr>
+<tr>
+<td>Four
+</td>
+<td>Biti
+</td>
+<td>Bithi
+</td></tr>
+<tr>
+<td>Man
+</td>
+<td>Wadili
+</td>
+<td>Wadili
+</td></tr>
+<tr>
+<td>Woman
+</td>
+<td>Hiaro
+</td>
+<td>Hiaro
+</td></tr>
+<tr>
+<td>Dog
+</td>
+<td>Péero
+</td>
+<td>Péero
+</td></tr>
+<tr>
+<td>Sun
+</td>
+<td>Hadali
+</td>
+<td>Hadali
+</td></tr>
+<tr>
+<td>Moon
+</td>
+<td>Kati
+</td>
+<td>Kathi
+</td></tr>
+<tr>
+<td>Water
+</td>
+<td>Uini
+</td>
+<td>Vuniabu
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-e18-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e18_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/18/language/arw/">Arawak</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (18th ed., 2015)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/araw1276">"Lokono"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Lokono&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Faraw1276&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Pet, Willem J. A. A Grammar Sketch and Lexicon of Arawak (Lokono Dian). SIL International. 2011. p 2. <a rel="nofollow" class="external free" href="http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161213102446/http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">Archived</a> 2016-12-13 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Aikhenvald, "Arawak", in Dixon &amp; Aikhenvald, eds., <i>The Amazonian Languages</i>, 1999.</span>
+</li>
+<li id="cite_note-:02-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-:02_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:02_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.endangeredlanguages.com/lang/1708">"Lokono"</a>. <i>endangeredlanguages</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=endangeredlanguages&amp;rft.atitle=Lokono&amp;rft_id=http%3A%2F%2Fwww.endangeredlanguages.com%2Flang%2F1708&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:1-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Aikhenvald, Alexandra (2006). <a rel="nofollow" class="external text" href="https://books.google.com/?id=sPGe7aBSkpkC&amp;pg=PA167&amp;dq=arawak+language+(lokono)#v=onepage&amp;q=arawak%20language%20(lokono)&amp;f=false"><i>Areal Diffusion, Genetic Inheritance and Problems of Subgrouping: A north Arawak Case Study</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780199283088" title="Special:BookSources/9780199283088"><bdi>9780199283088</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Areal+Diffusion%2C+Genetic+Inheritance+and+Problems+of+Subgrouping%3A+A+north+Arawak+Case+Study&amp;rft.date=2006&amp;rft.isbn=9780199283088&amp;rft.aulast=Aikhenvald&amp;rft.aufirst=Alexandra&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DsPGe7aBSkpkC%26pg%3DPA167%26dq%3Darawak%2Blanguage%2B%28lokono%29%23v%3Donepage%26q%3Darawak%2520language%2520%28lokono%29%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:2-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Edwards, W. (1979). "An Ethnohistory of Amerindians in Guyana". <i>Ethnohistory</i>. <b>26</b> (2): 161–175. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F481091">10.2307/481091</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/481091">481091</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethnohistory&amp;rft.atitle=An+Ethnohistory+of+Amerindians+in+Guyana&amp;rft.volume=26&amp;rft.issue=2&amp;rft.pages=161-175&amp;rft.date=1979&amp;rft_id=info%3Adoi%2F10.2307%2F481091&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F481091&amp;rft.aulast=Edwards&amp;rft.aufirst=W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Harbert, Wayne; Pet, Willem (1988-10-01). "Movement and Adjunct Morphology in Arawak and Other Languages". <i>International Journal of American Linguistics</i>. <b>54</b> (4): 416–435. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1086%2F466095">10.1086/466095</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0020-7071">0020-7071</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+American+Linguistics&amp;rft.atitle=Movement+and+Adjunct+Morphology+in+Arawak+and+Other+Languages&amp;rft.volume=54&amp;rft.issue=4&amp;rft.pages=416-435&amp;rft.date=1988-10-01&amp;rft_id=info%3Adoi%2F10.1086%2F466095&amp;rft.issn=0020-7071&amp;rft.aulast=Harbert&amp;rft.aufirst=Wayne&amp;rft.au=Pet%2C+Willem&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:4-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Aikhenvald, Alexandrs (2013). <a rel="nofollow" class="external text" href="https://researchonline.jcu.edu.au/28542/"><i>Arawak Languages</i></a>. <i>Aronoff, Mark, (ed.) Linguistics: Oxford Bibliographies. Oxford Bibliographies Online</i>. Oxford University Press. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2FOBO%2F9780199772810-0119">10.1093/OBO/9780199772810-0119</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780199772810" title="Special:BookSources/9780199772810"><bdi>9780199772810</bdi></a> &#8211; via Oxford Bibliographies.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Arawak+Languages&amp;rft.pub=Oxford+University+Press&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1093%2FOBO%2F9780199772810-0119&amp;rft.isbn=9780199772810&amp;rft.aulast=Aikhenvald&amp;rft.aufirst=Alexandrs&amp;rft_id=https%3A%2F%2Fresearchonline.jcu.edu.au%2F28542%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">De Carvalho, Fernando O. (2016-05-01). "The diachrony of person-number marking in the Lokono-Wayuunaiki subgroup of the Arawak family: reconstruction, sound change and analogy". <i>Language Sciences</i>. <b>55</b>: 1–15. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1016%2Fj.langsci.2016.02.001">10.1016/j.langsci.2016.02.001</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0388-0001">0388-0001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language+Sciences&amp;rft.atitle=The+diachrony+of+person-number+marking+in+the+Lokono-Wayuunaiki+subgroup+of+the+Arawak+family%3A+reconstruction%2C+sound+change+and+analogy&amp;rft.volume=55&amp;rft.pages=1-15&amp;rft.date=2016-05-01&amp;rft_id=info%3Adoi%2F10.1016%2Fj.langsci.2016.02.001&amp;rft.issn=0388-0001&amp;rft.aulast=De+Carvalho&amp;rft.aufirst=Fernando+O.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://research.jcu.edu.au/lcrc/language-archives/south-america-languages/arawak-languages/arawak-languages">"Arawak languages"</a>. <i>Research@JCU</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Research%40JCU&amp;rft.atitle=Arawak+languages&amp;rft_id=https%3A%2F%2Fresearch.jcu.edu.au%2Flcrc%2Flanguage-archives%2Fsouth-america-languages%2Farawak-languages%2Farawak-languages&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:8-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-:8_12-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Aikhenvald, Alexandra (2008). "PERSON MARKING AND DISCOURSE IN NORTH ARAWAK LANGUAGES". <i>Studia Linguistica</i>. <b>49</b> (2): 152–195. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1467-9582.1995.tb00469.x">10.1111/j.1467-9582.1995.tb00469.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Studia+Linguistica&amp;rft.atitle=PERSON+MARKING+AND+DISCOURSE+IN+NORTH+ARAWAK+LANGUAGES&amp;rft.volume=49&amp;rft.issue=2&amp;rft.pages=152-195&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1467-9582.1995.tb00469.x&amp;rft.aulast=Aikhenvald&amp;rft.aufirst=Alexandra&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books/about/A_Brief_Introduction_to_Some_Aspects_of.html?id=Aq8PAQAAMAAJ"><i>A Brief Introduction to Some Aspects of the Culture and Language of the Guyana Arawak (Lokono) Tribe</i></a>. Amerindian Languages Project, University of Guyana. 1980.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Brief+Introduction+to+Some+Aspects+of+the+Culture+and+Language+of+the+Guyana+Arawak+%28Lokono%29+Tribe&amp;rft.pub=Amerindian+Languages+Project%2C+University+of+Guyana&amp;rft.date=1980&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FA_Brief_Introduction_to_Some_Aspects_of.html%3Fid%3DAq8PAQAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:102-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-:102_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:102_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:102_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Hill, Johnathon (2010-10-01). <a rel="nofollow" class="external text" href="https://books.google.com/?id=A9JSYzAynBEC&amp;pg=PP2&amp;dq=arawak+language+(lokono)#v=onepage&amp;q=arawak%20language%20(lokono)&amp;f=false"><i>Comparative Arawakan Histories&#160;: Rethinking Language Family and Culture Area in Amazonia</i></a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780252091506" title="Special:BookSources/9780252091506"><bdi>9780252091506</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Comparative+Arawakan+Histories+%3A+Rethinking+Language+Family+and+Culture+Area+in+Amazonia&amp;rft.date=2010-10-01&amp;rft.isbn=9780252091506&amp;rft.aulast=Hill&amp;rft.aufirst=Johnathon&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DA9JSYzAynBEC%26pg%3DPP2%26dq%3Darawak%2Blanguage%2B%28lokono%29%23v%3Donepage%26q%3Darawak%2520language%2520%28lokono%29%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/language/arw">"Arawak on Ethnologue"</a>. <i>Ethnologue</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ethnologue&amp;rft.atitle=Arawak+on+Ethnologue&amp;rft_id=https%3A%2F%2Fwww.ethnologue.com%2Flanguage%2Farw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:11-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-:11_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:11_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Willem, Pet (1987). <a rel="nofollow" class="external text" href="https://www.sil.org/resources/archives/43236">"A Grammar Sketch and Lexicon of Arawak (Lokono Dian)"</a>. <i>SIL International</i>. Series Issue: 30 &#8211; via SIL.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIL+International&amp;rft.atitle=A+Grammar+Sketch+and+Lexicon+of+Arawak+%28Lokono+Dian%29&amp;rft.volume=Series+Issue%3A+30&amp;rft.date=1987&amp;rft.aulast=Willem&amp;rft.aufirst=Pet&amp;rft_id=https%3A%2F%2Fwww.sil.org%2Fresources%2Farchives%2F43236&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:0-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Pet, William (1988). <i>Lokono dian: the Arawak language of Surinam: a sketch of its grammatical structure and lexicon</i>. PhD dissertation, Cornell University.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lokono+dian%3A+the+Arawak+language+of+Surinam%3A+a+sketch+of+its+grammatical+structure+and+lexicon.&amp;rft.pub=PhD+dissertation%2C+Cornell+University&amp;rft.date=1988&amp;rft.aulast=Pet&amp;rft.aufirst=William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Pet, Willem J. A. A Grammar Sketch and Lexicon of Arawak (Lokono Dian). SIL International. 2011. p 12. <a rel="nofollow" class="external free" href="http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161213102446/http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">Archived</a> 2016-12-13 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-:12-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-:12_19-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rybka, Konrad (2015). <a rel="nofollow" class="external text" href="http://nflrc.hawaii.edu/ldc/?p=603">"State-of-the-Art in the Development of the Lokono Language"</a>. <i>Language Documentation &amp; Conservation</i>: 9110–9133 &#8211; via ebscohost.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language+Documentation+%26+Conservation&amp;rft.atitle=State-of-the-Art+in+the+Development+of+the+Lokono+Language&amp;rft.pages=9110-9133&amp;rft.date=2015&amp;rft.aulast=Rybka&amp;rft.aufirst=Konrad&amp;rft_id=http%3A%2F%2Fnflrc.hawaii.edu%2Fldc%2F%3Fp%3D603&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:13-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-:13_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/language/arw">"Arawak"</a>. <i>Ethnologue: Languages of the World</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ethnologue%3A+Languages+of+the+World&amp;rft.atitle=Arawak&amp;rft_id=https%3A%2F%2Fwww.ethnologue.com%2Flanguage%2Farw&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:14-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-:14_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Trevino, David (2016). <a rel="nofollow" class="external text" href="http://eds.a.ebscohost.com.proxy.libraries.rutgers.edu/eds/detail/detail?vid=9&amp;sid=ffd232c6-7f42-44a1-b95c-888b254928e0%40sessionmgr4008&amp;hid=4108&amp;bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=ers&amp;AN=96411030">"Arawak"</a>. <i>Salem Press Encyclopedia</i> &#8211; via ebescohost.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Salem+Press+Encyclopedia&amp;rft.atitle=Arawak&amp;rft.date=2016&amp;rft.aulast=Trevino&amp;rft.aufirst=David&amp;rft_id=http%3A%2F%2Feds.a.ebscohost.com.proxy.libraries.rutgers.edu%2Feds%2Fdetail%2Fdetail%3Fvid%3D9%26sid%3Dffd232c6-7f42-44a1-b95c-888b254928e0%2540sessionmgr4008%26hid%3D4108%26bdata%3DJnNpdGU9ZWRzLWxpdmU%253d%23db%3Ders%26AN%3D96411030&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arawak_language&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation journal"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161213102446/http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">"A Grammar Sketch and Lexicon of Arawak (Lokono Dian)"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www-01.sil.org/silepubs/Pubs/928474543236/e-Books_30_Pet_Arawak_Suriname.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2016-12-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-10-24</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A+Grammar+Sketch+and+Lexicon+of+Arawak+%28Lokono+Dian%29&amp;rft_id=http%3A%2F%2Fwww-01.sil.org%2Fsilepubs%2FPubs%2F928474543236%2Fe-Books_30_Pet_Arawak_Suriname.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArawak+language" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_French_Guiana" title="Template:Languages of French Guiana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_French_Guiana" title="Template talk:Languages of French Guiana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_French_Guiana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_French_Guiana" class="mw-redirect" title="Languages of French Guiana">Languages</a> of <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_language" title="French language">French</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Arawak</a></li>
+<li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Emerillon_language" title="Emerillon language">Emerillon</a></li>
+<li><a href="/wiki/French_Guianese_Creole" title="French Guianese Creole">Guianese Creole</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Wayampi_language" title="Wayampi language">Wayampi</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_Sign_Language" title="French Sign Language">French Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Guyana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Guyana" title="Template:Languages of Guyana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Guyana" title="Template talk:Languages of Guyana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Guyana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Guyana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/35px-Flag_of_Guyana.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/46px-Flag_of_Guyana.svg.png 2x" data-file-width="1000" data-file-height="600" /></span> <a href="/wiki/Languages_of_Guyana" title="Languages of Guyana">Languages</a> of <a href="/wiki/Guyana" title="Guyana">Guyana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/English_language" title="English language">English</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Akawaio</a></li>
+<li><a class="mw-selflink selflink">Arawak</a></li>
+<li><a href="/wiki/Atorada_language" title="Atorada language">Atorada</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Macushi</a></li>
+<li><a href="/wiki/Mapidian_language" class="mw-redirect" title="Mapidian language">Mapidian</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Patamona</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemon</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Wapishana_language" title="Wapishana language">Wapishana</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Guyanese_Creole" title="Guyanese Creole">Guyanese Creole</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Guyanese_Sign_Language" title="Guyanese Sign Language">Guyanese Sign Language</a></li>
+<li><a href="/wiki/South_Rupununi_Sign_Language" title="South Rupununi Sign Language">South Rupununi Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a class="mw-selflink selflink">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Arawakan_(Maipurean)_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Arawakan_languages" title="Template:Arawakan languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Arawakan_languages" title="Template talk:Arawakan languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Arawakan_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Arawakan_(Maipurean)_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a> (Maipurean) languages</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Ta-Arawakan_languages" title="Ta-Arawakan languages">Caribbean</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Lokono</a></li>
+<li><a href="/wiki/Caquetio_language" title="Caquetio language">Caquetio</a></li>
+<li><a href="/wiki/Garifuna_language" title="Garifuna language">Garífuna</a></li>
+<li><a href="/wiki/Island_Carib_language" title="Island Carib language">Island Carib</a></li>
+<li><a href="/wiki/Paraujano_language" title="Paraujano language">Parauhano</a></li>
+<li><a href="/wiki/Shebaya_language" title="Shebaya language">Shebaya</a></li>
+<li><a href="/wiki/Ta%C3%ADno_language" title="Taíno language">Taíno</a></li>
+<li><a href="/wiki/Wayuu_language" title="Wayuu language">Wayuu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Palikuran</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Marawan_language" title="Marawan language">Marawan</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Wapishanan</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Atorada_language" title="Atorada language">Atorada</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mapidian</a> (?)</li>
+<li><a href="/wiki/Wapishana_language" title="Wapishana language">Wapishana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Upper_Amazon_Arawakan" title="Upper Amazon Arawakan">Upper Amazon</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Western Nawiki</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Achawa_language" title="Achawa language">Achawa</a></li>
+<li><a href="/wiki/Amarizana_language" title="Amarizana language">Amarizana</a></li>
+<li><a href="/wiki/Anauy%C3%A1_language" title="Anauyá language">Anauyá</a></li>
+<li><a href="/wiki/Cabiyari_language" title="Cabiyari language">Cabiyari</a> (?)</li>
+<li><a href="/wiki/Cabre_language" title="Cabre language">Cabre</a> (?)</li>
+<li><a href="/wiki/Yucuna_language" title="Yucuna language">Guarú</a></li>
+<li><a href="/wiki/Kawishana_language" title="Kawishana language">Kawishana</a></li>
+<li><a href="/wiki/Mandawaca_language" title="Mandawaca language">Mandawaca</a></li>
+<li><a href="/wiki/Wainum%C3%A1-Mariat%C3%A9_language" title="Wainumá-Mariaté language">Mariaté</a></li>
+<li><a href="/wiki/Pas%C3%A9_language" title="Pasé language">Pasé</a></li>
+<li><a href="/wiki/Piapoco_language" title="Piapoco language">Piapoco</a></li>
+<li><a href="/wiki/Res%C3%ADgaro_language" title="Resígaro language">Resígaro</a> (?)</li>
+<li><a href="/wiki/Warekena_language" title="Warekena language">Warekena</a></li>
+<li><a href="/wiki/Waraik%C3%BA_language" title="Waraikú language">Waraikú</a> (?)</li>
+<li><a href="/wiki/Wainum%C3%A1-Mariat%C3%A9_language" title="Wainumá-Mariaté language">Wainumá</a></li>
+<li><a href="/wiki/Wirin%C3%A1_language" title="Wiriná language">Wiriná</a> (?)</li>
+<li><a href="/wiki/Yaba%C3%A2na_language" title="Yabaâna language">Yabaâna</a> (?)</li>
+<li><a href="/wiki/Yucuna_language" title="Yucuna language">Yucuna</a></li>
+<li><a href="/wiki/Yumana_language" title="Yumana language">Yumana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Eastern Nawiki</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baniwa_of_I%C3%A7ana_language" class="mw-redirect" title="Baniwa of Içana language">Baniwa</a></li>
+<li><a href="/wiki/Kurripako_language" class="mw-redirect" title="Kurripako language">Kurripako</a></li>
+<li><a href="/wiki/Tariana_language" title="Tariana language">Tariana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Central Upper Amazon</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abane_language" title="Abane language">Avane</a></li>
+<li><a href="/wiki/Barawana_language" title="Barawana language">Baré</a></li>
+<li><a href="/wiki/Baniwa_of_Guainia" class="mw-redirect" title="Baniwa of Guainia">Baniwa of Guainia</a></li>
+<li><a href="/wiki/Barawana_language" title="Barawana language">Guinao</a></li>
+<li><a href="/wiki/Maipure_language" title="Maipure language">Maipure</a></li>
+<li><a href="/wiki/Barawana_language" title="Barawana language">Marawá</a></li>
+<li><a href="/wiki/Yavitero_language" title="Yavitero language">Yavitero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Manao</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Karia%C3%AD_language" title="Kariaí language">Kariaí</a></li>
+<li><a href="/wiki/Manao_language" title="Manao language">Manao</a></li>
+<li><a href="/wiki/Shiriana_language" title="Shiriana language">Shiriana</a> (?)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Western</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chamicuro_language" title="Chamicuro language">Chamicuro</a></li>
+<li><a href="/wiki/Yanesha%27_language" title="Yanesha&#39; language">Yanesha'</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Paresi%E2%80%93Waura_languages" title="Paresi–Waura languages">Central Maipurean</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yawalapit%C3%AD_language" title="Yawalapití language">Agavotaguerra</a> (?)</li>
+<li><a href="/wiki/Custenau_language" title="Custenau language">Custenau</a></li>
+<li><a href="/wiki/Paresi_language" title="Paresi language">Paresí</a></li>
+<li><a href="/wiki/Saraveca_language" title="Saraveca language">Saraveca</a></li>
+<li><a href="/wiki/Waur%C3%A1_language" title="Waurá language">Waura</a>–<a href="/wiki/Mehinaku_language" title="Mehinaku language">Mehináku</a></li>
+<li><a href="/wiki/Yawalapit%C3%AD_language" title="Yawalapití language">Yawalapití</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Piro_languages" title="Piro languages">Piro</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apurin%C3%A3_language" title="Apurinã language">Apurinã</a></li>
+<li><a href="/wiki/I%C3%B1apari_language" title="Iñapari language">Iñapari</a></li>
+<li><a href="/wiki/Mashco_Piro_language" title="Mashco Piro language">Mashco Piro</a></li>
+<li><a href="/wiki/Yine_language" title="Yine language">Piro</a></li>
+<li><a href="/wiki/Yine_language" title="Yine language">Kanamaré</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Bolivia–Parana</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baure_language" title="Baure language">Baure</a></li>
+<li><a href="/wiki/Chan%C3%A9_language" title="Chané language">Chané</a></li>
+<li><a href="/wiki/Enawene_Nawe_language" title="Enawene Nawe language">Enawené-Nawé</a> (?)</li>
+<li><a href="/wiki/Lapachu_language" title="Lapachu language">Lapachu</a></li>
+<li><a href="/wiki/Moxo_languages" title="Moxo languages">Moxos</a></li>
+<li><a href="/wiki/Pauna_language" title="Pauna language">Pauna</a></li>
+<li><a href="/wiki/Ter%C3%AAna_language" title="Terêna language">Terêna</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Campa_languages" title="Campa languages">Campa</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ash%C3%A1ninka_language" title="Asháninka language">Asháninka</a></li>
+<li><a href="/wiki/Ash%C3%A9ninka_language" title="Ashéninka language">Ashéninga</a></li>
+<li><a href="/wiki/Axininca_language" title="Axininca language">Axininca</a></li>
+<li><a href="/wiki/Caquinte_language" title="Caquinte language">Caquinte</a></li>
+<li><a href="/wiki/Machiguenga_language" title="Machiguenga language">Machiguenga</a></li>
+<li><a href="/wiki/Nomatsiguenga_language" title="Nomatsiguenga language">Nomatsiguenga</a></li>
+<li><a href="/wiki/Nanti_language" title="Nanti language">Pucapucari</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Morique_language" title="Morique language">Morique</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Macro-Arawakan_languages" title="Macro-Arawakan languages"><i>Macro-Arawakan</i></a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawan_languages" title="Arawan languages"><i>Arauán</i></a></li>
+<li><a href="/wiki/Candoshi-Shapra_language" title="Candoshi-Shapra language"><i>Candoshi-Shapra</i></a></li>
+<li><a href="/wiki/Guajiboan_languages" title="Guajiboan languages"><i>Guajiboan</i></a></li>
+<li><a href="/wiki/Munichi_language" title="Munichi language"><i>Munichi</i></a></li>
+<li><a href="/wiki/Puquina_language" title="Puquina language"><i>Puquina</i></a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2655664&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q2655664&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q2655664" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00560316">00560316</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190923225632
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.932 seconds
+Real time usage: 1.350 seconds
+Preprocessor visited node count: 3052/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 118693/2097152 bytes
+Template argument size: 1425/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 55561/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.424/10.000 seconds
+Lua memory usage: 5.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1097.784      1 -total
+ 52.06%  571.559      1 Template:Infobox_language
+ 45.49%  499.423      1 Template:Infobox
+ 31.47%  345.428      1 Template:Reflist
+ 20.45%  224.489      6 Template:Cite_book
+ 18.79%  206.242      8 Template:Cite_journal
+ 16.95%  186.034      1 Template:Glottolog
+  8.27%   90.736      7 Template:Navbox
+  5.77%   63.304      1 Template:Authority_control
+  5.45%   59.875      2 Template:Str_len
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:637993-0!canonical and timestamp 20190923225631 and revision id 915260709
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arawak_language&amp;oldid=915260709">https://en.wikipedia.org/w/index.php?title=Arawak_language&amp;oldid=915260709</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arawakan_languages" title="Category:Arawakan languages">Arawakan languages</a></li><li><a href="/wiki/Category:Indigenous_languages_of_the_South_American_Northeast" title="Category:Indigenous languages of the South American Northeast">Indigenous languages of the South American Northeast</a></li><li><a href="/wiki/Category:Languages_of_Guyana" title="Category:Languages of Guyana">Languages of Guyana</a></li><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Languages_of_French_Guiana" title="Category:Languages of French Guiana">Languages of French Guiana</a></li><li><a href="/wiki/Category:Languages_of_Venezuela" title="Category:Languages of Venezuela">Languages of Venezuela</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_18" title="Category:Language articles citing Ethnologue 18">Language articles citing Ethnologue 18</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Language_articles_with_old_Ethnologue_18_speaker_data" title="Category:Language articles with old Ethnologue 18 speaker data">Language articles with old Ethnologue 18 speaker data</a></li><li><a href="/wiki/Category:Languages_with_ISO_639-2_code" title="Category:Languages with ISO 639-2 code">Languages with ISO 639-2 code</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arawak+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arawak+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Arawak_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Arawak_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Arawak_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Arawak_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arawak_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arawak_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arawak_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arawak_language&amp;oldid=915260709" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arawak_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2655664" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arawak_language&amp;id=915260709" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arawak_language" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arawak+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arawak+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arawak_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Idioma_arawak" title="Idioma arawak – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Llengua_arawak" title="Llengua arawak – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Idioma_arawak-lokono" title="Idioma arawak-lokono – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Lingua_arauaca" title="Lingua arauaca – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Arawak_jezik" title="Arawak jezik – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Aravak%C5%B3_kalba" title="Aravakų kalba – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%B0%E0%B4%B5%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D_%E0%B4%AD%E0%B4%BE%E0%B4%B7" title="അരവാക്ക് ഭാഷ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%AF%E3%82%AF%E8%AA%9E" title="アラワク語 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Arawak_(spr%C3%A5k)" title="Arawak (språk) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_arawak" title="Lenga arawak – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_lokono" title="Língua lokono – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Arawak_simi" title="Arawak simi – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B2%D0%B0%D0%BA-%D0%BB%D0%BE%D0%BA%D0%BE%D0%BD%D0%BE" title="Аравак-локоно – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Arawakin_kieli" title="Arawakin kieli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2655664#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 04:36<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arawak_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.932","walltime":"1.350","ppvisitednodes":{"value":3052,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":118693,"limit":2097152},"templateargumentsize":{"value":1425,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":55561,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00% 1097.784      1 -total"," 52.06%  571.559      1 Template:Infobox_language"," 45.49%  499.423      1 Template:Infobox"," 31.47%  345.428      1 Template:Reflist"," 20.45%  224.489      6 Template:Cite_book"," 18.79%  206.242      8 Template:Cite_journal"," 16.95%  186.034      1 Template:Glottolog","  8.27%   90.736      7 Template:Navbox","  5.77%   63.304      1 Template:Authority_control","  5.45%   59.875      2 Template:Str_len"]},"scribunto":{"limitreport-timeusage":{"value":"0.424","limit":"10.000"},"limitreport-memusage":{"value":5523910,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190923225632","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Arawak language","url":"https:\/\/en.wikipedia.org\/wiki\/Arawak_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2655664","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2655664","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-06T04:13:36Z","dateModified":"2019-09-12T04:36:49Z","headline":"language spoken by the Lokono people"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":151,"wgHostname":"mw1240"});});</script>
+</body>
+</html>

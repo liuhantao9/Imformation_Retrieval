@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Flirting - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Flirting","wgTitle":"Flirting","wgCurRevisionId":917687491,"wgRevisionId":917687491,"wgArticleId":11702,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: Julian–Gregorian uncertainty","CS1 French-language sources (fr)","CS1 errors: missing periodical","Articles with short description","All articles with unsourced statements","Articles with unsourced statements from April 2018","All articles with vague or ambiguous time","Vague or ambiguous time from August 2018","Articles needing additional references from June 2016","All articles needing additional references","Articles with limited geographic scope from June 2014","Western culture-centric","Commons category link is on Wikidata","Sexual attraction","Philosophy of love"],"wgBreakFrames":!1,"wgPageContentLanguage":
+"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Flirting","wgRelevantArticleId":11702,"wgRequestId":"XYrTCQpAICwAAHZOJy0AAABB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,
+"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q208704","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Das_werdenSie_ja_nachher_schon_sehen.jpg/1200px-Das_werdenSie_ja_nachher_schon_sehen.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Flirting"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Flirting&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Flirting&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Flirting"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Flirting rootpage-Flirting skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Flirting</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Social behavior that suggests interest in a deeper relationship with the other person</div>
+<div role="note" class="hatnote navigation-not-searchable">"Flirt" redirects here. For other uses, see <a href="/wiki/Flirt_(disambiguation)" class="mw-disambig" title="Flirt (disambiguation)">Flirt (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Sweet nothings" redirects here. For other uses, see <a href="/wiki/Sweet_Nothings_(disambiguation)" class="mw-redirect mw-disambig" title="Sweet Nothings (disambiguation)">Sweet Nothings</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Das_werdenSie_ja_nachher_schon_sehen.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Das_werdenSie_ja_nachher_schon_sehen.jpg/220px-Das_werdenSie_ja_nachher_schon_sehen.jpg" decoding="async" width="220" height="282" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Das_werdenSie_ja_nachher_schon_sehen.jpg/330px-Das_werdenSie_ja_nachher_schon_sehen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Das_werdenSie_ja_nachher_schon_sehen.jpg/440px-Das_werdenSie_ja_nachher_schon_sehen.jpg 2x" data-file-width="2400" data-file-height="3072" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Das_werdenSie_ja_nachher_schon_sehen.jpg" class="internal" title="Enlarge"></a></div>A poster by <a href="/wiki/Henri_Gerbault" class="mw-redirect" title="Henri Gerbault">Henri Gerbault</a> depicting flirting between a man and a woman</div></div></div>
+<p><b>Flirting</b> or <b>coquetry</b> is a <a href="/wiki/Social_behavior" title="Social behavior">social</a> and <a href="/wiki/Human_sexual_activity" title="Human sexual activity">sexual behavior</a> involving verbal or written communication, as well as <a href="/wiki/Body_language" title="Body language">body language</a>, by one person to another, either to suggest interest in a deeper relationship with the other person, or if done playfully, for amusement.
+</p><p>In most cultures, it is socially disapproved for a person to make explicit sexual advances in public, or in private to someone not romantically acquainted, but indirect or suggestive advances may at times be considered acceptable.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2018)">citation needed</span></a></i>&#93;</sup>
+</p><p>Flirting usually involves speaking and behaving in a way that suggests a mildly greater <a href="/wiki/Intimacy" class="mw-redirect" title="Intimacy">intimacy</a> than the actual <a href="/wiki/Personal_relationship" class="mw-redirect" title="Personal relationship">relationship</a> between the parties would justify, though within the rules of social <a href="/wiki/Etiquette" title="Etiquette">etiquette</a>, which generally disapproves of a direct expression of sexual interest in the given setting. This may be accomplished by communicating a sense of playfulness or irony. <a href="/wiki/Double_entendre" title="Double entendre">Double entendres</a> (where one meaning is more formally appropriate, and another more suggestive) may be used. Body language can include flicking the hair, eye contact, brief touching, open stances, proximity, and other gestures. Flirting may be done in a under-exaggerated, shy or frivolous style. Vocal communication of interest can include, for example,
+</p>
+<ul><li>sayer is the cutest</li>
+<li>alterations in vocal tone (such as pace, volume, and intonation),</li>
+<li>challenges (including teasing, questions, qualifying, and feigned disinterest), which may serve to increase tension, and to test intention and congruity, and</li>
+<li>adoration which includes offers, approval and tact, knowledge and demonstration of <a href="https://en.wiktionary.org/wiki/poise" class="extiw" title="wikt:poise">poise</a>, <a href="/wiki/Self-assurance" class="mw-redirect" title="Self-assurance">self-assurance</a>, smart and <a href="/wiki/Fashion" title="Fashion">stylish</a>, a commanding attitude.</li></ul><p>
+Flirting behavior varies across cultures due to different modes of social etiquette, such as how closely people should stand (<a href="/wiki/Proxemics" title="Proxemics">proxemics</a>), how long to hold eye contact, how much touching is appropriate and so forth.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Nonetheless, some behaviors may be more universal. For example, ethologist <a href="/wiki/Iren%C3%A4us_Eibl-Eibesfeldt" title="Irenäus Eibl-Eibesfeldt">Irenäus Eibl-Eibesfeldt</a> found that in places as different as Africa and North America, women exhibit similar flirting behavior, such as a prolonged stare followed by a <a href="/wiki/Head_tilt" class="mw-redirect" title="Head tilt">head tilt</a> away with a little <a href="/wiki/Smile" title="Smile">smile</a>, as seen in the accompanying image associated with a <a href="/wiki/Hollywood_film" class="mw-redirect" title="Hollywood film">Hollywood film</a>.</p><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG/220px-Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG" decoding="async" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/9/93/Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG 1.5x" data-file-width="320" data-file-height="239" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Marilyn_Monroe_and_Cary_Grant_in_Monkey_Business_trailer_3.JPG" class="internal" title="Enlarge"></a></div>Laurel (played by <a href="/wiki/Marilyn_Monroe" title="Marilyn Monroe">Marilyn Monroe</a>) flirting with Dr. Fulton (played by <a href="/wiki/Cary_Grant" title="Cary Grant">Cary Grant</a>) in the film <i><a href="/wiki/Monkey_Business_(1952_film)" title="Monkey Business (1952 film)">Monkey Business</a></i></div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#European_hand_fans"><span class="tocnumber">2.1</span> <span class="toctext">European hand fans</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Purpose"><span class="tocnumber">3</span> <span class="toctext">Purpose</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Courtship"><span class="tocnumber">3.1</span> <span class="toctext">Courtship</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Other_motivations_for_flirting"><span class="tocnumber">3.2</span> <span class="toctext">Other motivations for flirting</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Gender_differences_in_flirting_motivations"><span class="tocnumber">3.3</span> <span class="toctext">Gender differences in flirting motivations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Examples"><span class="tocnumber">4</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Cultural_variations"><span class="tocnumber">5</span> <span class="toctext">Cultural variations</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The origin of the word <i><a href="https://en.wiktionary.org/wiki/flirt" class="extiw" title="wikt:flirt">flirt</a></i> is obscure. The <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i> (first edition) associates it with such onomatopoeic words as <i>flit</i> and <i>flick</i>, emphasizing a lack of seriousness; on the other hand, it has been attributed to the old French <i>conter fleurette</i>, which means "to (try to) <a href="/wiki/Seduction" title="Seduction">seduce</a>" by the dropping of flower petals, that is, "to speak sweet nothings". While old-fashioned, this expression is still used in French, often mockingly, but the English <a href="/wiki/Gallicism" title="Gallicism">gallicism</a> <i>to flirt</i> has made its way and has now become an <a href="/wiki/Anglicism" title="Anglicism">anglicism</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The word <i>fleurette</i> was used in the 16th century in some sonnets,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and some other texts.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The French word <i>fleurette</i> (small flower), and the language of old south France word <i>flouretas</i> (from the Latin <i>flora</i>(for flower)), are related to some little says where flowers are both at the same time a pretext and the comparison terms. In southern France, some usage were yet used in 1484,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+In French, some other words more or less related are derived from the word fleur: for instance <i>effleurer</i> (English: lightly touch) from 13th century <i>esflourée</i>; <i>déflorer</i> (English: deflower) from 13th century <i>desflorer</i> or (<a href="/wiki/Foil_(fencing)" title="Foil (fencing)">fleuret</a> (English Foil) 18th century).
+</p><p>Anyway, the association of flowers, spring, youth, and women is not modern and were yet considered in ancient culture, such as the <a href="/wiki/Chloris" title="Chloris">Chloris</a> in ancient Greece, or <a href="/wiki/Flora_(deity)" class="mw-redirect" title="Flora (deity)">Flora (deity)</a> in ancient Roman empire, including <a href="/wiki/Floralia" title="Floralia">Floralia</a> festival, and in other older poems, such as the <a href="/wiki/Song_of_Solomon" class="mw-redirect" title="Song of Solomon">Song of Solomon</a>:
+</p>
+<table class="wikitable">
+<caption>Older poem - <a href="/wiki/Song_of_Solomon" class="mw-redirect" title="Song of Solomon">Song of Solomon</a> 2
+</caption>
+<tbody><tr>
+<td><blockquote><div class="poem">
+<p>“Arise, my darling,<br />
+&#160;&#160;&#160;&#160;my beautiful one, come with me.<br />
+See! The winter is past;<br />
+&#160;&#160;&#160;&#160;the rains are over and gone.<br />
+Flowers appear on the earth;<br />
+&#160;&#160;&#160;&#160;the season of singing has come,<br />
+the cooing of doves<br />
+&#160;&#160;&#160;&#160;is heard in our land.<br />
+The fig tree forms its early fruit;<br />
+&#160;&#160;&#160;&#160;the blossoming vines spread their fragrance.<br />
+Arise, come, my darling;<br />
+&#160;&#160;&#160;&#160;my beautiful one, come with me.” — NIV
+</p>
+</div></blockquote>
+</td>
+<td><blockquote><div class="poem">
+<p>“Arise, my love, my beautiful one,<br />
+&#160;&#160;&#160;&#160;and come away,<br />
+for behold, the winter is past;<br />
+&#160;&#160;&#160;&#160;the rain is over and gone.<br />
+The flowers appear on the earth,<br />
+&#160;&#160;&#160;&#160;the time of singing[d] has come,<br />
+and the voice of the turtle-dove<br />
+&#160;&#160;&#160;&#160;is heard in our land.<br />
+The fig tree ripens its figs,<br />
+&#160;&#160;&#160;&#160;and the vines are in blossom;<br />
+&#160;&#160;&#160;&#160;they give forth fragrance.<br />
+Arise, my love, my beautiful one,<br />
+&#160;&#160;&#160;&#160;and come away. — ESV
+</p>
+</div></blockquote>
+</td>
+<td><blockquote><div class="poem">
+<p>Dodi (my beloved) spoke, and said unto me, <br />
+&#160;&#160;&#160;&#160;Rise up, my love, my fair one, and come away.<br />
+&#160;For, hinei, the winter is past, <br />
+&#160;&#160;&#160;&#160;the geshem (rain) is over and gone;<br />
+&#160;The flowers appear on ha’aretz; <br />
+&#160;&#160;&#160;&#160;the time of zemer (song, singing of birds) has come; <br />
+&#160;and the voice of the turtle <br />
+&#160;&#160;&#160;&#160;dove is heard in Artzeinu (our Land);<br />
+&#160;The te’enah (fig tree) putteth forth her early figs, <br />
+&#160;&#160;&#160;&#160;and the vines with the tender grape <br />
+&#160;&#160;&#160;&#160;give forth fragrance. <br />
+&#160;Arise, my love, my fair one, <br />
+&#160;&#160;&#160;&#160;and come away.
+</p>
+</div></blockquote> — <a rel="nofollow" class="external text" href="https://biblehub.com/ojb/songs/2.htm">OJB v2:10-13</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>During World War II, anthropologist <a href="/wiki/Margaret_Mead" title="Margaret Mead">Margaret Mead</a> was working in Britain for the British <a href="/wiki/Ministry_of_Information_(United_Kingdom)" title="Ministry of Information (United Kingdom)">Ministry of Information</a> and later for the U.S. <a href="/wiki/United_States_Office_of_War_Information" title="United States Office of War Information">Office of War Information</a>,<sup id="cite_ref-uk_9-0" class="reference"><a href="#cite_note-uk-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> delivering speeches and writing articles to help the American soldiers better understand the British civilians,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> and vice versa.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> She observed in the flirtations between the American soldiers and British women a pattern of misunderstandings regarding who is supposed to take which initiative. She wrote of the Americans, "The boy learns to make advances and rely upon the girl to repulse them whenever they are inappropriate to the state of feeling between the pair", as contrasted to the British, where "the girl is reared to depend upon a slight barrier of chilliness... which the boys learn to respect, and for the rest to rely upon the men to approach or advance, as warranted by the situation." This resulted, for example, in British women interpreting an American soldier's gregariousness as something more intimate or serious than he had intended.<sup id="cite_ref-uk_9-1" class="reference"><a href="#cite_note-uk-9">&#91;9&#93;</a></sup>
+</p><p>Communications theorist <a href="/wiki/Paul_Watzlawick" title="Paul Watzlawick">Paul Watzlawick</a> used this situation, where "both American soldiers and British girls accused one another of being sexually brash", as an example of differences in "punctuation" in interpersonal communications. He wrote that courtship in both cultures used approximately 30 steps from "first eye contact to the ultimate consummation", but that the sequence of the steps was different. For example, kissing might be an early step in the American pattern but a relatively intimate act in the English pattern.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Japanese courtesans had another form of flirting, emphasizing non-verbal relationships by hiding the lips and showing the eyes, as depicted in much <a href="/wiki/Shunga_(art)" class="mw-redirect" title="Shunga (art)">Shunga art</a>, the most popular print media at the time, until the late 19th century.
+</p>
+<h3><span class="mw-headline" id="European_hand_fans">European hand fans</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=3" title="Edit section: European hand fans">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/European_hand_fans_in_the_18th_century" title="European hand fans in the 18th century">European hand fans in the 18th century</a></div>
+<p>The fan was extensively used as a means of communication and therefore a way of flirting from the 16th century onwards in some European societies, especially <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Spain" title="Spain">Spain</a>. A whole sign language was developed with the use of the fan, and even <a href="/wiki/Etiquette" title="Etiquette">etiquette</a> books and magazines were published. Charles Francis Badini created the Original Fanology or Ladies' Conversation Fan which was published by William Cock in <a href="/wiki/London" title="London">London</a> in 1797. The use of the fan was not limited to women, as men also carried fans and learned how to convey messages with them. For instance, placing the fan near the heart meant "I love you", while opening a fan wide meant "Wait for me".<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>In Spain, where the use of fans (called "abanicos") is still very popular today,<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (August 2018)">when?</span></a></i>&#93;</sup> ladies used them to communicate with suitors or prospective suitors without attracting the notice of their families or <a href="/wiki/Chaperone_(social)" title="Chaperone (social)">chaperons</a>. This use was highly popular during the 19th and early 20th centuries.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p><br />
+</p>
+<h2><span class="mw-headline" id="Purpose">Purpose</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=4" title="Edit section: Purpose">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>People flirt for a variety of reasons. According to <a href="/wiki/Social_anthropologist" class="mw-redirect" title="Social anthropologist">social anthropologist</a> <a href="/wiki/Kate_Fox" title="Kate Fox">Kate Fox</a>,  there are two main types of flirting: flirting just for fun and flirting with further intent.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>  
+</p><p>In a 2014 review, Henningsen made a further distinction and identified six main motivations for flirting: sex, relational development, exploration, fun, self-esteem and instrumental.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Henningsen found that often, many flirting interactions involve more than one of these motives. There also appears to be gender differences in flirting motivations.
+</p>
+<h3><span class="mw-headline" id="Courtship">Courtship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=5" title="Edit section: Courtship">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Many people flirt as a <a href="/wiki/Courtship" title="Courtship">courtship</a> initiation method, with the aim of engaging in a sexual relationship with another person. In this sense, flirting plays a role in the mate-selection process. The person flirting will send out signals of sexual availability to another, and expects to see the interest returned in order to continue flirting. Flirting can involve non-verbal signs, such as an exchange of glances, hand-touching, and hair-touching; or verbal signs, such as chatting, giving flattering comments, and exchanging telephone numbers in order to initiate further contact.
+</p><p>Many studies have confirmed that sex is a driving motivation for flirting behaviours.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>  Additionally, Messman and colleagues’ study provided support for this hypothesis; it demonstrated that, the more one was physically attracted to a person, the higher the chances one would flirt with them. <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>Flirting in the goal of signalling interest appears as a puzzling phenomenon when considering that flirting is often performed very subtly. In fact, evidence shows that people are often mistaken in how they interpret flirting behaviours. <sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Thus, if a main purpose of flirting is to signal interest to the other person, why isn't this signalling done more clearly and explicitly?
+</p><p>A possible explanation, for the ambiguous nature of human flirting lies in the costs associated with courtship signals. Indeed, according to Gersick and colleauges, signalling interest can be costly as it can lead to the disturbance of the nature of a relationship. <sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> For instance, signalling sexual interest to a friend bears the risk of introducing uncertainty into the friendship, especially if the romantic advance is rejected by the recipient. For this reason, individuals prefer engaging in a flirting interaction that is more subtle to limit the risks associated with the expression of sexual interest. 
+</p><p>More generally, human relationships are governed by social norms and whenever these are broken, one can suffer significant costs that can range from social, economic and even legal nature. As an illustration, a manager flirting with his subordinate can lead to strong costs such as being accused of sexual harassment, which can potentially lead to job loss.
+</p><p>Additionally, third parties can impose costs on someone expressing sexual interest.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Expressing sexual interest to somebody else’s romantic partner is a highly punishable act. This often leads to jealousy from the person’s partner which can trigger anger and (possible) physical punishment, especially in men. <sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Third parties can also impose costs through the act of eavesdropping. These can lead to damage to one’s reputation leading to possible social, economic and legal costs.
+</p><p>A last point to consider is that the costs associated with interest signalling are magnified in the case of humans, when compared to the animal world. Indeed, the existence of language means that information can circulate much faster. For instance, in the case of eavesdropping, the information overhead by the eavesdropper can be spread to very large social networks, thereby magnifying the social costs. <sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Other_motivations_for_flirting">Other motivations for flirting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=6" title="Edit section: Other motivations for flirting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another reason people engage in flirting is to consolidate or maintain a romantic relationship with their partner. They will engage in flirting behaviours to promote the flourishing of their relationship with their partner.  People will also flirt in the goal of 'exploring’. In this sense, the aim is not necessarily to express sexual or romantic interest but simply to assess whether the other might be interested in them before making any decision about what they would want from that individual.
+</p><p>Henningsen and Fox also demonstrated that flirting can sometimes be employed just for fun. For instance, studies have shown that flirting in the workplace was used mostly for fun purposes.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> 
+</p><p>Another motive that drives flirting is developing one’s own self esteem. People often feel highly valued when someone flirts with them. Therefore,  often people flirt to encourage reciprocation and thereby increase their self esteem. As a last point, people might flirt for instrumental purposes. For instance, they will flirt to get something out of the other person such as drink in a nightclub or a promotion at work.
+</p>
+<h3><span class="mw-headline" id="Gender_differences_in_flirting_motivations">Gender differences in flirting motivations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=7" title="Edit section: Gender differences in flirting motivations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Certain types of flirting seem to be more common amongst males compared to females and vice versa. 
+</p><p>To start with, Henningsen and colleagues’ study demonstrated that flirting with sexual intent was found to be more prominent amongst men. On the other hand, flirting for relationship development purposes was more often employed by women. <sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> 
+</p><p>These findings are not surprising when we take into account the <a href="/wiki/Parental_Investment" class="mw-redirect" title="Parental Investment">Parental Investment</a> theory. First, it states that females are more choosy and men more competitive, therefore predicting that flirting as courtship initiation will be more commonly used amongst men. The theory also predicts that females invest more in their offspring, which makes them more prone to invest in their relationship as this can provide resources that can contribute to their offspring’s survival. On the other hand, men have no guarantee that their mates’ offspring is theirs, so have less incentives to seek long-term relationships; thereby explaining why men care less about flirting for relationship development. <sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p><p>Additionally, Henningsen found that flirting for fun was more common in females than males. A possible explanation for this could lie in the fact that women engage in what he calls “practice flirting”. As women are more selective and want to attract the best partner to take care of their offspring, they might flirt for fun to practice and evaluate what flirting behaviours work the best. <sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=8" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-More_citations_needed_section plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Flirting&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Flirting%22">"Flirting"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Flirting%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Flirting%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Flirting%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Flirting%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Flirting%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">June 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this section <b>deal primarily with Western culture and do not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Flirting&amp;action=edit">improve this section</a>, discuss the issue on the <a href="/wiki/Talk:Flirting" title="Talk:Flirting">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <small class="date-container"><i>(<span class="date">June 2014</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jealousy_and_Flirtation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jealousy_and_Flirtation.jpg/220px-Jealousy_and_Flirtation.jpg" decoding="async" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jealousy_and_Flirtation.jpg/330px-Jealousy_and_Flirtation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Jealousy_and_Flirtation.jpg/440px-Jealousy_and_Flirtation.jpg 2x" data-file-width="881" data-file-height="668" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jealousy_and_Flirtation.jpg" class="internal" title="Enlarge"></a></div>A study in <a href="/wiki/Body_language" title="Body language">body language</a>: <a href="/wiki/Haynes_King" title="Haynes King">Haynes King</a>'s <i>Jealousy and Flirtation</i></div></div></div>
+<p>Flirting may consist of stylized gestures, language, <a href="/wiki/Body_language" title="Body language">body language</a>, <a href="/wiki/Human_position" class="mw-redirect" title="Human position">postures</a>, and <a href="/wiki/Physiology" title="Physiology">physiologic signs</a> which act as cues to another person. Among these, at least in <a href="/wiki/Western_culture" title="Western culture">Western society</a>, are:
+</p>
+<ul><li><a href="/wiki/Air_kiss" title="Air kiss">Blowing a kiss</a></li>
+<li>Casual touching; such as gently stroking, touching each other's arms, chest and neck during flirting/<a href="/wiki/Making_out" title="Making out">make-out sessions</a> in <a href="/wiki/Foreplay" title="Foreplay">preparation for sexual activity</a><sup id="cite_ref-Sexplanations_29-0" class="reference"><a href="#cite_note-Sexplanations-29">&#91;29&#93;</a></sup></li>
+<li><a href="/wiki/Conversation" title="Conversation">Conversation</a> (e.g. <a href="/wiki/Banter" class="mw-redirect" title="Banter">banter</a>, <a href="/wiki/Small_talk" title="Small talk">small talk</a>, <a href="/wiki/Pickup_line" class="mw-redirect" title="Pickup line">pickup lines</a>)<sup id="cite_ref-Sexplanations_29-1" class="reference"><a href="#cite_note-Sexplanations-29">&#91;29&#93;</a></sup></li>
+<li>Coyness, marked by cute, coquettish <a href="/wiki/Shyness" title="Shyness">shyness</a> or <a href="/wiki/Modesty" title="Modesty">modesty</a>, coquet or playful aggrandizement of a partner's importance</li>
+<li><a href="/wiki/Eye_contact" title="Eye contact">Eye contact</a>,<sup id="cite_ref-Sexplanations_29-2" class="reference"><a href="#cite_note-Sexplanations-29">&#91;29&#93;</a></sup> batting eyelashes, or <a href="/wiki/Staring" title="Staring">staring</a></li>
+<li><a href="/wiki/Eyebrow" title="Eyebrow">Eyebrow</a> raising</li>
+<li><a href="/wiki/Flattery" title="Flattery">Flattery</a> (e.g. regarding <a href="/wiki/Beauty" title="Beauty">beauty</a>, <a href="/wiki/Sexual_attractiveness" class="mw-redirect" title="Sexual attractiveness">sexual attractiveness</a>)</li>
+<li><a href="/wiki/Footsie_(flirting)" title="Footsie (flirting)">Footsie</a>,<sup id="cite_ref-Sexplanations_29-3" class="reference"><a href="#cite_note-Sexplanations-29">&#91;29&#93;</a></sup> a form of flirtation in which one uses their feet to play with another's</li>
+<li><a href="/wiki/Imitation" title="Imitation">Imitating</a> or <a href="/wiki/Mirroring_(psychology)" title="Mirroring (psychology)">mirroring</a> another's behavior (e.g. taking a drink when the other person takes a drink, changing posture as the other does, foreshadowing or mimicking someone's reactions to successful attraction etc.)</li>
+<li><a href="/wiki/Laughter" title="Laughter">Laughing</a>, giggling, chuckling encouragingly at any slight hint of intimacy in the other's behavior</li>
+<li>Maintaining close proximity, such as during casual talking</li>
+<li><a href="/wiki/Nickname" title="Nickname">Nicknames</a> and other <a href="/wiki/Term_of_endearment" title="Term of endearment">terms of endearment</a> to describe a partner's personality, beauty or sexiness</li>
+<li><a href="/wiki/Online_chat" title="Online chat">Chatting online</a>, <a href="/wiki/Texting" class="mw-redirect" title="Texting">texting</a>, and using other one-on-one and direct messaging services, while hinting affection</li>
+<li><a href="/wiki/Proteans_(body_language)" class="mw-redirect" title="Proteans (body language)">Protean</a> signals or indicators of interest, such as touching one's hair, side-ways glance, and pointing one's chest towards partner's chest</li>
+<li>Writing <a href="/wiki/Love_letter" title="Love letter">love letters</a> and notes, <a href="/wiki/Poetry" title="Poetry">poems</a>, or presenting small <a href="/wiki/Gift" title="Gift">gifts</a></li>
+<li>Singing specially selected <a href="/wiki/Love_song" title="Love song">love songs</a> as a <a href="/wiki/Declaration_of_love" title="Declaration of love">declaration of love</a> and devotion in presence of one's partner</li>
+<li><a href="/wiki/Smile" title="Smile">Smiling</a> or grinning at partner and/or holding them close</li>
+<li>Staging of "chance" encounters and romantic rendezvous</li>
+<li><a href="/wiki/Sexting" title="Sexting">Sexting</a></li>
+<li><a href="/wiki/Teasing" title="Teasing">Teasing</a></li>
+<li><a href="/wiki/Tickling" title="Tickling">Tickling</a></li>
+<li><a href="/wiki/Wink" title="Wink">Winking</a></li></ul>
+<p>The effectiveness of many of these interactions has been subjected to detailed analysis by <a href="/wiki/Behavioral_psychologist" class="mw-redirect" title="Behavioral psychologist">behavioral psychologists</a>, and advice on their use is available from <a href="/wiki/Dating_coach" title="Dating coach">dating coaches</a>.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cultural_variations">Cultural variations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=9" title="Edit section: Cultural variations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Flirting varies a great deal from culture to culture. For example, for many western cultures one very common flirting strategy includes eye contact. However, eye contact can have a very different meaning in some Asian countries, where women might get in trouble if they return a glance to men who stare at them. Furthermore, Chinese and Japanese women are sometimes not expected to initiate eye contact as it could be considered rude and disrespectful.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Eugen_de_Blaas_The_Flirtation.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eugen_de_Blaas_The_Flirtation.jpg/220px-Eugen_de_Blaas_The_Flirtation.jpg" decoding="async" width="220" height="182" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eugen_de_Blaas_The_Flirtation.jpg/330px-Eugen_de_Blaas_The_Flirtation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eugen_de_Blaas_The_Flirtation.jpg/440px-Eugen_de_Blaas_The_Flirtation.jpg 2x" data-file-width="1041" data-file-height="863" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Eugen_de_Blaas_The_Flirtation.jpg" class="internal" title="Enlarge"></a></div><i>The Flirtation</i> by <a href="/wiki/Eugene_de_Blaas" title="Eugene de Blaas">Eugene de Blaas</a>. A study of body language: a man flirting</div></div></div>
+<p>The distance between two people is also important when flirting. People from the "contact cultures", such as those in the Mediterranean or Latin America, may feel comfortable with closer proximity, whereas a British or Northern European person may typically need more space. Although touching, especially of the hand or arm, can constitute flirting, touching is also often done without intentions of flirting, particularly in the contact cultures where it forms a natural part of communication.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Anti-Flirt_Club" title="Anti-Flirt Club">Anti-Flirt Club</a></li>
+<li><a href="/wiki/Making_out" title="Making out">Making out</a></li>
+<li><a href="/wiki/Public_display_of_affection" title="Public display of affection">Public display of affection</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Flirting&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.spiegel.de/international/0,1518,419712,00.html">"Scoring a German: Flirting with Fräuleins, Hunting for Herren"</a>. Spiegel.de<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-10-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Scoring+a+German%3A+Flirting+with+Fr%C3%A4uleins%2C+Hunting+for+Herren&amp;rft.pub=Spiegel.de&amp;rft_id=http%3A%2F%2Fwww.spiegel.de%2Finternational%2F0%2C1518%2C419712%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">texte, Académie de Nîmes. Auteur du (9 August 1876). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k486334v/f532.item">"Mémoires de l'Académie royale du Gard"</a>. <i>Gallica</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=M%C3%A9moires+de+l%27Acad%C3%A9mie+royale+du+Gard&amp;rft.date=1876-08-09&amp;rft.aulast=texte&amp;rft.aufirst=Acad%C3%A9mie+de+N%C3%AEmes.+Auteur+du&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k486334v%2Ff532.item&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">texte, La Taille, Jean de (1535?-1611?). Auteur du; texte, Arioste, L' (1474-1533). Auteur du; texte, La Taille, Jacques de (1542-1562). Auteur du (9 August 1573). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k5734760f/f340.image">"La famine, ou Les Gabéonites, tragédie prise de la Bible et suivant celle de Saül, ensemble plusieurs autres oeuvres poëtiques de Jehan de La Taille de Bondaroy..."</a> <i>Gallica</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=La+famine%2C+ou+Les+Gab%C3%A9onites%2C+trag%C3%A9die+prise+de+la+Bible+et+suivant+celle+de+Sa%C3%BCl%2C+ensemble+plusieurs+autres+oeuvres+po%C3%ABtiques+de+Jehan+de+La+Taille+de+Bondaroy...&amp;rft.date=1573&amp;rft.aulast=texte&amp;rft.aufirst=La+Taille%2C+Jean+de+%281535%3F-1611%3F%29.+Auteur+du&amp;rft.au=texte%2C+Arioste%2C+L%27+%281474-1533%29.+Auteur+du&amp;rft.au=texte%2C+La+Taille%2C+Jacques+de+%281542-1562%29.+Auteur+du&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k5734760f%2Ff340.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">texte, Tabourot, Étienne (1549-1590). Auteur du; texte, Tabourot, Étienne (1549-1590). Auteur du (9 August 2018). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k6274152x/f826.image">"Les bigarrures et touches du seigneur des Accords . Avec les Apophtegmes du sieur Gaulard et les Escraignes dijonnoises. Dernière édition, reveue et de beaucoup augmentée"</a>. <i>Gallica</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=Les+bigarrures+et+touches+du+seigneur+des+Accords+.+Avec+les+Apophtegmes+du+sieur+Gaulard+et+les+Escraignes+dijonnoises.+Derni%C3%A8re+%C3%A9dition%2C+reveue+et+de+beaucoup+augment%C3%A9e&amp;rft.date=2018-08-09&amp;rft.aulast=texte&amp;rft.aufirst=Tabourot%2C+%C3%89tienne+%281549-1590%29.+Auteur+du&amp;rft.au=texte%2C+Tabourot%2C+%C3%89tienne+%281549-1590%29.+Auteur+du&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k6274152x%2Ff826.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">texte, Guy de Tours (1562?-1611?). Auteur du; texte, Berthelot (15..-16..&#160;; poète satirique). Auteur du; texte, Béroalde de Verville, François (1556-1626). Auteur du; texte, Gauchet, Claude (1540-162.). Auteur du (9 August 2018). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k72423n/f73.image">"Les muses incognues ou La seille aux bourriers plaine de désirs et imaginations d'amour&#160;: réimprimé textuellement et collationné sur l'exemplaire existant à la Bibliothèque de l'Arsenal à Paris (&#91;Reprod. en fac-sim.&#93;) / recueil de poésies satyriques de Béroalde de Verville, de Guy de Tours, de Gauchet, de Berthelot, de Motin, etc"</a>. <i>Gallica</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=Les+muses+incognues+ou+La+seille+aux+bourriers+plaine+de+d%C3%A9sirs+et+imaginations+d%27amour+%3A+r%C3%A9imprim%C3%A9+textuellement+et+collationn%C3%A9+sur+l%27exemplaire+existant+%C3%A0+la+Biblioth%C3%A8que+de+l%27Arsenal+%C3%A0+Paris+%28%5BReprod.+en+fac-sim.%5D%29+%2F+recueil+de+po%C3%A9sies+satyriques+de+B%C3%A9roalde+de+Verville%2C+de+Guy+de+Tours%2C+de+Gauchet%2C+de+Berthelot%2C+de+Motin%2C+etc.&amp;rft.date=2018-08-09&amp;rft.aulast=texte&amp;rft.aufirst=Guy+de+Tours+%281562%3F-1611%3F%29.+Auteur+du&amp;rft.au=texte%2C+Berthelot+%2815..-16..+%3B+po%C3%A8te+satirique%29.+Auteur+du&amp;rft.au=texte%2C+B%C3%A9roalde+de+Verville%2C+Fran%C3%A7ois+%281556-1626%29.+Auteur+du&amp;rft.au=texte%2C+Gauchet%2C+Claude+%281540-162.%29.+Auteur+du&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k72423n%2Ff73.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">texte, Larivey, Pierre de (1540?-1619). Auteur du (9 August 2018). <a rel="nofollow" class="external text" href="http://gallica.bnf.fr/ark:/12148/bpt6k65869952/f690.image">"Les comédies facécieuses de Pierre de Larivey, champenois . A l'imitation des anciens Grecs, Latins, &amp; modernes Italiens. A sçavoir, le Laquais, la Veuve, les Esprits, le Morfondu, les Escolliers"</a>. <i>Gallica</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gallica&amp;rft.atitle=Les+com%C3%A9dies+fac%C3%A9cieuses+de+Pierre+de+Larivey%2C+champenois+.+A+l%27imitation+des+anciens+Grecs%2C+Latins%2C+%26+modernes+Italiens.+A+s%C3%A7avoir%2C+le+Laquais%2C+la+Veuve%2C+les+Esprits%2C+le+Morfondu%2C+les+Escolliers&amp;rft.date=2018-08-09&amp;rft.aulast=texte&amp;rft.aufirst=Larivey%2C+Pierre+de+%281540%3F-1619%29.+Auteur+du&amp;rft_id=http%3A%2F%2Fgallica.bnf.fr%2Fark%3A%2F12148%2Fbpt6k65869952%2Ff690.image&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Revue des langues romanes</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFÉmile_Littré" class="citation"><a href="/wiki/%C3%89mile_Littr%C3%A9" title="Émile Littré">Émile Littré</a>, <a rel="nofollow" class="external text" href="http://www.littre.org/definition/fleurette">"fleurette"</a>, <i>Dictionnaire de la langue française</i> (in French)</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Dictionnaire+de+la+langue+fran%C3%A7aise&amp;rft.atitle=fleurette&amp;rft.au=%C3%89mile+Littr%C3%A9&amp;rft_id=http%3A%2F%2Fwww.littre.org%2Fdefinition%2Ffleurette&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-uk-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-uk_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-uk_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Mead, Margaret (2004).  William O. Beeman (ed.). <i>Studying Contemporary Western Society: Method and Theory</i>. New York: Berghahn Books. pp.&#160;145, 149. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-57181-816-4" title="Special:BookSources/978-1-57181-816-4"><bdi>978-1-57181-816-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Studying+Contemporary+Western+Society%3A+Method+and+Theory&amp;rft.place=New+York&amp;rft.pages=145%2C+149&amp;rft.pub=Berghahn+Books&amp;rft.date=2004&amp;rft.isbn=978-1-57181-816-4&amp;rft.aulast=Mead&amp;rft.aufirst=Margaret&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">
+Mead's article, <i>A Case History in Cross-National Communications</i>, was originally published in <cite class="citation book">Bryson, Lyman (1948). <i>The Communication of Ideas</i>. New York: Institute for Religious and Social Studies, dist. by Harper and Brothers. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1488507">1488507</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Communication+of+Ideas&amp;rft.place=New+York&amp;rft.pub=Institute+for+Religious+and+Social+Studies%2C+dist.+by+Harper+and+Brothers&amp;rft.date=1948&amp;rft_id=info%3Aoclcnum%2F1488507&amp;rft.aulast=Bryson&amp;rft.aufirst=Lyman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">
+e.g. <cite class="citation book">Mead, Margaret (1944). <i>The American troops and the British community</i>. London: Hutchinson. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/43965908">43965908</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+American+troops+and+the+British+community&amp;rft.place=London&amp;rft.pub=Hutchinson&amp;rft.date=1944&amp;rft_id=info%3Aoclcnum%2F43965908&amp;rft.aulast=Mead&amp;rft.aufirst=Margaret&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">
+e.g. <cite class="citation journal">Mead, Margaret. "What Is a Date?". <i><a href="/wiki/Transatlantic_(disambiguation)" class="mw-redirect mw-disambig" title="Transatlantic (disambiguation)">Transatlantic</a></i>. <b>10</b> (June 1944). <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/9091671">9091671</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Transatlantic&amp;rft.atitle=What+Is+a+Date%3F&amp;rft.volume=10&amp;rft.issue=June+1944&amp;rft_id=info%3Aoclcnum%2F9091671&amp;rft.aulast=Mead&amp;rft.aufirst=Margaret&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">
+<cite class="citation book">Watzlawick, Paul (1983). <i>How Real Is Real?</i>. London: Souvenir Press. pp.&#160;63–64. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-285-62573-0" title="Special:BookSources/978-0-285-62573-0"><bdi>978-0-285-62573-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+Real+Is+Real%3F&amp;rft.place=London&amp;rft.pages=63-64&amp;rft.pub=Souvenir+Press&amp;rft.date=1983&amp;rft.isbn=978-0-285-62573-0&amp;rft.aulast=Watzlawick&amp;rft.aufirst=Paul&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.avictorian.com/fanlanguage.html">"Ladies and their Fans"</a>. Avictorian.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ladies+and+their+Fans&amp;rft.pub=Avictorian.com&amp;rft_id=http%3A%2F%2Fwww.avictorian.com%2Ffanlanguage.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://spainforvisitors.com/module-News-display-sid-236.htm">"The Language of the Fan"</a>. Spainforvisitors.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Language+of+the+Fan&amp;rft.pub=Spainforvisitors.com&amp;rft_id=http%3A%2F%2Fspainforvisitors.com%2Fmodule-News-display-sid-236.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Fox, Kate. <a rel="nofollow" class="external text" href="http://www.sirc.org/publik/flirt.html">"SRIC Guide to Flirting"</a>. Sirc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SRIC+Guide+to+Flirting&amp;rft.pub=Sirc.org&amp;rft.aulast=Fox&amp;rft.aufirst=Kate&amp;rft_id=http%3A%2F%2Fwww.sirc.org%2Fpublik%2Fflirt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henningsen, David (2004). "Flirting with meaning: an examination of miscommunication in flirting interactions". <i>Sex Roles</i>. <b>50</b> (7–8).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sex+Roles&amp;rft.atitle=Flirting+with+meaning%3A+an+examination+of+miscommunication+in+flirting+interactions&amp;rft.volume=50&amp;rft.issue=7%E2%80%938&amp;rft.date=2004&amp;rft.aulast=Henningsen&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henningsen, David (2004). "Flirting with meaning: an examination of miscommunication in flirting interactions". <i>Sex Roles</i>. <b>50</b> (7–8).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sex+Roles&amp;rft.atitle=Flirting+with+meaning%3A+an+examination+of+miscommunication+in+flirting+interactions&amp;rft.volume=50&amp;rft.issue=7%E2%80%938&amp;rft.date=2004&amp;rft.aulast=Henningsen&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Messman, Susan J; Canary, Daniel J; Hause, Kimberly (2000). "Motives to Remain Platonic, Equity, and the Use of Maintenance Strategies in Opposite-Sex Friendships". <i>Journal of Social and Personal Relationships</i>. <b>16</b> (67–94): 67–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F0265407500171004">10.1177/0265407500171004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Social+and+Personal+Relationships&amp;rft.atitle=Motives+to+Remain+Platonic%2C+Equity%2C+and+the+Use+of+Maintenance+Strategies+in+Opposite-Sex+Friendships&amp;rft.volume=16&amp;rft.issue=67%E2%80%9394&amp;rft.pages=67-94&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1177%2F0265407500171004&amp;rft.aulast=Messman&amp;rft.aufirst=Susan+J&amp;rft.au=Canary%2C+Daniel+J&amp;rft.au=Hause%2C+Kimberly&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation journal">Messman, Susan J; Canary, Daniel J; Hause, Kimberly (2000). "Motives to Remain Platonic, Equity, and the Use of Maintenance Strategies in Opposite-Sex Friendships". <i>Journal of Social and Personal Relationships</i>. <b>16</b> (67–94): 67–94. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F0265407500171004">10.1177/0265407500171004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Social+and+Personal+Relationships&amp;rft.atitle=Motives+to+Remain+Platonic%2C+Equity%2C+and+the+Use+of+Maintenance+Strategies+in+Opposite-Sex+Friendships&amp;rft.volume=16&amp;rft.issue=67%E2%80%9394&amp;rft.pages=67-94&amp;rft.date=2000&amp;rft_id=info%3Adoi%2F10.1177%2F0265407500171004&amp;rft.aulast=Messman&amp;rft.aufirst=Susan+J&amp;rft.au=Canary%2C+Daniel+J&amp;rft.au=Hause%2C+Kimberly&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gersick, Andrew; Kurzban, Robert (2014). "Covert Sexual Signaling: Human Flirtation and Implications for other Social Species". <i>Evolutionary Psychology</i>. <b>12</b> (3): 147470491401200. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F147470491401200305">10.1177/147470491401200305</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evolutionary+Psychology&amp;rft.atitle=Covert+Sexual+Signaling%3A+Human+Flirtation+and+Implications+for+other+Social+Species&amp;rft.volume=12&amp;rft.issue=3&amp;rft.pages=147470491401200&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1177%2F147470491401200305&amp;rft.aulast=Gersick&amp;rft.aufirst=Andrew&amp;rft.au=Kurzban%2C+Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gersick, Andrew; Kurzban, Robert (2014). "Covert Sexual Signaling: Human Flirtation and Implications for other Social Species". <i>Evolutionary Psychology</i>. <b>12</b> (3): 147470491401200. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F147470491401200305">10.1177/147470491401200305</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evolutionary+Psychology&amp;rft.atitle=Covert+Sexual+Signaling%3A+Human+Flirtation+and+Implications+for+other+Social+Species&amp;rft.volume=12&amp;rft.issue=3&amp;rft.pages=147470491401200&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1177%2F147470491401200305&amp;rft.aulast=Gersick&amp;rft.aufirst=Andrew&amp;rft.au=Kurzban%2C+Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Buss, David; Schmitt, David (1993). "Sexual strategies theory: An evolutionary perspective on human mating". Psychological Review.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Sexual+strategies+theory%3A+An+evolutionary+perspective+on+human+mating&amp;rft.date=1993&amp;rft.aulast=Buss&amp;rft.aufirst=David&amp;rft.au=Schmitt%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gersick, Andrew; Kurzban, Robert (2014). "Covert Sexual Signaling: Human Flirtation and Implications for other Social Species". <i>Evolutionary Psychology</i>. <b>12</b> (3): 147470491401200. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1177%2F147470491401200305">10.1177/147470491401200305</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Evolutionary+Psychology&amp;rft.atitle=Covert+Sexual+Signaling%3A+Human+Flirtation+and+Implications+for+other+Social+Species&amp;rft.volume=12&amp;rft.issue=3&amp;rft.pages=147470491401200&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.1177%2F147470491401200305&amp;rft.aulast=Gersick&amp;rft.aufirst=Andrew&amp;rft.au=Kurzban%2C+Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henningsen, David (2004). "Flirting with meaning: an examination of miscommunication in flirting interactions". <i>Sex Roles</i>. <b>50</b> (7–8).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sex+Roles&amp;rft.atitle=Flirting+with+meaning%3A+an+examination+of+miscommunication+in+flirting+interactions&amp;rft.volume=50&amp;rft.issue=7%E2%80%938&amp;rft.date=2004&amp;rft.aulast=Henningsen&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henningsen, David (2004). "Flirting with meaning: an examination of miscommunication in flirting interactions". <i>Sex Roles</i>. <b>50</b> (7–8).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sex+Roles&amp;rft.atitle=Flirting+with+meaning%3A+an+examination+of+miscommunication+in+flirting+interactions&amp;rft.volume=50&amp;rft.issue=7%E2%80%938&amp;rft.date=2004&amp;rft.aulast=Henningsen&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation book">Campbell, Bernard (1972). <i>Sexual selection and the descent of man</i>. Aldine. pp.&#160;1871–1971.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sexual+selection+and+the+descent+of+man&amp;rft.pages=1871-1971&amp;rft.pub=Aldine&amp;rft.date=1972&amp;rft.aulast=Campbell&amp;rft.aufirst=Bernard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Henningsen, David (2004). "Flirting with meaning: an examination of miscommunication in flirting interactions". <i>Sex Roles</i>. <b>50</b> (7–8).</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Sex+Roles&amp;rft.atitle=Flirting+with+meaning%3A+an+examination+of+miscommunication+in+flirting+interactions&amp;rft.volume=50&amp;rft.issue=7%E2%80%938&amp;rft.date=2004&amp;rft.aulast=Henningsen&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Sexplanations-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Sexplanations_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Sexplanations_29-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Sexplanations_29-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Sexplanations_29-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation audio-visual"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=HWDGrUQr-60"><i>Flirting</i></a>. Sexplanations. 2014-03-25.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Flirting&amp;rft.pub=Sexplanations&amp;rft.date=2014-03-25&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHWDGrUQr-60&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Winter, Susan (2015-04-19). <a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/susan-winter/the-dating-game-of-hot-and-cold_b_7093446.html">"The Dating Game of Hot and Cold"</a>. <i>Huffington Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-03-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huffington+Post&amp;rft.atitle=The+Dating+Game+of+Hot+and+Cold&amp;rft.date=2015-04-19&amp;rft.aulast=Winter&amp;rft.aufirst=Susan&amp;rft_id=http%3A%2F%2Fwww.huffingtonpost.com%2Fsusan-winter%2Fthe-dating-game-of-hot-and-cold_b_7093446.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brighthub.com/education/languages/articles/35828.aspx">"Covert glances and eye contact"</a>. Brighthub.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Covert+glances+and+eye+contact&amp;rft.pub=Brighthub.com&amp;rft_id=http%3A%2F%2Fwww.brighthub.com%2Feducation%2Flanguages%2Farticles%2F35828.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sirc.org/publik/flirt.html">"SIRC Guide to Flirting"</a>. Sirc.org<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-06-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SIRC+Guide+to+Flirting&amp;rft.pub=Sirc.org&amp;rft_id=http%3A%2F%2Fwww.sirc.org%2Fpublik%2Fflirt.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFlirting" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Flirting" class="extiw" title="commons:Category:Flirting">Flirting</a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Flirting" class="extiw" title="q:Special:Search/Flirting">Flirting</a></b></i></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="https://en.wikisource.org/wiki/The_Royal_Path_of_Life/Flirting" class="extiw" title="wikisource:The Royal Path of Life/Flirting">A nineteenth century perspective on flirting</a></b></div></td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Outline_of_human_sexuality" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Sex" title="Template:Sex"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sex" title="Template talk:Sex"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Sex&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Outline_of_human_sexuality" style="font-size:114%;margin:0 4em"><a href="/wiki/Outline_of_human_sexuality" title="Outline of human sexuality">Outline</a> of <a href="/wiki/Human_sexuality" title="Human sexuality">human sexuality</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Physiology" title="Physiology">Physiology</a> and biology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Erection" title="Erection">Erection</a></li>
+<li><a href="/wiki/Insemination" title="Insemination">Insemination</a></li>
+<li><a href="/wiki/Intersex" title="Intersex">Intersex</a></li>
+<li><a href="/wiki/Libido" title="Libido">Libido</a></li>
+<li><a href="/wiki/Nocturnal_emission" title="Nocturnal emission">Nocturnal emission</a></li>
+<li><a href="/wiki/Orgasm" title="Orgasm">Orgasm</a>
+<ul><li><a href="/wiki/Female_ejaculation" title="Female ejaculation">Female</a> and <a href="/wiki/Ejaculation" title="Ejaculation">male ejaculation</a></li></ul></li>
+<li><a href="/wiki/Pelvic_thrust" title="Pelvic thrust">Pelvic thrust</a></li>
+<li><a href="/wiki/Pre-ejaculate" title="Pre-ejaculate">Pre-ejaculate</a></li>
+<li><a href="/wiki/Pregnancy" title="Pregnancy">Pregnancy</a></li>
+<li><a href="/wiki/Sexual_arousal" title="Sexual arousal">Sexual arousal</a></li>
+<li><a href="/wiki/Sexual_stimulation" title="Sexual stimulation">Sexual stimulation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Reproductive_health" title="Reproductive health">Health</a> and<br /> <a href="/wiki/Sex_education" title="Sex education">education</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birth_control" title="Birth control">Birth control</a></li>
+<li><a href="/wiki/Condom" title="Condom">Condom</a></li>
+<li><a href="/wiki/Masters_and_Johnson" title="Masters and Johnson">Masters and Johnson</a></li>
+<li><a href="/wiki/Reproductive_medicine" title="Reproductive medicine">Reproductive medicine</a>
+<ul><li><a href="/wiki/Andrology" title="Andrology">Andrology</a></li>
+<li><a href="/wiki/Gynaecology" title="Gynaecology">Gynaecology</a></li>
+<li><a href="/wiki/Urology" title="Urology">Urology</a></li></ul></li>
+<li><a href="/wiki/Safe_sex" title="Safe sex">Safe sex</a></li>
+<li><a href="/wiki/Sex_education" title="Sex education">Sex education</a></li>
+<li><a href="/wiki/Sex_therapy" title="Sex therapy">Sex therapy</a></li>
+<li><a href="/wiki/Sexology" title="Sexology">Sexology</a></li>
+<li><a href="/wiki/Sexual_dysfunction" title="Sexual dysfunction">Sexual dysfunction</a>
+<ul><li><a href="/wiki/Erectile_dysfunction" title="Erectile dysfunction">Erectile dysfunction</a></li>
+<li><a href="/wiki/Hypersexuality" title="Hypersexuality">Hypersexuality</a></li>
+<li><a href="/wiki/Hypoactive_sexual_desire_disorder" title="Hypoactive sexual desire disorder">Hyposexuality</a></li></ul></li>
+<li><a href="/wiki/Sexual_medicine" title="Sexual medicine">Sexual medicine</a></li>
+<li><a href="/wiki/Sexual_surrogate" title="Sexual surrogate">Sexual surrogate</a></li>
+<li><a href="/wiki/Sexually_transmitted_infection" title="Sexually transmitted infection">Sexually transmitted infection</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Identity_(social_science)" title="Identity (social science)">Identity</a> and <a href="/wiki/Sexual_diversity" title="Sexual diversity">diversity</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gender_binary" title="Gender binary">Gender binary</a></li>
+<li><a href="/wiki/Gender_identity" title="Gender identity">Gender identity</a></li>
+<li><a href="/wiki/Men_who_have_sex_with_men" title="Men who have sex with men">Men who have sex with men</a></li>
+<li><a href="/wiki/Sexual_identity" title="Sexual identity">Sexual identity</a></li>
+<li><a href="/wiki/Sexual_orientation" title="Sexual orientation">Sexual orientation</a></li>
+<li><a href="/wiki/Women_who_have_sex_with_women" title="Women who have sex with women">Women who have sex with women</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sex_and_the_law" title="Sex and the law">Law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Age_of_consent" title="Age of consent">Age of consent</a></li>
+<li><a href="/wiki/Criminal_transmission_of_HIV" title="Criminal transmission of HIV">Criminal transmission of HIV</a></li>
+<li><a href="/wiki/Child_sexual_abuse" title="Child sexual abuse">Child sexual abuse</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li>
+<li><a href="/wiki/Indecent_exposure" title="Indecent exposure">Indecent exposure</a></li>
+<li><a href="/wiki/Obscenity" title="Obscenity">Obscenity</a></li>
+<li><a href="/wiki/Sexual_abuse" title="Sexual abuse">Sexual abuse</a>
+<ul><li><a href="/wiki/Rape" title="Rape">Rape</a></li>
+<li><a href="/wiki/Sexual_assault" title="Sexual assault">Sexual assault</a></li>
+<li><a href="/wiki/Sexual_harassment" title="Sexual harassment">Sexual harassment</a></li>
+<li><a href="/wiki/Sexual_misconduct" title="Sexual misconduct">Sexual misconduct</a></li>
+<li><a href="/wiki/Sexual_violence" title="Sexual violence">Sexual violence</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/History_of_human_sexuality" title="History of human sexuality">History</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blue_Movie" title="Blue Movie">Blue Movie</a></li>
+<li><a href="/wiki/Counterculture_of_the_1960s" title="Counterculture of the 1960s">Counterculture of the 1960s</a></li>
+<li><a href="/wiki/Feminist_sex_wars" title="Feminist sex wars">Feminist sex wars</a></li>
+<li><a href="/wiki/Golden_Age_of_Porn" title="Golden Age of Porn">Golden Age of Porn</a></li>
+<li><a href="/wiki/History_of_erotic_depictions" title="History of erotic depictions">History of erotic depictions</a></li>
+<li><a href="/wiki/Sexual_revolution" title="Sexual revolution">Sexual revolution</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Intimate_relationship" title="Intimate relationship">Relationships</a><br /> and <a href="/wiki/Society" title="Society">society</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anarchism_and_issues_related_to_love_and_sex" title="Anarchism and issues related to love and sex">Anarchism and love/sex</a></li>
+<li><a href="/wiki/Extramarital_sex" title="Extramarital sex">Extramarital sex</a></li>
+<li><a href="/wiki/Family_planning" title="Family planning">Family planning</a></li>
+<li><a class="mw-selflink selflink">Flirting</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Modesty" title="Modesty">Modesty</a></li>
+<li><a href="/wiki/Polyamory" title="Polyamory">Polyamory</a></li>
+<li><a href="/wiki/Premarital_sex" title="Premarital sex">Premarital sex</a></li>
+<li><a href="/wiki/Promiscuity" title="Promiscuity">Promiscuity</a></li>
+<li><a href="/wiki/Romance_(love)" title="Romance (love)">Romance</a></li>
+<li><a href="/wiki/Sexual_abstinence" title="Sexual abstinence">Sexual abstinence</a></li>
+<li><a href="/wiki/Sexual_addiction" title="Sexual addiction">Sexual addiction</a></li>
+<li><a href="/wiki/Sexual_attraction" title="Sexual attraction">Sexual attraction</a></li>
+<li><a href="/wiki/Sexual_capital" title="Sexual capital">Sexual capital</a></li>
+<li><a href="/wiki/Sexual_ethics" title="Sexual ethics">Sexual ethics</a></li>
+<li><a href="/wiki/Sexual_objectification" title="Sexual objectification">Sexual objectification</a></li>
+<li><a href="/wiki/Sexual_slang" title="Sexual slang">Sexual slang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Sexuality_by_country" title="Category:Sexuality by country">By country</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sexuality_in_ancient_Rome" title="Sexuality in ancient Rome">Ancient Rome</a></li>
+<li><a href="/wiki/Sexuality_in_China" title="Sexuality in China">China</a></li>
+<li><a href="/wiki/Sexuality_in_India" title="Sexuality in India">India</a></li>
+<li><a href="/wiki/Sexuality_in_Japan" title="Sexuality in Japan">Japan</a></li>
+<li><a href="/wiki/Sexuality_in_the_Philippines" title="Sexuality in the Philippines">Philippines</a></li>
+<li><a href="/wiki/Sexuality_in_South_Korea" title="Sexuality in South Korea">South Korea</a></li>
+<li><a href="/wiki/Adolescent_sexuality_in_the_United_States" title="Adolescent sexuality in the United States">United States</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Human_sexual_activity" title="Human sexual activity">Sexual<br />activities</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anal_sex" title="Anal sex">Anal sex</a></li>
+<li><a href="/wiki/Bareback_(sex)" title="Bareback (sex)">Bareback</a></li>
+<li><a href="/wiki/BDSM" title="BDSM">BDSM</a></li>
+<li><a href="/wiki/Child_sexuality" title="Child sexuality">Child sex</a></li>
+<li><a href="/wiki/Creampie_(sexual_act)" title="Creampie (sexual act)">Creampie</a></li>
+<li><a href="/wiki/Edging_(sexual_practice)" title="Edging (sexual practice)">Edging</a></li>
+<li><a href="/wiki/Erotic_sexual_denial" title="Erotic sexual denial">Erotic sexual denial</a></li>
+<li><a href="/wiki/Sexual_fetishism" title="Sexual fetishism">Fetishism</a></li>
+<li><a href="/wiki/Fingering_(sexual_act)" title="Fingering (sexual act)">Fingering</a></li>
+<li><a href="/wiki/Fisting" title="Fisting">Fisting</a></li>
+<li><a href="/wiki/Gang_bang" title="Gang bang">Gang bang</a></li>
+<li><a href="/wiki/Group_sex" title="Group sex">Group sex</a></li>
+<li><a href="/wiki/Masturbation" title="Masturbation">Masturbation</a></li>
+<li><a href="/wiki/Mechanics_of_human_sexuality" title="Mechanics of human sexuality">Mechanics of sex</a></li>
+<li><a href="/wiki/Nipple_stimulation" title="Nipple stimulation">Nipple stimulation</a></li>
+<li><a href="/wiki/Non-penetrative_sex" title="Non-penetrative sex">Non-penetrative sex</a></li>
+<li><a href="/wiki/Facial_(sex_act)" title="Facial (sex act)">Facial</a></li>
+<li><a href="/wiki/Foot_fetishism" title="Foot fetishism">Foot fetishism</a></li>
+<li><a href="/wiki/Footjob" title="Footjob">Footjob</a></li>
+<li><a href="/wiki/Forced_orgasm" title="Forced orgasm">Forced orgasm</a></li>
+<li><a href="/wiki/Frot" title="Frot">Frot</a></li>
+<li><a href="/wiki/Handjob" title="Handjob">Handjob</a></li>
+<li><a href="/wiki/Mammary_intercourse" title="Mammary intercourse">Mammary intercourse</a></li>
+<li><a href="/wiki/Sumata" class="mw-redirect" title="Sumata">Sumata</a></li>
+<li><a href="/wiki/Oral_sex" title="Oral sex">Oral sex</a>
+<ul><li><a href="/wiki/69_(sex_position)" title="69 (sex position)">69</a></li>
+<li><a href="/wiki/Anilingus" title="Anilingus">Anilingus</a></li>
+<li><a href="/wiki/Cunnilingus" title="Cunnilingus">Cunnilingus</a></li>
+<li><a href="/wiki/Fellatio" title="Fellatio">Fellatio</a></li>
+<li><a href="/wiki/Irrumatio" title="Irrumatio">Irrumatio</a></li></ul></li>
+<li><a href="/wiki/Paraphilia" title="Paraphilia">Paraphilia</a></li>
+<li><a href="/wiki/Pompoir" title="Pompoir">Pompoir</a></li>
+<li><a href="/wiki/Quickie_(sex)" title="Quickie (sex)">Quickie</a></li>
+<li><a href="/wiki/Sex_in_space" title="Sex in space">Sex in space</a></li>
+<li><a href="/wiki/Sex_position" title="Sex position">Sex positions</a></li>
+<li><a href="/wiki/Sexual_fantasy" title="Sexual fantasy">Sexual fantasy</a></li>
+<li><a href="/wiki/Sexual_fetishism" title="Sexual fetishism">Sexual fetishism</a></li>
+<li><a href="/wiki/Sexual_intercourse" title="Sexual intercourse">Sexual intercourse</a>
+<ul><li><a href="/wiki/Foreplay" title="Foreplay">Foreplay</a></li></ul></li>
+<li><a href="/wiki/Sexual_penetration" title="Sexual penetration">Sexual penetration</a></li>
+<li><a href="/wiki/Swinging_(sexual_practice)" title="Swinging (sexual practice)">Swinging</a></li>
+<li><a href="/wiki/Tribadism" title="Tribadism">Tribadism</a></li>
+<li><a href="/wiki/Urethral_intercourse" title="Urethral intercourse">Urethral intercourse</a></li>
+<li><a href="/wiki/Urolagnia" title="Urolagnia">Urolagnia</a></li>
+<li><a href="/wiki/Virtual_sex" title="Virtual sex">Virtual sex</a>
+<ul><li><a href="/wiki/Cybersex" title="Cybersex">Cybersex</a></li>
+<li><a href="/wiki/Erotic_talk" title="Erotic talk">Erotic talk</a></li></ul></li>
+<li><a href="/wiki/Wet_T-shirt_contest" title="Wet T-shirt contest">Wet T-shirt contest</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sex_industry" title="Sex industry">Sex industry</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Red-light_district" title="Red-light district">Red-light district</a></li>
+<li><a href="/wiki/Sex_and_nudity_in_video_games" title="Sex and nudity in video games">Adult video games</a></li>
+<li><a href="/wiki/Erotica" title="Erotica">Erotica</a></li>
+<li><a href="/wiki/Pornography" title="Pornography">Pornography</a>
+<ul><li><a href="/wiki/Pornographic_film_actor" title="Pornographic film actor">Film actor</a></li></ul></li>
+<li><a href="/wiki/Prostitution" title="Prostitution">Prostitution</a>
+<ul><li><a href="/wiki/Survival_sex" title="Survival sex">Survival sex</a></li></ul></li>
+<li><a href="/wiki/List_of_sex_museums" title="List of sex museums">Sex museum</a></li>
+<li><a href="/wiki/Sex_shop" title="Sex shop">Sex shop</a></li>
+<li><a href="/wiki/Sex_tourism" title="Sex tourism">Sex tourism</a>
+<ul><li><a href="/wiki/Child_sex_tourism" title="Child sex tourism">Child</a></li>
+<li><a href="/wiki/Female_sex_tourism" title="Female sex tourism">Female</a></li></ul></li>
+<li><a href="/wiki/Sex_worker" title="Sex worker">Sex worker</a></li>
+<li><a href="/wiki/Sex_toy" title="Sex toy">Sex toy</a>
+<ul><li><a href="/wiki/Sex_doll" title="Sex doll">doll</a></li></ul></li>
+<li><a href="/wiki/Strip_club" title="Strip club">Strip club</a></li>
+<li><a href="/wiki/Webcam_model" title="Webcam model">Webcam model</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_and_sexuality" title="Religion and sexuality">Religion and<br />sexuality</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buddhism_and_sexuality" title="Buddhism and sexuality">Buddhism</a></li>
+<li><a href="/wiki/Sexuality_in_Christian_demonology" title="Sexuality in Christian demonology">Christian demonology</a></li>
+<li><a href="/wiki/Taoist_sexual_practices" title="Taoist sexual practices">Daoism</a></li>
+<li><a href="/wiki/Islamic_sexual_jurisprudence" title="Islamic sexual jurisprudence">Islam</a></li>
+<li><a href="/wiki/Sexuality_and_Mormonism" title="Sexuality and Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Sex_magic" title="Sex magic">Sex magic</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/File:Sexual_orientation_-_4_symbols.svg" class="image"><img alt="Sexual orientation - 4 symbols.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sexual_orientation_-_4_symbols.svg/16px-Sexual_orientation_-_4_symbols.svg.png" decoding="async" width="16" height="12" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sexual_orientation_-_4_symbols.svg/24px-Sexual_orientation_-_4_symbols.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sexual_orientation_-_4_symbols.svg/32px-Sexual_orientation_-_4_symbols.svg.png 2x" data-file-width="512" data-file-height="373" /></a> <a href="/wiki/Portal:Human_sexuality" title="Portal:Human sexuality">Human sexuality&#32;portal</a></li>
+<li><a href="/wiki/File:Issoria_lathonia.jpg" class="image"><img alt="Issoria lathonia.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/16px-Issoria_lathonia.jpg" decoding="async" width="16" height="11" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/24px-Issoria_lathonia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Issoria_lathonia.jpg/32px-Issoria_lathonia.jpg 2x" data-file-width="629" data-file-height="445" /></a> <a href="/wiki/Portal:Biology" title="Portal:Biology">Biology&#32;portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Human_sexuality_and_sexology" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Human_sexuality" title="Template:Human sexuality"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Human_sexuality" title="Template talk:Human sexuality"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Human_sexuality&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Human_sexuality_and_sexology" style="font-size:114%;margin:0 4em"><a href="/wiki/Human_sexuality" title="Human sexuality">Human sexuality</a> and <a href="/wiki/Sexology" title="Sexology">sexology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;"><div style="padding:0.1em 0;line-height:1.2em;">Sexual relationship<br />phenomena</div></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asexuality" title="Asexuality">Asexuality</a>
+<ul><li><a href="/wiki/Gray_asexuality" title="Gray asexuality">Gray asexuality</a></li></ul></li>
+<li><a href="/wiki/Bisexuality" title="Bisexuality">Bisexuality</a></li>
+<li><a href="/wiki/Casual_dating" title="Casual dating">Casual relationship</a></li>
+<li><a href="/wiki/Casual_sex" title="Casual sex">Casual sex</a></li>
+<li><a href="/wiki/Celibacy" title="Celibacy">Celibacy</a>
+<ul><li><a href="/wiki/Celibacy_syndrome" title="Celibacy syndrome">Celibacy syndrome</a></li>
+<li><a href="/wiki/Herbivore_men" title="Herbivore men">Herbivore men</a></li></ul></li>
+<li><a href="/wiki/Committed_relationship" title="Committed relationship">Committed relationship</a></li>
+<li><a href="/wiki/Free_love" title="Free love">Free love</a></li>
+<li><a href="/wiki/Foreplay" title="Foreplay">Foreplay</a></li>
+<li><a href="/wiki/Heterosexuality" title="Heterosexuality">Heterosexuality</a></li>
+<li><a href="/wiki/Homosexuality" title="Homosexuality">Homosexuality</a></li>
+<li><a href="/wiki/Hypersexuality" title="Hypersexuality">Hypersexuality</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/One-night_stand" title="One-night stand">One-night stand</a></li>
+<li><a href="/wiki/Polyamory" title="Polyamory">Polyamory</a></li>
+<li><a href="/wiki/Promiscuity" title="Promiscuity">Promiscuity</a>
+<ul><li><a href="/wiki/Female_promiscuity" title="Female promiscuity">Female</a></li></ul></li>
+<li><a href="/wiki/Romance_(love)" title="Romance (love)">Romantic love</a>
+<ul><li><a href="/wiki/Romantic_orientation" title="Romantic orientation">Romantic orientation</a></li></ul></li>
+<li><a class="mw-selflink selflink">Flirting</a></li>
+<li><a href="/wiki/Sex_life" title="Sex life">Sex life</a></li>
+<li><a href="/wiki/Sexual_abstinence" title="Sexual abstinence">Sexual abstinence</a></li>
+<li><a href="/wiki/Sexual_orientation" title="Sexual orientation">Sexual orientation</a></li>
+<li><a href="/wiki/Sexual_partner" title="Sexual partner">Sexual partner</a></li>
+<li><a href="/wiki/Single_person" title="Single person">Single person</a></li>
+<li><a href="/wiki/Swinging_(sexual_practice)" title="Swinging (sexual practice)">Swinging</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">Sexual dynamics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hypergamy" title="Hypergamy">Hypergamy</a></li>
+<li><a href="/wiki/Intersex" title="Intersex">Intersex</a></li>
+<li><a href="/wiki/Physical_attractiveness" title="Physical attractiveness">Physical attractiveness</a></li>
+<li><a href="/wiki/Sexual_attraction" title="Sexual attraction">Sexual attraction</a></li>
+<li><a href="/wiki/Sexual_capital" title="Sexual capital">Sexual capital</a></li>
+<li><a href="/wiki/Sexual_ethics" title="Sexual ethics">Sexual ethics</a></li>
+<li><a href="/wiki/Sexual_frustration" title="Sexual frustration">Sexual frustration</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sexual_addiction" title="Sexual addiction">Sexual addiction</a></li>
+<li><a href="/wiki/Sex_Addicts_Anonymous" title="Sex Addicts Anonymous">Sex Addicts Anonymous</a></li>
+<li><a href="/wiki/Sexual_surrogate" title="Sexual surrogate">Sexual surrogate</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20190925022454
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.832 seconds
+Real time usage: 1.264 seconds
+Preprocessor visited node count: 2512/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 106644/2097152 bytes
+Template argument size: 2125/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94228/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.493/10.000 seconds
+Lua memory usage: 7.24 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1120.993      1 -total
+ 60.18%  674.609      1 Template:Reflist
+ 21.06%  236.032     12 Template:Cite_web
+ 18.13%  203.277      5 Template:Cite_book
+ 12.18%  136.525     12 Template:Cite_journal
+  6.80%   76.174      2 Template:Ambox
+  6.60%   73.972      2 Template:Fix
+  6.41%   71.857      1 Template:Refimprove_section
+  6.40%   71.791      1 Template:Citation_needed
+  6.20%   69.497      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11702-0!canonical and timestamp 20190925022452 and revision id 917687491
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Flirting&amp;oldid=917687491">https://en.wikipedia.org/w/index.php?title=Flirting&amp;oldid=917687491</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sexual_attraction" title="Category:Sexual attraction">Sexual attraction</a></li><li><a href="/wiki/Category:Philosophy_of_love" title="Category:Philosophy of love">Philosophy of love</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2018" title="Category:Articles with unsourced statements from April 2018">Articles with unsourced statements from April 2018</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_August_2018" title="Category:Vague or ambiguous time from August 2018">Vague or ambiguous time from August 2018</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2016" title="Category:Articles needing additional references from June 2016">Articles needing additional references from June 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_June_2014" title="Category:Articles with limited geographic scope from June 2014">Articles with limited geographic scope from June 2014</a></li><li><a href="/wiki/Category:Western_culture-centric" title="Category:Western culture-centric">Western culture-centric</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Flirting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Flirting" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Flirting" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Flirting" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Flirting">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Flirting&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Flirting&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Flirting" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Flirting" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Flirting&amp;oldid=917687491" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Flirting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q208704" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Flirting&amp;id=917687491" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Flirting" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Flirting" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Flirting">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Flirting&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Flirting&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%BA%D8%B2%D9%84_(%D8%AA%D9%88%D8%AF%D8%AF)" title="غزل (تودد) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Flirt" title="Flirt – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn badge-Q17437798 badge-goodarticle" title="good article"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%82" title="ফ্লার্টিং – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A4%D0%BB%D1%96%D1%80%D1%82" title="Флірт – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Flirt" title="Flirt – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Fflyrtian" title="Fflyrtian – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Flirte" title="Flirte – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Flirt" title="Flirt – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CF%81%CF%89%CF%84%CE%BF%CF%84%CF%81%CE%BF%CF%80%CE%AF%CE%B1" title="Ερωτοτροπία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Coqueteo" title="Coqueteo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Amindumo" title="Amindumo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://eu.wikipedia.org/wiki/Neskatan/mutiletan_egin" title="Neskatan/mutiletan egin – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B3%E2%80%8C%D8%B2%D9%86%DB%8C" title="لاس‌زنی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Flirt" title="Flirt – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Flirt" title="Flirt – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%9C%D7%99%D7%A8%D7%98" title="פלירט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Flirtas" title="Flirtas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Fl%C3%B6rt" title="Flört – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A3%E0%A4%AF%E0%A4%9A%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BE" title="प्रणयचेष्टा – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Flirten" title="Flirten – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B1%E3%83%83%E3%83%88%E3%83%AA%E3%83%BC" title="コケットリー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kurtisering" title="Kurtisering – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-km"><a href="https://km.wikipedia.org/wiki/%E1%9E%89%E1%9F%89%E1%9F%82" title="ញ៉ែ – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">ភាសាខ្មែរ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Flirt" title="Flirt – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Flerte" title="Flerte – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Flirt" title="Flirt – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B8%D1%80%D1%82" title="Флирт – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Flirting" title="Flirting – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Flirtovanie" title="Flirtovanie – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%9A%D0%B5" title="Флертовање – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Flert" title="Flert – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Flirttailu" title="Flirttailu – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Ligaw-biro" title="Ligaw-biro – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BB%D1%96%D1%80%D1%82" title="Флірт – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%81%D9%84%D8%B1%D9%B9%D9%86%DA%AF" title="فلرٹنگ – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%C3%A1n_t%E1%BB%89nh" title="Tán tỉnh – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%A4%D7%9C%D7%99%D7%A8%D7%98%D7%99%D7%A0%D7%92" title="פלירטינג – Yiddish" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%AA%BF%E6%83%85" title="調情 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q208704#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 00:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Flirting&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.832","walltime":"1.264","ppvisitednodes":{"value":2512,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":106644,"limit":2097152},"templateargumentsize":{"value":2125,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94228,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1120.993      1 -total"," 60.18%  674.609      1 Template:Reflist"," 21.06%  236.032     12 Template:Cite_web"," 18.13%  203.277      5 Template:Cite_book"," 12.18%  136.525     12 Template:Cite_journal","  6.80%   76.174      2 Template:Ambox","  6.60%   73.972      2 Template:Fix","  6.41%   71.857      1 Template:Refimprove_section","  6.40%   71.791      1 Template:Citation_needed","  6.20%   69.497      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.493","limit":"10.000"},"limitreport-memusage":{"value":7587836,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\ntable#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1251","timestamp":"20190925022454","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Flirting","url":"https:\/\/en.wikipedia.org\/wiki\/Flirting","sameAs":"http:\/\/www.wikidata.org\/entity\/Q208704","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q208704","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-01-04T18:06:44Z","dateModified":"2019-09-25T00:10:13Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f7\/Das_werdenSie_ja_nachher_schon_sehen.jpg","headline":"social behavior that suggests interest in a deeper relationship with the other person"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

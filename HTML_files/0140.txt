@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Saramaccan language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Saramaccan_language","wgTitle":"Saramaccan language","wgCurRevisionId":909163183,"wgRevisionId":909163183,"wgArticleId":1383549,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra text: authors list","ISO language articles citing sources other than Ethnologue","All accuracy disputes","Articles with disputed statements from January 2013","All articles with unsourced statements","Articles with unsourced statements from January 2013","Articles contradicting other articles","Articles containing Portuguese-language text","English-based pidgins and creoles","Languages of Suriname","Languages of French Guiana","Tonal languages","Portuguese-based pidgins and creoles","Saramaka","Languages of the African diaspora"],"wgBreakFrames":!1,"wgPageContentLanguage":"en",
+"wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Saramaccan_language","wgRelevantArticleId":1383549,"wgRequestId":"XYrwGwpAMFkAAKdSDZsAAAAH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":
+!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q33779","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Saramaccan_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Saramaccan_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Saramaccan_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Saramaccan_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Saramaccan_language rootpage-Saramaccan_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Saramaccan language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color: tan;">Saramaccan</th></tr><tr><td colspan="2" style="text-align:center;font-size:110%; color: black; background-color: tan;">Saamáka</td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/Suriname" title="Suriname">Suriname</a>, <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Saramaka" title="Saramaka">Saramaka</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">90,000&#160;(2013)<sup id="cite_ref-Price2013_1-0" class="reference"><a href="#cite_note-Price2013-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/English-based_creole_languages" class="mw-redirect" title="English-based creole languages">English</a>–<a href="/wiki/Portuguese-based_creole_languages" title="Portuguese-based creole languages">Portuguese Creole</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+<b>Saramaccan</b></li></ul></div></td></tr><tr class="plainlist"><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Dialects</th><td style="line-height:1.35em;">
+<ul><li>Matawari (Matawai)</li></ul>
+</td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color: tan;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;"><code><a href="https://iso639-3.sil.org/code/srm" class="extiw" title="iso639-3:srm">srm</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/sara1340">sara1340</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Linguasphere_Observatory" title="Linguasphere Observatory">Linguasphere</a></th><td style="line-height:1.35em;"><code>52-ABB-ax</code></td></tr><tr><td colspan="2" class="noprint selfref" style="text-align:center;background-color:#ddddff;padding:0.3em 0.5em;text-align:left;line-height:1.3;"><b>This article contains <a href="/wiki/International_Phonetic_Alphabet" title="International Phonetic Alphabet">IPA</a> phonetic symbols.</b> Without proper <a href="/wiki/Help:IPA#Rendering_issues" title="Help:IPA">rendering support</a>, you may see <a href="/wiki/Replacement_character" class="mw-redirect" title="Replacement character">question marks, boxes, or other symbols</a> instead of <a href="/wiki/Unicode" title="Unicode">Unicode</a> characters. For an introductory guide on IPA symbols, see <a href="/wiki/Help:IPA" title="Help:IPA">Help:IPA</a>.</td></tr></tbody></table>
+<p><b>Saramaccan</b> (<a href="/wiki/Endonym" class="mw-redirect" title="Endonym">autonym</a>: <i>Saamáka</i>) is a <a href="/wiki/Creole_language" title="Creole language">creole language</a> spoken by about 58,000 ethnic African people near the <a href="/wiki/Saramacca_River" title="Saramacca River">Saramacca</a> and upper <a href="/wiki/Suriname_River" title="Suriname River">Suriname River</a>, as well as in the capital <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>, in <a href="/wiki/Suriname" title="Suriname">Suriname</a> (formerly also known as <a href="/wiki/Surinam_(Dutch_colony)" title="Surinam (Dutch colony)">Dutch Guiana</a>), 25,000 in <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>, and 8,000 in the Netherlands.<sup id="cite_ref-Price2013_1-1" class="reference"><a href="#cite_note-Price2013-1">&#91;1&#93;</a></sup> It has three main dialects. The speakers are mostly descendants of fugitive <a href="/wiki/Atlantic_slave_trade" title="Atlantic slave trade">slaves</a> who were native to <a href="/wiki/West_Africa" title="West Africa">West</a> and <a href="/wiki/Central_Africa" title="Central Africa">Central Africa</a>; they form a group called Saamacca, also spelled <a href="/wiki/Saramaka" title="Saramaka">Saramaka</a>.
+</p><p>Linguists consider Saramaccan notable because its vocabulary is based on two European source languages, <a href="/wiki/English_language" title="English language">English</a> (30%) and <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> (20%), and various West and Central African languages (50%), but it diverges considerably from all of them. The African component accounts for about 50% once ritual use is taken into account, the highest percentage in the Americas, and is derived from <a href="/wiki/Niger%E2%80%93Congo_languages" title="Niger–Congo languages">Niger–Congo languages</a> of West Africa, especially <a href="/wiki/Fon_language" title="Fon language">Fon</a> and other <a href="/wiki/Gbe_languages" title="Gbe languages">Gbe languages</a>, <a href="/wiki/Akan_language" title="Akan language">Akan</a> and Central African languages such as <a href="/wiki/Kikongo" class="mw-redirect" title="Kikongo">Kikongo</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins"><span class="tocnumber">1</span> <span class="toctext">Origins</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Dialects"><span class="tocnumber">2</span> <span class="toctext">Dialects</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Phonology"><span class="tocnumber">3</span> <span class="toctext">Phonology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Vowels"><span class="tocnumber">3.1</span> <span class="toctext">Vowels</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Consonants"><span class="tocnumber">3.2</span> <span class="toctext">Consonants</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Tone"><span class="tocnumber">3.3</span> <span class="toctext">Tone</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Lexicon"><span class="tocnumber">4</span> <span class="toctext">Lexicon</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Examples"><span class="tocnumber">5</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Literature"><span class="tocnumber">6</span> <span class="toctext">Literature</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Sources"><span class="tocnumber">8</span> <span class="toctext">Sources</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins">Origins</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=1" title="Edit section: Origins">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Saramaccan lexicon is largely drawn from English, Portuguese, and, to a lesser extent, <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>, among European languages, and <a href="/wiki/Niger-Congo_languages" class="mw-redirect" title="Niger-Congo languages">Niger-Congo languages</a> of West Africa, especially <a href="/wiki/Fon_language" title="Fon language">Fon</a> and other <a href="/wiki/Gbe_languages" title="Gbe languages">Gbe languages</a>, <a href="/wiki/Akan_language" title="Akan language">Akan</a>, and Central African languages, such as <a href="/wiki/KiKongo" class="mw-redirect" title="KiKongo">KiKongo</a>. The African component accounts for about 50% of the total.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>Saramaccan <a href="/wiki/Phonology" title="Phonology">phonology</a> has traits similar to languages of West Africa. It has developed the use of <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">tones</a>, which are common in Africa, rather than <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">stress</a>, which is typical of European languages.
+</p><p>Over a fourth of words are from English. It is generally agreed that the Portuguese influence originated from enslaved peoples who lived on plantations with Portuguese masters and possibly with other slaves who spoke a Portuguese creole. The masters might have brought the latter in migrating to Suriname from <a href="/wiki/Brazil" title="Brazil">Brazil</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Saramaccan originators began with an early form of <a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a>, an English-based creole, and transformed it into a new creole via the Portuguese influx, combined with influence from the grammars of <a href="/wiki/Fongbe_language" class="mw-redirect" title="Fongbe language">Fongbe</a> and other <a href="/wiki/Gbe_languages" title="Gbe languages">Gbe languages</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>An earlier idea that Saramaccan was an offshoot of a Portuguese <a href="/wiki/Pidgin" title="Pidgin">pidgin</a> that had been spoken by slaves who had learned it on the West African coast is no longer<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (January 2013)">dubious</span></a>&#32;<span class="metadata"> &#8211; <a href="/wiki/Talk:Saramaccan_language#Dubious" title="Talk:Saramaccan language">discuss</a></span></i>&#93;</sup><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>&#93;</sup> subscribed to by working creolists.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Monogenetic_theory_of_pidgins#Evidence" title="Monogenetic theory of pidgins"><span title="This text contradicts material at the article &#39;Monogenetic theory of pidgins#Evidence&#39;. (January 2013)">contradictory</span></a></i>&#93;</sup> See <a href="/wiki/Monogenetic_theory_of_pidgins" title="Monogenetic theory of pidgins">monogenetic theory of pidgins</a> for more information.
+</p><p>Certain common words in Sranan Tongo, the most common creole spoken in Suriname, also derive from Portuguese words, but it remains a largely English-based creole.
+</p>
+<h2><span class="mw-headline" id="Dialects">Dialects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=2" title="Edit section: Dialects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Saramaccan is divided into three main dialects. The Upper Suriname River dialect and the Lower Suriname River dialect are both spoken by members of the <a href="/wiki/Saramaka" title="Saramaka">Saramaccan tribe</a>. The Matawari tribe has its own dialect.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=3" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Vowels">Vowels</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=4" title="Edit section: Vowels">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align: center">
+<tbody><tr>
+<th>
+</th>
+<th><a href="/wiki/Front_vowel" title="Front vowel">Front</a>
+</th>
+<th><a href="/wiki/Back_vowel" title="Back vowel">Back</a>
+</th></tr>
+<tr>
+<th><a href="/wiki/Close_vowel" title="Close vowel">Close</a>
+</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">i</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">u</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Close-mid_vowel" title="Close-mid vowel">Close-mid</a>
+</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">e</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">o</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Open-mid_vowel" title="Open-mid vowel">Open-mid</a>
+</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɛ</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɔ</span>
+</td></tr>
+<tr>
+<th><a href="/wiki/Open_vowel" title="Open vowel">Open</a>
+</th>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">a</span>
+</td></tr></tbody></table>
+<p>Each oral vowel also has a corresponding <a href="/wiki/Nasal_vowel" title="Nasal vowel">nasal vowel</a>. There are also three <a href="/wiki/Vowel_length" title="Vowel length">vowel lengths</a>: <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bɛ/</span> "red", <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bɛ́ɛ/</span> "belly," <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/bɛɛ́ɛ/</span> "bread."<sup id="cite_ref-bsv170_8-0" class="reference"><a href="#cite_note-bsv170-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Consonants">Consonants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=5" title="Edit section: Consonants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align: center">
+<tbody><tr>
+<th colspan="2" rowspan="2">
+</th>
+<th colspan="2" rowspan="2"><a href="/wiki/Labial_consonant" title="Labial consonant">Labial</a>
+</th>
+<th colspan="2" rowspan="2"><a href="/wiki/Dental_consonant" title="Dental consonant">Dental</a>/<br /><a href="/wiki/Alveolar_consonant" title="Alveolar consonant">Alveolar</a>
+</th>
+<th colspan="2" rowspan="2"><a href="/wiki/Palatal_consonant" title="Palatal consonant">Palatal</a>
+</th>
+<th colspan="4"><a href="/wiki/Velar_consonant" title="Velar consonant">Velar</a>
+</th></tr>
+<tr>
+<th colspan="2"><small>plain</small>
+</th>
+<th colspan="2"><small><a href="/wiki/Labial-velar_consonant" class="mw-redirect" title="Labial-velar consonant">Labial</a></small>
+</th></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Nasal_stop" class="mw-redirect" title="Nasal stop">Nasal</a>
+</th>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">m</span>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">n</span>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɲ</span>
+</td>
+<td colspan="2">
+</td>
+<td colspan="2">
+</td></tr>
+<tr>
+<th rowspan="2"><a href="/wiki/Plosive_consonant" class="mw-redirect" title="Plosive consonant">Plosive</a>
+</th>
+<th><small>plain</small>
+</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">p</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">b</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">d</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">c</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɟ</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɡ</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k͡p</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɡ͡b</span>
+</td></tr>
+<tr>
+<th><small><a href="/wiki/Prenasalized_consonant" title="Prenasalized consonant">prenasalized</a></small>
+</th>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">mb</span>
+</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">nd</span>
+</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɲɟ</span>
+</td>
+<td></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ŋɡ</span>
+</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Fricative_consonant" title="Fricative consonant">Fricative</a>
+</th>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">f</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">v</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">z</span>
+</td>
+<td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ç</span></td>
+<td>
+</td>
+<td></td>
+<td>
+</td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="2"><a href="/wiki/Approximant_consonant" title="Approximant consonant">Approximant</a>
+</th>
+<td colspan="2">
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span>
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">j</span>
+</td>
+<td colspan="2">
+</td>
+<td colspan="2"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">w</span>
+</td></tr></tbody></table>
+<p><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/c ɟ ɲ ɲɟ/</span> are more specifically <a href="/wiki/Dorsal_consonant" title="Dorsal consonant">dorso</a>-<a href="/wiki/Postalveolar_consonant" title="Postalveolar consonant">postalveolar</a>, but the palatal fricative <span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ç/</span> is <a href="/wiki/Dorsal_consonant" title="Dorsal consonant">dorso</a>-<a href="/wiki/Palatal_consonant" title="Palatal consonant">palatal</a>.<sup id="cite_ref-bsv170_8-1" class="reference"><a href="#cite_note-bsv170-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Tone">Tone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=6" title="Edit section: Tone">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The language has two surface <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">tones</a>: high and low. <a href="/wiki/Stress_(linguistics)" title="Stress (linguistics)">Stress</a> in European words is replaced by high tone in Saramaccan.<sup id="cite_ref-bsv170_8-2" class="reference"><a href="#cite_note-bsv170-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Lexicon">Lexicon</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=7" title="Edit section: Lexicon">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Saramaccan's vocabulary is 30% derived from <a href="/wiki/English_language" title="English language">English</a>, 20% from <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a>. It is one of the few known creoles to derive a large percentage of its lexicon from more than one source (most creoles have one main <a href="/wiki/Lexifier" title="Lexifier">lexifier</a> language). Also, it is said to be both an <a href="/wiki/English-based_creole_languages" class="mw-redirect" title="English-based creole languages">English-based creole</a> and a <a href="/wiki/Portuguese_Creole" class="mw-redirect" title="Portuguese Creole">Portuguese-based creole</a>.<sup id="cite_ref-bsv168-189_9-0" class="reference"><a href="#cite_note-bsv168-189-9">&#91;9&#93;</a></sup>
+</p><p>About 50% of the vocabulary of Saramaccan is of <a href="/wiki/African_languages" class="mw-redirect" title="African languages">African</a> origin,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> the largest percentage of any creole in the <a href="/wiki/Americas" title="Americas">Americas</a>. Source languages for these words include <a href="/wiki/Kikongo_language" class="mw-redirect" title="Kikongo language">Kikongo</a>, <a href="/wiki/Gbe_languages" title="Gbe languages">Gbe languages</a>, and <a href="/wiki/Twi" title="Twi">Twi</a>.<sup id="cite_ref-bsv168-189_9-1" class="reference"><a href="#cite_note-bsv168-189-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=8" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To English-speakers not familiar with it, the English basis of this language is almost unrecognizable. Here are some examples of Saramaccan sentences, taken from the SIL dictionary:
+</p><p><i>De waka te de aan sinkii möön.</i><br />"They walked until they were worn out."
+</p><p><i>U ta mindi kanda fu dee soni dee ta pasa ku u.</i><br />"We make up songs about things that happen to us."
+</p><p><i>A suku di soni te wojo fëën ko bëë.</i><br />"He searched for it in vain."
+</p><p><i>Mi puu tu dusu kölu bai ën.</i><br />"I paid two thousand guilders to buy it."
+</p><p>Examples of words originally from Portuguese or a Portuguese creole are <i>mujee</i> (<i lang="pt" title="Portuguese language text">mulher</i>) "woman", <i>womi</i> (<i lang="pt" title="Portuguese language text">o homem</i>) "man", <i>da</i> (<i lang="pt" title="Portuguese language text">dar</i>) "to give", <i>bunu</i> (<i lang="pt" title="Portuguese language text">bom</i>) "good", <i>kaba</i> (<i lang="pt" title="Portuguese language text">acabar</i>) "to end", <i>ku</i> (<i lang="pt" title="Portuguese language text">com</i>) "with", <i>kuma</i> (<i lang="pt" title="Portuguese language text">como</i>, cf. vernacular Brazilian <i lang="pt" title="Portuguese language text">cuma?</i> for <i lang="pt" title="Portuguese language text">como é?</i>, "come again?") "as, like", <i>faka</i> (<i lang="pt" title="Portuguese language text">faca</i>) "knife", <i>aki</i> (<i lang="pt" title="Portuguese language text">aqui</i>) "here", <i>ma</i> (<i lang="pt" title="Portuguese language text">mas</i>) "but", <i>kendi</i> (<i lang="pt" title="Portuguese language text">quente</i>) "hot", <i>liba</i> (<i lang="pt" title="Portuguese language text">riba</i>) "above", and <i>lio</i> (<i lang="pt" title="Portuguese language text">rio</i>) "river".
+</p>
+<h2><span class="mw-headline" id="Literature">Literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=9" title="Edit section: Literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Two books have now been published in Saamaka, at the request of the Saamaka people, who have distributed them in their schools:<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> <i>Fesiten</i> and <i>Boo go a Kontukonde</i>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Both have used the orthography that is now accepted by the Saamaka people, which was developed by Saamaka linguist Vinije Haabo.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Price2013-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Price2013_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Price2013_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Price, Richard (2013). <a rel="nofollow" class="external text" href="http://booksandjournals.brillonline.com/content/journals/22134360">"The Maroon Population Explosion: Suriname and Guyane"</a>. <i>New West Indian Guide</i>. <b>87</b> (3/4)<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2016</span> &#8211; via open source.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=New+West+Indian+Guide&amp;rft.atitle=The+Maroon+Population+Explosion%3A+Suriname+and+Guyane&amp;rft.volume=87&amp;rft.issue=3%2F4&amp;rft.date=2013&amp;rft.aulast=Price&amp;rft.aufirst=Richard&amp;rft_id=http%3A%2F%2Fbooksandjournals.brillonline.com%2Fcontent%2Fjournals%2F22134360&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/sara1340">"Saramaccan"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Saramaccan&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fsara1340&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Price, Richard (2007). <i>Travels with Tooy: History, Memory, and the African American Imagination</i>. Chicago: University of Chicago Press. pp.&#160;309–389. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0226680590" title="Special:BookSources/978-0226680590"><bdi>978-0226680590</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Travels+with+Tooy%3A+History%2C+Memory%2C+and+the+African+American+Imagination&amp;rft.place=Chicago&amp;rft.pages=309-389&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=2007&amp;rft.isbn=978-0226680590&amp;rft.aulast=Price&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Price, Richard (2007). <i>Travels with Tooy: History, Memory, and the African American Imagination</i>. Chicago: University of Chicago Press. pp.&#160;309–389.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Travels+with+Tooy%3A+History%2C+Memory%2C+and+the+African+American+Imagination&amp;rft.place=Chicago&amp;rft.pages=309-389&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=2007&amp;rft.aulast=Price&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Pieter Muysken and Norval Smith (editors) (2015). <i>Surviving the Middle Passage: The West Africa-Surinam Sprachbund</i>. Berlin, Germany: Walter de Gruyter. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-11-039499-3" title="Special:BookSources/978-3-11-039499-3"><bdi>978-3-11-039499-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surviving+the+Middle+Passage%3A+The+West+Africa-Surinam+Sprachbund&amp;rft.place=Berlin%2C+Germany&amp;rft.pub=Walter+de+Gruyter&amp;rft.date=2015&amp;rft.isbn=978-3-11-039499-3&amp;rft.au=Pieter+Muysken+and+Norval+Smith+%28editors%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Pieter Musyken and Norval Smith (2015). <i>Surviving the Middle Passage The West Africa-Surinam Sprachbund</i>. Berlin, Germany: Walter de Gruyter.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Surviving+the+Middle+Passage+The+West+Africa-Surinam+Sprachbund&amp;rft.place=Berlin%2C+Germany&amp;rft.pub=Walter+de+Gruyter&amp;rft.date=2015&amp;rft.au=Pieter+Musyken+and+Norval+Smith&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Bakker, Smith and Veenstra (1994): p. 165</span>
+</li>
+<li id="cite_note-bsv170-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-bsv170_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bsv170_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-bsv170_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Bakker, Smith and Veenstra (1994): p. 170</span>
+</li>
+<li id="cite_note-bsv168-189-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-bsv168-189_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bsv168-189_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Bakker, Smith and Veenstra (1994): pp. 168–169.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">Price, Richard (2007). <i>Travels with Tooy</i>. Chicago: University of Chicago Press. pp.&#160;309–389.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Travels+with+Tooy&amp;rft.place=Chicago&amp;rft.pages=309-389&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=2007&amp;rft.aulast=Price&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Price, Richard (2013). <i><span></span></i>Fesiten<i><span></span></i>. La Roque d'Anthéron (France): Vents d'ailleurs. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-2364130388" title="Special:BookSources/978-2364130388"><bdi>978-2364130388</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fesiten&amp;rft.place=La+Roque+d%27Anth%C3%A9ron+%28France%29&amp;rft.pub=Vents+d%27ailleurs&amp;rft.date=2013&amp;rft.isbn=978-2364130388&amp;rft.aulast=Price&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Price, Richard and Sally Price (2016). <i>Boo go a Kontukonde</i>. La Roque d'Anthéron (France): Vents d'ailleurs. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9782364131842" title="Special:BookSources/9782364131842"><bdi>9782364131842</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Boo+go+a+Kontukonde&amp;rft.place=La+Roque+d%27Anth%C3%A9ron+%28France%29&amp;rft.pub=Vents+d%27ailleurs&amp;rft.date=2016&amp;rft.isbn=9782364131842&amp;rft.au=Price%2C+Richard+and+Sally+Price&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=11" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite class="citation book">Bakker, Peter; Smith, Norval; Veenstra, Tonjes (1994). "Saramaccan".  In Jacque Arends; Pieter Muysken; Norval Smith (eds.). <i>Pidgins and Creoles</i>. Amsterdam/Philadelphia: John Benjamins. pp.&#160;165–178.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Saramaccan&amp;rft.btitle=Pidgins+and+Creoles&amp;rft.place=Amsterdam%2FPhiladelphia&amp;rft.pages=165-178&amp;rft.pub=John+Benjamins&amp;rft.date=1994&amp;rft.au=Bakker%2C+Peter&amp;rft.au=Smith%2C+Norval&amp;rft.au=Veenstra%2C+Tonjes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASaramaccan+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<ul><li>McWhorter, John and Jeff Good. 2012. <i>A grammar of Saramaccan creole.</i> Berlin: de Gruyter.</li>
+<li>Muysken, Peter, Smith, Norval (editors) (2015) Surviving the Middle Passage: The West Africa-Suriname Sprachbund. Berlin: Walter de Gruyter.</li>
+<li>Price, Richard. 2007 Travels with Tooy: History, Memory, and the African American Imagination. Chicago: University of Chicago Press.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://wold.clld.org/vocabulary/36">Saramaccan Vocabulary List</a> (from the World Loanword Database)</li>
+<li><a rel="nofollow" class="external text" href="https://apics-online.info/surveys/3">Survey article</a> (from the <a href="/wiki/Atlas_of_Pidgin_and_Creole_Language_Structures" title="Atlas of Pidgin and Creole Language Structures">Atlas of Pidgin and Creole Language Structures</a>)</li>
+<li><a rel="nofollow" class="external text" href="http://www.suriname-languages.sil.org/Saramaccan/English/SaramEngDictIndex.html">SIL Saramaccan-English dictionary</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sil.org/contributor/glock-naomi">Collected Saramaccan texts</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.acsu.buffalo.edu/~jcgood/jcgood-LoanwordsInSaramaccan.pdf">Loan words in Saramaccan</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.language-archives.org/language/srm">Variety of published resources in and about Saramaccan language and culture</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_French_Guiana" title="Template:Languages of French Guiana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_French_Guiana" title="Template talk:Languages of French Guiana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_French_Guiana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_French_Guiana" class="mw-redirect" title="Languages of French Guiana">Languages</a> of <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_language" title="French language">French</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Emerillon_language" title="Emerillon language">Emerillon</a></li>
+<li><a href="/wiki/French_Guianese_Creole" title="French Guianese Creole">Guianese Creole</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
+<li><a class="mw-selflink selflink">Saramaccan</a></li>
+<li><a href="/wiki/Wayampi_language" title="Wayampi language">Wayampi</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_Sign_Language" title="French Sign Language">French Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a class="mw-selflink selflink">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20190924072633
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.536 seconds
+Real time usage: 0.694 seconds
+Preprocessor visited node count: 3348/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57435/2097152 bytes
+Template argument size: 3000/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29767/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.294/10.000 seconds
+Lua memory usage: 14.01 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  618.849      1 -total
+ 38.37%  237.451      1 Template:Infobox_language
+ 31.21%  193.163      1 Template:Infobox
+ 27.16%  168.098     15 Template:Lang
+ 17.67%  109.340      9 Template:Cite_book
+ 12.71%   78.626      1 Template:Glottolog
+ 11.72%   72.499      3 Template:Fix
+  9.74%   60.246      1 Template:Dubious
+  8.04%   49.761      1 Template:Reflist
+  6.07%   37.535      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1383549-0!canonical and timestamp 20190924072633 and revision id 909163183
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Saramaccan_language&amp;oldid=909163183">https://en.wikipedia.org/w/index.php?title=Saramaccan_language&amp;oldid=909163183</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:English-based_pidgins_and_creoles" title="Category:English-based pidgins and creoles">English-based pidgins and creoles</a></li><li><a href="/wiki/Category:Languages_of_Suriname" title="Category:Languages of Suriname">Languages of Suriname</a></li><li><a href="/wiki/Category:Languages_of_French_Guiana" title="Category:Languages of French Guiana">Languages of French Guiana</a></li><li><a href="/wiki/Category:Tonal_languages" title="Category:Tonal languages">Tonal languages</a></li><li><a href="/wiki/Category:Portuguese-based_pidgins_and_creoles" title="Category:Portuguese-based pidgins and creoles">Portuguese-based pidgins and creoles</a></li><li><a href="/wiki/Category:Saramaka" title="Category:Saramaka">Saramaka</a></li><li><a href="/wiki/Category:Languages_of_the_African_diaspora" title="Category:Languages of the African diaspora">Languages of the African diaspora</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">CS1 maint: extra text: authors list</a></li><li><a href="/wiki/Category:ISO_language_articles_citing_sources_other_than_Ethnologue" title="Category:ISO language articles citing sources other than Ethnologue">ISO language articles citing sources other than Ethnologue</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_January_2013" title="Category:Articles with disputed statements from January 2013">Articles with disputed statements from January 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_contradicting_other_articles" title="Category:Articles contradicting other articles">Articles contradicting other articles</a></li><li><a href="/wiki/Category:Articles_containing_Portuguese-language_text" title="Category:Articles containing Portuguese-language text">Articles containing Portuguese-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Saramaccan+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Saramaccan+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Saramaccan_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Saramaccan_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Saramaccan_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Saramaccan_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Saramaccan_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Saramaccan_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Saramaccan_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Saramaccan_language&amp;oldid=909163183" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Saramaccan_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33779" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Saramaccan_language&amp;id=909163183" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Saramaccan+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Saramaccan+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Saramaccan_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Saramacca" title="Saramacca – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Saramaccaans" title="Saramaccaans – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Saramaka_(langue)" title="Saramaka (langue) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EB%A7%88%EC%B9%B4%EC%96%B4" title="사마카어 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Saramaccaans" title="Saramaccaans – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_saramaccan" title="Lenga saramaccan – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/J%C4%99zyk_saramaka%C5%84ski" title="Język saramakański – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Saramacano" title="Saramacano – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%BA%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Сарамакканский язык – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33779#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 3 August 2019, at 15:14<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Saramaccan_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.536","walltime":"0.694","ppvisitednodes":{"value":3348,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57435,"limit":2097152},"templateargumentsize":{"value":3000,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29767,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  618.849      1 -total"," 38.37%  237.451      1 Template:Infobox_language"," 31.21%  193.163      1 Template:Infobox"," 27.16%  168.098     15 Template:Lang"," 17.67%  109.340      9 Template:Cite_book"," 12.71%   78.626      1 Template:Glottolog"," 11.72%   72.499      3 Template:Fix","  9.74%   60.246      1 Template:Dubious","  8.04%   49.761      1 Template:Reflist","  6.07%   37.535      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.294","limit":"10.000"},"limitreport-memusage":{"value":14689211,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20190924072633","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Saramaccan language","url":"https:\/\/en.wikipedia.org\/wiki\/Saramaccan_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q33779","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q33779","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-10T22:49:10Z","dateModified":"2019-08-03T15:14:58Z","headline":"creole spoken near the Saramacca and Suriname rivers"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1254"});});</script>
+</body>
+</html>

@@ -1,0 +1,1099 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wayana language - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wayana_language","wgTitle":"Wayana language","wgCurRevisionId":894800640,"wgRevisionId":894800640,"wgArticleId":34634136,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Language articles citing Ethnologue 19","Cariban languages","Wayana people","Languages of French Guiana"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wayana_language","wgRelevantArticleId":34634136,"wgRequestId":
+"XYwLbQpAICIAAJFi91wAAACS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5908753","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wayana_language"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wayana_language&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wayana_language&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wayana_language"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wayana_language rootpage-Wayana_language skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wayana language</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Carib language. For the Ge language called Wayana, see <a href="/wiki/Guayana_language" class="mw-redirect" title="Guayana language">Guayana language</a>.</div>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" class="above" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%; color: black; background-color:  #c0dde6;">Wayana</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Native&#160;to</th><td style="line-height:1.35em;"><a href="/wiki/Surinam" class="mw-redirect" title="Surinam">Surinam</a>, <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;">Ethnicity</th><td style="line-height:1.35em;"><a href="/wiki/Wayana_people" class="mw-redirect" title="Wayana people">Wayana people</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Native speakers</div></th><td style="line-height:1.35em;">850&#160;(2007)<sup id="cite_ref-e19_1-0" class="reference"><a href="#cite_note-e19-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><span class="wrap"><a href="/wiki/Language_family" title="Language family">Language family</a></span></div></th><td style="line-height:1.35em;"><div style="text-align:left;"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban</a>
+<ul style="line-height:100%; margin-left:1.35em;padding-left:0"><li>
+Guianan Carib<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li>Wayana–Apalaí (?)<ul style="line-height:100%;margin-left:0.45em;padding-left:0;"><li><b>Wayana</b></li></ul></li></ul></li></ul></div></td></tr><tr><th colspan="2" style="text-align:center;color: black; background-color:  #c0dde6;">Language codes</th></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><span class="nowrap"><a href="/wiki/ISO_639-3" title="ISO 639-3">ISO 639-3</a></span></th><td style="line-height:1.35em;"><code><a href="https://iso639-3.sil.org/code/way" class="extiw" title="iso639-3:way">way</a></code></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em; padding-right:0.5em;"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td style="line-height:1.35em;"><code><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/waya1269">waya1269</a></code><sup id="cite_ref-Glottolog_2-0" class="reference"><a href="#cite_note-Glottolog-2">&#91;2&#93;</a></sup></td></tr></tbody></table>
+<p><b>Wayana</b> (also referred to as Ojana, Ajana, Aiana, Ouyana, Uajana, Upurui, Oepoeroei, Roucouyen, Oreocoyana, Orkokoyana, Urucuiana, Urukuyana, and Alucuyana in the literature) is a language of the <a href="/wiki/Cariban_languages" title="Cariban languages">Cariban family</a>, spoken by the <a href="/wiki/Wayana_people" class="mw-redirect" title="Wayana people">Wayana</a> people, who live mostly in the borderlands of <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a>, and <a href="/wiki/Suriname" title="Suriname">Suriname</a>.<sup id="cite_ref-:6_3-0" class="reference"><a href="#cite_note-:6-3">&#91;3&#93;</a></sup>
+</p><p>In Brazil, they live along the <a href="/wiki/Paru_River" title="Paru River">Paru</a> and <a href="/wiki/Jari_River" title="Jari River">Jari</a> rivers, in Suriname<a href="/wiki/Suriname" title="Suriname">,</a> along the <a href="/wiki/Tapanahony_River" title="Tapanahony River">Tapanahoni</a> and <a href="/wiki/Paloemeu_River" title="Paloemeu River">Paloemeu</a> rivers, and in French Guiana, along the upper <a href="/wiki/Maroni_(river)" title="Maroni (river)">Maroni Rive</a>r and its tributaries.<sup id="cite_ref-:6_3-1" class="reference"><a href="#cite_note-:6-3">&#91;3&#93;</a></sup>
+</p><p>The exact number of Wayana is unclear. The issue is complicated because counts are done on a per-country basis. <a href="/wiki/SIL_International" title="SIL International">SIL</a> <a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a> lists 850 users of the language and 1,950 ethnic Wayana in all countries, using counts from 2006 and 2007.<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup> Instituto Socioambental, a Brazilian NGO, lists 1,629 ethnic Wayana, using counts from 2002 and 2014.<sup id="cite_ref-:6_3-2" class="reference"><a href="#cite_note-:6-3">&#91;3&#93;</a></sup> The count of ethnic Wayana individuals is further complicated due to the close ties that the Wayana share with other ethnic groups in the region, especially the <a href="/wiki/Aparai_people" class="mw-redirect" title="Aparai people">Aparai</a> in Brazil, to the extent that they are sometimes considered one group, the Wayana-Aparai.<sup id="cite_ref-pib.socioambiental.org_5-0" class="reference"><a href="#cite_note-pib.socioambiental.org-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Language_family"><span class="tocnumber">2</span> <span class="toctext">Language family</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Research_on_Wayana"><span class="tocnumber">3</span> <span class="toctext">Research on Wayana</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Language_Status"><span class="tocnumber">4</span> <span class="toctext">Language Status</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Phonology"><span class="tocnumber">5</span> <span class="toctext">Phonology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Morphology"><span class="tocnumber">6</span> <span class="toctext">Morphology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Overview_of_Morphology"><span class="tocnumber">6.1</span> <span class="toctext">Overview of Morphology</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Possession_in_Wayana"><span class="tocnumber">6.1.1</span> <span class="toctext">Possession in Wayana</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Valence_Changing_Morphemes"><span class="tocnumber">6.1.2</span> <span class="toctext">Valence Changing Morphemes</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Syntax"><span class="tocnumber">7</span> <span class="toctext">Syntax</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Case_and_Agreement"><span class="tocnumber">7.1</span> <span class="toctext">Case and Agreement</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Set_I_Verbs"><span class="tocnumber">7.1.1</span> <span class="toctext">Set I Verbs</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#t-V-(h)e_Verbs"><span class="tocnumber">7.1.2</span> <span class="toctext"><i>t</i>-V-<i>(h)e</i> Verbs</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Semantics"><span class="tocnumber">8</span> <span class="toctext">Semantics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Tense"><span class="tocnumber">8.1</span> <span class="toctext">Tense</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Wayana are considered to be an amalgamation of several smaller ethnic groups, having subsumed the Upurui, Kukuyana, Opagwana, and Kumarawana, among others. They have extremely close ties with the Aparai, with whom they have lived and intermarried for at least 100 years in Brazil, though both the Aparai and Wayana consider themselves separate ethnic groups, differentiating themselves linguistically and through cultural practices.<sup id="cite_ref-pib.socioambiental.org_5-1" class="reference"><a href="#cite_note-pib.socioambiental.org-5">&#91;5&#93;</a></sup> There are few Aparai in Wayana territory outside of Brazil.
+</p><p>This unique situation is a result of European contact and interethnic conflict in the past four centuries. Disease forced dwindling populations of smaller ethnic groups to amalgamate with the Wayana in the 18th century for increased survival.<sup id="cite_ref-:7_6-0" class="reference"><a href="#cite_note-:7-6">&#91;6&#93;</a></sup>  Also in the 18th century, around the time of <a href="/wiki/Colonial_Brazil" title="Colonial Brazil">European arrival in the Brazilian interior</a>, the Wayana, whose original territory is considered to be Northern Brazil, started to migrate to Suriname and French Guiana due to conflicts resulting indirectly from colonization.<sup id="cite_ref-:7_6-1" class="reference"><a href="#cite_note-:7-6">&#91;6&#93;</a></sup> As a result, there are three distinct Wayana territories today. The remaining Wayana in Brazil forged ties with the Aparai, who had migrated to their territory, and continue to maintain kinship and trade ties with Wayana in Suriname and French Guiana.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The Wayana (and Aparai) were involved heavily with trade, especially with the <i>meikolo</i> (Black Maroons), as well as Brazilian and Surinamese traders until the end of the 19th century.<sup id="cite_ref-:1_8-0" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> In the 20th century, Wayana started working in rubber extraction, and started to settle in villages, ending their traditionally nomadic way of life.<sup id="cite_ref-:7_6-2" class="reference"><a href="#cite_note-:7-6">&#91;6&#93;</a></sup>  By mid-century, missionaries (including a SIL project from 1962 to 1992) and government institutions started to gain presence in Brazilian Wayana-Aparai territory, implementing government health and education services. <a href="/wiki/Funda%C3%A7%C3%A3o_Nacional_do_%C3%8Dndio" title="Fundação Nacional do Índio">FUNAI</a> has maintained a post, and has granted assistance in the region since 1973.<sup id="cite_ref-:2_9-0" class="reference"><a href="#cite_note-:2-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Language_family">Language family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=2" title="Edit section: Language family">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cariban languages—to which Wayana belongs—are distributed throughout Northern South America, in <a href="/wiki/Northern_Brazil" class="mw-redirect" title="Northern Brazil">Northern Brazil</a>, <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a>, <a href="/wiki/Guyana" title="Guyana">Guyana</a>, <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a>, and <a href="/wiki/Suriname" title="Suriname">Suriname</a>, with speakers also in <a href="/wiki/Colombia" title="Colombia">Colombia</a> and <a href="/w/index.php?title=Central_Brazil&amp;action=edit&amp;redlink=1" class="new" title="Central Brazil (page does not exist)">Central Brazil</a>. There are an estimated 25 remaining Cariban languages, with references to over 100 in the historical literature. Many of the Cariban languages referenced in the literature, and others unknown to Europeans, have gone extinct due to European contact. The number of speakers of all Cariban languages is estimated to be 60,000 to 100,000, though more than half speak the Carib language proper, <a href="/wiki/Macushi_language" title="Macushi language">Makushi</a>, <a href="/wiki/Pemon_language" title="Pemon language">Pemong</a>, or <a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapong</a> (the last 3 are closely related). Most Cariban languages have 100 to 3,000 speakers.<sup id="cite_ref-:3_10-0" class="reference"><a href="#cite_note-:3-10">&#91;10&#93;</a></sup>
+</p><p>Documentation of the both the extinct and remaining languages is scant in many cases, consisting of wordlists with flawed phonetic transcription and little grammatical description. Classification of Cariban languages into branches is therefore difficult, though many recent descriptive research projects are rectifying the lack of accurate data of the living Cariban languages.<sup id="cite_ref-:3_10-1" class="reference"><a href="#cite_note-:3-10">&#91;10&#93;</a></sup> Wayana is considered by Kaufman (1994, as cited by Gildea, 2003)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> to be part of his proposed central branch, but a more recent classification (Gildea, 2005)<sup id="cite_ref-:3_10-2" class="reference"><a href="#cite_note-:3-10">&#91;10&#93;</a></sup> considers it still in search of a branch.
+</p>
+<h2><span class="mw-headline" id="Research_on_Wayana">Research on Wayana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=3" title="Edit section: Research on Wayana">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wayana, compared to its many of its Cariban peers, is very well described. The first work on Wayana was wordlists by Crevaux (1882, as cited by Tavares, 2005),<sup id="cite_ref-:1_8-1" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> Coudreau (1892),<sup id="cite_ref-:5_12-0" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> and De Goeje (1909, as cited by Tavares, 2005).<sup id="cite_ref-:1_8-2" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> De Goeje also published an incomplete grammar detailing some morphological aspects of Wayana in 1946 (as cited by Tavares, 2005).<sup id="cite_ref-:1_8-3" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> Walter Jackson's 1972 "A Wayana Grammar" builds on this grammar and clarifies some of the flaws in De Goeje's description of morphology and phonology, but still leaves many morphological and syntactic distinctions untouched.<sup id="cite_ref-:4_13-0" class="reference"><a href="#cite_note-:4-13">&#91;13&#93;</a></sup>
+</p><p>Kenneth Howell's 1982 MA thesis describes a specific aspect of Wayana syntax – constituent order.<sup id="cite_ref-:5_12-1" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> The most comprehensive work on Wayana is the 2005 PhD dissertation of Petronila Tavares, "A Grammar of Wayana",<sup id="cite_ref-:1_8-4" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> which is a descriptive grammar of Wayana's phonology, morphology, and syntax. Wayana is morphologically rich, and thus, most emphasis is given to morphology. The grammar provides little theoretical elaboration, "hop[ing] that future researchers will fill this gap" (Tavares, 2005, pp.&#160;6).<sup id="cite_ref-:1_8-5" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p><p>Eliane Camargo, who started fieldwork among the Wayana at the same time as Tavares, has also significantly contributed to the study of Wayana language, with many descriptions of specific features of Wayana, such as nominal possession, postpositions, word order,<sup id="cite_ref-:1_8-6" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> and nominative aspect markers.<sup id="cite_ref-:5_12-2" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> She wrote a Wayana-Portuguese dictionary in 1997,<sup id="cite_ref-:1_8-7" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> as well as a Wayana-French dictionary in 2010.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> Lastly, she has written several works of linguistic anthropology, concerning bi-/multi-lingualism amongst the Wayana.<sup id="cite_ref-:1_8-8" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup><sup id="cite_ref-:5_12-3" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup>
+</p><p>Much anthropological work has been conducted regarding the Wayana. Early ethnographic studies include de Goeje<sup id="cite_ref-:5_12-4" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> and Huralt,<sup id="cite_ref-:5_12-5" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> among others. The Wayana's relationship with the Aparai has also elicited many ethnographic studies on subjects such as their bilingualism (Camargo 1997),<sup id="cite_ref-:1_8-9" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> their kinship (Koehn 1975)<sup id="cite_ref-:5_12-6" class="reference"><a href="#cite_note-:5-12">&#91;12&#93;</a></sup> and their exchange patterns (Barbosa 2007).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> More recently, the Wayana-Aparai were also part of ProDocult, which is an effort from the Brazilian government to document indigenous culture, by creating digital archives and training indigenous peoples in documentary filmmaking and anthropological research.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The Wayana-Aparai project focused on food systems and traditional knowledge of flora and fauna.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> As well, Karen Hough (2008)<sup id="cite_ref-:7_6-3" class="reference"><a href="#cite_note-:7-6">&#91;6&#93;</a></sup> published an MPhil thesis in ethnolinguistics on spatial perception in Wayana, taking up Tavares' urge for more theoretical elaboration of Wayana grammar.
+</p>
+<h2><span class="mw-headline" id="Language_Status">Language Status</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=4" title="Edit section: Language Status">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The vitality of the language is also variant in different areas. In Brazil it is considered <a href="/wiki/Endangered_language" title="Endangered language">moribund</a> by Ethnologue, with grandparents being the only active users; however, Tavares (2005)<sup id="cite_ref-:1_8-10" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> mentions some villages on the Paru river where the language is in active use by children and adults, though the general trend is toward Aparai bilingualism and dominance.<sup id="cite_ref-:1_8-11" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> While Tavares does not consider the language healthy, it is possibly not moribund everywhere. According to Ethnologue, in French Guiana it is shifting, with active use by adults and little transmission to children. In Suriname, it is developing, with all generations using it and some use of standardized literature.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Phonology">Phonology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=5" title="Edit section: Phonology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Phonemic_inventory" class="mw-redirect" title="Phonemic inventory">phonemic inventory</a> of Wayana's <a href="/wiki/Consonant" title="Consonant">consonants</a> and <a href="/wiki/Vowel" title="Vowel">vowels</a> are presented below. That is, all distinct phonemes in Wayana. Several other segments are allophonically realized. For example, <span class="IPA nowrap" title="Representation in the International Phonetic Alphabet (IPA)">/<a href="/wiki/Voiceless_glottal_fricative" title="Voiceless glottal fricative">h</a>/</span> is realized as <span class="IPA nowrap" title="Representation in the International Phonetic Alphabet (IPA)">&#91;<a href="/wiki/Voiceless_palato-alveolar_fricative" class="mw-redirect" title="Voiceless palato-alveolar fricative">ʃ</a>&#93;</span> in some contexts. However, these are only surface realizations, and therefore not phonemes. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Consonants</b>
+</td>
+<td>Labial
+</td>
+<td>Alveolar
+</td>
+<td>Retroflex
+</td>
+<td>Palatal
+</td>
+<td>Velar
+</td>
+<td>Glottal
+</td></tr>
+<tr>
+<td>Stop
+</td>
+<td><b>p</b>
+</td>
+<td><b>t</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><b>k</b>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Nasal
+</td>
+<td><b>m</b>
+</td>
+<td><b>n</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Flap
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><b>ɽ</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Fricative
+</td>
+<td>
+</td>
+<td><b>s</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><b>h</b>
+</td></tr>
+<tr>
+<td>Approximant (glide)
+</td>
+<td><b>w</b>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><b>j</b>
+</td>
+<td>
+</td>
+<td>
+</td></tr></tbody></table>
+<p><small>Modified from Grimes (1972), p.&#160;48</small><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Vowels</b>
+</td>
+<td>Front
+</td>
+<td>Central
+</td>
+<td>Back
+</td></tr>
+<tr>
+<td>High
+</td>
+<td><b>i</b>
+</td>
+<td><b>ɨ</b>
+</td>
+<td><b>u</b>
+</td></tr>
+<tr>
+<td>Mid
+</td>
+<td><b>e</b>
+</td>
+<td><b>ə</b>
+</td>
+<td><b>o</b>
+</td></tr>
+<tr>
+<td>Low
+</td>
+<td>
+</td>
+<td><b>a</b>
+</td>
+<td>
+</td></tr></tbody></table>
+<p><small>Modified from Grimes (1972), p.&#160;48</small>
+</p><p>The back vowels /u/ and /o/ are pronounced unrounded, unlike their manifestations in familiar languages, such as French.
+</p>
+<h2><span class="mw-headline" id="Morphology">Morphology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=6" title="Edit section: Morphology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Overview_of_Morphology">Overview of Morphology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=7" title="Edit section: Overview of Morphology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wayana's <a href="/wiki/Morphology_(linguistics)" title="Morphology (linguistics)">morphology</a>, like that of other Cariban languages, is very rich, and makes extensive use of <a href="/wiki/Affix" title="Affix">affixes</a>.<sup id="cite_ref-:3_10-3" class="reference"><a href="#cite_note-:3-10">&#91;10&#93;</a></sup> There are five major speech classes in Wayana: <a href="/wiki/Noun" title="Noun">nouns</a>, <a href="/wiki/Verb" title="Verb">verbs</a>, <a href="/wiki/Postpositions" class="mw-redirect" title="Postpositions">postpositions</a>, <a href="/wiki/Adverb" title="Adverb">adverbs</a>, and <a href="/wiki/Grammatical_particle" title="Grammatical particle">particles</a>. Each class can be distinguished by the presence (or absence) of specific affixes. Particles take no affixes, and are not <a href="/wiki/Bound_morphemes" class="mw-redirect" title="Bound morphemes">morphologically bound</a>. They "expres[s] many different meanings such as <a href="/wiki/Evidentiality" title="Evidentiality">evidentiality</a>, <a href="/wiki/Negation_(linguistics)" class="mw-redirect" title="Negation (linguistics)">negation</a> … [and] emotivity …".<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>. Barring particles, all members of each speech class are clearly recognizable by the affixes that they can take. In her "Grammar of Wayana", Tavares addresses the major aspects of each speech class in-depth. In regards to nouns, she discusses <a href="/wiki/Possession_(linguistics)" title="Possession (linguistics)">possessive</a>, personal, and number affixes, Wayana pronouns, and special cases such as sound symbolic words. For verbs, she outlines the two "sets" of verbs found in Wayana ("Set I" –on which tense, aspect, and mood are marked through affixes, and <i>t</i>-V-(<i>he</i>) verbs – so-called due to their characteristic ambifix). She also addresses <a href="/wiki/Valency_(linguistics)" title="Valency (linguistics)">valence-changing</a> morphemes, and <a href="/wiki/Gerundive" title="Gerundive">gerundive verb forms</a>. For postpositions, Tavares examines the personal prefixes, and spatial suffixes, as well as semantic classes of postpositions (including spatial postpositions). <a href="/wiki/Morphological_derivation" title="Morphological derivation">Derivational morphology</a> is addressed for all classes, as class change (e.g. <a href="/wiki/Nominalization" title="Nominalization">nominalization</a>, <a href="/wiki/Verbalisation" title="Verbalisation">verbalization</a>) through affixes occurs often. Derivation is especially important for adverbs, as most adverbs are derived from other speech classes. Tavares presents the few underived adverbs that exist, as well the processes of adverbialization.<sup id="cite_ref-:1_8-12" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Possession_in_Wayana">Possession in Wayana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=8" title="Edit section: Possession in Wayana">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Possession in Wayana occurs in only one way. It consists of three elements - the possessed noun, the possessor, and the possessive suffix. The possessor comes before the possessed noun as either a free noun or free pronoun, or a personal prefix, and the possessed noun is necessarily inflected by one of four suffixes.<sup id="cite_ref-:1_8-13" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> For example, we have:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>1a. i-malija-n
+<p>3-knife-Pss
+</p><p>"his/her knife"
+</p>
+</td>
+<td>1b. Nila-malija-n
+<p>Nila-knife-Pss
+</p><p>"Nila's knife"
+</p>
+</td>
+<td>1c. *Nila i-malija-n
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;121</small>
+</p><p>Note: <i>-n</i> indicates the  possessive suffix.
+</p><p>As we can see from 1c., the possessor cannot be expressed as both a personal prefix and a noun/pronoun, or else it is ungrammatical. The personal prefixes differ based on the succeeding environment. They are summarized in the table below:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>
+</td>
+<td>Preceding a vowel
+</td>
+<td>Preceding a consonant
+</td>
+<td>Preceding [w]
+</td></tr>
+<tr>
+<td>1st-person
+</td>
+<td>j-
+</td>
+<td>ï-
+</td>
+<td>ï-
+</td></tr>
+<tr>
+<td>2nd-person
+</td>
+<td>ëw-
+</td>
+<td>ë-
+</td>
+<td>ë-
+</td></tr>
+<tr>
+<td>1st+2nd  person
+</td>
+<td>k-, ik-
+</td>
+<td>ku-
+</td>
+<td>ku-
+</td></tr>
+<tr>
+<td>3rd person
+</td>
+<td>ø
+</td>
+<td>i-
+</td>
+<td>a-, o-, e-
+</td></tr>
+<tr>
+<td>3rd-person-reflexive
+</td>
+<td>t-
+</td>
+<td>tï-
+</td>
+<td>tï-
+</td></tr></tbody></table>
+<p><small>Modified from Tavares (2005), pp.&#160;121</small>
+</p><p>As mentioned previously, there are four allomorphs of the possessive suffix that inflect the possessed noun: <i>-n(u),</i> <i>-(lï), -t(ï),</i> -ø. The full form of the suffixes are realized only in some phonological environments. -<i>n(u)</i> is "the most productive" (Tavares, 2005, pp.&#160;127) allomorph, as it is applied to loanwords (2c.). <i>-t(ï-)</i> can only be applied to three nouns (<i>ëmi, ëlek, ëpi</i> – face, boil, medicine). Both <i>-(lï)</i> and -ø occur after specific nominalizing affixes; each occurs after a different nominalization affix (for example the ones in 3b., 5b, though there are several others).–ø also occurs after some inherently possessed nouns (5a.), and nouns with the devaluative suffix (-<i>tpë, -tpï(lï)</i>) (5c.).<sup id="cite_ref-:1_8-14" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><i>-n(u)</i>
+</td>
+<td>2a. i-pakolo-n
+<p>3-house-Pss
+</p><p>"his house"
+</p>
+</td>
+<td>2b. j-emeku-nu psik
+<p>1-wrist-Pss small
+</p><p>"my small wrist"
+</p>
+</td>
+<td>2c. ï-kuje-n
+<p>1-spoon-Pss
+</p><p>"my spoon"
+</p><p>(kuje from Port. "colher")
+</p>
+</td></tr>
+<tr>
+<td><i>-(lï)</i>
+</td>
+<td>3a. ku-tamu-(lu)
+<p>1+2-grandfather-Pss
+</p><p>"our grandfather"
+</p>
+</td>
+<td>3b.  <small>tulii epïï pëk</small><small>tulihi epï-ø-lï pëkë</small>
+<p><small>fruit.sp eat.vegetable-</small><small>SpecEvntNmlz-Pss<a href="#_ftn1">[1]</a>        about</small>
+</p><p><small>"He was eating tulii"</small>
+</p><p><small>(</small> <small>SpecEvntNmlz = Specific Event Nominalizer)</small>
+</p><p><small>(Alawaka 027, as cited by Tavares)</small>
+</p>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>-t(ï)</i>
+</td>
+<td>4a. ø-ëleki-t
+<p>his/her-face-Pss
+</p><p>"his/her face"
+</p>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>-ø</i>
+</td>
+<td>5a. ïjum
+<p>ï-jumï-ø
+</p><p>1-father-Pss
+</p><p>"my father"
+</p>
+</td>
+<td>5b. jïnïktop
+<p>j-ïnïkï-topo-ø
+</p><p>1-sleep-CircnstNmlz-Pss
+</p><p>"my object for sleeping"
+</p><p><small>(CircnstNmlz = Circumstantial Nominalizer)</small>
+</p><p><small>(Jolokoc 488, as cited by Tavares)</small>
+</p>
+</td>
+<td>5c. Ïhapatutpïï
+<p>ï-hapatu-tpïlip-ø
+</p><p>1-shoe-Dvl-Pss
+</p><p>"my old, useless shoe"
+</p><p><small>(Dvl = Devaluative)</small>
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005) pp.&#160;126 – 136</small>
+</p><p>It is important to note that nouns in Wayana fall under three classes, in regards to possessibility: unpossessable, optionally possessable, and inherently possessed. Unpossessable nouns do not take possessive prefixes or suffixes. Optionally possessed nouns are semantically diverse, and can occur in either possessed or unpossessed form (most examples given use optionally possessed nouns). Inherently possessed nouns "denote entities that stand in a stable, intrinsic relationship with another entity" (Tavares, 2005, pp.&#160;136), and must always be possessed. Kinship terms (such as in 5a.) and some body parts fall under this category. Inherently possessed nouns often, but not always, take –ø as the possessive suffix.<sup id="cite_ref-:1_8-15" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Valence_Changing_Morphemes">Valence Changing Morphemes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=9" title="Edit section: Valence Changing Morphemes">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Valency_(linguistics)" title="Valency (linguistics)">Valency</a> refers to the number of participants that a verb takes. In Wayana, the subject of an <a href="/wiki/Intransitive_verb" title="Intransitive verb">intransitive</a> sentence (<i>S</i>) is distinguished from subject of a <a href="/wiki/Transitive_verb" title="Transitive verb">transitive</a> sentence (<i>A</i>) and the object of a transitive sentence (<i>O</i>). The valency on a <a href="/wiki/Verb_stem" class="mw-redirect" title="Verb stem">verb stem</a> can be decreased or increased by using certain affixes. Valence can be decreased by only one affix – the detransitivizing prefix – but can be increased by four different suffixes. Causational morphemes (such as the Wayana <i>–po</i>) are not considered as valence-increasing, since the participants they introduce are optional.<sup id="cite_ref-:1_8-16" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p><p>The detransitivizing prefix is realized as <i>e-, ëh-, ët</i>-, depending on the succeeding phonological environment. The prefix can be taken by a transitive verb stem to detransitivize it, so that only one argument can be taken; the verb is then "marked as an <i>SA</i> intransitive verb" (Tavares, 2005, pp.&#160;253), meaning that it only takes one argument, which is the subject and agent. For example, we see, how, in 6a. and b., a verb stem that usually requires another participant, can be satisfied by just one acting as an agent, in the presence of the detransitivizing prefix.<sup id="cite_ref-:1_8-17" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Verb stem</b>
+</td>
+<td><b>Gloss</b>
+</td>
+<td><b>Detransitivized verb stem</b>
+</td>
+<td><b>Gloss</b>
+</td></tr>
+<tr>
+<td>6a. ulu
+</td>
+<td>"talk to O"
+</td>
+<td>ëtulu
+</td>
+<td>"talk"
+</td></tr>
+<tr>
+<td colspan="4">6b. Ma kutamuu nëtulu jepe
+<p>maa ku-tamulu-ø n-ët-ulu-ø  j-epe-ø
+</p><p>So  1+2-grandfather-Pss  3S<sub>A</sub>-Det-talk.to.O-RecPst  1-friend-Pss
+</p><p>"So, our grandfather has talked, my friend."
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;254</small>
+</p><p>Conversely, intransitive verbs can be made to take new participants by using transtivizing suffixes: <i>-ka, -nëp(ka), -nïp(ka), ma</i>, and <i>lë</i>. These suffixes only "occur on <i>SO</i> intransitive stems", "adding a new nuclear participant to the event described by the verb" (Tavares 2005, pp.&#160;254). The new participant becomes the agent and subject of the transitive sentence, and the old <i>S</i>, the object. The suffixes do not occur on <i>SA</i> intransitive verbs (like the ones formed by the detransitivizing suffix), as they cannot be transitivized.
+</p><p>The distribution of these suffixes is not well described, and seems to be mostly based on phonology of the surrounding environment. As can be seen below, the different suffixes behave very similarly. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Verb stem</b>
+</td>
+<td><b>Gloss</b>
+</td>
+<td><b>Suffix</b>
+</td>
+<td><b>Transitivized verb stem</b>
+</td>
+<td><b>Gloss</b>
+</td></tr>
+<tr>
+<td>7a. utat(ï)
+</td>
+<td>"be/get lost"
+</td>
+<td>-ka
+</td>
+<td>utatka
+</td>
+<td>"make O get lost"
+</td></tr>
+<tr>
+<td>7b. uwa
+</td>
+<td>"dance"
+</td>
+<td>-<i>nïp(i)~- nïp(ka)</i>
+</td>
+<td>uwa<i>nïp(ï)~uwanïp(ka)</i>
+</td>
+<td>"make O dance"
+</td></tr>
+<tr>
+<td colspan="5">7c. Majpuri meleminëp
+<p>majpuli m-elemi-nëpï-ø
+</p><p>tapir  2A3O-Sing-Transvzr-RecPst
+</p><p>"You sang the  Maipuli [a song]"  
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;255–256</small>
+</p><p>The root "<i>elemi</i>", seen in 7c. can also take the transitivizing suffix <i>–ka</i>, as well as –<i>nëp(i)</i>, but this causes a different meaning, for an unknown reason.<sup id="cite_ref-:1_8-18" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Syntax">Syntax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=10" title="Edit section: Syntax">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Case_and_Agreement">Case and Agreement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=11" title="Edit section: Case and Agreement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wayana's case system presents "an … unprecedented type of <a href="/wiki/Split_ergativity" title="Split ergativity">split ergativ[ity]</a>" (Tavares, 2005, pp.&#160;412),<sup id="cite_ref-:1_8-19" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> where there are two verb types – Set I and <i>t</i>-V-<i>(h)e.</i> The former presents an unclassified mixed system (sometimes analyzed as <a href="/wiki/Active%E2%80%93stative_language" title="Active–stative language">active-stative</a>, or inverse) while the latter presents <a href="/wiki/Ergative_case" title="Ergative case">ergative</a> case. In both verb sets, the subject of an intransitive sentence (<i>S</i>) is distinguished from subject of a transitive sentence (<i>A</i>) and the object of a transitive sentence (<i>O</i>), as mentioned previously. There is no grammatical property that seems to trigger the use of one set over the other. Both systems can "occur independent of tense, with all persons … in main clauses, and with all verb stems" (Tavares, 2005, pp.&#160;234),<sup id="cite_ref-:1_8-20" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup> and the choice of verb set is perhaps dependent on discourse factors.<sup id="cite_ref-:1_8-21" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Set_I_Verbs">Set I Verbs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=12" title="Edit section: Set I Verbs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Set I verbs in Wayana take a variety of personal prefixes, marking first, second, dual (first and second), and third person. The prefix used differs based on the valency of the verb in question, and person(s) being marked.<sup id="cite_ref-:1_8-22" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p><p>For transitive verbs, one prefix marks both subject (<i>A</i>), and object (<i>O</i>). The different prefixes, based on which person <i>A</i> and <i>O</i> are marking, are below. 
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td colspan="5">Personal Prefixes on Transitive Verbs
+</td></tr>
+<tr>
+<td>
+</td>
+<td>1st-person subject
+<p>(1A)
+</p>
+</td>
+<td>2nd-person subject
+<p>(2A)
+</p>
+</td>
+<td>1st + 2nd-person subject (1+2A)
+</td>
+<td>3rd person subject (3A)
+</td></tr>
+<tr>
+<td>1st person object (1O)
+</td>
+<td>
+</td>
+<td>2A1O
+<p>k-/ku-
+</p>
+</td>
+<td>
+</td>
+<td>3A1O
+<p>ï -/j-
+</p>
+</td></tr>
+<tr>
+<td>2nd person object (2O)
+</td>
+<td>1A2O
+<p>kuw-/ku-/k-
+</p>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>3A2O
+<p>ë-/ëw-
+</p>
+</td></tr>
+<tr>
+<td>1st + 2nd person object (1+2O)
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>3A1+2O
+<p>ku-, k-
+</p>
+</td></tr>
+<tr>
+<td>3rd person object (3O)
+</td>
+<td>1A3O
+<p>w-
+</p>
+</td>
+<td>2A3O
+<p>m-
+</p>
+</td>
+<td>1+2A3O
+<p>(ku)h-/kut, ku-, k-
+</p>
+</td>
+<td>3A3O
+<p>n-/mën-/kun-/pre-verbal object<a href="#_ftn1">[1]</a>
+</p>
+</td></tr></tbody></table>
+<p><small>Modified from Tavares (2005), pp.&#160;206</small>
+</p><p>When one of the arguments of the transitive verb is a speech act participant (SAP) - either first person, second person or dual person (both first and second person) - and the other argument is a third person, the personal prefix differs based on whether the speech act participant is acting on the third person (is <i>A</i>), or is being acted on by the third person (is <i>O</i>). Often, first situation is termed direct, and the latter inverse. We can see this demonstrated by the differing prefixes for 1A3O (direct) and 3A1O (inverse), as well as 2A3O (direct) and 3A2O (inverse).<sup id="cite_ref-:1_8-23" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p><p>This distinction between direct and inverse prefixes is crucial when examining intransitive verbs. While each prefix marks the subject (<i>S</i>), as the chart below shows, there are two distinct sets of personal prefixes for each SAP person. One set matches the direct prefixes in transitive verbs, and the other set matches inverse prefixes. Thus, the <i>S</i> is split, and referred to either as <i>SA</i> or <i>SO</i>, depending on which transitive prefix set the intransitive prefix resembles. <i>SA</i> corresponds to the direct prefixes, and <i>SO</i>, the inverse. For example, 1SA prefix <i>"w-"</i> is the same as the 1A3O direct transitive prefix.<sup id="cite_ref-:1_8-24" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td colspan="3">Personal Prefixes on Intransitive Verbs
+</td></tr>
+<tr>
+<td>
+</td>
+<td>SA
+</td>
+<td>SO
+</td></tr>
+<tr>
+<td>1S
+</td>
+<td>w-
+</td>
+<td>ï -/j-
+</td></tr>
+<tr>
+<td>2S
+</td>
+<td>m-
+</td>
+<td>ë-/ëw-
+</td></tr>
+<tr>
+<td>1 + 2S
+</td>
+<td>(ku)h-/kut, ku-, k-
+</td>
+<td>(ku)h-/kut, ku-, k-
+</td></tr>
+<tr>
+<td>3S
+</td>
+<td colspan="2">n-/mën-/kun-
+</td></tr></tbody></table>
+<p>To illustrate, below are two example of sentences using Set I transitive (8) and intransitive verbs, with <i>SA</i> (9a) and <i>SO</i> arguments (9b)&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>8a) w-ipanakma-ø
+<p>1A3O-hear.O-RecPst<a href="#_ftn1">[1]</a>
+</p><p>"I heard it"
+</p><p><small>(RecPst = Recent Past)</small>
+</p>
+</td>
+<td>
+<p>8b) Kola ekalë epe ja
+</p><p>kola ekalë-ø øepe-ø ja<a href="#_ftn2">[2]</a>
+</p><p>necklace give-RecPst 3-friend-Pss  Dat
+</p><p>"(She) gave necklace to her  friend"
+</p><p><small>(Dat = Dative)</small>
+</p>
+</td></tr>
+<tr>
+<td>9a) w- ëtulu-ø
+<p>1SA-eat-RecPst
+</p><p>"I ate"
+</p>
+</td>
+<td>9b)  k-ëlemi-ø
+<p>1+2SO-sing-RecPst
+</p><p>"Me and you sang"
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;208 &amp; 426</small>
+</p><p>There have been a few analyses proposed to explain Wayana's person marking, including active-stative. If one focuses on the first and second person prefixes, that might be reasonable, as S <i>is</i> marked either as <i>A</i> or O, a characteristic of active-stative languages. Yet this analysis holds for first and second person only – the other persons (i.e. dual person) "do not present such a binary opposite" (Tavares, 2005, pp.&#160;208); as well, the "semantic basis is lacking" (Tavares, 2005, pp.&#160;208). Other analyses include: inverse (Gildea, 1998, as cited by Tavares) and  portmanteau prefixes (Hoff, 1995, as cited by Tavares). Instead, it is likely that the set I verbs in Wayana are of a mixed system that is not fully encompassed by one single analysis.<sup id="cite_ref-:1_8-25" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h4><span id="t-V-.28h.29e_Verbs"></span><span class="mw-headline" id="t-V-(h)e_Verbs"><i>t</i>-V-<i>(h)e</i> Verbs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=13" title="Edit section: t-V-(h)e Verbs">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Verbs in this set, characterized by the ambifix <i>t-</i> -<i>(h)</i>e around the verb root, are less complicated than set I verbs in regards to case. They are not inflected for person, tense, evidentiality, or number, and, as mentioned, present ergative case marking. The intransitive subject, <i>S</i>, and transitive object, <i>O</i> are both unmarked (having absolutive case), while the transitive object is marked for ergative case with the ergative morpheme, <i>ja</i>. Two examples follow:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td colspan="2">10. Malonme  ïwokan        epuu     tëpkëlei         pasina ja
+<p>malonme   ï-woka-nu epulu-ø te-pïkëlë-he pahina ja
+</p><p>then 1-fishhook-Pss pole-Pss  T-Break.O-He fish.sp Erg
+</p><p>"Then, a pasina (fish) broke the pole of  my fishhook"
+</p>
+</td></tr>
+<tr>
+<td>11. Tïkai ïu
+<p>tï-ka-he    ïwu
+</p><p>T-say-He 1Pro<a href="#_ftn3">[3]</a>
+</p><p>"I said"
+</p><p><small>(1Pro = First person pronoun)</small>
+</p>
+</td>
+<td>12. Kopë telen tumëkhe
+<p>kopë telenu t-umëkï-he
+</p><p>rain    huge   T-come-He
+</p><p>"A huge rain came"
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;231</small>
+</p><p>In the transitive sentence, 10., the <i>A</i>, which is the pasina fish, is marked as such by the <i>ja</i> ergative morpheme. The <i>O</i>, the speaker's fishhook pole, is unmarked. In the intransitive sentences, 11. and 12., the <i>S</i> (the speaker, and "a huge rain", respectively) are completely unmarked, just as the <i>O</i> is in 10..
+</p><p>Wayana thus shows split ergativity, with one set of verbs presenting ergative case, and the other, a mixed system. Wayana is a special case in split ergativity, since it seems that the two sets are not grammatically  or semantically triggered, and occur freely in discourse. For example, both 13. and 14. use the verb root ("<i>ënepï</i>"/"bring"), yet 13. is marked as a <i>t-</i> -<i>(h)</i>e verb, and 14. is marked as a set I.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>13. Ulu   tënephe      Kilili ja
+<p>ulu   t-ënepï-he   kilili ja
+</p><p>manioc T-bring.O-he Kilili Erg
+</p><p>"Kilili brought manioc"
+</p>
+</td></tr>
+<tr>
+<td>14. Menep
+<p>m-enepï-ø
+</p><p>2A3O-bring.O-RecPst
+</p><p>"You brought it"
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;201, 202</small>
+</p><p>Even another Cariban language, <a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyó</a>, with split ergativity (and similar person-marking), "restrict[s]" <i>t-V-(h)e</i> verbs (the Tiriyo cognate) to the remote past" (Tavares, 2005, pp.&#160;234), making Wayana's case system quite unique, even amongst Cariban languages.<sup id="cite_ref-:1_8-26" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Semantics">Semantics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=14" title="Edit section: Semantics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Tense">Tense</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=15" title="Edit section: Tense">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Wayana explicitly marks tense only on set I verbs, where tense morphemes are bound with aspect, modality, and number. Broadly, there are two categories of tenses – non-past, and past, which includes recent past, distant past, and habitual past; all tenses are marked with affixes. Aspect is not marked on Wayana verbs, but is "impl[ied] to different degrees" (Tavares, 2005, pp.&#160;211) in each tense, or else given by context or other morphemes. Below is a chart of the suffixes for each tense.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><b>Tense</b>
+</td>
+<td><b>Suffix</b>
+</td></tr>
+<tr>
+<td>Non-Past
+</td>
+<td>-ja
+</td></tr>
+<tr>
+<td>Recent Past
+</td>
+<td>-ø
+</td></tr>
+<tr>
+<td>Distant Past
+</td>
+<td>-ne/kun-
+</td></tr>
+<tr>
+<td>Habitual Past
+</td>
+<td>-(j)(ë)mëhneja, -(h)e
+</td></tr></tbody></table>
+<p><small>Modified from Tavares (2005), pp.&#160;210</small>
+</p><p>The non-past suffix, <i>-ja</i> can refer to future events, facts about the world, and non-past sentences can encode aspect, such as imperfective habitual or continuous aspect. In the examples below, we see how habitual aspect is marked through another morpheme (15.), how near or distant future is marked through context (saying "in a minute" versus "next year") (16a., 16b.). We also see in 17. that, since perfective aspect is not explicitly marked, the non-past can be understood as either imperfect and continuous ("I am making bread"), or perfect ("I will make bread"), based on the context of speech.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>15.Pakolon tak hepï wïtëjai
+<p>ituwakï    pakolo-nu ta-kë                                  hepï         w-ïtë-ja-he
+</p><p>Indian     house-Pss  in.permanent.loc-into habitual  1SA-go-NonPst-SapAff<a href="#_ftn1">[1]</a>
+</p><p>"I always go to the House of the  Indians"
+</p><p><small>(SapAff = Speech Act Affirmative Morpheme)</small>
+</p>
+</td></tr>
+<tr>
+<td>16a. ïwenatei  pitë
+<p>ï-wenata-ja-he                            pitë
+</p><p>1SO-vomit-NonPast-SapAff    in.a.minute
+</p><p>"I am about to vomit"
+</p>
+</td></tr>
+<tr>
+<td>16b. Akon wei po,  wëhepei Estados Unidos po
+<p>akono    weji   po-ø                         w-ëh-epa-ja-he                                estados  unidos po-ø
+</p><p>another year on.supported-on  1SA-Det-teach.O-NonPst-SapAff United States      on.supported-on
+</p><p>"Next year, I will study in the  United States"
+</p>
+</td></tr>
+<tr>
+<td>17. Ulu wekejai
+<p>ulu w-ekeju-ja-he
+</p><p>bread 1A3O-make.bread.NonPst-SappAff
+</p><p>"I am making bread" or "I will make  bread"
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;212–213</small>
+</p><p>The recent past suffix, <i>-ø,</i> refers to "events that took place in the past twenty -four hours", including "events that have just occurred", "events that have happened hours ago, and events that happened in the previous day" (Tavares 2005, pp.&#160;215). 11) and 12) provide examples for this tense:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>18. Nilëjmëp
+<p>n-i-lëmëpï-ø
+</p><p>3S-Them-die-RecPst
+</p><p>"He just died (a few minutes ago)" 
+</p>
+</td></tr>
+<tr>
+<td>19. Eluwa  pepta kaikui uwe kokone
+<p>eluwa pepta kaikuhi uwë-ø               kokone
+</p><p>man     big      jaguar    kill.O-RecPst  yesterday
+</p><p>"A man killed a big jaguar yesterday"
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;215</small>
+</p><p>The distant past (referring to an event that occurred more than 24 hours before speech) is marked by two different affixes, <i>-ne</i> and <i>kun</i>-. Their distribution is based on the person of the verb's arguments. <i>–ne</i> occurs when one or both of the verb's arguments is an SAP, or when there is a free (pro)noun object before the verb in a 3A3O configuration. <i>Kun</i>- "occurs elsewhere" and marks third person as well as distant past. 20. gives an example of the distant past, using the –<i>ne</i> suffix (as there is a preverbal free noun <i>O</i>), and 21 gives an example of <i>kun-</i>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>20. Jolok enene  Anakali
+<p>joloko       ene-ne               anakali
+</p><p>evil.spirit see.O-DistPst  Anakali
+</p><p>"Anakali saw a Jolok"
+</p>
+</td></tr>
+<tr>
+<td>21. Malonme  kunene
+<p>malonme kun-ene
+</p><p>Then          3A3ODistPst-see.O
+</p><p>"Then, he saw it."
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005), pp.&#160;216</small>
+</p><p>All past affixes only "imply perfective meaning" (Tavares 2005, pp.&#160;212) on their own. However, two habitual suffixes can mark habitual aspect in the distant past. They are <i>-(j)(ë)mëhneja</i> and <i>-(h)e</i>. The former takes the same personal prefixes as non-past forms do, while the latter takes no personal prefixes, though they seem to be identical, semantically – marking a repeated event in the past.
+</p><p>22. and 23. provide examples of <i>-(j)(ë)mëhneja</i> and -<i>(h)e</i>, respectively.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>22. Akuli je ïlëmëhneja malijame
+<p>akuli    je-ø             ïlï-ëmëtneja             malija-me
+</p><p>agouti tooth-Pss  make.O-HabPst     knife-Attrb
+</p><p>"They used to make agouti's teeth  into knives"
+</p>
+</td></tr>
+<tr>
+<td>23 Kai kuni
+<p>ka-he            kuni
+</p><p>say-HabPst grandmother
+</p><p>"Grandma used to say."
+</p>
+</td></tr></tbody></table>
+<p><small>Data from Tavares (2005) pp.&#160;218, 237</small>
+</p><p>While set I verbs mark tense, <i>t-V-(h)</i>e verbs do not have morphology to do so. They do, however, refer to events in the past, present, and future, with different aspects. Tavares does not make it clear in her grammar how those events are referred to, but likely it is through context, and other morphemes, such as the habitual morpheme <i>hepï</i> (from the data presented on Tavares 2005, pp.&#160;232).<sup id="cite_ref-:1_8-27" class="reference"><a href="#cite_note-:1-8">&#91;8&#93;</a></sup>
+</p>
+<hr /><p><a href="#_ftnref1">[1]</a> This can be a free pro(noun) that is the <i>O</i> on a transitive verb. See (1b) for an example. Also note that the differing realizations of the prefixes are phonologically conditioned or based on tense (in the case of 3A3O)
+</p><h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=16" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-e19-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-e19_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/19/language/way/">Wayana</a> at <i><a href="/wiki/Ethnologue" title="Ethnologue">Ethnologue</a></i> (19th ed., 2016)</span>
+</li>
+<li id="cite_note-Glottolog-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/waya1269">"Wayana"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Wayana&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fwaya1269&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-:6-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-:6_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:6_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:6_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pib.socioambiental.org/en/povo/wayana">"Introducción &gt; Wayana"</a>. <i>pib.socioambiental.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pib.socioambiental.org&amp;rft.atitle=Introducci%C3%B3n+%3E+Wayana&amp;rft_id=https%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fwayana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ethnologue.com/language/way">"Wayana"</a>. <i>Ethnologue</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ethnologue&amp;rft.atitle=Wayana&amp;rft_id=https%3A%2F%2Fwww.ethnologue.com%2Flanguage%2Fway&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-pib.socioambiental.org-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-pib.socioambiental.org_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pib.socioambiental.org_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pib.socioambiental.org/en/povo/wayana/1144">"Processes of rapprochement and separation &gt; Wayana"</a>. <i>pib.socioambiental.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pib.socioambiental.org&amp;rft.atitle=Processes+of+rapprochement+and+separation+%3E+Wayana&amp;rft_id=https%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fwayana%2F1144&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:7-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:7_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:7_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:7_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:7_6-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Hough, K. (2008). <i>The Expression and Perception of Space in Wayana</i> (MPhil Thesis)<i>.</i> Leiden: Sidestone Press.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pib.socioambiental.org/en/povo/wayana/1146">"Location and history of occupation &gt; Wayana"</a>. <i>pib.socioambiental.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pib.socioambiental.org&amp;rft.atitle=Location+and+history+of+occupation+%3E+Wayana&amp;rft_id=https%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fwayana%2F1146&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:1-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:1_8-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:1_8-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:1_8-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:1_8-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:1_8-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-:1_8-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-:1_8-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-:1_8-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-:1_8-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-:1_8-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-:1_8-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-:1_8-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-:1_8-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-:1_8-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-:1_8-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-:1_8-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-:1_8-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-:1_8-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-:1_8-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-:1_8-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-:1_8-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-:1_8-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-:1_8-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-:1_8-25"><sup><i><b>z</b></i></sup></a> <a href="#cite_ref-:1_8-26"><sup><i><b>aa</b></i></sup></a> <a href="#cite_ref-:1_8-27"><sup><i><b>ab</b></i></sup></a></span> <span class="reference-text">Tavares, P. (2005). <i>A grammar of Wayana.</i> Retrieved from Rice University Electronic Theses and Dissertations.</span>
+</li>
+<li id="cite_note-:2-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-:2_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://pib.socioambiental.org/en/povo/wayana/1148">"History and interethnic relations &gt; Wayana"</a>. <i>pib.socioambiental.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=pib.socioambiental.org&amp;rft.atitle=History+and+interethnic+relations+%3E+Wayana&amp;rft_id=https%3A%2F%2Fpib.socioambiental.org%2Fen%2Fpovo%2Fwayana%2F1148&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:3-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-:3_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:3_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:3_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:3_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Gildea, Spike (2005). <i>Carib and Cariban Languages. In Encyclopedia of Linguistics, 2 vols., ed. Philipp Strazny. (vol. 1, pp. 173-176). New York: Fitzroy Dearborn</i>. New York: Fitzroy Dearborn.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Carib+and+Cariban+Languages.+In+Encyclopedia+of+Linguistics%2C+2+vols.%2C+ed.+Philipp+Strazny.+%28vol.+1%2C+pp.+173-176%29.+New+York%3A+Fitzroy+Dearborn.&amp;rft.place=New+York&amp;rft.pub=Fitzroy+Dearborn&amp;rft.date=2005&amp;rft.aulast=Gildea&amp;rft.aufirst=Spike&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Gildea, S. (2003). Proposing a New Branch for the Cariban Language Family. <i>Amerindia, n°28,</i> pp. 7 – 32.</span>
+</li>
+<li id="cite_note-:5-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-:5_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:5_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-:5_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-:5_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-:5_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-:5_12-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-:5_12-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/waya1269">"Glottolog 2.7 -             Wayana"</a>. <i>glottolog.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=glottolog.org&amp;rft.atitle=Glottolog+2.7+-+++++++++++++Wayana&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fwaya1269&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:4-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Walter S. Jackson.  Irvine Davis (ed.). <a rel="nofollow" class="external text" href="http://www.sil.org/acpub/repository/11212.pdf">"A Wayana Grammar"</a> <span class="cs1-format">(PDF)</span>. <i>Languages of the Guianas</i>: 47–77.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Languages+of+the+Guianas&amp;rft.atitle=A+Wayana+Grammar&amp;rft.pages=47-77&amp;rft.au=Walter+S.+Jackson&amp;rft_id=http%3A%2F%2Fwww.sil.org%2Facpub%2Frepository%2F11212.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.vjf.cnrs.fr/celia/FichExt/Dic_alphas/wayana_francais/index.htm">"Dictionnaire bilingue wayana-français"</a>. <i>www.vjf.cnrs.fr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.vjf.cnrs.fr&amp;rft.atitle=Dictionnaire+bilingue+wayana-fran%C3%A7ais&amp;rft_id=https%3A%2F%2Fwww.vjf.cnrs.fr%2Fcelia%2FFichExt%2FDic_alphas%2Fwayana_francais%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Barbosa, G.C. (2007). Os Aparai e Wayana e suas redes de intercambios (Doctoral dissertation). Retrieved from The Digital Library of Theses and Dissertations of the University of São Paulo.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Franchetta, B. &amp; Rice, K. Language Documentation in the Americas. <i>Language Documentation and Conservation</i> Vol 8. 2014, pp. 251 – 261.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web">Medeiros, Eliane. <a rel="nofollow" class="external text" href="http://prodocult.museudoindio.gov.br/etnias/wayana-aparai/projeto">"ProDocult - Projeto"</a>. <i>prodocult.museudoindio.gov.br</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=prodocult.museudoindio.gov.br&amp;rft.atitle=ProDocult+-+Projeto&amp;rft.aulast=Medeiros&amp;rft.aufirst=Eliane&amp;rft_id=http%3A%2F%2Fprodocult.museudoindio.gov.br%2Fetnias%2Fwayana-aparai%2Fprojeto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">Grimes, Joseph E. (1972). <a rel="nofollow" class="external text" href="https://archive.org/details/rosettaproject_way_phon-1"><i>Languages of the Guianas</i></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Languages+of+the+Guianas&amp;rft.date=1972&amp;rft.aulast=Grimes&amp;rft.aufirst=Joseph+E.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Frosettaproject_way_phon-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Tavares, Petronila (2005). <i>A grammar of Wayana</i>. Houston: Rice University Electronic Theses and Dissertations. p.&#160;108.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+grammar+of+Wayana.&amp;rft.place=Houston&amp;rft.pages=108&amp;rft.pub=Rice+University+Electronic+Theses+and+Dissertations&amp;rft.date=2005&amp;rft.aulast=Tavares&amp;rft.aufirst=Petronila&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWayana+language" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wayana_language&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://archive.org/details/rosettaproject_way_vertxt-a1_audio-1">Recording of Wayana</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_French_Guiana" title="Template:Languages of French Guiana"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_French_Guiana" title="Template talk:Languages of French Guiana"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_French_Guiana&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_French_Guiana" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_French_Guiana" class="mw-redirect" title="Languages of French Guiana">Languages</a> of <a href="/wiki/French_Guiana" title="French Guiana">French Guiana</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_language" title="French language">French</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Emerillon_language" title="Emerillon language">Emerillon</a></li>
+<li><a href="/wiki/French_Guianese_Creole" title="French Guianese Creole">Guianese Creole</a></li>
+<li><a href="/wiki/Palik%C3%BAr_language" title="Palikúr language">Palikúr</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Wayampi_language" title="Wayampi language">Wayampi</a></li>
+<li><a class="mw-selflink selflink">Wayana</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/French_Sign_Language" title="French Sign Language">French Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Suriname" title="Template:Languages of Suriname"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Suriname" title="Template talk:Languages of Suriname"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Suriname" class="mw-redirect" title="Languages of Suriname">Languages</a> of <a href="/wiki/Suriname" title="Suriname">Suriname</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Surinamese_Dutch" title="Surinamese Dutch">Dutch</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ndyuka_language" title="Ndyuka language">Aukan</a></li>
+<li><a href="/wiki/Caribbean_Hindustani" title="Caribbean Hindustani">Caribbean Hindustani</a></li>
+<li><a href="/wiki/Chinese_language" title="Chinese language">Chinese</a></li>
+<li><a href="/wiki/English_language" title="English language">English</a></li>
+<li><a href="/wiki/Javanese_language" title="Javanese language">Javanese</a></li>
+<li><a href="/wiki/Kwinti_language" title="Kwinti language">Kwinti</a></li>
+<li><a href="/wiki/Saramaccan_language" title="Saramaccan language">Saramaccan</a></li>
+<li><a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akurio_language" title="Akurio language">Akurio</a></li>
+<li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Mawayana_language" title="Mawayana language">Mawayana</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Trió</a></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a class="mw-selflink selflink">Wayana</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Cariban_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cariban_languages" title="Template:Cariban languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cariban_languages" title="Template talk:Cariban languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cariban_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cariban_languages" style="font-size:114%;margin:0 4em"><a href="/wiki/Cariban_languages" title="Cariban languages">Cariban languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parukotoan</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
+<li><i><a href="/wiki/Sikiana_language" title="Sikiana language">Katxúyana</a></i></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pekodian</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arara</a></li>
+<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairí</a>
+<ul><li><small><a href="/wiki/Kuikuro_language" title="Kuikuro language">Kuikuro</a></small></li></ul></li>
+<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpéng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venezuelan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pemóng–Panare</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Makushi</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemón</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mapoyo–Tamanaku</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cumanagota_language" class="mw-redirect" title="Cumanagota language">Kumaná</a></i></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yawarana</a></li>
+<li><i><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guianan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Kari'nja</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a class="mw-selflink selflink">Wayana</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Taranoan" scope="row" class="navbox-group" style="width:1%">Taranoan</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyo</a></li>
+<li><a href="/wiki/Carijona_language" title="Carijona language">Karihona</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyo</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
+<li><a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japréria</a></li>
+<li><a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Waimirí Atroarí</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20190925094907
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.428 seconds
+Real time usage: 0.555 seconds
+Preprocessor visited node count: 2781/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61614/2097152 bytes
+Template argument size: 1005/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 45521/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.157/10.000 seconds
+Lua memory usage: 5.21 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  456.525      1 -total
+ 44.79%  204.472      1 Template:Infobox_language
+ 36.21%  165.327      1 Template:Infobox
+ 18.75%   85.595      4 Template:Cite_book
+ 18.02%   82.285      1 Template:Reflist
+ 16.37%   74.717      1 Template:Glottolog
+ 13.33%   60.865      1 Template:About
+  9.43%   43.048      5 Template:Navbox
+  6.36%   29.039      7 Template:Cite_web
+  6.08%   27.734      1 Template:Languages_of_French_Guiana
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34634136-0!canonical and timestamp 20190925094907 and revision id 894800640
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wayana_language&amp;oldid=894800640">https://en.wikipedia.org/w/index.php?title=Wayana_language&amp;oldid=894800640</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cariban_languages" title="Category:Cariban languages">Cariban languages</a></li><li><a href="/wiki/Category:Wayana_people" title="Category:Wayana people">Wayana people</a></li><li><a href="/wiki/Category:Languages_of_French_Guiana" title="Category:Languages of French Guiana">Languages of French Guiana</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Language_articles_citing_Ethnologue_19" title="Category:Language articles citing Ethnologue 19">Language articles citing Ethnologue 19</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wayana+language" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wayana+language" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wayana_language" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Wayana_language" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wayana_language">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wayana_language&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wayana_language&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wayana_language" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wayana_language" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wayana_language&amp;oldid=894800640" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wayana_language&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5908753" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wayana_language&amp;id=894800640" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wayana+language">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wayana+language&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wayana_language&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Idioma_wayana" title="Idioma wayana – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Wayaneg" title="Wayaneg – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Wayana" title="Wayana – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Wayana" title="Wayana – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Idioma_wayana" title="Idioma wayana – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Wayana_(taal)" title="Wayana (taal) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenga_wayana" title="Lenga wayana – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%8F%D0%BD%D0%B0_(%D1%8F%D0%B7%D1%8B%D0%BA)" title="Ваяна (язык) – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5908753#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 April 2019, at 02:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wayana_language&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.428","walltime":"0.555","ppvisitednodes":{"value":2781,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61614,"limit":2097152},"templateargumentsize":{"value":1005,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":45521,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  456.525      1 -total"," 44.79%  204.472      1 Template:Infobox_language"," 36.21%  165.327      1 Template:Infobox"," 18.75%   85.595      4 Template:Cite_book"," 18.02%   82.285      1 Template:Reflist"," 16.37%   74.717      1 Template:Glottolog"," 13.33%   60.865      1 Template:About","  9.43%   43.048      5 Template:Navbox","  6.36%   29.039      7 Template:Cite_web","  6.08%   27.734      1 Template:Languages_of_French_Guiana"]},"scribunto":{"limitreport-timeusage":{"value":"0.157","limit":"10.000"},"limitreport-memusage":{"value":5467549,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190925094907","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wayana language","url":"https:\/\/en.wikipedia.org\/wiki\/Wayana_language","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5908753","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5908753","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2012-02-07T04:42:01Z","dateModified":"2019-04-30T02:58:17Z","headline":"language"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1332"});});</script>
+</body>
+</html>

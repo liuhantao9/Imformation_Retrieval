@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Native American religion - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Native_American_religion","wgTitle":"Native American religion","wgCurRevisionId":917244458,"wgRevisionId":917244458,"wgArticleId":14749516,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template webcite links","Webarchive template wayback links","CS1 maint: unfit url","Wikipedia semi-protected pages","Use mdy dates from April 2019","Articles with short description","Use American English from April 2019","All Wikipedia articles written in American English","Wikipedia articles needing rewrite from January 2018","All articles needing rewrite","Commons category link is on Wikidata","Native American religion","Religion in North America"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Native_American_religion","wgRelevantArticleId":14749516,"wgRequestId":"XYsjVgpAICwAAEfQ2gYAAAAH","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":
+"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5162345","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips",
+"ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/eb/Bear_Butte_Scan_0001.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Native_American_religion"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Native_American_religion"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Native_American_religion rootpage-Native_American_religion skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until May 13, 2020 at 00:11 UTC."><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Native American religion</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">the spiritual practices of the indigenous peoples of the Americas</div>
+<p class="mw-empty-elt">
+</p>
+<div role="note" class="hatnote navigation-not-searchable">"Spirit Dance" redirects here. For other uses, see <a href="/wiki/Spirit_Dance_(disambiguation)" class="mw-disambig" title="Spirit Dance (disambiguation)">Spirit Dance (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bear_Butte_Scan_0001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bear_Butte_Scan_0001.jpg/220px-Bear_Butte_Scan_0001.jpg" decoding="async" width="220" height="139" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bear_Butte_Scan_0001.jpg/330px-Bear_Butte_Scan_0001.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Bear_Butte_Scan_0001.jpg/440px-Bear_Butte_Scan_0001.jpg 2x" data-file-width="1200" data-file-height="756" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bear_Butte_Scan_0001.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Bear_Butte" title="Bear Butte">Bear Butte</a>, in South Dakota, is a sacred site for over 30 <a href="/wiki/Plains_tribes" class="mw-redirect" title="Plains tribes">Plains tribes</a>.</div></div></div>
+<p><b>Native American religions</b> are the spiritual practices of the <a href="/wiki/Indigenous_peoples_of_the_Americas" title="Indigenous peoples of the Americas">indigenous peoples of the Americas</a>.  This article focuses on Native North Americans.  Traditional Native American ceremonial ways can vary widely and are based on the differing histories and beliefs of individual tribes, clans, and bands. Early European explorers describe individual <a href="/wiki/Tribe_(Native_American)" title="Tribe (Native American)">Native American tribes</a> and even small bands as each having their own religious practices. Theology may be <a href="/wiki/Monotheism" title="Monotheism">monotheistic</a>, <a href="/wiki/Polytheism" title="Polytheism">polytheistic</a>, <a href="/wiki/Henotheism" title="Henotheism">henotheistic</a>, <a href="/wiki/Animism" title="Animism">animistic</a>, <a href="/wiki/Shamanism" title="Shamanism">shamanistic</a>, <a href="/wiki/Pantheism" title="Pantheism">pantheistic</a> or any combination thereof, among others. Traditional beliefs are usually passed down in the forms of <a href="/wiki/Oral_history" title="Oral history">oral histories</a>, stories, allegories, and principles, and rely on face to face teaching in one's family and community.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Major_Native_American_religions"><span class="tocnumber">2</span> <span class="toctext">Major Native American religions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Earth_Lodge_Religion"><span class="tocnumber">2.1</span> <span class="toctext">Earth Lodge Religion</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Ghost_Dances"><span class="tocnumber">2.2</span> <span class="toctext">Ghost Dances</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Indian_Shaker_Religion"><span class="tocnumber">2.3</span> <span class="toctext">Indian Shaker Religion</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Longhouse_Religion"><span class="tocnumber">2.4</span> <span class="toctext">Longhouse Religion</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mexicayotl"><span class="tocnumber">2.5</span> <span class="toctext">Mexicayotl</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Native_American_Church"><span class="tocnumber">2.6</span> <span class="toctext">Native American Church</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Waashat_Religion"><span class="tocnumber">2.7</span> <span class="toctext">Waashat Religion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Ceremonies"><span class="tocnumber">3</span> <span class="toctext">Ceremonies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Sun_Dance"><span class="tocnumber">3.1</span> <span class="toctext">Sun Dance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Religious_leaders"><span class="tocnumber">4</span> <span class="toctext">Religious leaders</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Congressional_legislation_affecting_Native_American_religion"><span class="tocnumber">5</span> <span class="toctext">Congressional legislation affecting Native American religion</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#American_Indian_Religious_Freedom_Act"><span class="tocnumber">5.1</span> <span class="toctext">American Indian Religious Freedom Act</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Native_American_Graves_Protection_and_Repatriation_Act"><span class="tocnumber">5.2</span> <span class="toctext">Native American Graves Protection and Repatriation Act</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Religious_Freedom_Restoration_Act"><span class="tocnumber">5.3</span> <span class="toctext">Religious Freedom Restoration Act</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Declaration_on_the_Rights_of_Indigenous_Peoples"><span class="tocnumber">5.4</span> <span class="toctext">Declaration on the Rights of Indigenous Peoples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span></h2>
+<p>From the 1600s, European Catholic and Protestant denominations sent missionaries to convert the tribes to Christianity.  Some of these conversions occurred through government and Christian church cooperative efforts that forcibly removed Native American children from their families into a Christian/state government-operated system of <a href="/wiki/American_Indian_boarding_schools" title="American Indian boarding schools">American Indian boarding schools</a> (aka The Residential Schools) where Native children were taught European Christian beliefs, the values of mainstream white culture, and the English language. This forcible conversion and suppression of Indigenous languages and cultures continued through the 1970s.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>As part of the US government's suppression of traditional Indigenous religions, most ceremonial ways were banned for over 80 years by a series of US Federal laws that banned traditional <a href="/wiki/Sweat_lodge" title="Sweat lodge">sweat lodge</a> and <a href="/wiki/Sun_dance" class="mw-redirect" title="Sun dance">sun dance</a> ceremonies, among others.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  This government persecution and prosecution continued until 1978 with the passage of the <a href="/wiki/American_Indian_Religious_Freedom_Act" title="American Indian Religious Freedom Act">American Indian Religious Freedom Act</a> (AIRFA).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Some non-Native anthropologists estimate membership in traditional Native American religions in the 21st century to be about 9000 people.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Since Native Americans practicing traditional ceremonies do not usually have public organizations or membership rolls, these "members" estimates are likely substantially lower than the actual numbers of people who participate in traditional ceremonies. Native American spiritual leaders also note that these academic estimates substantially underestimate the numbers of participants because a century of US Federal government persecution and prosecutions of traditional ceremonies caused believers to practice their religions in secrecy. Many adherents of traditional spiritual ways also attend Christian services, at least some of the time, which can also affect statistics. Since the 80 years of those prior legal persecutions ended with AIRFA, some sacred sites in the United States are now <a href="/wiki/Protected_area" title="Protected area">protected areas</a> under law.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Major_Native_American_religions">Major Native American religions</span></h2>
+<h3><span class="mw-headline" id="Earth_Lodge_Religion">Earth Lodge Religion</span></h3>
+<p>The Earth Lodge Religion was founded in northern California and southern Oregon tribes such as the <a href="/wiki/Wintun" title="Wintun">Wintun</a>. It spread to tribes such as the <a href="/wiki/Achomawi" title="Achomawi">Achomawi</a>, <a href="/wiki/Shasta_(tribe)" class="mw-redirect" title="Shasta (tribe)">Shasta</a>, and <a href="/wiki/Siletz_(tribe)" class="mw-redirect" title="Siletz (tribe)">Siletz</a>, to name a few. It was also known as the "Warm House Dance" among the <a href="/wiki/Pomo" title="Pomo">Pomo</a>. It predicted occurrences similar to those predicted by the Ghost Dance, such as the return of ancestors or the world's end. The Earth Lodge Religion impacted the later religious practice, the Dream Dance, belonging to the <a href="/wiki/Klamath_people" title="Klamath people">Klamath</a> and the <a href="/wiki/Modoc_people" title="Modoc people">Modoc</a>.<sup id="cite_ref-w230_9-0" class="reference"><a href="#cite_note-w230-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Ghost_Dances">Ghost Dances</span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ghost_dance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ghost_dance.jpg/220px-Ghost_dance.jpg" decoding="async" width="220" height="140" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ghost_dance.jpg/330px-Ghost_dance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Ghost_dance.jpg/440px-Ghost_dance.jpg 2x" data-file-width="650" data-file-height="415" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ghost_dance.jpg" class="internal" title="Enlarge"></a></div>1891 Sioux Ghost Dance. Ghost Dances influenced many Native American religions.</div></div></div>
+<p>"<a href="/wiki/Ghost_Dance" title="Ghost Dance">Ghost Dance</a>" is a very general term that encompasses different religious revitalization movements in the Western United States. In 1870, a Ghost Dance was founded by the <a href="/wiki/Northern_Paiute" class="mw-redirect" title="Northern Paiute">Paiute</a> prophet <a href="/wiki/Wodziwob" title="Wodziwob">Wodziwob</a>, and in 1889–1890, a Ghost Dance Religion was founded by <a href="/wiki/Wovoka" title="Wovoka">Wovoka</a> (Jack Wilson), who was also a <a href="/wiki/Northern_Paiute" class="mw-redirect" title="Northern Paiute">Northern Paiute</a>. The Ghost Dance was meant to serve as a connection with traditional ways of life and to honor the dead while predicting their resurrection.<sup id="cite_ref-w230_9-1" class="reference"><a href="#cite_note-w230-9">&#91;9&#93;</a></sup>
+</p><p>In December 1888, Wovoka, who was thought to be the son of the medicine man Tavibo (Numu-tibo'o), fell sick with a fever during an eclipse of the sun, which occurred on January 1, 1889. Upon his recovery, he claimed that he had visited the <a href="/wiki/Spirit_world_(Spiritualism)" title="Spirit world (Spiritualism)">spirit world</a> and the Supreme Being and predicted that the world would soon end, then be restored to a pure aboriginal state in the presence of the Messiah. All Native Americans would inherit this world, including those who were already dead, in order to live eternally without suffering. In order to reach this reality, Wovoka stated that all Native Americans should live honestly, and shun the ways of whites (especially the consumption of alcohol). He called for meditation, prayer, singing, and dancing as an alternative to mourning the dead, for they would soon resurrect. Wovoka's followers saw him as a form of the <a href="/wiki/Messianism" title="Messianism">messiah</a> and he became known as the "Red Man's Christ."
+</p><p>Tavibo had participated in the Ghost Dance of 1870 and had a similar vision of the Great Spirit of Earth removing all white men, and then of an earthquake removing all human beings. Tavibo's vision concluded that Native Americans would return to live in a restored environment and that only believers in his revelations would be resurrected.
+This religion spread to many tribes on reservations in the West, including the <a href="/wiki/Shoshone" title="Shoshone">Shoshone</a>, <a href="/wiki/Arapaho" title="Arapaho">Arapaho</a>, <a href="/wiki/Cheyenne" title="Cheyenne">Cheyenne</a>, and <a href="/wiki/Sioux" title="Sioux">Sioux</a> (Dakota, Lakota, and Nakota). In fact, some bands of Lakota and Dakota were so desperate for hope during wartime that they strengthened their militancy after making a pilgrimage to Nevada in 1889–1890. They provided their own understanding to the Ghost Dance which included the prediction that the white people would disappear. A Ghost Dance gathering at <a href="/wiki/Wounded_Knee_Massacre" title="Wounded Knee Massacre">Wounded Knee</a> in December 1890 was invaded by the Seventh Cavalry, who massacred unarmed Lakota and Dakota people.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>The earliest Ghost Dance heavily influenced religions such as the Earth Lodge, Bole-Maru Religion, and the Dream Dance. The <a href="/wiki/Caddo_Nation" class="mw-redirect" title="Caddo Nation">Caddo Nation</a> still practices the Ghost Dance today.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Indian_Shaker_Religion">Indian Shaker Religion</span></h3>
+<p>Also known as Tschida, the Indian Shaker Religion was influenced by the Waashat Religion and founded by <a href="/wiki/John_Slocum" title="John Slocum">John Slocum</a>, a Squaxin Island member. The name comes from the shaking and twitching motions used by the participants to brush off their sins. The religion combines <a href="/wiki/Christianity" title="Christianity">Christianity</a> with traditional Indian teachings. This religion is still practiced today in the <a href="/wiki/Indian_Shaker_Church" title="Indian Shaker Church">Indian Shaker Church</a>.<sup id="cite_ref-w230_9-2" class="reference"><a href="#cite_note-w230-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Longhouse_Religion">Longhouse Religion</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Longhouse_Religion" title="Longhouse Religion">Longhouse Religion</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Iroquois_longhouse.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iroquois_longhouse.jpg/220px-Iroquois_longhouse.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iroquois_longhouse.jpg/330px-Iroquois_longhouse.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Iroquois_longhouse.jpg/440px-Iroquois_longhouse.jpg 2x" data-file-width="600" data-file-height="800" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Iroquois_longhouse.jpg" class="internal" title="Enlarge"></a></div>This replica of a Six Nations (Haudenosaunee) longhouse represents where the traditional practices take place.</div></div></div>
+<p>The Longhouse Religion is the popular name of the religious movement known as The Code of Handsome Lake or Gaihwi:io ("Good Message"), founded in 1799 by the <a href="/wiki/Seneca_people" title="Seneca people">Seneca</a> prophet <a href="/wiki/Handsome_Lake" title="Handsome Lake">Handsome Lake</a> (Sganyodaiyoˀ).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> This movement combines and reinterprets elements of traditional Iroquois religious beliefs with elements adopted from Christianity, primarily from the <a href="/wiki/Quakers" title="Quakers">Quakers</a>. Gaihwi:io currently has about 5,000 practicing members. Originally the Gaihwi:io was known as the "new religion" in opposition to the prevailing animistic beliefs, but has since become known as the "old religion" in opposition to Christianity.
+</p>
+<h3><span class="mw-headline" id="Mexicayotl">Mexicayotl</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Mexicayotl" title="Mexicayotl">Mexicayotl</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:Maya_calendar_(Hunab-Ku).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Maya_calendar_%28Hunab-Ku%29.svg/150px-Maya_calendar_%28Hunab-Ku%29.svg.png" decoding="async" width="150" height="150" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Maya_calendar_%28Hunab-Ku%29.svg/225px-Maya_calendar_%28Hunab-Ku%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Maya_calendar_%28Hunab-Ku%29.svg/300px-Maya_calendar_%28Hunab-Ku%29.svg.png 2x" data-file-width="500" data-file-height="500" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Maya_calendar_(Hunab-Ku).svg" class="internal" title="Enlarge"></a></div>Mesoamerican symbol widely used by the <a href="/wiki/Mexicas" class="mw-redirect" title="Mexicas">Mexicas</a> as a representation of <a href="/wiki/Ometeotl" class="mw-redirect" title="Ometeotl">Ometeotl</a>.</div></div></div>
+<p>Mexicayoal (<a href="/wiki/Nahuatl" title="Nahuatl">Nahuatl</a> word meaning "Essence of the <a href="/wiki/Mexican_people" class="mw-redirect" title="Mexican people">Mexican</a>", "Mexicanity"; <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i>Mexicanidad</i>; see <i><a href="https://en.wiktionary.org/wiki/-yotl" class="extiw" title="wiktionary:-yotl">-yotl</a></i>) is a movement reviving the indigenous <a href="/wiki/Religion" title="Religion">religion</a>, <a href="/wiki/Philosophy" title="Philosophy">philosophy</a> and <a href="/wiki/Traditions" class="mw-redirect" title="Traditions">traditions</a> of <a href="/wiki/Mesoamerican_chronology" title="Mesoamerican chronology">ancient Mexico</a> (<a href="/wiki/Aztec_religion" title="Aztec religion">Aztec religion</a> and <a href="/wiki/Aztec_philosophy" title="Aztec philosophy">Aztec philosophy</a>) amongst the <a href="/wiki/Mexican_people" class="mw-redirect" title="Mexican people">Mexican people</a>.<sup id="cite_ref-Yolotl_13-0" class="reference"><a href="#cite_note-Yolotl-13">&#91;13&#93;</a></sup>
+</p><p>The movement came to light in the 1950s, led by <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a> intellectuals, but has grown significantly on a <a href="/wiki/Grassroots" title="Grassroots">grassroots</a> level only in more recent times, also spreading to the <a href="/wiki/Mexican_American" class="mw-redirect" title="Mexican American">Chicanos</a> of <a href="/wiki/North_America" title="North America">North America</a>.<sup id="cite_ref-Rostas_14-0" class="reference"><a href="#cite_note-Rostas-14">&#91;14&#93;</a></sup> Their rituals involve the <a href="/w/index.php?title=Mitotiliztli&amp;action=edit&amp;redlink=1" class="new" title="Mitotiliztli (page does not exist)">mitotiliztli</a>.<sup id="cite_ref-Luna_15-0" class="reference"><a href="#cite_note-Luna-15">&#91;15&#93;</a></sup> The followers, called <i>Mexicatl</i> (singular) and <i>Mexicah</i> (plural), or simply <i><a href="/wiki/Mexica" title="Mexica">Mexica</a></i>, are mostly urban and suburban people.<sup id="cite_ref-Rostas_14-1" class="reference"><a href="#cite_note-Rostas-14">&#91;14&#93;</a></sup>
+</p><p>The Mexicayotl movement started in the 1950s with the founding of the group <i>Nueva Mexicanidad</i> by <a href="/wiki/Antonio_Velasco_Pi%C3%B1a" title="Antonio Velasco Piña">Antonio Velasco Piña</a>. In the same years, Rodolfo Nieva López founded the <i>Movimiento Confederado Restaurador de la Cultura del Anáhuac</i>,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> the co-founder of which was <a href="/w/index.php?title=Francisco_Jimenez_Sanchez&amp;action=edit&amp;redlink=1" class="new" title="Francisco Jimenez Sanchez (page does not exist)">Francisco Jimenez Sanchez</a> who in later decades became a spiritual leader of the Mexicayotl movement, endowed with the <a href="/wiki/Honorific" title="Honorific">honorific</a> <i><a href="/wiki/Tlacaelel" title="Tlacaelel">Tlacaelel</a></i>. He had a deep influence in shaping the movement, founding the <a href="/w/index.php?title=In_Kaltonal&amp;action=edit&amp;redlink=1" class="new" title="In Kaltonal (page does not exist)">In Kaltonal</a> ("House of the Sun", also called Native Mexican Church) in the 1970s.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p><p>From the 1970s onwards Mexcayotl has grown developing in a web of local worship and community groups (called <i><a href="/wiki/Calpulli" title="Calpulli">calpulli</a></i> or <i>kalpulli</i>)<sup id="cite_ref-Rostas_14-2" class="reference"><a href="#cite_note-Rostas-14">&#91;14&#93;</a></sup> and spreading to the <a href="/wiki/Mexican_Americans" title="Mexican Americans">Mexican Americans</a> or <a href="/wiki/Chicanos" class="mw-redirect" title="Chicanos">Chicanos</a> in the <a href="/wiki/United_States" title="United States">United States</a>. It has also developed strong ties with Mexican national identity movements and <a href="/wiki/Chicano_nationalism" title="Chicano nationalism">Chicano nationalism</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Sanchez's Native Mexican Church (which is a confederation of calpullis) was officially recognized by the government of <a href="/wiki/Mexico" title="Mexico">Mexico</a> in 2007.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Native_American_Church">Native American Church</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Flowering_peyote_cactus.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flowering_peyote_cactus.jpg/220px-Flowering_peyote_cactus.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flowering_peyote_cactus.jpg/330px-Flowering_peyote_cactus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flowering_peyote_cactus.jpg/440px-Flowering_peyote_cactus.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Flowering_peyote_cactus.jpg" class="internal" title="Enlarge"></a></div>Peyote's illegal status in the United States prevents non-Natives from participating in peyote ceremonies.</div></div></div>
+<p>The Peyote Religion legally termed and more properly known as the Native American Church has also been called the "Peyote Road" or the "Peyote Way", is a religious tradition involving the ceremonial and sacred use of <i><a href="/wiki/Lophophora_williamsii" class="mw-redirect" title="Lophophora williamsii">Lophophora williamsii</a></i> (peyote).<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Use of peyote for religious purposes is thousands of years old and some have thought it to have originated within one of the following tribes: the Carrizo, the <a href="/wiki/Lipan_Apache_people" title="Lipan Apache people">Lipan Apache</a>, the <a href="/wiki/Mescalero_Apache" class="mw-redirect" title="Mescalero Apache">Mescalero Apache</a>, the <a href="/wiki/Tonkawa" title="Tonkawa">Tonkawa</a>, the <a href="/wiki/Karankawa" class="mw-redirect" title="Karankawa">Karankawa</a>, or the <a href="/wiki/Caddo" title="Caddo">Caddo</a>, with the Plains Cree, Carrizo, and the Lipan Apache being the three most likely sources. In <a href="/wiki/Mexico" title="Mexico">Mexico</a> the <a href="/wiki/Huichol" title="Huichol">Huichol</a>, <a href="/wiki/Tepehu%C3%A1n" title="Tepehuán">Tepehuán</a>, and other <a href="/wiki/Native_Mexicans" class="mw-redirect" title="Native Mexicans">Native Mexicans</a> use peyote.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> Since then, despite several efforts to make peyote ceremonies illegal, ceremonial peyote use has spread from the Mexico area to Oklahoma and other western parts of the United States.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Notable <a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a> (NAC) members include <a href="/wiki/Quannah_Parker" class="mw-redirect" title="Quannah Parker">Quannah Parker</a>, the founder of the NAC, and Big Moon of the <a href="/wiki/Kiowa" title="Kiowa">Kiowa</a> tribe.
+</p>
+<h3><span class="mw-headline" id="Waashat_Religion">Waashat Religion</span></h3>
+<table class="box-Cleanup_rewrite plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/40px-Crystal_Clear_app_kedit.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/60px-Crystal_Clear_app_kedit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Crystal_Clear_app_kedit.svg/80px-Crystal_Clear_app_kedit.svg.png 2x" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section may need to be <b>rewritten</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>, as it is unclear what are different versions of the faith, and what are simply different names. Change over time appears to be mostly disregarded. Important elements are not explained (At least some are covered in the references.). See <a href="/wiki/Talk:Native_American_religion#Waashat_Religion" title="Talk:Native American religion">Talk:Native American religion#Waashat Religion</a>.<span class="hide-when-compact"> <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Native_American_religion&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Native_American_religion" title="Talk:Native American religion">discussion page</a> may contain suggestions.</span>  <small class="date-container"><i>(<span class="date">January 2018</span>)</i></small></div></td></tr></tbody></table>
+<p><span id="Prophet_Dance"></span><span id="Spirit_Dance"></span>The Waashat Religion is also called the Washani Religion, Longhouse Religion, Seven Drum Religion, Sunday Dance Religion, Prophet Dance, and Dreamer Faith. The <a href="/wiki/Wanapum" title="Wanapum">Wanapam Indian</a> <a href="/wiki/Smohalla" title="Smohalla">Smohalla</a> (c. 1815–1895) used wáashat rituals to build the religion in the <a href="/wiki/Pacific_Northwest" title="Pacific Northwest">Pacific Northwest</a>. Smohalla claimed that visions came to him through dreams and that he had visited the spirit world and had been sent back to teach his people. The name waasaní spoke to what the religion was about; it meant both dancing and worship.<sup id="cite_ref-dance_23-0" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> He led a <a href="/wiki/Revitalization_movement" title="Revitalization movement">return to the original way of life</a> before white influences and established ceremonial music and dancing. Smohalla's speaking was called Yuyunipitqana for "Shouting Mountain".<sup id="cite_ref-w230_9-3" class="reference"><a href="#cite_note-w230-9">&#91;9&#93;</a></sup>
+</p><p>The Dreamer Faith, and its elements of dancing, foreshadowed the later Ghost Dances of the plains peoples.<sup id="cite_ref-dance_23-1" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup><sup id="cite_ref-dance_23-2" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> It was a back&#8211;to&#8211;our&#8211;heritage religion.<sup id="cite_ref-dance_23-3" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> Believers thought that white people would disappear and nature would return to the way it was before they came.<sup id="cite_ref-dance_23-4" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> To achieve this, the Natives must do the things required by the spirits, like a <a href="/wiki/Weyekin" title="Weyekin">Weyekin</a>.<sup id="cite_ref-dance_23-5" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> What the spirits wanted was to throw off violent ways, cast off white culture, and not buy, sell or disrespect the Earth.<sup id="cite_ref-dance_23-6" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> They must also dance the <b>Prophet Dance</b> (wáashat).<sup id="cite_ref-dance_23-7" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup>
+</p><p>The religion combined elements of Christianity with Native beliefs, but it rejected white-American culture.<sup id="cite_ref-dance_23-8" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> This made it difficult to assimilate or control the tribes by the United States.<sup id="cite_ref-dance_23-9" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> The U.S. was trying to convert the <a href="/wiki/Plains_Indians" title="Plains Indians">Plains tribes</a> from hunter-gatherers to farmers, in the European-American tradition.<sup id="cite_ref-dance_23-10" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> They wanted to remake the Natives but found a problem with those who followed the Dreamer Cult: "Their model of a man is an Indian&#160;...They aspire to be Indian and nothing else."<sup id="cite_ref-dance_23-11" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup>
+</p><p>Prophets of the movement included Smohalla (of the Wanapam people), Kotiakan (of the Yakama nation) and Homli (of the Walla Walla).<sup id="cite_ref-dance_23-12" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> Their messages were carried along the Columbia River to other communities.<sup id="cite_ref-dance_23-13" class="reference"><a href="#cite_note-dance-23">&#91;23&#93;</a></sup> It is unclear exactly how it started or when <a href="/wiki/Christianity" title="Christianity">Christianity</a> influenced the earlier form, but it is thought to have something to do with the arrival of non-Indians or an epidemic and a prophet with an apocalyptic vision. The Waashat Dance involves seven drummers, a salmon feast, use of eagle and swan feathers and a sacred song sung every seventh day.<sup id="cite_ref-w230_9-4" class="reference"><a href="#cite_note-w230-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ceremonies">Ceremonies</span></h2>
+<h3><span class="mw-headline" id="Sun_Dance">Sun Dance</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Sun_Dance" title="Sun Dance">Sun Dance</a></div>
+<p>The sun dance is a religious ceremony practiced by a number of <a href="/wiki/Native_Americans_in_the_United_States" title="Native Americans in the United States">Native American</a> and <a href="/wiki/First_Nations" title="First Nations">First Nations</a> Peoples, primarily those of the <a href="/wiki/Plains_Indians" title="Plains Indians">Plains Nations</a>. Each tribe that has some type of sun dance ceremony has their own distinct practices and ceremonial protocols. In many cases, the ceremony is held in a private and is not open to the public. Most details of the ceremony are kept from public knowledge out of great respect for, and the desire for protection of, the traditional ways. Many of the ceremonies have featured in common, such as specific dances and songs passed down through many generations, the use of traditional drums, the sacred pipe, praying, fasting and, in some cases, the piercing of the skin.
+</p><p>In Canada, the Plains Cree call this ceremony the Thirst Dance; the Saulteaux (Plains <a href="/wiki/Ojibwe" title="Ojibwe">Ojibwe</a>) call it the Rain Dance; and the Blackfoot (<i>Siksika</i>, <i>Kainai</i>, and <i>Piikani</i>) call it the Medicine Dance. It is also practiced by the Canadian <a href="/wiki/Dakota_people" title="Dakota people">Dakota</a> and <a href="/wiki/Assiniboine_people" class="mw-redirect" title="Assiniboine people">Nakoda</a>, and the <a href="/wiki/Dene" title="Dene">Dene</a>.
+</p>
+<h2><span class="mw-headline" id="Religious_leaders">Religious leaders</span></h2>
+<p>Leaders in Native religions include <a href="/wiki/Pop%C3%A9" title="Popé">Popé</a>, who led the  <a href="/wiki/Pueblo_Revolt" title="Pueblo Revolt">Pueblo revolt in 1675</a>, <a href="/wiki/Quautlatas" title="Quautlatas">Quautlatas</a>, who inspired the <a href="/wiki/Tepehuan_Revolt" class="mw-redirect" title="Tepehuan Revolt">Tepehuan Revolt</a> against the Spanish in 1616, <a href="/wiki/Neolin" title="Neolin">Neolin</a>, <a href="/wiki/Tenskwatawa" title="Tenskwatawa">Tenskwatawa</a>, <a href="/w/index.php?title=Kenekuk&amp;action=edit&amp;redlink=1" class="new" title="Kenekuk (page does not exist)">Kenekuk</a>, <a href="/wiki/Smohalla" title="Smohalla">Smohalla</a>, <a href="/wiki/John_Slocum" title="John Slocum">John Slocum</a>, <a href="/wiki/Wovoka" title="Wovoka">Wovoka</a>, <a href="/wiki/Black_Elk" title="Black Elk">Black Elk</a> and many others.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:177px;"><a href="/wiki/File:Ten-sq%C3%BAat-a-way.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ten-sq%C3%BAat-a-way.jpg/175px-Ten-sq%C3%BAat-a-way.jpg" decoding="async" width="175" height="213" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ten-sq%C3%BAat-a-way.jpg/263px-Ten-sq%C3%BAat-a-way.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ten-sq%C3%BAat-a-way.jpg/350px-Ten-sq%C3%BAat-a-way.jpg 2x" data-file-width="1151" data-file-height="1400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ten-sq%C3%BAat-a-way.jpg" class="internal" title="Enlarge"></a></div>Tenskwatawa, by <a href="/wiki/George_Catlin" title="George Catlin">George Catlin</a>.</div></div></div>
+<p>From time to time important religious leaders organized revivals. In Indiana in 1805, <a href="/wiki/Tenskwatawa" title="Tenskwatawa">Tenskwatawa</a>  (called the Shawnee Prophet by Americans) led a religious revival following a smallpox epidemic and a series of witch-hunts. His beliefs were based on the earlier teachings of the <a href="/wiki/Lenape" title="Lenape">Lenape</a> prophets, <a href="/wiki/Scattamek" title="Scattamek">Scattamek</a> and <a href="/wiki/Neolin" title="Neolin">Neolin</a>, who predicted a coming apocalypse that would destroy the European-American settlers.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>  Tenskwatawa urged the tribes to reject the ways of the Americans: to give up firearms, liquor, American style clothing, to pay traders only half the value of their debts, and to refrain from ceding any more lands to the United States. The revival led to warfare led by his brother <a href="/wiki/Tecumseh" title="Tecumseh">Tecumseh</a> against the white settlers.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Congressional_legislation_affecting_Native_American_religion">Congressional legislation affecting Native American religion</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:PeyoteWayCleanHwy.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/PeyoteWayCleanHwy.jpg/200px-PeyoteWayCleanHwy.jpg" decoding="async" width="200" height="277" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/PeyoteWayCleanHwy.jpg/300px-PeyoteWayCleanHwy.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/PeyoteWayCleanHwy.jpg/400px-PeyoteWayCleanHwy.jpg 2x" data-file-width="723" data-file-height="1000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PeyoteWayCleanHwy.jpg" class="internal" title="Enlarge"></a></div>Sign for a <a href="/wiki/Native_American_church" class="mw-redirect" title="Native American church">Native American church</a></div></div></div>
+<h3><span class="mw-headline" id="American_Indian_Religious_Freedom_Act">American Indian Religious Freedom Act</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/American_Indian_Religious_Freedom_Act" title="American Indian Religious Freedom Act">American Indian Religious Freedom Act</a></div>
+<p>The American Indian Religious Freedom Act is a United States Federal Law and a joint resolution of Congress that provides protection for tribal culture and traditional religious rights such as access to sacred sites, freedom to worship through traditional ceremony, and use and possession of sacred objects for American Indians, Eskimos, Aleuts, and Native Hawaiians. It was passed on August 11, 1978.
+</p>
+<h3><span class="mw-headline" id="Native_American_Graves_Protection_and_Repatriation_Act">Native American Graves Protection and Repatriation Act</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Native_American_Graves_Protection_and_Repatriation_Act" title="Native American Graves Protection and Repatriation Act">Native American Graves Protection and Repatriation Act</a></div>
+<p>The Native American Graves Protection and Repatriation Act (NAGPRA), Pub.L. 101-601, 104 Stat. 3048, is a United States federal law passed on 16 November 1990 requiring federal agencies and institutions that receive federal funding[1] to return Native American cultural items and human remains to their respective peoples. Cultural items include funerary objects, sacred objects, and objects of cultural patrimony.
+</p>
+<h3><span class="mw-headline" id="Religious_Freedom_Restoration_Act">Religious Freedom Restoration Act</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Religious_Freedom_Restoration_Act" title="Religious Freedom Restoration Act">Religious Freedom Restoration Act</a></div>
+<p>The Religious Freedom Restoration Act of 1993 (also known as RFRA), is a 1993 <a href="/wiki/United_States_federal_law" class="mw-redirect" title="United States federal law">United States federal law</a> aimed at preventing laws that substantially burden a person's free exercise of <a href="/wiki/Religion" title="Religion">religion</a>. It was held unconstitutional as applied to the states in the <i><a href="/wiki/City_of_Boerne_v._Flores" title="City of Boerne v. Flores">City of Boerne v. Flores</a></i> decision in 1997, which ruled that the RFRA is not a proper exercise of Congress's enforcement power. However, it continues to be applied to the federal government - for instance, in <i><a href="/wiki/Gonzales_v._O_Centro_Espirita_Beneficente_Uniao_do_Vegetal" class="mw-redirect" title="Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal">Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal</a></i> - because Congress has broad authority to carve out exemptions from federal laws and regulations that it itself has authorized.  In response to <i>City of Boerne v. Flores</i>, some individual states passed <a href="/wiki/State_Religious_Freedom_Restoration_Acts" title="State Religious Freedom Restoration Acts">State Religious Freedom Restoration Acts</a> that apply to state governments and local municipalities.
+</p>
+<h3><span class="mw-headline" id="Declaration_on_the_Rights_of_Indigenous_Peoples">Declaration on the Rights of Indigenous Peoples</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples" title="Declaration on the Rights of Indigenous Peoples">Declaration on the Rights of Indigenous Peoples</a></div>
+<p>The United Nations Declaration on the Rights of Indigenous Peoples was adopted by the <a href="/wiki/United_Nations_General_Assembly" title="United Nations General Assembly">United Nations General Assembly</a> during its 61st session at <a href="/wiki/UN_Headquarters" class="mw-redirect" title="UN Headquarters">UN Headquarters</a> in New York City on 13 September 2007. Article 31, in particular, emphasizes that Indigenous Peoples have the right to their cultural heritage, including ceremonial knowledge, as protected  <a href="/wiki/Indigenous_intellectual_property" title="Indigenous intellectual property">intellectual property</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/Alaska_Native_religion" title="Alaska Native religion">Alaska Native religion</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith_and_Native_Americans" title="Bahá&#39;í Faith and Native Americans">Bahá'í Faith and Native Americans</a></li>
+<li><a href="/wiki/Crow_religion" title="Crow religion">Crow religion</a></li>
+<li><a href="/wiki/Cultural_appropriation" title="Cultural appropriation">Cultural appropriation</a></li>
+<li><a href="/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples" title="Declaration on the Rights of Indigenous Peoples">Declaration on the Rights of Indigenous Peoples</a></li>
+<li><a href="/wiki/Falls_Creek_Baptist_Conference_Center" title="Falls Creek Baptist Conference Center">Falls Creek Baptist Conference Center</a></li>
+<li><a href="/wiki/Great_Spirit" title="Great Spirit">Great Spirit</a></li>
+<li><a href="/wiki/Green_Corn_Ceremony" title="Green Corn Ceremony">Green Corn Ceremony</a></li>
+<li><a href="/wiki/Indigenous_intellectual_property" title="Indigenous intellectual property">Indigenous intellectual property</a></li>
+<li><a href="/wiki/Inuit_religion" title="Inuit religion">Inuit religion</a></li>
+<li><a href="/wiki/Medicine_man" title="Medicine man">Medicine man</a></li>
+<li><a href="/wiki/Midewiwin" title="Midewiwin">Midewiwin</a></li>
+<li><a href="/wiki/Mormonism_and_Native_Americans" class="mw-redirect" title="Mormonism and Native Americans">Mormonism and Native Americans</a></li>
+<li><a href="/wiki/Mythologies_of_the_indigenous_peoples_of_North_America" class="mw-redirect" title="Mythologies of the indigenous peoples of North America">Mythologies of the indigenous peoples of North America</a></li>
+<li><a href="/wiki/Native_American_ethnobotany" title="Native American ethnobotany">Native American ethnobotany</a></li>
+<li><a href="/wiki/Native_American_civil_rights#Religious_rights" title="Native American civil rights">Religious rights</a></li>
+<li><a href="/wiki/Plastic_shaman" title="Plastic shaman">Plastic shaman</a></li>
+<li><a href="/wiki/Recognition_of_Native_American_sacred_sites_in_the_United_States" title="Recognition of Native American sacred sites in the United States">Recognition of Native American sacred sites in the United States</a></li>
+<li><a href="/wiki/Sacred_bundle" title="Sacred bundle">Sacred bundle</a></li>
+<li><a href="/wiki/Tengrism" title="Tengrism">Tengrism</a></li>
+<li><a href="/wiki/Traditional_knowledge" title="Traditional knowledge">Traditional knowledge</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hall, Anna (12-16-2013) "<a rel="nofollow" class="external text" href="http://sojo.net/blogs/2013/12/16/time-acknowledgement-christian-run-native-american-boarding-schools-left-legacy-des">Time for Acknowledgement: Christian-Run Native American Boarding Schools Left Legacy of Destruction</a>" in <i>Sojourners</i></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Smith, Andrea (March 26, 2007) "<a rel="nofollow" class="external text" href="http://www.amnestyusa.org/node/87342">Soul Wound: The Legacy of Native American Schools</a> <a rel="nofollow" class="external text" href="https://www.webcitation.org/6EQXvPC73?url=http://www.amnestyusa.org/node/87342">Archived</a> 2013-02-14 at <a href="/wiki/WebCite" title="WebCite">WebCite</a>" in <i>Amnesty International Magazine</i></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Boxer, Andrew (2009) "<a rel="nofollow" class="external text" href="http://www.historytoday.com/andrew-boxer/native-americans-and-federal-government">Native Americans and Federal Government</a>" in <i>History Review</i></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Rhodes, John (January 1991) "<a rel="nofollow" class="external text" href="http://scholarship.law.umt.edu/cgi/viewcontent.cgi?article=1399&amp;context=mlr">An American Tradition: The Religious Persecution Of Native Americans</a>." <i>Montana Law Review</i> Volume 52, Issue 1, Winter 1991</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Public Law No. 95-341, 92 Stat. 469 (Aug. 11, 1978)</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">James T. Richardson (2004). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=U6opyVE_IYkC&amp;pg=PA543"><i>Regulating Religion: Case Studies from Around the Globe</i></a>. Springer. p.&#160;543.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Regulating+Religion%3A+Case+Studies+from+Around+the+Globe&amp;rft.pages=543&amp;rft.pub=Springer&amp;rft.date=2004&amp;rft.au=James+T.+Richardson&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DU6opyVE_IYkC%26pg%3DPA543&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANative+American+religion" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.njjn.org/uploads/digital-library/resource_249.pdf">"NJJN"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">May 21,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NJJN&amp;rft_id=http%3A%2F%2Fwww.njjn.org%2Fuploads%2Fdigital-library%2Fresource_249.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANative+American+religion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">United States (2013). <i>Indian sacred sites: balancing protection issues with federal management</i>. America in the 21st century: political and economic issues. Christopher N. Griffiths (ed.). New York: <a href="/wiki/Nova_Science_Publishers,_Inc." class="mw-redirect" title="Nova Science Publishers, Inc.">Nova Science Publishers, Inc.</a> <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1628082844" title="Special:BookSources/1628082844"><bdi>1628082844</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Indian+sacred+sites%3A+balancing+protection+issues+with+federal+management&amp;rft.place=New+York&amp;rft.series=America+in+the+21st+century%3A+political+and+economic+issues&amp;rft.pub=Nova+Science+Publishers%2C+Inc.&amp;rft.date=2013&amp;rft.isbn=1628082844&amp;rft.au=United+States&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANative+American+religion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-w230-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-w230_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-w230_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-w230_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-w230_9-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-w230_9-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Waldman 230</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Waldman 230–231</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Cross, Phil. <a rel="nofollow" class="external text" href="http://caddolegacy.com/CaddoSongsandDances.aspx">"Caddo Songs and Dances"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100824074430/http://caddolegacy.com/CaddoSongsandDances.aspx">Archived</a> 2010-08-24 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>Caddo Legacy from Caddo People</i>. Retrieved 27 Nov 2012.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Waldman, Carl. (2009). Atlas of the North American Indian. P. 229. Checkmark Books. New York. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8160-6859-3" title="Special:BookSources/978-0-8160-6859-3">978-0-8160-6859-3</a>.</span>
+</li>
+<li id="cite_note-Yolotl-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-Yolotl_13-0">^</a></b></span> <span class="reference-text">Yolotl González Torres. <i>The Revival of Mexican Religions: The Impact of Nativism</i>. <i>Numen - International Review for the History of Religions</i>. Vol. 43, No. 1 (Jan., 1996; published by: BRILL), pp. 1-31</span>
+</li>
+<li id="cite_note-Rostas-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-Rostas_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Rostas_14-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Rostas_14-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Susanna E. Rostas. <i><a rel="nofollow" class="external text" href="http://biblioteca.clacso.edu.ar/ar/libros/lasa97/rostas.pdf">Mexicanidad: The Resurgence of the Indian in Popular Mexican Nationalism</a>. University of Cambridge, 1997.</i></span>
+</li>
+<li id="cite_note-Luna-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Luna_15-0">^</a></b></span> <span class="reference-text">Jennie Marie Luna. <i>Danza Azteca: Indigenous Identity, Spirituality, Activism and Performance</i>. San Jose State University, Department of Mexican American Studies. 2011</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Lauro Eduardo Ayala Serrano. <i>Tiempo Indígena: la construcción de imaginarios prehispánicos</i>.</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><i><a rel="nofollow" class="external text" href="http://kalpullichaplin.com/tlakbio7.htm">Tlacaelel Francisco Jimenez Sanchez biography</a></i>. In Kaltonal, 2005.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Zotero Citlalcoatl. <a rel="nofollow" class="external text" href="http://arizona.openrepository.com/arizona/bitstream/10150/193424/1/azu_etd_11401_sip1_m.pdf">AMOXTLI YAOXOCHIMEH</a>.</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.vanguardia.com.mx/noticia-97443.html?se=nota&amp;id=97443">Religión prehispánica renace en el Siglo 21</a><i>. Vanguardia, 2008.</i></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Waldman 231</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Stewart, Omer C. <i>Peyote Religion: A History</i>. University of Oklahoma Press: Norman and London, 1987. P. 47</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Stewart, Omer C. 327</span>
+</li>
+<li id="cite_note-dance-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-dance_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dance_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dance_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dance_23-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-dance_23-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-dance_23-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-dance_23-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-dance_23-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-dance_23-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-dance_23-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-dance_23-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-dance_23-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-dance_23-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-dance_23-13"><sup><i><b>n</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Andrew H. Fisher. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150225021935/http://www.historyandtheheadlines.abc-clio.com/ContentPages/ContentPage.aspx?entryId=1171728&amp;currentSection=1161468&amp;productid=5">"American Indian Heritage Month: Commemoration vs. Exploitation"</a>. Archived from the original on February 25, 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">January 4,</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=American+Indian+Heritage+Month%3A+Commemoration+vs.+Exploitation&amp;rft.au=Andrew+H.+Fisher&amp;rft_id=http%3A%2F%2Fwww.historyandtheheadlines.abc-clio.com%2FContentPages%2FContentPage.aspx%3FentryId%3D1171728%26currentSection%3D1161468%26productid%3D5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANative+American+religion" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: unfit url (<a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Adam Jortner, <i>The Gods of Prophetstown: The Battle of Tippecanoe and the Holy War for the American Frontier</i> (2011)</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Rachel Buff, "Tecumseh and Tenskwatawa: Myth, Historiography and Popular Memory." <i>Historical Reflections/Réflexions Historiques</i> (1995): 277-299.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li>Brown, Brian Edward. "Religion, Law, and the Land: Native Americans and the Judicial Interpretations of Sacred Land." Greenwood Press, 1999. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-313-30972-4" title="Special:BookSources/978-0-313-30972-4">978-0-313-30972-4</a>.</li>
+<li>Buff, Rachel.  "Tecumseh and Tenskwatawa: Myth, Historiography and Popular Memory." <i>Historical Reflections/Réflexions Historiques</i> (1995): 277-299.</li>
+<li>Carpenter, Kristen A., A Property Rights Approach to Sacred Sites: Asserting a Place for Indians as Nonowners, 52 UCLA Law Review 1061 (2005).</li>
+<li>Carpenter, Kristen A., Individual Religious Freedoms in American Indian Tribal Constitutional Law, "The Indian Civil Rights Act at Forty." UCLA American Indian Studies Publications, 2012, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-935626-67-4" title="Special:BookSources/978-0-935626-67-4">978-0-935626-67-4</a>.</li>
+<li>Getches, David H., Wilkinson, Charles F., Williams, Robert A. Jr. "Cases and Materials on Federal Indian Law- Fifth Edition." Thomas West Company: the United States, 1998. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-314-14422-5" title="Special:BookSources/978-0-314-14422-5">978-0-314-14422-5</a>.</li>
+<li>Stewart, Omer C. Peyote Religion: A History. University of Oklahoma Press: Norman and London, 1987. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8061-2068-3" title="Special:BookSources/978-0-8061-2068-3">978-0-8061-2068-3</a>.</li>
+<li>Waldman, Carl. (2009). Atlas of the North American Indian. Checkmark Books. New York. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8160-6859-3" title="Special:BookSources/978-0-8160-6859-3">978-0-8160-6859-3</a>.</li>
+<li>Utter, Jack. American Indians: Answers to Today's Questions. 2nd edition. University of Oklahoma Press, 2001. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8061-3313-3" title="Special:BookSources/978-0-8061-3313-3">978-0-8061-3313-3</a>.</li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Native_American_religion" class="extiw" title="commons:Category:Native American religion">Native American religion</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130516114534/http://www.library.illinois.edu/sshel/anthropology/nativeamer/nativeamerreligion.html">Guide to Research in Native American Religions</a> – <a href="/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign" title="University of Illinois at Urbana–Champaign">University of Illinois at Urbana–Champaign</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Religion" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Religion_topics" title="Template:Religion topics"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Religion_topics" title="Template talk:Religion topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Religion_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Religion" style="font-size:114%;margin:0 4em"><a href="/wiki/Religion" title="Religion">Religion</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Major_religious_groups_and_denominations1" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Major religious groups and denominations</a><sup>1</sup></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Judaism" title="Judaism">Judaism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul><li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li></ul></li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Samaritanism" title="Samaritanism">Samaritanism</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Christianity" title="Christianity">Christianity</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catholic_Church" title="Catholic Church">Catholicism</a>
+<ul><li><a href="/wiki/Latin_Church" title="Latin Church">Latin</a></li>
+<li><a href="/wiki/Eastern_Catholic_Churches" title="Eastern Catholic Churches">Eastern</a></li></ul></li>
+<li><a href="/wiki/Eastern_Orthodox_Church" title="Eastern Orthodox Church">Eastern Orthodoxy</a></li>
+<li><a href="/wiki/Oriental_Orthodoxy" class="mw-redirect" title="Oriental Orthodoxy">Oriental Orthodoxy</a></li>
+<li><a href="/wiki/Nestorianism" title="Nestorianism">Nestorianism</a>
+<ul><li><a href="/wiki/Assyrian_Church_of_the_East" title="Assyrian Church of the East">Assyrian</a></li>
+<li><a href="/wiki/Ancient_Church_of_the_East" title="Ancient Church of the East">Ancient</a></li></ul></li>
+<li><a href="/wiki/Proto-Protestantism" title="Proto-Protestantism">Proto-Protestantism</a>
+<ul><li><a href="/wiki/Waldensians" title="Waldensians">Waldensians</a></li>
+<li><a href="/wiki/Unity_of_the_Brethren" title="Unity of the Brethren">Czech Brethren</a>/<a href="/wiki/Moravian_Church" title="Moravian Church">Moravians</a></li></ul></li>
+<li><a href="/wiki/Protestantism" title="Protestantism">Protestantism</a>
+<ul><li><a href="/wiki/Lutheranism" title="Lutheranism">Lutheranism</a></li>
+<li><a href="/wiki/Calvinism" title="Calvinism">Calvinism</a>
+<ul><li><a href="/wiki/Continental_Reformed_church" title="Continental Reformed church">Reformed</a></li>
+<li><a href="/wiki/Presbyterianism" title="Presbyterianism">Presbyterianism</a></li>
+<li><a href="/wiki/Congregational_church" title="Congregational church">Congregationalism</a></li></ul></li>
+<li><a href="/wiki/Anabaptism" title="Anabaptism">Anabaptism</a>
+<ul><li><a href="/wiki/Amish" title="Amish">Amish</a></li>
+<li><a href="/wiki/Schwarzenau_Brethren" title="Schwarzenau Brethren">Brethren</a></li>
+<li><a href="/wiki/Hutterites" title="Hutterites">Hutterites</a></li>
+<li><a href="/wiki/Mennonites" title="Mennonites">Mennonites</a></li>
+<li><a href="/wiki/Schwenkfelders" class="mw-redirect" title="Schwenkfelders">Schwenkfelders</a></li></ul></li>
+<li><a href="/wiki/Anglicanism" title="Anglicanism">Anglicanism</a></li>
+<li><a href="/wiki/Methodism" title="Methodism">Methodism</a>
+<ul><li><a href="/wiki/Holiness_movement" title="Holiness movement">Holiness</a></li></ul></li>
+<li><a href="/wiki/Baptists" title="Baptists">Baptists</a></li>
+<li><a href="/wiki/Quakers" title="Quakers">Quakerism</a></li>
+<li><a href="/wiki/Plymouth_Brethren" title="Plymouth Brethren">Plymouth Brethren</a></li>
+<li><a href="/wiki/Restoration_Movement" title="Restoration Movement">Restorationism</a></li>
+<li><a href="/wiki/Catholic_Apostolic_Church" title="Catholic Apostolic Church">Irvingism</a></li>
+<li><a href="/wiki/Adventism" title="Adventism">Adventism</a></li>
+<li><a href="/wiki/Pentecostalism" title="Pentecostalism">Pentecostalism</a>/<a href="/wiki/Charismatic_Movement" class="mw-redirect" title="Charismatic Movement">Charismatic</a></li></ul></li>
+<li><a href="/wiki/Independent_Catholicism" title="Independent Catholicism">Independent Catholicism</a></li>
+<li><a href="/wiki/Nontrinitarianism" title="Nontrinitarianism">Nontrinitarianism</a>
+<ul><li><a href="/wiki/Unitarianism" title="Unitarianism">Unitarianism</a></li>
+<li><a href="/wiki/The_New_Church_(Swedenborgian)" title="The New Church (Swedenborgian)">Swedenborgianism</a></li>
+<li><a href="/wiki/Mormonism" title="Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Christadelphians" title="Christadelphians">Christadelphians</a></li>
+<li><a href="/wiki/Bible_Student_movement" title="Bible Student movement">Bible Students</a>/<a href="/wiki/Jehovah%27s_Witnesses" title="Jehovah&#39;s Witnesses">Jehovah's Witnesses</a></li>
+<li><a href="/wiki/Anglo-Israelism" class="mw-redirect" title="Anglo-Israelism">Anglo-Israelism</a></li>
+<li><a href="/wiki/Oneness_Pentecostalism" title="Oneness Pentecostalism">Oneness Pentecostalism</a></li>
+<li><a href="/wiki/Spiritual_Christianity" title="Spiritual Christianity">Spiritual</a></li>
+<li><a href="/wiki/Tolstoyan_movement" title="Tolstoyan movement">Tolstoyan</a></li></ul></li>
+<li><a href="/wiki/Judaizers" title="Judaizers">Judaizers</a></li>
+<li><a href="/wiki/Nondenominational_Christianity" title="Nondenominational Christianity">Nondenominational</a>
+<ul><li><a href="/wiki/Evangelicalism" title="Evangelicalism">Evangelicalism</a></li></ul></li>
+<li><a href="/wiki/Esoteric_Christianity" title="Esoteric Christianity">Esoteric</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Islam" title="Islam">Islam</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sunni_Islam" title="Sunni Islam">Sunni</a>
+<ul><li><a href="/wiki/Ash%CA%BFari" title="Ashʿari">Ashʿari</a></li>
+<li><a href="/wiki/Maturidi" title="Maturidi">Maturidi</a></li>
+<li><a href="/wiki/Traditionalist_theology_(Islam)" title="Traditionalist theology (Islam)">Traditionalist theology</a></li>
+<li><a href="/wiki/Salafi_movement" title="Salafi movement">Salafism</a>
+<ul><li><a href="/wiki/Wahhabism" title="Wahhabism">Wahhabism</a></li>
+<li><a href="/wiki/Islamic_Modernism" title="Islamic Modernism">Modernist Salafism</a></li></ul></li></ul></li>
+<li><a href="/wiki/Shia_Islam" title="Shia Islam">Shia</a>
+<ul><li><a href="/wiki/Twelver" title="Twelver">Twelver</a></li>
+<li><a href="/wiki/Zaidiyyah" title="Zaidiyyah">Zaidiyyah</a></li>
+<li><a href="/wiki/Isma%27ilism" title="Isma&#39;ilism">Isma'ilism</a></li>
+<li><a href="/wiki/Alawites" title="Alawites">Alawis</a></li></ul></li>
+<li><a href="/wiki/Sufism" title="Sufism">Sufism</a></li>
+<li><a href="/wiki/Khawarij" title="Khawarij">Khawarij</a>
+<ul><li><a href="/wiki/Ibadi" title="Ibadi">Ibadi</a></li></ul></li>
+<li><a href="/wiki/Alevism" title="Alevism">Alevism</a></li>
+<li><a href="/wiki/Ahmadiyya" title="Ahmadiyya">Ahmadi</a></li>
+<li><a href="/wiki/Mahdavia" title="Mahdavia">Mahdavia</a></li>
+<li><a href="/wiki/Quranism" title="Quranism">Quranism</a></li>
+<li><a href="/wiki/Non-denominational_Muslim" title="Non-denominational Muslim">Non-denominational</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/B%C3%A1bism" title="Bábism">Bábism</a>
+<ul><li><a href="/wiki/Azali" title="Azali">Azali</a></li>
+<li><a href="/wiki/Bah%C3%A1%27%C3%AD_Faith" title="Bahá&#39;í Faith">Bahá'í</a></li></ul></li>
+<li><a href="/wiki/Druze" title="Druze">Druze</a></li>
+<li><a href="/wiki/Ali-Illahism" title="Ali-Illahism">Ali-Illahism</a></li>
+<li><a href="/wiki/Yarsanism" title="Yarsanism">Yarsanism</a></li>
+<li><a href="/wiki/Mandaeism" title="Mandaeism">Mandaeism</a></li>
+<li><a href="/wiki/Rastafari" title="Rastafari">Rastafarianism</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indian_religions" title="Indian religions">Dharmic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Hinduism" title="Hinduism">Hinduism</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vaishnavism" title="Vaishnavism">Vaishnavism</a>
+<ul><li><a href="/wiki/Sri_Vaishnavism" title="Sri Vaishnavism">Sri Vaishnavism</a></li>
+<li><a href="/wiki/Brahma_Sampradaya" title="Brahma Sampradaya">Brahma Sampradaya</a></li>
+<li><a href="/wiki/Nimbarka_Sampradaya" title="Nimbarka Sampradaya">Nimbarka Sampradaya</a></li>
+<li><a href="/wiki/Pushtimarg" title="Pushtimarg">Pushtimarg</a></li>
+<li><a href="/wiki/Mahanubhava" title="Mahanubhava">Mahanubhava</a></li>
+<li><a href="/wiki/Ramanandi_Sampradaya" title="Ramanandi Sampradaya">Ramanandi</a></li>
+<li><a href="/wiki/Varkari" title="Varkari">Varkari</a></li></ul></li>
+<li><a href="/wiki/Shaivism" title="Shaivism">Shaivism</a>
+<ul><li><a href="/wiki/Shaiva_Siddhanta" title="Shaiva Siddhanta">Siddhantism</a></li>
+<li><a href="/wiki/Kashmir_Shaivism" title="Kashmir Shaivism">Kashmir</a></li>
+<li><a href="/wiki/Kapalika" title="Kapalika">Kapalika</a></li>
+<li><a href="/wiki/Kaumaram" title="Kaumaram">Kaumaram</a></li>
+<li><a href="/wiki/Lingayatism" title="Lingayatism">Lingayatism</a></li>
+<li><a href="/wiki/Nath" title="Nath">Nath</a></li>
+<li><a href="/wiki/Balinese_Hinduism" title="Balinese Hinduism">Balinese</a></li></ul></li>
+<li><a href="/wiki/Shaktism" title="Shaktism">Shaktism</a></li>
+<li><a href="/wiki/Smarta_tradition" title="Smarta tradition">Smartism</a></li>
+<li><a href="/wiki/%C5%9Arauta" title="Śrauta">Śrauta</a></li>
+<li><a href="/wiki/Sant_Mat" title="Sant Mat">Sant Mat</a></li>
+<li><a href="/wiki/Ayyavazhi" title="Ayyavazhi">Ayyavazhi</a></li>
+<li><a href="/wiki/Hindu_reform_movements" title="Hindu reform movements">Neo-Hinduism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Buddhism" title="Buddhism">Buddhism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Theravada" title="Theravada">Theravada</a></li>
+<li><a href="/wiki/Mahayana" title="Mahayana">Mahayana</a>
+<ul><li><a href="/wiki/Chan_Buddhism" title="Chan Buddhism">Chan</a>/<a href="/wiki/Zen" title="Zen">Zen</a></li>
+<li><a href="/wiki/Pure_Land_Buddhism" title="Pure Land Buddhism">Amidism</a></li>
+<li><a href="/wiki/Nichiren_Buddhism" title="Nichiren Buddhism">Nichiren</a></li></ul></li>
+<li><a href="/wiki/Vajrayana" title="Vajrayana">Vajrayana</a>
+<ul><li><a href="/wiki/Tibetan_Buddhism" title="Tibetan Buddhism">Tibetan</a></li></ul></li>
+<li><a href="/wiki/Buddhist_modernism" title="Buddhist modernism">Neo-Buddhism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;">Others</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jainism" title="Jainism">Jainism</a>
+<ul><li><a href="/wiki/Digambara" title="Digambara">Digambara</a></li>
+<li><a href="/wiki/%C5%9Av%C4%93t%C4%81mbara" title="Śvētāmbara">Śvētāmbara</a></li></ul></li>
+<li><a href="/wiki/Sikhism" title="Sikhism">Sikhism</a></li>
+<li><a href="/wiki/Kalash_people#Religion" title="Kalash people">Kalash</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Iranian_religions" title="Iranian religions">Iranian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+<li><a href="/wiki/Yazidis" title="Yazidis">Yazidis</a></li>
+<li><a href="/wiki/Uatsdin" class="mw-redirect" title="Uatsdin">Ossetian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indo-European_languages" title="Indo-European languages">European</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armenian_Native_Faith" title="Armenian Native Faith">Armenian</a></li>
+<li><a href="/wiki/Baltic_neopaganism" title="Baltic neopaganism">Baltic</a></li>
+<li><a href="/wiki/Celtic_neopaganism" title="Celtic neopaganism">Celtic</a>
+<ul><li><a href="/wiki/Druidry_(modern)" title="Druidry (modern)">Druidry</a></li></ul></li>
+<li><a href="/wiki/Heathenry_(new_religious_movement)" title="Heathenry (new religious movement)">Germanic</a></li>
+<li><a href="/wiki/Hellenism_(religion)" title="Hellenism (religion)">Hellenism</a></li>
+<li><a href="/wiki/Roman_Polytheistic_Reconstructionism" title="Roman Polytheistic Reconstructionism">Italo-Roman</a></li>
+<li><a href="/wiki/Zalmoxianism" title="Zalmoxianism">Romanian</a></li>
+<li><a href="/wiki/Slavic_Native_Faith" title="Slavic Native Faith">Slavic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Uralic_neopaganism" title="Uralic neopaganism">Uralic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Estonian_neopaganism" title="Estonian neopaganism">Estonian</a></li>
+<li><a href="/wiki/Finnish_neopaganism" title="Finnish neopaganism">Finnish</a></li>
+<li><a href="/wiki/Hungarian_Native_Faith" title="Hungarian Native Faith">Hungarian</a></li>
+<li><a href="/wiki/Mari_Native_Religion" title="Mari Native Religion">Mari</a></li>
+<li><a href="/wiki/Mordvin_Native_Religion" title="Mordvin Native Religion">Mordvin</a></li>
+<li><a href="/wiki/S%C3%A1mi_shamanism" title="Sámi shamanism">Sámi</a></li>
+<li><a href="/wiki/Udmurt_Vos" title="Udmurt Vos">Udmurt</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Altaic_languages" title="Altaic languages">Altaic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Turkic_mythology" title="Turkic mythology">Turkic</a>-<a href="/wiki/Mongolian_shamanism" title="Mongolian shamanism">Mongolic</a>
+<ul><li><a href="/wiki/Tengrism" title="Tengrism">Tengrism</a></li>
+<li><a href="/wiki/Burkhanism" title="Burkhanism">Burkhanism</a></li>
+<li><a href="/wiki/Vattisen_Yaly" title="Vattisen Yaly">Vattisen Yaly</a></li></ul></li>
+<li><a href="/wiki/Tungusic_peoples" title="Tungusic peoples">Tungusic</a>
+<ul><li><a href="/wiki/Manchu_shamanism" title="Manchu shamanism">Manchu</a></li>
+<li><a href="/wiki/Evenks#Religion" title="Evenks">Evenki</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Chinese</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a>
+<ul><li><a href="/wiki/Chinese_ritual_mastery_traditions" title="Chinese ritual mastery traditions">Folk Taoism</a></li>
+<li><a href="/wiki/Yao_folk_religion" title="Yao folk religion">Yao Taoism</a></li></ul></li>
+<li><a href="/wiki/Nuo_folk_religion" title="Nuo folk religion">Nuo</a></li>
+<li><a href="/wiki/Chinese_salvationist_religions" title="Chinese salvationist religions">Salvationist</a>
+<ul><li><a href="/wiki/Xiantiandao" title="Xiantiandao">Xiantiandao</a></li>
+<li><a href="/wiki/Yiguandao" title="Yiguandao">Yiguandao</a></li></ul></li>
+<li><a href="/wiki/Luo_teaching" title="Luo teaching">Luoism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tibeto-Burman_languages" title="Tibeto-Burman languages">Tibeto-<br />Burmese</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bon" title="Bon">Bon</a></li>
+<li><a href="/wiki/Burmese_folk_religion" title="Burmese folk religion">Burmese</a></li>
+<li><a href="/wiki/Benzhuism" title="Benzhuism">Benzhuism</a></li>
+<li><a href="/wiki/Bimoism" title="Bimoism">Bimoism</a></li>
+<li><a href="/wiki/Bathouism" title="Bathouism">Bathouism</a></li>
+<li><a href="/wiki/Mun_(religion)" title="Mun (religion)">Bongthingism</a></li>
+<li><a href="/wiki/Donyi-Polo" title="Donyi-Polo">Donyi-Polo</a></li>
+<li><a href="/wiki/Heraka" class="mw-redirect" title="Heraka">Heraka</a></li>
+<li><a href="/wiki/Kirat_Mundhum" title="Kirat Mundhum">Kiratism</a></li>
+<li><a href="/wiki/Qiang_folk_religion" title="Qiang folk religion">Qiang</a></li>
+<li><a href="/wiki/Sanamahism" title="Sanamahism">Sanamahism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Korea" title="Religion in Korea">Korean</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Korean_shamanism" title="Korean shamanism">Sindoism</a></li>
+<li><a href="/wiki/Cheondoism" title="Cheondoism">Cheondoism</a></li>
+<li><a href="/wiki/Jeung_San_Do" title="Jeung San Do">Jeungsanism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Japan" title="Religion in Japan">Japanese</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Shinto" title="Shinto">Shinto</a></li>
+<li><a href="/wiki/Tenrikyo" title="Tenrikyo">Tenrikyo</a></li>
+<li><a href="/wiki/Ryukyuan_religion" title="Ryukyuan religion">Ryukyuan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tai_peoples" title="Tai peoples">Tai</a> and <a href="/wiki/Miao_people" title="Miao people">Miao</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ahom_religion" title="Ahom religion">Ahom</a></li>
+<li><a href="/wiki/Miao_folk_religion" title="Miao folk religion">Hmongism</a></li>
+<li><a href="/wiki/Mo_(religion)" title="Mo (religion)">Mo</a></li>
+<li><a href="/wiki/Tai_folk_religion" title="Tai folk religion">Satsana Phi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">Austroasiatic</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Vietnamese_folk_religion" title="Vietnamese folk religion">Vietnamese</a>
+<ul><li><a href="/wiki/Caodaism" title="Caodaism">Caodaism</a></li>
+<li><a href="/wiki/%C4%90%E1%BA%A1o_M%E1%BA%ABu" title="Đạo Mẫu">Đạo Mẫu</a></li>
+<li><a href="/wiki/H%C3%B2a_H%E1%BA%A3o" title="Hòa Hảo">Hoahaoism</a></li></ul></li>
+<li><a href="/wiki/Sarnaism" title="Sarnaism">Sarnaism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parmalim" title="Parmalim">Batak Parmalim</a></li>
+<li><a href="/wiki/Dayak_people#Religion_and_festivals" title="Dayak people">Dayak</a>
+<ul><li><a href="/wiki/Kaharingan" title="Kaharingan">Kaharingan</a></li>
+<li><a href="/wiki/Momolianism" title="Momolianism">Momolianism</a></li></ul></li>
+<li><a href="/wiki/Kejaw%C3%A8n" title="Kejawèn">Javanese Kejawèn</a></li>
+<li><a href="/wiki/Pemena" title="Pemena">Karo Pemena</a></li>
+<li><a href="/wiki/Malaysian_folk_religion" title="Malaysian folk religion">Malaysian</a></li>
+<li><a href="/wiki/Indigenous_religious_beliefs_of_the_Philippines" title="Indigenous religious beliefs of the Philippines">Philippine Dayawism</a>
+<ul><li><a href="/wiki/Indigenous_religious_beliefs_of_the_Tagalog_people" title="Indigenous religious beliefs of the Tagalog people">Tagalog</a></li></ul></li>
+<li><a href="/wiki/Polynesian_narrative" title="Polynesian narrative">Polynesian</a>
+<ul><li><a href="/wiki/Hawaiian_religion" title="Hawaiian religion">Hawaiian</a></li>
+<li><a href="/wiki/M%C4%81ori_religion" title="Māori religion">Māori</a></li></ul></li>
+<li><a href="/wiki/Marapu" title="Marapu">Sumbese Marapu</a></li>
+<li><a href="/wiki/Sunda_Wiwitan" title="Sunda Wiwitan">Sundanese Wiwitan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religion_in_Africa" title="Religion in Africa">African</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Traditional_African_religions" title="Traditional African religions">Traditional</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akan_religion" title="Akan religion">Akan</a></li>
+<li><a href="/wiki/Kamba_people" title="Kamba people">Akamba</a></li>
+<li><a href="/wiki/Baluba_mythology" title="Baluba mythology">Baluba</a></li>
+<li><a href="/wiki/Bantu_mythology" title="Bantu mythology">Bantu</a>
+<ul><li><a href="/wiki/Kongo_religion" title="Kongo religion">Kongo</a></li>
+<li><a href="/wiki/Zulu_traditional_religion" title="Zulu traditional religion">Zulu</a></li></ul></li>
+<li><a href="/wiki/Traditional_Berber_religion" title="Traditional Berber religion">Berber</a>
+<ul><li><a href="/wiki/Church_of_the_Guanche_People" title="Church of the Guanche People">Guanche church</a></li></ul></li>
+<li><a href="/wiki/Bushongo_mythology" title="Bushongo mythology">Bushongo</a></li>
+<li><a href="/wiki/Dinka_religion" title="Dinka religion">Dinka</a></li>
+<li><a href="/wiki/Efik_mythology" title="Efik mythology">Efik</a></li>
+<li><a href="/wiki/Dahomean_religion" title="Dahomean religion">Fon and Ewe</a></li>
+<li><a href="/wiki/Odinani" title="Odinani">Igbo</a></li>
+<li><a href="/wiki/Ik_people" title="Ik people">Ik</a></li>
+<li><a href="/wiki/Lotuko_mythology" class="mw-redirect" title="Lotuko mythology">Lotuko</a></li>
+<li><a href="/wiki/Lozi_mythology" title="Lozi mythology">Lozi</a></li>
+<li><a href="/wiki/Lugbara_mythology" title="Lugbara mythology">Lugbara</a></li>
+<li><a href="/wiki/Maasai_mythology" title="Maasai mythology">Maasai</a></li>
+<li><a href="/wiki/Mbuti_mythology" title="Mbuti mythology">Mbuti</a></li>
+<li><a href="/wiki/San_religion" title="San religion">San</a></li>
+<li><a href="/wiki/Serer_religion" title="Serer religion">Serer</a></li>
+<li><a href="/wiki/Tumbuka_mythology" title="Tumbuka mythology">Tumbuka</a></li>
+<li><a href="/wiki/Urhobo_people" title="Urhobo people">Urhobo</a></li>
+<li><a href="/wiki/Waaq" title="Waaq">Waaq</a></li>
+<li><a href="/wiki/Yoruba_religion" title="Yoruba religion">Yoruba</a>
+<ul><li><a href="/wiki/If%C3%A1" title="Ifá">Ifá</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal;"><a href="/wiki/Afro-American_religion" title="Afro-American religion">Diasporic</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Candombl%C3%A9" title="Candomblé">Candomblé</a>
+<ul><li><a href="/wiki/Candombl%C3%A9_Bantu" title="Candomblé Bantu">Bantu</a></li>
+<li><a href="/wiki/Candombl%C3%A9_Jej%C3%A9" title="Candomblé Jejé">Jejé</a></li>
+<li><a href="/wiki/Candombl%C3%A9_Ketu" title="Candomblé Ketu">Ketu</a></li></ul></li>
+<li><a href="/wiki/Comfa" title="Comfa">Comfa</a></li>
+<li><a href="/wiki/Convince" title="Convince">Convince</a></li>
+<li><a href="/wiki/Espiritismo" title="Espiritismo">Espiritismo</a></li>
+<li><a href="/wiki/Kumina" title="Kumina">Kumina</a></li>
+<li><a href="/wiki/Obeah" title="Obeah">Obeah</a></li>
+<li><a href="/wiki/Palo_(religion)" title="Palo (religion)">Palo</a></li>
+<li><a href="/wiki/Quimbanda" title="Quimbanda">Quimbanda</a></li>
+<li><a href="/wiki/Santer%C3%ADa" title="Santería">Santería</a></li>
+<li><a href="/wiki/Tambor_de_Mina" title="Tambor de Mina">Tambor de Mina</a></li>
+<li><a href="/wiki/Trinidad_Orisha" title="Trinidad Orisha">Trinidad Orisha</a></li>
+<li><a href="/wiki/Umbanda" title="Umbanda">Umbanda</a></li>
+<li><a href="/wiki/Haitian_Vodou" title="Haitian Vodou">Vodou</a></li>
+<li><a href="/wiki/Louisiana_Voodoo" title="Louisiana Voodoo">Voodoo</a></li>
+<li><a href="/wiki/Winti" title="Winti">Winti</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Native<br />American</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abenaki_mythology" title="Abenaki mythology">Abenaki</a></li>
+<li><a href="/wiki/Anishinaabe_traditional_beliefs" title="Anishinaabe traditional beliefs">Anishinaabe</a></li>
+<li><a href="/wiki/Blackfoot_mythology" title="Blackfoot mythology">Blackfoot</a></li>
+<li><a href="/wiki/Kuksu_(religion)" title="Kuksu (religion)">Californian</a>
+<ul><li><a href="/wiki/Miwok_mythology" title="Miwok mythology">Miwok</a></li>
+<li><a href="/wiki/Ohlone_mythology" title="Ohlone mythology">Ohlone</a></li>
+<li><a href="/wiki/Pomo_religion" title="Pomo religion">Pomo</a></li></ul></li>
+<li><a href="/wiki/Cherokee_spiritual_beliefs" title="Cherokee spiritual beliefs">Cherokee</a></li>
+<li><a href="/wiki/Chilote_mythology" title="Chilote mythology">Chilote</a></li>
+<li><a href="/wiki/Choctaw_mythology" title="Choctaw mythology">Choctaw</a></li>
+<li><a href="/wiki/Creek_mythology" title="Creek mythology">Creek</a></li>
+<li><a href="/wiki/Guarani_mythology" title="Guarani mythology">Guarani</a></li>
+<li><a href="/wiki/Haida_mythology" title="Haida mythology">Haida</a></li>
+<li><a href="/wiki/Ho-Chunk_mythology" title="Ho-Chunk mythology">Ho-Chunk</a></li>
+<li><a href="/wiki/Hopi_mythology" title="Hopi mythology">Hopi</a></li>
+<li><a href="/wiki/Iroquois_mythology" title="Iroquois mythology">Iroquois</a>
+<ul><li><a href="/wiki/Seneca_mythology" title="Seneca mythology">Seneca</a></li>
+<li><a href="/wiki/Wyandot_religion" title="Wyandot religion">Wyandot</a></li>
+<li><a href="/wiki/Longhouse_Religion" title="Longhouse Religion">Longhouse Religion</a></li></ul></li>
+<li><a href="/wiki/Jivaroan_peoples#Religion" title="Jivaroan peoples">Jivaroan</a></li>
+<li><a href="/wiki/Kwakwaka%CA%BCwakw_mythology" title="Kwakwakaʼwakw mythology">Kwakwakaʼwakw</a></li>
+<li><a href="/wiki/Lakota_mythology" title="Lakota mythology">Lakota</a></li>
+<li><a href="/wiki/Lenape_mythology" title="Lenape mythology">Lenape</a></li>
+<li><a href="/wiki/Mapuche_religion" title="Mapuche religion">Mapuche</a></li>
+<li><a href="/wiki/Mesoamerican_religion" title="Mesoamerican religion">Mesoamerican</a>
+<ul><li><a href="/wiki/Aztec_religion" title="Aztec religion">Aztec</a></li>
+<li><a href="/wiki/Maya_religion" title="Maya religion">Maya</a></li>
+<li><a href="/wiki/Pur%C3%A9pecha_religion" title="Purépecha religion">Purépecha</a></li></ul></li>
+<li><a href="/wiki/Midewiwin" title="Midewiwin">Midewiwin</a></li>
+<li><a href="/wiki/Muisca_mythology" title="Muisca mythology">Muisca</a></li>
+<li><a href="/wiki/Native_American_Church" title="Native American Church">Native American Church</a></li>
+<li><a href="/wiki/Navajo#Spiritual_and_religious_beliefs" title="Navajo">Navajo</a></li>
+<li><a href="/wiki/Nuu-chah-nulth_mythology" title="Nuu-chah-nulth mythology">Nuu-chah-nulth</a></li>
+<li><a href="/wiki/Pawnee_mythology" title="Pawnee mythology">Pawnee</a></li>
+<li><a href="/wiki/Tsimshian_mythology" title="Tsimshian mythology">Tsimshian</a></li>
+<li><a href="/wiki/Ute_mythology" title="Ute mythology">Ute</a></li>
+<li><a href="/wiki/Zuni_mythology" title="Zuni mythology">Zuni</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ethnic_religion" title="Ethnic religion">Other groups</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Australian_Aboriginal_religion_and_mythology" title="Australian Aboriginal religion and mythology">Aboriginal Australian</a></li>
+<li><a href="/wiki/Adyghe_Habze" title="Adyghe Habze">Circassian</a></li>
+<li><a href="/wiki/Dravidian_folk_religion" title="Dravidian folk religion">Dravidian</a></li>
+<li><a href="/wiki/Inuit_religion" title="Inuit religion">Inuit</a></li>
+<li><a href="/wiki/Papuan_mythology" title="Papuan mythology">Papuan</a></li>
+<li><a href="/wiki/Shamanism_in_Siberia" title="Shamanism in Siberia">Siberian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">Recent</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adi_Dharm" title="Adi Dharm">Adi Dharm</a>/<a href="/wiki/Brahmoism" title="Brahmoism">Brahmoism</a></li>
+<li><a href="/wiki/Anthroposophy" title="Anthroposophy">Anthroposophy</a></li>
+<li><a href="/wiki/Discordianism" title="Discordianism">Discordianism</a></li>
+<li><a href="/wiki/Eckankar" title="Eckankar">Eckankar</a></li>
+<li><a href="/wiki/Falun_Gong" title="Falun Gong">Falun Gong</a></li>
+<li><a href="/wiki/Fourth_Way" title="Fourth Way">Fourth Way</a></li>
+<li><a href="/wiki/Goddess_movement" title="Goddess movement">Goddess</a></li>
+<li><a href="/wiki/Japanese_new_religions" title="Japanese new religions">Japanese</a></li>
+<li><a href="/wiki/Jediism" title="Jediism">Jediism</a></li>
+<li><a href="/wiki/Modekngei" title="Modekngei">Modekngei</a></li>
+<li><a href="/wiki/Modern_Paganism" title="Modern Paganism">Neopaganism</a>
+<ul><li><a href="/wiki/Polytheistic_reconstructionism" title="Polytheistic reconstructionism">Reconstructionism</a></li>
+<li><a href="/wiki/Wicca" title="Wicca">Wicca</a></li></ul></li>
+<li><a href="/wiki/Neoshamanism" title="Neoshamanism">Neoshamanism</a></li>
+<li><a href="/wiki/New_Acropolis" title="New Acropolis">New Acropolis</a></li>
+<li><a href="/wiki/New_Age" title="New Age">New Age</a></li>
+<li><a href="/wiki/New_Thought" title="New Thought">New Thought</a></li>
+<li><a href="/wiki/Rajneesh_movement" title="Rajneesh movement">Rajneesh</a></li>
+<li><a href="/wiki/Satanism" title="Satanism">Satanism</a></li>
+<li><a href="/wiki/Spiritualism" title="Spiritualism">Spiritualism</a></li>
+<li><a href="/wiki/Subud" title="Subud">Subud</a></li>
+<li><a href="/wiki/Tensegrity_(Castaneda)" class="mw-redirect" title="Tensegrity (Castaneda)">Tensegrity</a></li>
+<li><a href="/wiki/Thelema" title="Thelema">Thelema</a></li>
+<li><a href="/wiki/Theosophy_(Blavatskian)" title="Theosophy (Blavatskian)">Theosophy</a>
+<ul><li><a href="/wiki/Neo-Theosophy" title="Neo-Theosophy">Neo-Theosophy</a></li>
+<li><a href="/wiki/Agni_Yoga" title="Agni Yoga">Agni Yoga</a></li></ul></li>
+<li><a href="/wiki/Transcendental_Meditation" title="Transcendental Meditation">Transcendental Meditation</a></li>
+<li><a href="/wiki/UFO_religion" title="UFO religion">UFO religion</a>
+<ul><li><a href="/wiki/Ra%C3%ABlism" title="Raëlism">Raëlism</a></li>
+<li><a href="/wiki/Scientology" title="Scientology">Scientology</a></li></ul></li>
+<li><a href="/wiki/Unitarian_Universalism" title="Unitarian Universalism">Unitarian Universalism</a></li>
+<li><a href="/wiki/Universal_White_Brotherhood" title="Universal White Brotherhood">White Brotherhood</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b>Note:</b> <sup>1</sup> The main source: <cite class="citation book"><a href="/wiki/Mircea_Eliade" title="Mircea Eliade">Eliade, Mircea</a>, ed. (1987). <i>The Encyclopedia of Religion</i>. New York: MacMillan.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Encyclopedia+of+Religion&amp;rft.place=New+York&amp;rft.pub=MacMillan&amp;rft.date=1987&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANative+American+religion" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Historical_religions" style="font-size:114%;margin:0 4em"><a href="/wiki/History_of_religion" title="History of religion">Historical religions</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Prehistoric_religion" title="Prehistoric religion">Prehistoric</a>
+<ul><li><a href="/wiki/Paleolithic_religion" title="Paleolithic religion">Paleolithic</a></li></ul></li>
+<li><a href="/wiki/Indus_Valley_Civilisation#Religion" title="Indus Valley Civilisation">Harappan</a></li>
+<li><a href="/wiki/Ancient_Egyptian_religion" title="Ancient Egyptian religion">Egyptian</a>
+<ul><li><a href="/wiki/Atenism" title="Atenism">Atenism</a></li></ul></li>
+<li><a href="/wiki/Ancient_Mesopotamian_religion" title="Ancient Mesopotamian religion">Mesopotamian</a>
+<ul><li><a href="/wiki/Sumerian_religion" title="Sumerian religion">Sumerian</a></li></ul></li>
+<li><a href="/wiki/Ancient_Semitic_religion" title="Ancient Semitic religion">Semitic</a>
+<ul><li><a href="/wiki/Ancient_Canaanite_religion" title="Ancient Canaanite religion">Canaanite</a></li>
+<li><a href="/wiki/Yahweh" title="Yahweh">Yahwism</a></li></ul></li>
+<li><a href="/wiki/Religion_in_pre-Islamic_Arabia" title="Religion in pre-Islamic Arabia">Arabian</a></li>
+<li><a href="/wiki/Somali_mythology" title="Somali mythology">Somali</a></li>
+<li><a href="/wiki/Hurrian_religion" title="Hurrian religion">Hurrian</a></li>
+<li><a href="/wiki/Urartu#Religion" title="Urartu">Urartu</a></li>
+<li><a href="/wiki/Etruscan_religion" title="Etruscan religion">Etruscan</a></li>
+<li><a href="/wiki/Basque_mythology" title="Basque mythology">Basque</a></li>
+<li><a href="/wiki/Georgian_mythology" title="Georgian mythology">Georgian</a></li>
+<li><a href="/wiki/Vainakh_religion" title="Vainakh religion">Vainakh</a></li>
+<li><a href="/wiki/Proto-Indo-European_mythology" title="Proto-Indo-European mythology">Proto-Indo-European</a></li>
+<li><a href="/wiki/Proto-Indo-Iranian_religion" class="mw-redirect" title="Proto-Indo-Iranian religion">Proto-Indo-Iranian</a></li>
+<li><a href="/wiki/Historical_Vedic_religion" title="Historical Vedic religion">Vedic</a></li>
+<li><a href="/wiki/Persian_mythology" title="Persian mythology">Mazdaism</a></li>
+<li><a href="/wiki/Hittite_mythology_and_religion" title="Hittite mythology and religion">Hittite</a></li>
+<li><a href="/wiki/Armenian_mythology" title="Armenian mythology">Armenian</a></li>
+<li><a href="/wiki/Albanian_mythology" class="mw-redirect" title="Albanian mythology">Albanian</a></li>
+<li><a href="/wiki/Thracian_religion" title="Thracian religion">Thracian</a></li>
+<li><a href="/wiki/Greek_mythology" title="Greek mythology">Greek</a>
+<ul><li><a href="/wiki/Greco-Roman_mysteries" title="Greco-Roman mysteries">Mysteries</a></li>
+<li><a href="/wiki/Orphism_(religion)" title="Orphism (religion)">Orphism</a></li>
+<li><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></li>
+<li><a href="/wiki/Hermeticism" title="Hermeticism">Hermeticism</a></li>
+<li><a href="/wiki/Greco-Buddhism" title="Greco-Buddhism">Greco-Buddhism</a></li></ul></li>
+<li><a href="/wiki/Religion_in_ancient_Rome" title="Religion in ancient Rome">Roman</a>
+<ul><li><a href="/wiki/Imperial_cult_of_ancient_Rome" title="Imperial cult of ancient Rome">Imperial cult</a></li>
+<li><a href="/wiki/Gallo-Roman_religion" title="Gallo-Roman religion">Gallo-Roman</a></li>
+<li><a href="/wiki/Mithraism" title="Mithraism">Mithraism</a></li></ul></li>
+<li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a>
+<ul><li><a href="/wiki/Mazdak" title="Mazdak">Mazdakism</a></li></ul></li>
+<li><a href="/wiki/Scythian_religion" title="Scythian religion">Scythian</a></li>
+<li><a href="/wiki/Germanic_paganism" title="Germanic paganism">Germanic</a>
+<ul><li><a href="/wiki/Anglo-Saxon_paganism" title="Anglo-Saxon paganism">Anglo-Saxon</a></li>
+<li><a href="/wiki/Continental_Germanic_mythology" title="Continental Germanic mythology">Continental</a></li>
+<li><a href="/wiki/Frankish_mythology" title="Frankish mythology">Frankish</a></li>
+<li><a href="/wiki/Old_Norse_religion" title="Old Norse religion">Norse</a></li></ul></li>
+<li><a href="/wiki/Ancient_Celtic_religion" title="Ancient Celtic religion">Celtic</a></li>
+<li><a href="/wiki/Baltic_mythology" title="Baltic mythology">Baltic</a></li>
+<li><a href="/wiki/Slavic_paganism" title="Slavic paganism">Slavic</a></li>
+<li><a href="/wiki/Finnish_mythology" title="Finnish mythology">Finnish</a></li>
+<li><a href="/wiki/Hungarian_mythology" title="Hungarian mythology">Hungarian</a></li>
+<li><a href="/wiki/Ainu_people#Religion" title="Ainu people">Ainu</a></li>
+<li><a href="/wiki/Melanesian_mythology" title="Melanesian mythology">Melanesian</a></li>
+<li><a href="/wiki/Micronesian_mythology" title="Micronesian mythology">Micronesian</a>
+<ul><li><a href="/wiki/Nauruan_indigenous_religion" title="Nauruan indigenous religion">Nauruan</a></li></ul></li>
+<li><a href="/wiki/Cook_Islands_mythology" title="Cook Islands mythology">Cook Islands</a></li>
+<li><a href="/wiki/Rapa_Nui_mythology" title="Rapa Nui mythology">Rapa Nui</a></li>
+<li><a href="/wiki/Tongan_religion" title="Tongan religion">Tongan</a></li>
+<li><a href="/wiki/Inca_mythology" title="Inca mythology">Inca</a></li>
+<li><a href="/wiki/Olmec_religion" title="Olmec religion">Olmec</a></li>
+<li><a href="/wiki/Zapotec_civilization#Religion" title="Zapotec civilization">Zapotec</a></li>
+<li><a href="/wiki/Fuegians#Spiritual_culture" title="Fuegians">Fuegian</a>
+<ul><li><a href="/wiki/Selk%27nam_mythology" title="Selk&#39;nam mythology">Selk'nam</a></li></ul></li>
+<li><a href="/wiki/Guanches#System_of_beliefs" title="Guanches">Guanche</a></li>
+<li><a href="/wiki/Swahili_people" title="Swahili people">Swahili</a></li>
+<li><a href="/wiki/Jamaican_Maroon_religion" title="Jamaican Maroon religion">Jamaican Maroon</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Topics" style="font-size:114%;margin:0 4em">Topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Aspects</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apostasy" title="Apostasy">Apostasy</a>&#160;/&#32;<a href="/wiki/Religious_disaffiliation" title="Religious disaffiliation">Disaffiliation</a></li>
+<li><a href="/wiki/Religious_behaviour" title="Religious behaviour">Behaviour</a></li>
+<li><a href="/wiki/Religious_belief" class="mw-redirect" title="Religious belief">Beliefs</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a></li>
+<li><a href="/wiki/Deity" title="Deity">Deities</a></li>
+<li><a href="/wiki/Entheogen" title="Entheogen">Entheogens</a></li>
+<li><a href="/wiki/Ethnic_religion" title="Ethnic religion">Ethnic religion</a></li>
+<li><a href="/wiki/Religious_denomination" title="Religious denomination">Denomination</a></li>
+<li><a href="/wiki/Faith" title="Faith">Faith</a></li>
+<li><a href="/wiki/Fire_worship" title="Fire worship">Fire</a></li>
+<li><a href="/wiki/Folk_religion" title="Folk religion">Folk religion</a></li>
+<li><a href="/wiki/God" title="God">God</a></li>
+<li><a href="/wiki/Meditation" title="Meditation">Meditation</a></li>
+<li><a href="/wiki/Monasticism" title="Monasticism">Monasticism</a>
+<ul><li><a href="/wiki/Monk" title="Monk">monk</a></li>
+<li><a href="/wiki/Nun" title="Nun">nun</a></li></ul></li>
+<li><a href="/wiki/Mysticism" title="Mysticism">Mysticism</a></li>
+<li><a href="/wiki/Religion_and_mythology" title="Religion and mythology">Mythology</a></li>
+<li><a href="/wiki/Nature_worship" title="Nature worship">Nature</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">Ordination</a></li>
+<li><a href="/wiki/Orthodoxy" title="Orthodoxy">Orthodoxy</a></li>
+<li><a href="/wiki/Orthopraxy" title="Orthopraxy">Orthopraxy</a></li>
+<li><a href="/wiki/Prayer" title="Prayer">Prayer</a></li>
+<li><a href="/wiki/Prophecy" title="Prophecy">Prophecy</a></li>
+<li><a href="/wiki/Religious_experience" title="Religious experience">Religious experience</a></li>
+<li><a href="/wiki/Ritual" title="Ritual">Ritual</a>
+<ul><li><a href="/wiki/Liturgy" title="Liturgy">liturgy</a></li>
+<li><a href="/wiki/Sacrifice" title="Sacrifice">sacrifice</a></li></ul></li>
+<li><a href="/wiki/Spirituality" title="Spirituality">Spirituality</a></li>
+<li><a href="/wiki/Supernatural" title="Supernatural">Supernatural</a></li>
+<li><a href="/wiki/Religious_symbol" title="Religious symbol">Symbols</a></li>
+<li><a href="/wiki/Religious_views_on_truth" title="Religious views on truth">Truth</a></li>
+<li><a href="/wiki/Water_and_religion" title="Water and religion">Water</a></li>
+<li><a href="/wiki/Worship" title="Worship">Worship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theism" title="Theism">Theism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Animism" title="Animism">Animism</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Dualistic_cosmology" title="Dualistic cosmology">Dualism</a></li>
+<li><a href="/wiki/Henotheism" title="Henotheism">Henotheism</a></li>
+<li><a href="/wiki/Monotheism" title="Monotheism">Monotheism</a></li>
+<li><a href="/wiki/Nontheism" title="Nontheism">Nontheism</a></li>
+<li><a href="/wiki/Panentheism" title="Panentheism">Panentheism</a></li>
+<li><a href="/wiki/Pantheism" title="Pantheism">Pantheism</a></li>
+<li><a href="/wiki/Polytheism" title="Polytheism">Polytheism</a></li>
+<li><a href="/wiki/Transtheism" title="Transtheism">Transtheism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_studies" title="Religious studies">Religious<br />studies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Anthropology_of_religion" title="Anthropology of religion">Anthropology</a></li>
+<li><a href="/wiki/Cognitive_science_of_religion" title="Cognitive science of religion">Cognitive science</a></li>
+<li><a href="/wiki/Comparative_religion" title="Comparative religion">Comparative</a></li>
+<li><a href="/wiki/History_of_religion" title="History of religion">Development</a></li>
+<li><a href="/wiki/Evolutionary_origin_of_religions" title="Evolutionary origin of religions">Evolutionary origin</a></li>
+<li><a href="/wiki/Evolutionary_psychology_of_religion" title="Evolutionary psychology of religion">Evolutionary psychology</a></li>
+<li><a href="/wiki/History_of_religion" title="History of religion">History</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Philosophy</a></li>
+<li><a href="/wiki/Neuroscience_of_religion" title="Neuroscience of religion">Neurotheology</a></li>
+<li><a href="/wiki/Psychology_of_religion" title="Psychology of religion">Psychology</a></li>
+<li><a href="/wiki/Sociology_of_religion" title="Sociology of religion">Sociology</a></li>
+<li><a href="/wiki/Theology" title="Theology">Theology</a></li>
+<li><a href="/wiki/Theories_about_religions" title="Theories about religions">Theories</a></li>
+<li><a href="/wiki/Women_and_religion" title="Women and religion">Women</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Category:Religion_and_society" title="Category:Religion and society">Religion and<br />society</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Religion_and_agriculture" title="Religion and agriculture">Agriculture</a></li>
+<li><a href="/wiki/Religion_and_business" title="Religion and business">Business</a></li>
+<li><a href="/wiki/Clergy" title="Clergy">Clergy</a>
+<ul><li><a href="/wiki/Monasticism" title="Monasticism">monasticism</a></li>
+<li><a href="/wiki/Ordination" title="Ordination">ordination</a></li></ul></li>
+<li><a href="/wiki/Religious_conversion" title="Religious conversion">Conversion</a>
+<ul><li><a href="/wiki/Evangelism" title="Evangelism">evangelism</a></li>
+<li><a href="/wiki/Missionary" title="Missionary">missionary</a></li>
+<li><a href="/wiki/Proselytism" title="Proselytism">proselytism</a></li></ul></li>
+<li><a href="/wiki/Disability_and_religion" title="Disability and religion">Disability</a></li>
+<li><a href="/wiki/Religious_education" title="Religious education">Education</a></li>
+<li><a href="/wiki/Religious_fanaticism" title="Religious fanaticism">Fanaticism</a></li>
+<li><a href="/wiki/Freedom_of_religion" title="Freedom of religion">Freedom</a>
+<ul><li><a href="/wiki/Religious_pluralism" title="Religious pluralism">pluralism</a></li>
+<li><a href="/wiki/Syncretism" title="Syncretism">syncretism</a></li>
+<li><a href="/wiki/Toleration" title="Toleration">toleration</a></li>
+<li><a href="/wiki/Universalism" title="Universalism">universalism</a></li></ul></li>
+<li><a href="/wiki/Fundamentalism" title="Fundamentalism">Fundamentalism</a></li>
+<li><a href="/wiki/Growth_of_religion" title="Growth of religion">Growth</a></li>
+<li><a href="/wiki/Religion_and_happiness" class="mw-redirect" title="Religion and happiness">Happiness</a></li>
+<li><a href="/wiki/Homosexuality_and_religion" title="Homosexuality and religion">Homosexuality</a></li>
+<li><a href="/wiki/Minority_religion" title="Minority religion">Minorities</a></li>
+<li><a href="/wiki/National_church" title="National church">National church</a></li>
+<li><a href="/wiki/Importance_of_religion_by_country" title="Importance of religion by country">National religiosity levels</a></li>
+<li><a href="/wiki/Religiocentrism" title="Religiocentrism">Religiocentrism</a></li>
+<li><a href="/wiki/Political_science_of_religion" title="Political science of religion">Political science</a></li>
+<li><a href="/wiki/List_of_religious_populations" title="List of religious populations">Populations</a></li>
+<li><a href="/wiki/Schism" title="Schism">Schism</a></li>
+<li><a href="/wiki/Relationship_between_religion_and_science" title="Relationship between religion and science">Science</a></li>
+<li><a href="/wiki/State_religion" title="State religion">State</a></li>
+<li><a href="/wiki/Theocracy" title="Theocracy">Theocracy</a></li>
+<li><a href="/wiki/Vegetarianism_and_religion" title="Vegetarianism and religion">Vegetarianism</a></li>
+<li><a href="/wiki/Religion_and_video_games" title="Religion and video games">Video games</a></li>
+<li><a href="/wiki/Religious_violence" title="Religious violence">Violence</a>
+<ul><li><a href="/wiki/Religious_persecution" title="Religious persecution">persecution</a></li>
+<li><a href="/wiki/Religious_terrorism" title="Religious terrorism">terrorism</a></li>
+<li><a href="/wiki/Religious_war" title="Religious war">war</a></li></ul></li>
+<li><a href="/wiki/Wealth_and_religion" title="Wealth and religion">Wealth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Secularism" title="Secularism">Secularism</a> and<br /><a href="/wiki/Irreligion" title="Irreligion">irreligion</a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antireligion" title="Antireligion">Antireligion</a></li>
+<li><a href="/wiki/Deism" title="Deism">Deism</a></li>
+<li><a href="/wiki/Agnosticism" title="Agnosticism">Agnosticism</a></li>
+<li><a href="/wiki/Atheism" title="Atheism">Atheism</a></li>
+<li><a href="/wiki/Criticism_of_religion" title="Criticism of religion">Criticism</a></li>
+<li><a href="/wiki/LaVeyan_Satanism" title="LaVeyan Satanism">LaVeyan Satanism</a></li>
+<li><a href="/wiki/Positive_deconstruction" title="Positive deconstruction">Deconstruction</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic Judaism</a></li>
+<li><a href="/wiki/List_of_countries_by_irreligion" title="List of countries by irreligion">Irreligion by country</a></li>
+<li><a href="/wiki/Objectivism_(Ayn_Rand)" title="Objectivism (Ayn Rand)">Objectivism</a></li>
+<li><a href="/wiki/Secular_humanism" title="Secular humanism">Secular humanism</a></li>
+<li><a href="/wiki/Secular_theology" title="Secular theology">Secular theology</a></li>
+<li><a href="/wiki/Secularization" title="Secularization">Secularization</a></li>
+<li><a href="/wiki/Separation_of_church_and_state" title="Separation of church and state">Separation of church and state</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Unaffiliated</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;">Overviews<br />and <a href="/wiki/Category:Religion-related_lists" title="Category:Religion-related lists">lists</a></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Index_of_religion-related_articles" title="Index of religion-related articles">Index</a></li>
+<li><a href="/wiki/Outline_of_religion" title="Outline of religion">Outline</a></li>
+<li><a href="/wiki/Timeline_of_religion" title="Timeline of religion">Timeline</a></li>
+<li><a href="/wiki/Table_of_prophets_of_Abrahamic_religions" title="Table of prophets of Abrahamic religions">Abrahamic prophets</a></li>
+<li><a href="/wiki/List_of_people_who_have_been_considered_deities" title="List of people who have been considered deities">Deification</a></li>
+<li><a href="/wiki/Lists_of_deities" title="Lists of deities">Deities</a></li>
+<li><a href="/wiki/List_of_founders_of_religious_traditions" title="List of founders of religious traditions">Founders</a></li>
+<li><a href="/wiki/List_of_largest_peaceful_gatherings" title="List of largest peaceful gatherings">Mass gatherings</a></li>
+<li><a href="/wiki/List_of_new_religious_movements" title="List of new religious movements">New religious movements</a></li>
+<li><a href="/wiki/List_of_religious_organizations" title="List of religious organizations">Organizations</a></li>
+<li><a href="/wiki/List_of_religions_and_spiritual_traditions" title="List of religions and spiritual traditions">Religions and spiritual traditions</a></li>
+<li><a href="/wiki/List_of_religious_studies_scholars" title="List of religious studies scholars">Scholars</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="font-weight:bold;"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Religion" title="Category:Religion">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Religion" title="Portal:Religion">Portal</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1336
+Cached time: 20190925074906
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.612 seconds
+Real time usage: 0.849 seconds
+Preprocessor visited node count: 3046/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 175434/2097152 bytes
+Template argument size: 5138/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38818/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.207/10.000 seconds
+Lua memory usage: 6.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  621.042      1 -total
+ 24.30%  150.937      1 Template:Reflist
+ 12.82%   79.591      1 Template:Commons_category
+ 12.72%   79.022      1 Template:Religion_topics
+ 12.32%   76.508      7 Template:ISBN
+ 12.26%   76.127      3 Template:Cite_book
+ 11.95%   74.200      1 Template:Navbox_with_collapsible_groups
+ 10.94%   67.962      1 Template:Pp-protected
+  7.42%   46.063      5 Template:Navbox
+  5.39%   33.501      1 Template:Cleanup_rewrite
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14749516-0!canonical and timestamp 20190925074906 and revision id 917244458
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Native_American_religion&amp;oldid=917244458">https://en.wikipedia.org/w/index.php?title=Native_American_religion&amp;oldid=917244458</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Native_American_religion" title="Category:Native American religion">Native American religion</a></li><li><a href="/wiki/Category:Religion_in_North_America" title="Category:Religion in North America">Religion in North America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_webcite_links" title="Category:Webarchive template webcite links">Webarchive template webcite links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_unfit_url" title="Category:CS1 maint: unfit url">CS1 maint: unfit url</a></li><li><a href="/wiki/Category:Wikipedia_semi-protected_pages" title="Category:Wikipedia semi-protected pages">Wikipedia semi-protected pages</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_April_2019" title="Category:Use mdy dates from April 2019">Use mdy dates from April 2019</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_American_English_from_April_2019" title="Category:Use American English from April 2019">Use American English from April 2019</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_American_English" title="Category:All Wikipedia articles written in American English">All Wikipedia articles written in American English</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_rewrite_from_January_2018" title="Category:Wikipedia articles needing rewrite from January 2018">Wikipedia articles needing rewrite from January 2018</a></li><li><a href="/wiki/Category:All_articles_needing_rewrite" title="Category:All articles needing rewrite">All articles needing rewrite</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Native+American+religion" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Native+American+religion" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Native_American_religion" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Native_American_religion" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Native_American_religion">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=Native_American_religion&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Native_American_religion&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Native_American_religion" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Native_American_religion" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Native_American_religion&amp;oldid=917244458" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Native_American_religion&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5162345" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Native_American_religion&amp;id=917244458" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Native_American_religion" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Native+American+religion">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Native+American+religion&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Native_American_religion&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D8%AF%D9%8A%D8%A7%D9%86_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9_%D8%A3%D8%B5%D9%84%D9%8A%D8%A9" title="أديان أمريكية أصلية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Religiones_nativas_americanas" title="Religiones nativas americanas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Az_amerikai_%C5%91slak%C3%B3k_vall%C3%A1sa" title="Az amerikai őslakók vallása – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ruchy_religijne_Indian" title="Ruchy religijne Indian – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Indianska_religioner" title="Indianska religioner – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E6%B4%B2%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%AE%97%E6%95%99" title="美洲原住民宗教 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5162345#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 23:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Native_American_religion&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.612","walltime":"0.849","ppvisitednodes":{"value":3046,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":175434,"limit":2097152},"templateargumentsize":{"value":5138,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38818,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  621.042      1 -total"," 24.30%  150.937      1 Template:Reflist"," 12.82%   79.591      1 Template:Commons_category"," 12.72%   79.022      1 Template:Religion_topics"," 12.32%   76.508      7 Template:ISBN"," 12.26%   76.127      3 Template:Cite_book"," 11.95%   74.200      1 Template:Navbox_with_collapsible_groups"," 10.94%   67.962      1 Template:Pp-protected","  7.42%   46.063      5 Template:Navbox","  5.39%   33.501      1 Template:Cleanup_rewrite"]},"scribunto":{"limitreport-timeusage":{"value":"0.207","limit":"10.000"},"limitreport-memusage":{"value":6442318,"limit":52428800}},"cachereport":{"origin":"mw1336","timestamp":"20190925074906","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Native American religion","url":"https:\/\/en.wikipedia.org\/wiki\/Native_American_religion","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5162345","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5162345","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-17T18:37:08Z","dateModified":"2019-09-22T23:19:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/eb\/Bear_Butte_Scan_0001.jpg","headline":"the spiritual practices of the indigenous peoples of the Americas"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1323"});});</script>
+</body>
+</html>

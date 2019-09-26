@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cariban languages - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cariban_languages","wgTitle":"Cariban languages","wgCurRevisionId":886238193,"wgRevisionId":886238193,"wgArticleId":568770,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with unsourced quotes","All articles with unsourced statements","Articles with unsourced statements from July 2018","Cariban languages","Language families","Indigenous languages of the South American Northeast","Languages of Venezuela","Indigenous languages of South America"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cariban_languages","wgRelevantArticleId":568770,"wgRequestId":"XYuEngpAICEAAFYruj4AAABY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Carib_languages","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Cariban_languages","wgWikibaseItemId":"Q33090","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0}
+;RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cariban_languages.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cariban_languages"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cariban_languages&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cariban_languages&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cariban_languages"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cariban_languages rootpage-Cariban_languages skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cariban languages</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Carib_languages&amp;redirect=no" class="mw-redirect" title="Carib languages">Carib languages</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Languages_of_the_Caribbean" title="Languages of the Caribbean">Languages of the Caribbean</a>.</div>
+<table class="infobox" style="width:22em;width:22em;"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:  #c0dde6;">Cariban</th></tr><tr><th scope="row">Geographic<br />distribution</th><td>Mostly within north-central South America, with extensions in the southern Caribbean and in Central America.</td></tr><tr><th scope="row"><a href="/wiki/Language_family" title="Language family">Linguistic classification</a></th><td><a href="/wiki/Je%E2%80%93Tupi%E2%80%93Carib" class="mw-redirect" title="Je–Tupi–Carib">Je–Tupi–Carib</a>?<ul style="line-height:100%; margin-left:15px;padding-left:0"><li><b>Cariban</b></li></ul></td></tr><tr><th scope="row"><a href="/wiki/Glottolog" title="Glottolog">Glottolog</a></th><td><samp><a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/cari1283">cari1283</a></samp><sup id="cite_ref-Glottolog_1-0" class="reference"><a href="#cite_note-Glottolog-1">&#91;1&#93;</a></sup></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Cariban_languages.png" class="image"><img alt="Cariban languages.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cariban_languages.png/300px-Cariban_languages.png" decoding="async" width="300" height="206" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cariban_languages.png/450px-Cariban_languages.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cariban_languages.png/600px-Cariban_languages.png 2x" data-file-width="916" data-file-height="628" /></a><div style="text-align:left;">Present location of Cariban languages, c. 2000, and probable extent in the 16th century.</div></td></tr></tbody></table>
+<p>The <b>Cariban languages</b> are an indigenous <a href="/wiki/Language_family" title="Language family">language family</a> of <a href="/wiki/South_America" title="South America">South America</a>. They are widespread across northernmost South America, from the mouth of the <a href="/wiki/Amazon_River" title="Amazon River">Amazon River</a> to the <a href="/wiki/Colombia" title="Colombia">Colombian</a> <a href="/wiki/Andes" title="Andes">Andes</a> but also appear in central Brazil. Cariban languages are relatively closely related. There are two to three dozen of them, depending on what is considered a dialect. Most are still spoken but often by only a few hundred speakers; the only one with more than a few thousand is <a href="/wiki/Macushi_language" title="Macushi language">Macushi</a>, which has 30,000. The Cariban family is well known in the linguistic world partly because <a href="/wiki/Hixkaryana" class="mw-redirect" title="Hixkaryana">Hixkaryana</a>'s default <a href="/wiki/Word_order" title="Word order">word order</a> is <a href="/wiki/Object%E2%80%93verb%E2%80%93subject" title="Object–verb–subject">object–verb–subject</a>, which had previously not been thought to exist in human language.
+</p><p>Some years prior to the arrival of the first <a href="/wiki/Spanish_people" class="mw-redirect" title="Spanish people">Spanish</a> <a href="/wiki/Explorer" class="mw-redirect" title="Explorer">explorers</a>, Caribs invaded and occupied the <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a> and killed, displaced or assimilated the <a href="/wiki/Arawaks" class="mw-redirect" title="Arawaks">Arawaks</a> who had inhabited the islands. The resulting language was Carib in name but largely Arawak in substance. That was because the invading Carib men killed Arawak men and took Arawak wives, who then passed their language on to the children. For a time, Arawak was spoken by women and children and Carib by adult men, but the situation was unstable. As each generation of Carib-Arawak boys reached adulthood, they acquired less Carib until only basic vocabulary and a few grammatical elements were left. That "<a href="/wiki/Island_Carib_language" title="Island Carib language">Island Carib</a>" became extinct in the <a href="/wiki/Lesser_Antilles" title="Lesser Antilles">Lesser Antilles</a> in the 1920s but survives in the form of <a href="/wiki/Garifuna_language" title="Garifuna language">Garífuna</a>, or "Black Carib," in <a href="/wiki/Central_America" title="Central America">Central America</a>. The gender distinction has dwindled to only a handful of words. <a href="/wiki/Dominica" title="Dominica">Dominica</a> is the only island in the eastern <a href="/wiki/Caribbean" title="Caribbean">Caribbean</a> to retain some of its <a href="/wiki/Pre-Columbian" class="mw-redirect" title="Pre-Columbian">pre-Columbian</a> population, the <a href="/wiki/Island_Carib_people" class="mw-redirect" title="Island Carib people">Carib</a> Indians, about 3,000 of whom live on the island's east coast.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Family_division"><span class="tocnumber">1</span> <span class="toctext">Family division</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Previous_classifications"><span class="tocnumber">1.1</span> <span class="toctext">Previous classifications</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Gildea_(2012)"><span class="tocnumber">1.2</span> <span class="toctext">Gildea (2012)</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Genetic_relations"><span class="tocnumber">2</span> <span class="toctext">Genetic relations</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Family_division">Family division</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=1" title="Edit section: Family division">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cariban languages are closely related, and in many cases where a language is more distinct, this is due to influence from neighboring languages rather than an indication that it is not closely related. Kaufman 2007 says, "Except for Opon, Yukpa, Pimenteira and Palmela (and possibly Panare), the Cariban languages are not very diverse phonologically and lexically (though more so than Romance, for example)."<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Inline_citation#When_you_must_use_inline_citations" title="Wikipedia:Inline citation"><span title="The text near this tag needs a citation. (October 2014)">This quote needs a citation</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Previous_classifications">Previous classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=2" title="Edit section: Previous classifications">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Good data has been collected around ca. 2000 on most Cariban languages; classifications prior to that time (including Kaufman 2007, which relies on them) are unreliable. 
+Several such classifications are seen; the one shown here divides Cariban into seven branches. A traditional geographic classification into northern and southern branches is cross referenced with (N) or (S) after each language.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li><b><a href="/wiki/Galibi_language" class="mw-redirect" title="Galibi language">Galibi</a></b> [<a href="/wiki/Kali%C3%B1a" class="mw-redirect" title="Kaliña">Kaliña</a>] (N)</li>
+<li><b>Guiana Carib</b> (Taranoan):
+<ul><li>Trio: <a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyó</a>–<a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyó</a>, <a href="/wiki/Salum%C3%A1_language" title="Salumá language">Salumá</a> (N), <a href="/wiki/Carijona_language" title="Carijona language">Carijona</a>–<a href="/wiki/Hian%C3%A1koto_language" class="mw-redirect" title="Hianákoto language">Hianákoto</a> (S)</li>
+<li>Kashuyana: <a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a> (N), <a href="/wiki/Kaxui%C3%A2na_language" class="mw-redirect" title="Kaxuiâna language">Kaxuiâna</a> [Warikyana] <i>(†)</i> (S)</li>
+<li>Waiwai: <a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryána</a> (S), <a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a> (N)
+<dl><dd>Kaufman breaks this up into its constituent branches</dd></dl></li></ul></li>
+<li><b>North Amazonian Carib</b>:
+<ul><li>Yawaperi: <a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Atruahí</a> [Atrowari, Waimiri] (N)</li>
+<li>Pemong: <a href="/wiki/Macushi_language" title="Macushi language">Macushi</a>–<a href="/wiki/Pemon_language" title="Pemon language">Pemon</a> [Arekuna], <a href="/wiki/Akawaio_language" class="mw-redirect" title="Akawaio language">Akawaio</a>–<a href="/wiki/Patamona_language" class="mw-redirect" title="Patamona language">Patamona</a> (= Kapong, Ingariko) (N)</li>
+<li>Paravilyana: <a href="/wiki/Pawishiana_language" title="Pawishiana language">Pawishiana</a> <i>(†)</i>
+<dl><dd>Kaufman breaks this up into its constituent branches, adding <a href="/wiki/Purukot%C3%B3_language" title="Purukotó language">Purukotó</a> <i>(†)</i> to Pemong; <a href="/wiki/Boanar%C3%AD_language" title="Boanarí language">Boanarí</a> <i>(†)</i> to Atruahí; <a href="/wiki/Paravilyana_language" title="Paravilyana language">Paravilyana</a> <i>(†)</i> and <a href="/wiki/Sapar%C3%A1_language" title="Sapará language">Sapará</a> <i>(†)</i> to Pawishiana</dd></dl></li></ul></li>
+<li><b>Central Carib</b>:
+<ul><li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a>–<a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a> (N)</li>
+<li><a href="/wiki/Maquiritari_language" class="mw-redirect" title="Maquiritari language">Maquiritari</a> [Dekwana] (S)</li>
+<li><a href="/wiki/Mapoyo_language" class="mw-redirect" title="Mapoyo language">Mapoyo</a>–<a href="/wiki/Yabarana_language" class="mw-redirect" title="Yabarana language">Yabarana</a>–<a href="/wiki/P%C3%A9mono_language" class="mw-redirect" title="Pémono language">Pémono</a> (N)
+<dl><dd>Kaufman adds <a href="/wiki/Chaima_language" class="mw-redirect" title="Chaima language">Chaima</a> [Kumaná]; <a href="/wiki/Arakaj%C3%BA_language" title="Arakajú language">Arakajú</a> <i>(†)</i> (to Wayana); <a href="/wiki/Yao_language_(Carib)" class="mw-redirect" title="Yao language (Carib)">Yao</a> <i>(†)</i> and <a href="/wiki/Tiverikoto_language" title="Tiverikoto language">Tiverikoto</a> <i>(†)</i>; <a href="/wiki/Wajumar%C3%A1_language" title="Wajumará language">Wajumará</a> <i>(†)</i> (to Makiritare)</dd>
+<dd><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a> is close to Mapoyo</dd></dl></li></ul></li>
+<li><b>South Amazonian Carib</b>:
+<ul><li>Bakairi: <a href="/wiki/Bakair%C3%AD_language" class="mw-redirect" title="Bakairí language">Bakairí</a>, <a href="/wiki/Kuik%C3%BAro_language" class="mw-redirect" title="Kuikúro language">Kuikúro</a> [Kalapálo, Amonap], <a href="/wiki/Matipuhy_language" class="mw-redirect" title="Matipuhy language">Matipuhy</a> [Nahukwa] <i>(†)</i> (S)</li>
+<li>Arara: <a href="/wiki/Txik%C3%A3o_language" class="mw-redirect" title="Txikão language">Txikão</a> [Ikpeng, Chikaon], <a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arára</a> [Pará] (N)
+<dl><dd>To Arara Kaufman adds extinct <a href="/wiki/Juma_language_(Carib)" title="Juma language (Carib)">Juma</a> <i>(†)</i>, <a href="/wiki/Apiak%C3%A1-Apingi_language" class="mw-redirect" title="Apiaká-Apingi language">Apiaká-Apingi</a> <i>(†)</i>, <a href="/wiki/Yarum%C3%A1_language_(Carib)" title="Yarumá language (Carib)">Yarumá</a> <i>(†)</i></dd></dl></li></ul></li>
+<li><b>Yukpa</b>:
+<ul><li><a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japrería</a> (N)</li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a> (N)</li>
+<li><a href="/wiki/Coyaima_language" class="mw-redirect" title="Coyaima language">Coyaima</a> (N) <i>(†)</i></li></ul></li>
+<li><b><a href="/wiki/Panare_language" title="Panare language">Panare</a></b> (N)</li>
+<li><b><a href="/wiki/Opon_language" class="mw-redirect" title="Opon language">Opon</a></b> [Opón-Karare] <i>(†)</i></li></ul>
+<p>Unclassified: <a href="/wiki/Pimenteira_language" title="Pimenteira language">Pimenteira</a> <i>(†)</i>, <a href="/wiki/Palmela_language" title="Palmela language">Palmela</a> <i>(†)</i>.
+</p><p>The extinct <a href="/wiki/Patagon_language_(Peru)" class="mw-redirect" title="Patagon language (Peru)">Patagón de Perico</a> language of northern Peru also appears to have been a Cariban language, perhaps close to Carijona. <a href="/wiki/Yao_language_(Carib)" class="mw-redirect" title="Yao language (Carib)">Yao</a> is so poorly attested that Gildea believes it may never be classified.
+</p>
+<h3><span id="Gildea_.282012.29"></span><span class="mw-headline" id="Gildea_(2012)">Gildea (2012)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=3" title="Edit section: Gildea (2012)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As of Gildea (2012), there had not yet been time to fully reclassify the Cariban languages based on the new data. The list here is therefore tentative, though an improvement over the one above; the most secure branches are listed first, and only two of the extinct languages are addressed.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<ul><li><b>Parukotoan</b>
+<ul><li><a href="/wiki/Sikiana_language" title="Sikiana language">Katxúyana</a> (Shikuyana, <i>(†)</i> Warikyana)</li>
+<li>Waiwai: <a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a> (Wabui, Tunayana), <a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li></ul></li>
+<li><b>Pekodian</b>
+<ul><li><a href="/wiki/Bakair%C3%AD_language" class="mw-redirect" title="Bakairí language">Bakairí</a> (apparently including <a href="/wiki/Kuikuro_language" title="Kuikuro language">Kuikuro</a>)</li>
+<li>Arara: <a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arara</a> (Parirí), <a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpéng</a> (Txikão)</li></ul></li>
+<li><b>Venezuelan Carib</b>
+<ul><li>Pemóng–Panare
+<ul><li>Pemóng: <a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a> (Akawaio, Patamuna, Ingarikó), <a href="/wiki/Macushi_language" title="Macushi language">Makushi</a>, <a href="/wiki/Pemon_language" title="Pemon language">Pemón</a> (Taurepang, Kamarakóto, Arekuna)</li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li></ul></li>
+<li>Mapoyo–Tamanaku
+<ul><li><i>(†)</i> <a href="/wiki/Cumanagota_language" class="mw-redirect" title="Cumanagota language">Kumaná</a> (Chaima, Cumanagota)</li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yawarana</a> (Mapoyo, Wanai, Yawarana, Pémono)</li>
+<li><i>(†)</i> <a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></li></ul></li></ul></li>
+<li><b>Nahukwa</b>: <a href="/wiki/Amonap_language" title="Amonap language">Kuikúro, Kalapalo</a></li>
+<li><b>Guianan Carib</b>
+<ul><li><a href="/wiki/Galibi_language" class="mw-redirect" title="Galibi language">Kari'nja</a> (Carib, Kalinya, Cariña, Galibi)</li>
+<li><a href="/wiki/Maquiritari_language" class="mw-redirect" title="Maquiritari language">Makiritare</a> (De'kwana, Maiongong, Ye'kwana)</li>
+<li>Taranoan
+<ul><li>Tiriyo: <a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyo</a>, <a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyo</a>, Trio</li>
+<li><a href="/wiki/Carijona_language" title="Carijona language">Karihona</a></li></ul></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul></li></ul>
+<p>Unclassified:
+</p>
+<dl><dd><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></dd>
+<dd><a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Waimirí Atroarí</a></dd>
+<dd>Yukpa: <a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a>, <a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japréria</a></dd></dl>
+<h2><span class="mw-headline" id="Genetic_relations">Genetic relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=4" title="Edit section: Genetic relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cariban languages share irregular morphology with the <a href="/wiki/G%C3%AA_languages" class="mw-redirect" title="Gê languages">Ge</a> and <a href="/wiki/Tupi_languages" class="mw-redirect" title="Tupi languages">Tupi</a> families, and Ribeiro connects them all in a <a href="/wiki/Je%E2%80%93Tupi%E2%80%93Carib" class="mw-redirect" title="Je–Tupi–Carib">Je–Tupi–Carib</a> family.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2018)">citation needed</span></a></i>&#93;</sup> Meira, Gildea, &amp; Hoff (2010) note that likely morphemes in proto-Tupian and proto-Cariban are good candidates for being cognates, but that work so far is insufficient to make definitive statements.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_Spanish_words_of_Indigenous_American_Indian_origin" title="List of Spanish words of Indigenous American Indian origin">List of Spanish words of Indigenous American Indian origin</a></li>
+<li><a href="/wiki/Arawak_peoples" class="mw-redirect" title="Arawak peoples">Arawak peoples</a></li>
+<li><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan languages</a></li>
+<li><a href="/wiki/Carib_language" title="Carib language">Carib language</a></li>
+<li><a href="/wiki/Ta%C3%ADno_language" title="Taíno language">Taíno language</a></li>
+<li><a href="/wiki/Garifuna_language" title="Garifuna language">Garifuna language</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Glottolog-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Glottolog_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2017). <a rel="nofollow" class="external text" href="http://glottolog.org/resource/languoid/id/cari1283">"Cariban"</a>. <i><a href="/wiki/Glottolog" title="Glottolog">Glottolog 3.0</a></i>. Jena, Germany: Max Planck Institute for the Science of Human History.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Cariban&amp;rft.btitle=Glottolog+3.0&amp;rft.place=Jena%2C+Germany&amp;rft.pub=Max+Planck+Institute+for+the+Science+of+Human+History&amp;rft.date=2017&amp;rft_id=http%3A%2F%2Fglottolog.org%2Fresource%2Flanguoid%2Fid%2Fcari1283&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACariban+languages" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Desmond Derbyshire, 1999. "Carib". In Dixon &amp; Aikhenvald, eds., <i>The Amazonian Languages</i>. CUP.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Spike Gildea, 2012, "Linguistic studies in the Cariban family", in Campbell &amp; Grondona, eds, <i>The Indigenous Languages of South America: A Comprehensive Guide</i></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cariban_languages&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.etnolinguistica.org">Etnolinguistica.Org: online resources on native South American languages</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120314052630/http://wold.livingsources.org/vocabulary/38">Ka'lina (Carib) Vocabulary List</a> (from the World Loanword Database)</li></ul>
+<div style="clear:both;"></div>
+<div role="navigation" class="navbox" aria-labelledby="Cariban_languages" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cariban_languages" title="Template:Cariban languages"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cariban_languages" title="Template talk:Cariban languages"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cariban_languages&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cariban_languages" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Cariban languages</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parukotoan</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hixkaryana_language" title="Hixkaryana language">Hixkaryana</a></li>
+<li><i><a href="/wiki/Sikiana_language" title="Sikiana language">Katxúyana</a></i></li>
+<li><a href="/wiki/Waiwai_language" title="Waiwai language">Waiwai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Pekodian</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Par%C3%A1_Ar%C3%A1ra_language" title="Pará Arára language">Arara</a></li>
+<li><a href="/wiki/Bakairi_language" title="Bakairi language">Bakairí</a>
+<ul><li><small><a href="/wiki/Kuikuro_language" title="Kuikuro language">Kuikuro</a></small></li></ul></li>
+<li><a href="/wiki/Ikpeng_language" title="Ikpeng language">Ikpéng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venezuelan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Pemóng–Panare</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Makushi</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemón</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mapoyo–Tamanaku</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cumanagota_language" class="mw-redirect" title="Cumanagota language">Kumaná</a></i></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yawarana</a></li>
+<li><i><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Guianan Carib</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Kari'nja</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Wayana_language" title="Wayana language">Wayana</a></li></ul>
+  </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Taranoan" scope="row" class="navbox-group" style="width:1%">Taranoan</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Akuriy%C3%B3_language" class="mw-redirect" title="Akuriyó language">Akuriyo</a></li>
+<li><a href="/wiki/Carijona_language" title="Carijona language">Karihona</a></li>
+<li><a href="/wiki/Tiriy%C3%B3_language" title="Tiriyó language">Tiriyo</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unclassified</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apala%C3%AD_language" title="Apalaí language">Apalaí</a></li>
+<li><a href="/wiki/Japrer%C3%ADa_language" class="mw-redirect" title="Japrería language">Japréria</a></li>
+<li><a href="/wiki/Atruah%C3%AD_language" class="mw-redirect" title="Atruahí language">Waimirí Atroarí</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Venezuela" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Languages_of_Venezuela" title="Template:Languages of Venezuela"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Languages_of_Venezuela" title="Template talk:Languages of Venezuela"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Languages_of_Venezuela&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Languages_of_Venezuela" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/35px-Flag_of_Venezuela.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/45px-Flag_of_Venezuela.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Languages_of_Venezuela" title="Languages of Venezuela">Languages</a> of <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Official language</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Venezuelan_Spanish" title="Venezuelan Spanish">Spanish</a>
+<ul><li><a href="/wiki/Llanero_Spanish" title="Llanero Spanish">Llanero</a></li>
+<li><a href="/wiki/Maracucho_Spanish" title="Maracucho Spanish">Maracucho</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Indigenous<br />languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arawak_language" title="Arawak language">Arawak</a></li>
+<li><a href="/wiki/Baniwa_of_I%C3%A7ana" class="mw-redirect" title="Baniwa of Içana">Baniwa</a></li>
+<li><a href="/wiki/Caquetio_language" title="Caquetio language">Caquetio</a></li>
+<li><a href="/wiki/Mandawaca_language" title="Mandawaca language">Mandawaca</a></li>
+<li><a href="/wiki/Paraujano_language" title="Paraujano language">Paraujano</a></li>
+<li><a href="/wiki/Piapoco_language" title="Piapoco language">Piapoco</a></li>
+<li><a href="/wiki/Warekena_language" title="Warekena language">Warekena</a></li>
+<li><a href="/wiki/Wayuu_language" title="Wayuu language">Wayuu</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arutani-Sape_languages" class="mw-redirect" title="Arutani-Sape languages">Arutani-Sape</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arutani_language" title="Arutani language">Arutani</a></li>
+<li><a href="/wiki/Sap%C3%A9_language" title="Sapé language">Sapé</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Cariban</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carib_language" title="Carib language">Carib</a></li>
+<li><a href="/wiki/Japreria_language" title="Japreria language">Japreria</a></li>
+<li><a href="/wiki/Kap%C3%B3ng_language" title="Kapóng language">Kapóng</a></li>
+<li><a href="/wiki/Macushi_language" title="Macushi language">Macushi</a></li>
+<li><a href="/wiki/Mapoyo-Yabarana_language" title="Mapoyo-Yabarana language">Mapoyo-Yabarana</a></li>
+<li><a href="/wiki/Panare_language" title="Panare language">Panare</a></li>
+<li><a href="/wiki/Pemon_language" title="Pemon language">Pemon</a></li>
+<li><a href="/wiki/Sikiana_language" title="Sikiana language">Sikiana</a></li>
+<li><a href="/wiki/Tamanaku_language" title="Tamanaku language">Tamanaku</a></li>
+<li><a href="/wiki/Ye%27kuana_language" title="Ye&#39;kuana language">Ye'kuana</a></li>
+<li><a href="/wiki/Yukpa_language" title="Yukpa language">Yukpa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chibchan_languages" title="Chibchan languages">Chibchan</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bar%C3%AD_language" title="Barí language">Barí</a></li>
+<li><a href="/wiki/Uwa_language" title="Uwa language">Uwa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Guahiban_languages" class="mw-redirect" title="Guahiban languages">Guahiban</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cuiba_language" title="Cuiba language">Cuiba</a></li>
+<li><a href="/wiki/Guahibo_language" title="Guahibo language">Guahibo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jirajaran_languages" title="Jirajaran languages">Jirajaran</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ayoman_language" title="Ayoman language">Ayoman</a></li>
+<li><a href="/wiki/Gayon_language" title="Gayon language">Gayon</a></li>
+<li><a href="/wiki/Jirajara_language" title="Jirajara language">Jirajara</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Timotean_languages" title="Timotean languages">Timotean</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mucuch%C3%AD_language" title="Mucuchí language">Mucuchí</a></li>
+<li><a href="/wiki/Timote_language" title="Timote language">Timote</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Betoi_language" title="Betoi language">Betoi</a></li>
+<li><a href="/wiki/Maku-Auari_language" title="Maku-Auari language">Maku-Auari</a></li>
+<li><a href="/wiki/Nheengatu_language" class="mw-redirect" title="Nheengatu language">Nheengatu</a></li>
+<li><a href="/wiki/Ninam_language" title="Ninam language">Ninam</a></li>
+<li><a href="/wiki/Sanum%C3%A1_language" title="Sanumá language">Sanumá</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Yaruro_language" title="Yaruro language">Yaruro</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-Native<br />languages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/German_language" title="German language">German</a>
+<ul><li><a href="/wiki/Colonia_Tovar_dialect" title="Colonia Tovar dialect">Colonia Tovar</a></li></ul></li>
+<li><a href="/wiki/Italian_language_in_Venezuela" title="Italian language in Venezuela">Italian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sign languages</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Venezuelan_Sign_Language" title="Venezuelan Sign Language">Venezuelan Sign Language</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Primary_language_families" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Language_families" title="Template:Language families"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Language_families" title="Template talk:Language families"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Language_families&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Primary_language_families" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_language_families" title="List of language families">Primary language families</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_Africa" title="Languages of Africa">Africa</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afro-Asiatic</a></b></li>
+<li><a href="/wiki/Arab_sign-language_family" title="Arab sign-language family">Arabic Sign</a></li>
+<li><b><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></b></li>
+<li><a href="/wiki/BANZSL" title="BANZSL">Banzsl</a></li>
+<li><b><a href="/wiki/French_Sign_Language_family" title="French Sign Language family">Francosign</a></b></li>
+<li><a href="/wiki/Khoe%E2%80%93Kwadi_languages" title="Khoe–Kwadi languages">Khoe–Kwadi</a></li>
+<li><a href="/wiki/Kx%27a_languages" class="mw-redirect" title="Kx&#39;a languages">Kx'a</a></li>
+<li><b><a href="/wiki/Niger%E2%80%93Congo_languages" title="Niger–Congo languages">Niger–Congo</a></b></li>
+<li><b><a href="/wiki/Nilo-Saharan_languages" title="Nilo-Saharan languages">Nilo-Saharan</a></b>?</li>
+<li><a href="/wiki/Tanzanian_sign_languages" title="Tanzanian sign languages">Tanzanian Sign</a>?</li>
+<li><a href="/wiki/Tuu_languages" title="Tuu languages">Tuu</a></li>
+<li><a href="/wiki/Mande_languages" title="Mande languages">Mande</a>?</li>
+<li><a href="/wiki/Songhay_languages" title="Songhay languages">Songhay</a>?</li>
+<li><a href="/wiki/Ijaw_languages" title="Ijaw languages">Ijaw</a>?</li>
+<li><a href="/wiki/Ubangian_languages" title="Ubangian languages">Ubangian</a>?</li>
+<li><a href="/wiki/Kadu_languages" title="Kadu languages">Kadu</a>?</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bangime_language" title="Bangime language">Bangime</a></li>
+<li><a href="/wiki/Hadza_language" title="Hadza language">Hadza</a></li>
+<li><a href="/wiki/Jalaa_language" title="Jalaa language">Jalaa</a></li>
+<li><a href="/wiki/Sandawe_language" title="Sandawe language">Sandawe</a></li>
+<li><a href="/wiki/Laal_language" title="Laal language">Laal</a>?</li>
+<li><a href="/wiki/Shabo_language" title="Shabo language">Shabo</a>?</li>
+<li><b><a href="/wiki/List_of_sign_languages#Africa" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Languages_of_Europe" title="Languages of Europe">Europe</a><br />and <a href="/wiki/Languages_of_Asia" title="Languages of Asia">Asia</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Afroasiatic_languages" title="Afroasiatic languages">Afro-Asiatic</a></b></li>
+<li><a href="/wiki/Ainu_languages" title="Ainu languages">Ainu</a></li>
+<li><a href="/wiki/Arab_sign-language_family" title="Arab sign-language family">Arabic Sign</a></li>
+<li><b><a href="/wiki/Austroasiatic_languages" title="Austroasiatic languages">Austroasiatic</a></b></li>
+<li><b><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></b></li>
+<li><a href="/wiki/BANZSL" title="BANZSL">Banzsl</a></li>
+<li><a href="/wiki/Chukotko-Kamchatkan_languages" title="Chukotko-Kamchatkan languages">Chukotko-Kamchatkan</a></li>
+<li><b><a href="/wiki/Dravidian_languages" title="Dravidian languages">Dravidian</a></b></li>
+<li><a href="/wiki/Eskimo%E2%80%93Aleut_languages" title="Eskimo–Aleut languages">Eskimo–Aleut</a></li>
+<li><b><a href="/wiki/French_Sign_Language_family" title="French Sign Language family">Francosign</a></b></li>
+<li><a href="/wiki/German_Sign_Language_family" title="German Sign Language family">Germanosign</a></li>
+<li><i><a href="/wiki/Great_Andamanese_languages" title="Great Andamanese languages">Great Andamanese</a></i></li>
+<li><b><a href="/wiki/Hmong%E2%80%93Mien_languages" title="Hmong–Mien languages">Hmong–Mien</a></b></li>
+<li><i><a href="/wiki/Hurro-Urartian_languages" title="Hurro-Urartian languages">Hurro-Urartian</a></i></li>
+<li><b><a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European</a></b></li>
+<li><a href="/wiki/Indo-Pakistani_Sign_Language" title="Indo-Pakistani Sign Language">Indo-Pakistani Sign</a></li>
+<li><a href="/wiki/Japonic_languages" title="Japonic languages">Japonic</a></li>
+<li><a href="/wiki/Kartvelian_languages" title="Kartvelian languages">Kartvelian</a></li>
+<li><a href="/wiki/Koreanic_languages" title="Koreanic languages">Koreanic</a></li>
+<li><b><a href="/wiki/Kra%E2%80%93Dai_languages" title="Kra–Dai languages">Kra–Dai</a></b></li>
+<li><a href="/wiki/Mongolic_languages" title="Mongolic languages">Mongolic</a></li>
+<li><a href="/wiki/Nivkh_languages" title="Nivkh languages">Nivkh</a></li>
+<li><b><a href="/wiki/Northeast_Caucasian_languages" title="Northeast Caucasian languages">Northeast Caucasian</a></b></li>
+<li><a href="/wiki/Northwest_Caucasian_languages" title="Northwest Caucasian languages">Northwest Caucasian</a></li>
+<li><a href="/wiki/Ongan_languages" title="Ongan languages">Ongan</a></li>
+<li><a href="/wiki/Old_Chiangmai%E2%80%93Bangkok_Sign_Language_family" title="Old Chiangmai–Bangkok Sign Language family">Original Thai Sign</a></li>
+<li><b><a href="/wiki/Sino-Tibetan_languages" title="Sino-Tibetan languages">Sino-Tibetan</a></b></li>
+<li><a href="/wiki/Japanese_Sign_Language_family" title="Japanese Sign Language family">Shuwa gozoku</a></li>
+<li><a href="/wiki/Tungusic_languages" title="Tungusic languages">Tungusic</a></li>
+<li><b><a href="/wiki/Turkic_languages" title="Turkic languages">Turkic</a></b></li>
+<li><i><a href="/wiki/Tyrsenian_languages" title="Tyrsenian languages">Tyrsenian</a></i></li>
+<li><b><a href="/wiki/Uralic_languages" title="Uralic languages">Uralic</a></b></li>
+<li><a href="/wiki/Yeniseian_languages" title="Yeniseian languages">Yeniseian</a></li>
+<li><a href="/wiki/Yukaghir_languages" title="Yukaghir languages">Yukaghir</a></li>
+<li><a href="/wiki/Chinese_Sign_Language" title="Chinese Sign Language">Zhōngguó Shǒuyǔ</a></li>
+<li><a href="/wiki/Digaro_languages" title="Digaro languages">Digaro</a>?</li>
+<li><a href="/wiki/Hrusish_languages" title="Hrusish languages">Hrusish</a>?</li>
+<li><a href="/wiki/Kho-Bwa_languages" title="Kho-Bwa languages">Kho-Bwa</a>?</li>
+<li><a href="/wiki/Miju_languages" title="Miju languages">Miju</a>?</li>
+<li><a href="/wiki/Siangic_languages" title="Siangic languages">Siangic</a>?</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Basque_language" title="Basque language">Basque</a></li>
+<li><a href="/wiki/Burushaski" title="Burushaski">Burushaski</a></li>
+<li><i><a href="/wiki/Elamite_language" title="Elamite language">Elamite</a></i></li>
+<li><i><a href="/wiki/Hattic_language" title="Hattic language">Hattic</a></i></li>
+<li><a href="/wiki/Kusunda_language" title="Kusunda language">Kusunda</a></li>
+<li><a href="/wiki/Nihali_language" title="Nihali language">Nihali</a></li>
+<li><i><a href="/wiki/Sumerian_language" title="Sumerian language">Sumerian</a></i></li>
+<li><b><a href="/wiki/List_of_sign_languages#Asia/Pacific" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Papuan_languages" title="Papuan languages">New Guinea</a><br />and the Pacific</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arai%E2%80%93Samaia_languages" title="Arai–Samaia languages">Arai–Samaia</a></li>
+<li><a href="/wiki/Arafundi%E2%80%93Piawi_languages" title="Arafundi–Piawi languages">Arafundi–Piawi</a></li>
+<li><b><a href="/wiki/Austronesian_languages" title="Austronesian languages">Austronesian</a></b></li>
+<li><a href="/wiki/Baining_languages" title="Baining languages">Baining</a></li>
+<li><a href="/wiki/Binanderean%E2%80%93Goilalan_languages" title="Binanderean–Goilalan languages">Binanderean–Goilalan</a></li>
+<li><a href="/wiki/Border_languages_(New_Guinea)" title="Border languages (New Guinea)">Border</a></li>
+<li><a href="/wiki/Bulaka_River_languages" title="Bulaka River languages">Bulaka River</a></li>
+<li><a href="/wiki/Central_Solomon_languages" title="Central Solomon languages">Central Solomons</a></li>
+<li><a href="/wiki/Chimbu%E2%80%93Wahgi_languages" title="Chimbu–Wahgi languages">Chimbu–Wahgi</a></li>
+<li><a href="/wiki/Doso%E2%80%93Turumsa_languages" title="Doso–Turumsa languages">Doso–Turumsa</a></li>
+<li><a href="/wiki/East_Geelvink_Bay_languages" title="East Geelvink Bay languages">East Geelvink Bay</a></li>
+<li><a href="/wiki/East_Strickland_languages" title="East Strickland languages">East Strickland</a></li>
+<li><a href="/wiki/Eleman_languages" title="Eleman languages">Eleman</a></li>
+<li><a href="/wiki/Engan_languages" title="Engan languages">Engan</a></li>
+<li><a href="/wiki/Fas_languages" title="Fas languages">Fas</a></li>
+<li><a href="/wiki/Kaure%E2%80%93Kosare_languages" title="Kaure–Kosare languages">Kaure–Kosare</a></li>
+<li><a href="/wiki/Kiwaian_languages" title="Kiwaian languages">Kiwaian</a></li>
+<li><a href="/wiki/Kutubuan_languages" title="Kutubuan languages">Kutubuan</a></li>
+<li><a href="/wiki/Kwomtari_languages" title="Kwomtari languages">Kwomtari</a></li>
+<li><a href="/wiki/Lakes_Plain_languages" title="Lakes Plain languages">Lakes Plain</a></li>
+<li><a href="/wiki/Lower_Mamberamo_languages" title="Lower Mamberamo languages">Lower Mamberamo</a></li>
+<li><a href="/wiki/Lower_Sepik_languages" title="Lower Sepik languages">Lower Sepik</a></li>
+<li><b><a href="/wiki/Madang_languages" title="Madang languages">Madang</a></b></li>
+<li><a href="/wiki/Mairasi_languages" title="Mairasi languages">Mairasi</a></li>
+<li><a href="/wiki/North_Bougainville_languages" title="North Bougainville languages">North Bougainville</a></li>
+<li><a href="/wiki/Pauwasi_languages" title="Pauwasi languages">Pauwasi</a></li>
+<li><b><a href="/wiki/Ramu_languages" title="Ramu languages">Ramu</a></b></li>
+<li><a href="/wiki/Senagi_languages" title="Senagi languages">Senagi</a></li>
+<li><a href="/wiki/Sentani_languages" title="Sentani languages">Sentani</a></li>
+<li><b><a href="/wiki/Sepik_languages" title="Sepik languages">Sepik</a></b></li>
+<li><a href="/wiki/Skou_languages" title="Skou languages">Skou</a></li>
+<li><a href="/wiki/South_Bougainville_languages" title="South Bougainville languages">South Bougainville</a></li>
+<li><a href="/wiki/Teberan_languages" title="Teberan languages">Teberan</a></li>
+<li><a href="/wiki/Tor%E2%80%93Kwerba%E2%80%93Nimboran_languages" title="Tor–Kwerba–Nimboran languages">Tor–Kwerba–Nimboran</a></li>
+<li><b><a href="/wiki/Torricelli_languages" title="Torricelli languages">Torricelli</a></b></li>
+<li><a href="/wiki/Trans-Fly_languages" title="Trans-Fly languages">Trans-Fly</a></li>
+<li><b><a href="/wiki/Trans%E2%80%93New_Guinea_languages" title="Trans–New Guinea languages">Trans–New Guinea</a></b></li>
+<li><a href="/wiki/Turama%E2%80%93Kikorian_languages" title="Turama–Kikorian languages">Turama–Kikorian</a></li>
+<li><a href="/wiki/West_Papuan_languages" title="West Papuan languages">West Papuan</a></li>
+<li><a href="/wiki/Yam_languages" title="Yam languages">Yam</a></li>
+<li><a href="/wiki/Yawa_languages" title="Yawa languages">Yawa</a></li>
+<li><a href="/wiki/Yuat_languages" title="Yuat languages">Yuat</a></li>
+<li><a href="/wiki/North_Papuan_languages" title="North Papuan languages">North Papuan</a>?</li>
+<li><a href="/wiki/Papuan_Gulf_languages" title="Papuan Gulf languages">Papuan Gulf</a>?</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abinomn_language" title="Abinomn language">Abinomn</a></li>
+<li><a href="/wiki/Abun_language" title="Abun language">Abun</a></li>
+<li><a href="/wiki/An%C3%AAm_language" title="Anêm language">Anêm</a>?</li>
+<li><a href="/wiki/Ata_language" title="Ata language">Ata</a>?</li>
+<li><a href="/wiki/Kol_language_(Papua_New_Guinea)" title="Kol language (Papua New Guinea)">Kol</a></li>
+<li><a href="/wiki/Kuot_language" title="Kuot language">Kuot</a></li>
+<li><a href="/wiki/Maybrat_language" title="Maybrat language">Maybrat</a></li>
+<li><a href="/wiki/Mpur_language" title="Mpur language">Mpur</a></li>
+<li><a href="/wiki/Porome_language" title="Porome language">Porome</a></li>
+<li><a href="/wiki/Taiap_language" title="Taiap language">Taiap</a>?</li>
+<li><a href="/wiki/Pawaia_language" title="Pawaia language">Pawaia</a></li>
+<li><a href="/wiki/Porome_language" title="Porome language">Porome</a></li>
+<li><a href="/wiki/Sulka_language" title="Sulka language">Sulka</a>?</li>
+<li><a href="/wiki/Tambora_language" title="Tambora language">Tambora</a></li>
+<li><a href="/wiki/Wiru_language" title="Wiru language">Wiru</a></li>
+<li><b><a href="/wiki/List_of_sign_languages#Asia/Pacific" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Australian_Aboriginal_languages" title="Australian Aboriginal languages">Australia</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Macro-Gunwinyguan_languages" title="Macro-Gunwinyguan languages">Arnhem/Macro-Gunwinyguan</a></li>
+<li><a href="/wiki/Bunuban_languages" title="Bunuban languages">Bunuban</a></li>
+<li><i><a href="/wiki/Darwin_Region_languages" title="Darwin Region languages">Darwin River </a></i></li>
+<li><i><a href="/wiki/Eastern_Daly_languages" title="Eastern Daly languages">Eastern Daly</a></i></li>
+<li><i><a href="/wiki/Eastern_Tasmanian_languages" title="Eastern Tasmanian languages">Eastern Tasmanian</a></i></li>
+<li><a href="/wiki/Garawan_languages" title="Garawan languages">Garawan</a></li>
+<li><a href="/wiki/Iwaidjan_languages" title="Iwaidjan languages">Iwaidjan</a></li>
+<li><a href="/wiki/Jarrakan_languages" title="Jarrakan languages">Jarrakan</a></li>
+<li><a href="/wiki/Mirndi_languages" title="Mirndi languages">Mirndi</a></li>
+<li><i><a href="/wiki/Northern_Tasmanian_languages" title="Northern Tasmanian languages">Northern Tasmanian</a></i></li>
+<li><i><a href="/wiki/Northeastern_Tasmanian_languages" title="Northeastern Tasmanian languages">Northeastern Tasmanian</a></i></li>
+<li><a href="/wiki/Nyulnyulan_languages" title="Nyulnyulan languages">Nyulnyulan</a></li>
+<li><b><a href="/wiki/Pama%E2%80%93Nyungan_languages" title="Pama–Nyungan languages">Pama–Nyungan</a></b></li>
+<li><a href="/wiki/Southern_Daly_languages" title="Southern Daly languages">Southern Daly</a></li>
+<li><a href="/wiki/Tangkic_languages" title="Tangkic languages">Tangkic</a></li>
+<li><a href="/wiki/Wagaydyic_languages" title="Wagaydyic languages">Wagaydyic</a></li>
+<li><a href="/wiki/Western_Daly_languages" title="Western Daly languages">Western Daly</a></li>
+<li><i><a href="/wiki/Western_Tasmanian_languages" title="Western Tasmanian languages">Western Tasmanian</a></i></li>
+<li><a href="/wiki/Worrorran_languages" title="Worrorran languages">Worrorran</a></li>
+<li><a href="/wiki/Wardaman_language" title="Wardaman language">Yangmanic</a> (Wardaman)</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Giimbiyu_language" title="Giimbiyu language">Giimbiyu</a></i></li>
+<li><a href="/wiki/Malak-Malak_language" title="Malak-Malak language">Malak-Malak</a></li>
+<li><i><a href="/wiki/Marrgu_language" title="Marrgu language">Marrgu</a></i></li>
+<li><a href="/wiki/Tiwi_language" title="Tiwi language">Tiwi</a></li>
+<li><a href="/wiki/Wagiman_language" title="Wagiman language">Wagiman</a></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_languages_of_the_Americas" title="Indigenous languages of the Americas">North<br />America</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Algic_languages" title="Algic languages">Algic</a></b></li>
+<li><i><a href="/wiki/Alsea_language" title="Alsea language">Alsea</a></i></li>
+<li><a href="/wiki/Caddoan_languages" title="Caddoan languages">Caddoan</a></li>
+<li><i><a href="/wiki/Chimakuan_languages" title="Chimakuan languages">Chimakuan</a></i></li>
+<li><i><a href="/wiki/Chinookan_languages" title="Chinookan languages">Chinookan</a></i></li>
+<li><i><a href="/wiki/Chumashan_languages" title="Chumashan languages">Chumashan</a></i></li>
+<li><i><a href="/wiki/Comecrudan_languages" title="Comecrudan languages">Comecrudan</a></i></li>
+<li><i><a href="/wiki/Coosan_languages" title="Coosan languages">Coosan</a></i></li>
+<li><a href="/wiki/Eskimo%E2%80%93Aleut_languages" title="Eskimo–Aleut languages">Eskimo–Aleut</a></li>
+<li><a href="/wiki/Iroquoian_languages" title="Iroquoian languages">Iroquoian</a></li>
+<li><i><a href="/wiki/Kalapuyan_languages" title="Kalapuyan languages">Kalapuyan</a></i></li>
+<li><a href="/wiki/Keresan_languages" class="mw-redirect" title="Keresan languages">Keresan</a></li>
+<li><i><a href="/wiki/Maiduan_languages" title="Maiduan languages">Maiduan</a></i></li>
+<li><a href="/wiki/Muskogean_languages" title="Muskogean languages">Muskogean</a></li>
+<li><b><a href="/wiki/Na-Dene_languages" title="Na-Dene languages">Na-Dene</a></b></li>
+<li><i><a href="/wiki/Palaihnihan_languages" title="Palaihnihan languages">Palaihnihan</a></i></li>
+<li><b><a href="/wiki/Plains_Indian_Sign_Language" title="Plains Indian Sign Language">Plains Sign Talk</a></b></li>
+<li><a href="/wiki/Plateau_Penutian_languages" title="Plateau Penutian languages">Plateau Penutian</a></li>
+<li><a href="/wiki/Pomoan_languages" title="Pomoan languages">Pomoan</a></li>
+<li><a href="/wiki/Salishan_languages" title="Salishan languages">Salishan</a></li>
+<li><i><a href="/wiki/Shastan_languages" title="Shastan languages">Shastan</a></i></li>
+<li><a href="/wiki/Siouan_languages" title="Siouan languages">Siouan</a></li>
+<li><a href="/wiki/Tanoan_languages" title="Tanoan languages">Tanoan</a></li>
+<li><a href="/wiki/Tsimshianic_languages" title="Tsimshianic languages">Tsimshianic</a></li>
+<li><a href="/wiki/Utian_languages" title="Utian languages">Utian</a></li>
+<li><b><a href="/wiki/Uto-Aztecan_languages" title="Uto-Aztecan languages">Uto-Aztecan</a></b></li>
+<li><a href="/wiki/Wakashan_languages" title="Wakashan languages">Wakashan</a></li>
+<li><i><a href="/wiki/Wintuan_languages" title="Wintuan languages">Wintuan</a></i></li>
+<li><a href="/wiki/Yokutsan_languages" title="Yokutsan languages">Yokutsan</a></li>
+<li><i><a href="/wiki/Yuki%E2%80%93Wappo_languages" title="Yuki–Wappo languages">Yukian</a></i></li>
+<li><a href="/wiki/Yuman%E2%80%93Cochim%C3%AD_languages" title="Yuman–Cochimí languages">Yuman–Cochimí</a></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Chimariko_language" title="Chimariko language">Chimariko</a></i></li>
+<li><i><a href="/wiki/Esselen_language" title="Esselen language">Esselen</a></i></li>
+<li><a href="/wiki/Haida_language" title="Haida language">Haida</a></li>
+<li><a href="/wiki/Karuk_language" title="Karuk language">Karuk</a></li>
+<li><a href="/wiki/Kutenai_language" title="Kutenai language">Kutenai</a></li>
+<li><a href="/wiki/Seri_language" title="Seri language">Seri</a></li>
+<li><i><a href="/wiki/Siuslaw_language" title="Siuslaw language">Siuslaw</a></i></li>
+<li><i><a href="/wiki/Takelma_language" title="Takelma language">Takelma</a></i></li>
+<li><i><a href="/wiki/Timucua_language" title="Timucua language">Timucua</a></i></li>
+<li><i><a href="/wiki/Waikuri_language" title="Waikuri language">Waikuri</a></i></li>
+<li><a href="/wiki/Washo_language" title="Washo language">Washo</a></li>
+<li><i><a href="/wiki/Yana_language" title="Yana language">Yana</a></i></li>
+<li><a href="/wiki/Yuchi_language" title="Yuchi language">Yuchi</a></li>
+<li><a href="/wiki/Zuni_language" title="Zuni language">Zuni</a></li>
+<li><b><a href="/wiki/List_of_sign_languages#America" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mesoamerican_languages" title="Mesoamerican languages">Mesoamerica</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chibchan_languages" title="Chibchan languages">Chibchan</a></li>
+<li><a href="/wiki/Jicaquean_languages" title="Jicaquean languages">Jicaquean</a></li>
+<li><i><a href="/wiki/Lencan_languages" title="Lencan languages">Lencan</a></i></li>
+<li><b><a href="/wiki/Mayan_languages" title="Mayan languages">Mayan</a></b></li>
+<li><a href="/wiki/Mayan_Sign_Language" title="Mayan Sign Language">Meemul Tziij</a></li>
+<li><a href="/wiki/Misumalpan_languages" title="Misumalpan languages">Misumalpan</a></li>
+<li><a href="/wiki/Mixe%E2%80%93Zoque_languages" title="Mixe–Zoque languages">Mixe–Zoque</a></li>
+<li><b><a href="/wiki/Oto-Manguean_languages" title="Oto-Manguean languages">Oto-Manguean</a></b></li>
+<li><a href="/wiki/Plains_Indian_Sign_Language" title="Plains Indian Sign Language">Plains Sign Talk</a></li>
+<li><a href="/wiki/Tequistlatecan_languages" title="Tequistlatecan languages">Tequistlatecan</a></li>
+<li><a href="/wiki/Totonacan_languages" title="Totonacan languages">Totonacan</a></li>
+<li><b><a href="/wiki/Uto-Aztecan_languages" title="Uto-Aztecan languages">Uto-Aztecan</a></b></li>
+<li><i><a href="/wiki/Xincan_languages" title="Xincan languages">Xincan</a></i></li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates" scope="row" class="navbox-group" style="width:1%">Isolates</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Cuitlatec_language" title="Cuitlatec language">Cuitlatec</a></i></li>
+<li><a href="/wiki/Huave_language" title="Huave language">Huave</a></li>
+<li><a href="/wiki/Pur%C3%A9pecha_language" title="Purépecha language">Tarascan/Purépecha</a></li>
+<li><b><a href="/wiki/List_of_sign_languages#America" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_languages_of_the_Americas" title="Indigenous languages of the Americas">South<br />America</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Arawakan_languages" title="Arawakan languages">Arawakan</a></b></li>
+<li><a href="/wiki/Arawan_languages" title="Arawan languages">Arauan</a></li>
+<li><a href="/wiki/Araucanian_languages" title="Araucanian languages">Araucanian</a></li>
+<li><a href="/wiki/Arutani%E2%80%93Sape_languages" title="Arutani–Sape languages">Arutani–Sape</a></li>
+<li><a href="/wiki/Aymaran_languages" title="Aymaran languages">Aymaran</a></li>
+<li><a href="/wiki/Barbacoan_languages" title="Barbacoan languages">Barbacoan</a></li>
+<li><a href="/wiki/Boran_languages" title="Boran languages">Boran</a></li>
+<li><a href="/wiki/Cahuapanan_languages" title="Cahuapanan languages">Cahuapanan</a></li>
+<li><a class="mw-selflink selflink">Cariban</a></li>
+<li><i><a href="/wiki/Catacaoan_languages" title="Catacaoan languages">Catacaoan</a></i></li>
+<li><a href="/wiki/Chapacuran_languages" title="Chapacuran languages">Chapacuran</a></li>
+<li><i><a href="/wiki/Charruan_languages" title="Charruan languages">Charruan</a></i></li>
+<li><a href="/wiki/Chibchan_languages" title="Chibchan languages">Chibchan</a></li>
+<li><a href="/wiki/Choco_languages" title="Choco languages">Choco</a></li>
+<li><a href="/wiki/Chonan_languages" title="Chonan languages">Chonan</a></li>
+<li><a href="/wiki/Guaicuruan_languages" title="Guaicuruan languages">Guaicuruan</a></li>
+<li><a href="/wiki/Guajiboan_languages" title="Guajiboan languages">Guajiboan</a></li>
+<li><a href="/wiki/Har%C3%A1kmbut%E2%80%93Katukinan_languages" title="Harákmbut–Katukinan languages">Harákmbut–Katukinan</a></li>
+<li><i><a href="/wiki/Jirajaran_languages" title="Jirajaran languages">Jirajaran</a></i></li>
+<li><a href="/wiki/Jivaroan_languages" class="mw-redirect" title="Jivaroan languages">Jivaroan</a></li>
+<li><a href="/wiki/Katembri%E2%80%93Taruma_languages" title="Katembri–Taruma languages">Katembri–Taruma</a></li>
+<li><a href="/wiki/Mascoian_languages" title="Mascoian languages">Mascoian</a></li>
+<li><a href="/wiki/Matacoan_languages" title="Matacoan languages">Matacoan</a></li>
+<li><a href="/wiki/Nadahup_languages" title="Nadahup languages">Nadahup</a></li>
+<li><a href="/wiki/Nambikwaran_languages" title="Nambikwaran languages">Nambikwaran</a></li>
+<li><a href="/wiki/Otom%C3%A1koan_languages" title="Otomákoan languages">Otomákoan</a></li>
+<li><a href="/wiki/Pano-Tacanan_languages" title="Pano-Tacanan languages">Pano-Tacanan</a></li>
+<li><a href="/wiki/Peba%E2%80%93Yaguan_languages" title="Peba–Yaguan languages">Peba–Yaguan</a></li>
+<li><b><a href="/wiki/Quechuan_languages" title="Quechuan languages">Quechuan</a></b></li>
+<li><a href="/wiki/Piaroa%E2%80%93Saliban_languages" title="Piaroa–Saliban languages">Piaroa–Saliban</a></li>
+<li><a href="/wiki/Ticuna%E2%80%93Yuri_languages" title="Ticuna–Yuri languages">Ticuna–Yuri</a></li>
+<li><a href="/wiki/Timotean_languages" title="Timotean languages">Timotean</a></li>
+<li><a href="/wiki/Tiniguan_languages" title="Tiniguan languages">Tiniguan</a></li>
+<li><a href="/wiki/Tucanoan_languages" title="Tucanoan languages">Tucanoan</a></li>
+<li><b><a href="/wiki/Tupian_languages" title="Tupian languages">Tupian</a></b></li>
+<li><a href="/wiki/Uru%E2%80%93Chipaya_languages" title="Uru–Chipaya languages">Uru–Chipaya</a></li>
+<li><a href="/wiki/Witotoan_languages" title="Witotoan languages">Witotoan</a></li>
+<li><a href="/wiki/Yanomaman_languages" title="Yanomaman languages">Yanomaman</a></li>
+<li><a href="/wiki/Zamucoan_languages" title="Zamucoan languages">Zamucoan</a></li>
+<li><a href="/wiki/Zaparoan_languages" title="Zaparoan languages">Zaparoan</a></li>
+<li><a href="/wiki/Bora%E2%80%93Witoto_languages" title="Bora–Witoto languages">Bora–Witoto languages</a>?</li>
+<li><a href="/wiki/Chimuan_languages" title="Chimuan languages">Chimuan</a>?</li>
+<li><a href="/wiki/Esmeralda%E2%80%93Yaruroan_languages" title="Esmeralda–Yaruroan languages">Esmeralda–Yaruro</a>?</li>
+<li><a href="/wiki/Hibito%E2%80%93Cholon_languages" title="Hibito–Cholon languages">Hibito–Cholón</a>?</li>
+<li><a href="/wiki/Lule%E2%80%93Vilela_languages" title="Lule–Vilela languages">Lule–Vilela</a>?</li>
+<li><a href="/wiki/Macro-J%C3%AA_languages" title="Macro-Jê languages">Macro-Jê</a>?</li>
+<li><a href="/wiki/Tequiraca%E2%80%93Canichana_languages" title="Tequiraca–Canichana languages">Tequiraca–Canichana</a>?</li></ul>
+</div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Isolates_(extant_in_2000)" scope="row" class="navbox-group" style="width:1%">Isolates <br />(extant in 2000)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aikan%C3%A3_language" title="Aikanã language">Aikanã</a>?</li>
+<li><a href="/wiki/Alacalufan_languages" title="Alacalufan languages">Alacalufan</a></li>
+<li><a href="/wiki/Andoque_language" title="Andoque language">Andoque</a>?</li>
+<li><a href="/wiki/Cams%C3%A1_language" title="Camsá language">Camsá</a></li>
+<li><a href="/wiki/Candoshi-Shapra_language" title="Candoshi-Shapra language">Candoshi</a></li>
+<li><a href="/wiki/Chimane_language" title="Chimane language">Chimane</a></li>
+<li><a href="/wiki/Chiquitano_language" title="Chiquitano language">Chiquitano</a></li>
+<li><a href="/wiki/Cof%C3%A1n_language" title="Cofán language">Cofán</a>?</li>
+<li><a href="/wiki/Fulni%C3%B4_language" title="Fulniô language">Fulniô</a></li>
+<li><a href="/wiki/Guat%C3%B3_language" title="Guató language">Guató</a></li>
+<li><a href="/wiki/Hod%C3%AF_language" title="Hodï language">Hodï/Joti</a></li>
+<li><a href="/wiki/Irantxe_language" title="Irantxe language">Irantxe</a>?</li>
+<li><a href="/wiki/Itonama_language" title="Itonama language">Itonama</a></li>
+<li><i><a href="/wiki/Kunza_language" title="Kunza language">Kunza</a></i></li>
+<li><a href="/wiki/Leco_language" title="Leco language">Leco</a></li>
+<li><i><a href="/wiki/Maku-Auari_language" title="Maku-Auari language">Maku-Auari of Roraima</a></i></li>
+<li><a href="/wiki/Movima_language" title="Movima language">Movima</a></li>
+<li><a href="/wiki/Mura_language" title="Mura language">Mura-Pirahã</a></li>
+<li><a href="/wiki/Nukak_language" title="Nukak language">Nukak</a>?</li>
+<li><a href="/wiki/Puinave_language" title="Puinave language">Puinave</a></li>
+<li><a href="/wiki/Waorani_language" title="Waorani language">Huaorani/Waorani</a></li>
+<li><a href="/wiki/Trumai_language" title="Trumai language">Trumai</a></li>
+<li><a href="/wiki/Urarina_language" title="Urarina language">Urarina</a></li>
+<li><a href="/wiki/Warao_language" title="Warao language">Warao</a></li>
+<li><a href="/wiki/Yaghan_language" title="Yaghan language">Yamana</a></li>
+<li><a href="/wiki/Yuracar%C3%A9_language" title="Yuracaré language">Yuracaré</a></li>
+<li><b><a href="/wiki/List_of_sign_languages#America" title="List of sign languages">Isolate sign languages</a></b></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Language_isolate" title="Language isolate">Language isolates</a></li>
+<li><a href="/wiki/Unclassified_language" title="Unclassified language">Unclassified languages</a></li>
+<li><a href="/wiki/List_of_sign_languages" title="List of sign languages">Manual languages</a></li>
+<li><a href="/wiki/Creole_language" title="Creole language">Creoles</a></li>
+<li><a href="/wiki/Pidgin" title="Pidgin">Pidgins</a></li>
+<li><a href="/wiki/Mixed_language" title="Mixed language">Mixed languages</a></li>
+<li><a href="/wiki/Constructed_language" title="Constructed language">Artificial languages</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div class="hlist hlist-separated"><ul><li>Families in <i>italics</i> have no living members.</li><li>Families with more than 30 languages are in <b>bold</b>.</li></ul></div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20190911232221
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.384 seconds
+Real time usage: 0.704 seconds
+Preprocessor visited node count: 1420/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 115840/2097152 bytes
+Template argument size: 1412/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3698/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 3.77 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  534.426      1 -total
+ 37.94%  202.755      1 Template:-
+ 25.83%  138.022      1 Template:Infobox_language_family
+ 23.37%  124.886      1 Template:Infobox
+ 18.27%   97.639     13 Template:Navbox
+ 16.27%   86.953      1 Template:Glottolog
+ 15.57%   83.218      1 Template:Cite_book
+ 10.31%   55.079      2 Template:Fix
+ 10.22%   54.637      1 Template:Cite_quote
+  6.39%   34.150      1 Template:Language_families
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:568770-0!canonical and timestamp 20190911232221 and revision id 886238193
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cariban_languages&amp;oldid=886238193">https://en.wikipedia.org/w/index.php?title=Cariban_languages&amp;oldid=886238193</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cariban_languages" title="Category:Cariban languages">Cariban languages</a></li><li><a href="/wiki/Category:Language_families" title="Category:Language families">Language families</a></li><li><a href="/wiki/Category:Indigenous_languages_of_the_South_American_Northeast" title="Category:Indigenous languages of the South American Northeast">Indigenous languages of the South American Northeast</a></li><li><a href="/wiki/Category:Languages_of_Venezuela" title="Category:Languages of Venezuela">Languages of Venezuela</a></li><li><a href="/wiki/Category:Indigenous_languages_of_South_America" title="Category:Indigenous languages of South America">Indigenous languages of South America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_unsourced_quotes" title="Category:Articles with unsourced quotes">Articles with unsourced quotes</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2018" title="Category:Articles with unsourced statements from July 2018">Articles with unsourced statements from July 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cariban+languages" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cariban+languages" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cariban_languages" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cariban_languages" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cariban_languages">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cariban_languages&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cariban_languages&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cariban_languages" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cariban_languages" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cariban_languages&amp;oldid=886238193" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cariban_languages&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33090" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cariban_languages&amp;id=886238193" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cariban+languages">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cariban+languages&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cariban_languages&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D8%BA%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D9%8A%D8%A8%D9%8A" title="لغات الكاريبي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Luengas_caribe" title="Luengas caribe – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Lling%C3%BCes_caribes" title="Llingües caribes – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF%E0%A6%AC_%E0%A6%AD%E0%A6%BE%E0%A6%B7%E0%A6%BE%E0%A6%B8%E0%A6%AE%E0%A7%82%E0%A6%B9" title="কারিব ভাষাসমূহ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%8B%D0%B1%D1%81%D0%BA%D1%96%D1%8F_%D0%BC%D0%BE%D0%B2%D1%8B" title="Карыбскія мовы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Yezho%C3%B9_karibek" title="Yezhoù karibek – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Lleng%C3%BCes_carib" title="Llengües carib – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Karibische_Sprachen" title="Karibische Sprachen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Lenguas_caribes" title="Lenguas caribes – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kariba_lingvaro" title="Kariba lingvaro – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Karibe_hizkuntzak" title="Karibe hizkuntzak – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Langues_caribes" title="Langues caribes – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Linguas_caribes" title="Linguas caribes – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A6%AC%EB%B8%8C%EC%96%B4%EC%A1%B1" title="카리브어족 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Karipski_(jezi%C4%8Dna_porodica)" title="Karipski (jezična porodica) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Kar%C3%ADbam%C3%A1l" title="Karíbamál – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Karib%C5%B3_kalbos" title="Karibų kalbos – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Linguas_cariban" title="Linguas cariban – Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Caribische_talen" title="Caribische talen – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%96%E8%AA%9E%E6%97%8F" title="カリブ語族 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Kariibisk_spriaken" title="Kariibisk spriaken – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Karibiske_spr%C3%A5k" title="Karibiske språk – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Karibspr%C3%A5k" title="Karibspråk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Karib_tillari" title="Karib tillari – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a href="https://pms.wikipedia.org/wiki/Lenghe_carib" title="Lenghe carib – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/L%C3%ADnguas_caribes" title="Línguas caribes – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Kariwa_rimaykuna" title="Kariwa rimaykuna – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B1%D1%81%D0%BA%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8" title="Карибские языки – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%BF%D1%81%D0%BA%D0%B8_%D1%98%D0%B5%D0%B7%D0%B8%D1%86%D0%B8" title="Карипски језици – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%B0%E0%AE%BF%E0%AE%AA%E0%AE%BF%E0%AE%AF_%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D" title="கரிபிய மொழிகள் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BA%D0%B0%D0%BD%D0%BE%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%96%D0%BC%27%D1%8F" title="Туканоанська мовна сім&#039;я – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33090#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 March 2019, at 00:45<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cariban_languages&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.704","ppvisitednodes":{"value":1420,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":115840,"limit":2097152},"templateargumentsize":{"value":1412,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3698,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  534.426      1 -total"," 37.94%  202.755      1 Template:-"," 25.83%  138.022      1 Template:Infobox_language_family"," 23.37%  124.886      1 Template:Infobox"," 18.27%   97.639     13 Template:Navbox"," 16.27%   86.953      1 Template:Glottolog"," 15.57%   83.218      1 Template:Cite_book"," 10.31%   55.079      2 Template:Fix"," 10.22%   54.637      1 Template:Cite_quote","  6.39%   34.150      1 Template:Language_families"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":3951239,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190911232221","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cariban languages","url":"https:\/\/en.wikipedia.org\/wiki\/Cariban_languages","sameAs":"http:\/\/www.wikidata.org\/entity\/Q33090","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q33090","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-01T05:37:04Z","dateModified":"2019-03-05T00:45:27Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7e\/Cariban_languages.png","headline":"group of languages"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":125,"wgHostname":"mw1331"});});</script>
+</body>
+</html>
