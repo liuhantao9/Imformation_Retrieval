@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Melvin Manhoef - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Melvin_Manhoef","wgTitle":"Melvin Manhoef","wgCurRevisionId":912528574,"wgRevisionId":912528574,"wgArticleId":11330258,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 errors: deprecated parameters","CS1 Dutch-language sources (nl)","Articles with short description","1976 births","Living people","Dutch male kickboxers","Dutch male mixed martial artists","Heavyweight kickboxers","Light heavyweight mixed martial artists","Middleweight mixed martial artists","Sportspeople from Paramaribo","Sportspeople from Rotterdam","Surinamese emigrants to the Netherlands","Surinamese male kickboxers","Surinamese male mixed martial artists","Glory kickboxers"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext",
-"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Melvin_Manhoef","wgRelevantArticleId":11330258,"wgRequestId":"XYsYJQpAAEUAAAb6f9YAAAAT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":
-"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1195363","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
-"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Beaumont Park - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Beaumont_Park","wgTitle":"Beaumont Park","wgCurRevisionId":916222453,"wgRevisionId":916222453,"wgArticleId":4879746,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with OS grid coordinates","Coordinates on Wikidata","All stub articles","Geography of Huddersfield","Kirklees","Holme Valley","West Yorkshire geography stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Beaumont_Park",
+"wgRelevantArticleId":4879746,"wgRequestId":"XYrHZwpAIEIAAAyA7TsAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.62778,"lon":-1.80793},"wgWikibaseItemId":"Q4877581","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,21 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/dc/Melvin-Manhoef2.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Melvin_Manhoef"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Melvin_Manhoef&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Melvin_Manhoef&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Butternab_%26_Beaumont_Park.jpg/1200px-Butternab_%26_Beaumont_Park.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beaumont_Park"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Beaumont_Park&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Beaumont_Park&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Melvin_Manhoef"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Beaumont_Park"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Melvin_Manhoef rootpage-Melvin_Manhoef skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Beaumont_Park rootpage-Beaumont_Park skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Melvin Manhoef</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Beaumont Park</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,1602 +51,73 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Dutch mixed martial arts fighter</div>
-<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#efefef"><span class="fn">Melvin Manhoef</span></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Melvin-Manhoef2.jpg" class="image"><img alt="Melvin-Manhoef2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Melvin-Manhoef2.jpg/250px-Melvin-Manhoef2.jpg" decoding="async" width="250" height="204" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Melvin-Manhoef2.jpg/375px-Melvin-Manhoef2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Melvin-Manhoef2.jpg/500px-Melvin-Manhoef2.jpg 2x" data-file-width="643" data-file-height="525" /></a></td></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1976-05-11</span>) </span>11 May 1976<span class="noprint ForceAgeToShow"> (age&#160;43)</span><br /><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>, Suriname</td></tr><tr><th scope="row">Other names</th><td class="nickname">No Mercy</td></tr><tr><th scope="row">Nationality</th><td><a href="/wiki/Dutch_people" title="Dutch people">Dutch</a></td></tr><tr><th scope="row">Height</th><td>1.73&#160;m (5&#160;ft 8&#160;in)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Weight</th><td>83.9&#160;kg (185&#160;lb; 13&#160;st 3&#160;lb)</td></tr><tr><th scope="row">Division</th><td><a href="/wiki/Welterweight_(MMA)" title="Welterweight (MMA)">Welterweight</a> (<a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">MMA</a>)<br /><a href="/wiki/Middleweight_(MMA)" title="Middleweight (MMA)">Middleweight</a> (<a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">MMA</a>)<br /><a href="/wiki/Light_Heavyweight_(MMA)" class="mw-redirect" title="Light Heavyweight (MMA)">Light Heavyweight</a> (<a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">MMA</a>)<br /><a href="/wiki/Cruiserweight_(MMA)" title="Cruiserweight (MMA)">Cruiserweight</a> (<a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a>)<br /><a href="/wiki/Heavyweight" title="Heavyweight">Heavyweight</a> (<a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a> &amp; <a href="/wiki/Heavyweight_(MMA)" title="Heavyweight (MMA)">MMA</a>)</td></tr><tr><th scope="row">Reach</th><td>71&#160;in (180&#160;cm)</td></tr><tr><th scope="row">Style</th><td><a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a></td></tr><tr><th scope="row">Fighting out of</th><td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, Netherlands</td></tr><tr><th scope="row">Team</th><td class="org">Manhoef Fight &amp; Fitness (2012 - <i>present</i>)<br />Mike's Gym (2005-2012, 2017)<br /> <a href="/wiki/Chakuriki_Gym" title="Chakuriki Gym">Chakuriki Gym</a> (1998-2005) <br /> Rock Gym (1995-1998)</td></tr><tr><th scope="row">Trainer</th><td class="agent">Mike Passenier <br /> <a href="/wiki/Thom_Harinck" title="Thom Harinck">Thom Harinck</a> <br /> Dennis Rock <br /> Martin Jansen</td></tr><tr><th scope="row">Rank</th><td>Brown belt in <a href="/wiki/Brazilian_Jiu-Jitsu" class="mw-redirect" title="Brazilian Jiu-Jitsu">Brazilian Jiu-Jitsu</a> under <a href="/wiki/Caio_Terra" title="Caio Terra">Caio Terra</a></td></tr><tr><th scope="row">Years active</th><td>1995–present (<a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">MMA</a>) <br /> 1996–2017 (<a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a>)</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef"><a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a> record</th></tr><tr><th scope="row" style="font-weight: normal"><b>Total</b></th><td>52</td></tr><tr><th scope="row" style="font-weight: normal"><b>Wins</b></th><td>38</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>27</td></tr><tr><th scope="row" style="font-weight: normal"><b>Losses</b></th><td>14</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>6</td></tr><tr style="display:none"><td colspan="2">
-</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef"><a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">Mixed martial arts</a> record</th></tr><tr><th scope="row" style="font-weight: normal"><b>Total</b></th><td>48</td></tr><tr><th scope="row" style="font-weight: normal"><b>Wins</b></th><td>31</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>28</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;decision</th><td>3</td></tr><tr><th scope="row" style="font-weight: normal"><b>Losses</b></th><td>14</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>5</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;submission</th><td>7</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;decision</th><td>2</td></tr><tr><th scope="row" style="font-weight: normal"><b>Draws</b></th><td>1</td></tr><tr><th scope="row" style="font-weight: normal"><b>No&#160;contests</b></th><td>2</td></tr><tr style="display:none"><td colspan="2">
-</td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef">Other information</th></tr><tr><th scope="row">Notable relatives</th><td><a href="/wiki/Ismael_Londt" title="Ismael Londt">Ismael Londt</a>, nephew <br /> <a href="/wiki/Cedric_Manhoef" title="Cedric Manhoef">Cedric Manhoef</a>, cousin<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row">Notable students</th><td><a href="/wiki/Ismael_Londt" title="Ismael Londt">Ismael Londt</a>, <a href="/wiki/Cedric_Manhoef" title="Cedric Manhoef">Cedric Manhoef</a></td></tr><tr><td colspan="2" style="text-align:center"><a rel="nofollow" class="external text" href="http://www.sherdog.com/fightfinder/fightfinder.asp?fighterID=4296">Mixed martial arts record</a> from <a href="/wiki/Sherdog" title="Sherdog">Sherdog</a></td></tr><tr><td colspan="2" style="text-align:center"><div style="text-align: center;"><span style="font-size: 80%; font-weight: lighter; margin: 1em; color: #555;">last updated on: 21 June 2014</span></div></td></tr></tbody></table>
-<p><b>Melvin Manhoef</b> (born 11 May 1976) is a <a href="/wiki/Surinamese_people" title="Surinamese people">Surinamese</a>-<a href="/wiki/Dutch_people" title="Dutch people">Dutch</a> professional <a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">mixed martial artist</a> and former <a href="/wiki/Kickboxing" title="Kickboxing">kickboxer</a>. In kickboxing, he is a former <a href="/wiki/It%27s_Showtime_(kickboxing)" title="It&#39;s Showtime (kickboxing)">It's Showtime Champion</a>, and in <a href="/wiki/Mixed_martial_arts" title="Mixed martial arts">MMA</a> he was the <a href="/wiki/List_of_Cage_Rage_champions#World_Light_Heavyweight_Championship" title="List of Cage Rage champions">Cage Rage Light Heavyweight Champion</a>. In mixed martial arts, he is currently competing in <a href="/wiki/Bellator_MMA" title="Bellator MMA">Bellator</a>'s <a href="/wiki/Middleweight_(MMA)" title="Middleweight (MMA)">Middleweight</a> division<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and has also formerly competed for <a href="/wiki/Strikeforce_(mixed_martial_arts)" title="Strikeforce (mixed martial arts)">Strikeforce</a>, <a href="/wiki/Dream_(mixed_martial_arts)" title="Dream (mixed martial arts)">DREAM</a>, <a href="/wiki/RINGS" class="mw-redirect" title="RINGS">RINGS</a>, It's Showtime, <a href="/wiki/K-1" title="K-1">K-1</a>, <a href="/wiki/ONE_Fighting_Championship" class="mw-redirect" title="ONE Fighting Championship">ONE FC</a>, and <a href="/wiki/KSW_(mixed_martial_arts)" class="mw-redirect" title="KSW (mixed martial arts)">KSW</a>. 28 of his 30 wins have come via knockout, the highest percentage of any MMA fighter with at least 15 wins.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the Huddersfield suburb. For other uses, see <a href="/wiki/Beaumont_Park_(disambiguation)" class="mw-disambig" title="Beaumont Park (disambiguation)">Beaumont Park (disambiguation)</a>.</div>
+<p><b>Beaumont Park</b> is a suburb of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, in the <a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> that is located between <a href="/wiki/Netherton,_Huddersfield" class="mw-redirect" title="Netherton, Huddersfield">Netherton</a>, <a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Moor</a> and <a href="/wiki/Lockwood,_Huddersfield" title="Lockwood, Huddersfield">Lockwood</a>.
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Mixed_martial_arts_career"><span class="tocnumber">2</span> <span class="toctext">Mixed martial arts career</span></a>
-<ul>
-<li class="toclevel-2 tocsection-3"><a href="#Early_career"><span class="tocnumber">2.1</span> <span class="toctext">Early career</span></a></li>
-<li class="toclevel-2 tocsection-4"><a href="#Bellator_MMA"><span class="tocnumber">2.2</span> <span class="toctext">Bellator MMA</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-5"><a href="#Business_career"><span class="tocnumber">3</span> <span class="toctext">Business career</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Championships_and_accomplishments"><span class="tocnumber">4</span> <span class="toctext">Championships and accomplishments</span></a>
-<ul>
-<li class="toclevel-2 tocsection-7"><a href="#Kickboxing"><span class="tocnumber">4.1</span> <span class="toctext">Kickboxing</span></a></li>
-<li class="toclevel-2 tocsection-8"><a href="#Mixed_martial_arts"><span class="tocnumber">4.2</span> <span class="toctext">Mixed martial arts</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-9"><a href="#Mixed_martial_arts_record"><span class="tocnumber">5</span> <span class="toctext">Mixed martial arts record</span></a></li>
-<li class="toclevel-1 tocsection-10"><a href="#Kickboxing_record"><span class="tocnumber">6</span> <span class="toctext">Kickboxing record</span></a></li>
-<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Manhoef was born in <a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a>. When he was three years old his family moved to <a href="/wiki/Rotterdam" title="Rotterdam">Rotterdam</a>, the Netherlands. Manhoef played <a href="/wiki/Soccer" class="mw-redirect" title="Soccer">soccer</a> during his youth, and was introduced to <a href="/wiki/Muay_Thai" title="Muay Thai">Muay Thai</a> by his younger brother, Moreno.
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:702px;"><a href="/wiki/File:Butternab_%26_Beaumont_Park.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Butternab_%26_Beaumont_Park.jpg/700px-Butternab_%26_Beaumont_Park.jpg" decoding="async" width="700" height="240" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Butternab_%26_Beaumont_Park.jpg/1050px-Butternab_%26_Beaumont_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/1/10/Butternab_%26_Beaumont_Park.jpg 2x" data-file-width="1400" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Butternab_%26_Beaumont_Park.jpg" class="internal" title="Enlarge"></a></div>View of the housing area of Beaumont Park, Huddersfield</div></div></div></div>
+<p>The housing in this area is situated around the periphery of a medium-sized <a href="/wiki/Woodland" title="Woodland">woodland</a> and recreational <a href="/wiki/Park" title="Park">park</a>, known as 'Dungeon Wood' that was bequeathed to the people of Huddersfield in 1879 by the <a rel="nofollow" class="external text" href="https://web.archive.org/web/20111118135936/http://www.kirkheatononlineparishclerk.com/kirkheaton/beaumont.htm">'Beaumont's of Whitley' estate (Henry Fredrick Beaumont</a>, for leisure purposes. Adjacent to the park is Beagle Woods, which is a popular venue for walkers. The wood is home to a <a href="/wiki/Kennel" title="Kennel">kennels</a> with a working pack of English <a href="/wiki/Beagle" title="Beagle">Beagle</a> hounds.
 </p>
-<h2><span class="mw-headline" id="Mixed_martial_arts_career">Mixed martial arts career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=2" title="Edit section: Mixed martial arts career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Early_career">Early career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=3" title="Edit section: Early career">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>At the age of 18, Manhoef had his first fight, which he won by decision. He made his comeback in September 2001, as part of <a href="/wiki/Chakuriki_Gym" title="Chakuriki Gym">Chakuriki Gym</a>. In 2004, Manhoef entered the <a href="/wiki/Cage_Rage" class="mw-redirect" title="Cage Rage">Cage Rage</a> promotion in London. He became the <a href="/wiki/List_of_Cage_Rage_champions#British_Light_Heavyweight_Championship" title="List of Cage Rage champions">British Cage Rage Light Heavyweight Champion</a> by beating Fabio Piamonte at Cage Rage 13. He defended his title for almost two years, until entering the <a href="/wiki/K-1" title="K-1">K-1</a>'s MMA affiliate promotion <a href="/wiki/Hero%27s" title="Hero&#39;s">Hero's</a> in 2006. He won his first fight at <a href="/wiki/Hero%27s" title="Hero&#39;s">Hero's 4</a> against <a href="/wiki/Shungo_Oyama" title="Shungo Oyama">Shungo Oyama</a> by <a href="/wiki/Technical_knockout" class="mw-redirect" title="Technical knockout">technical knockout</a> in first round.
-</p><p>Melvin has switched his main focus to MMA over the past couple of years. He lost to <a href="/wiki/Dong-sik_Yoon" class="mw-redirect" title="Dong-sik Yoon">Dong-sik Yoon</a> by submission armbar in <a href="/wiki/K-1_Dynamite!!_USA" class="mw-redirect" title="K-1 Dynamite!! USA">K-1 Dynamite!! USA</a>, he defeated <a href="/wiki/Bernard_Ackah" title="Bernard Ackah">Bernard Ackah</a> at <a href="/wiki/List_of_Hero%27s_events#K-1_Hero&#39;s_9_-_Middleweight_Tournament_Opening_Round" class="mw-redirect" title="List of Hero&#39;s events">K-1 Hero's Middleweight Tournament Opening Round</a>, and also got a TKO win against <a href="/wiki/F%C3%A1bio_Silva_(fighter)" title="Fábio Silva (fighter)">Fábio Silva</a>, a <a href="/wiki/Chute_Boxe" class="mw-redirect" title="Chute Boxe">Chute Boxe</a> fighter, by TKO in <a href="/wiki/List_of_Hero%27s_events#K-1_Hero&#39;s_10_-_Middleweight_Tournament_Final" class="mw-redirect" title="List of Hero&#39;s events">K-1 Hero's Middleweight GP Final</a>. At <a href="/wiki/Dream_4" title="Dream 4">Dream 4</a> Melvin fought <a href="/wiki/Kazushi_Sakuraba" title="Kazushi Sakuraba">Kazushi Sakuraba</a>. Manhoef and Sakuraba circled the ring for the first minute of the fight, before Manhoef dropped Sakuraba with a hard right head kick and finished him via TKO (hammerfists) at 90 seconds into Round 1. With the win, Melvin had advanced to the semifinal round of the DREAM Middleweight Grand Prix. At <a href="/wiki/Dream_6" title="Dream 6">Dream 6</a> Melvin fought <a href="/wiki/Gegard_Mousasi" title="Gegard Mousasi">Gegard Mousasi</a> as the tournament dictated. Wary of Manhoef's standup, Mousasi quickly took the fight to the ground despite attempts to shrug him with a sprawl. Mousasi took Manhoef's back until scrambling into a <a href="/wiki/Triangle_choke" title="Triangle choke">triangle choke</a> at 1:28 of the first round, surviving a powerful slam attempt from Manhoef while he had the submission secured. Mousasi went on to win the DREAM Middleweight Grand Prix.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
-</p><p>At <a href="/wiki/Dynamite!!_2008" title="Dynamite!! 2008">Dynamite!! 2008</a> Melvin fought <a href="/wiki/Mark_Hunt" title="Mark Hunt">Mark Hunt</a> as a late alternate at heavyweight, despite usually functioning at two weight classes below his opponent. Regardless of the size disadvantage, he knocked down the iron-jawed <a href="/wiki/Samoans" title="Samoans">Samoan</a> in 18 seconds and followed with punches as he was postured over Hunt, until the referee stopped the fight.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> It was the first time Hunt was finished by knockout in his <a href="/wiki/Mixed_Martial_Arts" class="mw-redirect" title="Mixed Martial Arts">MMA</a> career. He fought former <a href="/wiki/List_of_WEC_champions#Middleweight_Championship" class="mw-redirect" title="List of WEC champions">WEC Middleweight Champion</a> <a href="/wiki/Paulo_Filho" title="Paulo Filho">Paulo Filho</a> on 20 July 2009 at <a href="/wiki/Dream_10" title="Dream 10">Dream 10</a>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Despite early success on the feet with his striking offensive, Manhoef was taken down and submitted via <a href="/wiki/Armbar" class="mw-redirect" title="Armbar">armbar</a> in the first round.
-</p><p>Manhoef signed a multi-year fight contract with <a href="/wiki/Strikeforce_(mixed_martial_arts)" title="Strikeforce (mixed martial arts)">Strikeforce</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
-Manhoef made his debut for the organization against <a href="/wiki/Robbie_Lawler" title="Robbie Lawler">Robbie Lawler</a> on 30 January 2010 at <a href="/wiki/Strikeforce:_Miami" title="Strikeforce: Miami">Strikeforce: Miami</a>. Despite a strong start with heavy leg kicks and punches, he was knocked out at 3:33 in the first round.
-</p><p>Manhoef fought <a href="/wiki/Tatsuya_Mizuno" title="Tatsuya Mizuno">Tatsuya Mizuno</a> at <a href="/wiki/Dream_15" title="Dream 15">Dream 15</a> and lost by submission.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p><p>Manhoef returned to the United States in March 2011, facing <a href="/wiki/Tim_Kennedy_(fighter)" title="Tim Kennedy (fighter)">Tim Kennedy</a> at <a href="/wiki/Strikeforce:_Feijao_vs._Henderson" title="Strikeforce: Feijao vs. Henderson">Strikeforce: Feijao vs. Henderson</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> He lost the fight via submission in the first round.
+<h2><span class="mw-headline" id="Public_park">Public park</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaumont_Park&amp;action=edit&amp;section=1" title="Edit section: Public park">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The park was officially opened on 13 October 1883, by <a href="/wiki/Prince_Leopold,_Duke_of_Albany" title="Prince Leopold, Duke of Albany">Prince Leopold</a>, fourth son of <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a>, and his wife <a href="/wiki/Princess_Helena_of_Waldeck_and_Pyrmont" title="Princess Helena of Waldeck and Pyrmont">Princess Helena of Waldeck and Pyrmont</a> (The Duke and Duchess of Albany). It was Huddersfield's first public park and is a fine example of a <a href="/wiki/Victorian_era" title="Victorian era">Victorian</a> park. The park is maintained by Kirklees Council with assistance from a group of volunteers interested in returning the grounds to their former glory, who have instigated many improvements to the park including a new bandstand and water cascades.
+</p><p>In 2011 the park was awarded a first 'Green Flag Award' by the Environmental charity <a href="/wiki/Keep_Britain_Tidy" title="Keep Britain Tidy">Keep Britain Tidy</a> organisation and has retained it each subsequent year.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
 </p>
-<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Melvin_manhoef.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Melvin_manhoef.jpg/220px-Melvin_manhoef.jpg" decoding="async" width="220" height="198" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Melvin_manhoef.jpg/330px-Melvin_manhoef.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Melvin_manhoef.jpg/440px-Melvin_manhoef.jpg 2x" data-file-width="2537" data-file-height="2281" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Melvin_manhoef.jpg" class="internal" title="Enlarge"></a></div>Manhoef in 2012.</div></div></div>
-<p>On 31 January 2012 it was announced that Manhoef had signed with <a href="/wiki/ONE_Fighting_Championship" class="mw-redirect" title="ONE Fighting Championship">ONE Fighting Championship</a> and would be fighting <a href="/wiki/Renato_Sobral" title="Renato Sobral">Renato Sobral</a> in the main event at <a href="/wiki/ONE_Fighting_Championship_3" class="mw-redirect" title="ONE Fighting Championship 3">ONE Fighting Championship 3</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  However, Sobral pulled out of the fight and Manhoef faced Yoshiyuki Nakanishi.  The fight ended in a No Contest due to an accidental injury to Manhoef's leg in round 1. Manhoef scored a knockout victory on 6 October 2012 against Ryo Kawamura, followed by a quick knockout of Dennis Kang on 31 December 2012. Melvin is now on a three-fight win streak in MMA and has gone 4–0 on New Year's Eve.
-</p><p>Recently Manhoef was training with the famous <a href="/wiki/Black_House_(MMA)" title="Black House (MMA)">Black House</a> in the United States. He helped his teammate <a href="/wiki/Lyoto_Machida" title="Lyoto Machida">Lyoto Machida</a> train for a fight with <a href="/wiki/Dan_Henderson" title="Dan Henderson">Dan Henderson</a>. Manhoef openly hopes to sign with the UFC after visiting <a href="/wiki/UFC_156" title="UFC 156">UFC 156</a> in Las Vegas and meeting with <a href="/wiki/Dana_White" title="Dana White">Dana White</a>.
-</p><p>In 2013 Manhoef fought UFC veteran <a href="/wiki/Brock_Larson" title="Brock Larson">Brock Larson</a> at <a href="/wiki/ONE_FC" class="mw-redirect" title="ONE FC">ONE FC</a> on 5 April. After controlling the standup and Larson literally running away from him, Manhoef was repeatedly taken down in the last two rounds and Larson won via unanimous decision.  He lost to <a href="/wiki/Mamed_Khalidov" title="Mamed Khalidov">Mamed Khalidov</a> at KSW23 on 8 June 2013.
-</p><p>He lost to <a href="/wiki/Zabit_Samedov" title="Zabit Samedov">Zabit Samedov</a> by unanimous decision in the semi-finals of the 93&#160;kg/205&#160;lb kickboxing tournament at <i>Legend 2: Invasion</i> in Moscow, Russia on 9 November 2013.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
-</p><p>Manhoef faced <a href="/wiki/Evangelista_Santos" title="Evangelista Santos">Evangelista Santos</a> in a much-anticipated rematch for the Gringo Super Fight Welterweight title on 27 April.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The fight was Melvin's first at 170&#160;lbs. Manhoef won the bout via TKO, early in the first round.
-</p><p>It was announced during the <i><a href="/wiki/Glory_15:_Istanbul" class="mw-redirect" title="Glory 15: Istanbul">Glory 15: Istanbul</a></i> broadcast that Manhoef would be one of eight fighters competing in the <i><a href="/wiki/Glory_17:_Los_Angeles_-_Last_Man_Standing" class="mw-redirect" title="Glory 17: Los Angeles - Last Man Standing">Glory 17: Los Angeles - Last Man Standing</a></i> middleweight tournament in <a href="/wiki/Inglewood,_California" title="Inglewood, California">Inglewood, California</a>, <a href="/wiki/United_States" title="United States">United States</a> on June 21, 2014.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> He lost to <a href="/wiki/Filip_Verlinden" title="Filip Verlinden">Filip Verlinden</a> in the quarter-finals, suffering a head kick knockdown in round one before losing a majority decision.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Bellator_MMA">Bellator MMA</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=4" title="Edit section: Bellator MMA">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>On 21 July 2014, <a href="/wiki/Bellator_MMA" title="Bellator MMA">Bellator MMA</a> announced that they signed <a href="/wiki/Paul_Daley" title="Paul Daley">Paul Daley</a> along with Melvin Manhoef.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
-</p><p>Manhoef made his Bellator debut against <a href="/wiki/Doug_Marshall" title="Doug Marshall">Doug Marshall</a>, in a middleweight bout, at <a href="/wiki/Bellator_125" class="mw-redirect" title="Bellator 125">Bellator 125</a> on 19 September 2014.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> He won the fight via knockout in the first round.
-</p><p>Manhoef faced Glory veteran <a href="/wiki/Joe_Schilling" title="Joe Schilling">Joe Schilling</a> on 15 November 2014 at <a href="/wiki/Bellator_131" class="mw-redirect" title="Bellator 131">Bellator 131</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> After a dominant first round that saw Manhoef drop Schilling twice, he lost the fight in the second round due to a knockout.
-</p><p>Manhoef next faced <a href="/wiki/Alexander_Shlemenko" title="Alexander Shlemenko">Alexander Shlemenko</a> on 13 February 2015 at <a href="/wiki/Bellator_MMA_in_2015#Bellator133" title="Bellator MMA in 2015">Bellator 133</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> He lost via knockout early in the second round. On 17 March 2015 Shlemenko was suspended indefinitely for failing a post fight drug test with elevated testosterone levels. The fight result was changed to a <a href="/wiki/No_contest_(combat_sports)" title="No contest (combat sports)">no contest</a>.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
-</p><p>Manhoef faced <a href="/wiki/Rafael_Carvalho" title="Rafael Carvalho">Rafael Carvalho</a> on 20 May 2016 for the Bellator Middleweight Championship at <a href="/wiki/Bellator_MMA_in_2016#Bellator_155" title="Bellator MMA in 2016">Bellator 155</a>.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Manhoef lost a controversial split decision. Bellator announcer Jimmy Smith called it one of the worst decisions he had ever seen in the promotion; likewise, 5 of 5 media outlets scored the bout in favor of Manhoef.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
-</p><p>An immediate rematch with Carvalho was scheduled to take place at <a href="/wiki/Bellator_MMA_in_2016#Bellator_168" title="Bellator MMA in 2016">Bellator 168</a>, on 10 December 2016.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> However, Carvalho pulled out of the fight due to injury.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> The rematch eventually took place on 8 April 2017 at <a href="/wiki/Bellator_MMA_in_2017#Bellator_176" title="Bellator MMA in 2017">Bellator 176</a>. Manhoef lost the bout via knockout due to a head kick in the fourth round.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
-</p><p>Manhoef made a comeback to kickboxing and faced <a href="/wiki/Remy_Bonjasky" title="Remy Bonjasky">Remy Bonjasky</a> for the fourth time, after losing three times, on 29 October 2017. Manhoef won the bout by decision. He announced his retirement from kickboxing and stated that he would focus on his MMA career.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
-</p><p>In May 2018 it was revealed that Manhoef and Bellator had come to terms for an exclusive, multi-fight contract.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
-</p><p>Manhoef was scheduled to face <a href="/wiki/Chidi_Njokuani" title="Chidi Njokuani">Chidi Njokuani</a> on 30 November 2018 at <a href="/wiki/Bellator_MMA_in_2018#Bellator_210" title="Bellator MMA in 2018">Bellator 210</a>.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> However, on 1 November 2018 it was reported that Manhoef pulled out from the event due to injury and he was replaced by <a href="/wiki/John_Salter" title="John Salter">John Salter</a>.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
-</p><p>After over two years away from MMA action, Manhoef returned and faced Kent Kauppinen at <a href="/wiki/Bellator_MMA_in_2019#Bellator_London/Bellator_223" title="Bellator MMA in 2019">Bellator 223</a>. He won the fight by unanimous decision.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> 
-</p>
-<h2><span class="mw-headline" id="Business_career">Business career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=5" title="Edit section: Business career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Manhoef founded a kickboxing and MMA-promotion named World Fighting League.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Championships_and_accomplishments">Championships and accomplishments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=6" title="Edit section: Championships and accomplishments">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Kickboxing">Kickboxing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=7" title="Edit section: Kickboxing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><b><a href="/wiki/It%27s_Showtime_(kickboxing)" title="It&#39;s Showtime (kickboxing)">It's Showtime</a></b>
-<ul><li><a href="/wiki/List_of_It%27s_Showtime_champions" class="mw-redirect" title="List of It&#39;s Showtime champions">It's Showtime 85&#160;kg MAX champion</a> (One time, first)</li></ul></li></ul>
-<h3><span class="mw-headline" id="Mixed_martial_arts">Mixed martial arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=8" title="Edit section: Mixed martial arts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<ul><li><b><a href="/wiki/Cage_Rage" class="mw-redirect" title="Cage Rage">Cage Rage</a></b>
-<ul><li><a href="/wiki/List_of_Cage_Rage_champions" title="List of Cage Rage champions">Cage Rage Light Heavyweight Champion</a> (One time)</li>
-<li>Two Successful Title Defenses</li></ul></li>
-<li><b><a href="/wiki/Dream_(Mixed_Martial_Arts)" class="mw-redirect" title="Dream (Mixed Martial Arts)">DREAM</a></b>
-<ul><li><a href="/wiki/Dream_(mixed_martial_arts)" title="Dream (mixed martial arts)">DREAM</a> Middleweight Grand Prix Semifinalist</li></ul></li>
-<li><b><a href="/wiki/K-1_Hero%27s" class="mw-redirect" title="K-1 Hero&#39;s">K-1 Hero's</a></b>
-<ul><li>2006 Hero's Light Heavyweight Finalist</li></ul></li>
-<li><b><a href="/wiki/Sherdog" title="Sherdog">Sherdog</a></b>
-<ul><li>2012 All-Violence First Team<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></li></ul></li>
-<li><b>Gringo Super Fight</b>
-<ul><li>2014 GSF Welterweight Champion</li></ul></li></ul>
-<h2><span class="mw-headline" id="Mixed_martial_arts_record">Mixed martial arts record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=9" title="Edit section: Mixed martial arts record">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="wikitable collapsible">
-
-<tbody><tr>
-<td style="background:#edf1f1;border-style:none none none none;text-align:center;text-style:normal" colspan="2"><b>Professional record breakdown</b>
-</td>
-<th style="background:#edf1f1;border-style:none none none none;">
-</th></tr>
-<tr>
-<td style="background:#e3e3e3;text-align:center"><b>48&#160;matches</b>
-</td>
-<td style="background:#e3e3e3;text-align:center"><b>31 wins</b>
-</td>
-<td style="background:#e3e3e3;text-align:center"><b>14 losses</b>
-</td></tr>
-<tr>
-<td style="background:#e3e3e3;text-align:left"><b>By knockout</b>
-</td>
-<td align="center" style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">28
-</td>
-<td align="center" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">5
-</td></tr>
-<tr>
-<td style="background:#e3e3e3;text-align:left"><b>By submission</b>
-</td>
-<td align="center" style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">0
-</td>
-<td align="center" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">7
-</td></tr>
-<tr>
-<td style="background:#e3e3e3;text-align:left"><b>By decision</b>
-</td>
-<td align="center" style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">3
-</td>
-<td align="center" style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">2
-</td></tr>
-
-
-<tr>
-<td style="background:#e3e3e3;text-align:left"><b>Draws</b>
-</td>
-<td style="background:#dae2f1;text-align:center" colspan="2">1
-</td></tr>
-<tr>
-<td style="background:#e3e3e3;text-align:left"><b>No contests</b>
-</td>
-<td style="background:#dae2f1;text-align:center" colspan="2">2
-</td></tr></tbody></table>
-<table class="wikitable" style="font-size: 85%;">
-
-<tbody><tr>
-<th>Res.
-</th>
-<th>Record
-</th>
-<th>Opponent
-</th>
-<th>Method
-</th>
-<th>Event
-</th>
-<th>Date
-</th>
-<th>Round
-</th>
-<th>Time
-</th>
-<th>Location
-</th>
-<th>Notes
-</th></tr>
-
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">31–14–1 (2)
-</td>
-<td>Kent Kauppinen
-</td>
-<td>Decision (unanimous)
-</td>
-<td><a href="/wiki/Bellator_MMA_in_2019#Bellator_London/Bellator_223" title="Bellator MMA in 2019">Bellator 223</a>
-</td>
-<td><span data-sort-value="000000002019-06-22-0000" style="white-space:nowrap">22 June 2019</span>
-</td>
-<td align="center">3
-</td>
-<td align="center">5:00
-</td>
-<td><a href="/wiki/London" title="London">London</a>, England
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">30–14–1 (2)
-</td>
-<td><a href="/wiki/Rafael_Carvalho" title="Rafael Carvalho">Rafael Carvalho</a>
-</td>
-<td>KO (head kick)
-</td>
-<td><a href="/wiki/Bellator_MMA_in_2017#Bellator_176" title="Bellator MMA in 2017">Bellator 176</a>
-</td>
-<td><span data-sort-value="000000002017-04-08-0000" style="white-space:nowrap">8 April 2017</span>
-</td>
-<td align="center">4
-</td>
-<td align="center">3:15
-</td>
-<td><a href="/wiki/Torino" class="mw-redirect" title="Torino">Torino</a>, Italy
-</td>
-<td><span style="font-size:85%;">For the <a href="/wiki/List_of_Bellator_champions#Middleweight_Championship" class="mw-redirect" title="List of Bellator champions">Bellator Middleweight Championship</a>.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">30–13–1 (2)
-</td>
-<td><a href="/wiki/Rafael_Carvalho" title="Rafael Carvalho">Rafael Carvalho</a>
-</td>
-<td>Decision (split)
-</td>
-<td><a href="/wiki/Bellator_MMA_in_2016#Bellator_155" title="Bellator MMA in 2016">Bellator 155</a>
-</td>
-<td><span data-sort-value="000000002016-05-20-0000" style="white-space:nowrap">20 May 2016</span>
-</td>
-<td align="center">5
-</td>
-<td align="center">5:00
-</td>
-<td><a href="/wiki/Boise,_Idaho" title="Boise, Idaho">Boise, Idaho</a>, United States
-</td>
-<td><span style="font-size:85%;">For the <a href="/wiki/List_of_Bellator_champions#Middleweight_Championship" class="mw-redirect" title="List of Bellator champions">Bellator Middleweight Championship</a>.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">30–12–1 (2)
-</td>
-<td><a href="/wiki/Hisaki_Kato" title="Hisaki Kato">Hisaki Kato</a>
-</td>
-<td>KO (punch)
-</td>
-<td><a href="/wiki/Bellator_146" class="mw-redirect" title="Bellator 146">Bellator 146</a>
-</td>
-<td><span data-sort-value="000000002015-11-20-0000" style="white-space:nowrap">20 November 2015</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">3:43
-</td>
-<td><a href="/wiki/Thackerville,_Oklahoma" title="Thackerville, Oklahoma">Thackerville, Oklahoma</a>, United States
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#c5d2ea; color:black; vertical-align:middle; text-align:center;" class="table-draw">NC
-</td>
-<td align="center">29–12–1 (2)
-</td>
-<td><a href="/wiki/Alexander_Shlemenko" title="Alexander Shlemenko">Alexander Shlemenko</a>
-</td>
-<td>NC (overturned)
-</td>
-<td><a href="/wiki/Bellator_133" class="mw-redirect" title="Bellator 133">Bellator 133</a>
-</td>
-<td><span data-sort-value="000000002015-02-13-0000" style="white-space:nowrap">13 February 2015</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">1:25
-</td>
-<td><a href="/wiki/Fresno,_California" title="Fresno, California">Fresno, California</a>, United States
-</td>
-<td><span style="font-size:85%;">Originally knockout win for Shlemenko; overturned after he tested positive for <a href="/wiki/Anabolic_steroids" class="mw-redirect" title="Anabolic steroids">Anabolic steroids</a>.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">29–12–1 (1)
-</td>
-<td><a href="/wiki/Joe_Schilling" title="Joe Schilling">Joe Schilling</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/Bellator_131" class="mw-redirect" title="Bellator 131">Bellator 131</a>
-</td>
-<td><span data-sort-value="000000002014-11-15-0000" style="white-space:nowrap">15 November 2014</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">0:32
-</td>
-<td><a href="/wiki/San_Diego,_California" class="mw-redirect" title="San Diego, California">San Diego, California</a>, United States
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">29–11–1 (1)
-</td>
-<td><a href="/wiki/Doug_Marshall" title="Doug Marshall">Doug Marshall</a>
-</td>
-<td>KO (punch)
-</td>
-<td><a href="/wiki/Bellator_125" class="mw-redirect" title="Bellator 125">Bellator 125</a>
-</td>
-<td><span data-sort-value="000000002014-09-19-0000" style="white-space:nowrap">19 September 2014</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:45
-</td>
-<td><a href="/wiki/Fresno,_California" title="Fresno, California">Fresno, California</a>, United States
-</td>
-<td><span style="font-size:85%;">Return to Middleweight.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">28–11–1 (1)
-</td>
-<td><a href="/wiki/Evangelista_Santos" title="Evangelista Santos">Evangelista Santos</a>
-</td>
-<td>TKO (punches)
-</td>
-<td>Gringo Super Fight 10
-</td>
-<td><span data-sort-value="000000002014-04-27-0000" style="white-space:nowrap">27 April 2014</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:46
-</td>
-<td><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, Brazil
-</td>
-<td><span style="font-size:85%;">Won the Gringo Super Fight Welterweight Title.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">27–11–1 (1)
-</td>
-<td><a href="/wiki/Mamed_Khalidov" title="Mamed Khalidov">Mamed Khalidov</a>
-</td>
-<td>Submission (guillotine choke)
-</td>
-<td><a href="/wiki/2013_in_Konfrontacja_Sztuk_Walki_events#KSW_23" class="mw-redirect" title="2013 in Konfrontacja Sztuk Walki events">KSW 23</a>
-</td>
-<td><span data-sort-value="000000002013-06-08-0000" style="white-space:nowrap">8 June 2013</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:09
-</td>
-<td><a href="/wiki/Gda%C5%84sk" title="Gdańsk">Gdańsk</a>, Poland
-</td>
-<td><span style="font-size:85%;">Catchweight (87&#160;kg) bout; Khalidov failed to make weight.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">27–10–1 (1)
-</td>
-<td><a href="/wiki/Brock_Larson" title="Brock Larson">Brock Larson</a>
-</td>
-<td>Decision (unanimous)
-</td>
-<td><a href="/wiki/ONE_FC_Events#ONE_Fighting_Championship:_Kings_and_Champions" class="mw-redirect" title="ONE FC Events">ONE Fighting Championship: Kings and Champions</a>
-</td>
-<td><span data-sort-value="000000002013-04-05-0000" style="white-space:nowrap">5 April 2013</span>
-</td>
-<td align="center">3
-</td>
-<td align="center">5:00
-</td>
-<td><a href="/wiki/Kallang" title="Kallang">Kallang</a>, Singapore
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">27–9–1 (1)
-</td>
-<td><a href="/wiki/Denis_Kang" title="Denis Kang">Denis Kang</a>
-</td>
-<td>TKO (knee to the body)
-</td>
-<td><a href="/wiki/Dream_18" class="mw-redirect" title="Dream 18">Dream 18</a>
-</td>
-<td><span data-sort-value="000000002012-12-31-0000" style="white-space:nowrap">31 December 2012</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:50
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">26–9–1 (1)
-</td>
-<td><a href="/wiki/Ryo_Kawamura" title="Ryo Kawamura">Ryo Kawamura</a>
-</td>
-<td>KO (punch)
-</td>
-<td><a href="/wiki/ONE_Fighting_Championship:_Rise_of_Kings" class="mw-redirect" title="ONE Fighting Championship: Rise of Kings">ONE FC: Rise of Kings</a>
-</td>
-<td><span data-sort-value="000000002012-10-06-0000" style="white-space:nowrap">6 October 2012</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">4:40
-</td>
-<td><a href="/wiki/Kallang" title="Kallang">Kallang</a>, Singapore
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">25–9–1 (1)
-</td>
-<td>Jae Young Kim
-</td>
-<td>Decision (split)
-</td>
-<td>Road FC 9: Beatdown
-</td>
-<td><span data-sort-value="000000002012-09-15-0000" style="white-space:nowrap">15 September 2012</span>
-</td>
-<td align="center">3
-</td>
-<td align="center">5:00
-</td>
-<td>Wonju Chiak Indoor Gym, South Korea
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background-color: #c5d2ea; text-align:center">NC
-</td>
-<td align="center">24–9–1 (1)
-</td>
-<td>Yoshiyuki Nakanishi
-</td>
-<td>NC
-</td>
-<td><a href="/wiki/ONE_FC_Events#ONE_Fighting_Championship:_War_of_the_Lions" class="mw-redirect" title="ONE FC Events">ONE FC: War of the Lions</a>
-</td>
-<td><span data-sort-value="000000002012-03-31-0000" style="white-space:nowrap">31 March 2012</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:08
-</td>
-<td><a href="/wiki/Kallang" title="Kallang">Kallang</a>, Singapore
-</td>
-<td><span style="font-size:85%;">Catchweight (88&#160;kg); gash on Manhoef's leg rendered him unable to continue.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">24–9–1
-</td>
-<td><a href="/wiki/Tim_Kennedy_(fighter)" title="Tim Kennedy (fighter)">Tim Kennedy</a>
-</td>
-<td>Submission (rear-naked choke)
-</td>
-<td><a href="/wiki/Strikeforce:_Feijao_vs._Henderson" title="Strikeforce: Feijao vs. Henderson">Strikeforce: Feijao vs. Henderson</a>
-</td>
-<td><span data-sort-value="000000002011-03-05-0000" style="white-space:nowrap">5 March 2011</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">3:41
-</td>
-<td><a href="/wiki/Columbus,_Ohio" title="Columbus, Ohio">Columbus, Ohio</a>, United States
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">24–8–1
-</td>
-<td><a href="/wiki/Tatsuya_Mizuno" title="Tatsuya Mizuno">Tatsuya Mizuno</a>
-</td>
-<td>Submission (kimura)
-</td>
-<td><a href="/wiki/Dream_15" title="Dream 15">Dream 15</a>
-</td>
-<td><span data-sort-value="000000002010-07-10-0000" style="white-space:nowrap">10 July 2010</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">7:38
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Dream" title="Dream">Dream</a> Light Heavyweight Grand Prix Semifinal.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">24–7–1
-</td>
-<td><a href="/wiki/Robbie_Lawler" title="Robbie Lawler">Robbie Lawler</a>
-</td>
-<td>KO (punch)
-</td>
-<td><a href="/wiki/Strikeforce:_Miami" title="Strikeforce: Miami">Strikeforce: Miami</a>
-</td>
-<td><span data-sort-value="000000002010-01-30-0000" style="white-space:nowrap">30 January 2010</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">3:33
-</td>
-<td><a href="/wiki/Sunrise,_Florida" title="Sunrise, Florida">Sunrise, Florida</a>, United States
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">24–6–1
-</td>
-<td><a href="/wiki/Kazuo_Misaki" title="Kazuo Misaki">Kazuo Misaki</a>
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/Dynamite!!_2009" title="Dynamite!! 2009">Dynamite!! The Power of Courage 2009</a>
-</td>
-<td><span data-sort-value="000000002009-12-31-0000" style="white-space:nowrap">31 December 2009</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:49
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">23–6–1
-</td>
-<td><a href="/wiki/Paulo_Filho" title="Paulo Filho">Paulo Filho</a>
-</td>
-<td>Submission (armbar)
-</td>
-<td><a href="/wiki/Dream_10" title="Dream 10">Dream 10</a>
-</td>
-<td><span data-sort-value="000000002009-07-20-0000" style="white-space:nowrap">20 July 2009</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:35
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">23–5–1
-</td>
-<td><a href="/wiki/Mark_Hunt" title="Mark Hunt">Mark Hunt</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/Dynamite!!_2008" title="Dynamite!! 2008">Fields Dynamite!! 2008</a>
-</td>
-<td><span data-sort-value="000000002008-12-31-0000" style="white-space:nowrap">31 December 2008</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:18
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td><span style="font-size:85%;">Heavyweight bout.</span>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">22–5–1
-</td>
-<td><a href="/wiki/Gegard_Mousasi" title="Gegard Mousasi">Gegard Mousasi</a>
-</td>
-<td>Submission (triangle choke)
-</td>
-<td><a href="/wiki/Dream_6" title="Dream 6">Dream 6: Middleweight Grand Prix 2008 Final Round</a>
-</td>
-<td><span data-sort-value="000000002008-09-23-0000" style="white-space:nowrap">23 September 2008</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:28
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Dream" title="Dream">Dream</a> Middleweight Grand Prix Semifinal.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">22–4–1
-</td>
-<td><a href="/wiki/Kazushi_Sakuraba" title="Kazushi Sakuraba">Kazushi Sakuraba</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/Dream_4" title="Dream 4">Dream 4: Middleweight Grand Prix 2008 Second Round</a>
-</td>
-<td><span data-sort-value="000000002008-06-15-0000" style="white-space:nowrap">15 June 2008</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:30
-</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Dream" title="Dream">Dream</a> Middleweight Grand Prix Quarterfinal.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">21–4–1
-</td>
-<td>Dae Won Kim
-</td>
-<td>TKO (knee and punches)
-</td>
-<td><a href="/wiki/Dream_3" title="Dream 3">Dream 3: Lightweight Grand Prix 2008 Second Round</a>
-</td>
-<td><span data-sort-value="000000002008-05-11-0000" style="white-space:nowrap">11 May 2008</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">4:08
-</td>
-<td><a href="/wiki/Saitama,_Saitama" class="mw-redirect" title="Saitama, Saitama">Saitama, Saitama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Dream" title="Dream">Dream</a> Middleweight Grand Prix Reserve bout.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">20–4–1
-</td>
-<td>Yosuke Nishijima
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/K-1_PREMIUM_2007_Dynamite!!" title="K-1 PREMIUM 2007 Dynamite!!">K-1 PREMIUM 2007 Dynamite!!</a>
-</td>
-<td><span data-sort-value="000000002007-12-31-0000" style="white-space:nowrap">31 December 2007</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:49
-</td>
-<td><a href="/wiki/Osaka" title="Osaka">Osaka</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">19–4–1
-</td>
-<td><a href="/wiki/F%C3%A1bio_Silva_(fighter)" title="Fábio Silva (fighter)">Fábio Silva</a>
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/K-1_Hero%27s" class="mw-redirect" title="K-1 Hero&#39;s">Hero's 10</a>
-</td>
-<td><span data-sort-value="000000002007-09-17-0000" style="white-space:nowrap">17 September 2007</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:00
-</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">18–4–1
-</td>
-<td><a href="/wiki/Bernard_Ackah" title="Bernard Ackah">Bernard Ackah</a>
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/K-1_Hero%27s" class="mw-redirect" title="K-1 Hero&#39;s">Hero's 9</a>
-</td>
-<td><span data-sort-value="000000002007-07-16-0000" style="white-space:nowrap">16 July 2007</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:13
-</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">17–4–1
-</td>
-<td><a href="/wiki/Dong_Sik_Yoon" class="mw-redirect" title="Dong Sik Yoon">Dong Sik Yoon</a>
-</td>
-<td>Submission (armbar)
-</td>
-<td><a href="/wiki/K-1_Dynamite!!_USA" class="mw-redirect" title="K-1 Dynamite!! USA">K-1 Dynamite!! USA</a>
-</td>
-<td><span data-sort-value="000000002007-06-02-0000" style="white-space:nowrap">2 June 2007</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">1:17
-</td>
-<td><a href="/wiki/Los_Angeles,_California" class="mw-redirect" title="Los Angeles, California">Los Angeles, California</a>, United States
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">17–3–1
-</td>
-<td><a href="/wiki/Kazuo_Takahashi" title="Kazuo Takahashi">Yoshiki Takahashi</a>
-</td>
-<td>TKO (punches)
-</td>
-<td>Hero's 8
-</td>
-<td><span data-sort-value="000000002007-03-12-0000" style="white-space:nowrap">12 March 2007</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:36
-</td>
-<td><a href="/wiki/Nagoya" title="Nagoya">Nagoya</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">16–3–1
-</td>
-<td><a href="/wiki/Yoshihiro_Akiyama" title="Yoshihiro Akiyama">Yoshihiro Akiyama</a>
-</td>
-<td>Submission (armbar)
-</td>
-<td>Hero's 7
-</td>
-<td><span data-sort-value="000000002006-10-09-0000" style="white-space:nowrap">9 October 2006</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:58
-</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Hero%27s" title="Hero&#39;s">Hero's</a> 2006 Light Heavyweight Grand Prix Final.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">16–2–1
-</td>
-<td><a href="/wiki/Shungo_Oyama" title="Shungo Oyama">Shungo Oyama</a>
-</td>
-<td>TKO (punches)
-</td>
-<td>Hero's 7
-</td>
-<td><span data-sort-value="000000002006-10-09-0000" style="white-space:nowrap">9 October 2006</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:04
-</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Hero%27s" title="Hero&#39;s">Hero's</a> 2006 Light Heavyweight Grand Prix Semifinal.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">15–2–1
-</td>
-<td>Crosley Gracie
-</td>
-<td>TKO (punches)
-</td>
-<td>Hero's 6
-</td>
-<td><span data-sort-value="000000002006-08-05-0000" style="white-space:nowrap">5 August 2006</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">9:12
-</td>
-<td><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, Japan
-</td>
-<td><span style="font-size:85%;"><a href="/wiki/Hero%27s" title="Hero&#39;s">Hero's</a> 2006 Light Heavyweight Grand Prix Quarterfinal.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">14–2–1
-</td>
-<td><a href="/wiki/Ian_Freeman" title="Ian Freeman">Ian Freeman</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/2006_in_Cage_Rage_Championships#Cage_Rage_17" title="2006 in Cage Rage Championships">Cage Rage 17</a>
-</td>
-<td><span data-sort-value="000000002006-07-01-0000" style="white-space:nowrap">1 July 2006</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:17
-</td>
-<td><a href="/wiki/London" title="London">London</a>, England
-</td>
-<td><span style="font-size:85%;">Defended the <a href="/wiki/List_of_Cage_Rage_champions#Light_Heavyweight_Championship" title="List of Cage Rage champions">Cage Rage Light Heavyweight Championship</a>.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">13–2–1
-</td>
-<td><a href="/wiki/Shungo_Oyama" title="Shungo Oyama">Shungo Oyama</a>
-</td>
-<td>TKO (doctor stoppage)
-</td>
-<td>Hero's 4
-</td>
-<td><span data-sort-value="000000002006-03-15-0000" style="white-space:nowrap">15 March 2006</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">2:51
-</td>
-<td><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, Japan
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">12–2–1
-</td>
-<td><a href="/wiki/Evangelista_Santos" title="Evangelista Santos">Evangelista Santos</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/2006_in_Cage_Rage_Championships#Cage_Rage_15" title="2006 in Cage Rage Championships">Cage Rage 15</a>
-</td>
-<td><span data-sort-value="000000002006-02-04-0000" style="white-space:nowrap">4 February 2006</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">3:51
-</td>
-<td><a href="/wiki/London" title="London">London</a>, England
-</td>
-<td><span style="font-size:85%;">Defended the <a href="/wiki/List_of_Cage_Rage_champions#World_Light_Heavyweight_Championship" title="List of Cage Rage champions">Cage Rage Light Heavyweight Championship</a>.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">11–2–1
-</td>
-<td>Fabio Piamonte
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/2005_in_Cage_Rage_Championships#Cage_Rage_13" title="2005 in Cage Rage Championships">Cage Rage 13</a>
-</td>
-<td><span data-sort-value="000000002005-09-10-0000" style="white-space:nowrap">10 September 2005</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:51
-</td>
-<td><a href="/wiki/London" title="London">London</a>, England
-</td>
-<td><span style="font-size:85%;">Won the <a href="/wiki/List_of_Cage_Rage_champions#World_Light_Heavyweight_Championship" title="List of Cage Rage champions">Cage Rage World Light Heavyweight Championship</a>.</span>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">10–2–1
-</td>
-<td><a href="/wiki/Paul_Cahoon" title="Paul Cahoon">Paul Cahoon</a>
-</td>
-<td>TKO (punches)
-</td>
-<td>CFC 4 Cage Carnage
-</td>
-<td><span data-sort-value="000000002005-07-03-0000" style="white-space:nowrap">3 July 2005</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">N/A
-</td>
-<td><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a>, England
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">9–2–1
-</td>
-<td><a href="/wiki/Bob_Schrijber" title="Bob Schrijber">Bob Schrijber</a>
-</td>
-<td>Decision (unanimous)
-</td>
-<td><a href="/wiki/It%27s_Showtime_Boxing_%26_MMA_Event_2005_Amsterdam" class="mw-redirect" title="It&#39;s Showtime Boxing &amp; MMA Event 2005 Amsterdam">It's Showtime Boxing &amp; MMA Event 2005 Amsterdam</a>
-</td>
-<td><span data-sort-value="000000002005-06-12-0000" style="white-space:nowrap">12 June 2005</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">5:00
-</td>
-<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">8–2–1
-</td>
-<td>Ladislav Zak
-</td>
-<td>TKO (corner stoppage)
-</td>
-<td>Queens Fight Night
-</td>
-<td><span data-sort-value="000000002005-04-30-0000" style="white-space:nowrap">30 April 2005</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:37
-</td>
-<td><a href="/wiki/Eindhoven" title="Eindhoven">Eindhoven</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">7–2–1
-</td>
-<td>Matthias Riccio
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/2005_in_Cage_Rage_Championships#Cage_Rage_10" title="2005 in Cage Rage Championships">Cage Rage 10</a>
-</td>
-<td><span data-sort-value="000000002005-02-26-0000" style="white-space:nowrap">26 February 2005</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">3:01
-</td>
-<td><a href="/wiki/London" title="London">London</a>, England
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">6–2–1
-</td>
-<td><a href="/wiki/Rodney_Glunder" title="Rodney Glunder">Rodney Glunder</a>
-</td>
-<td>KO (punches)
-</td>
-<td><a href="/wiki/It%27s_Showtime_2004_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2004 Amsterdam">It's Showtime 2004 Amsterdam</a>
-</td>
-<td><span data-sort-value="000000002004-05-20-0000" style="white-space:nowrap">20 May 2004</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">4:43
-</td>
-<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">6–1–1
-</td>
-<td>Slavomir Molnar
-</td>
-<td>KO (punches)
-</td>
-<td>Heaven or Hell 4
-</td>
-<td><span data-sort-value="000000002004-04-08-0000" style="white-space:nowrap">8 April 2004</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">N/A
-</td>
-<td><a href="/wiki/Prague" title="Prague">Prague</a>, Czech Republic
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">5–1–1
-</td>
-<td>Alexandr Garkushenko
-</td>
-<td>TKO (punches)
-</td>
-<td><a href="/wiki/2003_in_M-1_Global#M-1_MFC:_Russia_vs._the_World_5" title="2003 in M-1 Global">M-1 MFC: Russia vs. the World 5</a>
-</td>
-<td><span data-sort-value="000000002003-04-06-0000" style="white-space:nowrap">6 April 2003</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">6:57
-</td>
-<td><a href="/wiki/Saint_Petersburg" title="Saint Petersburg">Saint Petersburg</a>, Russia
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background: #ffdddd; color: black; vertical-align: middle; text-align: center;" class="table-no2">Loss
-</td>
-<td align="center">4–1–1
-</td>
-<td><a href="/wiki/Bob_Schrijber" title="Bob Schrijber">Bob Schrijber</a>
-</td>
-<td>KO (punches)
-</td>
-<td>2H2H 11: Simply the Best
-</td>
-<td><span data-sort-value="000000002003-03-16-0000" style="white-space:nowrap">16 March 2003</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">4:04
-</td>
-<td><a href="/wiki/Rotterdam" title="Rotterdam">Rotterdam</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">4–0–1
-</td>
-<td>Mika Ilmén
-</td>
-<td>KO (punch)
-</td>
-<td><a href="/wiki/It%27s_Showtime_%E2%80%93_As_Usual_/_Battle_Time" class="mw-redirect" title="It&#39;s Showtime – As Usual / Battle Time">It's Showtime – As Usual / Battle Time</a>
-</td>
-<td><span data-sort-value="000000002002-09-29-0000" style="white-space:nowrap">29 September 2002</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">0:35
-</td>
-<td><a href="/wiki/Haarlem" title="Haarlem">Haarlem</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">3–0–1
-</td>
-<td><a href="/wiki/Paul_Cahoon" title="Paul Cahoon">Paul Cahoon</a>
-</td>
-<td>TKO (corner stoppage)
-</td>
-<td><a href="/wiki/2002_in_Fighting_Network_Rings#Rings_Holland:_Saved_by_the_Bell" title="2002 in Fighting Network Rings">Rings Holland: Saved by the Bell</a>
-</td>
-<td><span data-sort-value="000000002002-06-02-0000" style="white-space:nowrap">2 June 2002</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">2:07
-</td>
-<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">2–0–1
-</td>
-<td>Husein Cift
-</td>
-<td>KO (punches)
-</td>
-<td>Hoogwoud Free Fight Gala
-</td>
-<td><span data-sort-value="000000002001-12-15-0000" style="white-space:nowrap">15 December 2001</span>
-</td>
-<td align="center">1
-</td>
-<td align="center">1:50
-</td>
-<td><a href="/wiki/Hoogwoud" title="Hoogwoud">Hoogwoud</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#c5d2ea; color:black; vertical-align:middle; text-align:center;" class="table-draw">Draw
-</td>
-<td align="center">1–0–1
-</td>
-<td><a href="/wiki/Rodney_Glunder" title="Rodney Glunder">Rodney Glunder</a>
-</td>
-<td>Draw
-</td>
-<td><a href="/wiki/1999_in_Fighting_Network_Rings#Rings_Holland:_The_Kings_of_the_Magic_Ring" title="1999 in Fighting Network Rings">Rings Holland: The Kings of the Magic Ring</a>
-</td>
-<td><span data-sort-value="000000001999-06-20-0000" style="white-space:nowrap">20 June 1999</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">5:00
-</td>
-<td><a href="/wiki/Utrecht" title="Utrecht">Utrecht</a>, Netherlands
-</td>
-<td>
-</td></tr>
-<tr>
-<td style="background:#bfd; color:black; vertical-align:middle; text-align:center;" class="table-yes2">Win
-</td>
-<td align="center">1–0
-</td>
-<td>Jordy Jonkers
-</td>
-<td>TKO (palm strike and head kick)
-</td>
-<td>Battle of Amstelveen II
-</td>
-<td><span data-sort-value="000000001995-12-02-0000" style="white-space:nowrap">2 December 1995</span>
-</td>
-<td align="center">2
-</td>
-<td align="center">3:37
-</td>
-<td><a href="/wiki/Amstelveen" title="Amstelveen">Amstelveen</a>, Netherlands
-</td>
-<td>
-</td></tr></tbody></table>
-<p><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Kickboxing_record">Kickboxing record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=10" title="Edit section: Kickboxing record">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="toccolours" style="width:100%; clear:both; margin:1.5em auto; font-size:85%; text-align:center;">
-
-<tbody><tr>
-<th colspan="2" style="background:darkGrey;"><span style="color:white;">Professional kickboxing record</span>
-</th></tr>
-<tr valign="top">
-<td><div class="NavFrame">
-<div class="NavHead" style="background:white;"><span style="color:black;"><b>38 Wins</b> (27 (T)KO's), <b>14 Losses</b></span></div>
-<div class="NavContent" style="text-align:left; display:collapse;">
-<table class="wikitable" style="width:100%;">
-
-<tbody><tr style="text-align:center; background:#ddd;">
-<td><b>Date</b></td>
-<td><b>Result</b></td>
-<td><b>Opponent</b></td>
-<td><b>Event</b></td>
-<td><b>Location</b></td>
-<td><b>Method</b></td>
-<td><b>Round</b></td>
-<td><b>Time</b>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2017-10-29</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Remy_Bonjasky" title="Remy Bonjasky">Remy Bonjasky</a></td>
-<td>WFL: Manhoef vs. Bonjasky, Final 16</td>
-<td><a href="/wiki/Almere" title="Almere">Almere</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#ffbbbb">
-<td>2016-04-16</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Romania" title="Romania"><img alt="Romania" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> Alexandru Negrea</td>
-<td><a href="/wiki/Bellator_MMA_in_2016#Bellator_152" title="Bellator MMA in 2016">Bellator Kickboxing 1</a></td>
-<td><a href="/wiki/Turin,_Italy" class="mw-redirect" title="Turin, Italy">Turin, Italy</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#ffbbbb">
-<td>2014-07-25</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Spain" title="Spain"><img alt="Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></span> <a href="/wiki/C%C3%A9sar_C%C3%B3rdoba" title="César Córdoba">César Córdoba</a></td>
-<td>International Fighting Championship</td>
-<td><a href="/wiki/Badalona" title="Badalona">Badalona, Spain</a></td>
-<td>TKO (Referee stoppage)</td>
-<td>1</td>
-<td>2:59
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2014-06-21</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> <a href="/wiki/Filip_Verlinden" title="Filip Verlinden">Filip Verlinden</a></td>
-<td><a href="/wiki/Glory_17:_Los_Angeles" class="mw-redirect" title="Glory 17: Los Angeles">Glory 17: Los Angeles</a> - Middleweight Last Man Standing Tournament, Quarter Finals</td>
-<td><a href="/wiki/Inglewood,_California,_USA" class="mw-redirect" title="Inglewood, California, USA">Inglewood, California, USA</a></td>
-<td>Decision (Majority)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2013-11-09</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Azerbaijan" title="Azerbaijan"><img alt="Azerbaijan" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/35px-Flag_of_Azerbaijan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/46px-Flag_of_Azerbaijan.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Zabit_Samedov" title="Zabit Samedov">Zabit Samedov</a></td>
-<td>Legend 2: Invasion, Semi Finals</td>
-<td><a href="/wiki/Moscow,_Russia" class="mw-redirect" title="Moscow, Russia">Moscow, Russia</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr style="text-align:center" bgcolor="#ffbbbb">
-<td>2012-01-28</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Tyrone_Spong" title="Tyrone Spong">Tyrone Spong</a></td>
-<td>It's Showtime 2012 in Leeuwarden</td>
-<td><a href="/wiki/Leeuwarden,_Netherlands" class="mw-redirect" title="Leeuwarden, Netherlands">Leeuwarden, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2010-05-29</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Gokhan_Saki" class="mw-redirect" title="Gokhan Saki">Gokhan Saki</a></td>
-<td><a href="/wiki/It%27s_Showtime_2010_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2010 Amsterdam">It's Showtime 2010 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>TKO (Referee stoppage)</td>
-<td>2</td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2009-09-26</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Remy_Bonjasky" title="Remy Bonjasky">Remy Bonjasky</a></td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2009_Final_16" class="mw-redirect" title="K-1 World Grand Prix 2009 Final 16">K-1 World Grand Prix 2009 Final 16</a></td>
-<td><a href="/wiki/Seoul,_Republic_of_Korea" class="mw-redirect" title="Seoul, Republic of Korea">Seoul, Republic of Korea</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Fails to qualify for <a href="/wiki/K-1_World_Grand_Prix_2009_Final" title="K-1 World Grand Prix 2009 Final">K-1 World Grand Prix 2009 Final</a>.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2009-08-29</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> Dénes Rácz</td>
-<td><a href="/wiki/It%27s_Showtime_2009_Budapest" class="mw-redirect" title="It&#39;s Showtime 2009 Budapest">It's Showtime 2009 Budapest</a></td>
-<td><a href="/wiki/Budapest" title="Budapest">Budapest</a>, <a href="/wiki/Hungary" title="Hungary">Hungary</a></td>
-<td>TKO (Referee stoppage)</td>
-<td>3</td>
-<td>0:46
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins <a href="/wiki/It%27s_Showtime_(kickboxing)" title="It&#39;s Showtime (kickboxing)">It's Showtime 85MAX World title</a>.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2009-08-11</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ramazan_Ramazanov" title="Ramazan Ramazanov">Ramazan Ramazanov</a></td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2009_in_Tokyo_Final_16_Qualifying_GP" class="mw-redirect" title="K-1 World Grand Prix 2009 in Tokyo Final 16 Qualifying GP">K-1 World Grand Prix 2009 in Tokyo</a>, Quarter Finals</td>
-<td><a href="/wiki/Tokyo" title="Tokyo">Tokyo</a>, <a href="/wiki/Japan" title="Japan">Japan</a></td>
-<td>KO (Punch)</td>
-<td>1</td>
-<td>2:16
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Despite victory is unable to continue in the tournament due to a shin injury.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2009-05-16</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Stefan_Leko" title="Stefan Leko">Stefan Leko</a></td>
-<td><a href="/wiki/It%27s_Showtime_2009_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2009 Amsterdam">It's Showtime 2009 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>TKO (Referee stoppage)</td>
-<td>3</td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2009-03-28</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Kyotaro" class="mw-redirect" title="Kyotaro">Kyotaro</a></td>
-<td><a href="/wiki/K-1_World_GP_2009_in_Yokohama" class="mw-redirect" title="K-1 World GP 2009 in Yokohama">K-1 World GP 2009 in Yokohama</a>, Semi Finals</td>
-<td><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, <a href="/wiki/Japan" title="Japan">Japan</a></td>
-<td>KO (Right hook)</td>
-<td>1</td>
-<td>2:02
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2008-12-06</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Poland" title="Poland"><img alt="Poland" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" /></a></span> <a href="/wiki/Paul_Slowinski" title="Paul Slowinski">Paul Slowinski</a></td>
-<td><a href="/wiki/K-1_World_GP_2008_Final" class="mw-redirect" title="K-1 World GP 2008 Final">K-1 World GP 2008 Final</a>, Reserve Fight</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>KO (Left hook)</td>
-<td>1</td>
-<td>2:26
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2008-04-26</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Remy_Bonjasky" title="Remy Bonjasky">Remy Bonjasky</a></td>
-<td>K-1 World GP 2008 in Amsterdam</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>KO (Flying right high kick)</td>
-<td>3</td>
-<td>2:32
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-06-23</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ruslan_Karaev" title="Ruslan Karaev">Ruslan Karaev</a></td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2007_in_Amsterdam" class="mw-redirect" title="K-1 World Grand Prix 2007 in Amsterdam">K-1 World Grand Prix 2007 in Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>KO (Left hook)</td>
-<td>1</td>
-<td>0:31
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2006-12-02</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="New Zealand" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/35px-Flag_of_New_Zealand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/46px-Flag_of_New_Zealand.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Ray_Sefo" title="Ray Sefo">Ray Sefo</a></td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2006" class="mw-redirect" title="K-1 World Grand Prix 2006">K-1 World Grand Prix 2006</a>, Reserve Fight</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>KO (Right hook)</td>
-<td>1</td>
-<td>0:40
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2006-05-13</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Tatsufumi Tomihira</td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2006_in_Amsterdam" class="mw-redirect" title="K-1 World Grand Prix 2006 in Amsterdam">K-1 World Grand Prix 2006 in Amsterdam</a>, Quarter Finals</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>KO (Punches)</td>
-<td>1</td>
-<td>2:10
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Despite victory is unable to continue in the tournament due to injury.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2005-04-09</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Yuji_Sakuragi" title="Yuji Sakuragi">Yuji Sakuragi</a></td>
-<td>Muay Thai Champions League XIV</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>TKO (Referee stoppage)</td>
-<td>2</td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2005-02-12</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Bosnia_and_Herzegovina" title="Bosnia and Herzegovina"><img alt="Bosnia and Herzegovina" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/35px-Flag_of_Bosnia_and_Herzegovina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/46px-Flag_of_Bosnia_and_Herzegovina.svg.png 2x" data-file-width="800" data-file-height="400" /></a></span> <a href="/wiki/Dzevad_Poturak" class="mw-redirect" title="Dzevad Poturak">Dzevad Poturak</a></td>
-<td>Gala Gym Alkmaar</td>
-<td><a href="/wiki/Alkmaar" title="Alkmaar">Alkmaar</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>KO (Punches)</td>
-<td>3</td>
-<td>2:55
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2002-04-21</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Greece" title="Greece"><img alt="Greece" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/35px-Flag_of_Greece.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/45px-Flag_of_Greece.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> Stavros Anastiadis</td>
-<td>Victory or Hell 3</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>KO (Knee strike)</td>
-<td>1</td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>2002-02-24</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Remy_Bonjasky" title="Remy Bonjasky">Remy Bonjasky</a></td>
-<td><a href="/wiki/K-1_World_Grand_Prix_2002_Preliminary_Netherlands" class="mw-redirect" title="K-1 World Grand Prix 2002 Preliminary Netherlands">K-1 World Grand Prix 2002 Preliminary Netherlands</a>, Quarter Finals</td>
-<td><a href="/wiki/Arnhem,_Netherlands" class="mw-redirect" title="Arnhem, Netherlands">Arnhem, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>1999-03-27</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ashwin_Balrak" title="Ashwin Balrak">Ashwin Balrak</a></td>
-<td>The Fights of the Gladiators</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>1998-09-26</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Jean Jacques</td>
-<td>The Fight of the Champions</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>KO (Left hook)</td>
-<td>2</td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>1996-09-28</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Lesley Nijman</td>
-<td>Thai/Kickboxing Zaandam</td>
-<td><a href="/w/index.php?title=Zaandam,_Netherlands&amp;action=edit&amp;redlink=1" class="new" title="Zaandam, Netherlands (page does not exist)">Zaandam, Netherlands</a></td>
-<td>KO (Strikes)</td>
-<td></td>
-<td>N/A
-</td></tr>
-<tr align="center" bgcolor="#ffbbbb">
-<td>1996-03-16</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Samir Benazzouz</td>
-<td>Thai/Kickboxing Nijmegen</td>
-<td><a href="/wiki/Nijmegen,_Netherlands" class="mw-redirect" title="Nijmegen, Netherlands">Nijmegen, Netherlands</a></td>
-<td>KO (Strikes)</td>
-<td>3</td>
-<td>N/A
-</td></tr>
-</tbody></table></div></div>
-<p><i><b>Legend</b></i>: <span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #CCFFCC; padding:1px .6em; background-color:#CCFFCC; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Win </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #FFBBBB; padding:1px .6em; background-color:#FFBBBB; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Loss </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #c5d2ea; padding:1px .6em; background-color:#c5d2ea; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Draw/No contest </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:White; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Notes </span>
-</p>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/List_of_K-1_events" title="List of K-1 events">List of K-1 events</a></li>
-<li><a href="/wiki/List_of_K-1_champions" title="List of K-1 champions">List of K-1 champions</a></li>
-<li><a href="/wiki/List_of_It%27s_Showtime_champions" class="mw-redirect" title="List of It&#39;s Showtime champions">List of It's Showtime champions</a></li>
-<li><a href="/wiki/List_of_male_kickboxers" title="List of male kickboxers">List of male kickboxers</a></li>
-<li><a href="/wiki/List_of_male_mixed_martial_artists" title="List of male mixed martial artists">List of male mixed martial artists</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaumont_Park&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.blackhousemma.com/fighters/melvin-manhoef"><i>Melvin Manhoef profile</i></a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130306082236/http://www.blackhousemma.com/fighters/melvin-manhoef">Archived</a> 2013-03-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140929115532/http://www.gfcnieuws.com/?p=193135">"Cedric Manhoef Superkombat World Champion 2013"</a> (in Dutch). gfcnieuws.com. 7 November 2014. Archived from <a rel="nofollow" class="external text" href="http://www.gfcnieuws.com/?p=193135">the original</a> on 29 September 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Cedric+Manhoef+Superkombat+World+Champion+2013&amp;rft.pub=gfcnieuws.com&amp;rft.date=2014-11-07&amp;rft_id=http%3A%2F%2Fwww.gfcnieuws.com%2F%3Fp%3D193135&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mmafighting.com/2014/7/21/5924035/bellator-signs-melvin-manhoef">"Bellator signs Melvin Manhoef"</a>. MMA Fighting<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator+signs+Melvin+Manhoef&amp;rft.pub=MMA+Fighting&amp;rft_id=http%3A%2F%2Fwww.mmafighting.com%2F2014%2F7%2F21%2F5924035%2Fbellator-signs-melvin-manhoef&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.sherdog.com/fighter/Melvin-Manhoef-4296">http://www.sherdog.com/fighter/Melvin-Manhoef-4296</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dreamofficial.com/free/fightcard/">"DREAM &#124; 対戦カード"</a>. Dreamofficial.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=DREAM+%26%23124%3B+%E5%AF%BE%E6%88%A6%E3%82%AB%E3%83%BC%E3%83%89&amp;rft.pub=Dreamofficial.com&amp;rft_id=http%3A%2F%2Fwww.dreamofficial.com%2Ffree%2Ffightcard%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fansofk1.com/article?aID=1750&amp;Category=3">"Melvin Manhoef vs Mark Hunt @ Dynamite 2008"</a>. FansOfK1.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melvin+Manhoef+vs+Mark+Hunt+%40+Dynamite+2008&amp;rft.pub=FansOfK1.com&amp;rft_id=http%3A%2F%2Fwww.fansofk1.com%2Farticle%3FaID%3D1750%26Category%3D3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="https://sports.yahoo.com/mma/news?slug=mmajunkie-DREAM10_additions&amp;prov=mmajunkie&amp;type=lgns">[1]</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090529195838/http://sports.yahoo.com/mma/news?slug=mmajunkie-DREAM10_additions&amp;prov=mmajunkie&amp;type=lgns">Archived</a> May 29, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.sherdog.com/news/news/Manhoef-Signs-with-Strikeforce-21251">"Manhoef Signs with Strikeforce"</a>. Sherdog.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Manhoef+Signs+with+Strikeforce&amp;rft.pub=Sherdog&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Fnews%2FManhoef-Signs-with-Strikeforce-21251&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Jack Encarnacao. <a rel="nofollow" class="external text" href="http://www.sherdog.com/news/articles/4/The-Weekly-Wrap-June-12-June-18-25176">"The Weekly Wrap: June 12 - June 18"</a>. Sherdog.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Weekly+Wrap%3A+June+12+-+June+18&amp;rft.pub=Sherdog&amp;rft.au=Jack+Encarnacao&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Farticles%2F4%2FThe-Weekly-Wrap-June-12-June-18-25176&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Dann Stupp. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110205194043/http://mmajunkie.com/news/22329/kennedy-likely-to-meet-manhoef-not-rockhold-at-strikeforce-feijao-vs-henderson.mma">"Kennedy expected to meet Manhoef, not Rockhold, at "Strikeforce: Feijao vs. Henderson<span class="cs1-kern-right">"</span>"</a>. MMAjunkie. Archived from <a rel="nofollow" class="external text" href="http://mmajunkie.com/news/22329/kennedy-likely-to-meet-manhoef-not-rockhold-at-strikeforce-feijao-vs-henderson.mma">the original</a> on 2011-02-05.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kennedy+expected+to+meet+Manhoef%2C+not+Rockhold%2C+at+%22Strikeforce%3A+Feijao+vs.+Henderson%22&amp;rft.pub=MMAjunkie&amp;rft.au=Dann+Stupp&amp;rft_id=http%3A%2F%2Fmmajunkie.com%2Fnews%2F22329%2Fkennedy-likely-to-meet-manhoef-not-rockhold-at-strikeforce-feijao-vs-henderson.mma&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Ray Hui. <a rel="nofollow" class="external text" href="http://www.mmafighting.com/2012/1/31/2761216/renato-babalu-sobral-to-face-melvin-manhoef-at-one-fc-3">"Melvin Manhoef to Face Renato 'Babalu' Sobral at One FC 3"</a>. MMA Fighting.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melvin+Manhoef+to+Face+Renato+%27Babalu%27+Sobral+at+One+FC+3&amp;rft.pub=MMA+Fighting&amp;rft.au=Ray+Hui&amp;rft_id=http%3A%2F%2Fwww.mmafighting.com%2F2012%2F1%2F31%2F2761216%2Frenato-babalu-sobral-to-face-melvin-manhoef-at-one-fc-3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://liverkick.com/index.php?option=com_content&amp;view=article&amp;id=2700:a-look-at-the-eclectic-legend-invasion-fight-card&amp;catid=37:kickboxing&amp;Itemid=75">A Look at the Eclectic LEGEND: Invasion Fight Card</a></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://liverkick.com/index.php?option=com_content&amp;view=article&amp;id=2734:legend-2-invasion-live-results&amp;catid=37:kickboxing&amp;Itemid=75">Legend 2: Invasion Live Results</a></span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bloodyelbow.com/2013/11/8/5081782/legend-invasion-2-gifs-results-paul-daley-mirko-crocop-badr-hari-kickboxing-mma-news">Legend Invasion 2 gifs and results from Moscow</a></span>
-</li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tapology.com/fightcenter/events/23064-gsf-9">"Gringo SF 10 &#124; MMA Event Page"</a>. Tapology. 2014-04-27<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Gringo+SF+10+%26%23124%3B+MMA+Event+Page&amp;rft.pub=Tapology&amp;rft.date=2014-04-27&amp;rft_id=http%3A%2F%2Fwww.tapology.com%2Ffightcenter%2Fevents%2F23064-gsf-9&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://liverkick.com/index.php?option=com_content&amp;view=article&amp;id=2930:glory-17-los-angeles-featuring-ppv-tournament&amp;catid=50:glory&amp;Itemid=75">GLORY 17 Los Angeles Featuring PPV Tournament</a></span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mmamania.com/2014/4/13/5609186/glory-17-last-man-standing-8-man-middleweight-ppv-announced-june-21-los-angeles">GLORY 17: 'Last Man Standing' 8-man middleweight PPV announced for June 21</a></span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://liverkick.com/index.php/item/3022-glory-17-and-last-man-standing-live-results">Glory 17 and Last Man Standing Live Results</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160306191449/http://liverkick.com/index.php/item/3022-glory-17-and-last-man-standing-live-results">Archived</a> 2016-03-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.muaythaiauthority.com/2014/06/glorys-last-man-standing-results.html">Glory's Last Man Standing Results</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140626071203/http://www.muaythaiauthority.com/2014/06/glorys-last-man-standing-results.html">Archived</a> 2014-06-26 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
-</li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.bloodyelbow.com/2014/6/22/5830656/glory-results-live-streaming-results-glory-17-last-man-standing-kickboxing-spike-ppv">Glory results: Artem Levin, Rico Verhoeven and Joseph Valtellini take home Glory gold</a> 88</span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://topmmanews.com/2014/07/21/bellator-bolsters-roster-with-paul-daley-melvin-manhoef/">"Bellator Bolsters Roster With Paul Daley &amp; Melvin Manhoef"</a>. TopMMANews.com. 2014-07-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator+Bolsters+Roster+With+Paul+Daley+%26+Melvin+Manhoef&amp;rft.pub=TopMMANews.com&amp;rft.date=2014-07-21&amp;rft_id=http%3A%2F%2Ftopmmanews.com%2F2014%2F07%2F21%2Fbellator-bolsters-roster-with-paul-daley-melvin-manhoef%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://mmajunkie.com/2014/08/sluggers-melvin-manhoef-and-doug-marshall-headline-bellator-125">"Sluggers Melvin Manhoef and Doug Marshall headline Bellator 125"</a>. mmajunkie.com. 2014-08-12.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sluggers+Melvin+Manhoef+and+Doug+Marshall+headline+Bellator+125&amp;rft.pub=mmajunkie.com&amp;rft.date=2014-08-12&amp;rft_id=http%3A%2F%2Fmmajunkie.com%2F2014%2F08%2Fsluggers-melvin-manhoef-and-doug-marshall-headline-bellator-125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mmafighting.com/2014/10/3/6906235/melvin-manhoef-vs-joe-schilling-added-to-bellator-131">"Melvin Manhoef vs. Joe Schilling added to Bellator 131"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Melvin+Manhoef+vs.+Joe+Schilling+added+to+Bellator+131&amp;rft_id=http%3A%2F%2Fwww.mmafighting.com%2F2014%2F10%2F3%2F6906235%2Fmelvin-manhoef-vs-joe-schilling-added-to-bellator-131&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Critchfield, Tristen (2014-12-06). <a rel="nofollow" class="external text" href="http://www.sherdog.com/news/news/Alexander-ShlemenkoMelvin-Manhoef-Middleweight-Tilt-Headlines-Feb-13-Bellator-Event-78329">"Alexander Shlemenko-Melvin Manhoef Middleweight Tilt Headlines Feb. 13 Bellator Event"</a>. Sherdog.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Alexander+Shlemenko-Melvin+Manhoef+Middleweight+Tilt+Headlines+Feb.+13+Bellator+Event&amp;rft.pub=Sherdog.com&amp;rft.date=2014-12-06&amp;rft.aulast=Critchfield&amp;rft.aufirst=Tristen&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Fnews%2FAlexander-ShlemenkoMelvin-Manhoef-Middleweight-Tilt-Headlines-Feb-13-Bellator-Event-78329&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mmafighting.com/2015/3/17/8229157/bellators-alexander-shlemenko-suspended-fined-after-failing-post">"Bellator's Alexander Shlemenko suspended, fined after failing post-fight drug test"</a>. mmafighting.com. March 17, 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator%27s+Alexander+Shlemenko+suspended%2C+fined+after+failing+post-fight+drug+test&amp;rft.pub=mmafighting.com&amp;rft.date=2015-03-17&amp;rft_id=http%3A%2F%2Fwww.mmafighting.com%2F2015%2F3%2F17%2F8229157%2Fbellators-alexander-shlemenko-suspended-fined-after-failing-post&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mmafighting.com/2016/2/26/11125010/rafael-carvalho-vs-melvin-manhoef-pat-curran-vs-georgi-karakhanyan">"Rafael Carvalho vs. Melvin Manhoef, Pat Curran vs. Georgi Karakhanyan set for Bellator 155"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rafael+Carvalho+vs.+Melvin+Manhoef%2C+Pat+Curran+vs.+Georgi+Karakhanyan+set+for+Bellator+155&amp;rft_id=http%3A%2F%2Fwww.mmafighting.com%2F2016%2F2%2F26%2F11125010%2Frafael-carvalho-vs-melvin-manhoef-pat-curran-vs-georgi-karakhanyan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://mmadecisions.com/decision/7009/Rafael-Carvalho-vs-Melvin-Manhoef">"Rafael Carvalho def. Melvin Manhoef"</a>. MMA Decisions<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Rafael+Carvalho+def.+Melvin+Manhoef&amp;rft_id=http%3A%2F%2Fmmadecisions.com%2Fdecision%2F7009%2FRafael-Carvalho-vs-Melvin-Manhoef&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web">Staff (October 7, 2016). <a rel="nofollow" class="external text" href="http://mmajunkie.com/2016/10/rafael-carvalho-vs-melvin-manhoef-title-rematch-headlines-bellator-167-in-italy">"Rafael Carvalho vs. Melvin Manhoef title rematch headlines Bellator 168 in Italy"</a>. mmajunkie.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rafael+Carvalho+vs.+Melvin+Manhoef+title+rematch+headlines+Bellator+168+in+Italy&amp;rft.pub=mmajunkie.com&amp;rft.date=2016-10-07&amp;rft.au=Staff&amp;rft_id=http%3A%2F%2Fmmajunkie.com%2F2016%2F10%2Frafael-carvalho-vs-melvin-manhoef-title-rematch-headlines-bellator-167-in-italy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web">Mike Bohn (December 3, 2016). <a rel="nofollow" class="external text" href="http://mmajunkie.com/2016/12/injury-knocks-champ-rafael-carvalho-from-bellator-168-main-event-vs-melvin-manhoef">"Injury knocks champ Rafael Carvalho from Bellator 168 main event vs. Melvin Manhoef"</a>. mmajunkie.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Injury+knocks+champ+Rafael+Carvalho+from+Bellator+168+main+event+vs.+Melvin+Manhoef&amp;rft.pub=mmajunkie.com&amp;rft.date=2016-12-03&amp;rft.au=Mike+Bohn&amp;rft_id=http%3A%2F%2Fmmajunkie.com%2F2016%2F12%2Finjury-knocks-champ-rafael-carvalho-from-bellator-168-main-event-vs-melvin-manhoef&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web">Dann Stupp (April 8, 2017). <a rel="nofollow" class="external text" href="http://mmajunkie.com/2017/04/bellator-176-carvalho-vs-manhoef-2-live-and-official-results-3-p-m-et-1">"Bellator 176 results: Champ Rafael Carvalho flattens Melvin Manhoef with big head kick"</a>. mmajunkie.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator+176+results%3A+Champ+Rafael+Carvalho+flattens+Melvin+Manhoef+with+big+head+kick&amp;rft.pub=mmajunkie.com&amp;rft.date=2017-04-08&amp;rft.au=Dann+Stupp&amp;rft_id=http%3A%2F%2Fmmajunkie.com%2F2017%2F04%2Fbellator-176-carvalho-vs-manhoef-2-live-and-official-results-3-p-m-et-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.telegraaf.nl/sport/952660/manhoef-neemt-wraak-op-bonjasky-tijdens-afscheidspartij">https://www.telegraaf.nl/sport/952660/manhoef-neemt-wraak-op-bonjasky-tijdens-afscheidspartij</a></span>
-</li>
-<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Tristen Critchfield (May 1, 2018). <a rel="nofollow" class="external text" href="http://www.sherdog.com/news/news/Bellator-MMA-Resigns-Melvin-Manhoef-to-Exclusive-MultiFight-Contract-135971">"Bellator MMA Re-signs Melvin Manhoef to Exclusive, Multi-Fight Contract"</a>. sherdog.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator+MMA+Re-signs+Melvin+Manhoef+to+Exclusive%2C+Multi-Fight+Contract&amp;rft.pub=sherdog.com&amp;rft.date=2018-05-01&amp;rft.au=Tristen+Critchfield&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Fnews%2FBellator-MMA-Resigns-Melvin-Manhoef-to-Exclusive-MultiFight-Contract-135971&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.mmafighting.com/2018/9/19/17879336/melvin-manhoef-vs-chidi-njokuani-to-headline-bellator-210">"Melvin Manhoef vs. Chidi Njokuani to headline Bellator 210"</a>. <i>MMA Fighting</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=MMA+Fighting&amp;rft.atitle=Melvin+Manhoef+vs.+Chidi+Njokuani+to+headline+Bellator+210&amp;rft_id=https%3A%2F%2Fwww.mmafighting.com%2F2018%2F9%2F19%2F17879336%2Fmelvin-manhoef-vs-chidi-njokuani-to-headline-bellator-210&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Sherdog.com. <a rel="nofollow" class="external text" href="http://www.sherdog.com/news/news/Melvin-Manhoef-Out-John-Salter-in-Against-Chidi-Njokuani-at-Bellator-210-144751">"Melvin Manhoef Out, John Salter in Against Chidi Njokuani at Bellator 210"</a>. <i>Sherdog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-11-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sherdog&amp;rft.atitle=Melvin+Manhoef+Out%2C+John+Salter+in+Against+Chidi+Njokuani+at+Bellator+210&amp;rft.au=Sherdog.com&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Fnews%2FMelvin-Manhoef-Out-John-Salter-in-Against-Chidi-Njokuani-at-Bellator-210-144751&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web">Tucker, Bryan (22 June 2019). <a rel="nofollow" class="external text" href="https://www.mmafighting.com/2019/6/22/18713355/bellator-223-london-results-mousasi-vs-lovato">"Bellator 223 London Results: Mousasi vs. Lovato"</a>. MMAFighting<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bellator+223+London+Results%3A+Mousasi+vs.+Lovato&amp;rft.pub=MMAFighting&amp;rft.date=2019-06-22&amp;rft.aulast=Tucker&amp;rft.aufirst=Bryan&amp;rft_id=https%3A%2F%2Fwww.mmafighting.com%2F2019%2F6%2F22%2F18713355%2Fbellator-223-london-results-mousasi-vs-lovato&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://vicesports.nl/hoe-melvin-manhoef-een-vechtsport-imperium-opbouwt/">https://vicesports.nl/hoe-melvin-manhoef-een-vechtsport-imperium-opbouwt/</a></span>
-</li>
-<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web">Breen, Jordan (2013-01-05). <a rel="nofollow" class="external text" href="http://www.sherdog.com/news/articles/2/Sherdogcoms-2012-AllViolence-Team-48763">"Sherdog.com's 2012 All-Violence Team - First Team"</a>. Sherdog.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-12-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sherdog.com%E2%80%99s+2012+All-Violence+Team+-+First+Team&amp;rft.pub=Sherdog.com&amp;rft.date=2013-01-05&amp;rft.aulast=Breen&amp;rft.aufirst=Jordan&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Fnews%2Farticles%2F2%2FSherdogcoms-2012-AllViolence-Team-48763&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web">Sherdog.com. <a rel="nofollow" class="external text" href="http://www.sherdog.com/fighter/Melvin-Manhoef-4296">"Melvin"</a>. <i>Sherdog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-10-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sherdog&amp;rft.atitle=Melvin&amp;rft.au=Sherdog.com&amp;rft_id=http%3A%2F%2Fwww.sherdog.com%2Ffighter%2FMelvin-Manhoef-4296&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMelvin+Manhoef" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110906192941/http://www.keepbritaintidy.org/GreenFlag/GreenFlagAwardSites/YorkshireHumberside/Default.aspx?parkID=1341">"Keep Britain Tidy website - Beaumont Park"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.keepbritaintidy.org/GreenFlag/GreenFlagAwardSites/YorkshireHumberside/Default.aspx?parkID=1341">the original</a> on 2011-09-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-07-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Keep+Britain+Tidy+website+-+Beaumont+Park&amp;rft_id=http%3A%2F%2Fwww.keepbritaintidy.org%2FGreenFlag%2FGreenFlagAwardSites%2FYorkshireHumberside%2FDefault.aspx%3FparkID%3D1341&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaumont+Park" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.melvinmanhoef.com/">Official website of Melvin Manhoef</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.mikesgym.nl/">Mike's Gym official site</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.sherdog.com/fightfinder/fightfinder.asp?fighterID=4296">Professional MMA record for Melvin Manhoef</a> from <a href="/wiki/Sherdog" title="Sherdog">Sherdog</a> <a href="https://www.wikidata.org/wiki/Q1195363#P2818" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
-<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110103052019/http://www.k-1.co.jp/en/fighter/player.php?index=melvin_manhoef">Profile</a> at <a href="/wiki/K-1" title="K-1">K-1</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaumont_Park&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.fobp.co.uk/">Friends of Beaumont Park Official Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.kirklees.gov.uk/events/venuedetails.asp?vID=175">Kirklees Council website - Beaumont Park</a></li>
+<li class="mw-empty-elt"></li>
+<li><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.627777422008;-1.8079301681205_region:GB_scale:100000?pagename=Beaumont_Park">Map sources</a></span> for Beaumont Park</li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Beaumont_Park&amp;params=53.62778_N_1.80793_W_region:GB_source:enwiki-osgb36(SE128146)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°37′40″N</span> <span class="longitude">1°48′29″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.62778°N 1.80793°W</span><span style="display:none">&#xfeff; / <span class="geo">53.62778; -1.80793</span></span></span></a></span></span></span>
+</p><p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:West_Yorkshire_UK_locator_map_2010.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/32px-West_Yorkshire_UK_locator_map_2010.svg.png" decoding="async" width="32" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/48px-West_Yorkshire_UK_locator_map_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/64px-West_Yorkshire_UK_locator_map_2010.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></td><td><i>This <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Beaumont_Park&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:WestYorkshire-geo-stub" title="Template:WestYorkshire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:WestYorkshire-geo-stub" title="Template talk:WestYorkshire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:WestYorkshire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1267
-Cached time: 20190923234546
+Parsed by mw1329
+Cached time: 20190925014824
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.932 seconds
-Real time usage: 1.161 seconds
-Preprocessor visited node count: 6534/1000000
+CPU time usage: 0.176 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 213/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 95875/2097152 bytes
-Template argument size: 7874/2097152 bytes
-Highest expansion depth: 33/40
+Post‐expand include size: 7580/2097152 bytes
+Template argument size: 93/2097152 bytes
+Highest expansion depth: 8/40
 Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 78978/5000000 bytes
+Unstrip post‐expand size: 3148/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.390/10.000 seconds
-Lua memory usage: 8.48 MB/50 MB
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 2.39 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  927.755      1 -total
- 28.85%  267.621      1 Template:Reflist
- 27.90%  258.874      3 Template:Infobox
- 26.37%  244.665      1 Template:Infobox_martial_artist
- 21.37%  198.259     23 Template:Cite_web
- 15.99%  148.324     25 Template:Flagicon
-  9.53%   88.446     48 Template:Dts
-  5.75%   53.311      1 Template:Height
-  4.74%   43.936      3 Template:Convert
-  4.33%   40.191      1 Template:Short_description
+100.00%  218.766      1 -total
+ 50.57%  110.632      1 Template:Reflist
+ 43.90%   96.028      1 Template:Cite_web
+ 22.49%   49.201      1 Template:About
+ 11.18%   24.454      1 Template:Coord
+  8.92%   19.503      1 Template:WestYorkshire-geo-stub
+  7.29%   15.946      1 Template:Asbox
+  5.55%   12.144      1 Template:Oscoor_gbx
+  4.34%    9.504      1 Template:OS_coord
+  1.42%    3.109      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:11330258-0!canonical and timestamp 20190923234545 and revision id 912528574
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4879746-0!canonical and timestamp 20190925014823 and revision id 916222453
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Melvin_Manhoef&amp;oldid=912528574">https://en.wikipedia.org/w/index.php?title=Melvin_Manhoef&amp;oldid=912528574</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Beaumont_Park&amp;oldid=916222453">https://en.wikipedia.org/w/index.php?title=Beaumont_Park&amp;oldid=916222453</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1976_births" title="Category:1976 births">1976 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Dutch_male_kickboxers" title="Category:Dutch male kickboxers">Dutch male kickboxers</a></li><li><a href="/wiki/Category:Dutch_male_mixed_martial_artists" title="Category:Dutch male mixed martial artists">Dutch male mixed martial artists</a></li><li><a href="/wiki/Category:Heavyweight_kickboxers" title="Category:Heavyweight kickboxers">Heavyweight kickboxers</a></li><li><a href="/wiki/Category:Light_heavyweight_mixed_martial_artists" title="Category:Light heavyweight mixed martial artists">Light heavyweight mixed martial artists</a></li><li><a href="/wiki/Category:Middleweight_mixed_martial_artists" title="Category:Middleweight mixed martial artists">Middleweight mixed martial artists</a></li><li><a href="/wiki/Category:Sportspeople_from_Paramaribo" title="Category:Sportspeople from Paramaribo">Sportspeople from Paramaribo</a></li><li><a href="/wiki/Category:Sportspeople_from_Rotterdam" title="Category:Sportspeople from Rotterdam">Sportspeople from Rotterdam</a></li><li><a href="/wiki/Category:Surinamese_emigrants_to_the_Netherlands" title="Category:Surinamese emigrants to the Netherlands">Surinamese emigrants to the Netherlands</a></li><li><a href="/wiki/Category:Surinamese_male_kickboxers" title="Category:Surinamese male kickboxers">Surinamese male kickboxers</a></li><li><a href="/wiki/Category:Surinamese_male_mixed_martial_artists" title="Category:Surinamese male mixed martial artists">Surinamese male mixed martial artists</a></li><li><a href="/wiki/Category:Glory_kickboxers" title="Category:Glory kickboxers">Glory kickboxers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:CS1_Dutch-language_sources_(nl)" title="Category:CS1 Dutch-language sources (nl)">CS1 Dutch-language sources (nl)</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Huddersfield" title="Category:Geography of Huddersfield">Geography of Huddersfield</a></li><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:West_Yorkshire_geography_stubs" title="Category:West Yorkshire geography stubs">West Yorkshire geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -1662,13 +133,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Melvin+Manhoef" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Melvin+Manhoef" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Beaumont+Park" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Beaumont+Park" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Melvin_Manhoef" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Melvin_Manhoef" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Beaumont_Park" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Beaumont_Park" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -1683,7 +154,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Melvin_Manhoef">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Melvin_Manhoef&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Beaumont_Park">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Beaumont_Park&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Beaumont_Park&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -1722,35 +193,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Melvin_Manhoef" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Melvin_Manhoef" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Melvin_Manhoef&amp;oldid=912528574" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Melvin_Manhoef&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1195363" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Melvin_Manhoef&amp;id=912528574" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Melvin_Manhoef" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Beaumont_Park" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Beaumont_Park" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Beaumont_Park&amp;oldid=916222453" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Beaumont_Park&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4877581" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Beaumont_Park&amp;id=916222453" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Melvin+Manhoef">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Melvin+Manhoef&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Melvin_Manhoef&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beaumont+Park">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Beaumont+Park&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Beaumont_Park&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A9%9C%EB%B9%88_%EB%A7%88%EB%88%84%ED%94%84" title="멜빈 마누프 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AB%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%8C%E3%83%BC%E3%83%95" title="メルヴィン・マヌーフ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%85%D1%83%D1%84,_%D0%9C%D0%B5%D0%BB%D0%B2%D0%B8%D0%BD" title="Манхуф, Мелвин – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Melvin_Manhoef" title="Melvin Manhoef – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1195363#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4877581#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 26 August 2019, at 06:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 17 September 2019, at 18:31<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -1761,7 +225,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Melvin_Manhoef&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Beaumont_Park&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -1773,8 +237,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.932","walltime":"1.161","ppvisitednodes":{"value":6534,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95875,"limit":2097152},"templateargumentsize":{"value":7874,"limit":2097152},"expansiondepth":{"value":33,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":78978,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  927.755      1 -total"," 28.85%  267.621      1 Template:Reflist"," 27.90%  258.874      3 Template:Infobox"," 26.37%  244.665      1 Template:Infobox_martial_artist"," 21.37%  198.259     23 Template:Cite_web"," 15.99%  148.324     25 Template:Flagicon","  9.53%   88.446     48 Template:Dts","  5.75%   53.311      1 Template:Height","  4.74%   43.936      3 Template:Convert","  4.33%   40.191      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.390","limit":"10.000"},"limitreport-memusage":{"value":8894380,"limit":52428800}},"cachereport":{"origin":"mw1267","timestamp":"20190923234546","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Melvin Manhoef","url":"https:\/\/en.wikipedia.org\/wiki\/Melvin_Manhoef","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1195363","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1195363","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-05-21T00:48:13Z","dateModified":"2019-08-26T06:22:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/dc\/Melvin-Manhoef2.jpg","headline":"Surinamese-Dutch professional kickboxer and mixed martial artist"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1274"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.247","ppvisitednodes":{"value":213,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7580,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3148,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  218.766      1 -total"," 50.57%  110.632      1 Template:Reflist"," 43.90%   96.028      1 Template:Cite_web"," 22.49%   49.201      1 Template:About"," 11.18%   24.454      1 Template:Coord","  8.92%   19.503      1 Template:WestYorkshire-geo-stub","  7.29%   15.946      1 Template:Asbox","  5.55%   12.144      1 Template:Oscoor_gbx","  4.34%    9.504      1 Template:OS_coord","  1.42%    3.109      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":2510269,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190925014824","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Beaumont Park","url":"https:\/\/en.wikipedia.org\/wiki\/Beaumont_Park","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4877581","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4877581","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-04-24T16:49:47Z","dateModified":"2019-09-17T18:31:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/Butternab_%26_Beaumont_Park.jpg","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":387,"wgHostname":"mw1329"});});</script>
 </body>
 </html>

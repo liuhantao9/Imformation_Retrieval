@@ -2,36 +2,37 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Pietas - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Pietas","wgTitle":"Pietas","wgCurRevisionId":899266924,"wgRevisionId":899266924,"wgArticleId":85584,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Ancient Roman virtues","Ancient Roman religion","Personifications in Roman mythology"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pietas","wgRelevantArticleId":85584,"wgRequestId":"XYrUDQpAME8AAALO-MIAAACX",
-"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2643299","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":
-"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
-"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Green Spain - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Green_Spain","wgTitle":"Green Spain","wgCurRevisionId":889727752,"wgRevisionId":889727752,"wgArticleId":5771237,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from July 2012","All articles needing additional references","Spain articles missing geocoordinate data","All articles needing coordinates","Geography of Spain","Green Spain"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+"wgRelevantPageName":"Green_Spain","wgRelevantArticleId":5771237,"wgRequestId":"XYoyPwpAMEkAAB7BG3gAAABC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1136392","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging"
+,"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/47/Antoninus_Pius_Coin_pieta.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pietas"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Pietas&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Pietas&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b1/Spain-climate-en.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Green_Spain"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Green_Spain&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Green_Spain&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Pietas"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Green_Spain"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Pietas rootpage-Pietas skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Green_Spain rootpage-Green_Spain skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +41,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en"><i>Pietas</i></h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Green Spain</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,272 +52,134 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the Christian image, see <a href="/wiki/Piet%C3%A0" title="Pietà">Pietà</a>.</div>
-<div class="thumb tright"><div class="thumbinner" style="width:332px;"><a href="/wiki/File:Antoninus_Pius_Coin_pieta.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Antoninus_Pius_Coin_pieta.jpg/330px-Antoninus_Pius_Coin_pieta.jpg" decoding="async" width="330" height="163" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Antoninus_Pius_Coin_pieta.jpg/495px-Antoninus_Pius_Coin_pieta.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/47/Antoninus_Pius_Coin_pieta.jpg 2x" data-file-width="500" data-file-height="247" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Antoninus_Pius_Coin_pieta.jpg" class="internal" title="Enlarge"></a></div><i>Pietas</i>, as a virtue of the emperor <a href="/wiki/Antoninus_Pius" title="Antoninus Pius">Antoninus Pius</a>, represented by a woman offering a sacrifice on the reverse of this <a href="/wiki/Sestertius" title="Sestertius">sestertius</a></div></div></div>
-<p><i><b>Pietas</b></i>, translated variously as "duty", "religiosity"<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> or "religious behavior",<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> "loyalty",<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> "devotion", or "<a href="/wiki/Filial_piety" title="Filial piety">filial piety</a>" (English "piety" derives from the Latin), was one of the chief <a href="/wiki/Virtue" title="Virtue">virtues</a> among the <a href="/wiki/Ancient_Roman" class="mw-redirect" title="Ancient Roman">ancient Romans</a>. It was the distinguishing virtue of the <a href="/wiki/Founding_of_Rome" title="Founding of Rome">founding</a> hero <a href="/wiki/Aeneas" title="Aeneas">Aeneas</a>, who is often given the <a href="/wiki/Adjective" title="Adjective">adjectival</a> epithet <i>pius</i> ("religious") throughout <a href="/wiki/Virgil" title="Virgil">Virgil</a>'s epic <i><a href="/wiki/Aeneid" title="Aeneid">Aeneid</a></i>. The sacred nature of <i>pietas</i> was embodied by the divine personification Pietas, a goddess often pictured on Roman coins. The Greek equivalent is <i><a href="/wiki/Eusebeia" title="Eusebeia">eusebeia</a></i> (εὐσέβεια).<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</p><p><a href="/wiki/Cicero" title="Cicero">Cicero</a> defined <i>pietas</i> as the virtue "which admonishes us to do our duty to our country or our parents or other blood relations."<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The man who possessed <i>pietas</i> "performed all his duties towards the deity and his fellow human beings fully and in every respect," as the 19th-century classical scholar <a href="/wiki/Georg_Wissowa" title="Georg Wissowa">Georg Wissowa</a> described it.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Cicero suggests people should have awareness of our own honor, we must always attempt to raise the honor of others by our dignified praise, such praise, admiration and honored actions must be beyond all our own desires, as Cicero said, we must choose our actions and words with respect to our friends, colleagues, family or blood relations. Cicero describes youth in the pursuit of honour: “How they yearn for praise! What labours will they not undertake to stand fast among their peers! How will they remember those who have shown them kindness and how eager to repay it!”.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Green_Spain&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Green+Spain%22">"Green Spain"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Green+Spain%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Green+Spain%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Green+Spain%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Green+Spain%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Green+Spain%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">July 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Greensparuraltourism1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Greensparuraltourism1.jpg/250px-Greensparuraltourism1.jpg" decoding="async" width="250" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Greensparuraltourism1.jpg/375px-Greensparuraltourism1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Greensparuraltourism1.jpg/500px-Greensparuraltourism1.jpg 2x" data-file-width="688" data-file-height="310" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Greensparuraltourism1.jpg" class="internal" title="Enlarge"></a></div>Green Spain location map</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Spain-climate-en.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spain-climate-en.png/250px-Spain-climate-en.png" decoding="async" width="250" height="195" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spain-climate-en.png/375px-Spain-climate-en.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Spain-climate-en.png/500px-Spain-climate-en.png 2x" data-file-width="503" data-file-height="393" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Spain-climate-en.png" class="internal" title="Enlarge"></a></div>Spanish climatic areas, so-called 'Green Spain' is in the northernmost part</div></div></div>
+<p><b>Green Spain</b> (direct translation into English of the <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> <i>España Verde</i>) is the name given to a lush <a href="/wiki/Natural_region" title="Natural region">natural region</a> in <a href="/wiki/Northern_Spain" class="mw-redirect" title="Northern Spain">Northern Spain</a>, stretching along the Atlantic coast from the <a href="/wiki/Portugal%E2%80%93Spain_border" title="Portugal–Spain border">border with Portugal</a> to the <a href="/wiki/France%E2%80%93Spain_border" title="France–Spain border">border with France</a>.
+</p><p>The region includes nearly all of <a href="/wiki/Galicia_(Spain)" title="Galicia (Spain)">Galicia</a>, <a href="/wiki/Asturias" title="Asturias">Asturias</a>, <a href="/wiki/Cantabria" title="Cantabria">Cantabria</a> plus the northern parts of the <a href="/wiki/Basque_Country_(autonomous_community)" title="Basque Country (autonomous community)">Basque Country</a>, as well as a minor portion of <a href="/wiki/Navarre" title="Navarre">Navarre</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#As_virtue"><span class="tocnumber">1</span> <span class="toctext">As virtue</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Iconography"><span class="tocnumber">2</span> <span class="toctext">Iconography</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#As_goddess"><span class="tocnumber">3</span> <span class="toctext">As goddess</span></a>
-<ul>
-<li class="toclevel-2 tocsection-4"><a href="#Imperial_women_portrayed_as_Pietas"><span class="tocnumber">3.1</span> <span class="toctext">Imperial women portrayed as Pietas</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Climate_and_landscape"><span class="tocnumber">1</span> <span class="toctext">Climate and landscape</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Native_species"><span class="tocnumber">2</span> <span class="toctext">Native species</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Image_gallery"><span class="tocnumber">3</span> <span class="toctext">Image gallery</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="As_virtue">As virtue</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=1" title="Edit section: As virtue">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><i>Pietas erga parentes</i> ("<i>pietas</i> toward one's parents") was one of the most important aspects of demonstrating virtue. <i>Pius</i> as a <i><a href="/wiki/Cognomen" title="Cognomen">cognomen</a></i> originated as way to mark a person as especially "pious" in this sense: announcing one's personal <i>pietas</i> through official nomenclature seems to have been an innovation of the <a href="/wiki/Roman_Republic" title="Roman Republic">late Republic</a>, when <a href="/wiki/Quintus_Caecilius_Metellus_Pius" title="Quintus Caecilius Metellus Pius">Quintus Caecilius Metellus Pius</a> claimed it for his efforts to have his father, <a href="/wiki/Quintus_Caecilius_Metellus_Numidicus" title="Quintus Caecilius Metellus Numidicus">Numidicus</a>, recalled from exile.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> <i>Pietas</i> extended also toward "parents" in the sense of "ancestors," and was one of the basic principles of <a href="/wiki/Mos_maiorum" title="Mos maiorum">Roman tradition</a>, as expressed by the care of the dead.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
-</p><p><i>Pietas</i> as a virtue resided within a person, in contrast to a virtue or gift such as <i><a href="/wiki/Victoria_(mythology)" title="Victoria (mythology)">Victoria</a>,</i> which was given by the gods. <i>Pietas,</i> however, allowed a person to recognize the divine source of benefits conferred.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p><p>The first recorded use of <i>pietas</i> in English occurs in Anselm Bayly’s <i>The Alliance of Music, Poetry, and Oratory</i>, published in 1789.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+<h2><span class="mw-headline" id="Climate_and_landscape">Climate and landscape</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=1" title="Edit section: Climate and landscape">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is called <i>green</i> because its wet and <a href="/wiki/Temperate_climate" title="Temperate climate">temperate</a> <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic climate</a> helps lush pastures and forests thrive, providing a landscape similar to that of <a href="/wiki/Ireland" title="Ireland">Ireland</a>, <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a>, and the west coast of <a href="/wiki/France" title="France">France</a>.
+</p><p>The climate and landscape are determined by the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a> winds whose moisture gets trapped by the mountains circumventing the Spanish Atlantic façade.
+</p><p>Because of the <a href="/wiki/Foehn_effect" class="mw-redirect" title="Foehn effect">Foehn effect</a>, the southern slopes fall inside the <a href="/wiki/Rain_shadow" title="Rain shadow">rain shadow</a> zone and so Green Spain contrasts starkly with the Spanish drier central plateau. 
+Conversely, in those brief episodes when the southwestern winds blow through the mountains (especially during October–November<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>), the effect reverses, the northern coast gets inside the Foehn winds and is dry and much warmer than the inner plateau, where rain is present.
+</p><p>The average precipitation is about 1,200&#160;mm, higher than in most areas in inland central Europe, and wetter than almost anywhere in Spain, a country generally considered dry (the main exception to this northernly rainfall trend is the <a href="/wiki/Sierra_de_Grazalema_Natural_Park" title="Sierra de Grazalema Natural Park">Sierra de Grazalema</a>, in the southern province of <a href="/wiki/Province_of_Cadiz" class="mw-redirect" title="Province of Cadiz">Cadiz</a>, with mountains that block the Atlantic moisture-carrying winds and which is, indeed, the most rainy place in Spain). Asturias has an average summer temperature of 20-22 ºC, being one of the mildest climates in Europe.
+</p><p>Most of the rain comes from the Atlantic through Galicia, the western part of Green Spain.
+Depending on the latitude of entry, this wet air can drop to the south, or more likely stay and run through the north stretch of land, pushed north by the Cantabrian mountains.
 </p>
-<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Religious_Rituals_in_Ancient_Rome" class="mw-redirect" title="Religious Rituals in Ancient Rome">Religious Rituals in Ancient Rome</a></div>
-<p>"A Roman with the virtue of pietas did not leave his religious duties at the door of the temple, but carried them with him everywhere, following the will of the gods in his business transactions and everyday life."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
-</p><p>Pietas held importance in international relations and diplomacy, where the credibility of a commander was dependent on his cessation of all self-gain and to commit to the cause, without action of treachery. "Due  to  this  reliance  on credibility,  the  reputation  of  individual  commanders  and  the  Roman  state  itself  held  a practical  role in negotiations  and  discussions.". The commanders belief in fides must be one of credibility by continuity of action, consistency in dealing with neighbours will be applied to the current parties. Ensure respect in existing contracts, means the pledges and oaths will be held, Rome will continue to do what is right and thus continue diplomatic strategies. Ending conflict was slim if perfidy was the norm of commander in the negotiation.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+<h2><span class="mw-headline" id="Native_species">Native species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=2" title="Edit section: Native species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main native tree species of <a href="/wiki/Temperate_broadleaf_and_mixed_forests" class="mw-redirect" title="Temperate broadleaf and mixed forests">this biome</a> are <a href="/wiki/Beeches" class="mw-redirect" title="Beeches">beeches</a> and <a href="/wiki/Oak" title="Oak">oaks</a>. However, since the second half of the 20th century, in some areas (especially in coastal areas), native forests have been replaced by <a href="/wiki/Plantations" class="mw-redirect" title="Plantations">plantations</a> of <a href="/wiki/Eucalyptus" title="Eucalyptus">eucalyptus</a> and <a href="/wiki/Monterey_Pine" class="mw-redirect" title="Monterey Pine">Monterey Pines</a> for its commercial exploitation in the <a href="/wiki/Paper_industry" class="mw-redirect" title="Paper industry">paper industry</a>.
+</p><p>The <a href="/wiki/Pyrenees" title="Pyrenees">Pyrenees</a>, which sometimes are considered in the same geologic system as the Cantabrian Mountains, were once included in Green Spain, even though the rainfall there has different patterns and the general landscape is more <a href="/wiki/Alpine_climate" title="Alpine climate">alpine</a> rather than genuinely oceanic.
 </p>
-<h2><span class="mw-headline" id="Iconography">Iconography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=2" title="Edit section: Iconography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Herennia1.1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herennia1.1.jpg/250px-Herennia1.1.jpg" decoding="async" width="250" height="121" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herennia1.1.jpg/375px-Herennia1.1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Herennia1.1.jpg/500px-Herennia1.1.jpg 2x" data-file-width="550" data-file-height="266" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Herennia1.1.jpg" class="internal" title="Enlarge"></a></div>Denarius of Herennius, depicting Pietas and an act of <i>pietas</i>.</div></div></div>
-<p>Pietas was represented on coin by cult objects, but also as a woman conducting a sacrifice by means of fire at an altar.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> In the imagery of sacrifice, <a href="/wiki/Libation" title="Libation">libation</a> was the fundamental act that came to symbolize <i>pietas</i>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
-</p><p><i>Pietas</i> is first represented on Roman coins on <i><a href="/wiki/Denarius" title="Denarius">denarii</a></i> issued by <a href="/wiki/Marcus_Herennius" class="mw-redirect" title="Marcus Herennius">Marcus Herennius</a> in 108 or 107 BC.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Pietas appears on the obverse as a divine <a href="/wiki/Personification" title="Personification">personification</a>, in <a href="/wiki/Bust_(sculpture)" title="Bust (sculpture)">bust</a> form; the quality of <i>pietas</i> is represented by a son carrying his father on his back; the symbolism of which would be echoed in <a href="/wiki/Virgil" title="Virgil">Virgil</a>'s <a href="/wiki/Aeneid" title="Aeneid">Aeneid</a>, with <a href="/wiki/Aeneas" title="Aeneas">Aeneas</a> carrying his father <a href="/wiki/Anchises" title="Anchises">Anchises</a> out of the burning <a href="/wiki/Troy" title="Troy">Troy</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> Pietas is among the virtues that appear frequently on Imperial coins, including those issued under <a href="/wiki/Hadrian" title="Hadrian">Hadrian</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
-</p><p>One of the symbols of <i>pietas</i> was the stork, described by <a href="/wiki/Petronius" title="Petronius">Petronius</a> as <i>pietaticultrix</i>, "cultivator of <i>pietas</i>." The stork represented filial piety in particular, as the Romans believed that it demonstrated family loyalty by returning to the same nest every year, and that it took care of its parents in old age. As such, a stork appears next to Pietas on  <a href="/wiki/File:Quintus_Caecilius_Metellus_Pius.jpg" title="File:Quintus Caecilius Metellus Pius.jpg">a coin issued by Metellus Pius</a> (on whose <i>cognomen</i> see <a href="#As_virtue">above</a>).<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="As_goddess">As goddess</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=3" title="Edit section: As goddess">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg/250px-Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg" decoding="async" width="250" height="123" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg/375px-Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e4/Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg 2x" data-file-width="500" data-file-height="246" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bronze-Flavia_Maximiana_Theodora-trier_RIC_65.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Flavia_Maximiana_Theodora" title="Flavia Maximiana Theodora">Flavia Maximiana Theodora</a> on the obverse, on the reverse Pietas holding infant to her breast.</div></div></div>
-<p>Pietas was the divine presence in everyday life that cautioned humans not to intrude on the realm of the gods.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Violations of <i>pietas</i> required a <i><a href="/wiki/Piaculum" class="mw-redirect" title="Piaculum">piaculum</a></i>, expiatory rites.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
-</p><p>A temple to Pietas was vowed <i>(<a href="/wiki/Votum" title="Votum">votum</a>)</i> by <a href="/wiki/Manius_Acilius_Glabrio_(consul_191_BC)" title="Manius Acilius Glabrio (consul 191 BC)">Manius Acilius Glabrio</a> at the <a href="/wiki/Battle_of_Thermopylae_(191_BC)" title="Battle of Thermopylae (191 BC)">Battle of Thermopylae in 191 BC</a>.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
-</p><p>According to a miraculous legend <i>(<a href="/wiki/Glossary_of_ancient_Roman_religion#miraculum" title="Glossary of ancient Roman religion">miraculum</a>),</i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> a poor woman who was starving in prison was saved when her daughter gave her breast milk (compare <a href="/wiki/Roman_Charity" title="Roman Charity">Roman Charity</a>). Caught in the act, the daughter was not punished, but recognized for her <i>pietas</i>. Mother and daughter were set free, and given public support for the rest of their lives. The site was regarded as sacred to the goddess Pietas <i>(consecratus deae)</i> because she had chosen to manifest her presence there.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The story exemplified <i>pietas erga parentes</i>, the proper devotion one ought to show to one's parents.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>
-</p>
-<h3><span class="mw-headline" id="Imperial_women_portrayed_as_Pietas">Imperial women portrayed as Pietas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=4" title="Edit section: Imperial women portrayed as Pietas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Pietas was often depicted as goddess on the reverse of Roman Imperial coins, with women of the imperial family on the obverse,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> as an appropriate virtue to be attributed to them. Women of the Imperial family might be portrayed in art in the goddess's guise.
-</p>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=3" title="Edit section: Image gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul class="gallery mw-gallery-traditional">
 		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
-			<div class="thumb" style="width: 150px;"><div style="margin:46px auto;"><a href="/wiki/File:Dupondius-Livia-RIC_0043v.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dupondius-Livia-RIC_0043v.jpg/120px-Dupondius-Livia-RIC_0043v.jpg" decoding="async" width="120" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dupondius-Livia-RIC_0043v.jpg/180px-Dupondius-Livia-RIC_0043v.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Dupondius-Livia-RIC_0043v.jpg/240px-Dupondius-Livia-RIC_0043v.jpg 2x" data-file-width="500" data-file-height="240" /></a></div></div>
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Turieno.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turieno.jpg/120px-Turieno.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turieno.jpg/180px-Turieno.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turieno.jpg/240px-Turieno.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
 			<div class="gallerytext">
-<p><a href="/wiki/Livia" title="Livia">Livia</a> as Pietas
+<p>The <a href="/wiki/Picos_de_Europa" title="Picos de Europa">Picos de Europa</a>.
 </p>
 			</div>
 		</div></li>
 		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
-			<div class="thumb" style="width: 150px;"><div style="margin:49.5px auto;"><a href="/wiki/File:Matidia_-_denarius_-_RIC_0759.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Matidia_-_denarius_-_RIC_0759.jpg/120px-Matidia_-_denarius_-_RIC_0759.jpg" decoding="async" width="120" height="51" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Matidia_-_denarius_-_RIC_0759.jpg/180px-Matidia_-_denarius_-_RIC_0759.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Matidia_-_denarius_-_RIC_0759.jpg/240px-Matidia_-_denarius_-_RIC_0759.jpg 2x" data-file-width="500" data-file-height="211" /></a></div></div>
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:TraditionalHorreo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TraditionalHorreo.jpg/120px-TraditionalHorreo.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TraditionalHorreo.jpg/180px-TraditionalHorreo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TraditionalHorreo.jpg/240px-TraditionalHorreo.jpg 2x" data-file-width="800" data-file-height="600" /></a></div></div>
 			<div class="gallerytext">
-<p><a href="/wiki/Salonina_Matidia" class="mw-redirect" title="Salonina Matidia">Salonina Matidia</a>
+<p>Traditional <a href="/wiki/H%C3%B3rreo" title="Hórreo">Hórreo</a> in Asturias.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Gaztelugatxe_Connected.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gaztelugatxe_Connected.jpg/120px-Gaztelugatxe_Connected.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gaztelugatxe_Connected.jpg/180px-Gaztelugatxe_Connected.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gaztelugatxe_Connected.jpg/240px-Gaztelugatxe_Connected.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></div></div>
+			<div class="gallerytext">
+<p>Basque coast.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Playa_de_Berria.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Playa_de_Berria.JPG/120px-Playa_de_Berria.JPG" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Playa_de_Berria.JPG/180px-Playa_de_Berria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Playa_de_Berria.JPG/240px-Playa_de_Berria.JPG 2x" data-file-width="1280" data-file-height="960" /></a></div></div>
+			<div class="gallerytext">
+<p>Coast of Cantabria.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Chuvia_en_Muxia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chuvia_en_Muxia.jpg/120px-Chuvia_en_Muxia.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chuvia_en_Muxia.jpg/180px-Chuvia_en_Muxia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Chuvia_en_Muxia.jpg/240px-Chuvia_en_Muxia.jpg 2x" data-file-width="3648" data-file-height="2736" /></a></div></div>
+			<div class="gallerytext">
+<p>Coast of Galicia.
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:PlayaDeBallota.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PlayaDeBallota.jpg/120px-PlayaDeBallota.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PlayaDeBallota.jpg/180px-PlayaDeBallota.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/PlayaDeBallota.jpg/240px-PlayaDeBallota.jpg 2x" data-file-width="800" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>Coast of Asturias.
 </p>
 			</div>
 		</div></li>
 </ul>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Pietas" class="extiw" title="commons:Category:Pietas">Pietas</a></b></i>.</td></tr>
-</tbody></table>
-<ul><li><a href="/wiki/Eusebeia" title="Eusebeia">Eusebeia</a>, for the Greek concept most similar to Latin <i>pietas</i>.</li>
-<li><a href="/wiki/Roman_Charity" title="Roman Charity">Roman Charity</a>, about Valerius Maximus' account, much depicted in early modern European painting, of a Roman woman who exemplified <i>pietas</i> by breastfeeding her incarcerated father to save him from enforced starvation.</li>
-<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a>, for the similar Confucian concept of <i>xiào</i></li>
-<li><a href="/wiki/Dignitas_(Roman_concept)" title="Dignitas (Roman concept)"><i>Dignitas</i> (Roman concept)</a></li>
-<li><i><a href="/wiki/Gravitas" title="Gravitas">Gravitas</a></i></li>
-<li><a href="/w/index.php?title=Innocentia&amp;action=edit&amp;redlink=1" class="new" title="Innocentia (page does not exist)">Innocentia</a></li>
-<li><a href="/wiki/Pudicitia" title="Pudicitia">Puricitia (Modesty)</a></li>
-<li><a href="/wiki/Pietism" title="Pietism">Pietism</a></li>
-<li><a href="/wiki/Virtus_(virtue)" class="mw-redirect" title="Virtus (virtue)"><i>Virtus</i> (virtue)</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pietas&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
-<ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Jonathan Williams, "Religion and Roman Coins," in <i>A Companion to Roman Religion</i> (Blackwell, 2007), p. 156.</span>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Climate_of_Spain" title="Climate of Spain">Climate of Spain</a></li>
+<li><a href="/wiki/Eurosiberian" class="mw-redirect" title="Eurosiberian">The Eurosiberian region of the Iberian Peninsula</a></li>
+<li><a href="/wiki/Temperate_broadleaf_and_mixed_forests" class="mw-redirect" title="Temperate broadleaf and mixed forests">Temperate broadleaf and mixed forests</a> biome</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Green_Spain&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.euskalmet.euskadi.net/s07-5921/es/contenidos/informacion/ana_viento/es_7279/es_viento.html">http://www.euskalmet.euskadi.net/s07-5921/es/contenidos/informacion/ana_viento/es_7279/es_viento.html</a> from Euskalmet, Basque Meteorology Agency (in Spanish)</span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Nicole Belayche, "Religious Actors in Daily Life: Practices and Related Beliefs," in <i>A Companion to Roman Religion</i>, p. 279.</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Frank Bernstein, "Complex Rituals: Games and Processions in Republican Rome," in <i>A Companion to Roman Religion</i>, p. 227.</span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/J._Rufus_Fears" title="J. Rufus Fears">J. Rufus Fears</a>, "The Cult of Virtues and Roman Imperial Ideology," <i>Aufstieg und Niedergang der römischen Welt</i> II.17.2 (1981), pp. 864–865.</span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Cicero, <i>De inventione</i> 2.22.66 <i>(pietatem,  quae erga patriam aut parentes aut alios sanguine coniunctos officium conservare moneat)</i>, as quoted by <a href="/wiki/Hendrik_Wagenvoort" title="Hendrik Wagenvoort">Hendrik Wagenvoort</a>, <i>Pietas: Selected Studies in Roman Religion</i> (Brill, 1980), p. 7.</span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">As quoted by Wagenvort, <i>Pietas,</i> p. 7.</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Fears, "The Cult of Virtues," p. 880.</span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Stefan Heid, "The Romanness of Roman Christianity," in <i>A Companion to Roman Religion</i>, p. 408.</span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Fears, "The Cult of Virtues," p. 878.</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Oxford English Dictionary. Oxford English Dictionary Online. Web. 28 Jan. 2010.</span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Pfingsten, Max. <a rel="nofollow" class="external text" href="http://goblues.org/faculty/rogersb/files/2014/10/Pfingsten-1-Roman-Virtues.pdf">"oman Virtues and Stoicism -"</a> <span class="cs1-format">(PDF)</span>. <i>goblues.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=goblues.org&amp;rft.atitle=oman+Virtues+and+Stoicism+-&amp;rft.aulast=Pfingsten&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Fgoblues.org%2Ffaculty%2Frogersb%2Ffiles%2F2014%2F10%2FPfingsten-1-Roman-Virtues.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APietas" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Pfingsten, Max. <a rel="nofollow" class="external text" href="http://goblues.org/faculty/rogersb/files/2014/10/Pfingsten-1-Roman-Virtues.pdf">"oman Virtues and Stoicism -"</a> <span class="cs1-format">(PDF)</span>. <i>goblues.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=goblues.org&amp;rft.atitle=oman+Virtues+and+Stoicism+-&amp;rft.aulast=Pfingsten&amp;rft.aufirst=Max&amp;rft_id=http%3A%2F%2Fgoblues.org%2Ffaculty%2Frogersb%2Ffiles%2F2014%2F10%2FPfingsten-1-Roman-Virtues.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APietas" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Belayche, "Religious Actors in Daily Life," p. 286.</span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="/wiki/John_Scheid" title="John Scheid">John Scheid</a>, "Sacrifices for Gods and Ancestors," in <i>A Companion to Roman Religion</i>, p. 265.</span>
-</li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Fears, "The Cult of Virtues," p. 880.</span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Fears, "The Cult of Virtues," p. 880.</span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a href="/wiki/J._Rufus_Fears" title="J. Rufus Fears">J. Rufus Fears</a>, "The Theology of Victory at Rome: Approaches and Problem," <i>Aufstieg und Niedergang der römischen Welt</i> II.17.2 (1981), p. 813.</span>
-</li>
-<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Pliny, <i>Natural History</i> 10.63; Anna Clark, <i>Divine Qualities: Cult and Community in Republican Rome</i> (Oxford University Press, 2007), pp. 154–155; Catherine Connors, <i>Petronius the Poet</i> (Cambridge University Press, 1998), p. 59.</span>
-</li>
-<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">As expressed by Cicero, <i><a href="/wiki/De_Legibus" title="De Legibus">De Legibus</a></i> 2.22; Belayche, "Religious Actors in Daily Life," p. 286.</span>
-</li>
-<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Belayche, "Religious Actors in Daily Life," p. 286.</span>
-</li>
-<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a href="/wiki/Livy" title="Livy">Livy</a> 40.34.4; Fears, "The Theology of Victory at Rome," pp. 741–742, and "The Cult of Virtues," p. 835.</span>
-</li>
-<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a href="/wiki/Pliny_the_Elder" title="Pliny the Elder">Pliny the Elder</a>, <i>Natural History</i> 7.121; <a href="/wiki/Valerius_Maximus" title="Valerius Maximus">Valerius Maximus</a> 5.4.7, as cited by Fears, "The Theology of Victory," p. 742, note 10.</span>
-</li>
-<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Fears, "The Theology of Victory," p. 742; "The Cult of Virtues," p. 880.</span>
-</li>
-<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Fears, "The Cult of Virtues," p. 880.</span>
-</li>
-<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Roman Coins Issued During the Reign of Emperor Hadrian, <a rel="nofollow" class="external text" href="http://www.dig4coins.com/articles/ancient-coins/roman-coins-issued-during-the-reign-of-emperor-hadrian-ad-117-to-138">Dig4Coins.com</a>.</span>
-</li>
-</ol></div>
-<div role="navigation" class="navbox" aria-labelledby="Ancient_Roman_religion_and_mythology" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#eb9d77;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Roman_religion" title="Template:Roman religion"><abbr title="View this template" style="background:#eb9d77;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Roman_religion" title="Template talk:Roman religion"><abbr title="Discuss this template" style="background:#eb9d77;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Roman_religion&amp;action=edit"><abbr title="Edit this template" style="background:#eb9d77;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ancient_Roman_religion_and_mythology" style="font-size:114%;margin:0 4em"><a href="/wiki/Religion_in_ancient_Rome" title="Religion in ancient Rome">Ancient Roman religion</a> and <a href="/wiki/Roman_mythology" title="Roman mythology">mythology</a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%"><a href="/wiki/List_of_Roman_deities" title="List of Roman deities">Deities</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Apollo" title="Apollo">Apollo</a></li>
-<li><a href="/wiki/Bellona_(goddess)" title="Bellona (goddess)">Bellona</a></li>
-<li><a href="/wiki/Bona_Dea" title="Bona Dea">Bona Dea</a></li>
-<li><a href="/wiki/Castor_and_Pollux" title="Castor and Pollux">Castor and Pollux</a></li>
-<li><a href="/wiki/Ceres_(mythology)" title="Ceres (mythology)">Ceres</a></li>
-<li><a href="/wiki/Cupid" title="Cupid">Cupid</a></li>
-<li><a href="/wiki/Diana_(mythology)" title="Diana (mythology)">Diana</a></li>
-<li><a href="/wiki/D%C4%ABs_Pater" title="Dīs Pater">Dīs Pater</a></li>
-<li><a href="/wiki/Egeria_(mythology)" title="Egeria (mythology)">Egeria</a></li>
-<li><a href="/wiki/Fauna_(deity)" title="Fauna (deity)">Fauna</a></li>
-<li><a href="/wiki/Faunus" title="Faunus">Faunus</a></li>
-<li><a href="/wiki/Flora_(deity)" class="mw-redirect" title="Flora (deity)">Flora</a></li>
-<li><a href="/wiki/Genius_(mythology)" title="Genius (mythology)">Genius</a></li>
-<li><a href="/wiki/Hercules_in_ancient_Rome" title="Hercules in ancient Rome">Hercules</a></li>
-<li><a href="/wiki/Janus" title="Janus">Janus</a></li>
-<li><a href="/wiki/Juno_(mythology)" title="Juno (mythology)">Juno</a></li>
-<li><a href="/wiki/Jupiter_(mythology)" title="Jupiter (mythology)">Jupiter</a></li>
-<li><a href="/wiki/Lares" title="Lares">Lares</a></li>
-<li><a href="/wiki/Liber" title="Liber">Liber</a></li>
-<li><a href="/wiki/Libertas" title="Libertas">Libertas</a></li>
-<li><a href="/wiki/Mars_(mythology)" title="Mars (mythology)">Mars</a></li>
-<li><a href="/wiki/Mercury_(mythology)" title="Mercury (mythology)">Mercury</a></li>
-<li><a href="/wiki/Minerva" title="Minerva">Minerva</a></li>
-<li><a href="/wiki/Orcus" title="Orcus">Orcus</a></li>
-<li><a href="/wiki/Neptune_(mythology)" title="Neptune (mythology)">Neptune</a></li>
-<li><a href="/wiki/Di_Penates" title="Di Penates">Penates</a></li>
-<li><a href="/wiki/Pluto_(mythology)" title="Pluto (mythology)">Pluto</a></li>
-<li><a href="/wiki/Pomona_(mythology)" title="Pomona (mythology)">Pomona</a></li>
-<li><a href="/wiki/Priapus" title="Priapus">Priapus</a></li>
-<li><a href="/wiki/Proserpina" title="Proserpina">Proserpina</a></li>
-<li><a href="/wiki/Quirinus" title="Quirinus">Quirinus</a></li>
-<li><a href="/wiki/Saturn_(mythology)" title="Saturn (mythology)">Saturn</a></li>
-<li><a href="/wiki/Silvanus_(mythology)" title="Silvanus (mythology)">Silvanus</a></li>
-<li><a href="/wiki/Sol_Invictus" title="Sol Invictus">Sol</a></li>
-<li><a href="/wiki/Venus_(mythology)" title="Venus (mythology)">Venus</a></li>
-<li><a href="/wiki/Vesta_(mythology)" title="Vesta (mythology)">Vesta</a></li>
-<li><a href="/wiki/Vulcan_(mythology)" title="Vulcan (mythology)">Vulcan</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#eb9d77;">Abstract deities</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Abundantia" title="Abundantia">Abundantia</a></li>
-<li><a href="/wiki/Aequitas" title="Aequitas">Aequitas</a></li>
-<li><a href="/wiki/Averruncus" title="Averruncus">Averruncus</a></li>
-<li><a href="/wiki/Concordia_(mythology)" title="Concordia (mythology)">Concordia</a></li>
-<li><a href="/wiki/Feronia_(mythology)" title="Feronia (mythology)">Feronia</a></li>
-<li><a href="/wiki/Fides_(deity)" title="Fides (deity)">Fides</a></li>
-<li><a href="/wiki/Fortuna" title="Fortuna">Fortuna</a></li>
-<li><a href="/wiki/Fontus" title="Fontus">Fontus</a></li>
-<li><a class="mw-selflink selflink">Pietas</a></li>
-<li><a href="/wiki/Roma_(mythology)" title="Roma (mythology)">Roma</a></li>
-<li><a href="/wiki/Salus" title="Salus">Salus</a></li>
-<li><a href="/wiki/Securitas" title="Securitas">Securitas</a></li>
-<li><a href="/wiki/Spes" title="Spes">Spes</a></li>
-<li><a href="/wiki/Victoria_(mythology)" title="Victoria (mythology)">Victoria</a></li>
-<li><a href="/wiki/Terra_(mythology)" title="Terra (mythology)">Terra</a></li></ul>
-</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><div class="center"><div class="floatnone"><a href="/wiki/File:Capitoline_Wolf_of_Roman_Kingdom.svg" class="image"><img alt="Capitoline Wolf of Roman Kingdom.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Capitoline_Wolf_of_Roman_Kingdom.svg/100px-Capitoline_Wolf_of_Roman_Kingdom.svg.png" decoding="async" width="100" height="67" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Capitoline_Wolf_of_Roman_Kingdom.svg/150px-Capitoline_Wolf_of_Roman_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Capitoline_Wolf_of_Roman_Kingdom.svg/200px-Capitoline_Wolf_of_Roman_Kingdom.svg.png 2x" data-file-width="800" data-file-height="533" /></a></div></div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%">Legendary figures</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Aeneas" title="Aeneas">Aeneas</a></li>
-<li><a href="/wiki/Rhea_Silvia" title="Rhea Silvia">Rhea Silvia</a></li>
-<li><a href="/wiki/Romulus_and_Remus" title="Romulus and Remus">Romulus and Remus</a></li>
-<li><a href="/wiki/Numa_Pompilius" title="Numa Pompilius">Numa Pompilius</a></li>
-<li><a href="/wiki/Tullus_Hostilius" title="Tullus Hostilius">Tullus Hostilius</a></li>
-<li><a href="/wiki/Servius_Tullius" title="Servius Tullius">Servius Tullius</a></li>
-<li><a href="/wiki/Ancus_Marcius" title="Ancus Marcius">Ancus Marcius</a></li>
-<li><a href="/wiki/Lucius_Tarquinius_Priscus" title="Lucius Tarquinius Priscus">Lucius Tarquinius Priscus</a></li>
-<li><a href="/wiki/Lucius_Tarquinius_Superbus" title="Lucius Tarquinius Superbus">Lucius Tarquinius Superbus</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%">Texts</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Virgil" title="Virgil">Virgil</a>
-<ul><li><i><a href="/wiki/Aeneid" title="Aeneid">Aeneid</a></i></li></ul></li>
-<li><a href="/wiki/Ovid" title="Ovid">Ovid</a>
-<ul><li><i><a href="/wiki/Metamorphoses" title="Metamorphoses">Metamorphoses</a></i></li>
-<li><i><a href="/wiki/Fasti_(poem)" title="Fasti (poem)">Fasti</a></i></li></ul></li>
-<li><a href="/wiki/Propertius" title="Propertius">Propertius</a></li>
-<li><a href="/wiki/Apuleius" title="Apuleius">Apuleius</a>
-<ul><li><i><a href="/wiki/The_Golden_Ass" title="The Golden Ass">The Golden Ass</a></i></li></ul></li>
-<li><a href="/wiki/Marcus_Terentius_Varro" title="Marcus Terentius Varro">Varro</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%">Concepts and practices</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Religion_in_ancient_Rome" title="Religion in ancient Rome">Religion in ancient Rome</a></li>
-<li><a href="/wiki/Roman_festivals" title="Roman festivals">Festivals</a></li>
-<li><i><a href="/wiki/Interpretatio_graeca" title="Interpretatio graeca">Interpretatio graeca</a></i></li>
-<li><a href="/wiki/Imperial_cult_of_ancient_Rome" title="Imperial cult of ancient Rome">Imperial cult</a></li>
-<li><a href="/wiki/Roman_temple" title="Roman temple">Temples</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%">Philosophy</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
-<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a></li>
-<li><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
-<li><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripateticism</a></li>
-<li><a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagoreanism</a></li>
-<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#eb9d77;;width:1%">See also</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Glossary_of_ancient_Roman_religion" title="Glossary of ancient Roman religion">Glossary of ancient Roman religion</a></li>
-<li><a href="/wiki/Greek_mythology" title="Greek mythology">Greek mythology</a></li>
-<li><a href="/wiki/Myth_and_ritual" title="Myth and ritual">Myth and ritual</a></li>
-<li><a href="/wiki/Roman_polytheism" class="mw-redirect" title="Roman polytheism">Roman polytheism</a> (<a href="/wiki/List_of_Roman_deities" title="List of Roman deities">List</a>)</li>
-<li><a href="/wiki/Classical_mythology" title="Classical mythology">Classical mythology</a></li>
-<li><a href="/wiki/Constantine_the_Great_and_Christianity" title="Constantine the Great and Christianity">Conversion to Christianity</a></li>
-<li><a href="/wiki/Decline_of_Greco-Roman_polytheism" title="Decline of Greco-Roman polytheism">Decline of Greco-Roman polytheism</a></li></ul>
-</div></td></tr></tbody></table></div>
+</ol></div></div>
+<p><span id="coordinates" class="metadata coord-missing"></span>
+</p>
 <!-- 
 NewPP limit report
-Parsed by mw1244
-Cached time: 20190925024222
+Parsed by mw1339
+Cached time: 20190901152329
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.384 seconds
-Real time usage: 0.505 seconds
-Preprocessor visited node count: 694/1000000
+Complications: []
+CPU time usage: 0.096 seconds
+Real time usage: 0.174 seconds
+Preprocessor visited node count: 239/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 27465/2097152 bytes
-Template argument size: 262/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 15067/5000000 bytes
+Post‐expand include size: 8435/2097152 bytes
+Template argument size: 205/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4933/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.145/10.000 seconds
-Lua memory usage: 2.74 MB/50 MB
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1.43 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  361.459      1 -total
- 54.02%  195.259      1 Template:Reflist
- 40.58%  146.683      2 Template:Cite_web
- 19.58%   70.776      1 Template:Commons_category
-  8.29%   29.955      1 Template:For
-  5.31%   19.200      1 Template:Roman_religion
-  5.24%   18.948      1 Template:Commons
-  4.48%   16.206      2 Template:Navbox
-  4.41%   15.957      1 Template:Replace
-  4.34%   15.693      1 Template:Sister_project
+100.00%  143.461      1 -total
+ 59.64%   85.556      1 Template:Refimprove
+ 46.72%   67.019      1 Template:Ambox
+ 20.76%   29.780      1 Template:Find_sources_mainspace
+  9.21%   13.216      1 Template:Reflist
+  5.82%    8.353      1 Template:Coord_missing
+  5.39%    7.727      2 Template:Main_other
+  2.91%    4.182      1 Template:Coord_missing/CheckCat
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:85584-0!canonical and timestamp 20190925024221 and revision id 899266924
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5771237-0!canonical and timestamp 20190901152329 and revision id 889727752
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pietas&amp;oldid=899266924">https://en.wikipedia.org/w/index.php?title=Pietas&amp;oldid=899266924</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Green_Spain&amp;oldid=889727752">https://en.wikipedia.org/w/index.php?title=Green_Spain&amp;oldid=889727752</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_Roman_virtues" title="Category:Ancient Roman virtues">Ancient Roman virtues</a></li><li><a href="/wiki/Category:Ancient_Roman_religion" title="Category:Ancient Roman religion">Ancient Roman religion</a></li><li><a href="/wiki/Category:Personifications_in_Roman_mythology" title="Category:Personifications in Roman mythology">Personifications in Roman mythology</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Spain" title="Category:Geography of Spain">Geography of Spain</a></li><li><a href="/wiki/Category:Green_Spain" title="Category:Green Spain">Green Spain</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2012" title="Category:Articles needing additional references from July 2012">Articles needing additional references from July 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Spain_articles_missing_geocoordinate_data" title="Category:Spain articles missing geocoordinate data">Spain articles missing geocoordinate data</a></li><li><a href="/wiki/Category:All_articles_needing_coordinates" title="Category:All articles needing coordinates">All articles needing coordinates</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -332,13 +195,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pietas" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Pietas" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Green+Spain" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Green+Spain" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Pietas" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Pietas" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Green_Spain" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Green_Spain" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -353,7 +216,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Pietas">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Pietas&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Pietas&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Green_Spain">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Green_Spain&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Green_Spain&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -392,35 +255,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Pietas" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Pietas" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pietas&amp;oldid=899266924" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pietas&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2643299" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pietas&amp;id=899266924" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Green_Spain" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Green_Spain" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Green_Spain&amp;oldid=889727752" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Green_Spain&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136392" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Green_Spain&amp;id=889727752" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Pietas" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-wikivoyage"><a href="https://en.wikivoyage.org/wiki/Green_Spain" hreflang="en">Wikivoyage</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pietas">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pietas&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Pietas&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Green+Spain">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Green+Spain&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Green_Spain&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Pietat" title="Pietat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Pietas" title="Pietas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Pietas" title="Pietas – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%D8%AA%D8%A7%D8%B3_(%D8%A7%DB%8C%D8%B2%D8%AF%D8%A8%D8%A7%D9%86%D9%88)" title="پیتاس (ایزدبانو) – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Pietas_(Rome_antique)" title="Pietas (Rome antique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%94%BC%EC%97%90%ED%83%80%EC%8A%A4" title="피에타스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Pietas" title="Pietas – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Pietas_(divinit%C3%A0)" title="Pietas (divinità) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Pietas" title="Pietas – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Pietas" title="Pietas – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Pietas" title="Pietas – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Piedade_(virtude)" title="Piedade (virtude) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru badge-Q17437798 badge-goodarticle" title="good article"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B5%D1%82%D0%B0%D1%81" title="Пиетас – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Pietas" title="Pietas – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Pietas" title="Pietas – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2643299#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Cornisa_Cant%C3%A1brica" title="Cornisa Cantábrica – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A6%AC%E0%A7%81%E0%A6%9C_%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A7%87%E0%A6%A8" title="সবুজ স্পেন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Costa_Verde" title="Costa Verde – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Cornisa_Cant%C3%A0brica" title="Cornisa Cantàbrica – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Costa_Verde" title="Costa Verde – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Cornisa_Cant%C3%A1brica" title="Cornisa Cantábrica – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kantabra_Kornico" title="Kantabra Kornico – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Kantauri_itsasoko_ertza" title="Kantauri itsasoko ertza – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/C%C3%B4te_Cantabrique" title="Côte Cantabrique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Cornixa_cant%C3%A1brica" title="Cornixa cantábrica – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%90%EC%8A%A4%ED%8C%8C%EB%83%90_%EB%B2%A0%EB%A5%B4%EB%8D%B0" title="에스파냐 베르데 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D5%B6%D5%A1%D5%B9_%D4%BB%D5%BD%D5%BA%D5%A1%D5%B6%D5%AB%D5%A1" title="Կանաչ Իսպանիա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Costa_Verde" title="Costa Verde – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Cornice_Cantabrica" title="Cornice Cantabrica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Cornisa_Cant%C3%A1brica" title="Cornisa Cantábrica – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%91%E3%83%BC%E3%83%8B%E3%83%A3%E3%83%BB%E3%83%99%E3%83%AB%E3%83%87" title="エスパーニャ・ベルデ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Gr%C3%B8ne_Spania" title="Grøne Spania – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Costa_Verde" title="Costa Verde – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cornija_Cant%C3%A1brica" title="Cornija Cantábrica – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%91%D0%BD%D0%B0%D1%8F_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Зелёная Испания – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%81%D1%82%D0%B0_%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Коста Верде – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Costa_Verde" title="Costa Verde – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%86%D1%81%D0%BF%D0%B0%D0%BD%D1%96%D1%8F" title="Зелена Іспанія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1136392#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 28 May 2019, at 22:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 27 March 2019, at 15:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -431,7 +294,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Pietas&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Green_Spain&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -443,8 +306,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.505","ppvisitednodes":{"value":694,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27465,"limit":2097152},"templateargumentsize":{"value":262,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15067,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  361.459      1 -total"," 54.02%  195.259      1 Template:Reflist"," 40.58%  146.683      2 Template:Cite_web"," 19.58%   70.776      1 Template:Commons_category","  8.29%   29.955      1 Template:For","  5.31%   19.200      1 Template:Roman_religion","  5.24%   18.948      1 Template:Commons","  4.48%   16.206      2 Template:Navbox","  4.41%   15.957      1 Template:Replace","  4.34%   15.693      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":2876317,"limit":52428800}},"cachereport":{"origin":"mw1244","timestamp":"20190925024222","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Pietas","url":"https:\/\/en.wikipedia.org\/wiki\/Pietas","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2643299","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2643299","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-15T02:51:17Z","dateModified":"2019-05-28T22:24:46Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Antoninus_Pius_Coin_pieta.jpg"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":686,"wgHostname":"mw1244"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.096","walltime":"0.174","ppvisitednodes":{"value":239,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8435,"limit":2097152},"templateargumentsize":{"value":205,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4933,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  143.461      1 -total"," 59.64%   85.556      1 Template:Refimprove"," 46.72%   67.019      1 Template:Ambox"," 20.76%   29.780      1 Template:Find_sources_mainspace","  9.21%   13.216      1 Template:Reflist","  5.82%    8.353      1 Template:Coord_missing","  5.39%    7.727      2 Template:Main_other","  2.91%    4.182      1 Template:Coord_missing/CheckCat"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1501611,"limit":52428800}},"cachereport":{"origin":"mw1339","timestamp":"20190901152329","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Green Spain","url":"https:\/\/en.wikipedia.org\/wiki\/Green_Spain","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1136392","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1136392","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-30T11:51:34Z","dateModified":"2019-03-27T15:27:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b1\/Spain-climate-en.png","headline":"Coastal region at the north of Spain"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1238"});});</script>
 </body>
 </html>

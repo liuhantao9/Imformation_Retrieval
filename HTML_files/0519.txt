@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Gum Air - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Gum_Air","wgTitle":"Gum Air","wgCurRevisionId":907813842,"wgRevisionId":907813842,"wgArticleId":38694730,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from October 2015","All articles needing additional references","Commons category link is on Wikidata","Airlines of Suriname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gum_Air","wgRelevantArticleId":
-38694730,"wgRequestId":"XYtuzwpAAD0AAI82WZAAAACO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1489383","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
-"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns",
-"ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Colne Bridge - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Colne_Bridge","wgTitle":"Colne Bridge","wgCurRevisionId":826968252,"wgRevisionId":826968252,"wgArticleId":39023081,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2018","Use British English from February 2018","Coordinates on Wikidata","All stub articles","Bridges in West Yorkshire","Grade II listed bridges","Grade II listed buildings in West Yorkshire","United Kingdom bridge (structure) stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar",
+"Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Colne_Bridge","wgRelevantArticleId":39023081,"wgRequestId":"XYqw1gpAIEIAAJJXz0wAAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.6775,"lon":-1.7333},"wgWikibaseItemId":"Q13528141","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gum_Air"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Gum_Air&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Gum_Air&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/de/Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Colne_Bridge"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Colne_Bridge&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Colne_Bridge&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Gum_Air"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Colne_Bridge"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Gum_Air rootpage-Gum_Air skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Colne_Bridge rootpage-Colne_Bridge skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Gum Air</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Colne Bridge</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,167 +51,67 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Gum_Air&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Gum+Air%22">"Gum Air"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Gum+Air%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Gum+Air%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Gum+Air%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Gum+Air%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Gum+Air%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
-<table class="infobox vcard" style="width:22em"><caption class="fn org">Gum Air</caption><tbody><tr><td colspan="2" style="text-align:center">
-<table style="border-collapse: collapse; width: 100%; background-color: lightgrey; font-weight: bold; line-height: 1;">
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
 
-<tbody><tr>
-<th scope="col" style="padding-top: 0.5em; border-right: 1px solid white; text-align: center;"><a href="/wiki/IATA_airline_designator" class="mw-redirect" title="IATA airline designator">IATA</a>
-</th>
-<th scope="col" style="padding-top: 0.5em; border-right: 1px solid white; text-align: center;"><a href="/wiki/ICAO_airline_designator" class="mw-redirect" title="ICAO airline designator">ICAO</a>
-</th>
-<th scope="col" style="padding-top: 0.5em; text-align: center;"><a href="/wiki/Airline_call_sign" class="mw-redirect" title="Airline call sign">Callsign</a>
-</th></tr>
-<tr>
-<td class="nickname" style="padding-bottom: 0.5em; border-right: 1px solid white; text-align: center;">
-</td>
-<td class="nickname" style="padding-bottom: 0.5em; border-right: 1px solid white; text-align: center;">GUM
-</td>
-<td class="nickname" style="padding-bottom: 0.5em; text-align: center;">GUMAIR
-</td></tr></tbody></table></td></tr><tr><th scope="row">Founded</th><td>September 16, 1971</td></tr><tr><th scope="row">Operating bases</th><td><a href="/wiki/Zorg_en_Hoop_Airport" title="Zorg en Hoop Airport">Zorg en Hoop Airport</a></td></tr><tr><th scope="row">Fleet size</th><td>10</td></tr><tr><th scope="row">Headquarters</th><td class="label"><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>, <a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr><th scope="row">Key people</th><td>Gummels (<a href="/wiki/Managing_director" class="mw-redirect" title="Managing director">MD</a>)</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.gumair.com">Gum Air</a></span></td></tr></tbody></table>
-<p><b>Gum Air</b> is a Surinamese airline based at <a href="/wiki/Zorg_en_Hoop_Airport" title="Zorg en Hoop Airport">Zorg en Hoop Airport</a> in <a href="/wiki/Paramaribo,_Suriname" class="mw-redirect" title="Paramaribo, Suriname">Paramaribo, Suriname</a>. Gum Air cooperates with <a href="/wiki/Trans_Guyana_Airways" title="Trans Guyana Airways">Trans Guyana Airways</a> to provide daily flights between <a href="/wiki/Zorg_en_Hoop_Airport" title="Zorg en Hoop Airport">Zorg en Hoop Airport (ORG)</a> in Paramaribo, Suriname and <a href="/wiki/Ogle_Airport" class="mw-redirect" title="Ogle Airport">Ogle Airport (OGL)</a> in <a href="/wiki/Georgetown,_Guyana" title="Georgetown, Guyana">Georgetown, Guyana</a>).
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Fleet"><span class="tocnumber">2</span> <span class="toctext">Fleet</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Accidents_and_incidents"><span class="tocnumber">3</span> <span class="toctext">Accidents and incidents</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gum_Air&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r886046874">@media all and (max-width:720px){.mw-parser-output .mobile-float-reset{float:none!important;width:100%!important}}.mw-parser-output .stack-container{box-sizing:border-box}.mw-parser-output .stack-clear-left{float:left;clear:left}.mw-parser-output .stack-clear-right{float:right;clear:right}.mw-parser-output .stack-left{float:left}.mw-parser-output .stack-right{float:right}.mw-parser-output .stack-object{margin:1px;overflow:hidden}</style><div class="mw-stack stack-container stack-clear-right mobile-float-reset"></div>
-<p>Gum Air was founded in 1971 by six brothers of the Gummels family. The company they started was named Sky Farmers and focused on national flights.
-</p><p>Gum Air has flown various unique types of <a href="/wiki/STOL" title="STOL">STOL</a> Short Take Off &amp; Landing aircraft from Suriname in the past such as <a href="/wiki/Dornier_Do_28" title="Dornier Do 28">Dornier DO 28D-1 Skyservant</a>, <a href="/wiki/GAF_Nomad" title="GAF Nomad">GAF Nomad</a>, <a href="/wiki/Britten-Norman_Islander" class="mw-redirect" title="Britten-Norman Islander">Britten-Norman BN-2 Islander</a> and also helicopter types such as <a href="/wiki/Agusta-Bell_204" class="mw-redirect" title="Agusta-Bell 204">Agusta-Bell 204</a>B &amp; <a href="/wiki/Bell_206" title="Bell 206">Bell 206B Jet Ranger II</a>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg/300px-Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg" decoding="async" width="300" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg/450px-Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg/600px-Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg 2x" data-file-width="640" data-file-height="469" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg" class="internal" title="Enlarge"></a></div>A Colne Bridge was mentioned in the Fountains Abbey records of the 12th century.</div></div></div>
+<p><b>Colne Bridge</b> is an historic 18th-century bridge near <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. A  <a href="/wiki/Grade_II_listed" class="mw-redirect" title="Grade II listed">Grade II listed</a> stone-built arch bridge, it spans the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> between <a href="/wiki/Bradley,_West_Yorkshire" class="mw-redirect" title="Bradley, West Yorkshire">Bradley</a> and <a href="/wiki/Kirkheaton" title="Kirkheaton">Kirkheaton</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>According to Ted Ruddock, Colne Bridge may have been the design inspiration for <a href="/wiki/John_Smeaton" title="John Smeaton">John Smeaton</a>'s work on the <a href="/wiki/Blackfriars_Bridge" title="Blackfriars Bridge">Blackfriars Bridge</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="Fleet">Fleet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gum_Air&amp;action=edit&amp;section=2" title="Edit section: Fleet">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<style data-mw-deduplicate="TemplateStyles:r889293853/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{text-align:left;background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .thumbcaption{text-align:center}}</style>
-<p>Gum Air today owns a fleet of 9 aircraft plus a helicopter, consisting of four types of aircraft varying from 5 seats to 19 seats.
-</p>
-<center>
-<table class="toccolours" border="1" cellpadding="5" style="border-collapse:collapse">
-<caption>'
-</caption>
-<tbody><tr style="background:#ff8000;">
-<th>Aircraft
-</th>
-<th>In Fleet
-</th>
-<th>Passengers
-</th>
-<th>Notes
-</th></tr>
-<tr>
-<td><a href="/wiki/Cessna_206" title="Cessna 206">Cessna U206B/G Stationair 6/Super Skywagon</a>
-</td>
-<td align="center">3
-</td>
-<td align="center">1 pilot plus 5 passengers
-</td>
-<td>
-</td></tr>
-<tr>
-<td><a href="/wiki/Cessna_208" class="mw-redirect" title="Cessna 208">Cessna 208B Grand Caravan</a>
-</td>
-<td align="center">4
-</td>
-<td align="center">1-2 pilots plus 8-9 passengers
-</td>
-<td align="center">(<i>Max 14 passengers with <a href="/wiki/FAR_Part_23" class="mw-redirect" title="FAR Part 23">FAR Part 23</a> waiver</i>)
-</td></tr>
-<tr>
-<td><a href="/wiki/De_Havilland_Canada_DHC-6_Twin_Otter" title="De Havilland Canada DHC-6 Twin Otter">De Havilland Canada DHC-6-300 Twin Otter</a>
-</td>
-<td align="center">2<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
-</td>
-<td align="center">2 pilots plus 19 passengers
-</td>
-<td>
-</td></tr>
-<tr>
-<td><a href="/wiki/Robinson_R44" title="Robinson R44">Robinson R44 Raven I</a>
-</td>
-<td align="center">1
-</td>
-<td align="center">1-pilot plus 3 passengers
-</td>
-<td>
-</td></tr>
-<tr>
-<th>Total
-</th>
-<th>10
-</th>
-<td colspan="2">
-</td></tr></tbody></table>
-</center>
-<h2><span class="mw-headline" id="Accidents_and_incidents">Accidents and incidents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gum_Air&amp;action=edit&amp;section=3" title="Edit section: Accidents and incidents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>On 10 February 2001 Gum Air's <a href="/wiki/GAF_Nomad" title="GAF Nomad">GAF Nomad</a> N24A, registered PZ-TBP was written off when it crashed on a flight from Paramaribo – Zanderij <a href="/wiki/Johan_Adolf_Pengel_International_Airport" title="Johan Adolf Pengel International Airport">Johan Adolf Pengel International Airport</a> (PBM/SMJP) to <a href="/wiki/Njoeng_Jacob_Kondre_Airstrip" title="Njoeng Jacob Kondre Airstrip">Njoeng Jacob Kondre Airstrip</a> (ICAO: SMJK). The Nomad plane had lost radio contact. According to personnel at the airstrip in Jacob Kondre it was flying low and crashed into a mountain. All 9 passengers plus the pilot died.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
-<li>On 21 August 2008 a Gum Air's <a href="/wiki/Cessna_206" title="Cessna 206">Cessna 206</a> Stationair 6 ran off the airstrip at <a href="/wiki/Poesoegroenoe_Airstrip" title="Poesoegroenoe Airstrip">Poesoegroenoe Airstrip</a> (ICAO: SMPG) during take-off when engine failure occurred. All 6 people on board survived, with only two slightly injured.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
-<li>On 22 November 2008 Gum Air's <a href="/wiki/Cessna_404_Titan" title="Cessna 404 Titan">Cessna 404 Titan</a>, registered PZ-TVC made a forced landing on the road near Gusterie, Suriname, after engine failures. The aircraft came to rest in the bushes and was reported destroyed. No injuries or fatalities occurred in this accident.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gum_Air&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Bridge&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Global Airline Guide 2016 (Part Two)". <i>Airliner World</i> (November 2016): 33.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Airliner+World&amp;rft.atitle=Global+Airline+Guide+2016+%28Part+Two%29&amp;rft.issue=November+2016&amp;rft.pages=33&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGum+Air" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> <cite id="CITEREFHistoric_England1134290" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134290">"COLNE BRIDGE (1134290)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=COLNE+BRIDGE+%281134290%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134290&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColne+Bridge" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> </span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://planecrashinfo.com/2001/2001.htm">"2001"</a>. <i>Planecrashinfo.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Planecrashinfo.com&amp;rft.atitle=2001&amp;rft_id=http%3A%2F%2Fplanecrashinfo.com%2F2001%2F2001.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGum+Air" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.waterkant.net/suriname/2008/08/22/gewonden-bij-vliegongeluk-in-suriname/#comments">"Gewonden bij vliegongeluk in Suriname"</a>. <i>Suriname - Waterkant.Net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Suriname+-+Waterkant.Net&amp;rft.atitle=Gewonden+bij+vliegongeluk+in+Suriname&amp;rft_id=http%3A%2F%2Fwww.waterkant.net%2Fsuriname%2F2008%2F08%2F22%2Fgewonden-bij-vliegongeluk-in-suriname%2F%23comments&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGum+Air" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://landewers.net/PZ.TXT">"Aircraft database"</a> <span class="cs1-format">(TXT)</span>. Lanewers.net<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Aircraft+database&amp;rft.pub=Lanewers.net&amp;rft_id=http%3A%2F%2Flandewers.net%2FPZ.TXT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGum+Air" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=amQ9AAAAIAAJ&amp;pg=PA86&amp;dq=%22colne+bridge%22&amp;ei=yAVfUYf_A4jZUZSzgNgJ&amp;cd=5#v=onepage&amp;q=%22colne%20bridge%22&amp;f=false">Arch Bridges and Their Builders 1735-1835</a>.</span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gum_Air&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Gum_Air" class="extiw" title="commons:Category:Gum Air">Gum Air</a></b></i>.</td></tr>
-</tbody></table> 
-<ul><li><a rel="nofollow" class="external text" href="http://www.gumair.com/">Official website</a></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Colne_Bridge&amp;params=53.6775_N_1.7333_W_type:landmark"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′39″N</span> <span class="longitude">1°44′00″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6775°N 1.7333°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6775; -1.7333</span></span></span></a></span></span></span>
+</p><p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Bridge_drawing.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bridge_drawing.svg/40px-Bridge_drawing.svg.png" decoding="async" width="40" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bridge_drawing.svg/60px-Bridge_drawing.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Bridge_drawing.svg/80px-Bridge_drawing.svg.png 2x" data-file-width="400" data-file-height="200" /></a></td><td><i>This article about a bridge in the United Kingdom is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Colne_Bridge&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:UK-bridge-struct-stub" title="Template:UK-bridge-struct-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UK-bridge-struct-stub" title="Template talk:UK-bridge-struct-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UK-bridge-struct-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1290
-Cached time: 20190925034807
+Parsed by mw1238
+Cached time: 20190907062229
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.260 seconds
-Real time usage: 0.376 seconds
-Preprocessor visited node count: 873/1000000
+CPU time usage: 0.152 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 445/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 19953/2097152 bytes
-Template argument size: 529/2097152 bytes
-Highest expansion depth: 10/40
-Expensive parser function count: 1/500
+Post‐expand include size: 8888/2097152 bytes
+Template argument size: 407/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 12612/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.124/10.000 seconds
-Lua memory usage: 3.93 MB/50 MB
+Unstrip post‐expand size: 3439/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 2.22 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  341.714      1 -total
- 27.92%   95.416      1 Template:More_citations_needed
- 26.00%   88.854      1 Template:Reflist
- 19.74%   67.470      1 Template:Ambox
- 19.27%   65.840      1 Template:Cite_journal
- 17.59%   60.123      1 Template:Infobox_airline
- 16.82%   57.474      1 Template:Commonscat
- 14.33%   48.957      1 Template:Infobox
-  8.58%   29.328      1 Template:Find_sources_mainspace
-  6.10%   20.829      1 Template:Multiple_image
+100.00%  196.486      1 -total
+ 53.14%  104.417      1 Template:Reflist
+ 47.89%   94.093      1 Template:NHLE
+ 17.12%   33.629      1 Template:Coord
+ 16.47%   32.369      1 Template:Use_dmy_dates
+  9.10%   17.882      2 Template:DMCA
+  8.84%   17.374      1 Template:UK-bridge-struct-stub
+  7.57%   14.879      1 Template:Asbox
+  7.56%   14.857      2 Template:Dated_maintenance_category
+  5.02%    9.854      2 Template:FULLROOTPAGENAME
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:38694730-0!canonical and timestamp 20190925034807 and revision id 907813842
+<!-- Saved in parser cache with key enwiki:pcache:idhash:39023081-0!canonical and timestamp 20190907062229 and revision id 826968252
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gum_Air&amp;oldid=907813842">https://en.wikipedia.org/w/index.php?title=Gum_Air&amp;oldid=907813842</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Colne_Bridge&amp;oldid=826968252">https://en.wikipedia.org/w/index.php?title=Colne_Bridge&amp;oldid=826968252</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Airlines_of_Suriname" title="Category:Airlines of Suriname">Airlines of Suriname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_October_2015" title="Category:Articles needing additional references from October 2015">Articles needing additional references from October 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Bridges_in_West_Yorkshire" title="Category:Bridges in West Yorkshire">Bridges in West Yorkshire</a></li><li><a href="/wiki/Category:Grade_II_listed_bridges" title="Category:Grade II listed bridges">Grade II listed bridges</a></li><li><a href="/wiki/Category:Grade_II_listed_buildings_in_West_Yorkshire" title="Category:Grade II listed buildings in West Yorkshire">Grade II listed buildings in West Yorkshire</a></li><li><a href="/wiki/Category:United_Kingdom_bridge_(structure)_stubs" title="Category:United Kingdom bridge (structure) stubs">United Kingdom bridge (structure) stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_February_2018" title="Category:Use British English from February 2018">Use British English from February 2018</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -226,13 +127,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gum+Air" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Gum+Air" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Colne+Bridge" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Colne+Bridge" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Gum_Air" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Gum_Air" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Colne_Bridge" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Colne_Bridge" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -247,7 +148,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Gum_Air">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Gum_Air&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Gum_Air&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Colne_Bridge">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Colne_Bridge&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Colne_Bridge&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -286,35 +187,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Gum_Air" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Gum_Air" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gum_Air&amp;oldid=907813842" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gum_Air&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1489383" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gum_Air&amp;id=907813842" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Colne_Bridge" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Colne_Bridge" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Colne_Bridge&amp;oldid=826968252" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Colne_Bridge&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13528141" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Colne_Bridge&amp;id=826968252" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
 			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
 			<div class="body">
 								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Gum_Air" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Colne_Bridge,_West_Yorkshire" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gum+Air">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gum+Air&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Gum_Air&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Colne+Bridge">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Colne+Bridge&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Colne_Bridge&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gum_Air" title="Gum Air – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D9%85_%D8%A7%DB%8C%D8%B1" title="گام ایر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B4%82_%E0%B4%8E%E0%B4%AF%E0%B5%BC" title="ഗം എയർ – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Gum_Air" title="Gum Air – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1489383#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q13528141#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 25 July 2019, at 13:12<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 22 February 2018, at 00:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -325,7 +226,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Gum_Air&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Colne_Bridge&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -337,8 +238,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.376","ppvisitednodes":{"value":873,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19953,"limit":2097152},"templateargumentsize":{"value":529,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12612,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  341.714      1 -total"," 27.92%   95.416      1 Template:More_citations_needed"," 26.00%   88.854      1 Template:Reflist"," 19.74%   67.470      1 Template:Ambox"," 19.27%   65.840      1 Template:Cite_journal"," 17.59%   60.123      1 Template:Infobox_airline"," 16.82%   57.474      1 Template:Commonscat"," 14.33%   48.957      1 Template:Infobox","  8.58%   29.328      1 Template:Find_sources_mainspace","  6.10%   20.829      1 Template:Multiple_image"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":4120308,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20190925034807","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Gum Air","url":"https:\/\/en.wikipedia.org\/wiki\/Gum_Air","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1489383","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1489383","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-03-03T13:23:16Z","dateModified":"2019-07-25T13:12:43Z","headline":"airline"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1266"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.218","ppvisitednodes":{"value":445,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":8888,"limit":2097152},"templateargumentsize":{"value":407,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3439,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  196.486      1 -total"," 53.14%  104.417      1 Template:Reflist"," 47.89%   94.093      1 Template:NHLE"," 17.12%   33.629      1 Template:Coord"," 16.47%   32.369      1 Template:Use_dmy_dates","  9.10%   17.882      2 Template:DMCA","  8.84%   17.374      1 Template:UK-bridge-struct-stub","  7.57%   14.879      1 Template:Asbox","  7.56%   14.857      2 Template:Dated_maintenance_category","  5.02%    9.854      2 Template:FULLROOTPAGENAME"]},"scribunto":{"limitreport-timeusage":{"value":"0.089","limit":"10.000"},"limitreport-memusage":{"value":2325417,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20190907062229","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Colne Bridge","url":"https:\/\/en.wikipedia.org\/wiki\/Colne_Bridge","sameAs":"http:\/\/www.wikidata.org\/entity\/Q13528141","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q13528141","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-04-05T17:24:00Z","dateModified":"2018-02-22T00:51:52Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/de\/Colne_Bridge_between_Bradley_and_Kirkheaton_-_geograph.org.uk_-_97489.jpg","headline":"grade II listed bridge in the United kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1329"});});</script>
 </body>
 </html>

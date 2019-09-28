@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Brokopondo District - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brokopondo_District","wgTitle":"Brokopondo District","wgCurRevisionId":864451609,"wgRevisionId":864451609,"wgArticleId":683318,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","All stub articles","Districts of Suriname","Brokopondo District","Suriname geography stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brokopondo_District",
-"wgRelevantArticleId":683318,"wgRequestId":"XYwEhgpAME8AACltD9sAAAAD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":4.7725,"lon":-55.129444444444445},"wgWikibaseItemId":"Q847680","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
-"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>River Holme - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"River_Holme","wgTitle":"River Holme","wgCurRevisionId":917796422,"wgRevisionId":917796422,"wgArticleId":3118085,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from October 2017","Use dmy dates from October 2017","Coordinates on Wikidata","Rivers of Kirklees","Rivers of Huddersfield","Rivers and valleys of the Peak District","Holme Valley","Rivers of West Yorkshire","Aire catchment"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul",
+"Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"River_Holme","wgRelevantArticleId":3118085,"wgRequestId":"XYt@aQpAMFsAALsjr1QAAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.63916666666667,"lon":-1.7844444444444443},"wgWikibaseItemId":"Q7337506","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,21 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brokopondo_reservoir.jpg/1200px-Brokopondo_reservoir.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brokopondo_District"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brokopondo_District&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Brokopondo_District&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/1200px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/River_Holme"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=River_Holme&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=River_Holme&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Brokopondo_District"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/River_Holme"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brokopondo_District rootpage-Brokopondo_District skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-River_Holme rootpage-River_Holme skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Brokopondo District</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">River Holme</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,142 +51,301 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">District in Suriname</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Brokopondo</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">District</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Brokopondo_reservoir.jpg" class="image" title="Brokopondo reservoir"><img alt="Brokopondo reservoir" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brokopondo_reservoir.jpg/250px-Brokopondo_reservoir.jpg" decoding="async" width="250" height="141" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brokopondo_reservoir.jpg/375px-Brokopondo_reservoir.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Brokopondo_reservoir.jpg/500px-Brokopondo_reservoir.jpg 2x" data-file-width="3840" data-file-height="2160" /></a><div style="padding:0.4em 0 0 0;">Brokopondo reservoir</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Brokopondo_in_Suriname.svg" class="image" title="Map of Suriname showing Brokopondo district"><img alt="Map of Suriname showing Brokopondo district" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brokopondo_in_Suriname.svg/250px-Brokopondo_in_Suriname.svg.png" decoding="async" width="250" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brokopondo_in_Suriname.svg/375px-Brokopondo_in_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Brokopondo_in_Suriname.svg/500px-Brokopondo_in_Suriname.svg.png 2x" data-file-width="1181" data-file-height="1205" /></a><div style="padding:0.3em 0 0 0;">Map of Suriname showing Brokopondo district</div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brokopondo_District&amp;params=4_46_N_55_08_W_region:SR_type:city(15909)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°46′N</span> <span class="longitude">55°08′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.767°N 55.133°W</span><span style="display:none">&#xfeff; / <span class="geo">4.767; -55.133</span></span></span></a></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr class="mergedtoprow"><th scope="row">Capital</th><td><a href="/wiki/Brokopondo" title="Brokopondo">Brokopondo</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>7,364&#160;km<sup>2</sup> (2,843&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2012 census)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>15,909</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>2.2/km<sup>2</sup> (5.6/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC-3" class="mw-redirect" title="UTC-3">UTC-3</a> (ART)</td></tr></tbody></table>
-<p><b>Brokopondo</b> is a district of <a href="/wiki/Suriname" title="Suriname">Suriname</a>. Its <a href="/wiki/Capital_city" title="Capital city">capital city</a> is <a href="/wiki/Brokopondo" title="Brokopondo">Brokopondo</a>; other towns include <a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a> and <a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a>.
-</p><p>The district has a <a href="/wiki/Population" title="Population">population</a> of 15,909, and an <a href="/wiki/Area" title="Area">area</a> of 7,364 square kilometres.
-</p><p>Brokopondo district is the site of a large <a href="/wiki/Reservoir_(water)" class="mw-redirect" title="Reservoir (water)">reservoir</a>, the <a href="/wiki/Brokopondo_Reservoir" title="Brokopondo Reservoir">Brokopondo Reservoir</a> near <a href="/wiki/Afobaka" title="Afobaka">Afobaka</a> (built between 1961 and 1964), which produces <a href="/wiki/Hydroelectric" class="mw-redirect" title="Hydroelectric">hydroelectric</a> power that provides approximately half of the domestic electrical need.
-</p><p>The district has several <a href="/wiki/Waterfall" title="Waterfall">waterfalls</a>, including the <a href="/w/index.php?title=Irene_Falls&amp;action=edit&amp;redlink=1" class="new" title="Irene Falls (page does not exist)">Irene Falls</a> and <a href="/w/index.php?title=Leo_Falls&amp;action=edit&amp;redlink=1" class="new" title="Leo Falls (page does not exist)">Leo Falls</a>. In the <a href="/wiki/Rainforest" title="Rainforest">rainforest</a> of Brokopondo, there are large reserves where a diverse variety of <a href="/wiki/Wildlife" title="Wildlife">wildlife</a> exists.
-</p><p>Recently, <a href="/wiki/Gold" title="Gold">gold</a> has been discovered in the Brokopondo district, and this has led to many new settlers arriving in the district, both from other parts of Suriname and from the rest of the world.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
 </p>
-<h2><span class="mw-headline" id="Resorts">Resorts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brokopondo_District&amp;action=edit&amp;section=1" title="Edit section: Resorts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Brokopondo_resorts.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brokopondo_resorts.png/250px-Brokopondo_resorts.png" decoding="async" width="250" height="193" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brokopondo_resorts.png/375px-Brokopondo_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Brokopondo_resorts.png/500px-Brokopondo_resorts.png 2x" data-file-width="1056" data-file-height="816" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Brokopondo_resorts.png" class="internal" title="Enlarge"></a></div>Resorts of Brokopondo</div></div></div>
-<p>Brokopondo is divided into 6 resorts (<i>ressorten</i>):
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #CEDEFF;">River Holme</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:River_Holme_(left)_joining_River_Colne_at_Huddersfield,_West_Yorkshire,_UK_(RLH).JPG" class="image"><img alt="River Holme (left) joining River Colne at Huddersfield, West Yorkshire, UK (RLH).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/250px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/375px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/500px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG 2x" data-file-width="2592" data-file-height="1944" /></a><div>River Holme (left) joining the River Colne at Huddersfield</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Location</th></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Country</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Physical characteristics</th></tr><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row">Source</th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;location</span></th><td>Holmbridge</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;coordinates</span></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_13_15_N_1_49_27_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°13′15″N</span> <span class="longitude">1°49′27″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.22083°N 1.82417°W</span><span style="display:none">&#xfeff; / <span class="geo">53.22083; -1.82417</span></span></span></a></span></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;elevation</span></th><td>188 metres (617&#160;ft)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row"><a href="/wiki/River_mouth" title="River mouth">Mouth</a></th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;location</div></th><td>River Colne at Huddersfield</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;coordinates</div></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_38_21_N_1_47_4_W_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′21″N</span> <span class="longitude">1°47′4″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.63917°N 1.78444°W</span><span style="display:none">&#xfeff; / <span class="geo">53.63917; -1.78444</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_38_21_N_1_47_4_W_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′21″N</span> <span class="longitude">1°47′4″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.63917°N 1.78444°W</span><span style="display:none">&#xfeff; / <span class="geo">53.63917; -1.78444</span></span></span></a></span></span></span></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;elevation</div></th><td>72 metres (236&#160;ft)</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Length</th><td>13.86 kilometres (8.61&#160;mi)</td></tr><tr><th scope="row">Basin size</th><td>97.4 square kilometres (37.6&#160;sq&#160;mi)</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Basin features</th></tr><tr><th scope="row">Progression</th><td><a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">Colne</a>–<a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">Calder</a>–<a href="/wiki/River_Aire" title="River Aire">Aire</a>–<a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a>–<a href="/wiki/Humber" title="Humber">Humber</a>–<a href="/wiki/North_Sea" title="North Sea">North Sea</a></td></tr></tbody></table>
+<p>The <b>River Holme</b> is a <a href="/wiki/River" title="River">river</a> in the <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> and is a tributary of the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a>.  It starts from Digley reservoir and is then fed firstly by the run-off stream from Brownhill Reservoir, then by Dobbs Dike. Most of the banks of the upper part of the river are urbanised and are part of the Holme Valley <a href="/wiki/Civil_parishes_in_West_Yorkshire" title="Civil parishes in West Yorkshire">civil parish</a>.
 </p>
-<ul><li><a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a></li>
-<li><a href="/wiki/Centrum,_Brokopondo" title="Centrum, Brokopondo">Centrum</a></li>
-<li><a href="/wiki/Klaaskreek" title="Klaaskreek">Klaaskreek</a></li>
-<li><a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a></li>
-<li><a href="/wiki/Marshallkreek" title="Marshallkreek">Marshallkreek</a></li>
-<li><a href="/wiki/Sarakreek" title="Sarakreek">Sarakreek</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#228B22;color:#FFFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Resorts_of_Suriname" title="Template:Resorts of Suriname"><abbr title="View this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Resorts_of_Suriname" title="Template talk:Resorts of Suriname"><abbr title="Discuss this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Resorts_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname"><span style="color:#FFFFFF">Districts</span></a>  and   <a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname"><span style="color:#FFFFFF">resorts of Suriname</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Brokopondo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a></li>
-<li><a href="/wiki/Centrum,_Brokopondo" title="Centrum, Brokopondo">Centrum</a></li>
-<li><a href="/wiki/Klaaskreek" title="Klaaskreek">Klaaskreek</a></li>
-<li><a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a></li>
-<li><a href="/wiki/Marshallkreek" title="Marshallkreek">Marshallkreek</a></li>
-<li><a href="/wiki/Sarakreek" title="Sarakreek">Sarakreek</a></li></ul>
-</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Suriname_resorts.png" class="image"><img alt="Suriname resorts.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/200px-Suriname_resorts.png" decoding="async" width="200" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/300px-Suriname_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/400px-Suriname_resorts.png 2x" data-file-width="1281" data-file-height="878" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commewijne_District" title="Commewijne District">Commewijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Alkmaar,_Suriname" title="Alkmaar, Suriname">Alkmaar</a></li>
-<li><a href="/wiki/Bakkie,_Suriname" title="Bakkie, Suriname">Bakkie</a></li>
-<li><a href="/wiki/Johan_%26_Margaretha" title="Johan &amp; Margaretha">Margaretha</a></li>
-<li><a href="/wiki/Meerzorg" title="Meerzorg">Meerzorg</a></li>
-<li><a href="/wiki/Nieuw_Amsterdam,_Suriname" title="Nieuw Amsterdam, Suriname">Nieuw Amsterdam</a></li>
-<li><a href="/wiki/Tamanredjo" title="Tamanredjo">Tamanredjo</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coronie_District" title="Coronie District">Coronie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Johanna_Maria" title="Johanna Maria">Johanna Maria</a></li>
-<li><a href="/wiki/Totness,_Suriname" title="Totness, Suriname">Totness</a></li>
-<li><a href="/wiki/Welgelegen,_Coronie_District" title="Welgelegen, Coronie District">Welgelegen</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Marowijne_District" title="Marowijne District">Marowijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a></li>
-<li><a href="/wiki/Galibi,_Suriname" title="Galibi, Suriname">Galibi</a></li>
-<li><a href="/wiki/Moengo" title="Moengo">Moengo</a></li>
-<li><a href="/wiki/Moengotapoe" title="Moengotapoe">Moengotapoe</a></li>
-<li><a href="/wiki/Patamacca" title="Patamacca">Patamacca</a></li>
-<li><a href="/wiki/Wanhatti" title="Wanhatti">Wanhatti</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Groot_Henar" title="Groot Henar">Groot Henar</a></li>
-<li><a href="/wiki/Nieuw_Nickerie" title="Nieuw Nickerie">Nieuw Nickerie</a></li>
-<li><a href="/wiki/Oostelijke_Polders" title="Oostelijke Polders">Oostelijke Polders</a></li>
-<li><a href="/wiki/Wageningen,_Suriname" title="Wageningen, Suriname">Wageningen</a></li>
-<li><a href="/wiki/Westelijke_Polders" title="Westelijke Polders">Westelijke Polders</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Para_District" title="Para District">Para District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bigi_Poika" title="Bigi Poika">Bigi Poika</a></li>
-<li><a href="/wiki/Carolina,_Suriname" title="Carolina, Suriname">Carolina</a></li>
-<li><a href="/wiki/Noord,_Suriname" title="Noord, Suriname">Noord</a></li>
-<li><a href="/wiki/Oost,_Suriname" title="Oost, Suriname">Oost</a></li>
-<li><a href="/wiki/Zuid,_Suriname" title="Zuid, Suriname">Zuid</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paramaribo_District" title="Paramaribo District">Paramaribo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Beekhuizen" title="Beekhuizen">Beekhuizen</a></li>
-<li><a href="/wiki/Blauwgrond" title="Blauwgrond">Blauwgrond</a></li>
-<li><a href="/wiki/Centrum,_Paramaribo" title="Centrum, Paramaribo">Centrum</a></li>
-<li><a href="/wiki/Flora,_Suriname" title="Flora, Suriname">Flora</a></li>
-<li><a href="/wiki/Latour,_Suriname" title="Latour, Suriname">Latour</a></li>
-<li><a href="/wiki/Livorno,_Suriname" title="Livorno, Suriname">Livorno</a></li>
-<li><a href="/wiki/Munder,_Suriname" title="Munder, Suriname">Munder</a></li>
-<li><a href="/wiki/Pontbuiten" title="Pontbuiten">Pontbuiten</a></li>
-<li><a href="/wiki/Rainville,_Suriname" title="Rainville, Suriname">Rainville</a></li>
-<li><a href="/wiki/Tammenga" title="Tammenga">Tammenga</a></li>
-<li><a href="/wiki/Weg_naar_See" class="mw-redirect" title="Weg naar See">Weg naar See</a></li>
-<li><a href="/wiki/Welgelegen,_Paramaribo_District" title="Welgelegen, Paramaribo District">Welgelegen</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Calcutta,_Suriname" title="Calcutta, Suriname">Calcutta</a></li>
-<li><a href="/wiki/Groningen,_Suriname" title="Groningen, Suriname">Groningen</a></li>
-<li><a href="/wiki/Jarikaba" title="Jarikaba">Jarikaba</a></li>
-<li><a href="/wiki/Kampong_Baroe" title="Kampong Baroe">Kampong Baroe</a></li>
-<li><a href="/wiki/Tijgerkreek" title="Tijgerkreek">Tijgerkreek</a></li>
-<li><a href="/wiki/Wayamboweg" title="Wayamboweg">Wayamboweg</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Boven_Coppename" title="Boven Coppename">Boven Coppename</a></li>
-<li><a href="/wiki/Boven_Saramacca" title="Boven Saramacca">Boven Saramacca</a></li>
-<li><a href="/wiki/Boven_Suriname" title="Boven Suriname">Boven Suriname</a></li>
-<li><a href="/wiki/Coeroeni" title="Coeroeni">Coeroeni</a></li>
-<li><a href="/wiki/Kabalebo" title="Kabalebo">Kabalebo</a></li>
-<li><a href="/wiki/Tapanahony" title="Tapanahony">Tapanahony</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/De_Nieuwe_Grond" title="De Nieuwe Grond">De Nieuwe Grond</a></li>
-<li><a href="/wiki/Domburg,_Suriname" title="Domburg, Suriname">Domburg</a></li>
-<li><a href="/wiki/Houttuin" title="Houttuin">Houttuin</a></li>
-<li><a href="/wiki/Koewarasan" title="Koewarasan">Koewarasan</a></li>
-<li><a href="/wiki/Kwatta" title="Kwatta">Kwatta</a></li>
-<li><a href="/wiki/Lelydorp" title="Lelydorp">Lelydorp</a></li>
-<li><a href="/wiki/Saramacca_Polder" title="Saramacca Polder">Saramacca Polder</a></li></ul>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Course"><span class="tocnumber">1</span> <span class="toctext">Course</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Flooding"><span class="tocnumber">1.1</span> <span class="toctext">Flooding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lists"><span class="tocnumber">3</span> <span class="toctext">Lists</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Tributaries"><span class="tocnumber">3.1</span> <span class="toctext">Tributaries</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Settlements"><span class="tocnumber">3.2</span> <span class="toctext">Settlements</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Road_crossings"><span class="tocnumber">3.3</span> <span class="toctext">Road crossings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Course">Course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=1" title="Edit section: Course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From Digley reservoir, the river flows north east through <a href="/wiki/Holmbridge" title="Holmbridge">Holmbridge</a> and <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>. It flows north-north-east to <a href="/wiki/Thongsbridge" title="Thongsbridge">Thongsbridge</a> and <a href="/wiki/Brockholes" title="Brockholes">Brockholes</a> before turning north and reaching <a href="/wiki/Honley" title="Honley">Honley</a>, <a href="/wiki/Berry_Brow" title="Berry Brow">Berry Brow</a> and <a href="/wiki/Lockwood,_West_Yorkshire" class="mw-redirect" title="Lockwood, West Yorkshire">Lockwood</a>. It then proceeds northwards and joins the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> just south of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> town centre at Folly Hall.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The <a href="/wiki/Environment_Agency" title="Environment Agency">Environment Agency</a> have a gauging station at Queen's Mill in Huddersfield where the recorded average low river level is 0.25 metres (0.82&#160;ft) and the high river level is 1.2 metres (3.9&#160;ft). The record highest level recorded was 2.5 metres (8.2&#160;ft).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Flooding">Flooding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=2" title="Edit section: Flooding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Holmfirth_floods" title="Holmfirth floods">Holmfirth floods</a></div>
+<p>The river was prone to flooding with the earliest recorded in 1738. In 1840 Bilberry Reservoir was built over an existing stream, but the work had not been carried out properly and the stream not correctly redirected. The result was that, in February 1852, the reservoir broke its confines and flooded the Holme Valley as far as Holmfirth. It resulted in 81 fatalities and the destruction of many homes and businesses.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=3" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The start of the river valley is surrounded by the high hills of <a href="/wiki/Holme_Moss" title="Holme Moss">Holme Moss</a>, Harden Moss and Cartworth Moor. The underlying bedrock was laid down in the <a href="/wiki/Carboniferous" title="Carboniferous">Upper Carboniferous</a> period and consists primarily of <a href="/wiki/Millstone_Grit" title="Millstone Grit">Millstone Grit</a> with some <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> interspersed with thin <a href="/wiki/Coal" title="Coal">coal</a> seams.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Lists">Lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=4" title="Edit section: Lists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Tributaries">Tributaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=5" title="Edit section: Tributaries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Dobb Dike</li>
+<li>Black Sike Dike</li>
+<li><a href="/wiki/River_Ribble,_West_Yorkshire" title="River Ribble, West Yorkshire">River Ribble</a></li>
+<li>Hebble Dike/Mark Bottoms Dike</li>
+<li>New Mills Dike</li>
+<li>Mag Brook</li>
+<li>Dean Clough</li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Settlements">Settlements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=6" title="Edit section: Settlements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Holmbridge" title="Holmbridge">Holmbridge</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Wooldale" title="Wooldale">Wooldale</a></li>
+<li><a href="/wiki/Netherthong" title="Netherthong">Netherthong</a></li>
+<li><a href="/wiki/Thongsbridge" title="Thongsbridge">Thongsbridge</a></li>
+<li><a href="/wiki/Brockholes" title="Brockholes">Brockholes</a></li>
+<li><a href="/wiki/Honley" title="Honley">Honley</a></li>
+<li><a href="/wiki/Netherton,_Kirklees" title="Netherton, Kirklees">Netherton</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Road_crossings">Road crossings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=7" title="Edit section: Road crossings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/A6024_road" class="mw-redirect" title="A6024 road">A6024 Woodhead Road</a>, Holmbridge</li>
+<li>Dobb Lane, Holmbridge</li>
+<li>Hollowgate, Holmfirth</li>
+<li><a href="/wiki/A635_road" title="A635 road">A635</a>, Victoria Road, Holmfirth</li>
+<li>Bridge Lane, Holmfirth</li>
+<li>Miry Lane, Thongsbridge</li>
+<li>Smithy Place Lane, Brockholes</li>
+<li>A6024, Honley</li>
+<li>Northgate, Honley</li>
+<li>Magdale road, Honley</li>
+<li>B6110, Armitage Road, <a href="/wiki/Armitage_Bridge" title="Armitage Bridge">Armitage Bridge</a>, Huddersfield</li>
+<li><a href="/wiki/A616_road" title="A616 road">A616</a>, Bridge Street, Huddesfield</li>
+<li>Queens Mill Road, Huddersfield</li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:River_Holme,_Thongsbridge_-_geograph.org.uk_-_102745.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/120px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/180px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/240px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme, Thongsbridge
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme,_Thongsbridge_-_geograph.org.uk_-_102743.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/90px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/135px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/180px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg 2x" data-file-width="480" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme, Thongsbridge
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/117px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg" decoding="async" width="117" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/175px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/233px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg 2x" data-file-width="622" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme - Towngate
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/90px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/135px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/180px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg 2x" data-file-width="480" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme at Holmfirth
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/120px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/180px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/240px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme in Lockwood Huddersfield
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/80px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/120px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/160px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg 2x" data-file-width="427" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>The River Holme in Holmfirth
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Old_bridge_over_the_River_Holme,_off_Woodhead_Road,_Holmfirth_-_geograph.org.uk_-_1112640.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/120px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/180px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/240px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>Old bridge over the River Holme, off Woodhead Road, Holmfirth
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Holmfirth_Floods" class="mw-redirect" title="Holmfirth Floods">Holmfirth Floods</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/holmfirthflood/holmfirth1852.htm">Huddersfield One</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/120699.aspx?stationId=8165">"River Levels"</a>. <i>Environment Agency River and Sea Levels</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Environment+Agency+River+and+Sea+Levels&amp;rft.atitle=River+Levels&amp;rft_id=http%3A%2F%2Fwww.environment-agency.gov.uk%2Fhomeandleisure%2Ffloods%2Friverlevels%2F120699.aspx%3FstationId%3D8165&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.holmfirth.org/holmfirth-floods/">"Floods"</a>. <i>Holmfirth Floods</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Holmfirth+Floods&amp;rft.atitle=Floods&amp;rft_id=http%3A%2F%2Fwww.holmfirth.org%2Fholmfirth-floods%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/holmfirthflood/holmfirth1852.htm">Huddersfield One</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030903151850/http://www.huddersfield1.co.uk/huddersfield/tolson/water_supplies/geology.htm">"River Valley Geology"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/tolson/water_supplies/geology.htm">the original</a> on 3 September 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=River+Valley+Geology&amp;rft_id=http%3A%2F%2Fwww.huddersfield1.co.uk%2Fhuddersfield%2Ftolson%2Fwater_supplies%2Fgeology.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Rivers_of_Yorkshire" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Rivers_of_Yorkshire" title="Template:Rivers of Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Rivers_of_Yorkshire" title="Template talk:Rivers of Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Rivers_of_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Rivers_of_Yorkshire" style="font-size:114%;margin:0 4em">Rivers of Yorkshire</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">North Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arkle_Beck" title="Arkle Beck">Arkle Beck</a></li>
+<li><a href="/wiki/River_Bain,_North_Yorkshire" title="River Bain, North Yorkshire">Bain</a></li>
+<li><a href="/wiki/Bedale_Beck" title="Bedale Beck">Bedale Beck</a></li>
+<li><a href="/wiki/River_Burn,_North_Yorkshire" title="River Burn, North Yorkshire">Burn</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/Cod_Beck,_North_Yorkshire" title="Cod Beck, North Yorkshire">Cod Beck</a></li>
+<li><a href="/wiki/Costa_Beck" title="Costa Beck">Costa Beck</a></li>
+<li><a href="/wiki/River_Cover" title="River Cover">Cover</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/River_Dibb" title="River Dibb">Dibb</a></li>
+<li><a href="/wiki/River_Doe" title="River Doe">Doe</a></li>
+<li><a href="/wiki/River_Dove,_North_Yorkshire" title="River Dove, North Yorkshire">Dove</a></li>
+<li><a href="/wiki/Eller_Beck" title="Eller Beck">Eller Beck</a></li>
+<li><a href="/wiki/River_Esk,_North_Yorkshire" title="River Esk, North Yorkshire">Esk</a></li>
+<li><a href="/wiki/River_Foss" title="River Foss">Foss</a></li>
+<li><a href="/wiki/River_Greta_(Lune)" title="River Greta (Lune)">Greta (Lune)</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Kyle" title="River Kyle">Kyle</a></li>
+<li><a href="/wiki/River_Leven,_North_Yorkshire" title="River Leven, North Yorkshire">Leven</a></li>
+<li><a href="/wiki/Malham_Beck" title="Malham Beck">Malham Beck</a></li>
+<li><a href="/wiki/River_Nidd" title="River Nidd">Nidd</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Pickering_Beck" title="Pickering Beck">Pickering Beck</a></li>
+<li><a href="/wiki/River_Ribble" title="River Ribble">Ribble</a></li>
+<li><a href="/wiki/River_Riccal" title="River Riccal">Riccall</a></li>
+<li><a href="/wiki/Risedale_Beck" title="Risedale Beck">Risedale Beck</a></li>
+<li><a href="/wiki/River_Rye,_Yorkshire" title="River Rye, Yorkshire">Rye</a></li>
+<li><a href="/wiki/Sea_Cut_(Scalby_Beck)" title="Sea Cut (Scalby Beck)">Sea Cut</a></li>
+<li><a href="/wiki/River_Seph" title="River Seph">Seph</a></li>
+<li><a href="/wiki/River_Seven" title="River Seven">Seven</a></li>
+<li><a href="/wiki/River_Skell" title="River Skell">Skell</a></li>
+<li><a href="/wiki/River_Skirfare" title="River Skirfare">Skirfare</a></li>
+<li><a href="/wiki/River_Swale" title="River Swale">Swale</a></li>
+<li><a href="/wiki/River_Tees" title="River Tees">Tees</a></li>
+<li><a href="/wiki/River_Tutt" title="River Tutt">Tutt</a></li>
+<li><a href="/wiki/River_Twiss" title="River Twiss">Twiss</a></li>
+<li><a href="/wiki/River_Ure" title="River Ure">Ure</a></li>
+<li><a href="/wiki/River_Washburn" title="River Washburn">Washburn</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Wiske" title="River Wiske">Wiske</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Bradford_Beck" title="Bradford Beck">Bradford Beck</a></li>
+<li><a href="/wiki/Black_Brook,_West_Yorkshire" title="Black Brook, West Yorkshire">Black Brook</a></li>
+<li><a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">Calder</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">Colne</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/Harden_Beck" title="Harden Beck">Harden Beck</a></li>
+<li><a href="/wiki/Hebble_Brook" title="Hebble Brook">Hebble Brook</a></li>
+<li><a class="mw-selflink selflink">Holme</a></li>
+<li><a href="/wiki/Holme_Beck" title="Holme Beck">Holme Beck</a></li>
+<li><a href="/wiki/River_Laneshaw" title="River Laneshaw">Laneshaw</a></li>
+<li><a href="/wiki/Meanwood_Beck" title="Meanwood Beck">Meanwood Beck</a></li>
+<li><a href="/wiki/Pudsey_Beck" title="Pudsey Beck">Pudsey Beck</a></li>
+<li><a href="/wiki/River_Ribble,_West_Yorkshire" title="River Ribble, West Yorkshire">Ribble</a></li>
+<li><a href="/wiki/River_Ryburn" title="River Ryburn">Ryburn</a></li>
+<li><a href="/wiki/River_Spen" title="River Spen">Spen</a></li>
+<li><a href="/wiki/Tyersal_Beck" title="Tyersal Beck">Tyersal Beck</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Worth" title="River Worth">Worth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East Riding of Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aike_Beck" title="Aike Beck">Aike Beck</a></li>
+<li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arram_Beck" title="Arram Beck">Arram Beck</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/Driffield_Beck" class="mw-redirect" title="Driffield Beck">Driffield Beck</a></li>
+<li><a href="/wiki/River_Foulness" title="River Foulness">Foulness</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Hull" title="River Hull">Hull</a></li>
+<li><a href="/wiki/Humber" title="Humber">Humber</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Trent_Falls" title="Trent Falls">Trent Falls</a></li>
+<li><a href="/wiki/West_Beck" title="West Beck">West Beck</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blackburn_Brook" title="Blackburn Brook">Blackburn Brook</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/River_Don,_Yorkshire" title="River Don, Yorkshire">Don</a></li>
+<li><a href="/wiki/River_Dove,_Barnsley" title="River Dove, Barnsley">Dove</a></li>
+<li><a href="/wiki/Limb_Brook" title="Limb Brook">Limb Brook</a></li>
+<li><a href="/wiki/Little_Don_River" title="Little Don River">Little Don</a></li>
+<li><a href="/wiki/River_Loxley" title="River Loxley">Loxley</a></li>
+<li><a href="/wiki/Meers_Brook" title="Meers Brook">Meers Brook</a></li>
+<li><a href="/wiki/Old_Hay_Brook" title="Old Hay Brook">Old Hay Brook</a></li>
+<li><a href="/wiki/Porter_Brook" title="Porter Brook">Porter Brook</a></li>
+<li><a href="/wiki/River_Rivelin" title="River Rivelin">Rivelin</a></li>
+<li><a href="/wiki/River_Rother,_South_Yorkshire" title="River Rother, South Yorkshire">Rother</a></li>
+<li><a href="/wiki/River_Ryton" title="River Ryton">Ryton</a></li>
+<li><a href="/wiki/River_Sheaf" title="River Sheaf">Sheaf</a></li>
+<li><a href="/wiki/Shire_Brook" title="Shire Brook">Shire Brook</a></li>
+<li><a href="/wiki/River_Torne" title="River Torne">Torne</a></li>
+<li><a href="/wiki/Totley_Brook" title="Totley Brook">Totley Brook</a></li>
+<li><a href="/wiki/River_Went" title="River Went">Went</a></li>
+<li><a href="/wiki/Wyming_Brook" title="Wyming Brook">Wyming Brook</a></li></ul>
 </div></td></tr></tbody></table></div>
-<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brokopondo_District&amp;params=4_46_21_N_55_07_46_W_region:SR-BR_type:adm1st"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">4°46′21″N</span> <span class="longitude">55°07′46″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">4.77250°N 55.12944°W</span><span style="display:none">&#xfeff; / <span class="geo">4.77250; -55.12944</span></span></span></a></span></span></span>
-</p><p><br />
-</p>
-<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Flag-map_of_Suriname.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag-map_of_Suriname.svg/30px-Flag-map_of_Suriname.svg.png" decoding="async" width="30" height="31" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag-map_of_Suriname.svg/45px-Flag-map_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag-map_of_Suriname.svg/60px-Flag-map_of_Suriname.svg.png 2x" data-file-width="784" data-file-height="800" /></a></td><td><i>This <a href="/wiki/Suriname" title="Suriname">Suriname</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Brokopondo_District&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Suriname-geo-stub" title="Template:Suriname-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Suriname-geo-stub" title="Template talk:Suriname-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Suriname-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1327
-Cached time: 20190914021126
+Parsed by mw1256
+Cached time: 20190925144851
 Cache expiry: 2592000
 Dynamic content: false
-Complications: []
-CPU time usage: 0.284 seconds
-Real time usage: 0.422 seconds
-Preprocessor visited node count: 3429/1000000
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.304 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 1890/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 37698/2097152 bytes
-Template argument size: 3045/2097152 bytes
-Highest expansion depth: 25/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 0/20
-Unstrip post‐expand size: 0/5000000 bytes
+Post‐expand include size: 48144/2097152 bytes
+Template argument size: 10805/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16626/5000000 bytes
 Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.103/10.000 seconds
-Lua memory usage: 3.32 MB/50 MB
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 5.19 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  368.143      1 -total
- 82.63%  304.210      1 Template:Infobox_settlement
- 50.84%  187.169      1 Template:Infobox
- 16.03%   59.028      2 Template:Main_other
- 10.68%   39.328      2 Template:Coord
-  8.33%   30.680      1 Template:Infobox_settlement/areadisp
-  8.10%   29.820      1 Template:Pagetype
-  7.29%   26.848      2 Template:Infobox_settlement/metric
-  6.99%   25.745      1 Template:Resorts_of_Suriname
-  6.93%   25.496      9 Template:If_empty
+100.00%  363.169      1 -total
+ 46.27%  168.049      1 Template:Infobox_river
+ 45.62%  165.660      2 Template:Infobox
+ 26.30%   95.520      1 Template:Reflist
+ 23.64%   85.866      3 Template:Cite_web
+  9.95%   36.126      7 Template:Convert
+  7.84%   28.471      2 Template:Coord
+  7.32%   26.597      1 Template:Use_British_English
+  4.40%   15.967      6 Template:Infobox_river/source
+  4.16%   15.109      2 Template:DMCA
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:683318-0!canonical and timestamp 20190914021125 and revision id 864451609
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3118085-0!canonical and timestamp 20190925144851 and revision id 917796422
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brokopondo_District&amp;oldid=864451609">https://en.wikipedia.org/w/index.php?title=Brokopondo_District&amp;oldid=864451609</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=River_Holme&amp;oldid=917796422">https://en.wikipedia.org/w/index.php?title=River_Holme&amp;oldid=917796422</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Districts_of_Suriname" title="Category:Districts of Suriname">Districts of Suriname</a></li><li><a href="/wiki/Category:Brokopondo_District" title="Category:Brokopondo District">Brokopondo District</a></li><li><a href="/wiki/Category:Suriname_geography_stubs" title="Category:Suriname geography stubs">Suriname geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rivers_of_Kirklees" title="Category:Rivers of Kirklees">Rivers of Kirklees</a></li><li><a href="/wiki/Category:Rivers_of_Huddersfield" title="Category:Rivers of Huddersfield">Rivers of Huddersfield</a></li><li><a href="/wiki/Category:Rivers_and_valleys_of_the_Peak_District" title="Category:Rivers and valleys of the Peak District">Rivers and valleys of the Peak District</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:Rivers_of_West_Yorkshire" title="Category:Rivers of West Yorkshire">Rivers of West Yorkshire</a></li><li><a href="/wiki/Category:Aire_catchment" title="Category:Aire catchment">Aire catchment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_October_2017" title="Category:Use British English from October 2017">Use British English from October 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2017" title="Category:Use dmy dates from October 2017">Use dmy dates from October 2017</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -202,13 +361,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brokopondo+District" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brokopondo+District" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=River+Holme" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=River+Holme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brokopondo_District" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Brokopondo_District" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/River_Holme" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:River_Holme" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -223,7 +382,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Brokopondo_District">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Brokopondo_District&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brokopondo_District&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/River_Holme">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=River_Holme&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=River_Holme&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -262,35 +421,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brokopondo_District" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brokopondo_District" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brokopondo_District&amp;oldid=864451609" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brokopondo_District&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q847680" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brokopondo_District&amp;id=864451609" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Brokopondo_District" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/River_Holme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/River_Holme" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=River_Holme&amp;oldid=917796422" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=River_Holme&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7337506" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=River_Holme&amp;id=917796422" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brokopondo+District">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brokopondo+District&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brokopondo_District&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=River+Holme">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=River+Holme&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=River_Holme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B6%D8%A7%D8%AD%D9%8A%D8%A9_%D8%A8%D8%B1%D9%88%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%AF%D9%88" title="ضاحية بروكوبوندو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Brokopondo_Ko%C4%81n" title="Brokopondo Koān – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Distrikt_Brokopondo" title="Distrikt Brokopondo – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Brokopondo" title="Brokopondo – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Brokopondo_(Distrikt)" title="Brokopondo (Distrikt) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Distrito_de_Brokopondo" title="Distrito de Brokopondo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Brokopondo_(distrikto)" title="Brokopondo (distrikto) – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Brokopondo" title="Brokopondo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D8%AD%DB%8C%D9%87_%D8%A8%D8%B1%D9%88%DA%A9%D9%88%D9%BE%D9%88%D9%86%D8%AF%D9%88" title="ناحیه بروکوپوندو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Brokopondo_(district)" title="Brokopondo (district) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A1%9C%EC%BD%94%ED%8F%B0%EB%8F%84_%EA%B5%AC" title="브로코폰도 구 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%95%E0%A5%8B%E0%A4%AA%E0%A5%8B%E0%A4%82%E0%A4%A1%E0%A5%8B_%E0%A4%9C%E0%A4%BF%E0%A4%B2%E0%A4%BE" title="ब्रोकोपोंडो जिला – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Brokopondo_(okrug)" title="Brokopondo (okrug) – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Distrik_Brokopondo" title="Distrik Brokopondo – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Distretto_di_Brokopondo" title="Distretto di Brokopondo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Brokopondo_apygarda" title="Brokopondo apygarda – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a href="https://li.wikipedia.org/wiki/Brokopondo_(distrik)" title="Brokopondo (distrik) – Limburgish" lang="li" hreflang="li" class="interlanguage-link-target">Limburgs</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Daerah_Brokopondo" title="Daerah Brokopondo – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Brokopondo_(district)" title="Brokopondo (district) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Brokopondo_(Distrikt)" title="Brokopondo (Distrikt) – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Brokopondo_(distrikt)" title="Brokopondo (distrikt) – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Brokopondo_(dystrykt)" title="Brokopondo (dystrykt) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Brokopondo" title="Brokopondo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Brokopondo_(district)" title="Brokopondo (district) – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%BE%D0%BD%D0%B4%D0%BE" title="Брокопондо – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Pasuni_fu_Brokopondo" title="Pasuni fu Brokopondo – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Brokopondo" title="Brokopondo – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Brokopondo_(distrikt)" title="Brokopondo (distrikt) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BA%D0%BE%D0%BF%D0%BE%D0%BD%D0%B4%D0%BE" title="Брокопондо – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%DA%A9%D9%88%D9%BE%D9%88%D9%86%D8%AF%D9%88_%D8%B6%D9%84%D8%B9" title="بروکوپوندو ضلع – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B8%83%E7%BD%97%E7%A7%91%E8%93%AC%E5%A4%9A%E5%8C%BA" title="布罗科蓬多区 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q847680#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/R%C3%ADo_Holme" title="Río Holme – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7337506#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 17 October 2018, at 08:51<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 14:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -301,7 +453,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brokopondo_District&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=River_Holme&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -313,8 +465,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.284","walltime":"0.422","ppvisitednodes":{"value":3429,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37698,"limit":2097152},"templateargumentsize":{"value":3045,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  368.143      1 -total"," 82.63%  304.210      1 Template:Infobox_settlement"," 50.84%  187.169      1 Template:Infobox"," 16.03%   59.028      2 Template:Main_other"," 10.68%   39.328      2 Template:Coord","  8.33%   30.680      1 Template:Infobox_settlement/areadisp","  8.10%   29.820      1 Template:Pagetype","  7.29%   26.848      2 Template:Infobox_settlement/metric","  6.99%   25.745      1 Template:Resorts_of_Suriname","  6.93%   25.496      9 Template:If_empty"]},"scribunto":{"limitreport-timeusage":{"value":"0.103","limit":"10.000"},"limitreport-memusage":{"value":3481143,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20190914021126","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brokopondo District","url":"https:\/\/en.wikipedia.org\/wiki\/Brokopondo_District","sameAs":"http:\/\/www.wikidata.org\/entity\/Q847680","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q847680","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-27T21:27:19Z","dateModified":"2018-10-17T08:51:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/3f\/Brokopondo_reservoir.jpg","headline":"district of Suriname"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1244"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.419","ppvisitednodes":{"value":1890,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48144,"limit":2097152},"templateargumentsize":{"value":10805,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16626,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  363.169      1 -total"," 46.27%  168.049      1 Template:Infobox_river"," 45.62%  165.660      2 Template:Infobox"," 26.30%   95.520      1 Template:Reflist"," 23.64%   85.866      3 Template:Cite_web","  9.95%   36.126      7 Template:Convert","  7.84%   28.471      2 Template:Coord","  7.32%   26.597      1 Template:Use_British_English","  4.40%   15.967      6 Template:Infobox_river/source","  4.16%   15.109      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.144","limit":"10.000"},"limitreport-memusage":{"value":5444266,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190925144851","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"River Holme","url":"https:\/\/en.wikipedia.org\/wiki\/River_Holme","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7337506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7337506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-09T17:02:34Z","dateModified":"2019-09-25T14:48:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG","headline":"river in Yorkshire, United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1256"});});</script>
 </body>
 </html>

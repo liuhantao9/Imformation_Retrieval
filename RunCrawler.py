@@ -2,6 +2,7 @@ import urllib
 import sys
 from MyHTMLParser import MyHTMLParser
 import urllib.request as req
+import time
 
 
 class Crawler:
@@ -86,6 +87,7 @@ class Crawler:
         if depth > self.maxdepth:
             return
 
+        nextLevelFrontier = list()
         for url in frontier:
             # only parse when the number of crawled pages are not exceeding maximum
             if len(self.crawledlist) < self.numPages and url not in self.crawledlist:
@@ -94,6 +96,7 @@ class Crawler:
                     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36"
                 })
                 try:
+                    time.sleep(1)
                     # send the request to the url and get the response
                     data = req.urlopen(request).read().decode("utf-8")
                     parser = MyHTMLParser()
@@ -101,9 +104,10 @@ class Crawler:
                     # Handling Nonetype
                     if self.record(url, depth):
                         self.create_web_file(data, len(self.crawledlist))
+                        print(url)
                         print("Finished:", len(self.crawledlist),"files")
                         print("current depth: ", depth)
-                        self.crawl(depth + 1, parser.urls)
+                        nextLevelFrontier += parser.urls
                 # try to catch errors when encounter
                 except urllib.error.HTTPError as err:
                     # handling page not found error
@@ -111,6 +115,7 @@ class Crawler:
                         continue
                     else:
                         raise
+        self.crawl(depth + 1, nextLevelFrontier)
 
 
 def main(argv):

@@ -2,36 +2,37 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Biodiversity in Suriname - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Biodiversity_in_Suriname","wgTitle":"Biodiversity in Suriname","wgCurRevisionId":903819330,"wgRevisionId":903819330,"wgArticleId":46489338,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","Environment of Suriname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Biodiversity_in_Suriname","wgRelevantArticleId":46489338,"wgRequestId":"XYvsfApAME0AAHOWiBoAAACB",
-"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q25052135","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
-"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
-"ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Oakes, Huddersfield - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Oakes,_Huddersfield","wgTitle":"Oakes, Huddersfield","wgCurRevisionId":854209363,"wgRevisionId":854209363,"wgArticleId":9960994,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2018","All articles needing additional references","Use dmy dates from April 2018","Use British English from April 2018","Coordinates on Wikidata","All stub articles","Geography of Huddersfield","West Yorkshire geography stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Oakes,_Huddersfield","wgRelevantArticleId":9960994,"wgRequestId":"XYpBugpAICsAAFGJemcAAADX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.653,"lon":-1.83},"wgWikibaseItemId":"Q7073840","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":
+"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rode_ibis_%284029289135%29_%283%29.jpg/1200px-Rode_ibis_%284029289135%29_%283%29.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Biodiversity_in_Suriname"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/09/New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Oakes,_Huddersfield"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Oakes,_Huddersfield&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Oakes,_Huddersfield&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Biodiversity_in_Suriname"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Oakes,_Huddersfield"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Biodiversity_in_Suriname rootpage-Biodiversity_in_Suriname skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Oakes_Huddersfield rootpage-Oakes_Huddersfield skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +41,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Biodiversity in Suriname</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Oakes, Huddersfield</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,250 +52,70 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Rode_ibis_(4029289135)_(3).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rode_ibis_%284029289135%29_%283%29.jpg/220px-Rode_ibis_%284029289135%29_%283%29.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rode_ibis_%284029289135%29_%283%29.jpg/330px-Rode_ibis_%284029289135%29_%283%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rode_ibis_%284029289135%29_%283%29.jpg/440px-Rode_ibis_%284029289135%29_%283%29.jpg 2x" data-file-width="4000" data-file-height="3000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Rode_ibis_(4029289135)_(3).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Scarlet_ibis" title="Scarlet ibis">Scarlet ibis</a></div></div></div>
-<p><b><a href="/wiki/Biodiversity" title="Biodiversity">Biodiversity</a> in Suriname</b> is high,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> mostly because of the variety of habitats and the temperature. The average annual temperature in the coastal area is between 26° and 28° Celsius. Suriname can be divided into four major ecological zones, namely from north to south;
-</p>
-<ol><li>The young coastal plain</li>
-<li>The old coastal plain</li>
-<li>The Savannah or Zanderij belt</li>
-<li>The interior residual uplands.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ol>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Habitats_and_species"><span class="tocnumber">1</span> <span class="toctext">Habitats and species</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Number_of_groups_of_plants_and_animals_in_Suriname"><span class="tocnumber">2</span> <span class="toctext">Number of groups of plants and animals in Suriname</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Nature_Protection_Act_1954_and_the_Game_Act_1954"><span class="tocnumber">3</span> <span class="toctext">Nature Protection Act 1954 and the Game Act 1954</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Protected_areas"><span class="tocnumber">4</span> <span class="toctext">Protected areas</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Protected_Areas_in_hectares_in_2010"><span class="tocnumber">5</span> <span class="toctext">Protected Areas in hectares in 2010</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#International_conventions"><span class="tocnumber">6</span> <span class="toctext">International conventions</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Oakes,_Huddersfield&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Oakes%2C+Huddersfield%22">"Oakes, Huddersfield"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Oakes%2C+Huddersfield%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Oakes%2C+Huddersfield%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Oakes%2C+Huddersfield%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Oakes%2C+Huddersfield%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Oakes%2C+Huddersfield%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
 
-<h2><span class="mw-headline" id="Habitats_and_species">Habitats and species</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=1" title="Edit section: Habitats and species">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The coast of <a href="/wiki/Suriname" title="Suriname">Suriname</a> is wild and consists of mud banks, sand beaches, mangrove forests and lagoons.  The Guiana current flows along the coast of Suriname. The <a href="/wiki/North_Brazil_Current" title="North Brazil Current">North Brazil Current</a>, a warm water ocean current, is renamed as the Guiana current. The confusion surrounding its name is due partly to the seasonal change in flow of nearby currents.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The <a href="/wiki/Mangrove" title="Mangrove">mangrove</a> forests have only one story with a height of 20–25 meters. They are almost completely homogenous and dominated by black mangrove (<i>Avicenna germinans</i>). The mangrove forests are important as staging and wintering areas for birds, such as the <a href="/wiki/Scarlet_ibis" title="Scarlet ibis">scarlet ibis</a> (<i>Eudocimus ruber</i>). However, poaching is a major problem in the coastal area. According to Ottema,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> a 2006 study reveals that tens of thousands of protected shorebirds and waders are poached annually. The Nature Conservation Division of the Forestry ministry attempts to prevent poaching by employing more forest guards as well as through environmental education. Furthermore,  Ottema opined that the Large-billed seed finch or Twatwa is almost extirpated.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
-</p><p>Inland from the mangroves lie salt water and brackish <a href="/wiki/Lagoons" class="mw-redirect" title="Lagoons">lagoons</a>, surrounded by grass and fern vegetation with low plant species diversity. The <a href="/wiki/Orange-winged_amazon" title="Orange-winged amazon">orange-winged amazon</a> (parrot), creates it nest in the lagoons.  Further inland, species rich freshwater and shrub <a href="/wiki/Swamps" class="mw-redirect" title="Swamps">swamps</a> can be found. On the coastal plan, parallel to the shoreline, lie old sand and shell ridges.  The savannabelt,  a mosaic of diverse landscapes and ecosystems, is located south of the coastal plan. Different plants and animals,  such as the love-vine (lenkiwisi) ( <i><a href="/wiki/Cassytha_filiformis" title="Cassytha filiformis">Cassytha filiformis</a></i>), sundews (<i><a href="/wiki/Drosera" title="Drosera">Drosera</a></i> sp.), sabana-fungu (<i>Licaniai acana</i>), <a href="/wiki/Tortoises" class="mw-redirect" title="Tortoises">tortoises</a> (<i>Chelonodis</i> sp.), <a href="/wiki/Snakes" class="mw-redirect" title="Snakes">snakes</a>, <a href="/wiki/Iguanas" class="mw-redirect" title="Iguanas">iguanas</a> , <a href="/wiki/Deer" title="Deer">deer</a>  and the long-nosed or naked- tailed armadillo  (<i><a href="/wiki/Dasypus" title="Dasypus">Dasypus</a></i> sp.)  grow and live in the savannabelt of Suriname.
+</p><p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Oakes,_Huddersfield&amp;params=53.653_N_1.83_W_region:GB_scale:10000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′11″N</span> <span class="longitude">1°49′48″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.653°N 1.830°W</span><span style="display:none">&#xfeff; / <span class="geo">53.653; -1.830</span></span></span></a></span></span></span>
 </p>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Leatherback_Turtle_near_Galibi.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leatherback_Turtle_near_Galibi.jpg/220px-Leatherback_Turtle_near_Galibi.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leatherback_Turtle_near_Galibi.jpg/330px-Leatherback_Turtle_near_Galibi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Leatherback_Turtle_near_Galibi.jpg/440px-Leatherback_Turtle_near_Galibi.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Leatherback_Turtle_near_Galibi.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Leatherback_turtle" class="mw-redirect" title="Leatherback turtle">Leatherback turtle</a></div></div></div>
-<p>Four kind of <a href="/wiki/Sea_turtles" class="mw-redirect" title="Sea turtles">sea turtles</a> create nest on the beaches. These sea turtles are:
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:New_Hey_Road,_Oakes,_Lindley_cum_Quarmby_(near_Huddersfield)_-_geograph.org.uk_-_338692.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg/220px-New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg/330px-New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg/440px-New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:New_Hey_Road,_Oakes,_Lindley_cum_Quarmby_(near_Huddersfield)_-_geograph.org.uk_-_338692.jpg" class="internal" title="Enlarge"></a></div>New Hey Road, the main street of Oakes</div></div></div>
+<p><b>Oakes</b> is a district of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a>. It is situated 2 miles (3&#160;km) to the west of the town centre off the <a href="/wiki/A640_road" title="A640 road">A640 New Hey Road</a> towards the <a href="/wiki/M62_motorway" title="M62 motorway">M62 motorway</a>, between <a href="/wiki/Marsh,_West_Yorkshire" class="mw-redirect" title="Marsh, West Yorkshire">Marsh</a>, <a href="/wiki/Lindley,_West_Yorkshire" class="mw-redirect" title="Lindley, West Yorkshire">Lindley</a>, <a href="/wiki/Quarmby" title="Quarmby">Quarmby</a> and <a href="/wiki/Salendine_Nook" title="Salendine Nook">Salendine Nook</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Oakes was a location of the textile industry. Wellington Mills was constructed together with the local Baptist church, a school, and a public house in 1864.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The large factories have now closed and are used for other purposes. Oakes Mills has been demolished in 2017 to make room for a supermarket.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p><br />
 </p>
-<ol><li>Aitkanti or <a href="/wiki/Leatherback_turtle" class="mw-redirect" title="Leatherback turtle">leatherback turtle</a> (<i>Dermochelys corriacea</i>)</li>
-<li>Krape or <a href="/wiki/Green_turtle" class="mw-redirect" title="Green turtle">Green turtle</a> (<i>Chelonia mydas</i>)</li>
-<li>Warana or <a href="/wiki/Olive_Ridley_sea_turtle" class="mw-redirect" title="Olive Ridley sea turtle">Olive Ridley sea turtle</a> (<i>Lepidochelys olivacea</i>)</li>
-<li>Karet or <a href="/wiki/Hawksbill_sea_turtle" title="Hawksbill sea turtle">Hawksbill sea turtle</a> (<i>Eretmochelys imbricata</i>).</li></ol>
-<p>Suriname is rich in freshwater resources. Suriname has 228.00 per capita cubic meters of renewable freshwater resources annually.  However, these resources are seriously threatened by human activities, such as gold mining.  Suriname has more or less 61 endemic freshwater fishes. According to Mol,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>  the <a href="/wiki/Atlantic_goliath_grouper" title="Atlantic goliath grouper">Atlantic goliath grouper</a> (<i>Epinephelus itajara</i>) is endangered. 
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Oakes,_Huddersfield&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation map"><a rel="nofollow" class="external text" href="https://maps.nls.uk/view/100948202"><i>Yorkshire CCXLVI.SW (includes: Colne Valley; Huddersfield.)</i></a> (Map). 1:10560. Ordnance Survey. 1950.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Yorkshire+CCXLVI.SW+%28includes%3A+Colne+Valley%3B+Huddersfield.%29&amp;rft.pub=Ordnance+Survey&amp;rft.date=1950&amp;rft_id=https%3A%2F%2Fmaps.nls.uk%2Fview%2F100948202&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOakes%2C+Huddersfield" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Andrew Hirst (30 October 2013). <a rel="nofollow" class="external text" href="https://www.examiner.co.uk/lifestyle/nostalgia/search-old-photos-oakes-6252841">"Search is on for old photos of Oakes"</a>. <i>Huddersfield Examiner</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Search+is+on+for+old+photos+of+Oakes&amp;rft.date=2013-10-30&amp;rft.au=Andrew+Hirst&amp;rft_id=https%3A%2F%2Fwww.examiner.co.uk%2Flifestyle%2Fnostalgia%2Fsearch-old-photos-oakes-6252841&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOakes%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Robert Sutcliffe (19 October 2017). <a rel="nofollow" class="external text" href="https://www.examiner.co.uk/news/demolition-work-starts-oakes-mill-13786531">"Demolition work starts on Oakes Mill site as hopes are high of Lidl store there"</a>. <i>Huddersfield Examiner</i><span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Demolition+work+starts+on+Oakes+Mill+site+as+hopes+are+high+of+Lidl+store+there&amp;rft.date=2017-10-19&amp;rft.au=Robert+Sutcliffe&amp;rft_id=https%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fdemolition-work-starts-oakes-mill-13786531&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOakes%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<p><br />
 </p>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:White_faced_saki_(5941062382).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/White_faced_saki_%285941062382%29.jpg/220px-White_faced_saki_%285941062382%29.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/White_faced_saki_%285941062382%29.jpg/330px-White_faced_saki_%285941062382%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/White_faced_saki_%285941062382%29.jpg/440px-White_faced_saki_%285941062382%29.jpg 2x" data-file-width="2992" data-file-height="1991" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:White_faced_saki_(5941062382).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/White_faced_saki" class="mw-redirect" title="White faced saki">White faced saki</a></div></div></div>
-<p>In the highlands, mountains, such as <a href="/wiki/Bakhuys_Mountains" class="mw-redirect" title="Bakhuys Mountains">Bakhuys Mountains</a>, <a href="/wiki/Van_Asch_Van_Wijck_Mountains" title="Van Asch Van Wijck Mountains">Van Asch Van Wijck Mountains</a>, <a href="/wiki/Julianatop" title="Julianatop">Julianatop</a>,  are part of the <a href="/wiki/Guiana_Shield" title="Guiana Shield">Guiana Shield</a>. The Guiana Shield is one of the regions of highest biodiversity in the world, and has many <a href="/wiki/Endemic" class="mw-redirect" title="Endemic">endemic</a> species. It can be said that the <a href="/wiki/White-faced_saki" title="White-faced saki">white-faced saki</a> is endemic to the Guyana’s.  The <a href="/wiki/Guianan_piculet" class="mw-redirect" title="Guianan piculet">Guianan piculet</a> (<i>Picumnus minutissimis</i>) is probably endemic to Suriname. It has not been confirmed for neighboring countries.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
-</p><p>The rest of Suriname is covered with forests. Most of the forests are undisturbed because of the low human population density of 2.7 people /km. There are still new species discovered in Suriname. In 2012, <a href="/wiki/Conservation_International" title="Conservation International">Conservation International</a> Suriname (CIS) announced that 60 new species were discovered in het Grensgebergte and <a href="/wiki/Kasikasima" title="Kasikasima">Kasikasima</a>. Among the newly discovered species were: the chocolate- colored “cocoa” frog (<i>Hypsiboas</i> sp.) and the juvenile planthopper.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Number_of_groups_of_plants_and_animals_in_Suriname">Number of groups of plants and animals in Suriname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=2" title="Edit section: Number of groups of plants and animals in Suriname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DEN_azu.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/DEN_azu.jpg/220px-DEN_azu.jpg" decoding="async" width="220" height="175" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/DEN_azu.jpg/330px-DEN_azu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/DEN_azu.jpg/440px-DEN_azu.jpg 2x" data-file-width="550" data-file-height="437" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DEN_azu.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Blue_poison_dart_frog" title="Blue poison dart frog">Blue poison dart frog</a></div></div></div>
-<p>The table shows the number of the groups of plants and animals which can be found in Suriname anno 2009.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
-</p>
-<table class="wikitable">
-
-<tbody><tr>
-<th>Species</th>
-<th>Number
-</th></tr>
-<tr>
-<td>Mammals</td>
-<td>192
-</td></tr>
-<tr>
-<td>Birds</td>
-<td>715
-</td></tr>
-<tr>
-<td>Reptiles</td>
-<td>175
-</td></tr>
-<tr>
-<td>Amphibians</td>
-<td>102
-</td></tr>
-<tr>
-<td>Marine fish</td>
-<td>360
-</td></tr>
-<tr>
-<td>Freshwater species</td>
-<td>318
-</td></tr>
-<tr>
-<td>Plants</td>
-<td>more or less 5,100
-</td></tr>
-</tbody></table>
-<h2><span class="mw-headline" id="Nature_Protection_Act_1954_and_the_Game_Act_1954">Nature Protection Act 1954 and the Game Act 1954</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=3" title="Edit section: Nature Protection Act 1954 and the Game Act 1954">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The Nature Protection Act 1954<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> and the Game Act 1954<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> are important for the protection of nature in Suriname. The Nature Protection Act 1954 regulates the establishment and the management of <a href="/wiki/Nature_reserves" class="mw-redirect" title="Nature reserves">nature reserves</a> and other protected areas. The Game Act 1954 states which species of wild life may be hunted and during which period. There are four categories of wild animals, namely protected animals, game species, cage species and predominantly harmful species. The <a href="/wiki/Giant_anteater" title="Giant anteater">giant anteater</a>, <a href="/wiki/Red-faced_spider_monkey" title="Red-faced spider monkey">red-faced spider monkey</a>, <a href="/wiki/Ocelot" title="Ocelot">ocelot</a>, <a href="/wiki/Jaguar" title="Jaguar">jaguar</a>, <a href="/wiki/Bush_dog" title="Bush dog">bush dog</a> and the <a href="/wiki/Guiana_dolphin" title="Guiana dolphin">Guiana dolphin</a> are some of the mammals that are under complete protection in Suriname.
-</p>
-<h2><span class="mw-headline" id="Protected_areas">Protected areas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=4" title="Edit section: Protected areas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Suriname has 11 Nature Reserves, 1 Nature park and 4 Multi Use Management Areas (MUMA"S). A protected area is an area set aside for the preservation and protection of highly important natural and cultural features, for the regulation of the scientific, educational and recreational use.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> On March 5, 2015,the leaders of the <a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">indigenous peoples in Suriname</a> presented a declaration for the protection of a 7.2 million preserve, to members of parliament. <a href="/wiki/Conservation_International" title="Conservation International">Conservation International</a>-Suriname and the <a href="/wiki/World_Wide_Fund_For_Nature" class="mw-redirect" title="World Wide Fund For Nature">World Wide Fund For Nature</a> worked to support the vision of the Trio and Wayana communities to map the preserve and lay out strategies to fund and ensure the success of the initiative. The plan includes the provision of jobs for tribe members as rangers and guards. The indigenous leaders also intent to establish the value maintaining the unspoiled rivers.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Protected_Areas_in_hectares_in_2010">Protected Areas in hectares in 2010</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=5" title="Edit section: Protected Areas in hectares in 2010">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mushroom_at_Brownsberg.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mushroom_at_Brownsberg.JPG/220px-Mushroom_at_Brownsberg.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mushroom_at_Brownsberg.JPG/330px-Mushroom_at_Brownsberg.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mushroom_at_Brownsberg.JPG/440px-Mushroom_at_Brownsberg.JPG 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mushroom_at_Brownsberg.JPG" class="internal" title="Enlarge"></a></div><i><a href="/wiki/Leucocoprinus_birnbaumii" title="Leucocoprinus birnbaumii">Leucocoprinus birnbaumii</a></i> at <a href="/wiki/Brownsberg_Nature_Park" title="Brownsberg Nature Park">Brownsberg</a></div></div></div>
-<p>The table shows the Protected Areas in Suriname in <a href="/wiki/Hectare" title="Hectare">hectare</a> (ha) in 2010.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
-</p>
-<table class="wikitable">
-
-<tbody><tr>
-<th>Protected Areas</th>
-<th>Total area
-</th></tr>
-<tr>
-<td>Boven Coesewijne</td>
-<td>27.000
-</td></tr>
-<tr>
-<td>Brinckheuvel</td>
-<td>6.000
-</td></tr>
-<tr>
-<td>Central Suriname <a href="/wiki/Central_Suriname_Nature_Reserve" title="Central Suriname Nature Reserve">Central Suriname Nature Reserve</a></td>
-<td>1, 592.000
-</td></tr>
-<tr>
-<td>Copi</td>
-<td>28.000
-</td></tr>
-<tr>
-<td>Coppename monding</td>
-<td>12.000
-</td></tr>
-<tr>
-<td>Galibi</td>
-<td>4.000
-</td></tr>
-<tr>
-<td>Hertenrits</td>
-<td>100
-</td></tr>
-<tr>
-<td>Peruvia</td>
-<td>31.000
-</td></tr>
-<tr>
-<td>Sipaliwini</td>
-<td>100.000
-</td></tr>
-<tr>
-<td>Wane kreek</td>
-<td>45.000
-</td></tr>
-<tr>
-<td>Wia Wia</td>
-<td>36.000
-</td></tr>
-<tr>
-<td>Brownsberg <a href="/wiki/Brownsberg_Nature_Park" title="Brownsberg Nature Park">Brownsberg Nature Park</a></td>
-<td>12.200
-</td></tr>
-<tr>
-<td>Bigi Pan</td>
-<td>67.900
-</td></tr>
-<tr>
-<td>Noord Coronie</td>
-<td>27.200
-</td></tr>
-<tr>
-<td>Noord Saramacca</td>
-<td>88.400
-</td></tr>
-<tr>
-<td>Noord Commewijne-Marowijne</td>
-<td>61.500
-</td></tr>
-<tr>
-<td>Total</td>
-<td>2.138.300
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="International_conventions">International conventions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=6" title="Edit section: International conventions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Suriname is signatory to many international conventions aimed at protection and conservation of the biodiversity. The most important are the <a href="/wiki/Convention_on_Biological_Diversity" title="Convention on Biological Diversity">Convention on Biological Diversity</a>, the <a href="/wiki/Convention_on_International_Trade_in_Endangered_Species_of_Wild_Fauna_and_Flora" class="mw-redirect" title="Convention on International Trade in Endangered Species of Wild Fauna and Flora">Convention on International Trade in Endangered Species of Wild Fauna and Flora</a> and the <a href="/wiki/Ramsar_Convention_on_Wetlands" class="mw-redirect" title="Ramsar Convention on Wetlands">Ramsar Convention on Wetlands</a>. In 2007, the ministry of the Environment presented the National Biodiversity Strategy<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> and in 2013 the National Biodiversity Action Plan.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/List_of_birds_of_Suriname" title="List of birds of Suriname">list of birds of Suriname</a></li>
-<li><a href="/wiki/List_of_mammals_of_Suriname" title="List of mammals of Suriname">List of mammals of Suriname</a></li>
-<li><a href="/wiki/Russell_Mittermeier" title="Russell Mittermeier">Russell Mittermeier</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="reflist" style="list-style-type: decimal;">
-<div class="mw-references-wrap mw-references-columns"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.inaturalist.org/places/suriname">"Suriname"</a>. <i>iNaturalist.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=iNaturalist.org&amp;rft.atitle=Suriname&amp;rft_id=https%3A%2F%2Fwww.inaturalist.org%2Fplaces%2Fsuriname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150211185552/http://www.statistics-suriname.org/index.php/statistieken/downloads/category/34-milieu-publicatie-2012">"Downloads - Milieu Publicatie - Algemeen Bureau voor de Statistiek in Suriname"</a>. <i>www.statistics-suriname.org</i>. Archived from <a rel="nofollow" class="external text" href="http://www.statistics-suriname.org/index.php/statistieken/downloads/category/34-milieu-publicatie-2012">the original</a> on 2015-02-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.statistics-suriname.org&amp;rft.atitle=Downloads+-+Milieu+Publicatie+-+Algemeen+Bureau+voor+de+Statistiek+in+Suriname&amp;rft_id=http%3A%2F%2Fwww.statistics-suriname.org%2Findex.php%2Fstatistieken%2Fdownloads%2Fcategory%2F34-milieu-publicatie-2012&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;dead-url=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oceancurrents.rsmas.miami.edu/atlantic/guiana.html">"The Guiana Current"</a>. <i>oceancurrents.rsmas.miami.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=oceancurrents.rsmas.miami.edu&amp;rft.atitle=The+Guiana+Current&amp;rft_id=http%3A%2F%2Foceancurrents.rsmas.miami.edu%2Fatlantic%2Fguiana.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.birdlife.org/datazone/userfiles/file/IBAs/AmCntryPDFs/Suriname.pdf">"BirdLife Data Zone"</a> <span class="cs1-format">(PDF)</span>. <i>www.birdlife.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.birdlife.org&amp;rft.atitle=BirdLife+Data+Zone&amp;rft_id=http%3A%2F%2Fwww.birdlife.org%2Fdatazone%2Fuserfiles%2Ffile%2FIBAs%2FAmCntryPDFs%2FSuriname.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Ottema, 2009 , pg 347.</span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Vakblad Bos en Natuur, nr. 4 jaargang 1, oktober 2010 (Dutch), Biodiversiteit van aquatische ecosystemen, Jan. H. Mol, pages 8-10.</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Ottema, 2009 , pg 346.</span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Environment Statistics, 2014, pg, 149.</span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Environment Statistics of Suriname, 2014 (Dutch/ English), page 147.</span>
-</li>
-<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-tm-2005/natuurbeschermingswet-1954/">"Natuurbeschermingswet 1954 - De Nationale Assemblée"</a>. <i>www.dna.sr</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.dna.sr&amp;rft.atitle=Natuurbeschermingswet+1954+-+De+Nationale+Assembl%C3%A9e&amp;rft_id=http%3A%2F%2Fwww.dna.sr%2Fwetgeving%2Fsurinaamse-wetten%2Fgeldende-teksten-tm-2005%2Fnatuurbeschermingswet-1954%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-tm-2005/jachtwet-1954/">"Jachtwet 1954 - De Nationale Assemblée"</a>. <i>www.dna.sr</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.dna.sr&amp;rft.atitle=Jachtwet+1954+-+De+Nationale+Assembl%C3%A9e&amp;rft_id=http%3A%2F%2Fwww.dna.sr%2Fwetgeving%2Fsurinaamse-wetten%2Fgeldende-teksten-tm-2005%2Fjachtwet-1954%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Environmental statistics(2014), pg 115.</span>
-</li>
-<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.mongabay.com/2015/0313-gfrn-cannon-largest-pa-in-suriname-declared.html">"Indigenous leaders present plan to gov't for Suriname's largest official protected area"</a>. <i>news.mongabay.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.mongabay.com&amp;rft.atitle=Indigenous+leaders+present+plan+to+gov%27t+for+Suriname%27s+largest+official+protected+area&amp;rft_id=http%3A%2F%2Fnews.mongabay.com%2F2015%2F0313-gfrn-cannon-largest-pa-in-suriname-declared.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">Mittermeier, Dr. Russell A. (14 April 2015). <a rel="nofollow" class="external text" href="http://blog.conservation.org/2015/04/new-conservation-corridor-latest-environmental-triumph-for-suriname">"New Conservation Corridor Latest Environmental Triumph for..."</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Conservation+Corridor+Latest+Environmental+Triumph+for...&amp;rft.date=2015-04-14&amp;rft.aulast=Mittermeier&amp;rft.aufirst=Dr.+Russell+A.&amp;rft_id=http%3A%2F%2Fblog.conservation.org%2F2015%2F04%2Fnew-conservation-corridor-latest-environmental-triumph-for-suriname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Environmental Statistics, 2014,pg. 116.</span>
-</li>
-<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cbd.int/doc/world/sr/sr-nbsap-01-en.pdf">"REPUBLIC OF SURINAME Ministry of Labour,  Technological Development and Environment Biodiversity Steering Committee NATIONAL BIODIVERSITY STRATEGY"</a> <span class="cs1-format">(PDF)</span>. <i>www.cbd.int</i>. 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cbd.int&amp;rft.atitle=REPUBLIC+OF+SURINAME+Ministry+of+Labour%2C++Technological+Development+and+Environment+Biodiversity+Steering+Committee+NATIONAL+BIODIVERSITY+STRATEGY&amp;rft.date=2006&amp;rft_id=https%3A%2F%2Fwww.cbd.int%2Fdoc%2Fworld%2Fsr%2Fsr-nbsap-01-en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cbd.int/doc/world/sr/sr-nbsap-v2-en.pdf">"National Biodiversity Action Plan"</a> <span class="cs1-format">(PDF)</span>. <i>www.cbd.int</i>. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cbd.int&amp;rft.atitle=National+Biodiversity+Action+Plan&amp;rft.date=2013&amp;rft_id=https%3A%2F%2Fwww.cbd.int%2Fdoc%2Fworld%2Fsr%2Fsr-nbsap-v2-en.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABiodiversity+in+Suriname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-</ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="http://www.sipaliwinisavanna.com/index.html">Sipaliwini Savanna</a></li></ul>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:West_Yorkshire_UK_locator_map_2010.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/32px-West_Yorkshire_UK_locator_map_2010.svg.png" decoding="async" width="32" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/48px-West_Yorkshire_UK_locator_map_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/64px-West_Yorkshire_UK_locator_map_2010.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></td><td><i>This <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Oakes,_Huddersfield&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:WestYorkshire-geo-stub" title="Template:WestYorkshire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:WestYorkshire-geo-stub" title="Template talk:WestYorkshire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:WestYorkshire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1274
-Cached time: 20190907095112
+Parsed by mw1329
+Cached time: 20190914145554
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.196 seconds
-Real time usage: 0.241 seconds
-Preprocessor visited node count: 522/1000000
+CPU time usage: 0.244 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 428/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 14448/2097152 bytes
-Template argument size: 88/2097152 bytes
-Highest expansion depth: 8/40
-Expensive parser function count: 0/500
+Post‐expand include size: 17984/2097152 bytes
+Template argument size: 236/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 30745/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.096/10.000 seconds
-Lua memory usage: 2.63 MB/50 MB
+Unstrip post‐expand size: 8751/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 4.42 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  160.634      1 Template:Reflist
-100.00%  160.634      1 -total
- 84.66%  135.986     10 Template:Cite_web
-  1.92%    3.088      1 Template:Main_other
+100.00%  298.082      1 -total
+ 28.92%   86.205      1 Template:Refimprove
+ 28.12%   83.827      1 Template:Cite_map
+ 22.81%   68.002      1 Template:Ambox
+ 12.86%   38.319      1 Template:Convert
+  9.48%   28.260      1 Template:Find_sources_mainspace
+  7.97%   23.747      1 Template:Coord
+  6.87%   20.468      1 Template:Use_dmy_dates
+  6.69%   19.929      2 Template:DMCA
+  5.86%   17.472      2 Template:Dated_maintenance_category
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:46489338-0!canonical and timestamp 20190907095111 and revision id 903819330
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9960994-0!canonical and timestamp 20190914145554 and revision id 854209363
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Biodiversity_in_Suriname&amp;oldid=903819330">https://en.wikipedia.org/w/index.php?title=Biodiversity_in_Suriname&amp;oldid=903819330</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Oakes,_Huddersfield&amp;oldid=854209363">https://en.wikipedia.org/w/index.php?title=Oakes,_Huddersfield&amp;oldid=854209363</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Environment_of_Suriname" title="Category:Environment of Suriname">Environment of Suriname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Huddersfield" title="Category:Geography of Huddersfield">Geography of Huddersfield</a></li><li><a href="/wiki/Category:West_Yorkshire_geography_stubs" title="Category:West Yorkshire geography stubs">West Yorkshire geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2018" title="Category:Articles needing additional references from April 2018">Articles needing additional references from April 2018</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2018" title="Category:Use dmy dates from April 2018">Use dmy dates from April 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_April_2018" title="Category:Use British English from April 2018">Use British English from April 2018</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -310,13 +131,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Biodiversity+in+Suriname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Biodiversity+in+Suriname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Oakes%2C+Huddersfield" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Oakes%2C+Huddersfield" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Biodiversity_in_Suriname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Biodiversity_in_Suriname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Oakes,_Huddersfield" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Oakes,_Huddersfield" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -331,7 +152,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Biodiversity_in_Suriname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Oakes,_Huddersfield">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Oakes,_Huddersfield&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Oakes,_Huddersfield&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -370,28 +191,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Biodiversity_in_Suriname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Biodiversity_in_Suriname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;oldid=903819330" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25052135" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Biodiversity_in_Suriname&amp;id=903819330" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Oakes,_Huddersfield" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Oakes,_Huddersfield" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Oakes,_Huddersfield&amp;oldid=854209363" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Oakes,_Huddersfield&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7073840" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Oakes%2C_Huddersfield&amp;id=854209363" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Biodiversity+in+Suriname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Biodiversity+in+Suriname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Biodiversity_in_Suriname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Oakes%2C+Huddersfield">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Oakes%2C+Huddersfield&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Oakes,_Huddersfield&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Biodiversiteit_in_Suriname" title="Biodiversiteit in Suriname – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q25052135#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7073840#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 28 June 2019, at 05:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 9 August 2018, at 17:59<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -402,7 +223,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Biodiversity_in_Suriname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Oakes,_Huddersfield&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -414,8 +235,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.241","ppvisitednodes":{"value":522,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14448,"limit":2097152},"templateargumentsize":{"value":88,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30745,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  160.634      1 Template:Reflist","100.00%  160.634      1 -total"," 84.66%  135.986     10 Template:Cite_web","  1.92%    3.088      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":2762924,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190907095112","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Biodiversity in Suriname","url":"https:\/\/en.wikipedia.org\/wiki\/Biodiversity_in_Suriname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q25052135","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q25052135","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-04-22T14:35:56Z","dateModified":"2019-06-28T05:15:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/60\/Rode_ibis_%284029289135%29_%283%29.jpg"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129,"wgHostname":"mw1242"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.326","ppvisitednodes":{"value":428,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17984,"limit":2097152},"templateargumentsize":{"value":236,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8751,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  298.082      1 -total"," 28.92%   86.205      1 Template:Refimprove"," 28.12%   83.827      1 Template:Cite_map"," 22.81%   68.002      1 Template:Ambox"," 12.86%   38.319      1 Template:Convert","  9.48%   28.260      1 Template:Find_sources_mainspace","  7.97%   23.747      1 Template:Coord","  6.87%   20.468      1 Template:Use_dmy_dates","  6.69%   19.929      2 Template:DMCA","  5.86%   17.472      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":4633205,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190914145554","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Oakes, Huddersfield","url":"https:\/\/en.wikipedia.org\/wiki\/Oakes,_Huddersfield","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7073840","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7073840","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-09T21:27:06Z","dateModified":"2018-08-09T17:59:57Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/09\/New_Hey_Road%2C_Oakes%2C_Lindley_cum_Quarmby_%28near_Huddersfield%29_-_geograph.org.uk_-_338692.jpg","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1322"});});</script>
 </body>
 </html>

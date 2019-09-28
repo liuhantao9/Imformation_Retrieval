@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Hyannis Port, Massachusetts - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hyannis_Port,_Massachusetts","wgTitle":"Hyannis Port, Massachusetts","wgCurRevisionId":917144234,"wgRevisionId":917144234,"wgArticleId":402986,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link from Wikidata","Coordinates on Wikidata","Populated coastal places in Massachusetts"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hyannis_Port,_Massachusetts","wgRelevantArticleId":
-402986,"wgRequestId":"XYsY8QpAICsAABsAuYwAAAAC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":41.63194444444444,"lon":-70.30277777777778},"wgWikibaseItemId":"Q12060635","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
-"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
-"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>West Yorkshire Joint Services - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"West_Yorkshire_Joint_Services","wgTitle":"West Yorkshire Joint Services","wgCurRevisionId":827790978,"wgRevisionId":827790978,"wgArticleId":22176524,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Local government in West Yorkshire","County record offices in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"West_Yorkshire_Joint_Services","wgRelevantArticleId":22176524,"wgRequestId":
+"XYwi8ApAMFQAAJpzC@sAAAAK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7987039","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp",
+"skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,21 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg/1200px-Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg.png"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hyannis_Port,_Massachusetts"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/West_Yorkshire_Joint_Services.jpg/1200px-West_Yorkshire_Joint_Services.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/West_Yorkshire_Joint_Services"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Hyannis_Port,_Massachusetts"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/West_Yorkshire_Joint_Services"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hyannis_Port_Massachusetts rootpage-Hyannis_Port_Massachusetts skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-West_Yorkshire_Joint_Services rootpage-West_Yorkshire_Joint_Services skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Hyannis Port, Massachusetts</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">West Yorkshire Joint Services</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -51,190 +51,66 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:262px;"><a href="/wiki/File:Barnstable_MA_zip_codes_(02647_Hyannis_Port_highlighted).svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg/260px-Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg.png" decoding="async" width="260" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg/390px-Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg/520px-Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg.png 2x" data-file-width="835" data-file-height="741" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Barnstable_MA_zip_codes_(02647_Hyannis_Port_highlighted).svg" class="internal" title="Enlarge"></a></div>Location of ZIP code 02647 (Hyannis Port) within the Town and County of Barnstable, and the Commonwealth of Massachusetts</div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Union_Chapel,_Hyannis_Port_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Union_Chapel%2C_Hyannis_Port_MA.jpg/220px-Union_Chapel%2C_Hyannis_Port_MA.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Union_Chapel%2C_Hyannis_Port_MA.jpg/330px-Union_Chapel%2C_Hyannis_Port_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Union_Chapel%2C_Hyannis_Port_MA.jpg/440px-Union_Chapel%2C_Hyannis_Port_MA.jpg 2x" data-file-width="3072" data-file-height="2304" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Union_Chapel,_Hyannis_Port_MA.jpg" class="internal" title="Enlarge"></a></div><center>Union Chapel</center></div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:East_Beach,_Hyannisport,_MA.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/East_Beach%2C_Hyannisport%2C_MA.jpg/220px-East_Beach%2C_Hyannisport%2C_MA.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/East_Beach%2C_Hyannisport%2C_MA.jpg/330px-East_Beach%2C_Hyannisport%2C_MA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/East_Beach%2C_Hyannisport%2C_MA.jpg/440px-East_Beach%2C_Hyannisport%2C_MA.jpg 2x" data-file-width="960" data-file-height="720" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:East_Beach,_Hyannisport,_MA.jpg" class="internal" title="Enlarge"></a></div>View of Hyannisport Yacht Club</div></div></div>
-<p><b>Hyannis Port</b> (or <b>Hyannisport</b>) is a small residential village located in <a href="/wiki/Barnstable,_Massachusetts" title="Barnstable, Massachusetts">Barnstable, Massachusetts</a>, <a href="/wiki/United_States" title="United States">United States</a>. It is an affluent summer community on Hyannis Harbor, 1.4 miles to the south-southwest of <a href="/wiki/Hyannis,_Massachusetts" title="Hyannis, Massachusetts">Hyannis</a>.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>West Yorkshire Joint Services</b> (<b>WYJS</b>) provides a range of public services to the five districts of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> (<a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a>, <a href="/wiki/Calderdale" title="Calderdale">Calderdale</a>, <a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>, <a href="/wiki/City_of_Leeds" title="City of Leeds">Leeds</a> and <a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a>). It is jointly funded by the five district councils, pro rata to their population, and is run by a committee of equal numbers of councillors from the five councils.  It "brings together a number of key services which the five district councils of West Yorkshire recognise can be more effectively delivered on a county-wide basis".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>When <a href="/wiki/West_Yorkshire_Metropolitan_County_Council" class="mw-redirect" title="West Yorkshire Metropolitan County Council">West Yorkshire Metropolitan County Council</a> was abolished in 1988, a "Joint Committee Arrangement" was established, to continue to provide archaeology, archives and trading standards services for the five successor district councils. In 1997 the Joint Services were created, to avoid duplication of resources across these services; it is based near <a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a>, Leeds. 
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Community"><span class="tocnumber">1</span> <span class="toctext">Community</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Kennedy_residences"><span class="tocnumber">2</span> <span class="toctext">Kennedy residences</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Demographics"><span class="tocnumber">3</span> <span class="toctext">Demographics</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="Community">Community</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit&amp;section=1" title="Edit section: Community">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>It has a small <a href="/wiki/United_States_Postal_Service" title="United States Postal Service">post office</a> (ZIP code 02647) next door to a small seasonal <a href="/wiki/Convenience_store" title="Convenience store">convenience store</a>, The News Shop and Gallery. It has one of the premier golf courses on Cape Cod, the <a href="/wiki/Hyannisport_Club" title="Hyannisport Club">Hyannisport Club</a>,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and is also home to the West Beach Club and the Hyannis Port Yacht Club.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> St. Andrew's-by-the-Sea Episcopal Church<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and the Union Chapel<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> conduct Sunday services in the summer.
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:West_Yorkshire_Joint_Services.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/West_Yorkshire_Joint_Services.jpg/220px-West_Yorkshire_Joint_Services.jpg" decoding="async" width="220" height="87" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/West_Yorkshire_Joint_Services.jpg/330px-West_Yorkshire_Joint_Services.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/West_Yorkshire_Joint_Services.jpg/440px-West_Yorkshire_Joint_Services.jpg 2x" data-file-width="4603" data-file-height="1816" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:West_Yorkshire_Joint_Services.jpg" class="internal" title="Enlarge"></a></div>West Yorkshire Joint Services Building in Morley</div></div></div>
+<p>Joint Services comprises:
 </p>
-<h2><span class="mw-headline" id="Kennedy_residences">Kennedy residences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit&amp;section=2" title="Edit section: Kennedy residences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Hyannis Port is the location of the <a href="/wiki/Kennedy_compound" class="mw-redirect" title="Kennedy compound">Kennedy compound</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and other <a href="/wiki/Kennedy_political_family" class="mw-redirect" title="Kennedy political family">Kennedy family</a> residences and, as such, is included in the <a href="/wiki/National_Register_of_Historic_Places" title="National Register of Historic Places">National Register of Historic Places</a>. There are three Kennedy houses on the compound: Rose's, Jack's, and Ethel's. (Ted's house was nearby but not in the compound itself.) <a href="/wiki/Rose_Fitzgerald_Kennedy" class="mw-redirect" title="Rose Fitzgerald Kennedy">Rose Fitzgerald Kennedy</a> was living in Hyannis Port and was the oldest resident in the town of Barnstable when she died at age 104.
+<ul><li><b>West Yorkshire Archaeology Advisory Service</b></li>
+<li><b>Archaeological Services WYAS</b>, a commercial organisation</li>
+<li><b>West Yorkshire Archive Service</b></li>
+<li><b>West Yorkshire Ecology</b></li>
+<li><b>West Yorkshire Materials Testing Service</b></li>
+<li><b>West Yorkshire Analytical Services</b></li>
+<li><b>West Yorkshire <a href="/wiki/Trading_Standards" title="Trading Standards">Trading Standards</a></b></li>
+<li><b>West Yorkshire Calibration Services</b></li></ul>
+<h2><span class="mw-headline" id="Archive_Service">Archive Service</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit&amp;section=1" title="Edit section: Archive Service">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The archive service operates at five locations: in <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a> (incorporating the West Riding Registry of Deeds); <a href="/wiki/Bradford" title="Bradford">Bradford</a> Central Library, <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a> Central Library in Calderdale, <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> Central Library in Kirklees, and the former <a href="/wiki/Sheepscar" title="Sheepscar">Sheepscar</a> branch library building near the centre of Leeds.
 </p>
-<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit&amp;section=3" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>According to the 2000 <a href="/wiki/U.S._Census" class="mw-redirect" title="U.S. Census">U.S. Census</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> on April 1, it had 193 housing units with a resident population of 115 persons living in 46 housing units. There were 147 vacant housing units (76%), 144 of which were for seasonal, recreational, or occasional use. Based on the average family size of 2.97 persons, the summer population is at least 573.
-</p>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.panoramio.com/photo/1173289">Panoramio - Photo of Hyannis Golf</a></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.panoramio.com/photo/23018043">Panoramio - Photo of Hyannis Port Beach</a></span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.panoramio.com/photo/28784543">Panoramio - Photo of St. Andrew by the Sea; Hyannis Port, MA</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.panoramio.com/photo/8004868">Panoramio - Photo of Hyannis Port - A small Church</a></span>
-</li>
-<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.panoramio.com/photo/29776339">Panoramio - Photo of Joseph P. &amp; Rose Kennedy estate, Hyannis Port, MA</a></span>
-</li>
-<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090830173710/http://factfinder.census.gov/servlet/QTTable?_bm=y&amp;-geo_id=86000US02647&amp;-qr_name=DEC_2000_SF1_U_DP1&amp;-ds_name=DEC_2000_SF1_U&amp;-_lang=en&amp;-_sse=on">"Profile of General Demographic Characteristics:  2000, Geographic Area: 02647 5-Digit ZCTA"</a>. United States Census Bureau. April 1, 2000. Archived from <a rel="nofollow" class="external text" href="http://factfinder.census.gov/servlet/QTTable?_bm=y&amp;-geo_id=86000US02647&amp;-qr_name=DEC_2000_SF1_U_DP1&amp;-ds_name=DEC_2000_SF1_U&amp;-_lang=en&amp;-_sse=on">the original</a> on August 30, 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-06-29</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Profile+of+General+Demographic+Characteristics%3A++2000%2C+Geographic+Area%3A+02647+5-Digit+ZCTA&amp;rft.pub=United+States+Census+Bureau&amp;rft.date=2000-04-01&amp;rft_id=http%3A%2F%2Ffactfinder.census.gov%2Fservlet%2FQTTable%3F_bm%3Dy%26-geo_id%3D86000US02647%26-qr_name%3DDEC_2000_SF1_U_DP1%26-ds_name%3DDEC_2000_SF1_U%26-_lang%3Den%26-_sse%3Don&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHyannis+Port%2C+Massachusetts" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wyjs.org.uk/documents/wyjs/WYJSServiceBusinessPlan201516.pdf">WYJS Service Business Plan 2015-16</a></span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Hyannis_Port,_Massachusetts" class="extiw" title="commons:Category:Hyannis Port, Massachusetts">Hyannis Port, Massachusetts</a> at Wikimedia Commons
-</p>
-<div role="navigation" class="navbox" aria-labelledby="Municipalities_and_communities_of_Barnstable_County,_Massachusetts,_United_States" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#15317E;color:#ffffff;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Barnstable_County,_Massachusetts" title="Template:Barnstable County, Massachusetts"><abbr title="View this template" style=";background:#15317E;color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Barnstable_County,_Massachusetts" title="Template talk:Barnstable County, Massachusetts"><abbr title="Discuss this template" style=";background:#15317E;color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Barnstable_County,_Massachusetts&amp;action=edit"><abbr title="Edit this template" style=";background:#15317E;color:#ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipalities_and_communities_of_Barnstable_County,_Massachusetts,_United_States" class="adr" style="font-size:114%;margin:0 4em">Municipalities and communities of <a href="/wiki/Barnstable_County,_Massachusetts" title="Barnstable County, Massachusetts"><span class="region" style="color:#ffffff">Barnstable County, Massachusetts</span></a>, <span class="country-name">United States</span></div></th></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#15317E;color:#ffffff;"><div id="County_seat:_Barnstable"><a href="/wiki/County_seat" title="County seat"><span style="color:#ffffff">County seat</span></a>: <b><a href="/wiki/Barnstable,_Massachusetts" title="Barnstable, Massachusetts"><span style="color:#ffffff">Barnstable</span></a></b></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#15317E;color:#ffffff;"><a href="/wiki/List_of_municipalities_in_Massachusetts" title="List of municipalities in Massachusetts"><span style="color:#ffffff;">City</span></a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Barnstable,_Massachusetts" title="Barnstable, Massachusetts">Barnstable</a></li></ul>
-</div></td><td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px"><div><div class="center"><div class="floatnone"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_of_Massachusetts_highlighting_Barnstable_County.svg/180px-Map_of_Massachusetts_highlighting_Barnstable_County.svg.png" decoding="async" width="180" height="110" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_of_Massachusetts_highlighting_Barnstable_County.svg/270px-Map_of_Massachusetts_highlighting_Barnstable_County.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Map_of_Massachusetts_highlighting_Barnstable_County.svg/360px-Map_of_Massachusetts_highlighting_Barnstable_County.svg.png 2x" data-file-width="2976" data-file-height="1819" /></div></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#15317E;color:#ffffff;"><a href="/wiki/List_of_towns_in_Massachusetts" class="mw-redirect" title="List of towns in Massachusetts"><span style="color:#ffffff;">Towns</span></a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bourne,_Massachusetts" title="Bourne, Massachusetts">Bourne</a></li>
-<li><a href="/wiki/Brewster,_Massachusetts" title="Brewster, Massachusetts">Brewster</a></li>
-<li><a href="/wiki/Chatham,_Massachusetts" title="Chatham, Massachusetts">Chatham</a></li>
-<li><a href="/wiki/Dennis,_Massachusetts" title="Dennis, Massachusetts">Dennis</a></li>
-<li><a href="/wiki/Eastham,_Massachusetts" title="Eastham, Massachusetts">Eastham</a></li>
-<li><a href="/wiki/Falmouth,_Massachusetts" title="Falmouth, Massachusetts">Falmouth</a></li>
-<li><a href="/wiki/Harwich,_Massachusetts" title="Harwich, Massachusetts">Harwich</a></li>
-<li><a href="/wiki/Mashpee,_Massachusetts" title="Mashpee, Massachusetts">Mashpee</a></li>
-<li><a href="/wiki/Orleans,_Massachusetts" title="Orleans, Massachusetts">Orleans</a></li>
-<li><a href="/wiki/Provincetown,_Massachusetts" title="Provincetown, Massachusetts">Provincetown</a></li>
-<li><a href="/wiki/Sandwich,_Massachusetts" title="Sandwich, Massachusetts">Sandwich</a></li>
-<li><a href="/wiki/Truro,_Massachusetts" title="Truro, Massachusetts">Truro</a></li>
-<li><a href="/wiki/Wellfleet,_Massachusetts" title="Wellfleet, Massachusetts">Wellfleet</a></li>
-<li><a href="/wiki/Yarmouth,_Massachusetts" title="Yarmouth, Massachusetts">Yarmouth</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#15317E;color:#ffffff;"><a href="/wiki/List_of_census-designated_places_in_Massachusetts" title="List of census-designated places in Massachusetts"><span style="color:#ffffff;">CDPs</span></a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bourne_(CDP),_Massachusetts" title="Bourne (CDP), Massachusetts">Bourne (CDP)</a></li>
-<li><a href="/wiki/Brewster_(CDP),_Massachusetts" title="Brewster (CDP), Massachusetts">Brewster (CDP)</a></li>
-<li><a href="/wiki/Buzzards_Bay,_Massachusetts" title="Buzzards Bay, Massachusetts">Buzzards Bay</a></li>
-<li><a href="/wiki/Chatham_(CDP),_Massachusetts" title="Chatham (CDP), Massachusetts">Chatham (CDP)</a></li>
-<li><a href="/wiki/Dennis_(CDP),_Massachusetts" title="Dennis (CDP), Massachusetts">Dennis (CDP)</a></li>
-<li><a href="/wiki/Dennis_Port,_Massachusetts" title="Dennis Port, Massachusetts">Dennisport</a></li>
-<li><a href="/wiki/East_Dennis,_Massachusetts" title="East Dennis, Massachusetts">East Dennis</a></li>
-<li><a href="/wiki/East_Falmouth,_Massachusetts" title="East Falmouth, Massachusetts">East Falmouth</a></li>
-<li><a href="/wiki/East_Harwich,_Massachusetts" title="East Harwich, Massachusetts">East Harwich</a></li>
-<li><a href="/wiki/East_Sandwich,_Massachusetts" title="East Sandwich, Massachusetts">East Sandwich</a></li>
-<li><a href="/wiki/Falmouth_(CDP),_Massachusetts" title="Falmouth (CDP), Massachusetts">Falmouth (CDP)</a></li>
-<li><a href="/wiki/Forestdale,_Massachusetts" title="Forestdale, Massachusetts">Forestdale</a></li>
-<li><a href="/wiki/Harwich_Center,_Massachusetts" title="Harwich Center, Massachusetts">Harwich Center</a></li>
-<li><a href="/wiki/Harwich_Port,_Massachusetts" title="Harwich Port, Massachusetts">Harwich Port</a></li>
-<li><a href="/wiki/Mashpee_Neck,_Massachusetts" title="Mashpee Neck, Massachusetts">Mashpee Neck</a></li>
-<li><a href="/wiki/Monomoscoy_Island,_Massachusetts" title="Monomoscoy Island, Massachusetts">Monomoscoy Island</a></li>
-<li><a href="/wiki/Monument_Beach,_Massachusetts" title="Monument Beach, Massachusetts">Monument Beach</a></li>
-<li><a href="/wiki/New_Seabury,_Massachusetts" title="New Seabury, Massachusetts">New Seabury</a></li>
-<li><a href="/wiki/North_Eastham,_Massachusetts" title="North Eastham, Massachusetts">North Eastham</a></li>
-<li><a href="/wiki/North_Falmouth,_Massachusetts" title="North Falmouth, Massachusetts">North Falmouth</a></li>
-<li><a href="/wiki/Northwest_Harwich,_Massachusetts" title="Northwest Harwich, Massachusetts">Northwest Harwich</a></li>
-<li><a href="/wiki/Orleans_(CDP),_Massachusetts" title="Orleans (CDP), Massachusetts">Orleans (CDP)</a></li>
-<li><a href="/wiki/Pocasset,_Massachusetts" title="Pocasset, Massachusetts">Pocasset</a></li>
-<li><a href="/wiki/Popponesset,_Massachusetts" title="Popponesset, Massachusetts">Popponesset</a></li>
-<li><a href="/wiki/Popponesset_Island,_Massachusetts" title="Popponesset Island, Massachusetts">Popponesset Island</a></li>
-<li><a href="/wiki/Provincetown_(CDP),_Massachusetts" title="Provincetown (CDP), Massachusetts">Provincetown (CDP)</a></li>
-<li><a href="/wiki/Sagamore,_Massachusetts" title="Sagamore, Massachusetts">Sagamore</a></li>
-<li><a href="/wiki/Sandwich_(CDP),_Massachusetts" title="Sandwich (CDP), Massachusetts">Sandwich (CDP)</a></li>
-<li><a href="/wiki/Seabrook,_Massachusetts" title="Seabrook, Massachusetts">Seabrook</a></li>
-<li><a href="/wiki/Seconsett_Island,_Massachusetts" title="Seconsett Island, Massachusetts">Seconsett Island</a></li>
-<li><a href="/wiki/South_Dennis,_Massachusetts" title="South Dennis, Massachusetts">South Dennis</a></li>
-<li><a href="/wiki/South_Yarmouth,_Massachusetts" title="South Yarmouth, Massachusetts">South Yarmouth</a></li>
-<li><a href="/wiki/Teaticket,_Massachusetts" title="Teaticket, Massachusetts">Teaticket</a></li>
-<li><a href="/wiki/West_Chatham,_Massachusetts" title="West Chatham, Massachusetts">West Chatham</a></li>
-<li><a href="/wiki/West_Dennis,_Massachusetts" title="West Dennis, Massachusetts">West Dennis</a></li>
-<li><a href="/wiki/West_Falmouth,_Massachusetts" title="West Falmouth, Massachusetts">West Falmouth</a></li>
-<li><a href="/wiki/West_Yarmouth,_Massachusetts" title="West Yarmouth, Massachusetts">West Yarmouth</a></li>
-<li><a href="/wiki/Woods_Hole,_Massachusetts" title="Woods Hole, Massachusetts">Woods Hole</a></li>
-<li><a href="/wiki/Yarmouth_Port,_Massachusetts" title="Yarmouth Port, Massachusetts">Yarmouth Port</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#15317E;color:#ffffff;"><a href="/wiki/List_of_villages_in_Massachusetts" title="List of villages in Massachusetts"><span style="color:#ffffff;">Other<br />villages</span></a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Barnstable_(village),_Massachusetts" title="Barnstable (village), Massachusetts">Barnstable Village</a></li>
-<li><a href="/wiki/Bournedale,_Massachusetts" title="Bournedale, Massachusetts">Bournedale</a></li>
-<li><a href="/wiki/Centerville,_Massachusetts" title="Centerville, Massachusetts">Centerville</a></li>
-<li><a href="/wiki/Cotuit,_Massachusetts" title="Cotuit, Massachusetts">Cotuit</a></li>
-<li><a href="/wiki/Craigville,_Massachusetts" title="Craigville, Massachusetts">Craigville</a></li>
-<li><a href="/wiki/Hatchville,_Massachusetts" title="Hatchville, Massachusetts">Hatchville</a></li>
-<li><a href="/wiki/Hyannisport,_Massachusetts" class="mw-redirect" title="Hyannisport, Massachusetts">Hyannisport</a></li>
-<li><a href="/wiki/Hyannis,_Massachusetts" title="Hyannis, Massachusetts">Hyannis</a></li>
-<li><a href="/wiki/Marstons_Mills,_Massachusetts" title="Marstons Mills, Massachusetts">Marstons Mills</a></li>
-<li><a href="/wiki/Menauhant,_Massachusetts" title="Menauhant, Massachusetts">Menauhant</a></li>
-<li><a href="/wiki/North_Harwich,_Massachusetts" title="North Harwich, Massachusetts">North Harwich</a></li>
-<li><a href="/wiki/North_Truro,_Massachusetts" title="North Truro, Massachusetts">North Truro</a></li>
-<li><a href="/wiki/Osterville,_Massachusetts" title="Osterville, Massachusetts">Osterville</a></li>
-<li><a href="/wiki/Pleasant_Lake,_Massachusetts" title="Pleasant Lake, Massachusetts">Pleasant Lake</a></li>
-<li><a href="/wiki/Sagamore_Beach,_Massachusetts" title="Sagamore Beach, Massachusetts">Sagamore Beach</a></li>
-<li><a href="/wiki/South_Harwich,_Massachusetts" title="South Harwich, Massachusetts">South Harwich</a></li>
-<li><a href="/wiki/Thumpertown_Beach,_Massachusetts" title="Thumpertown Beach, Massachusetts">Thumpertown Beach</a></li>
-<li><a href="/wiki/West_Barnstable,_Massachusetts" title="West Barnstable, Massachusetts">West Barnstable</a></li>
-<li><a href="/wiki/West_Harwich,_Massachusetts" title="West Harwich, Massachusetts">West Harwich</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="3" style="background:#15317E;color:#ffffff;"><div><a href="/wiki/File:Flag_of_Massachusetts.svg" class="image"><img alt="Flag of Massachusetts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/32px-Flag_of_Massachusetts.svg.png" decoding="async" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/48px-Flag_of_Massachusetts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Massachusetts.svg/64px-Flag_of_Massachusetts.svg.png 2x" data-file-width="1500" data-file-height="900" /></a> <a href="/wiki/Portal:Massachusetts" title="Portal:Massachusetts">Massachusetts&#32;portal</a> &#160; <a href="/wiki/File:Flag_of_the_United_States.svg" class="image"><img alt="Flag of the United States.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/32px-Flag_of_the_United_States.svg.png" decoding="async" width="32" height="17" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/48px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/64px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a> <a href="/wiki/Portal:United_States" title="Portal:United States">United States&#32;portal</a></div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="Town_of_Barnstable" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#CC2200; color: #ffffff;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Barnstable" title="Template:Barnstable"><abbr title="View this template" style=";background:#CC2200; color: #ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Barnstable" title="Template talk:Barnstable"><abbr title="Discuss this template" style=";background:#CC2200; color: #ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Barnstable&amp;action=edit"><abbr title="Edit this template" style=";background:#CC2200; color: #ffffff;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Town_of_Barnstable" style="font-size:114%;margin:0 4em"><a href="/wiki/Barnstable,_Massachusetts" title="Barnstable, Massachusetts"><span style="color:#ffffff;">Town of Barnstable</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/w/index.php?title=Barnstable_Police_Department&amp;action=edit&amp;redlink=1" class="new" title="Barnstable Police Department (page does not exist)">Police</a></li>
-<li><a href="/wiki/Barnstable_Public_School_District" title="Barnstable Public School District">School</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#CC2200; color: #ffffff;">Villages</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Barnstable_(village),_Massachusetts" title="Barnstable (village), Massachusetts">Barnstable</a></li>
-<li><a href="/wiki/Centerville,_Massachusetts" title="Centerville, Massachusetts">Centerville</a></li>
-<li><a href="/wiki/Cotuit,_Massachusetts" title="Cotuit, Massachusetts">Cotuit</a></li>
-<li><a href="/wiki/Craigville,_Massachusetts" title="Craigville, Massachusetts">Craigville</a></li>
-<li><a class="mw-selflink selflink">Hyannisport</a></li>
-<li><a href="/wiki/Hyannis,_Massachusetts" title="Hyannis, Massachusetts">Hyannis</a></li>
-<li><a href="/wiki/Marstons_Mills,_Massachusetts" title="Marstons Mills, Massachusetts">Marstons Mills</a></li>
-<li><a href="/wiki/Osterville,_Massachusetts" title="Osterville, Massachusetts">Osterville</a></li>
-<li><a href="/wiki/West_Barnstable,_Massachusetts" title="West Barnstable, Massachusetts">West Barnstable</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:#CC2200; color: #ffffff;"><div>
-<ul><li><a href="/wiki/Barnstable_County,_Massachusetts" title="Barnstable County, Massachusetts"><span style="color:#ffffff;">Barnstable County</span></a></li>
-<li><a href="/wiki/Cape_Cod" title="Cape Cod"><span style="color:#ffffff;">Cape Cod</span></a></li>
-<li><a href="/wiki/Massachusetts" title="Massachusetts"><span style="color:#ffffff;">Massachusetts</span></a></li>
-<li>United States</li></ul>
-</div></td></tr></tbody></table></div>
-<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hyannis_Port,_Massachusetts&amp;params=41_37_55_N_70_18_10_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">41°37′55″N</span> <span class="longitude">70°18′10″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">41.63194°N 70.30278°W</span><span style="display:none">&#xfeff; / <span class="geo">41.63194; -70.30278</span></span></span></a></span></span></span>
-</p>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.wyjs.org.uk/">Official site</a></li></ul>
 <!-- 
 NewPP limit report
-Parsed by mw1275
-Cached time: 20190925024724
+Parsed by mw1323
+Cached time: 20190827094212
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.228 seconds
-Real time usage: 0.343 seconds
-Preprocessor visited node count: 670/1000000
+Complications: []
+CPU time usage: 0.044 seconds
+Real time usage: 0.054 seconds
+Preprocessor visited node count: 101/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 44694/2097152 bytes
-Template argument size: 4532/2097152 bytes
-Highest expansion depth: 14/40
-Expensive parser function count: 4/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 5358/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.100/10.000 seconds
-Lua memory usage: 2.73 MB/50 MB
+Post‐expand include size: 371/2097152 bytes
+Template argument size: 93/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 444/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.004/10.000 seconds
+Lua memory usage: 535 KB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  266.360      1 -total
- 44.69%  119.029      1 Template:Reflist
- 35.13%   93.569      1 Template:Cite_web
- 22.47%   59.854      1 Template:Barnstable_County,_Massachusetts
- 21.10%   56.202      1 Template:US_county_navigation_box
- 20.07%   53.458      2 Template:Navbox
- 17.11%   45.580      1 Template:Commons_category-inline
- 13.48%   35.908      1 Template:Sister-inline
- 13.36%   35.586      1 Template:Coord
- 11.63%   30.983      2 Template:If_then_show
+100.00%   31.892      1 Template:Reflist
+100.00%   31.892      1 -total
+ 10.71%    3.415      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:402986-0!canonical and timestamp 20190925024723 and revision id 917144234
+<!-- Saved in parser cache with key enwiki:pcache:idhash:22176524-0!canonical and timestamp 20190827094212 and revision id 827790978
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hyannis_Port,_Massachusetts&amp;oldid=917144234">https://en.wikipedia.org/w/index.php?title=Hyannis_Port,_Massachusetts&amp;oldid=917144234</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=West_Yorkshire_Joint_Services&amp;oldid=827790978">https://en.wikipedia.org/w/index.php?title=West_Yorkshire_Joint_Services&amp;oldid=827790978</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Populated_coastal_places_in_Massachusetts" title="Category:Populated coastal places in Massachusetts">Populated coastal places in Massachusetts</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Local_government_in_West_Yorkshire" title="Category:Local government in West Yorkshire">Local government in West Yorkshire</a></li><li><a href="/wiki/Category:County_record_offices_in_England" title="Category:County record offices in England">County record offices in England</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -250,13 +126,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hyannis+Port%2C+Massachusetts" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hyannis+Port%2C+Massachusetts" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=West+Yorkshire+Joint+Services" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=West+Yorkshire+Joint+Services" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hyannis_Port,_Massachusetts" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hyannis_Port,_Massachusetts" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/West_Yorkshire_Joint_Services" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:West_Yorkshire_Joint_Services" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -271,7 +147,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hyannis_Port,_Massachusetts">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/West_Yorkshire_Joint_Services">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -310,35 +186,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hyannis_Port,_Massachusetts" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hyannis_Port,_Massachusetts" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;oldid=917144234" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12060635" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hyannis_Port%2C_Massachusetts&amp;id=917144234" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Hyannis_Port,_Massachusetts" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/West_Yorkshire_Joint_Services" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/West_Yorkshire_Joint_Services" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;oldid=827790978" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7987039" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=West_Yorkshire_Joint_Services&amp;id=827790978" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hyannis+Port%2C+Massachusetts">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hyannis+Port%2C+Massachusetts&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hyannis_Port,_Massachusetts&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=West+Yorkshire+Joint+Services">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=West+Yorkshire+Joint+Services&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=West_Yorkshire_Joint_Services&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Hyannis_Port" title="Hyannis Port – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Hyannis_Port" title="Hyannis Port – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12060635#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7987039#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 13:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 26 February 2018, at 19:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -349,7 +218,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hyannis_Port,_Massachusetts&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=West_Yorkshire_Joint_Services&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -361,8 +230,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.343","ppvisitednodes":{"value":670,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":44694,"limit":2097152},"templateargumentsize":{"value":4532,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5358,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  266.360      1 -total"," 44.69%  119.029      1 Template:Reflist"," 35.13%   93.569      1 Template:Cite_web"," 22.47%   59.854      1 Template:Barnstable_County,_Massachusetts"," 21.10%   56.202      1 Template:US_county_navigation_box"," 20.07%   53.458      2 Template:Navbox"," 17.11%   45.580      1 Template:Commons_category-inline"," 13.48%   35.908      1 Template:Sister-inline"," 13.36%   35.586      1 Template:Coord"," 11.63%   30.983      2 Template:If_then_show"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":2862761,"limit":52428800},"limitreport-logs":"table#1 {\n}\ntable#1 {\n}\n"},"cachereport":{"origin":"mw1275","timestamp":"20190925024724","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hyannis Port, Massachusetts","url":"https:\/\/en.wikipedia.org\/wiki\/Hyannis_Port,_Massachusetts","sameAs":"http:\/\/www.wikidata.org\/entity\/Q12060635","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q12060635","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-12-15T17:41:38Z","dateModified":"2019-09-22T13:08:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/30\/Barnstable_MA_zip_codes_%2802647_Hyannis_Port_highlighted%29.svg","headline":"village located in Barnstable, Massachusetts"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1322"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.054","ppvisitednodes":{"value":101,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":371,"limit":2097152},"templateargumentsize":{"value":93,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":444,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   31.892      1 Template:Reflist","100.00%   31.892      1 -total"," 10.71%    3.415      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.004","limit":"10.000"},"limitreport-memusage":{"value":547515,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190827094212","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"West Yorkshire Joint Services","url":"https:\/\/en.wikipedia.org\/wiki\/West_Yorkshire_Joint_Services","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7987039","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7987039","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-03-28T17:13:04Z","dateModified":"2018-02-26T19:23:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5d\/West_Yorkshire_Joint_Services.jpg","headline":"provider of public services to the districts of West Yorkshire"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1249"});});</script>
 </body>
 </html>

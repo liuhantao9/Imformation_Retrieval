@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Rayen Simson - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rayen_Simson","wgTitle":"Rayen Simson","wgCurRevisionId":903586680,"wgRevisionId":903586680,"wgArticleId":28928121,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","1972 births","Living people","Dutch male kickboxers","Surinamese male kickboxers","Middleweight kickboxers","Dutch Muay Thai practitioners","Surinamese Muay Thai practitioners","Surinamese emigrants to the Netherlands","Sportspeople from Paramaribo"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":[""
-,"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rayen_Simson","wgRelevantArticleId":28928121,"wgRequestId":"XYrjNQpAMFwAAKL5Z6kAAACE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2520540","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
-"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
-"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Brackenhall - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Brackenhall","wgTitle":"Brackenhall","wgCurRevisionId":878617865,"wgRevisionId":878617865,"wgArticleId":10351309,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from July 2017","Use dmy dates from July 2017","Coordinates on Wikidata","All stub articles","Geography of Huddersfield","West Yorkshire geography stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Brackenhall",
+"wgRelevantArticleId":10351309,"wgRequestId":"XYvUPwpAMEkAAFHwotAAAACA","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.672,"lon":-1.771},"wgWikibaseItemId":"Q4953666","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,20 +17,21 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rayen_Simson"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rayen_Simson&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Rayen_Simson&amp;action=edit"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/15/BrackenhallEstate.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Brackenhall"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Brackenhall&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Brackenhall&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Rayen_Simson"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Brackenhall"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rayen_Simson rootpage-Rayen_Simson skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Brackenhall rootpage-Brackenhall skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Rayen Simson</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Brackenhall</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,847 +51,83 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color:#efefef"><span class="fn">Rayen Simson</span></th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1972-05-22</span>) </span>May 22, 1972<span class="noprint ForceAgeToShow"> (age&#160;47)</span><br /><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr><th scope="row">Other names</th><td class="nickname">Red Bean, Tru Bala</td></tr><tr><th scope="row">Nationality</th><td><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Surinamese_people" title="Surinamese people">Surinamese</a> <br /><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Dutch_people" title="Dutch people">Dutch</a></td></tr><tr><th scope="row">Height</th><td>1.81&#160;m (5&#160;ft <span class="frac nowrap">11<span class="visualhide">&#160;</span><sup>1</sup>&#8260;<sub>2</sub></span>&#160;in)</td></tr><tr><th scope="row">Weight</th><td>76&#160;kg (168&#160;lb; 12.0&#160;st)</td></tr><tr><th scope="row">Division</th><td><a href="/wiki/Super_Middleweight" class="mw-redirect" title="Super Middleweight">Super Middleweight</a></td></tr><tr><th scope="row">Style</th><td><a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a>, <a href="/wiki/Muay_Thai" title="Muay Thai">Muay Thai</a></td></tr><tr><th scope="row">Stance</th><td><a href="/wiki/Orthodox_stance" title="Orthodox stance">Orthodox</a></td></tr><tr><th scope="row">Fighting out of</th><td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td></tr><tr><th scope="row">Team</th><td class="org">Gym Van De Vathorst</td></tr><tr><th scope="row">Trainer</th><td class="agent">Rick van de Vathorst</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background-color:#efefef"><a href="/wiki/Kickboxing" title="Kickboxing">Kickboxing</a> record</th></tr><tr><th scope="row" style="font-weight: normal"><b>Total</b></th><td>123</td></tr><tr><th scope="row" style="font-weight: normal"><b>Wins</b></th><td>102</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>34</td></tr><tr><th scope="row" style="font-weight: normal"><b>Losses</b></th><td>19</td></tr><tr><th scope="row" style="font-weight: normal">By&#160;knockout</th><td>4</td></tr><tr><th scope="row" style="font-weight: normal"><b>Draws</b></th><td>1</td></tr><tr><th scope="row" style="font-weight: normal"><b>No&#160;contests</b></th><td>1</td></tr><tr style="display:none"><td colspan="2">
-</td></tr><tr><td colspan="2" style="text-align:center"><div style="text-align: center;"><span style="font-size: 80%; font-weight: lighter; margin: 1em; color: #555;">last updated on: September 22, 2010</span></div></td></tr></tbody></table>
-<p><b>Rayen "Red Bean" Simson</b> (born May 22, 1972) is a <a href="/wiki/Suriname" title="Suriname">Surinamese</a>-<a href="/wiki/Netherlands" title="Netherlands">Dutch</a> former <a href="/wiki/Kickboxing_weight_classes" title="Kickboxing weight classes">super middleweight</a> <a href="/wiki/Muay_Thai" title="Muay Thai">Muay Thai</a> <a href="/wiki/Kickboxer" class="mw-redirect" title="Kickboxer">kickboxer</a>. He won 7 world titles in 3 different organizations and was ranked number 2 at the <a href="/wiki/Lumpinee_Boxing_Stadium" title="Lumpinee Boxing Stadium">Lumpinee Stadium</a>  - a notoriously difficult achievement for a <a href="/wiki/Farang" title="Farang">farang</a> fighter.  He has also won a European title, 2 Dutch titles and has won tournaments in <a href="/wiki/Shoot_Boxing" class="mw-redirect" title="Shoot Boxing">Shoot Boxing</a> and <a href="/wiki/K-1" title="K-1">K-1 MAX</a>.  During his career he has amassed over 100 wins and he holds notable victories over fighters such as <a href="/wiki/Ramon_Dekkers" title="Ramon Dekkers">Ramon Dekkers</a>, <a href="/wiki/Ashwin_Balrak" title="Ashwin Balrak">Ashwin Balrak</a> and <a href="/wiki/Faldir_Chahbari" title="Faldir Chahbari">Faldir Chahbari</a>.  He had his last ever fight in 2010.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the <a href="/wiki/Baildon" title="Baildon">Baildon</a> museum, see <a href="/wiki/Bracken_Hall_Countryside_Centre_and_Museum" title="Bracken Hall Countryside Centre and Museum">Bracken Hall Countryside Centre and Museum</a>.</div>
+<p class="mw-empty-elt">
+
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Biography_and_Career"><span class="tocnumber">1</span> <span class="toctext">Biography and Career</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Titles"><span class="tocnumber">2</span> <span class="toctext">Titles</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Kickboxing_record"><span class="tocnumber">3</span> <span class="toctext">Kickboxing record</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-</ul>
-</div>
-
-<h2><span class="mw-headline" id="Biography_and_Career">Biography and Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit&amp;section=1" title="Edit section: Biography and Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Rayen Simson entered his first major tournament in 1995 where he competed in the inaugural <a href="/wiki/Shoot_Boxing_World_Tournament_1995" title="Shoot Boxing World Tournament 1995">Shoot Boxing World Tournament 1995</a> in <a href="/wiki/Osaka,_Japan" class="mw-redirect" title="Osaka, Japan">Osaka, Japan</a>, along with eight other fighters from across the world.  The young Simson was unable to make much of an impact at the event, losing in the quarter final stage after a tough five round battle with <a href="/wiki/Thai_people" title="Thai people">Thai</a> Bovi Chorwaikan.  He returned to <a href="/wiki/Europe" title="Europe">Europe</a> where he won the W.P.K.L. European title and went on an impressive winning streak, culminating in a victory over the legendary <a href="/wiki/Ramon_Dekkers" title="Ramon Dekkers">Ramon Dekkers</a> in a memorable match in <a href="/wiki/Roosendaal" title="Roosendaal">Roosendaal</a> in 1997. Simson recovered from two knockdowns (one the famous double knockdown) to defeat Dekkers by <a href="/wiki/Technical_knockout" class="mw-redirect" title="Technical knockout">technical knockout</a> at the end of the second round.
-</p><p>His confidence high Simon headed back to <a href="/wiki/Japan" title="Japan">Japan</a> to participate in the <a href="/wiki/Shoot_Boxing_World_Tournament_1997" class="mw-redirect" title="Shoot Boxing World Tournament 1997">Shoot Boxing World Tournament 1997</a>, which he had qualified for by beating the ’95 finalist Roni Lewis the previous year. Simson defeated ’95 champion Hiromu Yoshitaka in the semi finals before defeating Mohamed Ouali in the final by <a href="/wiki/Unanimous_decision" title="Unanimous decision">unanimous decision</a> to claim his first major title.  Over the next few years he would win a number of fights before defeating Najim Ettouhlali in 1997 for the W.P.K.L European title and Hassan Ettaki in 1998 for the W.P.K.L. World title.  In 1999 Simson faced multiple <a href="/wiki/Muay_Thai" title="Muay Thai">Muay Thai</a> world champion and living legend <a href="/wiki/Ivan_Hippolyte" title="Ivan Hippolyte">Ivan Hippolyte</a> in the first of their two fights, inflicting a rare defeat on Hippolyte after five gruelling rounds.  The two fighters would meet again the next year in a rematch in what would be Hippolyte's last ever match.  This time Simson was unable to defeat Hippolyte, being knocked down in the third before withdrawing from the fight in the fourth due to a leg injury.
-</p><p>Simson would go back to winning ways at the start of the millennium, between 2000 and 2002 he won the <a href="/wiki/Netherlands" title="Netherlands">Dutch</a> national <a href="/wiki/Muay_Thai" title="Muay Thai">Muay Thai</a> title, the I.K.B.O World title and the 72.6 <a href="/wiki/Kg" class="mw-redirect" title="Kg">kg</a> version of his W.P.K.L World title against <a href="/wiki/Ashwin_Balrak" title="Ashwin Balrak">Ashwin Balrak</a>. Towards the end of 2002 he faced <a href="/wiki/Joerie_Mes" title="Joerie Mes">Joerie Mes</a> in Haarlem, Netherlands. Simson lost by <a href="/wiki/Technical_knockout" class="mw-redirect" title="Technical knockout">technical knockout</a> after being outworked by the relentless Mes over four rounds. This match would spark the beginning of a fierce rivalry between the two men – they would fight two more times, with Mes being something of a nemesis to Simson, winning all three times. In 2003 he would win the World Kickboxing Network (W.K.N.) World title in his native <a href="/wiki/Suriname" title="Suriname">Suriname</a> before making his K-1 debut at the K-1 Holland Grand Prix 2003, losing by decision to <a href="/wiki/Perry_Ubeda" title="Perry Ubeda">Perry Ubeda</a>. He would meet Ubeda several years later in 2005 in a losing bid for the World Full Contact Association (W.F.C.A.) 72.5&#160;kg title.
-</p><p>In 2006 Simson would return to <a href="/wiki/K-1" title="K-1">K-1</a> at the <a href="/wiki/K-1_MAX_Netherlands_2006_The_Road_to_Tokyo" class="mw-redirect" title="K-1 MAX Netherlands 2006 The Road to Tokyo">K-1 MAX Netherlands 2006</a> eight man tournament where the prize for winning was a reserve fight at the forthcoming K-1 MAX World Final. Simson booked his flight to <a href="/wiki/Tokyo" title="Tokyo">Tokyo</a> by defeating <a href="/wiki/Faldir_Chahbari" title="Faldir Chahbari">Faldir Chahbari</a> in the final by extra round decision.  He faced <a href="/wiki/Artur_Kyshenko" title="Artur Kyshenko">Artur Kyshenko</a> at the <a href="/wiki/K-1_World_MAX_2006_World_Championship_Final" title="K-1 World MAX 2006 World Championship Final">K-1 World MAX 2006 Final</a> but lost by third round <a href="/wiki/Majority" title="Majority">majority</a> decision, although the result would not mean overmuch as no injuries occurred during the final.  At the end of the year and after a nine-year absence, Simson was invited back to the S-Cup to take part in another reserve fight at the Shoot Boxing World Tournament 2006. The ’97 S-Cup winner won his bout against Koichi Kikuchi but would not have the chance to proceed as there were no injuries. This event would be his last major international tournament.
-</p><p>Between 2006 and 2009 Simson would enter several small tournaments in <a href="/wiki/Europe" title="Europe">Europe</a>, winning the TaoThai "Cosa Nostra" Kombat League in <a href="/wiki/Italy" title="Italy">Italy</a>. By this point, despite the odd victory, age was taking its toll and his career was winding to a close. In 2009 he faced Eugene Ekkelboom in <a href="/wiki/Montego_Bay,_Jamaica" class="mw-redirect" title="Montego Bay, Jamaica">Montego Bay, Jamaica</a> for Eugune’s W.M.C. Super Middleweight World title in what would be Simson's last title fight. Simson lost the bout by <a href="/wiki/Technical_knockout" class="mw-redirect" title="Technical knockout">technical knockout</a>, suffering an arm injury at the start of the fourth. In 2010 he had his final match at It's Showtime 2010 Amsterdam against <a href="/wiki/%C5%9Eahin_Yakut" title="Şahin Yakut">Şahin Yakut</a>, who was a replacement for his initial opponent Khalid Bourdif, who Simson had handpicked for his retirement match. Simson was unable to finish his career with a win, battling valiantly but ultimately losing by <a href="/wiki/Unanimous_decision" title="Unanimous decision">unanimous decision</a>.
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Brackenhall</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:BrackenhallEstate.jpg" class="image"><img alt="BrackenhallEstate.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/BrackenhallEstate.jpg/265px-BrackenhallEstate.jpg" decoding="async" width="265" height="168" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/BrackenhallEstate.jpg/398px-BrackenhallEstate.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/BrackenhallEstate.jpg/530px-BrackenhallEstate.jpg 2x" data-file-width="640" data-file-height="406" /></a><br />The Brackenhall estate during redevelopment in 2005</td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Brackenhall is located in West Yorkshire"><img alt="Brackenhall is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:64.167%;left:47.232%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Brackenhall" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Brackenhall" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Brackenhall</div></div></div></div><div>Location within <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>2,393&#160;<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">Metropolitan&#160;borough</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan&#160;county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">HUDDERSFIELD</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th><td><span style="font-size:100%;"><a href="/wiki/HD_postcode_area" title="HD postcode area">HD2</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th><td><span style="font-size:100%;">01484</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU&#160;Parliament</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Huddersfield_(UK_Parliament_constituency)" title="Huddersfield (UK Parliament constituency)">Huddersfield</a></li></ul></div></td></tr><tr><td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Yorkshire" title="List of places in Yorkshire">Yorkshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brackenhall&amp;params=53.672_N_1.771_W_region:GB_type:city(2393)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′19″N</span> <span class="longitude">1°46′16″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.672°N 1.771°W</span><span style="display:none">&#xfeff; / <span class="geo">53.672; -1.771</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Brackenhall&amp;params=53.672_N_1.771_W_region:GB_type:city(2393)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′19″N</span> <span class="longitude">1°46′16″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.672°N 1.771°W</span><span style="display:none">&#xfeff; / <span class="geo">53.672; -1.771</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Brackenhall</b> is a district of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> located 2 miles (3&#160;km) north of Huddersfield town centre between <a href="/wiki/Fixby" title="Fixby">Fixby</a> and <a href="/wiki/Sheepridge,_Huddersfield" title="Sheepridge, Huddersfield">Sheepridge</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The estate was created in the 1930s when Huddersfield Town Council moved all residents from the rundown homes in the city centre to new estate.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Since the 1960s, the estate was beset with social problems which culminated in a riot in July 1992 when police carried out a drugs raid there. The following night, 200 youths clashed with police and there were many injuries. This was one of the worst disturbances which occurred in a wave of rioting across Britain during the summer of 1992, with similar disturbances also taking place in towns including <a href="/wiki/Blackburn" title="Blackburn">Blackburn</a> and <a href="/wiki/Burnley" title="Burnley">Burnley</a> across the <a href="/wiki/Lancashire" title="Lancashire">Lancashire</a> border.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In 1997, the council bought out the pub and closed it down and then demolished some of the 1,050 homes on the estate, 20% of which were, at the time, unoccupied. The council entered into a public/private partnership with Southdale Homes and created new housing which benefitted from the locations proximity to the Fixby area, where house prices were more buoyant.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
 </p>
-<h2><span class="mw-headline" id="Titles">Titles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit&amp;section=2" title="Edit section: Titles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li>2007 Kombat League Champion</li>
-<li>2006 <a href="/wiki/K-1_MAX_Netherlands_2006_The_Road_to_Tokyo" class="mw-redirect" title="K-1 MAX Netherlands 2006 The Road to Tokyo">K-1 MAX Netherlands 2006 The Road to Tokyo</a> Champion</li>
-<li>2005 Rings Fight Gala Muaythai tournament champion -72.5&#160;kg<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
-<li>2003 W.K.N. World Champion -76.2&#160;kg</li>
-<li>2002 W.P.K.L. World Champion -76.2&#160;kg</li>
-<li>2001 I.K.B.O. World Champion</li>
-<li>2000 M.T.B.N. Dutch Champion</li>
-<li>1998 W.P.K.L. World Champion -72&#160;kg</li>
-<li>1997 W.P.K.L. European Champion -72&#160;kg</li>
-<li>1997 <a href="/wiki/Shoot_Boxing_World_Tournament_1997" class="mw-redirect" title="Shoot Boxing World Tournament 1997">Shoot Boxing World Tournament 1997</a> Champion</li>
-<li>1995 W.P.K.L. European Champion</li>
-<li>Ranked Number 2 at <a href="/wiki/Lumpinee_Boxing_Stadium" title="Lumpinee Boxing Stadium">Lumpinee Stadium</a></li></ul>
-<h2><span class="mw-headline" id="Kickboxing_record">Kickboxing record</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit&amp;section=3" title="Edit section: Kickboxing record">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table class="toccolours" width="98%" style="clear:both; margin:1.5em auto; font-size:85%; text-align:center;">
-
-<tbody><tr>
-<th colspan="2" style="background:#A9A9A9"><span style="color:white;">Kickboxing Record</span>
-</th></tr>
-<tr valign="top">
-<td><div class="NavFrame">
-<div class="NavHead" style="background:white;"><span style="color:black;">102 Wins (34 (T)KOs), 19 Losses, 1 Draw, 1 No Contest</span></div>
-<div class="NavContent" style="text-align:left; display:collapse;">
-<table class="wikitable" width="100%">
-
-<tbody><tr align="center" bgcolor="#dddddd">
-<td><b>Date</b></td>
-<td><b>Result</b></td>
-<td><b>Opponent</b></td>
-<td><b>Event</b></td>
-<td><b>Location</b></td>
-<td><b>Method</b></td>
-<td><b>Round</b></td>
-<td><b>Time</b>
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2010-05-29</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/%C5%9Eahin_Yakut" title="Şahin Yakut">Şahin Yakut</a></td>
-<td><a href="/wiki/It%27s_Showtime_2010_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2010 Amsterdam">It's Showtime 2010 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (5-0)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2009-06-26</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Australia" title="Australia"><img alt="Australia" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" /></a></span> Eugene Ekkelboom</td>
-<td>Champions of Champions 2</td>
-<td><a href="/wiki/Montego_Bay" title="Montego Bay">Montego Bay, Jamaica</a></td>
-<td>TKO (Arm Injury)</td>
-<td>4</td>
-<td>0:14
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Fight was for Ekkelboom's W.M.C. Super Middleweight World title.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2008-11-30</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Lamsongkram_Chuwattana" title="Lamsongkram Chuwattana">Lamsongkram Chuwattana</a></td>
-<td><a href="/wiki/SLAMM!!_Events" title="SLAMM!! Events">Slamm 5 "Nederland vs Thailand"</a></td>
-<td><a href="/wiki/Almere" title="Almere">Almere, Netherlands</a></td>
-<td>TKO (Doctor Stoppage)</td>
-<td>2</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2007-08-31</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Portugal" title="Portugal"><img alt="Portugal" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/35px-Flag_of_Portugal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/45px-Flag_of_Portugal.svg.png 2x" data-file-width="600" data-file-height="400" /></a></span> <a href="/wiki/Jos%C3%A9_Reis_(kickboxer)" title="José Reis (kickboxer)">José Reis</a></td>
-<td>Steko's Fight Night 25, Semi Finals</td>
-<td><a href="/wiki/Karlsruhe,_Germany" class="mw-redirect" title="Karlsruhe, Germany">Karlsruhe, Germany</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2008-03-15</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> <a href="/wiki/Dmitry_Shakuta" title="Dmitry Shakuta">Dmitry Shakuta</a></td>
-<td><a href="/wiki/Balans:_It%E2%80%99s_Showtime_75MAX_Trophy_Final_2008" class="mw-redirect" title="Balans: It’s Showtime 75MAX Trophy Final 2008">It's Showtime 75MAX Trophy 2008</a>, Quarter Finals</td>
-<td><a href="/wiki/%27s-Hertogenbosch" title="&#39;s-Hertogenbosch">'s-Hertogenbosch, Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-04-27</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Eddy Saban</td>
-<td>TaoThai "Cosa Nostra" Kombat League, Final</td>
-<td><a href="/wiki/Taormina" title="Taormina">Taormina, Italy</a></td>
-<td>TKO (Referee Stoppage, Knee)</td>
-<td>1</td>
-<td>
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins Kombat League 4-Man tournament -72.5kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-04-27</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> Matteo Sciacca</td>
-<td>TaoThai "Cosa Nostra" Kombat League, Semi Finals</td>
-<td><a href="/wiki/Taormina" title="Taormina">Taormina, Italy</a></td>
-<td>TKO (Referee Stoppage, Knee)</td>
-<td>2</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-03-24</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Turkey" title="Turkey"><img alt="Turkey" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/35px-Flag_of_Turkey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/45px-Flag_of_Turkey.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> Mesut Acikyol</td>
-<td><a href="/wiki/Fights_at_the_Border_presents:_It%27s_Showtime_Trophy_2007" class="mw-redirect" title="Fights at the Border presents: It&#39;s Showtime Trophy 2007">It's Showtime Trophy 2007</a></td>
-<td><a href="/wiki/Lommel,_Belgium" class="mw-redirect" title="Lommel, Belgium">Lommel, Belgium</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Qualifies for <a href="/wiki/Balans:_It%E2%80%99s_Showtime_75MAX_Trophy_Final_2008" class="mw-redirect" title="Balans: It’s Showtime 75MAX Trophy Final 2008">It's Showtime 75MAX Trophy 2008</a>.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2007-03-10</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Roberto_Cocco" title="Roberto Cocco">Roberto Cocco</a></td>
-<td>Steko's Fight Night 23, Final</td>
-<td><a href="/wiki/Munich,_Germany" class="mw-redirect" title="Munich, Germany">Munich, Germany</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Fight was for Kings of Kickboxing 2007 Munich preliminary tournament title -75kg.  Fails to qualify for Kings of Kickboxing Final to be held later that year.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-03-10</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Hungary" title="Hungary"><img alt="Hungary" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> István Tóth</td>
-<td>Steko's Fight Night 23, Semi Finals</td>
-<td><a href="/wiki/Munich,_Germany" class="mw-redirect" title="Munich, Germany">Munich, Germany</a></td>
-<td></td>
-<td></td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2007-04-27</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Samir Dourid</td>
-<td>Night of Pride</td>
-<td><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo, Suriname</a></td>
-<td>KO</td>
-<td>3</td>
-<td>
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Retains W.K.N. Muay Thai World title -76.2 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2006-12-09</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Faldir_Chahbari" title="Faldir Chahbari">Faldir Chahbari</a></td>
-<td></td>
-<td><a href="/wiki/Roosendaal" title="Roosendaal">Roosendaal, Netherlands</a></td>
-<td>TKO (Corner Stoppage)</td>
-<td>3</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2006-11-03</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Koichi Kikuchi</td>
-<td><a href="/wiki/Shoot_Boxing_World_Tournament_2006" class="mw-redirect" title="Shoot Boxing World Tournament 2006">S-Cup 2006</a>, Reserve Fight</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>Decision (Majority)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2006-06-30</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Ukraine" title="Ukraine"><img alt="Ukraine" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> <a href="/wiki/Artur_Kyshenko" title="Artur Kyshenko">Artur Kyshenko</a></td>
-<td><a href="/wiki/K-1_World_MAX_2006_World_Championship_Final" title="K-1 World MAX 2006 World Championship Final">K-1 World MAX 2006 Final</a>, Reserve Fight</td>
-<td><a href="/wiki/Yokohama,_Japan" class="mw-redirect" title="Yokohama, Japan">Yokohama, Japan</a></td>
-<td>Decision (Majority)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2006-03-26</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Faldir_Chahbari" title="Faldir Chahbari">Faldir Chahbari</a></td>
-<td><a href="/wiki/K-1_MAX_Netherlands_2006_The_Road_to_Tokyo" class="mw-redirect" title="K-1 MAX Netherlands 2006 The Road to Tokyo">K-1 MAX Netherlands 2006</a>, Final</td>
-<td><a href="/wiki/Utrecht,_Netherlands" class="mw-redirect" title="Utrecht, Netherlands">Utrecht, Netherlands</a></td>
-<td>Ext.R Decision</td>
-<td>4</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins K-1 MAX Netherlands 2006 and qualifies for a Reserve Fight at the <a href="/wiki/K-1_World_MAX_2006_World_Championship_Final" title="K-1 World MAX 2006 World Championship Final">K-1 World MAX 2006 Final</a>.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2006-03-26</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Ray Staring</td>
-<td><a href="/wiki/K-1_MAX_Netherlands_2006_The_Road_to_Tokyo" class="mw-redirect" title="K-1 MAX Netherlands 2006 The Road to Tokyo">K-1 MAX Netherlands 2006</a>, Semi Finals</td>
-<td><a href="/wiki/Utrecht,_Netherlands" class="mw-redirect" title="Utrecht, Netherlands">Utrecht, Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2006-03-26</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Junior Gonsalves</td>
-<td><a href="/wiki/K-1_MAX_Netherlands_2006_The_Road_to_Tokyo" class="mw-redirect" title="K-1 MAX Netherlands 2006 The Road to Tokyo">K-1 MAX Netherlands 2006</a>, Quarter Finals</td>
-<td><a href="/wiki/Utrecht,_Netherlands" class="mw-redirect" title="Utrecht, Netherlands">Utrecht, Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2005-12-11</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Imro Main</td>
-<td>Rings Fight Gala, Final</td>
-<td><a href="/wiki/Utrecht,_Netherlands" class="mw-redirect" title="Utrecht, Netherlands">Utrecht, Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins Rings Fight Gala Muaythai tournament -72.5 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2005-12-11</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Junior Gonsalves</td>
-<td>Rings Fight Gala, Semi Final</td>
-<td><a href="/wiki/Utrecht,_Netherlands" class="mw-redirect" title="Utrecht, Netherlands">Utrecht, Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2005-11-13</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Perry_Ubeda" title="Perry Ubeda">Perry Ubeda</a></td>
-<td>Time for Action</td>
-<td><a href="/wiki/Nijmegen,_Netherlands" class="mw-redirect" title="Nijmegen, Netherlands">Nijmegen, Netherlands</a></td>
-<td>Decision</td>
-<td>12</td>
-<td>2:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Fight was for vacant W.F.C.A. Full Contact World title -72.5 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#c5d2ea">
-<td>2005-10-29</td>
-<td>Draw</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Toshio Matsumoto</td>
-<td>No Kick, No Life</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>Decision Draw</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2005-10-02</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Croatia" title="Croatia"><img alt="Croatia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Emil_Zoraj" title="Emil Zoraj">Emil Zoraj</a></td>
-<td><a href="/wiki/It%27s_Showtime_75MAX_Trophy,_1st_Round_-_Tilburg" class="mw-redirect" title="It&#39;s Showtime 75MAX Trophy, 1st Round - Tilburg">It's Showtime 75 MAX Trophy Tilburg</a> Pool B Semi Finals</td>
-<td><a href="/wiki/Tilburg,_Netherlands" class="mw-redirect" title="Tilburg, Netherlands">Tilburg, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2005-06-12</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Joerie_Mes" title="Joerie Mes">Joerie Mes</a></td>
-<td><a href="/wiki/It%27s_Showtime_Boxing_%26_MMA_Event_2005_Amsterdam" class="mw-redirect" title="It&#39;s Showtime Boxing &amp; MMA Event 2005 Amsterdam">It's Showtime 2005 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2005-04-03</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Egypt" title="Egypt"><img alt="Egypt" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Amir_Zeyada" title="Amir Zeyada">Amir Zeyada</a></td>
-<td>Rings Muay Thai Gala</td>
-<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>TKO (Corner stoppage/towel)</td>
-<td>5</td>
-<td>
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2005-02-19</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Takaaki Nakamura</td>
-<td>Rising Sun - Muay Thai Gala</td>
-<td><a href="/wiki/Beilen" title="Beilen">Beilen, Netherlands</a></td>
-<td>Disqualification</td>
-<td>4</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2004-11-14</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Pajonsuk" class="mw-redirect" title="Pajonsuk">Pajonsuk</a></td>
-<td>Muay Thai/Mixed Fight Gala, Sporthal Stedenwijk</td>
-<td><a href="/wiki/Almere" title="Almere">Almere, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2004-05-20</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Leonard Sitpholek</td>
-<td><a href="/wiki/It%27s_Showtime_2004_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2004 Amsterdam">It's Showtime 2004 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#FFBBBB">
-<td>2003-11-30</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Vincent Vielvoye</td>
-<td>Killer Dome IV @ Bijlmer Sportcentrum</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2003-11-19</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> Denis Sharoykin</td>
-<td>Battle of Zaandam</td>
-<td><a href="/wiki/Zaandam" title="Zaandam">Zaandam</a>, <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr align="center" bgcolor="#CCFFCC">
-<td>2003-06-08</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Najim Ettouhlali</td>
-<td><a href="/wiki/It%27s_Showtime_2003_Amsterdam" class="mw-redirect" title="It&#39;s Showtime 2003 Amsterdam">It's Showtime 2003 Amsterdam</a></td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2003-04-06</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Perry_Ubeda" title="Perry Ubeda">Perry Ubeda</a></td>
-<td>K-1 Holland Grand Prix 2003</td>
-<td><a href="/wiki/Zoetermeer" title="Zoetermeer">Zoetermeer, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2003-03-16</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Joerie_Mes" title="Joerie Mes">Joerie Mes</a></td>
-<td>Victory or Hell</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2003</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> Laurent Periquet</td>
-<td></td>
-<td><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo, Suriname</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins W.K.N. Muay Thai World title -76.2 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#c5d2ea">
-<td>2002-11-29</td>
-<td>NC</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ashwin_Balrak" title="Ashwin Balrak">Ashwin Balrak</a></td>
-<td>W.P.K.L. Muay Thai Champions League VIII</td>
-<td><a href="/wiki/Rotterdam,_Netherlands" class="mw-redirect" title="Rotterdam, Netherlands">Rotterdam, Netherlands</a></td>
-<td>No Contest (Shoulder Injury)</td>
-<td>1</td>
-<td>
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Fight was for Simson's W.P.K.L. Muay Thai World title -76.2 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2002-09-29</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Joerie_Mes" title="Joerie Mes">Joerie Mes</a></td>
-<td><a href="/wiki/It%27s_Showtime_%E2%80%93_As_Usual_/_Battle_Time" class="mw-redirect" title="It&#39;s Showtime – As Usual / Battle Time">It's Showtime – As Usual / Battle Time</a></td>
-<td><a href="/wiki/Haarlem,_Netherlands" class="mw-redirect" title="Haarlem, Netherlands">Haarlem, Netherlands</a></td>
-<td>TKO (Corner Stoppage)</td>
-<td>4</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2002-03-18</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Suriname" title="Suriname"><img alt="Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ashwin_Balrak" title="Ashwin Balrak">Ashwin Balrak</a></td>
-<td>2Hot2Handle "Simply the Best" 4</td>
-<td><a href="/wiki/Rotterdam,_Netherlands" class="mw-redirect" title="Rotterdam, Netherlands">Rotterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins vacant W.P.K.L Muay Thai World title -76.2 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2001-05-06</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Tunisia" title="Tunisia"><img alt="Tunisia" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/35px-Flag_of_Tunisia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/45px-Flag_of_Tunisia.svg.png 2x" data-file-width="1200" data-file-height="800" /></a></span> Riad Rekhis</td>
-<td>Victory or Hell</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2001-03-18</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belarus" title="Belarus"><img alt="Belarus" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/35px-Flag_of_Belarus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/46px-Flag_of_Belarus.svg.png 2x" data-file-width="900" data-file-height="450" /></a></span> Sergei Karpin</td>
-<td>2H2H - Simply The Best</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>2000-10-22</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ivan_Hippolyte" title="Ivan Hippolyte">Ivan Hippolyte</a></td>
-<td><a href="/wiki/It%27s_Showtime_-_Exclusive" class="mw-redirect" title="It&#39;s Showtime - Exclusive">It's Showtime - Exclusive</a></td>
-<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>TKO (Leg Injury)</td>
-<td>4</td>
-<td>1:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2000-09-03</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> Kamal El Amrani</td>
-<td>Battle of Arnhem II</td>
-<td><a href="/wiki/Arnhem,_Netherlands" class="mw-redirect" title="Arnhem, Netherlands">Arnhem, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins I.K.B.O. World title.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>2000-05-20</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Peter Kley</td>
-<td>Thaiboxing - Thrill of the Year</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins M.T.B.N. Dutch title.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1999-10-24</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ivan_Hippolyte" title="Ivan Hippolyte">Ivan Hippolyte</a></td>
-<td><a href="/wiki/It%27s_Showtime_-_It%27s_Showtime" class="mw-redirect" title="It&#39;s Showtime - It&#39;s Showtime">It's Showtime - It's Showtime</a></td>
-<td><a href="/wiki/Haarlem,_Netherlands" class="mw-redirect" title="Haarlem, Netherlands">Haarlem, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>1999</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Yoddecha Sityodthong</td>
-<td></td>
-<td><a href="/wiki/Bangkok,_Thailand" class="mw-redirect" title="Bangkok, Thailand">Bangkok, Thailand</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1998-12-03</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Hassan Ettaki</td>
-<td>Night of the Superstars</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins Ettaki's W.P.K.L Muay Thai World title -72 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>1998-11-14</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Jomhod_Kiatadisak" title="Jomhod Kiatadisak">Jomhod Kiatadisak</a></td>
-<td>W.P.K.L. Muay Thai Champions League III, Semi Finals</td>
-<td><a href="/wiki/Amsterdam" title="Amsterdam">Amsterdam</a>, the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1998-05-23</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Croatia" title="Croatia"><img alt="Croatia" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/35px-Flag_of_Croatia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/46px-Flag_of_Croatia.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span> <a href="/wiki/Stjepan_Veselic" title="Stjepan Veselic">Stjepan Veselic</a></td>
-<td>W.P.K.L. Muay Thai Champions League II, Quarter Finals</td>
-<td><a href="/wiki/Roosendaal" title="Roosendaal">Roosendaal, the Netherlands</a></td>
-<td>KO</td>
-<td>1</td>
-<td>
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Qualifies for W.P.K.L. Muay Thai Champions League III, Semi Finals.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1998-05-23</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> Kamal El Amrani</td>
-<td>W.P.K.L. Muay Thai Champions League II, 1st Round</td>
-<td><a href="/wiki/Roosendaal" title="Roosendaal">Roosendaal, the Netherlands</a></td>
-<td>Decision</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1998</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Pajak Lek</td>
-<td></td>
-<td><a href="/wiki/Milan,_Italy" class="mw-redirect" title="Milan, Italy">Milan, Italy</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-12-13</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Najim Ettouhlali</td>
-<td>Thaiboxing Den Bosch</td>
-<td><a href="/wiki/Den_Bosch" class="mw-redirect" title="Den Bosch">Den Bosch, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins W.P.K.L Muay Thai European title -72 kg.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-11-10</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Nong Moon</td>
-<td>The Night of the New Generation</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>1997-06-01</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Hassan Ettaki</td>
-<td>Thaiboxing: Battle of Amsterdam</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>TKO</td>
-<td></td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-05-09</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Morocco" title="Morocco"><img alt="Morocco" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/35px-Flag_of_Morocco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/45px-Flag_of_Morocco.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Mohamed Ouali</td>
-<td><a href="/wiki/Shoot_Boxing_World_Tournament_1997" class="mw-redirect" title="Shoot Boxing World Tournament 1997">S-Cup 1997</a>, Final</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins Shoot Boxing World Tournament 1997.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-05-09</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Hiromu Yoshitaka</td>
-<td><a href="/wiki/Shoot_Boxing_World_Tournament_1997" class="mw-redirect" title="Shoot Boxing World Tournament 1997">S-Cup 1997</a>, Semi Finals</td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td></td>
-<td></td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-04-20</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Depjitak</td>
-<td>The Night of No Mercy</td>
-<td><a href="/wiki/Amsterdam,_Netherlands" class="mw-redirect" title="Amsterdam, Netherlands">Amsterdam, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1997-03-23</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Ramon_Dekkers" title="Ramon Dekkers">Ramon Dekkers</a></td>
-<td>Muay Thai Gala: The Night of War</td>
-<td><a href="/wiki/Roosendaal" title="Roosendaal">Roosendaal, Netherlands</a></td>
-<td>TKO (Corner Stoppage)</td>
-<td>2</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1996-10-07</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Jon Vargas</td>
-<td>Thaiboxing Imperium II</td>
-<td><a href="/wiki/Rotterdam,_Netherlands" class="mw-redirect" title="Rotterdam, Netherlands">Rotterdam, Netherlands</a></td>
-<td>KO</td>
-<td>1</td>
-<td>
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1996-07-14</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> Roni Lewis</td>
-<td><a href="/wiki/Shoot_Boxing_-_S-Cup_1996" class="mw-redirect" title="Shoot Boxing - S-Cup 1996">S-Cup 1996</a></td>
-<td><a href="/wiki/Tokyo,_Japan" class="mw-redirect" title="Tokyo, Japan">Tokyo, Japan</a></td>
-<td>Decision (Unanimous)</td>
-<td>3</td>
-<td>3:00
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Qualifies for <a href="/wiki/Shoot_Boxing_World_Tournament_1997" class="mw-redirect" title="Shoot Boxing World Tournament 1997">S-Cup 1997</a>.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1995</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/England" title="England"><img alt="England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> Chris Allen</td>
-<td></td>
-<td><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td>
-<td></td>
-<td></td>
-<td>
-</td></tr>
-<tr>
-<th style="background:white" colspan="9"><span style="font-size:85%;"> Wins W.P.K.L Muay Thai European title.</span>
-</th></tr>
-
-<tr align="center" bgcolor="#FFBBBB">
-<td>1995-01-31</td>
-<td>Loss</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Thailand" title="Thailand"><img alt="Thailand" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Bovi Chorwaikan</td>
-<td><a href="/wiki/Shoot_Boxing_World_Tournament_1995" title="Shoot Boxing World Tournament 1995">S-Cup 1995</a>, Quarter Finals</td>
-<td><a href="/wiki/Osaka,_Japan" class="mw-redirect" title="Osaka, Japan">Osaka, Japan</a></td>
-<td>2nd Ext.R Decision (Unanimous)</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1993-11-26</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Netherlands" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Alwen Lobles</td>
-<td>Thaiboxing gala, Houtrusthallen</td>
-<td><a href="/wiki/The_Hague,_Netherlands" class="mw-redirect" title="The Hague, Netherlands">The Hague, Netherlands</a></td>
-<td>Decision</td>
-<td>5</td>
-<td>3:00
-</td></tr>
-
-<tr align="center" bgcolor="#CCFFCC">
-<td>1993-01-29</td>
-<td>Win</td>
-<td align="left"><span class="flagicon"><a href="/wiki/Belgium" title="Belgium"><img alt="Belgium" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/35px-Flag_of_Belgium_%28civil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/45px-Flag_of_Belgium_%28civil%29.svg.png 2x" data-file-width="450" data-file-height="300" /></a></span> Lodewijk Vercounteren</td>
-<td>The Best of Best</td>
-<td><a href="/wiki/Best,_Netherlands" title="Best, Netherlands">Best, Netherlands</a></td>
-<td>KO</td>
-<td>2</td>
-<td>
-</td></tr>
-</tbody></table></div></div>
-<p><i><b>Legend</b></i>: <span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #CCFFCC; padding:1px .6em; background-color:#CCFFCC; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Win </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #FFBBBB; padding:1px .6em; background-color:#FFBBBB; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Loss </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #c5d2ea; padding:1px .6em; background-color:#c5d2ea; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Draw/No contest </span>
-<span style="margin:0; font-size:90%; white-space:nowrap;"><span class="legend-text" style="border:1px solid #AAAAAA; padding:1px .6em; background-color:White; color:black; font-size:95%; line-height:1.25; text-align:center;">&#160;</span>&#160;Notes </span>
-</p>
-</td></tr></tbody></table>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/List_of_male_kickboxers" title="List of male kickboxers">List of male kickboxers</a></li>
-<li><a href="/wiki/List_of_K-1_events" title="List of K-1 events">List of K-1 events</a></li>
-<li><a href="/wiki/Muay_thai" class="mw-redirect" title="Muay thai">Muay thai</a></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brackenhall&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ironlife.com/forum/showthread.php?t=31683">"Rayen Simson"</a>. Ironlife.com - Combat Sports and Fitness<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rayen+Simson&amp;rft.pub=Ironlife.com+-+Combat+Sports+and+Fitness&amp;rft_id=http%3A%2F%2Fwww.ironlife.com%2Fforum%2Fshowthread.php%3Ft%3D31683&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARayen+Simson" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://observatory.kirklees.gov.uk/profiles/profile?profileId=114&amp;geoTypeId=3&amp;geoIds=E01011105">"Kirklees LSOA overview profile"</a>. <i>kirklees.gov.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=kirklees.gov.uk&amp;rft.atitle=Kirklees+LSOA+overview+profile&amp;rft_id=http%3A%2F%2Fobservatory.kirklees.gov.uk%2Fprofiles%2Fprofile%3FprofileId%3D114%26geoTypeId%3D3%26geoIds%3DE01011105&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120310065436/http://www.nikko-sportsvideo.com/downloads/fightcards/FREE-22.pdf">"Free Fight Event XXII"</a> <span class="cs1-format">(PDF)</span>. www.nikko-sportsvideo.com. Archived from <a rel="nofollow" class="external text" href="http://www.nikko-sportsvideo.com/downloads/fightcards/FREE-22.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2012-03-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-06</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Free+Fight+Event+XXII&amp;rft.pub=www.nikko-sportsvideo.com&amp;rft_id=http%3A%2F%2Fwww.nikko-sportsvideo.com%2Fdownloads%2Ffightcards%2FFREE-22.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARayen+Simson" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation map">"288"  (Map). <i>Bradford &amp; Huddersfield</i>. 1:25,000. Explorer. Ordnance Survey. 2015. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780319244852" title="Special:BookSources/9780319244852"><bdi>9780319244852</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=288&amp;rft.btitle=Bradford+%26+Huddersfield&amp;rft.series=Explorer&amp;rft.pub=Ordnance+Survey&amp;rft.date=2015&amp;rft.isbn=9780319244852&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/bradford/content/articles/2006/10/16/brackenhall_ourhouse_feature.shtml">"No place like home?"</a>. <i>BBC Bradford &amp; West Yorkshire</i>. 24 October 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+Bradford+%26+West+Yorkshire&amp;rft.atitle=No+place+like+home%3F&amp;rft.date=2008-10-24&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fbradford%2Fcontent%2Farticles%2F2006%2F10%2F16%2Fbrackenhall_ourhouse_feature.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Pithers, Malcolm (24 July 1992). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/uk/drugs-raid-led-to-night-of-violence-1535057.html">"Drugs raid led to night of violence"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Drugs+raid+led+to+night+of+violence&amp;rft.date=1992-07-24&amp;rft.aulast=Pithers&amp;rft.aufirst=Malcolm&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fuk%2Fdrugs-raid-led-to-night-of-violence-1535057.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news">Conn, David (21 January 2006). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/finance/property/3347245/Public-and-private-make-perfect-partners.html">"Public and private make perfect partners"</a>. <i>The Telegraph</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Telegraph&amp;rft.atitle=Public+and+private+make+perfect+partners&amp;rft.date=2006-01-21&amp;rft.aulast=Conn&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Ffinance%2Fproperty%2F3347245%2FPublic-and-private-make-perfect-partners.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/west-yorkshire-news/final-stage-brackenhall-estate-regeneration-5000775">"Final stage of Brackenhall estate regeneration go-ahead"</a>. <i>Huddersfield Examiner</i>. 20 April 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">25 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Final+stage+of+Brackenhall+estate+regeneration+go-ahead&amp;rft.date=2010-04-20&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fwest-yorkshire-news%2Ffinal-stage-brackenhall-estate-regeneration-5000775&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABrackenhall" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Brackenhall&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.megalithic.co.uk/article.php?sid=691">Brackenhall Green</a></li></ul>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:West_Yorkshire_UK_locator_map_2010.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/32px-West_Yorkshire_UK_locator_map_2010.svg.png" decoding="async" width="32" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/48px-West_Yorkshire_UK_locator_map_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/64px-West_Yorkshire_UK_locator_map_2010.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></td><td><i>This <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Brackenhall&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:WestYorkshire-geo-stub" title="Template:WestYorkshire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:WestYorkshire-geo-stub" title="Template talk:WestYorkshire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:WestYorkshire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1271
-Cached time: 20190907132105
+Parsed by mw1336
+Cached time: 20190919152344
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.512 seconds
-Real time usage: 0.667 seconds
-Preprocessor visited node count: 7650/1000000
+CPU time usage: 0.384 seconds
+Real time usage: 0.491 seconds
+Preprocessor visited node count: 2430/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 51263/2097152 bytes
-Template argument size: 10127/2097152 bytes
-Highest expansion depth: 30/40
-Expensive parser function count: 0/500
+Post‐expand include size: 44036/2097152 bytes
+Template argument size: 8979/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 4/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 6045/5000000 bytes
-Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.162/10.000 seconds
-Lua memory usage: 5.2 MB/50 MB
+Unstrip post‐expand size: 17460/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.175/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  503.354      1 -total
- 44.96%  226.310      1 Template:Infobox_martial_artist
- 44.78%  225.390      2 Template:Infobox
- 34.45%  173.386     63 Template:Flagicon
- 21.30%  107.207      1 Template:Reflist
- 19.26%   96.949      2 Template:Cite_web
-  9.90%   49.841      1 Template:Height
-  7.47%   37.610      2 Template:Convert
-  5.19%   26.114      3 Template:Br_separated_entries
-  4.96%   24.959      1 Template:Infobox_person/height
+100.00%  451.844      1 -total
+ 46.90%  211.903      1 Template:Infobox_UK_place
+ 45.75%  206.714      2 Template:Infobox
+ 29.93%  135.239      1 Template:Reflist
+ 20.58%   92.991      1 Template:Cite_web
+ 11.00%   49.723     26 Template:Ubl
+ 10.53%   47.591      1 Template:For
+  6.53%   29.502      1 Template:Coord
+  6.28%   28.377      1 Template:Location_map
+  6.10%   27.540      1 Template:Use_British_English
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:28928121-0!canonical and timestamp 20190907132104 and revision id 903586680
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10351309-0!canonical and timestamp 20190919152344 and revision id 878617865
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rayen_Simson&amp;oldid=903586680">https://en.wikipedia.org/w/index.php?title=Rayen_Simson&amp;oldid=903586680</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Brackenhall&amp;oldid=878617865">https://en.wikipedia.org/w/index.php?title=Brackenhall&amp;oldid=878617865</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1972_births" title="Category:1972 births">1972 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Dutch_male_kickboxers" title="Category:Dutch male kickboxers">Dutch male kickboxers</a></li><li><a href="/wiki/Category:Surinamese_male_kickboxers" title="Category:Surinamese male kickboxers">Surinamese male kickboxers</a></li><li><a href="/wiki/Category:Middleweight_kickboxers" title="Category:Middleweight kickboxers">Middleweight kickboxers</a></li><li><a href="/wiki/Category:Dutch_Muay_Thai_practitioners" title="Category:Dutch Muay Thai practitioners">Dutch Muay Thai practitioners</a></li><li><a href="/wiki/Category:Surinamese_Muay_Thai_practitioners" title="Category:Surinamese Muay Thai practitioners">Surinamese Muay Thai practitioners</a></li><li><a href="/wiki/Category:Surinamese_emigrants_to_the_Netherlands" title="Category:Surinamese emigrants to the Netherlands">Surinamese emigrants to the Netherlands</a></li><li><a href="/wiki/Category:Sportspeople_from_Paramaribo" title="Category:Sportspeople from Paramaribo">Sportspeople from Paramaribo</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Huddersfield" title="Category:Geography of Huddersfield">Geography of Huddersfield</a></li><li><a href="/wiki/Category:West_Yorkshire_geography_stubs" title="Category:West Yorkshire geography stubs">West Yorkshire geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_July_2017" title="Category:Use British English from July 2017">Use British English from July 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2017" title="Category:Use dmy dates from July 2017">Use dmy dates from July 2017</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -906,13 +143,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rayen+Simson" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rayen+Simson" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Brackenhall" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Brackenhall" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rayen_Simson" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Rayen_Simson" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Brackenhall" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Brackenhall" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -927,7 +164,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rayen_Simson">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rayen_Simson&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rayen_Simson&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Brackenhall">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Brackenhall&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Brackenhall&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -966,28 +203,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rayen_Simson" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rayen_Simson" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rayen_Simson&amp;oldid=903586680" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rayen_Simson&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2520540" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rayen_Simson&amp;id=903586680" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Brackenhall" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Brackenhall" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Brackenhall&amp;oldid=878617865" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Brackenhall&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4953666" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Brackenhall&amp;id=878617865" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rayen+Simson">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rayen+Simson&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rayen_Simson&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Brackenhall">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Brackenhall&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Brackenhall&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Rayen_Simson" title="Rayen Simson – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A0%E3%82%BD%E3%83%B3" title="ライアン・シムソン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2520540#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4953666#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 26 June 2019, at 15:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 15 January 2019, at 22:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -998,7 +235,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rayen_Simson&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Brackenhall&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -1010,8 +247,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.667","ppvisitednodes":{"value":7650,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":51263,"limit":2097152},"templateargumentsize":{"value":10127,"limit":2097152},"expansiondepth":{"value":30,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6045,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  503.354      1 -total"," 44.96%  226.310      1 Template:Infobox_martial_artist"," 44.78%  225.390      2 Template:Infobox"," 34.45%  173.386     63 Template:Flagicon"," 21.30%  107.207      1 Template:Reflist"," 19.26%   96.949      2 Template:Cite_web","  9.90%   49.841      1 Template:Height","  7.47%   37.610      2 Template:Convert","  5.19%   26.114      3 Template:Br_separated_entries","  4.96%   24.959      1 Template:Infobox_person/height"]},"scribunto":{"limitreport-timeusage":{"value":"0.162","limit":"10.000"},"limitreport-memusage":{"value":5451967,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190907132105","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rayen Simson","url":"https:\/\/en.wikipedia.org\/wiki\/Rayen_Simson","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2520540","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2520540","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-09-23T17:07:18Z","dateModified":"2019-06-26T15:35:41Z","headline":"Surinamese kickboxer"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1257"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.384","walltime":"0.491","ppvisitednodes":{"value":2430,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":44036,"limit":2097152},"templateargumentsize":{"value":8979,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":17460,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  451.844      1 -total"," 46.90%  211.903      1 Template:Infobox_UK_place"," 45.75%  206.714      2 Template:Infobox"," 29.93%  135.239      1 Template:Reflist"," 20.58%   92.991      1 Template:Cite_web"," 11.00%   49.723     26 Template:Ubl"," 10.53%   47.591      1 Template:For","  6.53%   29.502      1 Template:Coord","  6.28%   28.377      1 Template:Location_map","  6.10%   27.540      1 Template:Use_British_English"]},"scribunto":{"limitreport-timeusage":{"value":"0.175","limit":"10.000"},"limitreport-memusage":{"value":3922356,"limit":52428800}},"cachereport":{"origin":"mw1336","timestamp":"20190919152344","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Brackenhall","url":"https:\/\/en.wikipedia.org\/wiki\/Brackenhall","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4953666","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4953666","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-29T17:30:44Z","dateModified":"2019-01-15T22:26:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/15\/BrackenhallEstate.jpg","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1238"});});</script>
 </body>
 </html>

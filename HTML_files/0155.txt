@@ -2,35 +2,36 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Chinese Surinamese - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chinese_Surinamese","wgTitle":"Chinese Surinamese","wgCurRevisionId":916959291,"wgRevisionId":916959291,"wgArticleId":30525726,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["\"Related ethnic groups\" needing confirmation","Articles using infobox ethnic group with image parameters","Asian Surinamese","Chinese diaspora by country","Ethnic groups in Suriname","Surinamese people of Chinese descent"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug",
-"Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chinese_Surinamese","wgRelevantArticleId":30525726,"wgRequestId":"XYqTSQpAAD0AAFYjjgAAAAAJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5100627","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready",
-"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
-"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Rasmussen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rasmussen","wgTitle":"Rasmussen","wgCurRevisionId":915406306,"wgRevisionId":915406306,"wgArticleId":2455783,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","All set index articles","Surnames","Danish-language surnames","Norwegian-language surnames","Patronymic surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rasmussen","wgRelevantArticleId":2455783,
+"wgRequestId":"XYopZgpAAEMAACXrs9AAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1634177","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading",
+"ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chinese_Surinamese"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chinese_Surinamese&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Chinese_Surinamese&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rasmussen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rasmussen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rasmussen&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Chinese_Surinamese"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rasmussen"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chinese_Surinamese rootpage-Chinese_Surinamese skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rasmussen rootpage-Rasmussen skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -39,7 +40,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Chinese Surinamese</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Rasmussen</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -50,373 +51,205 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><caption class="fn org">Chinese Surinamese people</caption><tbody><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Total population</th></tr><tr><td colspan="2" style="text-align:center">7,885 (2012)<sup id="cite_ref-auto_1-0" class="reference"><a href="#cite_note-auto-1">&#91;1&#93;</a></sup></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Regions with significant populations</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Paramaribo" title="Paramaribo">Paramaribo</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Wanica_District" title="Wanica District">Wanica</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Languages</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Hakka_Chinese" title="Hakka Chinese">Hakka Chinese</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Cantonese" title="Cantonese">Cantonese</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Mandarin_Chinese" title="Mandarin Chinese">Mandarin</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Dutch_language" title="Dutch language">Dutch</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Sranan_Tongo" title="Sranan Tongo">Sranan Tongo</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Religion</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Atheism" title="Atheism">No religion</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Christianity" title="Christianity">Christianity</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Chinese_folk_religion" title="Chinese folk religion">Chinese folk religion</a> (incl. <a href="/wiki/Taoism" title="Taoism">Taoism</a> and <a href="/wiki/Confucianism" title="Confucianism">Confucianism</a>)&#160;<b>&#183;</b>&#32;<a href="/wiki/Buddhism" title="Buddhism">Buddhism</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Hinduism" title="Hinduism">Hinduism</a>&#160;<b>&#183;</b>&#32;<a href="/wiki/Islam" title="Islam">Islam</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#b0c4de;">Related ethnic groups</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/Chinese_Caribbean" class="mw-redirect" title="Chinese Caribbean">Chinese Caribbean</a></td></tr></tbody></table>
-<p><b>Chinese Surinamese people</b> are <a href="/wiki/Suriname" title="Suriname">Surinamese</a> residents of  ethnic <a href="/wiki/Han_Chinese" title="Han Chinese">Chinese</a> origin. Chinese Surinamese are a small part of the <a href="/wiki/Surinamese_people" title="Surinamese people">Surinamese people</a>. There were 7,885 Chinese at the 2012 census,<sup id="cite_ref-auto_1-1" class="reference"><a href="#cite_note-auto-1">&#91;1&#93;</a></sup> constituting 1.5% of the total population. They constitute the largest component of the 'other' ethnic category, which makes up 2.3% of the population as per the CIA World Factbook.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The majority of the Chinese Surinamese consider <a href="/wiki/Hakka" class="mw-redirect" title="Hakka">Hakka</a> (<a href="/wiki/Dongguan" title="Dongguan">Dongguan</a>, <a href="/wiki/Huiyang" class="mw-redirect" title="Huiyang">Huiyang</a>, <a href="/wiki/Huizhou" title="Huizhou">Huizhou</a> or <a href="/wiki/Bao%27an_District" title="Bao&#39;an District">Bao'an</a>, <a href="/wiki/Shenzhen" title="Shenzhen">Shenzhen</a>) of <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a> as their <a href="/wiki/Ancestral_home_(Chinese)" title="Ancestral home (Chinese)">ancestral homes</a>. There is a small minority of <a href="/wiki/Heshan,_Guangdong" title="Heshan, Guangdong">Heshan</a>, <a href="/wiki/Jiangmen" title="Jiangmen">Jiangmen</a> origin Cantonese and Hakkas as well.
-</p><p>Many Chinese Surinamese are active in the retail and business community. Six percent of the Chinese in the <a href="/wiki/Netherlands" title="Netherlands">Netherlands</a> migrated from Suriname.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the surname. For other uses, see <a href="/wiki/Rasmussen_(disambiguation)" class="mw-disambig" title="Rasmussen (disambiguation)">Rasmussen (disambiguation)</a>.</div>
+<p>The surname <b>Rasmussen</b> or <b>Rasmusen</b> (<small>Danish pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Danish" title="Help:IPA/Danish">[ˈʁasmusn̩]</a></span>) is a <a href="/wiki/Denmark" title="Denmark">Danish</a> and <a href="/wiki/Norway" title="Norway">Norwegian</a> surname, meaning <i><a href="/wiki/Rasmus_(given_name)" title="Rasmus (given name)">Rasmus</a>' son</i>. It is the ninth-most-common <a href="/wiki/Surname" title="Surname">surname</a> in <a href="/wiki/Denmark" title="Denmark">Denmark</a>, shared by about 1.9% of the population.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>People with this name include:
 </p>
-<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<style data-mw-deduplicate="TemplateStyles:r886049878">.mw-parser-output .tocright{float:right;clear:right;width:auto;background:none;padding:.5em 0 .8em 1.4em;margin-bottom:.5em}.mw-parser-output .tocright-clear-left{clear:left}.mw-parser-output .tocright-clear-both{clear:both}.mw-parser-output .tocright-clear-none{clear:none}</style><div class="tocright" style=""><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Contract_workers"><span class="tocnumber">1.1</span> <span class="toctext">Contract workers</span></a></li>
-<li class="toclevel-2 tocsection-3"><a href="#Later_immigrants"><span class="tocnumber">1.2</span> <span class="toctext">Later immigrants</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-4"><a href="#Languages"><span class="tocnumber">2</span> <span class="toctext">Languages</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Religion"><span class="tocnumber">3</span> <span class="toctext">Religion</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#Notable_people"><span class="tocnumber">4</span> <span class="toctext">Notable people</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a></li>
-<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Arts_and_language"><span class="tocnumber">1</span> <span class="toctext">Arts and language</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Military"><span class="tocnumber">2</span> <span class="toctext">Military</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Politics_and_administration"><span class="tocnumber">3</span> <span class="toctext">Politics and administration</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Science,_engineering,_and_technology"><span class="tocnumber">4</span> <span class="toctext">Science, engineering, and technology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sports"><span class="tocnumber">5</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Other"><span class="tocnumber">6</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
 </ul>
 </div>
-
-<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<h3><span class="mw-headline" id="Contract_workers">Contract workers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=2" title="Edit section: Contract workers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
- <div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg/220px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg" decoding="async" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg/330px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg/440px-Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg 2x" data-file-width="700" data-file-height="560" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Tropenmuseum_Royal_Tropical_Institute_Objectnumber_60012337_Portret_van_een_Chinese_immigrantenfa.jpg" class="internal" title="Enlarge"></a></div>Southern Chinese migrant family</div></div></div>
-<p>In 1853, <a href="/wiki/Plantation" title="Plantation">planters</a> in Suriname feared a labor shortage when <a href="/wiki/Slavery" title="Slavery">slavery</a> was about to be abolished. They asked the government to recruit other workers from abroad.
-</p><p>The government of <a href="/wiki/Java" title="Java">Java</a> recruited a group of 18 Chinese for <a href="/wiki/Contract_labor" class="mw-redirect" title="Contract labor">contract labor</a> in the Catharina Sophia plantation in <a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca</a>. Because of the high acquisition costs, it was decided to get a second group, not from Java, but from <a href="/wiki/China" title="China">China</a> instead. In 1858, 500 Chinese laborers were recruited by the Dutch consul in <a href="/wiki/Macau" title="Macau">Macau</a>. 
-They arrived in Suriname in April, but it turned out that no one wanted to hire people to do work that slaves would do "for free".
-</p><p>Because of this, the <a href="/wiki/Contract" title="Contract">contract</a> with the Chinese was changed without their knowledge by <a href="/wiki/Governor" title="Governor">Governor</a> Charles Pierre Schimpf, in favor of the employers. The Chinese could now be treated like slaves. When they would revolt against this, they were, without due process and contrary to existing regulations, punished by police with cane strokes, an unlawful act that was repeated again and again.
-</p><p>An interpellation (formal request for information) to the Minister of Colonies <a href="/wiki/Jan_Jacob_Rochussen" title="Jan Jacob Rochussen">Jan Jacob Rochussen</a> did not help.
-</p><p>In the 1850s and 1860s, about 2,500 Chinese people went to Suriname. Most were employed as contract laborers on the plantations. After their contracts expired, many found opportunities in trade, mostly in food retail. Most of the male laborers were married to non-Chinese women. Those who married Chinese women, mostly married with an imported bride.
-</p>
-<h3><span class="mw-headline" id="Later_immigrants">Later immigrants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=3" title="Edit section: Later immigrants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p>Other Chinese came to Suriname as free laborers, traders and shop assistants, especially in the 1950s and 1960s. Further large numbers came in the 1990s. In 2007, there were over 70,000 Chinese in Suriname, and the <a href="/wiki/Immigration" title="Immigration">immigration</a> is still ongoing. The rapidly growing demand in China for wood and minerals makes Suriname very attractive to Chinese businesses. The new Chinese migrants from northern China are known in Suriname as "salt-water-Chinese".
-</p><p>Since the 1960s, thousands of Chinese have emigrated from Suriname to the Netherlands.
-</p><p>The Chinese held a prominent position in small and medium business for a long time, and their mostly well-educated offspring of mixed ancestry or Chinese ancestry can be found in various social sectors. Also, the Surinamese people have adopted several Chinese customs.
-</p>
-<h2><span class="mw-headline" id="Languages">Languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=4" title="Edit section: Languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>The original Chinese settlers were <a href="/wiki/Hakka_people" title="Hakka people">Hakka</a> from the Fuitungon region of <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a>;<sup id="cite_ref-Tjonspeakingp199_3-0" class="reference"><a href="#cite_note-Tjonspeakingp199-3">&#91;3&#93;</a></sup>
-Fui<sup>5</sup>tung<sup>1</sup>on<sup>1</sup> means three places: <a href="/wiki/Huiyang" class="mw-redirect" title="Huiyang">Huiyang</a>, <a href="/wiki/Huizhou" title="Huizhou">Huizhou</a> or Fui<sup>5</sup>jong<sup>2</sup>, <a href="/wiki/Dongguan" title="Dongguan">Dongguan</a> or tung<sup>1</sup>kon<sup>1</sup>, and <a href="/wiki/Bao%27an_County" title="Bao&#39;an County">Bao'an County</a>, <a href="/wiki/Shenzhen" title="Shenzhen">Shenzhen</a> or pau<sup>3</sup>on<sup>1</sup>,<sup id="cite_ref-Tjonspeakingp196_4-0" class="reference"><a href="#cite_note-Tjonspeakingp196-4">&#91;4&#93;</a></sup> <a href="/wiki/Hakka_language" class="mw-redirect" title="Hakka language">Hakka</a> was originally present and became the "old Chinese" of Guyana.<sup id="cite_ref-Tjonspeakingp199_3-1" class="reference"><a href="#cite_note-Tjonspeakingp199-3">&#91;3&#93;</a></sup> It was previously the only spoken <a href="/wiki/Variety_of_Chinese" class="mw-redirect" title="Variety of Chinese">variety of Chinese</a> in the country.<sup id="cite_ref-Tjonspeakingp201_5-0" class="reference"><a href="#cite_note-Tjonspeakingp201-5">&#91;5&#93;</a></sup> Paul Brendan Tjon Sie Fat of the <a href="/wiki/University_of_Amsterdam" title="University of Amsterdam">University of Amsterdam</a> stated that Hakka people in Suriname do not frequently voice negative attitudes towards the fact that Hakka has a lower status than <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> in Suriname.<sup id="cite_ref-Tjonspeakingp202_6-0" class="reference"><a href="#cite_note-Tjonspeakingp202-6">&#91;6&#93;</a></sup>
-</p><p>In the 1970s <a href="/wiki/Cantonese_language" class="mw-redirect" title="Cantonese language">Cantonese</a> was introduced into Suriname.<sup id="cite_ref-Tjonspeakingp201_5-1" class="reference"><a href="#cite_note-Tjonspeakingp201-5">&#91;5&#93;</a></sup> Beginning in the 1990s new migrants from China moved to Suriname,<sup id="cite_ref-Tjonspeakingp196_4-1" class="reference"><a href="#cite_note-Tjonspeakingp196-4">&#91;4&#93;</a></sup> and <a href="/wiki/Putonghua" class="mw-redirect" title="Putonghua">Putonghua</a>, during circa 2004-2014, became the main Chinese <a href="/wiki/Lingua_franca" title="Lingua franca">lingua franca</a> in the country.<sup id="cite_ref-Tjonspeakingp202_6-1" class="reference"><a href="#cite_note-Tjonspeakingp202-6">&#91;6&#93;</a></sup>
-</p><p>There are Mandarin and Cantonese television shows aired in Suriname.<sup id="cite_ref-Tjonspeakingp202_6-2" class="reference"><a href="#cite_note-Tjonspeakingp202-6">&#91;6&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Religion">Religion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=5" title="Edit section: Religion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div class="barbox tright" style="overflow-x: auto;">
-<div style="border:1px solid silver; font-size:88%; padding:0.4em; width:auto; background: white;">
-<table style="text-align:left; border-collapse:collapse; width:100%;">
-<tbody><tr style="background:#fcd116"><th style="text-align:center;" colspan="5">Religion<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></th></tr>
-<tr style="font-size:88%; height:4px;">
-<td style="padding:0 4px; text-align:left;">Religion</td>
-<td style="padding:0 4px; text-align:right;"></td>
-<td style="width:100px; text-align:left;"></td>
-<td style="padding:0 4px; width:1em; text-align:right;">Percent</td>
-<td style="padding:0 4px; text-align:right;"></td>
-</tr>
-<tr>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">No religion</td>
-<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Yellow; width:49%; overflow: hidden;">&#8201;</div></td>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">49%</td>
-</tr>
-<tr>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Christianity</td>
-<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Blue; width:27.4%; overflow: hidden;">&#8201;</div></td>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">27.4%</td>
-</tr>
-<tr>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Other Religion</td>
-<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Red; width:20%; overflow: hidden;">&#8201;</div></td>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">20%</td>
-</tr>
-<tr>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Hinduism</td>
-<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:Orange; width:2%; overflow: hidden;">&#8201;</div></td>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">2%</td>
-</tr>
-<tr>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; min-width: 8em;">Islam</td>
-<td style="width: 100px; border-left: solid 1px silver; border-right: solid 1px silver;"><div style="background:green; width:1.4%; overflow: hidden;">&#8201;</div></td>
-<td colspan="2" style="padding-left: 0.4em; padding-right: 0.4em; text-align: right;">1.4%</td>
-</tr>
-
-</tbody></table>
 </div>
-</div>
-<p>Most of the Chinese Surinamese are irreligious,with significant population adhering to Christianity.<a href="/wiki/Hinduism" title="Hinduism">Hinduism</a> and <a href="/wiki/Islam" title="Islam">Islam</a> are also followed in small number.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
-</p>
-<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=6" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Hendrick_Chin_A_Sen" title="Hendrick Chin A Sen">Hendrick Chin A Sen</a> 陈亚先, <a href="/wiki/President_of_Suriname" title="President of Suriname">President</a> and <a href="/wiki/Prime_Minister_of_Suriname" class="mw-redirect" title="Prime Minister of Suriname">Prime Minister of Suriname</a>, 1980-1982; Chin paternal side was Hakka Chinese and maternal side was mixed <a href="/wiki/Creole_peoples" title="Creole peoples">Creole</a></li>
-<li><a href="/wiki/Anton_Foek" title="Anton Foek">Anton Jie Sam Foek</a>, First broadcast correspondent for the Netherlands in Latin America</li>
-<li><a href="/w/index.php?title=Imro_Fong_Poen&amp;action=edit&amp;redlink=1" class="new" title="Imro Fong Poen (page does not exist)">Imro Fong Poen</a>, Cabinet Minister, 1980-1986</li>
-<li><a href="/wiki/Cerezo_Fung_a_Wing" title="Cerezo Fung a Wing">Cerezo Fung a Wing</a>, Football player</li>
-<li><a href="/wiki/Roy_Ho_Ten_Soeng" title="Roy Ho Ten Soeng">Roy Ho Ten Soeng</a>, Mayor of <a href="/wiki/Venhuizen" title="Venhuizen">Venhuizen</a>, <a href="/wiki/North_Holland" title="North Holland">North Holland</a>, 2000-2006; First immigrant Mayor of Netherlands; First Chinese Mayor of Netherlands and Europe</li>
-<li><a href="/wiki/Calvin_Jong-a-Pin" title="Calvin Jong-a-Pin">Calvin Jong-a-Pin</a>, Football player; Jong-a-Pin is of mixed ancestry</li>
-<li>Michael P. Jong Tjien Fa 杨进华, Cabinet Minister, 2002-2010</li>
-<li><a href="/w/index.php?title=Alwin_Lee&amp;action=edit&amp;redlink=1" class="new" title="Alwin Lee (page does not exist)">Alwin Lee</a>, Deputy Chief of Mission to <a href="/wiki/People%27s_Republic_of_China" class="mw-redirect" title="People&#39;s Republic of China">People's Republic of China</a>, 2012-</li>
-<li><a href="/w/index.php?title=Sandra_Lee_(Suriname_politician)&amp;action=edit&amp;redlink=1" class="new" title="Sandra Lee (Suriname politician) (page does not exist)">Sandra Lee</a> (Li Kailin), Member of the <a href="/wiki/National_Assembly_(Suriname)" title="National Assembly (Suriname)">National Assembly (Suriname)</a>; Politician from NPS political party</li>
-<li><a href="/w/index.php?title=Abigail_Lie_A_Kwie&amp;action=edit&amp;redlink=1" class="new" title="Abigail Lie A Kwie (page does not exist)">Abigail Lie A Kwie</a>, Deputy Minister of Agriculture; Politician from Pertjajah Luhur Party</li>
-<li><a href="/w/index.php?title=Allan_Li_Fo_Sjoe&amp;action=edit&amp;redlink=1" class="new" title="Allan Li Fo Sjoe (page does not exist)">Allan Li Fo Sjoe</a> 李火秀, Cabinet Minister, 1984-1988</li>
-<li><a href="/wiki/Guillaume_Lo-A-Njoe" title="Guillaume Lo-A-Njoe">Guillaume Lo-A-Njoe</a>, Artist</li>
-<li><a href="/wiki/Etienne_Shew-Atjon" title="Etienne Shew-Atjon">Etienne Shew-Atjon</a>, Football player</li>
-<li><a href="/wiki/Humberto_Tan" title="Humberto Tan">Humberto Tan</a>, Radio and television presenter, writer</li>
-<li><a href="/wiki/Tjin-A-Djie_family" title="Tjin-A-Djie family">Tjin-A-Djie family</a>, Influential tycoon family</li>
-<li><a href="/w/index.php?title=Arthur_Tjin_A_Tsoi&amp;action=edit&amp;redlink=1" class="new" title="Arthur Tjin A Tsoi (page does not exist)">Arthur Tjin A Tsoi</a>, Member of the <a href="/wiki/National_Assembly_(Suriname)" title="National Assembly (Suriname)">National Assembly (Suriname)</a>; Politician from NPS political party</li>
-<li><a href="/wiki/Renzo_Tjon-A-Joe" title="Renzo Tjon-A-Joe">Renzo Tjon-A-Joe</a>, swimmer</li>
-<li><a href="/wiki/Varina_Tjon-A-Ten" title="Varina Tjon-A-Ten">Varina Tjon-A-Ten</a>, First Chinese elected to the <a href="/wiki/House_of_Representatives_(Netherlands)" title="House of Representatives (Netherlands)">House of Representatives</a>, 2003-2006; Tjon-A-Ten is of mixed ancestry with paternal Hakka Chinese grandfather who migrated from Guangdong to Suriname</li>
-<li><a href="/wiki/Jair_Tjon_En_Fa" title="Jair Tjon En Fa">Jair Tjon En Fa</a>,  track cyclist</li>
-<li><a href="/w/index.php?title=Erik_Tjon_Kie_Sim&amp;action=edit&amp;redlink=1" class="new" title="Erik Tjon Kie Sim (page does not exist)">Erik Tjon Kie Sim</a> 张吉兴, Cabinet Minister, 1982-1986</li>
-<li><a href="/w/index.php?title=Jack_Tjon_Tjin_Joe&amp;action=edit&amp;redlink=1" class="new" title="Jack Tjon Tjin Joe (page does not exist)">Jack Tjon Tjin Joe</a> 张运华, Cabinet Minister, 1980-1981, 2000-2002</li>
-<li><a href="/wiki/Aron_Winter" title="Aron Winter">Aron Winter</a>, Member of Netherlands national football team that won the <a href="/wiki/1988_European_Football_Championship" class="mw-redirect" title="1988 European Football Championship">1988 European Football Championship</a>; Also represented Netherlands in the <a href="/wiki/European_Football_Championship" class="mw-redirect" title="European Football Championship">European Football Championship</a> for 1996 and 2000, and <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a>, 1990, 1994 and 1998; Winter is of mixed ancestry and his paternal grandfather, Zhang Junqiang, is Surinamese Hakka<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Arts_and_language">Arts and language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=1" title="Edit section: Arts and language">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Rasmussen_(singer)" title="Rasmussen (singer)">Rasmussen</a> (born 1985), Danish singer</li>
+<li><a href="/wiki/Alis_Rasmussen" class="mw-redirect" title="Alis Rasmussen">Alis Rasmussen</a> (born 1958), American writer known by the name Kate Elliott</li>
+<li><a href="/wiki/Anne_Rasmussen" title="Anne Rasmussen">Anne Rasmussen</a> (born 1959), American ethnomusicologist</li>
+<li><a href="/wiki/Bill_Rasmussen" title="Bill Rasmussen">Bill Rasmussen</a> (born 1932), American media figure, first president and CEO of ESPN</li>
+<li><a href="/wiki/Bruce_Rasmussen" title="Bruce Rasmussen">Bruce Rasmussen</a> (born 1961), American television producer</li>
+<li><a href="/wiki/Carmen_Rasmusen" title="Carmen Rasmusen">Carmen Rasmusen</a> (born 1985), Canadian-American singer</li>
+<li><a href="/wiki/Christina_Rasmussen" title="Christina Rasmussen">Christina Rasmussen</a> (born 1972), Greek–American crisis intervention counselor and author</li>
+<li><a href="/wiki/Egil_Rasmussen" title="Egil Rasmussen">Egil Rasmussen</a> (1903–1964), Norwegian author, literature critic and musician</li>
+<li><a href="/wiki/Eiler_Rasmussen_Eilersen" title="Eiler Rasmussen Eilersen">Eiler Rasmussen Eilersen</a> (1827–1912), Danish landscape artist</li>
+<li><a href="/wiki/Ejnar_Mindedal_Rasmussen" title="Ejnar Mindedal Rasmussen">Ejnar Mindedal Rasmussen</a> (1892–1975), Danish architect</li>
+<li><a href="/wiki/Flemming_Rasmussen" title="Flemming Rasmussen">Flemming Rasmussen</a> (born 1958), Danish music producer</li>
+<li><a href="/wiki/Halfdan_Rasmussen" title="Halfdan Rasmussen">Halfdan Rasmussen</a> (1915–2002), Danish poet</li>
+<li><a href="/wiki/Jens_Elmeg%C3%A5rd_Rasmussen" title="Jens Elmegård Rasmussen">Jens Elmegård Rasmussen</a> (born 1944), associate professor of Indo-European Studies at the University of Copenhagen</li>
+<li><a href="/wiki/Joel_Rasmussen" title="Joel Rasmussen">Joel Rasmussen</a> (born 1970), American film producer</li>
+<li><a href="/wiki/Karen-Lisbeth_Rasmussen" title="Karen-Lisbeth Rasmussen">Karen-Lisbeth Rasmussen</a> (born 1944), Danish ceramist and designer</li>
+<li><a href="/wiki/Karl_Aage_Rasmussen" title="Karl Aage Rasmussen">Karl Aage Rasmussen</a> (born 1947), Danish composer, writer and organizer</li>
+<li><a href="/wiki/Mary_Helen_Rasmussen" title="Mary Helen Rasmussen">Mary Helen Rasmussen</a> (1930–2008), American musicologist</li>
+<li><a href="/wiki/Nicolas_Rasmussen" title="Nicolas Rasmussen">Nicolas Rasmussen</a> (born 1962), French-born professor of history at the University of New South Wales</li>
+<li><a href="/wiki/Rie_Rasmussen" title="Rie Rasmussen">Rie Rasmussen</a>, (born 1978) Danish actress, model, director and photographer</li>
+<li><a href="/wiki/Scott_Rasmussen" title="Scott Rasmussen">Scott Rasmussen</a> (born 1956), American media figure with ESPN and polling company <a href="/wiki/Rasmussen_Reports" title="Rasmussen Reports">Rasmussen Reports</a></li>
+<li><a href="/wiki/Sigrid_Horne-Rasmussen" title="Sigrid Horne-Rasmussen">Sigrid Horne-Rasmussen</a> (1915–1982), Danish stage and film actress</li>
+<li><a href="/wiki/Steen_Eiler_Rasmussen" title="Steen Eiler Rasmussen">Steen Eiler Rasmussen</a> (1898–1990), Danish architect and town-planner</li>
+<li><a href="/wiki/Rasmus_Rasmussen_(actor)" title="Rasmus Rasmussen (actor)">Rasmus Rasmussen</a> (1862–1932), Norwegian actor and theatre director</li>
+<li><a href="/wiki/Rasmus_Rasmussen_(writer)" title="Rasmus Rasmussen (writer)">Rasmus Rasmussen</a> (1871–1962), Faroese writer</li>
+<li><a href="/wiki/Sunleif_Rasmussen" title="Sunleif Rasmussen">Sunleif Rasmussen</a> (born 1961), Faroese composer of classical music</li></ul>
+<h2><span class="mw-headline" id="Military">Military</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=2" title="Edit section: Military">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Phil_Rasmussen" title="Phil Rasmussen">Phil Rasmussen</a> (1918–2005), American military pilot stationed at Pearl Harbor during the 1941 Japanese attack</li>
+<li><a href="/wiki/Robert_L._Rasmussen" title="Robert L. Rasmussen">Robert L. Rasmussen</a> (born 1930), American military artist, former naval aviator</li>
+<li><a href="/wiki/Stefan_G._Rasmussen" title="Stefan G. Rasmussen">Stefan G. Rasmussen</a> (born 1947), Danish military and civilian pilot, known for SAS flight 751 crash-landing</li></ul>
+<h2><span class="mw-headline" id="Politics_and_administration">Politics and administration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=3" title="Edit section: Politics and administration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Amund_Rasmussen_Skarholt" title="Amund Rasmussen Skarholt">Amund Rasmussen Skarholt</a> (1892–1956), Norwegian politician for the Labour Party</li>
+<li><a href="/wiki/Anders_Fogh_Rasmussen" title="Anders Fogh Rasmussen">Anders Fogh Rasmussen</a> (born 1953), NATO General Secretary, former Prime Minister of Denmark</li>
+<li><a href="/wiki/Dan_Rasmussen" title="Dan Rasmussen">Dan Rasmussen</a> (born 1947), American politician, member of the Iowa House of Representatives</li>
+<li><a href="/wiki/David_Rasmussen_Hansen" class="mw-redirect" title="David Rasmussen Hansen">David Rasmussen Hansen</a> (born 1938), United States federal judge</li>
+<li><a href="/wiki/Dennis_F._Rasmussen" title="Dennis F. Rasmussen">Dennis F. Rasmussen</a> (born 1947), American politician</li>
+<li><a href="/wiki/Derek_Rasmussen" title="Derek Rasmussen">Derek Rasmussen</a>, former policy advisor for Nunavut Tunngavik Incorporated in Canada</li>
+<li><a href="/wiki/Einar_Normann_Rasmussen" title="Einar Normann Rasmussen">Einar Normann Rasmussen</a> (1907–1975), Norwegian politician for the Liberal Party</li>
+<li><a href="/wiki/Hjalte_Rasmussen" title="Hjalte Rasmussen">Hjalte Rasmussen</a> (1940–2012), Professor of European Union Law at the University of Copenhagen</li>
+<li><a href="/wiki/Holger_Rasmusen" title="Holger Rasmusen">Holger Rasmusen</a> (1894–1983), American politician</li>
+<li><a href="/wiki/Kapp_Rasmussen" title="Kapp Rasmussen">Kapp Rasmussen</a> (1860–1927), American politician</li>
+<li><a href="/wiki/Lars_L%C3%B8kke_Rasmussen" title="Lars Løkke Rasmussen">Lars Løkke Rasmussen</a> (born 1964), Prime Minister of Denmark, representing the Liberal Party Venstre</li>
+<li><a href="/wiki/Olav_Rasmussen_Langeland" title="Olav Rasmussen Langeland">Olav Rasmussen Langeland</a> (1904–1981), Norwegian politician for the Centre Party</li>
+<li><a href="/wiki/Poul_Nyrup_Rasmussen" title="Poul Nyrup Rasmussen">Poul Nyrup Rasmussen</a> (born 1943), MEP and President of the Party of European Socialists (PES), former Prime Minister of Denmark</li>
+<li><a href="/wiki/Stu_Rasmussen" title="Stu Rasmussen">Stu Rasmussen</a> (born 1948), American politician from the state of Oregon</li>
+<li><a href="/wiki/Tom_Rasmussen" title="Tom Rasmussen">Tom Rasmussen</a> (contemporary), former member of the Seattle City Council</li>
+<li><a href="/wiki/Wilkie_Rasmussen" title="Wilkie Rasmussen">Wilkie Rasmussen</a> (born 1958), Deputy Prime Minister of the <a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a></li></ul>
+<h2><span id="Science.2C_engineering.2C_and_technology"></span><span class="mw-headline" id="Science,_engineering,_and_technology">Science, engineering, and technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=4" title="Edit section: Science, engineering, and technology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/David_Tab_Rasmussen" title="David Tab Rasmussen">David Tab Rasmussen</a> (1958–2014), American biological anthropologist</li>
+<li><a href="/wiki/Erik_N._Rasmussen" title="Erik N. Rasmussen">Erik N. Rasmussen</a> (born 1957), American meteorologist and tornado researcher</li>
+<li><a href="/wiki/Greg_Rasmussen" title="Greg Rasmussen">Greg Rasmussen</a> (born 1955), British wildlife conservation biologist</li>
+<li><a href="/wiki/J%C3%B8rgen_Skafte_Rasmussen" title="Jørgen Skafte Rasmussen">Jørgen Skafte Rasmussen</a> (1878–1964), Danish engineer and industrialist</li>
+<li><a href="/wiki/Knud_Rasmussen" title="Knud Rasmussen">Knud Rasmussen</a> (1879–1933), Greenlandic polar explorer and anthropologist</li>
+<li><a href="/wiki/Lars_Rasmussen_(software_developer)" title="Lars Rasmussen (software developer)">Lars Rasmussen (software developer)</a>, creator of Google Maps and Google Wave</li>
+<li><a href="/wiki/Norman_Rasmussen" title="Norman Rasmussen">Norman Rasmussen</a> (1927–2003), American physicist</li>
+<li><a href="/wiki/Pamela_C._Rasmussen" title="Pamela C. Rasmussen">Pamela C. Rasmussen</a> (born 1959), American ornithologist and expert on Asian birds</li>
+<li><a href="/wiki/Steen_Rasmussen" title="Steen Rasmussen">Steen Rasmussen</a> (born 1955), Danish artificial life scientist working in the United States</li></ul>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=5" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Aage_Rasmussen" title="Aage Rasmussen">Aage Rasmussen</a> (1889–1983), Danish photographer and track and field athlete</li>
+<li><a href="/wiki/Alex_Rasmussen" title="Alex Rasmussen">Alex Rasmussen</a> (born 1984), Danish professional racing cyclist</li>
+<li><a href="/wiki/Allan_Stig_Rasmussen" title="Allan Stig Rasmussen">Allan Stig Rasmussen</a> (born 1983), Danish chess grandmaster</li>
+<li><a href="/wiki/Anders_Rasmussen" title="Anders Rasmussen">Anders Rasmussen</a> (born 1976), Danish professional football player</li>
+<li><a href="/wiki/Andreas_Rasmussen" title="Andreas Rasmussen">Andreas Rasmussen</a> (1893–1967), Danish field hockey player</li>
+<li><a href="/wiki/Bj%C3%B8rn_Rasmussen" title="Bjørn Rasmussen">Bjørn Rasmussen</a> (1885–1962), Danish football (soccer) player</li>
+<li><a href="/wiki/Blair_Rasmussen" title="Blair Rasmussen">Blair Rasmussen</a> (born 1962), American former professional basketball player</li>
+<li><a href="/wiki/Bruce_Rasmussen_(basketball)" title="Bruce Rasmussen (basketball)">Bruce Rasmussen (basketball)</a> (born 1950), American director of athletics at Creighton University</li>
+<li><a href="/wiki/Dale_Rasmussen" title="Dale Rasmussen">Dale Rasmussen</a> (born 1977), Samoan international rugby union player</li>
+<li><a href="/wiki/David_Rasmussen_(footballer)" title="David Rasmussen (footballer)">David Rasmussen</a> (born 1976), Danish retired football player</li>
+<li><a href="/wiki/Dawn_Rasmussen" title="Dawn Rasmussen">Dawn Rasmussen</a>, retired athlete and sports administrator from Samoa</li>
+<li><a href="/wiki/Dennis_Rasmussen_(baseball)" title="Dennis Rasmussen (baseball)">Dennis Rasmussen</a> (born 1959), American Major League Baseball pitcher</li>
+<li><a href="/wiki/Dorthe_Rasmussen" title="Dorthe Rasmussen">Dorthe Rasmussen</a> (born 1960), Danish long-distance runner</li>
+<li><a href="/wiki/Einar_Rasmussen" title="Einar Rasmussen">Einar Rasmussen</a> (born 1956), Norwegian sprint canoeist</li>
+<li><a href="/wiki/Eldon_Rasmussen" title="Eldon Rasmussen">Eldon Rasmussen</a> (born 1936), Canadian driver in the USAC Championship Car series</li>
+<li><a href="/wiki/Elton_Rasmussen" title="Elton Rasmussen">Elton Rasmussen</a> (1937–1978), Australian rugby league player</li>
+<li><a href="/wiki/Eric_Rasmussen" title="Eric Rasmussen">Eric Rasmussen</a> (born 1952), American retired professional baseball player</li>
+<li><a href="/wiki/Erik_Rasmussen_(ice_hockey)" title="Erik Rasmussen (ice hockey)">Erik Rasmussen (ice hockey)</a> (born 1977), American professional ice hockey player</li>
+<li><a href="/wiki/Erik_Rasmussen_(footballer)" title="Erik Rasmussen (footballer)">Erik Rasmussen (footballer)</a> (born 1960), Danish former football player and manager</li>
+<li><a href="/wiki/Erik_Rasmussen_(handballer)" class="mw-redirect" title="Erik Rasmussen (handballer)">Erik Rasmussen (handballer)</a> (born 1959), Danish former handball player</li>
+<li><a href="/wiki/Flint_Rasmussen" title="Flint Rasmussen">Flint Rasmussen</a> (born 1968), American rodeo clown in the sport of bull riding</li>
+<li><a href="/wiki/Flemming_Rasmussen_(strongman)" title="Flemming Rasmussen (strongman)">Flemming Rasmussen (strongman)</a> (born 1968), Danish former strongman</li>
+<li><a href="/wiki/Grace_Rasmussen" class="mw-redirect" title="Grace Rasmussen">Grace Rasmussen</a> (born 1988), New Zealand netball player</li>
+<li><a href="/wiki/Hans_Kjeld_Rasmussen" title="Hans Kjeld Rasmussen">Hans Kjeld Rasmussen</a> (born 1954), Danish sports shooter and Olympic champion</li>
+<li><a href="/wiki/Hans_Rasmussen" title="Hans Rasmussen">Hans Rasmussen</a>, (1895–1949), American professional baseball pitcher</li>
+<li><a href="/wiki/Hedevig_Rasmussen" title="Hedevig Rasmussen">Hedevig Rasmussen</a> (1902–1985), Danish freestyle swimmer who competed in the 1924 Summer Olympics</li>
+<li><a href="/wiki/Jens_Rasmussen_(speedway_rider)" title="Jens Rasmussen (speedway rider)">Jens Rasmussen (speedway rider)</a> (born 1959), former speedway rider who rode in the United Kingdom</li>
+<li><a href="/wiki/Johanna_Rasmussen" title="Johanna Rasmussen">Johanna Rasmussen</a> (born 1983), Danish female football striker</li>
+<li><a href="/wiki/John_Boye_Rasmussen" title="John Boye Rasmussen">John Boye Rasmussen</a> (born 1982), Danish handball player</li>
+<li><a href="/wiki/Jonas_Rasmussen" title="Jonas Rasmussen">Jonas Rasmussen</a> (born 1977), Danish badminton player</li>
+<li><a href="/wiki/J%C3%B8rgen_Rasmussen_(footballer,_born_1945)" title="Jørgen Rasmussen (footballer, born 1945)">Jørgen Rasmussen (footballer, born 1945)</a>, Danish footballer (defender)</li>
+<li><a href="/wiki/J%C3%B8rgen_Rasmussen_(footballer_born_1937)" class="mw-redirect" title="Jørgen Rasmussen (footballer born 1937)">Jørgen Rasmussen (footballer born 1937)</a>, Danish footballer (attacker)</li>
+<li><a href="/wiki/Juliane_Rasmussen" title="Juliane Rasmussen">Juliane Rasmussen</a> (born 1979), Danish rower</li>
+<li><a href="/wiki/Karen_Maud_Rasmussen" title="Karen Maud Rasmussen">Karen Maud Rasmussen</a> (1906–1994), Danish freestyle swimmer</li>
+<li><a href="/wiki/Karl_Johan_Rasmussen" title="Karl Johan Rasmussen">Karl Johan Rasmussen</a> (born 1973), Norwegian long-distance runner who specialized in marathon races</li>
+<li><a href="/wiki/Kemp_Rasmussen" title="Kemp Rasmussen">Kemp Rasmussen</a> (born 1979), American football defensive lineman in the NFL</li>
+<li><a href="/wiki/Kristen_Rasmussen" title="Kristen Rasmussen">Kristen Rasmussen</a> (born 1978), American former professional basketball player in the WNBA</li>
+<li><a href="/wiki/Kyle_Rasmussen" title="Kyle Rasmussen">Kyle Rasmussen</a> (born 1968), American former alpine ski racer</li>
+<li><a href="/wiki/Lars_Rasmussen_(handball_player)" class="mw-redirect" title="Lars Rasmussen (handball player)">Lars Rasmussen (handball player)</a> (born 1976), Danish team handball player</li>
+<li><a href="/wiki/Mads_Rasmussen" title="Mads Rasmussen">Mads Rasmussen</a> (born 1981), Danish rower and double World Champion in the Lightweight Double Sculls</li>
+<li><a href="/wiki/Marie_Rasmussen" title="Marie Rasmussen">Marie Rasmussen</a> (born 1972), Danish pole vaulter</li>
+<li><a href="/wiki/Mark_Rasmussen" title="Mark Rasmussen">Mark Rasmussen</a> (born 1983), English striker</li>
+<li><a href="/wiki/Michael_Rasmussen_(cyclist)" title="Michael Rasmussen (cyclist)">Michael Rasmussen</a> (born 1974), Danish cyclist</li>
+<li><a href="/wiki/Michael_Rasmussen_(ice_hockey)" title="Michael Rasmussen (ice hockey)">Michael Rasmussen (ice hockey)</a> (born 1999), Canadian professional hockey player</li>
+<li><a href="/wiki/Morten_Rasmussen_(football_defender)" class="mw-redirect" title="Morten Rasmussen (football defender)">Morten Rasmussen (football defender)</a> (born 1985), Danish professional football player</li>
+<li><a href="/wiki/Morten_Rasmussen_(football_striker)" class="mw-redirect" title="Morten Rasmussen (football striker)">Morten Rasmussen (football striker)</a> (born 1985), Danish professional football player</li>
+<li><a href="/wiki/Ole_Rasmussen_(footballer_born_1952)" class="mw-redirect" title="Ole Rasmussen (footballer born 1952)">Ole Rasmussen (footballer born 1952)</a>, Danish former football player with German club Hertha BSC</li>
+<li><a href="/wiki/Ole_Rasmussen_(footballer_born_1960)" class="mw-redirect" title="Ole Rasmussen (footballer born 1960)">Ole Rasmussen (footballer born 1960)</a>, Danish football manager and former player</li>
+<li><a href="/wiki/Peter_Rasmussen_(badminton)" title="Peter Rasmussen (badminton)">Peter Rasmussen (badminton)</a> (born 1974), Danish badminton player</li>
+<li><a href="/wiki/Peter_Rasmussen_(footballer,_born_1967)" title="Peter Rasmussen (footballer, born 1967)">Peter Rasmussen (footballer, born 1967)</a>, Danish international football (soccer) player</li>
+<li><a href="/wiki/Peter_Rasmussen_(footballer,_born_1969)" title="Peter Rasmussen (footballer, born 1969)">Peter Rasmussen (footballer, born 1969)</a>, Danish football player for AB</li>
+<li><a href="/wiki/Peter_Rasmussen_(referee)" title="Peter Rasmussen (referee)">Peter Rasmussen (referee)</a> (born 1975), Danish football referee</li>
+<li><a href="/wiki/Dupreeh" title="Dupreeh">Peter "dupreeh" Rasmussen</a> (born 1993), Danish professional CS:GO player</li>
+<li><a href="/wiki/Philip_Rasmussen" title="Philip Rasmussen">Philip Rasmussen</a> (born 1989), Danish professional football midfielder</li>
+<li><a href="/wiki/Rachel_Rasmussen" title="Rachel Rasmussen">Rachel Rasmussen</a> (born 1984), New Zealand netball player in the ANZ Championship</li>
+<li><a href="/wiki/Randy_Rasmussen" title="Randy Rasmussen">Randy Rasmussen</a>, American football guard for fifteen seasons for the New York Jets</li>
+<li><a href="/wiki/Rasmus_Rasmussen_(gymnast)" title="Rasmus Rasmussen (gymnast)">Rasmus Rasmussen</a> (1899–1974), Danish gymnast who competed in the 1920 Summer Olympics</li>
+<li><a href="/wiki/Steffen_Rasmussen" title="Steffen Rasmussen">Steffen Rasmussen</a> (born 1982), Danish professional football goalkeeper</li>
+<li><a href="/wiki/Theis_F._Rasmussen" title="Theis F. Rasmussen">Theis F. Rasmussen</a> (born 1984), Danish football goalkeeper</li>
+<li><a href="/wiki/Thomas_Rasmussen" title="Thomas Rasmussen">Thomas Rasmussen</a> (born 1977), Danish professional football (soccer) player</li>
+<li><a href="/wiki/Tine_Rasmussen" class="mw-redirect" title="Tine Rasmussen">Tine Rasmussen</a> (born 1979), female badminton player from Denmark</li>
+<li><a href="/wiki/Troels_Rasmussen" title="Troels Rasmussen">Troels Rasmussen</a> (born 1961), Danish former football (soccer) player</li>
+<li><a href="/wiki/Viktor_Rasmussen" title="Viktor Rasmussen">Viktor Rasmussen</a> (1882–1956), Danish gymnast</li>
+<li><a href="/wiki/Wayne_Rasmussen" title="Wayne Rasmussen">Wayne Rasmussen</a> (born 1942), American football player</li>
+<li><a href="/wiki/Willy_Rasmussen" title="Willy Rasmussen">Willy Rasmussen</a> (1937–2018), Norwegian javelin thrower</li></ul>
+<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=6" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Jesper_Rasmussen_Brochmand" class="mw-redirect" title="Jesper Rasmussen Brochmand">Jesper Rasmussen Brochmand</a> (1585–1652), Danish Lutheran clergyman, Bishop of Zealand</li>
+<li><a href="/wiki/J%C3%B8rgen_Guldborg-Rasmussen" title="Jørgen Guldborg-Rasmussen">Jørgen Guldborg-Rasmussen</a>, Danish scouting figure</li>
+<li><a href="/wiki/Murder_of_Sherri_Rasmussen" title="Murder of Sherri Rasmussen">Sherri Rasmussen</a> (1957–1986), American nurse killed by a police officer who had once dated her husband</li>
+<li><a href="/wiki/Terry_Peder_Rasmussen" title="Terry Peder Rasmussen">Terry Peder Rasmussen</a> (1943–2010), American suspected serial killer involved in the Bear Brook murders</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rasmussen&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-auto-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://unstats.un.org/unsd/demographic/sources/census/2010_PHC/Suriname/SUR-Census2012-vol1.pdf">"Censusstatistieken 2012"</a> <span class="cs1-format">(PDF)</span>. <i>Algemeen Bureau voor de Statistiek in Suriname (General Statistics Bureau of Suriname)</i>. p.&#160;76.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Algemeen+Bureau+voor+de+Statistiek+in+Suriname+%28General+Statistics+Bureau+of+Suriname%29&amp;rft.atitle=Censusstatistieken+2012&amp;rft.pages=76&amp;rft_id=http%3A%2F%2Funstats.un.org%2Funsd%2Fdemographic%2Fsources%2Fcensus%2F2010_PHC%2FSuriname%2FSUR-Census2012-vol1.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+Surinamese" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
-</li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.cia.gov/library/publications/the-world-factbook/geos/ns.html">"The World Factbook — Central Intelligence Agency"</a>. <i>www.cia.gov</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cia.gov&amp;rft.atitle=The+World+Factbook+%E2%80%94+Central+Intelligence+Agency&amp;rft_id=https%3A%2F%2Fwww.cia.gov%2Flibrary%2Fpublications%2Fthe-world-factbook%2Fgeos%2Fns.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+Surinamese" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
-</li>
-<li id="cite_note-Tjonspeakingp199-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tjonspeakingp199_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tjonspeakingp199_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tjon Sie Fat, "They Might as Well Be Speaking Chinese," p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=E3WjBQAAQBAJ&amp;pg=PA199">199</a>.</span>
-</li>
-<li id="cite_note-Tjonspeakingp196-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tjonspeakingp196_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tjonspeakingp196_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tjon, "They Might as Well Be Speaking Chinese," p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=E3WjBQAAQBAJ&amp;pg=PA196">196</a>.</span>
-</li>
-<li id="cite_note-Tjonspeakingp201-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tjonspeakingp201_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tjonspeakingp201_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Tjon, "They Might as Well Be Speaking Chinese," p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=E3WjBQAAQBAJ&amp;pg=PA201">201</a>.</span>
-</li>
-<li id="cite_note-Tjonspeakingp202-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Tjonspeakingp202_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Tjonspeakingp202_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Tjonspeakingp202_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Tjon Sie Fat, "They Might as Well Be Speaking Chinese," p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=E3WjBQAAQBAJ&amp;pg=PA202">202</a>.</span>
-</li>
-<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf">https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf</a></span>
-</li>
-<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf">https://unstats.un.org/unsd/demographic/sources/census/wphc/Suriname/SUR-Census2012-vol1.pdf</a></span>
-</li>
-<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.china.org.cn/sports/2009-03/23/content_17487173.htm">"World sport stars of Chinese origin"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=World+sport+stars+of+Chinese+origin&amp;rft_id=http%3A%2F%2Fwww.china.org.cn%2Fsports%2F2009-03%2F23%2Fcontent_17487173.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+Surinamese" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.dst.dk/Statistik/Navne/pop/2009.aspx">[1]</a> Statistics Denmark</span>
 </li>
 </ol></div></div>
-<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=8" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<dl><dt>Articles</dt></dl>
-<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
-<ul><li>Tseng, F., <i>De grote oversteek: het lot van de Surinaamse Chinezen</i>, China Nu 16 (4), 1991, 16-18.</li></ul>
-</div>
-<dl><dt>Books</dt></dl>
-<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047268"/><div class="refbegin" style="">
-<ul><li>Ankum-Houwink, J.C., <i>De migratie van Chinezen naar Suriname</i>, (z.p. ca. 1972).</li>
-<li>Ankum-Houwink, J.C., <i>Chinese kontraktarbeiders in Suriname in de 19e eeuw</i>, OSO, 4 (2), 1985, 181-186.</li>
-<li>Groenfelt, E., <i>Impressies van de Chinese gemeenschap in Suriname: enkele culturele aspecten van Chinezen in Suriname</i>, (z.p.&#160;1995).</li>
-<li><a href="/wiki/Anton_de_Kom" title="Anton de Kom">Kom, Anton de</a>, <i>Wij slaven van Suriname</i>, 1934</li>
-<li>Lamur, H.E., en J.A. Vriezen, <i>Chinese kontraktanten in Suriname</i>, OSO, 4 (2), 1985, 169-179.</li>
-<li>Man A Hing, W.L., <i>The Hakkas in Surinam</i>, in: The proceedings of the international conference on Hakkaology, (Hong Kong 1994), 189-195.</li>
-<li>Tjon Sie Fat, Paul B. <i>Chinese New Migrants in Suriname: The Inevitability of Ethnic Performing</i> (UvA Proefschriften Series). <a href="/wiki/Amsterdam_University_Press" title="Amsterdam University Press">Amsterdam University Press</a>, September 1, 2009. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9056295985" title="Special:BookSources/9056295985">9056295985</a>, 9789056295981. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=c73PGD1AcxIC&amp;dq=Chinese+Suriname&amp;source=gbs_navlinks_s">Link at</a> <a href="/wiki/Google_Books" title="Google Books">Google Books</a>.</li>
-<li>Tjon Sie Fat, Paul B. "Old and New Chinese Organizations in Suriname" (Part IV: Chinese Migration in Other Countries: Chapter 12). In: Zhang, Jijiao and Howard Duncan. <i>Migration in China and Asia: Experience and Policy</i> (Volume 10 of International Perspectives on Migration). <a href="/wiki/Springer_Science_%26_Business_Media" class="mw-redirect" title="Springer Science &amp; Business Media">Springer Science &amp; Business Media</a>, April 8, 2014. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/940178759X" title="Special:BookSources/940178759X">940178759X</a>, 9789401787598. Start p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=GQjFBAAAQBAJ&amp;pg=PA189">189</a>.</li>
-<li>Tjon Sie Fat, Paul B. "They Might as Well Be Speaking Chinese: The Changing Chinese Linguistic Situation in Suriname under New Migration." In: Carlin, Eithne B., Isabelle Léglise, Bettina Migge, and Paul B. Tjon Sie Fat. <i>In and Out of Suriname: Language, Mobility and Identity</i> (Caribbean Series). <a href="/wiki/Brill_Publishers" title="Brill Publishers">Brill Publishers</a>, November 28, 2014. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/900428012X" title="Special:BookSources/900428012X">900428012X</a>, 9789004280120. Start p. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=E3WjBQAAQBAJ&amp;pg=PA196&amp;dq=Chinese+Suriname&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi18f6fm7HJAhUW22MKHZroAY4Q6AEIKTAC#v=onepage&amp;q=Chinese%20Suriname&amp;f=false">196</a>.</li>
-<li><a href="/w/index.php?title=Govert_Zijlmans&amp;action=edit&amp;redlink=1" class="new" title="Govert Zijlmans (page does not exist)">Zijlmans, G.C.</a> en <a href="/w/index.php?title=Hugo_Alwin_Enser&amp;action=edit&amp;redlink=1" class="new" title="Hugo Alwin Enser (page does not exist)">H.A. Enser</a>, <i>De Chinezen in Suriname. een geschiedenis van immigratie en aanpassing 1853-2000</i>, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-806479-3-4" title="Special:BookSources/90-806479-3-4">90-806479-3-4</a>.</li></ul>
-</div>
-<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100716184302/http://www.nationaalarchief.nl/suriname/base_china/achtergrondinfo/inleiding.html">National Archives information about the Chinese in Suriname</a></li></ul>
-<div role="navigation" class="navbox" aria-labelledby="Overseas_Chinese" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Overseas_Chinese" title="Template:Overseas Chinese"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Overseas_Chinese" title="Template talk:Overseas Chinese"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Overseas_Chinese&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Overseas_Chinese" style="font-size:114%;margin:0 4em"><a href="/wiki/Overseas_Chinese" title="Overseas Chinese">Overseas Chinese</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Algeria" title="Chinese people in Algeria">Algeria</a></li>
-<li><a href="/wiki/Chinese_people_in_Egypt" title="Chinese people in Egypt">Egypt</a></li>
-<li><a href="/wiki/Chinese_people_in_Libya" title="Chinese people in Libya">Libya</a></li>
-<li><a href="/wiki/Chinese_people_in_Morocco" title="Chinese people in Morocco">Morocco</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Cape_Verde" title="Chinese people in Cape Verde">Cape Verde</a></li>
-<li><a href="/wiki/Chinese_people_in_Ghana" title="Chinese people in Ghana">Ghana</a></li>
-<li><a href="/wiki/Chinese_people_in_Mali" title="Chinese people in Mali">Mali</a></li>
-<li><a href="/wiki/Chinese_people_in_Nigeria" title="Chinese people in Nigeria">Nigeria</a></li>
-<li><a href="/wiki/Chinese_people_in_Senegal" title="Chinese people in Senegal">Senegal</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Ethiopia" title="Chinese people in Ethiopia">Ethiopia</a></li>
-<li><a href="/wiki/Chinese_people_in_Kenya" title="Chinese people in Kenya">Kenya</a></li>
-<li><a href="/wiki/Chinese_people_in_Tanzania" title="Chinese people in Tanzania">Tanzania</a></li>
-<li><a href="/wiki/Chinese_people_in_Uganda" title="Chinese people in Uganda">Uganda</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Central</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Cameroon" title="Chinese people in Cameroon">Cameroon</a></li>
-<li><a href="/wiki/Chinese_people_in_the_DRC" title="Chinese people in the DRC">Democratic Republic of Congo</a></li>
-<li><a href="/wiki/Chinese_people_in_the_Republic_of_Congo" title="Chinese people in the Republic of Congo">Republic of Congo</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Angola" title="Chinese people in Angola">Angola</a></li>
-<li><a href="/wiki/Chinese_people_in_Botswana" title="Chinese people in Botswana">Botswana</a></li>
-<li><a href="/wiki/Chinese_people_in_Lesotho" title="Chinese people in Lesotho">Lesotho</a></li>
-<li><a href="/wiki/Chinese_people_in_Madagascar" title="Chinese people in Madagascar">Madagascar</a></li>
-<li><a href="/wiki/Chinese_people_in_Malawi" title="Chinese people in Malawi">Malawi</a></li>
-<li><a href="/wiki/Sino-Mauritian" class="mw-redirect" title="Sino-Mauritian">Mauritius</a></li>
-<li><a href="/wiki/Ethnic_Chinese_in_Mozambique" title="Ethnic Chinese in Mozambique">Mozambique</a></li>
-<li><a href="/wiki/Chinese_people_in_Namibia" title="Chinese people in Namibia">Namibia</a></li>
-<li><i><a href="/wiki/Chinois_(R%C3%A9union)" title="Chinois (Réunion)">Réunion</a></i><sup><small>1</small></sup></li>
-<li><a href="/wiki/Sino-Seychellois" title="Sino-Seychellois">Seychelles</a></li>
-<li><a href="/wiki/Chinese_South_Africans" title="Chinese South Africans">South Africa</a></li>
-<li><a href="/wiki/Chinese_people_in_Zambia" title="Chinese people in Zambia">Zambia</a></li>
-<li><a href="/wiki/Chinese_people_in_Zimbabwe" title="Chinese people in Zimbabwe">Zimbabwe</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Americas</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chinese_Caribbean" class="mw-redirect" title="Chinese Caribbean">Caribbean</a><b>*</b></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Ethnic_Chinese_in_Belize" title="Ethnic Chinese in Belize">Belize</a></li>
-<li><a href="/wiki/Chinese_Cuban" class="mw-redirect" title="Chinese Cuban">Cuba</a></li>
-<li><a href="/wiki/Ethnic_Chinese_in_the_Dominican_Republic" title="Ethnic Chinese in the Dominican Republic">Dominican Republic</a></li>
-<li><a href="/wiki/Chinese_Guyanese" title="Chinese Guyanese">Guyana</a></li>
-<li><a href="/wiki/Chinese_Haitian" class="mw-redirect" title="Chinese Haitian">Haiti</a></li>
-<li><a href="/wiki/Chinese_Jamaicans" title="Chinese Jamaicans">Jamaica</a></li>
-<li><a href="/wiki/Chinese_immigration_to_Puerto_Rico" title="Chinese immigration to Puerto Rico">Puerto Rico</a></li>
-<li><a class="mw-selflink selflink">Suriname</a></li>
-<li><a href="/wiki/Chinese_Trinidadian_and_Tobagonian" title="Chinese Trinidadian and Tobagonian">Trinidad and Tobago</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">North America</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_Canadian" class="mw-redirect" title="Chinese Canadian">Canada</a>
-<ul><li><small><a href="/wiki/Hong_Kong_Canadian" class="mw-redirect" title="Hong Kong Canadian">from Hong Kong</a></small></li>
-<li><small><a href="/wiki/Taiwanese_Canadian" class="mw-redirect" title="Taiwanese Canadian">from Taiwan</a></small></li>
-<li><a href="/wiki/Chinese_Canadians_in_British_Columbia" title="Chinese Canadians in British Columbia">British Columbia</a> (<a href="/wiki/Chinese_Canadians_in_Greater_Vancouver" title="Chinese Canadians in Greater Vancouver">Vancouver</a>)</li>
-<li><a href="/wiki/Chinese_Canadians_in_the_Greater_Toronto_Area" title="Chinese Canadians in the Greater Toronto Area">Toronto</a></li></ul></li>
-<li><a href="/wiki/Chinese_immigration_to_Mexico" title="Chinese immigration to Mexico">Mexico</a></li>
-<li><a href="/wiki/Chinese_Americans" title="Chinese Americans">United States</a>
-<ul><li><small><a href="/wiki/Hong_Kong_American" class="mw-redirect" title="Hong Kong American">from Hong Kong</a></small></li>
-<li><small><a href="/wiki/Taiwanese_American" class="mw-redirect" title="Taiwanese American">from Taiwan</a></small></li>
-<li><a href="/wiki/Template:Chinese_Americans_by_location" class="mw-redirect" title="Template:Chinese Americans by location">by city and state</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Central America</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Costa_Rica" title="Chinese people in Costa Rica">Costa Rica</a></li>
-<li><a href="/wiki/Chinese_Nicaraguan" class="mw-redirect" title="Chinese Nicaraguan">Nicaragua</a></li>
-<li><a href="/wiki/Ethnic_Chinese_in_Panama" title="Ethnic Chinese in Panama">Panama</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South America<b>*</b></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_Argentines" title="Chinese Argentines">Argentina</a></li>
-<li><a href="/wiki/Chinese_Brazilian" class="mw-redirect" title="Chinese Brazilian">Brazil</a></li>
-<li><a href="/wiki/Chinese_people_in_Chile" title="Chinese people in Chile">Chile</a></li>
-<li><a href="/wiki/Chinese_Guyanese" title="Chinese Guyanese">Guyana</a></li>
-<li><a href="/wiki/Chinese_Peruvian" class="mw-redirect" title="Chinese Peruvian">Peru</a></li>
-<li><a class="mw-selflink selflink">Suriname</a></li>
-<li><a href="/wiki/Chinese_people_in_Uruguay" class="mw-redirect" title="Chinese people in Uruguay">Uruguay</a></li>
-<li><a href="/wiki/Chinese_Venezuelan" class="mw-redirect" title="Chinese Venezuelan">Venezuela</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Central</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Kazakhstan" title="Chinese people in Kazakhstan">Kazakhstan</a>
-<ul><li><a href="/wiki/Dungan_people" title="Dungan people">Dungan</a></li></ul></li>
-<li><a href="/wiki/Chinese_people_in_Kyrgyzstan" title="Chinese people in Kyrgyzstan">Kyrgyzstan</a>
-<ul><li><a href="/wiki/Dungan_people" title="Dungan people">Dungan</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Japan" title="Chinese people in Japan">Japan</a></li>
-<li><a href="/wiki/Chinese_people_in_Korea" title="Chinese people in Korea">Korea</a></li>
-<li><a href="/wiki/Ethnic_Chinese_in_Mongolia" title="Ethnic Chinese in Mongolia">Mongolia</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southeast</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Ethnic_Chinese_in_Brunei" title="Ethnic Chinese in Brunei">Brunei</a></li>
-<li><a href="/wiki/Chinese_Cambodian" title="Chinese Cambodian">Cambodia</a>
-<ul><li><a href="/wiki/Cambodian_Hokkien" title="Cambodian Hokkien">Hokkien</a></li></ul></li>
-<li><a href="/wiki/Chinese_people_in_East_Timor" title="Chinese people in East Timor">East Timor</a></li>
-<li><a href="/wiki/Chinese_Indonesians" title="Chinese Indonesians">Indonesia</a>
-<ul><li><a href="/wiki/Benteng_Chinese" title="Benteng Chinese">Benteng Chinese</a></li>
-<li><a href="/wiki/Peranakan" title="Peranakan">Peranakan Chinese</a></li>
-<li><a href="/wiki/Chinese_in_Bangka-Belitung_Islands" class="mw-redirect" title="Chinese in Bangka-Belitung Islands">Bangka-Belitung</a></li></ul></li>
-<li><a href="/wiki/Laotian_Chinese" title="Laotian Chinese">Laos</a></li>
-<li><a href="/wiki/Malaysian_Chinese" title="Malaysian Chinese">Malaysia</a>
-<ul><li><a href="/wiki/Peranakan" title="Peranakan">Peranakan / Baba Nyonya / Straits Chinese</a></li></ul></li>
-<li><a href="/wiki/Chinese_people_in_Myanmar" title="Chinese people in Myanmar">Myanmar</a>
-<ul><li><a href="/wiki/Kokang_people" title="Kokang people">Kokang</a></li>
-<li><a href="/wiki/Panthay" class="mw-redirect" title="Panthay">Panthay</a></li>
-<li><a href="/wiki/Peranakan" title="Peranakan">Pashu</a></li></ul></li>
-<li><a href="/wiki/Chinese_Filipino" title="Chinese Filipino">Philippines</a>
-<ul><li><a href="/wiki/Sangley" title="Sangley">Sangley</a></li></ul></li>
-<li><a href="/wiki/Chinese_Singaporeans" title="Chinese Singaporeans">Singapore</a>
-<ul><li><a href="/wiki/Peranakan" title="Peranakan">Straits-Born Chinese</a></li></ul></li>
-<li><a href="/wiki/Thai_Chinese" title="Thai Chinese">Thailand</a>
-<ul><li><a href="/wiki/Chin_Haw" title="Chin Haw">Chin Haw</a></li>
-<li><a href="/wiki/Peranakan" title="Peranakan">Phuket Baba</a></li></ul></li>
-<li><a href="/wiki/Hoa_Chinese_people" class="mw-redirect" title="Hoa Chinese people">Vietnam</a>
-<ul><li><a href="/wiki/Ng%C3%A1i_people" title="Ngái people">Ngái</a></li>
-<li><a href="/wiki/San_Diu_people" title="San Diu people">San Diu</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Bangladesh" title="Chinese people in Bangladesh">Bangladesh</a></li>
-<li><a href="/wiki/Chinese_community_in_India" class="mw-redirect" title="Chinese community in India">India</a></li>
-<li><a href="/wiki/Chinese_people_in_Pakistan" title="Chinese people in Pakistan">Pakistan</a></li>
-<li><a href="/wiki/Chinese_people_in_Sri_Lanka" title="Chinese people in Sri Lanka">Sri Lanka</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Iran" title="Chinese people in Iran">Iran</a></li>
-<li><a href="/wiki/Chinese_people_in_Israel" title="Chinese people in Israel">Israel</a></li>
-<li><a href="/wiki/Chinese_people_in_Turkey" title="Chinese people in Turkey">Turkey</a></li>
-<li><a href="/wiki/Chinese_people_in_the_United_Arab_Emirates" title="Chinese people in the United Arab Emirates">United Arab Emirates</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Northern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Denmark" title="Chinese people in Denmark">Denmark</a></li>
-<li><a href="/wiki/Chinese_people_in_Finland" title="Chinese people in Finland">Finland</a></li>
-<li><a href="/wiki/Chinese_people_in_Sweden" title="Chinese people in Sweden">Sweden</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Western</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Belgium" title="Chinese people in Belgium">Belgium</a></li>
-<li><a href="/wiki/Chinese_diaspora_in_France" title="Chinese diaspora in France">France</a>
-<ul><li><a href="/wiki/Chinese_community_in_Paris" title="Chinese community in Paris">Paris</a></li></ul></li>
-<li><a href="/wiki/Chinese_people_in_Germany" title="Chinese people in Germany">Germany</a></li>
-<li><a href="/wiki/Chinese_people_in_Ireland" title="Chinese people in Ireland">Ireland</a></li>
-<li><a href="/wiki/Chinese_people_in_the_Netherlands" title="Chinese people in the Netherlands">Netherlands</a></li>
-<li><a href="/wiki/British_Chinese" title="British Chinese">United Kingdom</a>
-<ul><li><small><a href="/wiki/Hong_Kong_people_in_the_United_Kingdom" title="Hong Kong people in the United Kingdom">from Hong Kong</a></small></li>
-<li><a href="/wiki/Chinese_community_in_London" title="Chinese community in London">London</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Southern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Italy" title="Chinese people in Italy">Italy</a></li>
-<li><a href="/wiki/Chinese_people_in_Portugal" title="Chinese people in Portugal">Portugal</a></li>
-<li><a href="/wiki/Chinese_people_in_Spain" title="Chinese people in Spain">Spain</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Eastern</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_people_in_Bulgaria" title="Chinese people in Bulgaria">Bulgaria</a></li>
-<li><a href="/wiki/Chinese_people_in_the_Czech_Republic" title="Chinese people in the Czech Republic">Czech Republic</a></li>
-<li><a href="/wiki/Chinese_of_Romania" title="Chinese of Romania">Romania</a></li>
-<li><a href="/wiki/Ethnic_Chinese_in_Russia" title="Ethnic Chinese in Russia">Russia</a></li>
-<li><a href="/wiki/Chinese_people_in_Serbia" title="Chinese people in Serbia">Serbia</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Chinese_Australian" class="mw-redirect" title="Chinese Australian">Australia</a> <small>(<a href="/wiki/Hong_Kong_Australian" class="mw-redirect" title="Hong Kong Australian">from Hong Kong</a>)</small></li>
-<li><a href="/wiki/Chinese_in_Fiji" title="Chinese in Fiji">Fiji</a></li>
-<li><a href="/wiki/Chinese_immigration_to_Hawaii" title="Chinese immigration to Hawaii">Hawaii</a></li>
-<li><a href="/wiki/Chinese_in_Palau" title="Chinese in Palau">Palau</a></li>
-<li><a href="/wiki/Chinese_New_Zealander" class="mw-redirect" title="Chinese New Zealander">New Zealand</a></li>
-<li><a href="/wiki/Chinese_people_in_Papua_New_Guinea" title="Chinese people in Papua New Guinea">Papua New Guinea</a></li>
-<li><a href="/wiki/Chinese_in_Samoa" title="Chinese in Samoa">Samoa</a></li>
-<li><a href="/wiki/Chinese_in_Tonga" title="Chinese in Tonga">Tonga</a></li></ul>
-</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup><small>1</small></sup> An <a href="/wiki/Overseas_department" class="mw-redirect" title="Overseas department">overseas department</a> of France in the western Indian Ocean. <i>See also</i>: <a href="/wiki/Template:Hongkong_Disapora" class="mw-redirect" title="Template:Hongkong Disapora">Hong Kong Diaspora</a><br /><b>*</b> Guyana and Suriname are physically in South America but are culturally a part of the Caribbean.</div></td></tr></tbody></table></div>
-<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Surinamese_people" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Surinamese_people" title="Template:Surinamese people"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Surinamese_people" title="Template talk:Surinamese people"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Surinamese_people&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Surinamese_people" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Surinamese_people#Ethnic_groups" title="Surinamese people">Surinamese people</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Indigenous_peoples_in_Suriname" title="Indigenous peoples in Suriname">Indigenous</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Arawak_peoples" class="mw-redirect" title="Arawak peoples">Arawak</a>
-<ul><li><a href="/wiki/Lokono" title="Lokono">Lokono</a></li></ul></li>
-<li><a href="/wiki/Kalina_people" title="Kalina people">Carib</a>
-<ul><li><a href="/wiki/Akurio_people" title="Akurio people">Akurio</a></li>
-<li><a href="/wiki/Kali%27na_people" class="mw-redirect" title="Kali&#39;na people">Kali'na</a></li>
-<li><a href="/wiki/Sikiana_people" class="mw-redirect" title="Sikiana people">Sikiana</a></li>
-<li><a href="/wiki/Tiriy%C3%B3_people" class="mw-redirect" title="Tiriyó people">Tiriyó</a></li>
-<li><a href="/wiki/Wayana_people" class="mw-redirect" title="Wayana people">Wayana</a></li></ul></li>
-<li><a href="/wiki/Warao_people" title="Warao people">Warao</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Afro-Surinamese" title="Afro-Surinamese">African</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Maroon_(people)" title="Maroon (people)">Maroons</a>
-<ul><li><a href="/wiki/Kwinti_people" title="Kwinti people">Kwinti</a></li>
-<li><a href="/wiki/Ndyuka_people" title="Ndyuka people">Ndyuka</a></li>
-<li><a href="/wiki/Paramaccan_people" title="Paramaccan people">Paramaccan</a></li>
-<li><a href="/wiki/Saramaka" title="Saramaka">Saramaka</a></li></ul></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Asian_Surinamese" title="Asian Surinamese">Asian</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a class="mw-selflink selflink">Chinese</a></li>
-<li><a href="/wiki/Indo-Surinamese" title="Indo-Surinamese">Indian</a></li>
-<li><a href="/wiki/Javanese_Surinamese" title="Javanese Surinamese">Javanese</a></li>
-<li><a href="/wiki/History_of_the_Jews_in_Suriname" title="History of the Jews in Suriname">Jewish</a></li>
-<li><a href="/wiki/Lebanese_Surinamese" title="Lebanese Surinamese">Lebanese</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/White_Surinamese" title="White Surinamese">European</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Dutch_Surinamese" title="Dutch Surinamese">Dutch</a></li>
-<li><a href="/wiki/Portuguese_Surinamese" title="Portuguese Surinamese">Portuguese</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South American</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Brazilians_in_Suriname" title="Brazilians in Suriname">Brazilian</a></li></ul>
-</div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Rasmussen</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Rasmussen&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
 <!-- 
 NewPP limit report
-Parsed by mw1290
-Cached time: 20190921152616
+Parsed by mw1230
+Cached time: 20190913022215
 Cache expiry: 2592000
 Dynamic content: false
-Complications: [vary‐revision‐sha1]
-CPU time usage: 0.312 seconds
-Real time usage: 0.404 seconds
-Preprocessor visited node count: 2294/1000000
+Complications: []
+CPU time usage: 0.104 seconds
+Real time usage: 0.170 seconds
+Preprocessor visited node count: 403/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 87877/2097152 bytes
-Template argument size: 5463/2097152 bytes
-Highest expansion depth: 13/40
-Expensive parser function count: 0/500
-Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 20854/5000000 bytes
+Post‐expand include size: 3550/2097152 bytes
+Template argument size: 835/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1040/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.102/10.000 seconds
-Lua memory usage: 3.41 MB/50 MB
+Lua time usage: 0.024/10.000 seconds
+Lua memory usage: 1.22 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  301.846      1 -total
- 31.75%   95.836      1 Template:Reflist
- 27.04%   81.629      3 Template:Cite_web
- 23.93%   72.226      1 Template:Infobox_ethnic_group
- 19.61%   59.203      1 Template:Infobox
- 17.69%   53.395      4 Template:ISBN
- 17.25%   52.057      6 Template:Navbox
- 10.78%   32.552      1 Template:Overseas_Chinese2
-  7.74%   23.376      4 Template:Catalog_lookup_link
-  7.12%   21.479      1 Template:Ethnic_groups_in_Suriname
+100.00%  124.917      1 -total
+ 39.27%   49.054      1 Template:Surname
+ 34.83%   43.507      1 Template:About
+ 33.36%   41.671      1 Template:Dmbox
+ 14.26%   17.814      1 Template:Category_handler
+  9.93%   12.407      1 Template:Reflist
+  9.21%   11.510      1 Template:TOC_right
+  6.08%    7.594      1 Template:Short_description
+  5.78%    7.226      1 Template:PAGENAMEBASE
+  5.18%    6.473      1 Template:IPA-da
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:30525726-0!canonical and timestamp 20190921152624 and revision id 916959291
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2455783-0!canonical and timestamp 20190913022245 and revision id 915406306
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chinese_Surinamese&amp;oldid=916959291">https://en.wikipedia.org/w/index.php?title=Chinese_Surinamese&amp;oldid=916959291</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rasmussen&amp;oldid=915406306">https://en.wikipedia.org/w/index.php?title=Rasmussen&amp;oldid=915406306</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Asian_Surinamese" title="Category:Asian Surinamese">Asian Surinamese</a></li><li><a href="/wiki/Category:Chinese_diaspora_by_country" title="Category:Chinese diaspora by country">Chinese diaspora by country</a></li><li><a href="/wiki/Category:Ethnic_groups_in_Suriname" title="Category:Ethnic groups in Suriname">Ethnic groups in Suriname</a></li><li><a href="/wiki/Category:Surinamese_people_of_Chinese_descent" title="Category:Surinamese people of Chinese descent">Surinamese people of Chinese descent</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:%22Related_ethnic_groups%22_needing_confirmation" title="Category:&quot;Related ethnic groups&quot; needing confirmation">&quot;Related ethnic groups&quot; needing confirmation</a></li><li><a href="/wiki/Category:Articles_using_infobox_ethnic_group_with_image_parameters" title="Category:Articles using infobox ethnic group with image parameters">Articles using infobox ethnic group with image parameters</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Danish-language_surnames" title="Category:Danish-language surnames">Danish-language surnames</a></li><li><a href="/wiki/Category:Norwegian-language_surnames" title="Category:Norwegian-language surnames">Norwegian-language surnames</a></li><li><a href="/wiki/Category:Patronymic_surnames" title="Category:Patronymic surnames">Patronymic surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -432,13 +265,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chinese+Surinamese" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chinese+Surinamese" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rasmussen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rasmussen" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chinese_Surinamese" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Chinese_Surinamese" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rasmussen" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Rasmussen" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -453,7 +286,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Chinese_Surinamese">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chinese_Surinamese&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rasmussen">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rasmussen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rasmussen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -492,28 +325,35 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chinese_Surinamese" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chinese_Surinamese" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chinese_Surinamese&amp;oldid=916959291" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chinese_Surinamese&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5100627" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chinese_Surinamese&amp;id=916959291" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rasmussen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rasmussen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rasmussen&amp;oldid=915406306" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rasmussen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1634177" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rasmussen&amp;id=915406306" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rasmussen_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chinese+Surinamese">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chinese+Surinamese&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chinese_Surinamese&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rasmussen">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rasmussen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rasmussen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Tionghoa_Suriname" title="Tionghoa Suriname – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Chinese_Surinamers" title="Chinese Surinamers – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%86%D1%8B_%D0%B2_%D0%A1%D1%83%D1%80%D0%B8%D0%BD%D0%B0%D0%BC%D0%B5" title="Китайцы в Суринаме – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8B%8F%E9%87%8C%E5%8D%97%E5%8D%8E%E4%BA%BA" title="苏里南华人 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5100627#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D0%B5%D0%BD" title="Расмусен – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Rasmussen" title="Rasmussen – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A1%CE%AC%CF%83%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%BD" title="Ράσμουσεν – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Rasmussen" title="Rasmussen – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%9D%BC%EC%8A%A4%EB%AC%B4%EC%84%BC" title="라스무센 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A8%D7%90%D7%A1%D7%9E%D7%95%D7%A1%D7%9F" title="ראסמוסן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Rasmusens" title="Rasmusens – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B9%E3%83%A0%E3%82%BB%E3%83%B3" title="ラスムセン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Rasmussen" title="Rasmussen – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD" title="Расмуссен – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BC%D1%83%D1%81%D1%81%D0%B5%D0%BD" title="Расмуссен – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%8B%89%E6%96%AF%E7%A9%86%E6%A3%AE" title="拉斯穆森 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1634177#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 15:26<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 02:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -524,7 +364,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chinese_Surinamese&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rasmussen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -536,8 +376,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.404","ppvisitednodes":{"value":2294,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87877,"limit":2097152},"templateargumentsize":{"value":5463,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":20854,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  301.846      1 -total"," 31.75%   95.836      1 Template:Reflist"," 27.04%   81.629      3 Template:Cite_web"," 23.93%   72.226      1 Template:Infobox_ethnic_group"," 19.61%   59.203      1 Template:Infobox"," 17.69%   53.395      4 Template:ISBN"," 17.25%   52.057      6 Template:Navbox"," 10.78%   32.552      1 Template:Overseas_Chinese2","  7.74%   23.376      4 Template:Catalog_lookup_link","  7.12%   21.479      1 Template:Ethnic_groups_in_Suriname"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":3574271,"limit":52428800}},"cachereport":{"origin":"mw1290","timestamp":"20190921152616","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chinese Surinamese","url":"https:\/\/en.wikipedia.org\/wiki\/Chinese_Surinamese","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5100627","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5100627","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-01-18T23:24:35Z","dateModified":"2019-09-21T15:26:24Z","headline":"Surinamese residents of ethnic Chinese origin"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":121,"wgHostname":"mw1266"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.170","ppvisitednodes":{"value":403,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3550,"limit":2097152},"templateargumentsize":{"value":835,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1040,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  124.917      1 -total"," 39.27%   49.054      1 Template:Surname"," 34.83%   43.507      1 Template:About"," 33.36%   41.671      1 Template:Dmbox"," 14.26%   17.814      1 Template:Category_handler","  9.93%   12.407      1 Template:Reflist","  9.21%   11.510      1 Template:TOC_right","  6.08%    7.594      1 Template:Short_description","  5.78%    7.226      1 Template:PAGENAMEBASE","  5.18%    6.473      1 Template:IPA-da"]},"scribunto":{"limitreport-timeusage":{"value":"0.024","limit":"10.000"},"limitreport-memusage":{"value":1276881,"limit":52428800}},"cachereport":{"origin":"mw1230","timestamp":"20190913022215","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rasmussen","url":"https:\/\/en.wikipedia.org\/wiki\/Rasmussen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1634177","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1634177","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-15T00:47:01Z","dateModified":"2019-09-13T02:22:45Z","headline":"family name"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":155,"wgHostname":"mw1272"});});</script>
 </body>
 </html>

@@ -2,37 +2,35 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Independence - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Independence","wgTitle":"Independence","wgCurRevisionId":916203427,"wgRevisionId":916203427,"wgArticleId":62450,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Independence","Political theories","Nationalism","Sovereignty","Decolonisation"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Independence","wgRelevantArticleId":62450,"wgRequestId":"XYo32ApAAD0AAIZojAMAAAAS","wgCSPNonce":!1,
-"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q37055","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
-"mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
-"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Sobriquet - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sobriquet","wgTitle":"Sobriquet","wgCurRevisionId":909114388,"wgRevisionId":909114388,"wgArticleId":977396,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing French-language text","Articles containing Italian-language text","Articles containing German-language text","Articles containing Latin-language text","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica","Nicknames","Semantics","Word play"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March",
+"April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sobriquet","wgRelevantArticleId":977396,"wgRequestId":"XYyC@wpAMFYAAF2gis8AAABV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q59577332","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher",
+"ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
 <meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/1200px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Independence"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Independence&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Independence&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sobriquet"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sobriquet&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Sobriquet&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Independence"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sobriquet"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Independence rootpage-Independence skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sobriquet rootpage-Sobriquet skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -41,7 +39,7 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Independence</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Sobriquet</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
@@ -52,288 +50,334 @@
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Independence_(disambiguation)" class="mw-disambig" title="Independence (disambiguation)">Independence (disambiguation)</a>.</div>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/250px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg" decoding="async" width="250" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/375px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/500px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg 2x" data-file-width="2976" data-file-height="1969" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Declaration_of_Independence_(1819),_by_John_Trumbull.jpg" class="internal" title="Enlarge"></a></div>Thirteen <a href="/wiki/Kingdom_of_Great_Britain" title="Kingdom of Great Britain">British</a> colonies on the east coast of <a href="/wiki/North_America" title="North America">North America</a> issued a <a href="/wiki/United_States_Declaration_of_Independence" title="United States Declaration of Independence">Declaration of Independence</a> in 1776</div></div></div>
-<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:JuraIndependencia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/JuraIndependencia.jpg/250px-JuraIndependencia.jpg" decoding="async" width="250" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/JuraIndependencia.jpg/375px-JuraIndependencia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/JuraIndependencia.jpg/500px-JuraIndependencia.jpg 2x" data-file-width="1077" data-file-height="709" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:JuraIndependencia.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Chile" title="Chile">Chile</a>, one of several <a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish</a> colonies in <a href="/wiki/South_America" title="South America">South America</a>, issued a <a href="/wiki/Chilean_Declaration_of_Independence" title="Chilean Declaration of Independence">Declaration of independence</a> in 1818</div></div></div>
-<p><b>Independence</b> is a condition of a <a href="/wiki/Person" title="Person">person</a>, <a href="/wiki/Nation" title="Nation">nation</a>, <a href="/wiki/Country" title="Country">country</a>, or <a href="/wiki/Sovereign_state" title="Sovereign state">state</a> in which its residents and population, or some portion thereof, exercise <a href="/wiki/Self-government" class="mw-redirect" title="Self-government">self-government</a>, and usually <a href="/wiki/Sovereignty" title="Sovereignty">sovereignty</a>, over the territory. The opposite of independence is the status of a <a href="/w/index.php?title=Dependent_territory.&amp;action=edit&amp;redlink=1" class="new" title="Dependent territory. (page does not exist)">dependent territory.</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>sobriquet</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;k&#39; in &#39;kind&#39;">k</span><span title="/eɪ/: &#39;a&#39; in &#39;face&#39;">eɪ</span></span>/</a></span></span> <a href="/wiki/Help:Pronunciation_respelling_key" title="Help:Pronunciation respelling key"><i title="English pronunciation respelling"><span style="font-size:90%">SOH</span>-bri-kay</i></a>) or <b>soubriquet</b> is a <a href="/wiki/Nickname" title="Nickname">nickname</a>, sometimes assumed, but often given by another and being descriptive in nature. Distinct from a <a href="/wiki/Pseudonym" title="Pseudonym">pseudonym</a>, it typically is a familiar name used in place of a real name without the need of explanation, often becoming more familiar than the original name.
+</p><p>The term <i>sobriquet</i> may apply to the nickname for a specific person, group of people, or place. Examples are Emiye Menelik, a name of Emperor <a href="/wiki/Menelik_II" title="Menelik II">Menelik II</a> of <a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a>, who was popularly and affectionately recognized for his kindness ("emiye" means "mother" in <a href="/wiki/Amharic" title="Amharic">Amharic</a>); <a href="/wiki/Genghis_Khan" title="Genghis Khan">Genghis Khan</a>, who now is rarely recognized by his original name Temüjin; and Mohandas Gandhi, who is better known as <a href="/wiki/Mahatma_Gandhi" title="Mahatma Gandhi">Mahatma Gandhi</a> ("mahatma" means "great soul" in <a href="/wiki/Hindi_(language)" class="mw-redirect" title="Hindi (language)">Hindi</a>). Well-known places often have sobriquets, such as <a href="/wiki/New_York_City" title="New York City">New York City</a>, often referred to as the <a href="/wiki/Big_Apple" title="Big Apple">Big Apple</a>.
 </p>
 <div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="#Definition_of_independence"><span class="tocnumber">1</span> <span class="toctext">Definition of independence</span></a>
-<ul>
-<li class="toclevel-2 tocsection-2"><a href="#Distinction_between_independence_and_autonomy"><span class="tocnumber">1.1</span> <span class="toctext">Distinction between independence and autonomy</span></a></li>
-</ul>
-</li>
-<li class="toclevel-1 tocsection-3"><a href="#Declarations_of_independence"><span class="tocnumber">2</span> <span class="toctext">Declarations of independence</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Historical_overview"><span class="tocnumber">3</span> <span class="toctext">Historical overview</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="#Continents"><span class="tocnumber">4</span> <span class="toctext">Continents</span></a></li>
-<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
-<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
-<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use"><span class="tocnumber">2</span> <span class="toctext">Use</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Examples"><span class="tocnumber">3</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
 </ul>
 </div>
 
-<h2><span class="mw-headline" id="Definition_of_independence">Definition of independence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=1" title="Edit section: Definition of independence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Whether the attainment of independence is different from <a href="/wiki/Revolution" title="Revolution">revolution</a> has long been contested, and has often been debated over the question of <a href="/wiki/Violence" title="Violence">violence</a> as <a href="/wiki/Legitimacy_(family_law)" title="Legitimacy (family law)">legitimate</a> means to achieving sovereignty.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In general, revolutions aim only to redistribute power with or without an element of emancipation, such as in <a href="/wiki/Democratization" title="Democratization">democratization</a> <i>within</i> a state, which as such may remain unaltered. For example, the <a href="/wiki/Mexican_Revolution" title="Mexican Revolution">Mexican Revolution</a> (1917) chiefly refers to a multi-factional conflict that eventually led to a <a href="/wiki/Constitution_of_Mexico" title="Constitution of Mexico">new constitution</a>; it has rarely been used to refer to the <a href="/wiki/Mexican_War_of_Independence" title="Mexican War of Independence">armed struggle</a> (1821) against Spain. However, some <a href="/wiki/War_of_independence" title="War of independence">wars of independence</a> have been described as revolutions, such as the ones in the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">United States</a> (1783) and <a href="/wiki/Indonesian_National_Revolution" title="Indonesian National Revolution">Indonesia</a> (1949), while some revolutions that were specifically about a change in the political structure have resulted in breakaway states. <a href="/wiki/Mongolia" title="Mongolia">Mongolia</a> and <a href="/wiki/Finland" title="Finland">Finland</a>, for example, gained their independence during the revolutions occurring in <a href="/wiki/Xinhai_Revolution" title="Xinhai Revolution">China</a> (1911) and <a href="/wiki/October_Revolution" title="October Revolution">Russia</a> (1917) respectively. Causes for a country or province wishing to seek independence are many, but most can be summed up as a feeling of inequality compared to the dominant power. The means can extend from peaceful demonstrations like in the case of <a href="/wiki/Indian_independence_movement" title="Indian independence movement">India</a> (1947), to a <a href="/wiki/Wars_of_national_liberation" title="Wars of national liberation">violent war</a> like in the case of <a href="/wiki/Algerian_War" title="Algerian War">Algeria</a> (1962).
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The modern <a href="/wiki/French_language" title="French language">French</a> spelling is <i lang="fr" title="French language text">sobriquet</i>. Two early variants of the term are found: <i lang="fr" title="French language text">soubriquet</i> and <i lang="fr" title="French language text">sotbriquet</i>. The first early spelling variant, "soubriquet", remains in use and is considered the likely origin. 
+</p><p>The second early spelling variant suggests derivation from the initial form <i lang="fr" title="French language text">sot</i>, foolish, and the second part, <i lang="fr" title="French language text">briquet</i>, is a French adaptation of Italian <i lang="it" title="Italian language text">brichetto</i>, diminutive of <i lang="it" title="Italian language text">bricco</i>, knave, possibly connected with <i lang="it" title="Italian language text">briccone</i>, rogue, which is supposed to be a derivative of the <a href="/wiki/German_language" title="German language">German</a> <i lang="de" title="German language text">brechen</i>, to break; but the <a href="/wiki/Philologist" class="mw-redirect" title="Philologist">philologist</a> <a href="/wiki/Walter_William_Skeat" title="Walter William Skeat">Walter William Skeat</a> considers this spelling to be an example of <a href="/wiki/False_etymology" title="False etymology">false etymology</a>. The real origin is to be sought in the form <i lang="fr" title="French language text">soubriquet</i>.
+</p><p><a href="/wiki/%C3%89mile_Littr%C3%A9" title="Émile Littré">Émile Littré</a> gives an early-fourteenth-century <i>soubsbriquet</i> as meaning a chuck under the chin, and this would be derived from <i>soubs</i>, mod. <i>sous</i> (<a href="/wiki/Latin_language" class="mw-redirect" title="Latin language">Latin</a>: <i lang="la">sub</i>), under, and <i>briquet</i> or <i>bruchel</i>, the brisket, or lower part of the throat.
 </p>
-<h3><span class="mw-headline" id="Distinction_between_independence_and_autonomy">Distinction between independence and autonomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=2" title="Edit section: Distinction between independence and autonomy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
-<p><i><a href="/wiki/Autonomous_entity" class="mw-redirect" title="Autonomous entity">Autonomy</a></i> refers to a kind of independence which has been granted by an overseeing <a href="/wiki/Authority" title="Authority">authority</a> that itself still retains ultimate authority over that territory (see <a href="/wiki/Devolution" title="Devolution">Devolution</a>). A <a href="/wiki/Protectorate" title="Protectorate">protectorate</a> refers to an autonomous region that depends upon a larger government for its protection as an autonomous region.
+<h2><span class="mw-headline" id="Use">Use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=2" title="Edit section: Use">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sobriquets often are found in music, sports, and politics. Candidates and political figures often are branded with sobriquets, either while living or posthumously. For example, <a href="/wiki/President_of_the_United_States" title="President of the United States">president of the United States</a> <a href="/wiki/Abraham_Lincoln" title="Abraham Lincoln">Abraham Lincoln</a> came to be known as "Honest Abe".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In the <i><a href="/wiki/A_Dictionary_of_Modern_English_Usage" title="A Dictionary of Modern English Usage">A Dictionary of Modern English Usage</a></i> (1926) <a href="/wiki/Henry_Watson_Fowler" title="Henry Watson Fowler">Henry Watson Fowler</a> warned: "Now the sobriquet habit is not a thing to be acquired, but a thing to be avoided; &amp; the selection that follows is compiled for the purpose not of assisting but of discouraging it." He included the sobriquet among what he termed the "battered ornaments" of the language, but opinion on their use varies. Sobriquets remain a common feature of speech today.
 </p>
-<h2><span class="mw-headline" id="Declarations_of_independence">Declarations of independence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=3" title="Edit section: Declarations of independence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Sometimes, a state wishing to achieve independence from a dominating power will issue a <a href="/wiki/Declaration_of_independence" title="Declaration of independence">declaration of independence</a>; the earliest surviving example is <a href="/wiki/Scotland" title="Scotland">Scotland</a>'s <a href="/wiki/Declaration_of_Arbroath" title="Declaration of Arbroath">Declaration of Arbroath</a> in 1320, with the most recent example being <a href="/wiki/Azawad" title="Azawad">Azawad</a>'s declaration of independence in 2012. Declaring independence and attaining it however, are quite different. A well-known successful example is the <a href="/wiki/Declaration_of_Independence_(United_States)" class="mw-redirect" title="Declaration of Independence (United States)">U.S. Declaration of Independence</a> issued in 1776. The dates of established independence (or, less commonly, the commencement of revolution), are typically celebrated as a national <a href="/wiki/Public_holiday" title="Public holiday">holiday</a> known as an <a href="/wiki/Independence_Day" class="mw-redirect" title="Independence Day">independence day</a>.
-</p>
-<h2><span class="mw-headline" id="Historical_overview">Historical overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=4" title="Edit section: Historical overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p>Historically, there have been three major periods of declaring independence:
-</p>
-<ul><li>from the 1770s, beginning with the <a href="/wiki/American_Revolutionary_War" title="American Revolutionary War">American Revolutionary War</a> through the 1830s, when the last royalist bastions fell at the close of the <a href="/wiki/Spanish_American_wars_of_independence" title="Spanish American wars of independence">Spanish American wars of independence</a>;</li>
-<li>the immediate aftermath of the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a> following the breakup of the <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a>, <a href="/wiki/Austro-Hungarian_Empire" class="mw-redirect" title="Austro-Hungarian Empire">Austro-Hungarian</a>, <a href="/wiki/Russian_Empire" title="Russian Empire">Russian</a>, <a href="/wiki/German_Empire" title="German Empire">German</a> empires;</li>
-<li>and 1945 to circa 1979, when seventy newly independent states emerged from the European <a href="/wiki/Colonial_empire" title="Colonial empire">colonial empires</a> and collapsed <a href="/wiki/III_Reich" class="mw-redirect" title="III Reich">nazi German Reich</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li></ul>
-<h2><span class="mw-headline" id="Continents">Continents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=5" title="Edit section: Continents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<center>
-
-Examples: <a href="/wiki/Iraq" title="Iraq">Iraq</a> date of independence 1932 (from <a href="/wiki/UK" class="mw-redirect" title="UK">UK</a>)
-<a href="/wiki/Taiwan" title="Taiwan">Taiwan</a> date of Independence August 15, 1945 (from <a href="/wiki/Japan" title="Japan">Japan</a>)
-<a href="/wiki/Zimbabwe" title="Zimbabwe">Zimbabwe</a> 1980 (successor of internationally unrecognized state of <a href="/wiki/Rhodesia" title="Rhodesia">Rhodesia</a> (1965-1979))
-
-<table class="wikitable"><tbody><tr>
-<th colspan="2">Continent</th>
-<th>No.</th>
-<th>Last Country to Gain Independence
-</th></tr>
-<tr>
-<td rowspan="6"><div class="center"><div class="floatnone"><a href="/wiki/File:Continents_vide_couleurs.png" class="image"><img alt="Continents vide couleurs.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Continents_vide_couleurs.png/300px-Continents_vide_couleurs.png" decoding="async" width="300" height="148" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Continents_vide_couleurs.png/450px-Continents_vide_couleurs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/Continents_vide_couleurs.png/600px-Continents_vide_couleurs.png 2x" data-file-width="1500" data-file-height="740" /></a></div></div>
-</td>
-<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #fed52e; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Africa" title="Africa">Africa</a></div>
-</td>
-<td align="center"><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_Africa" title="List of sovereign states and dependent territories in Africa">54</a>
-</td>
-<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/35px-Flag_of_South_Sudan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/46px-Flag_of_South_Sudan.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/South_Sudan" title="South Sudan">South Sudan</a> (2011)
-</td></tr>
-<tr>
-<td><div class="legend"><span class="legend-color" style="margin:1px 0; display:inline-block; border:1px solid black; background-color:green; color:black"><span class="legend-color" style="display:inline-block; width:0.1em; height:0em; border-right: 1.5em solid #0c0; border-bottom: 1.51em solid green;">&#160;</span></span>&#160;<a href="/wiki/Americas" title="Americas">Americas</a></div>
-</td>
-<td align="center"><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_the_Americas" title="List of sovereign states and dependent territories in the Americas">35</a>
-</td>
-<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/35px-Flag_of_Saint_Kitts_and_Nevis.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/45px-Flag_of_Saint_Kitts_and_Nevis.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Saint_Kitts_and_Nevis" title="Saint Kitts and Nevis">Saint Kitts and Nevis</a> (1983)<sup id="ref_a_1" class="reference"><a href="#cnote_a">[a]</a></sup>
-</td></tr>
-<tr>
-<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f33e01; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Asia" title="Asia">Asia</a></div>
-</td>
-<td align="center"><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_Asia" title="List of sovereign states and dependent territories in Asia">44</a><sup id="ref_b_1" class="reference"><a href="#cnote_b">[b]</a></sup>
-</td>
-<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/35px-Flag_of_East_Timor.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/46px-Flag_of_East_Timor.svg.png 2x" data-file-width="900" data-file-height="450" />&#160;</span><a href="/wiki/East_Timor" title="East Timor">East Timor</a> (2002)
-</td></tr>
-<tr>
-<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #c10000; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Europe" title="Europe">Europe</a></div>
-</td>
-<td align="center"><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_Europe" title="List of sovereign states and dependent territories in Europe">50</a><sup id="ref_b_1" class="reference"><a href="#cnote_b">[b]</a></sup>
-</td>
-<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/35px-Flag_of_Montenegro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/46px-Flag_of_Montenegro.svg.png 2x" data-file-width="640" data-file-height="320" />&#160;</span><a href="/wiki/Montenegro" title="Montenegro">Montenegro</a> (2006) <br /> <i><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/21px-Flag_of_Kosovo.svg.png" decoding="async" width="21" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/32px-Flag_of_Kosovo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/42px-Flag_of_Kosovo.svg.png 2x" data-file-width="840" data-file-height="600" />&#160;</span><a href="/wiki/Kosovo" title="Kosovo">Kosovo</a></i> (<a href="/wiki/2008_Kosovo_declaration_of_independence" title="2008 Kosovo declaration of independence">2008</a>)<sup id="ref_c_1" class="reference"><a href="#cnote_c">[c]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
-</td></tr>
-<tr>
-<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #c04080; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Oceania" title="Oceania">Oceania</a></div>
-</td>
-<td align="center"><a href="/wiki/List_of_sovereign_states_and_dependent_territories_in_Oceania" title="List of sovereign states and dependent territories in Oceania">14</a>
-</td>
-<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/35px-Flag_of_Palau.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/46px-Flag_of_Palau.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Palau" title="Palau">Palau</a> (1994)<sup id="ref_d_1" class="reference"><a href="#cnote_d">[d]</a></sup>
-</td></tr>
-<tr>
-<td><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0040ff; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;<a href="/wiki/Antarctica" title="Antarctica">Antarctica</a></div>
-</td>
-<td align="center"><a href="/wiki/Territorial_claims_in_Antarctica" title="Territorial claims in Antarctica">N/A</a>
-</td>
-<td><i>de facto</i> <a href="/wiki/Condominium_(international_law)" title="Condominium (international law)">condominium</a> international
-</td></tr></tbody></table>
-</center>
-<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Independence_constitution" title="Independence constitution">Independence constitution</a></li>
-<li><a href="/wiki/Independence_referendum" title="Independence referendum">Independence referendum</a></li>
-<li><a href="/wiki/List_of_national_independence_days" title="List of national independence days">List of national independence days</a></li>
-<li><a href="/wiki/List_of_sovereign_states_by_date_of_formation" title="List of sovereign states by date of formation">List of sovereign states by date of formation</a></li>
-<li><a href="/wiki/Lists_of_active_separatist_movements" title="Lists of active separatist movements">Lists of active separatist movements</a></li>
-<li><a href="/wiki/Secession" title="Secession">Secession</a></li>
-<li><a href="/wiki/Special_Committee_on_Decolonization" title="Special Committee on Decolonization">Special Committee on Decolonization</a></li>
-<li><a href="/wiki/War_of_Independence" class="mw-redirect" title="War of Independence">War of Independence</a></li>
-<li><a href="/wiki/Unilateral_declaration_of_independence" title="Unilateral declaration of independence">Unilateral declaration of independence</a></li>
-<li><a href="/wiki/United_Nations_list_of_Non-Self-Governing_Territories" title="United Nations list of Non-Self-Governing Territories">United Nations list of Non-Self-Governing Territories</a></li></ul>
-<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style=""><ol class="references" style="list-style-type:upper-alpha;">
-<li id="cnote_a"><span class="mw-cite-backlink"><b><a href="#ref_a_1">^</a></b></span> <span class="reference-text">Independence from the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>.</span></li>
-<li id="cnote_b"><span class="mw-cite-backlink">^ <i><b><sup><a href="#ref_b_1">a</a> <a href="#ref_b_2">b</a></sup></b></i></span> <span class="reference-text">Part of <a href="/wiki/South_Caucasus" class="mw-redirect" title="South Caucasus">Transcaucasian Region</a>, at the crossroads of Europe and Asia.  <a href="/wiki/Physical_geography" title="Physical geography">Physiographically</a>, Armenia falls entirely in <a href="/wiki/Western_Asia" title="Western Asia">Western Asia</a>, while Georgia and Azerbaijan are mostly in Asia with small portions north of the <a href="/wiki/Caucasus_Mountains" title="Caucasus Mountains">Caucasus Mountains</a> divide in Europe.</span></li>
-<li id="cnote_c"><span class="mw-cite-backlink"><b><a href="#ref_c_1">^</a></b></span> <span class="reference-text">Partially recognized <i><a href="/wiki/De_facto" title="De facto">de facto</a></i> self-governing entity. It is <a href="/wiki/International_recognition_of_Kosovo" title="International recognition of Kosovo">recognised by 102</a> UN members the <a href="/wiki/Cook_Islands" title="Cook Islands">Cook Islands</a>, <a href="/wiki/Niue" title="Niue">Niue</a> and <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>. Claimed by <a href="/wiki/Serbia" title="Serbia">Serbia</a> as the Autonomous Province of Kosovo and Metohija under <a href="/wiki/UNMIK" class="mw-redirect" title="UNMIK">UN administration</a>.</span></li>
-<li id="cnote_d"><span class="mw-cite-backlink"><b><a href="#ref_d_1">^</a></b></span> <span class="reference-text">An independent state in <a href="/wiki/Compact_of_Free_Association" title="Compact of Free Association">free association</a> with the <a href="/wiki/United_States" title="United States">United States</a>.</span></li>
-</ol></div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Independence&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
-<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Independence" class="extiw" title="q:Special:Search/Independence">Independence</a></b></i></td></tr>
-</tbody></table>
- <div class="reflist" style="list-style-type: decimal;">
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=3" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The King (of rock and roll) <a href="/wiki/Elvis_Presley" title="Elvis Presley">Elvis Presley</a>, famous, very well-known vocalist and musician.</li>
+<li>Atatürk – <a href="/wiki/Mustafa_Kemal_Atat%C3%BCrk" title="Mustafa Kemal Atatürk">Mustafa Kemal</a>, first president of the <a href="/wiki/Republic_of_Turkey" class="mw-redirect" title="Republic of Turkey">Republic of Turkey</a>. <a href="/wiki/Mustafa_Kemal_Atat%C3%BCrk%27s_personal_life#Name" title="Mustafa Kemal Atatürk&#39;s personal life">Name bestowed on him</a> 24 November 1934 by the <a href="/wiki/Turkish_Grand_National_Assembly" class="mw-redirect" title="Turkish Grand National Assembly">Turkish Grand National Assembly</a>.</li>
+<li>Banker to the Poor<sup id="cite_ref-BBC_Profile_2-0" class="reference"><a href="#cite_note-BBC_Profile-2">&#91;2&#93;</a></sup> – <a href="/wiki/Muhammad_Yunus" title="Muhammad Yunus">Muhammad Yunus</a>, 2006 Nobel Peace Prize winner and managing director of <a href="/wiki/Grameen_Bank" title="Grameen Bank">Grameen Bank</a></li>
+<li><a href="/wiki/The_Big_Apple" class="mw-redirect" title="The Big Apple">The Big Apple</a> – <a href="/wiki/Manhattan" title="Manhattan">Manhattan</a></li>
+<li><a href="/wiki/Blighty" title="Blighty">Blighty</a> – Great Britain (used by British servicemen abroad and expatriates)</li>
+<li><a href="/wiki/Columbia_(name)" title="Columbia (name)">Columbia</a> – The United States or The <a href="/wiki/Americas" title="Americas">Americas</a>, poetic name</li>
+<li><a href="/wiki/Dixie" title="Dixie">Dixie</a>, Dixieland – (from the <a href="/wiki/Mason%E2%80%93Dixon_line" title="Mason–Dixon line">Mason–Dixon line</a>); the eleven Southern states that seceded and fought against the U.S. in the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a>; still used affectionately by Southerners</li>
+<li>The <a href="/wiki/Fourth_Estate" title="Fourth Estate">Fourth Estate</a> – <a href="/wiki/Journalists" class="mw-redirect" title="Journalists">the press</a></li></ul>
+<ul><li><a href="/wiki/Uncle_Sam" title="Uncle Sam">Uncle Sam</a> – the U.S. in general or specifically, its government (from the initials "U.S.")</li>
+<li><a href="/wiki/The_war_to_end_all_wars" class="mw-redirect" title="The war to end all wars">The war to end all wars</a> – <a href="/wiki/World_War_I" title="World War I">World War I</a></li>
+<li><a href="/wiki/Origin_of_Chicago%27s_%22Windy_City%22_nickname" class="mw-redirect" title="Origin of Chicago&#39;s &quot;Windy City&quot; nickname">The Windy City</a> – Chicago, Illinois (also <a href="/wiki/Windy_City_(disambiguation)" class="mw-redirect mw-disambig" title="Windy City (disambiguation)">various other cities</a> including Wellington, New Zealand and Port Elizabeth, South Africa)</li>
+<li><a href="/wiki/Yankee" title="Yankee">Yankee</a> (or "Yank" for short) – an American of European ancestry not sympathetic to the Southern cause, originally only from the states that fought against the Confederacy in the Civil War, but now from any non-Southern state; used outside the U.S. to mean any American; sometimes derogatory in either usage</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Related articles</dt></dl>
+<ul><li><a href="/wiki/Antonomasia" title="Antonomasia">Antonomasia</a></li>
+<li><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></li>
+<li><a href="/wiki/Epithet" title="Epithet">Epithet</a></li>
+<li><a href="/wiki/Honorific" title="Honorific">Honorific</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymy</a></li>
+<li><a href="/wiki/Moniker" class="mw-redirect" title="Moniker">Moniker</a></li>
+<li><a href="/wiki/Nickname" title="Nickname">Nickname</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a></li>
+<li><a href="/wiki/Pop_icon" title="Pop icon">Pop icon</a></li>
+<li><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonym</a></li>
+<li><a href="/wiki/Title" title="Title">Title</a></li></ul>
+<dl><dt>Lists</dt></dl>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">Lists of nicknames</a></li>
+<li><a href="/wiki/List_of_nicknames_of_European_royalty_and_nobility" title="List of nicknames of European royalty and nobility">Nicknames in European royalty and nobility</a></li>
+<li><a href="/wiki/Honorific_nicknames_in_popular_music" title="Honorific nicknames in popular music">Nicknames in popular music</a></li>
+<li><a href="/wiki/Category:Nicknames_in_sports" title="Category:Nicknames in sports">Nicknames in sport</a> (category)</li>
+<li><a href="/wiki/List_of_nicknames_of_United_States_Presidents" class="mw-redirect" title="List of nicknames of United States Presidents">Nicknames of U.S. presidents</a></li>
+<li><a href="/wiki/List_of_metonyms" title="List of metonyms">List of metonyms</a></li>
+<li><a href="/wiki/Honorific_nicknames_in_popular_music" title="Honorific nicknames in popular music">Honorific nicknames in popular music</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Walter_Benjamin" title="Walter Benjamin">Benjamin, Walter</a> (1996) [1921]. <i>Walter Benjamin: Selected Writings, Volume 1: 1913–1926</i>. Cambridge: Harvard University Press. 236–252. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-674-94585-9" title="Special:BookSources/0-674-94585-9"><bdi>0-674-94585-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Walter+Benjamin%3A+Selected+Writings%2C+Volume+1%3A+1913%E2%80%931926&amp;rft.place=Cambridge&amp;rft.pages=236-252&amp;rft.pub=Harvard+University+Press&amp;rft.date=1996&amp;rft.isbn=0-674-94585-9&amp;rft.aulast=Benjamin&amp;rft.aufirst=Walter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndependence" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news">Mansky, Jackie. <a rel="nofollow" class="external text" href="http://www.smithsonianmag.com/history/honest-abe-wasnt-always-quite-so-honest-180962194/">"When Lincoln Was More a Politician Than an "Honest Abe<span class="cs1-kern-right">"</span>"</a>. <i>Smithsonian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-09-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Smithsonian&amp;rft.atitle=When+Lincoln+Was+More+a+Politician+Than+an+%22Honest+Abe%22&amp;rft.aulast=Mansky&amp;rft.aufirst=Jackie&amp;rft_id=http%3A%2F%2Fwww.smithsonianmag.com%2Fhistory%2Fhonest-abe-wasnt-always-quite-so-honest-180962194%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASobriquet" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/David_Armitage_(historian)" title="David Armitage (historian)">David Armitage</a>, <i><a rel="nofollow" class="external text" href="http://maghis.oxfordjournals.org/content/18/3/61.full">The Declaration of Independence in World Context</a></i>, <a href="/wiki/Organization_of_American_Historians" title="Organization of American Historians">Organization of American Historians</a>,  <i>Magazine of History</i>, Volume 18, Issue 3, Pp. 61–66 (2004)</span>
-</li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080216011030/http://www.unmikonline.org/press/reports/N9917289.pdf">"Kosovo"</a> <span class="cs1-format">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.unmikonline.org/press/reports/N9917289.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2008-02-16<span class="reference-accessdate">. Retrieved <span class="nowrap">30 July</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kosovo&amp;rft_id=http%3A%2F%2Fwww.unmikonline.org%2Fpress%2Freports%2FN9917289.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIndependence" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+<li id="cite_note-BBC_Profile-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-BBC_Profile_2-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/south_asia/6047234.stm">"Profile: 'World banker to the poor<span class="cs1-kern-right">'</span>"</a>. BBC News. 2006-10-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Profile%3A+%27World+banker+to+the+poor%27&amp;rft.date=2006-10-13&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fsouth_asia%2F6047234.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASobriquet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
-<div role="navigation" class="navbox" aria-labelledby="Colonization,_decolonization,_and_neocolonialism" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Colonization" title="Template:Colonization"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Colonization" title="Template talk:Colonization"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Colonization&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Colonization,_decolonization,_and_neocolonialism" style="font-size:114%;margin:0 4em"><a href="/wiki/Colonization" title="Colonization">Colonization</a>, <a href="/wiki/Decolonization" title="Decolonization">decolonization</a>, and <a href="/wiki/Neocolonialism" title="Neocolonialism">neocolonialism</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Earth</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8.0em">Exploration</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Exploration_of_the_Americas" title="Exploration of the Americas">Americas</a></li>
-<li><a href="/wiki/Exploration_of_Africa" class="mw-redirect" title="Exploration of Africa">Africa</a></li>
-<li><a href="/wiki/Chronology_of_European_exploration_of_Asia" title="Chronology of European exploration of Asia">Asia</a></li>
-<li><a href="/wiki/Europeans_in_Oceania" title="Europeans in Oceania">Oceania</a></li>
-<li><a href="/wiki/Exploration_of_Antarctica" title="Exploration of Antarctica">Antarctica</a> — <a href="/wiki/Ocean_exploration" title="Ocean exploration">World oceans</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Colonization" title="Colonization">Colonization</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/European_colonization_of_the_Americas" title="European colonization of the Americas">Americas</a></li>
-<li><a href="/wiki/Colonisation_of_Africa" title="Colonisation of Africa">Africa</a></li>
-<li><a href="/wiki/Western_imperialism_in_Asia" title="Western imperialism in Asia">Asia</a>
-<ul><li><a href="/wiki/European_colonisation_of_Southeast_Asia" title="European colonisation of Southeast Asia">Southeast Asia</a></li></ul></li>
-<li><a href="/wiki/Colonisation_of_Oceania" title="Colonisation of Oceania">Oceania</a></li>
-<li><a href="/wiki/Colonization_of_Antarctica" title="Colonization of Antarctica">Antarctica</a></li></ul>
-<ul><li><a href="/wiki/Ocean_colonization" title="Ocean colonization">World oceans</a></li>
-<li><a href="/wiki/Underground_living" title="Underground living">Subterranea</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em">Decolonization</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Decolonization_of_the_Americas" title="Decolonization of the Americas">Americas</a></li>
-<li><a href="/wiki/Decolonisation_of_Africa" title="Decolonisation of Africa">Africa</a></li>
-<li><a href="/wiki/Decolonisation_of_Asia" title="Decolonisation of Asia">Asia</a></li>
-<li><a href="/wiki/Decolonisation_of_Oceania" title="Decolonisation of Oceania">Oceania</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">General<br />topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Exploration" title="Exploration">Exploration</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Maritime_history" title="Maritime history">Maritime history</a> (<a href="/wiki/Maritime_history_of_Europe" title="Maritime history of Europe">European</a>)</li>
-<li><a href="/wiki/Age_of_Discovery" title="Age of Discovery">Age of Discovery</a></li>
-<li><a href="/wiki/Discovery_and_exploration_of_the_Solar_System" title="Discovery and exploration of the Solar System">Solar System discovery</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Colonization" title="Colonization">Colonization</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Colonies_in_antiquity" title="Colonies in antiquity">Antiquity</a> — <a href="/wiki/Imperialism" title="Imperialism">Imperialism</a></li>
-<li><a href="/wiki/Chartered_company" title="Chartered company">Chartered companies</a></li>
-<li><a href="/wiki/Interventionism_(politics)" title="Interventionism (politics)">Interventionism</a></li>
-<li><a href="/wiki/Colonialism" title="Colonialism">Colonialism</a>
-<ul><li><a href="/wiki/Chronology_of_Western_colonialism" title="Chronology of Western colonialism">chronology</a></li>
-<li><a href="/wiki/History_of_colonialism" title="History of colonialism">history</a></li>
-<li><a href="/wiki/Colonial_empire" title="Colonial empire">empires</a></li>
-<li><a href="/wiki/Detribalization" title="Detribalization">detribalization</a></li>
-<li><a href="/wiki/Settler_colonialism" title="Settler colonialism">settler colonialism</a></li>
-<li><a href="/wiki/Colonial_war" title="Colonial war">wars</a></li></ul></li>
-<li>Current: <a href="/wiki/United_Nations_list_of_Non-Self-Governing_Territories" title="United Nations list of Non-Self-Governing Territories">Non-Self-Governing</a></li>
-<li><a href="/wiki/Dependent_territory" title="Dependent territory">Dependent</a></li>
-<li><a href="/wiki/International_Space_Station" title="International Space Station">Space Station</a> — <a href="/wiki/Militarisation_of_space" title="Militarisation of space">Space Militarization</a></li>
-<li><a href="/wiki/Commercial_use_of_space" title="Commercial use of space">Commercial use of space</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Colonial_empire" title="Colonial empire">Colonial empires</a><br /> in <a href="/wiki/Modern_era" class="mw-redirect" title="Modern era">Modern era</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li>Overseas, major: <a href="/wiki/British_Empire" title="British Empire">British</a></li>
-<li><a href="/wiki/Dutch_Empire" title="Dutch Empire">Dutch</a></li>
-<li><a href="/wiki/French_colonial_empire" title="French colonial empire">French</a></li>
-<li><a href="/wiki/German_colonial_empire" title="German colonial empire">German</a></li>
-<li><a href="/wiki/Italian_Empire" title="Italian Empire">Italian</a></li>
-<li><a href="/wiki/Portuguese_Empire" title="Portuguese Empire">Portuguese</a></li>
-<li><a href="/wiki/Spanish_Empire" title="Spanish Empire">Spanish</a></li></ul>
-<ul><li>Overseas, minor: <a href="/wiki/United_States_territorial_acquisitions" title="United States territorial acquisitions">American</a></li>
-<li><a href="/wiki/Territory_of_Papua_and_New_Guinea" title="Territory of Papua and New Guinea">Australian</a></li>
-<li><a href="/wiki/Austrian_colonial_policy" title="Austrian colonial policy">Austro-Hungarian</a></li>
-<li><a href="/wiki/Belgian_colonial_empire" title="Belgian colonial empire">Belgian</a></li>
-<li><a href="/wiki/Couronian_colonization" title="Couronian colonization">Couronian (Polish-Lithuanian)</a></li>
-<li><a href="/wiki/Danish_colonial_empire" class="mw-redirect" title="Danish colonial empire">Danish</a></li>
-<li><a href="/wiki/Realm_of_New_Zealand" title="Realm of New Zealand">New Zealand</a></li>
-<li><a href="/wiki/List_of_possessions_of_Norway" title="List of possessions of Norway">Norwegian</a></li>
-<li><a href="/wiki/Swedish_overseas_colonies" title="Swedish overseas colonies">Swedish</a></li></ul>
-<ul><li>Mostly contiguous: <a href="/wiki/United_States_territorial_acquisitions" title="United States territorial acquisitions">American</a></li>
-<li><a href="/wiki/Chinese_imperialism" title="Chinese imperialism">Chinese</a></li>
-<li><a href="/wiki/Empire_of_Japan" title="Empire of Japan">Japanese</a></li>
-<li><a href="/wiki/State_organisation_of_the_Ottoman_Empire" title="State organisation of the Ottoman Empire">Ottoman</a></li>
-<li><a href="/wiki/Russian_Empire" title="Russian Empire">Russian</a></li>
-<li><a href="/wiki/South_West_Africa" title="South West Africa">South African</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Decolonization" title="Decolonization">Decolonization</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Wars_of_national_liberation" title="Wars of national liberation">Wars of national liberation</a> — Predecessors of sovereign states
-<ul><li><a href="/wiki/List_of_predecessors_of_sovereign_states_in_Europe" title="List of predecessors of sovereign states in Europe">in Europe</a></li>
-<li><a href="/wiki/List_of_predecessors_of_sovereign_states_in_South_America" title="List of predecessors of sovereign states in South America">in South America</a></li></ul></li>
-<li><a href="/wiki/Independence_referendum" title="Independence referendum">Independence referendum</a></li>
-<li><a href="/wiki/List_of_sovereign_states_by_date_of_formation" title="List of sovereign states by date of formation">Sovereign states formation dates</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Postcolonialism" title="Postcolonialism">Postcolonialism</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a class="mw-selflink selflink">Independence</a></li>
-<li><a href="/wiki/Internal_colonialism" title="Internal colonialism">Internal colonialism</a></li>
-<li><a href="/wiki/Nation-building" title="Nation-building">Nation-building</a></li>
-<li><a href="/wiki/Neo-colonialism" class="mw-redirect" title="Neo-colonialism">Neo-colonialism</a></li>
-<li><a href="/wiki/Postcolonialism_(international_relations)" title="Postcolonialism (international relations)">Postcolonialism (international relations)</a></li></ul>
-</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="padding:0px"><div style="padding:0em 0.25em">
-<ul><li><i><a href="/wiki/Terra_nullius" title="Terra nullius">Terra nullius</a></i></li>
-<li><a href="/wiki/Indigenous_peoples" title="Indigenous peoples">Indigenous peoples</a></li>
-<li><a href="/wiki/Uncontacted_peoples" title="Uncontacted peoples">Uncontacted peoples</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Outer space</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Space_exploration" title="Space exploration">Exploration</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Exploration_of_Mercury" title="Exploration of Mercury">Mercury</a></li>
-<li><a href="/wiki/Observations_and_explorations_of_Venus" title="Observations and explorations of Venus">Venus</a></li>
-<li><a href="/wiki/Exploration_of_the_Moon" title="Exploration of the Moon">Moon</a></li>
-<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian points</a></li>
-<li><a href="/wiki/Exploration_of_Mars" title="Exploration of Mars">Mars</a></li>
-<li><a href="/wiki/Exploration_of_Phobos" class="mw-redirect" title="Exploration of Phobos">Phobos</a></li>
-<li><a href="/wiki/Exploration_of_Ceres" class="mw-redirect" title="Exploration of Ceres">Ceres</a></li>
-<li><a href="/wiki/Exploration_of_the_asteroids" class="mw-redirect" title="Exploration of the asteroids">Asteroids</a></li>
-<li><a href="/wiki/List_of_Solar_System_probes" title="List of Solar System probes">Outer Solar System</a>: <a href="/wiki/Exploration_of_Jupiter" title="Exploration of Jupiter">Jupiter</a></li>
-<li><a href="/wiki/Exploration_of_Europa" class="mw-redirect" title="Exploration of Europa">Europa</a></li>
-<li><a href="/wiki/Exploration_of_Callisto" class="mw-redirect" title="Exploration of Callisto">Callisto</a></li>
-<li><a href="/wiki/Exploration_of_Saturn" title="Exploration of Saturn">Saturn</a></li>
-<li><a href="/wiki/Exploration_of_Titan" class="mw-redirect" title="Exploration of Titan">Titan</a></li>
-<li><a href="/wiki/Exploration_of_Uranus" title="Exploration of Uranus">Uranus</a></li>
-<li><a href="/wiki/Exploration_of_Neptune" title="Exploration of Neptune">Neptune</a></li>
-<li><a href="/wiki/Trans-Neptunian_object" title="Trans-Neptunian object">trans-Neptunian objects</a></li>
-<li><a href="/wiki/Exploration_of_Pluto" title="Exploration of Pluto">Pluto</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:8.0em"><a href="/wiki/Space_colonization" title="Space colonization">Colonization</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Colonization_of_Mercury" class="mw-redirect" title="Colonization of Mercury">Mercury</a></li>
-<li><a href="/wiki/Colonization_of_Venus" title="Colonization of Venus">Venus</a></li>
-<li><a href="/wiki/Colonization_of_the_Moon" title="Colonization of the Moon">Moon</a></li>
-<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian points</a></li>
-<li><a href="/wiki/Colonization_of_Mars" title="Colonization of Mars">Mars</a></li>
-<li><a href="/wiki/Colonization_of_Phobos" class="mw-redirect" title="Colonization of Phobos">Phobos</a></li>
-<li><a href="/wiki/Colonization_of_the_asteroids" title="Colonization of the asteroids">Asteroids</a></li>
-<li><a href="/wiki/Colonization_of_the_outer_Solar_System" title="Colonization of the outer Solar System">Outer Solar System</a>: <a href="/wiki/Colonization_of_Jupiter" class="mw-redirect" title="Colonization of Jupiter">Jupiter</a></li>
-<li><a href="/wiki/Colonization_of_Europa" title="Colonization of Europa">Europa</a></li>
-<li><a href="/wiki/Colonization_of_Callisto" class="mw-redirect" title="Colonization of Callisto">Callisto</a></li>
-<li><a href="/wiki/Colonization_of_the_outer_Solar_System" title="Colonization of the outer Solar System">Saturn</a></li>
-<li><a href="/wiki/Colonization_of_Titan" title="Colonization of Titan">Titan</a></li>
-<li><a href="/wiki/Colonization_of_the_outer_Solar_System" title="Colonization of the outer Solar System">Uranus</a></li>
-<li><a href="/wiki/Colonization_of_the_outer_Solar_System" title="Colonization of the outer Solar System">Neptune</a></li>
-<li><a href="/wiki/Colonization_of_trans-Neptunian_objects" title="Colonization of trans-Neptunian objects">trans-Neptunian objects</a></li>
-<li><a href="/wiki/Colonization_of_the_outer_Solar_System" title="Colonization of the outer Solar System">Pluto</a></li></ul>
-</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<ul><li><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;This article&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFChisholm1911" class="citation encyclopaedia">Chisholm, Hugh, ed. (1911). "<a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Sobriquet" class="extiw" title="s:1911 Encyclopædia Britannica/Sobriquet">Sobriquet</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i> (11th ed.). Cambridge University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Sobriquet&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASobriquet" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sobriquet&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/sobriquet" class="extiw" title="wiktionary:Special:Search/sobriquet">sobriquet</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a class="mw-selflink selflink">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1275
-Cached time: 20190921123651
+Parsed by mw1251
+Cached time: 20190926092100
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.260 seconds
-Real time usage: 0.358 seconds
-Preprocessor visited node count: 1201/1000000
+CPU time usage: 0.408 seconds
+Real time usage: 0.526 seconds
+Preprocessor visited node count: 750/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 54797/2097152 bytes
-Template argument size: 1785/2097152 bytes
-Highest expansion depth: 8/40
+Post‐expand include size: 48423/2097152 bytes
+Template argument size: 374/2097152 bytes
+Highest expansion depth: 10/40
 Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 6382/5000000 bytes
+Unstrip post‐expand size: 7765/5000000 bytes
 Number of Wikibase entities loaded: 0/400
-Lua time usage: 0.100/10.000 seconds
-Lua memory usage: 2.56 MB/50 MB
+Lua time usage: 0.261/10.000 seconds
+Lua memory usage: 12.41 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  254.395      1 -total
- 45.65%  116.124      1 Template:Reflist
- 34.98%   88.992      1 Template:Cite_book
- 14.14%   35.971      1 Template:Other_uses
- 13.11%   33.358      4 Template:Navbox
- 11.77%   29.942      1 Template:Colonization
-  9.90%   25.174      6 Template:Flag
-  5.67%   14.429      1 Template:Wikiquote
-  4.69%   11.929      1 Template:Sister_project
-  3.88%    9.865      1 Template:Cite_web
+100.00%  422.984      1 -total
+ 42.08%  177.986     10 Template:Lang
+ 25.36%  107.254      1 Template:Reflist
+ 22.00%   93.074      2 Template:Cite_news
+ 10.74%   45.409      1 Template:IPAc-en
+  8.91%   37.684      1 Template:EB1911
+  5.47%   23.153      1 Template:Personal_names
+  5.04%   21.302      2 Template:Navbox
+  3.79%   16.040      1 Template:Wiktionary
+  2.99%   12.630      1 Template:Sister_project
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:62450-0!canonical and timestamp 20190921123651 and revision id 916203427
+<!-- Saved in parser cache with key enwiki:pcache:idhash:977396-0!canonical and timestamp 20190926092059 and revision id 909114388
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Independence&amp;oldid=916203427">https://en.wikipedia.org/w/index.php?title=Independence&amp;oldid=916203427</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sobriquet&amp;oldid=909114388">https://en.wikipedia.org/w/index.php?title=Sobriquet&amp;oldid=909114388</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Independence" title="Category:Independence">Independence</a></li><li><a href="/wiki/Category:Political_theories" title="Category:Political theories">Political theories</a></li><li><a href="/wiki/Category:Nationalism" title="Category:Nationalism">Nationalism</a></li><li><a href="/wiki/Category:Sovereignty" title="Category:Sovereignty">Sovereignty</a></li><li><a href="/wiki/Category:Decolonisation" title="Category:Decolonisation">Decolonisation</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nicknames" title="Category:Nicknames">Nicknames</a></li><li><a href="/wiki/Category:Semantics" title="Category:Semantics">Semantics</a></li><li><a href="/wiki/Category:Word_play" title="Category:Word play">Word play</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_French-language_text" title="Category:Articles containing French-language text">Articles containing French-language text</a></li><li><a href="/wiki/Category:Articles_containing_Italian-language_text" title="Category:Articles containing Italian-language text">Articles containing Italian-language text</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Articles_containing_Latin-language_text" title="Category:Articles containing Latin-language text">Articles containing Latin-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1911_Encyclop%C3%A6dia_Britannica" title="Category:Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica">Wikipedia articles incorporating text from the 1911 Encyclopædia Britannica</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -349,13 +393,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Independence" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Independence" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sobriquet" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sobriquet" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Independence" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Independence" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Sobriquet" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Sobriquet" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -370,7 +414,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Independence">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Independence&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Independence&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Sobriquet">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Sobriquet&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Sobriquet&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -409,35 +453,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Independence" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Independence" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Independence&amp;oldid=916203427" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Independence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37055" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Independence&amp;id=916203427" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Independence_movements" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Independence" hreflang="en">Wikiquote</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Sobriquet" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Sobriquet" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sobriquet&amp;oldid=909114388" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sobriquet&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q59577332" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sobriquet&amp;id=909114388" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Independence">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Independence&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Independence&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sobriquet">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sobriquet&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sobriquet&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Onafhanklikheid" title="Onafhanklikheid – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Staatliche_Unabh%C3%A4ngigkeit" title="Staatliche Unabhängigkeit – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Sundorr%C4%ABceh%C4%81d" title="Sundorrīcehād – Old English" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84" title="استقلال – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Independencia" title="Independencia – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Independencia" title="Independencia – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/M%C3%BCst%C9%99qillik" title="Müstəqillik – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE" title="স্বাধীনতা – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/To%CC%8Dk-li%CC%8Dp" title="To̍k-li̍p – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%8C" title="Незалежнасць – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%8C%D1%86%D1%8C" title="Незалежнасьць – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82" title="Независимост – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Independ%C3%A8ncia" title="Independència – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Nez%C3%A1vislost" title="Nezávislost – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Annibyniaeth" title="Annibyniaeth – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Uafh%C3%A6ngighed_(politik)" title="Uafhængighed (politik) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Staatliche_Unabh%C3%A4ngigkeit" title="Staatliche Unabhängigkeit – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Iseseisvus" title="Iseseisvus – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B5%CE%BE%CE%B1%CF%81%CF%84%CE%B7%CF%83%CE%AF%CE%B1" title="Ανεξαρτησία – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Independencia" title="Independencia – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Sendependeco" title="Sendependeco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Independentzia" title="Independentzia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84" title="استقلال – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ind%C3%A9pendance_(politique)" title="Indépendance (politique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Independencia" title="Independencia – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B8%E0%AB%8D%E0%AA%B5%E0%AA%A4%E0%AA%82%E0%AA%A4%E0%AB%8D%E0%AA%B0%E0%AA%A4%E0%AA%BE" title="સ્વતંત્રતા – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8F%85%EB%A6%BD" title="독립 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%AF%D5%A1%D5%AD%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_(%D5%A5%D5%A6%D6%80%D5%B8%D6%82%D5%B5%D5%A9)" title="Անկախություն (եզրույթ) – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE" title="स्वतन्त्रता – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Nezavisnost" title="Nezavisnost – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-bpy"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%AA%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%B8%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE" title="ইন্ডেপেন্ডেন্সিয়া – Bishnupriya" lang="bpy" hreflang="bpy" class="interlanguage-link-target">বিষ্ণুপ্রিয়া মণিপুরী</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kemerdekaan" title="Kemerdekaan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Sj%C3%A1lfst%C3%A6%C3%B0i" title="Sjálfstæði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Indipendenza" title="Indipendenza – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%A6%D7%9E%D7%90%D7%95%D7%AA" title="עצמאות – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B3%8D%E0%B2%B5%E0%B2%BE%E0%B2%A4%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B3%8D%E0%B2%AF" title="ಸ್ವಾತಂತ್ರ್ಯ – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D3%99%D1%83%D0%B5%D0%BB%D1%81%D1%96%D0%B7%D0%B4%D1%96%D0%BA" title="Тәуелсіздік – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Nchi_huru" title="Nchi huru – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a href="https://ht.wikipedia.org/wiki/Endepandans" title="Endepandans – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Serxweb%C3%BBn" title="Serxwebûn – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BB%80%E0%BA%AD%E0%BA%81%E0%BA%B0%E0%BA%A5%E0%BA%B2%E0%BA%94" title="ເອກະລາດ – Lao" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Independentia" title="Independentia – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Neatkar%C4%ABba" title="Neatkarība – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Nepriklausomyb%C4%97" title="Nepriklausomybė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-ln"><a href="https://ln.wikipedia.org/wiki/Dipand%C3%A1" title="Dipandá – Lingala" lang="ln" hreflang="ln" class="interlanguage-link-target">Lingála</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Indipendenza" title="Indipendenza – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/F%C3%BCggetlens%C3%A9g_(jog)" title="Függetlenség (jog) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE" title="स्वतन्त्रता – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D1%81%D1%82" title="Независност – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Fahaleovantena" title="Fahaleovantena – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-ms badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://ms.wikipedia.org/wiki/Kemerdekaan" title="Kemerdekaan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Onafhankelijkheid_(staatkunde)" title="Onafhankelijkheid (staatkunde) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%A4%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BE" title="स्वतन्त्रता – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B" title="独立 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ce"><a href="https://ce.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B0%D0%BC%D0%B0%D0%BB%D0%BB%D0%B0" title="Лаамалла – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">Нохчийн</a></li><li class="interlanguage-link interwiki-pih"><a href="https://pih.wikipedia.org/wiki/Independens" title="Independens – Norfuk / Pitkern" lang="pih" hreflang="pih" class="interlanguage-link-target">Norfuk / Pitkern</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Uavhengighet" title="Uavhengighet – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Sj%C3%B8lvstende" title="Sjølvstende – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Independ%C3%A9ncia" title="Independéncia – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-or"><a href="https://or.wikipedia.org/wiki/%E0%AC%B8%E0%AD%8D%E0%AD%B1%E0%AC%BE%E0%AC%A7%E0%AD%80%E0%AC%A8%E0%AC%A4%E0%AC%BE" title="ସ୍ୱାଧୀନତା – Odia" lang="or" hreflang="or" class="interlanguage-link-target">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Istiqlol" title="Istiqlol – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C" title="آزادی – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pap"><a href="https://pap.wikipedia.org/wiki/Independensia" title="Independensia – Papiamento" lang="pap" hreflang="pap" class="interlanguage-link-target">Papiamentu</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D8%AE%D9%BE%D9%84%D9%88%D8%A7%DA%A9%D9%8A" title="خپلواکي – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Niepodleg%C5%82o%C5%9B%C4%87" title="Niepodległość – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Independ%C3%AAncia" title="Independência – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-crh"><a href="https://crh.wikipedia.org/wiki/Mustaqillik" title="Mustaqillik – Crimean Turkish" lang="crh" hreflang="crh" class="interlanguage-link-target">Qırımtatarca</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Independen%C8%9B%C4%83" title="Independență – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Kachariy" title="Kachariy – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Независимость – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A2%D1%83%D1%82%D1%83%D0%BB%D1%83%D0%B3%D0%B0_%D1%81%D1%83%D0%BE%D1%85_%D0%B1%D1%83%D0%BE%D0%BB%D1%83%D1%83" title="Тутулуга суох буолуу – Sakha" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Unthirldom" title="Unthirldom – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Pavar%C3%ABsia" title="Pavarësia – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Nnipinnenza" title="Nnipinnenza – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B7%8F%E0%B6%B0%E0%B7%93%E0%B6%B1%E0%B6%AD%E0%B7%8A%E2%80%8D%E0%B7%80%E0%B6%BA" title="ස්වාධීනත්‍වය – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Independence" title="Independence – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%D9%8A" title="آزادي – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Neodvisnost" title="Neodvisnost – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%94%D1%80%D1%8C%D0%B6%D0%B0%D0%B2%D1%8C%D0%BD%D0%B0_%D1%81%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%EA%99%97%D1%82%D1%A3%D0%BB%D1%8C" title="Дрьжавьна самостоꙗтѣль – Church Slavic" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li><li class="interlanguage-link interwiki-szl"><a href="https://szl.wikipedia.org/wiki/Samostanowjy%C5%84y" title="Samostanowjyńy – Silesian" lang="szl" hreflang="szl" class="interlanguage-link-target">Ślůnski</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%95%D8%B1%D8%A8%DB%95%D8%AE%DB%86%DB%8C%DB%8C" title="سەربەخۆیی – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%BD%D0%BE%D1%81%D1%82" title="Независност – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Nezavisnost" title="Nezavisnost – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Kamerd%C3%A9kaan" title="Kamerdékaan – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Itsen%C3%A4isyys" title="Itsenäisyys – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Sj%C3%A4lvst%C3%A4ndighet" title="Självständighet – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B1%8D%E0%B0%B5%E0%B0%A4%E0%B0%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82" title="స్వతంత్రం – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%8A" title="เอกราช – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Ba%C4%9F%C4%B1ms%C4%B1zl%C4%B1k" title="Bağımsızlık – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Незалежність – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C" title="آزادی – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Independensa" title="Independensa – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99c_l%E1%BA%ADp" title="Độc lập – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Dislaxhaedje_(politike)" title="Dislaxhaedje (politike) – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-wo"><a href="https://wo.wikipedia.org/wiki/Tembte" title="Tembte – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/%C3%92m%C3%ACnira" title="Òmìnira – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%8D%A8%E7%AB%8B" title="獨立 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zea"><a href="https://zea.wikipedia.org/wiki/Onafankelijkeid" title="Onafankelijkeid – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a></li><li class="interlanguage-link interwiki-bat-smg"><a href="https://bat-smg.wikipedia.org/wiki/Napr%C4%ABgolnoms" title="Naprīgolnoms – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B" title="独立 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q37055#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Sobriquet" title="Sobriquet – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q59577332#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 17 September 2019, at 16:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 3 August 2019, at 05:37<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -448,7 +485,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Independence&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sobriquet&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -460,8 +497,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.358","ppvisitednodes":{"value":1201,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":54797,"limit":2097152},"templateargumentsize":{"value":1785,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6382,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  254.395      1 -total"," 45.65%  116.124      1 Template:Reflist"," 34.98%   88.992      1 Template:Cite_book"," 14.14%   35.971      1 Template:Other_uses"," 13.11%   33.358      4 Template:Navbox"," 11.77%   29.942      1 Template:Colonization","  9.90%   25.174      6 Template:Flag","  5.67%   14.429      1 Template:Wikiquote","  4.69%   11.929      1 Template:Sister_project","  3.88%    9.865      1 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":2685098,"limit":52428800}},"cachereport":{"origin":"mw1275","timestamp":"20190921123651","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Independence","url":"https:\/\/en.wikipedia.org\/wiki\/Independence","sameAs":"http:\/\/www.wikidata.org\/entity\/Q37055","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q37055","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-07-17T07:14:15Z","dateModified":"2019-09-17T16:22:09Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg","headline":"condition of a nation, country, or state  which exercises self-government, and usually sovereignty, over the territory"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":108,"wgHostname":"mw1266"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"0.526","ppvisitednodes":{"value":750,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48423,"limit":2097152},"templateargumentsize":{"value":374,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7765,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  422.984      1 -total"," 42.08%  177.986     10 Template:Lang"," 25.36%  107.254      1 Template:Reflist"," 22.00%   93.074      2 Template:Cite_news"," 10.74%   45.409      1 Template:IPAc-en","  8.91%   37.684      1 Template:EB1911","  5.47%   23.153      1 Template:Personal_names","  5.04%   21.302      2 Template:Navbox","  3.79%   16.040      1 Template:Wiktionary","  2.99%   12.630      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.261","limit":"10.000"},"limitreport-memusage":{"value":13008692,"limit":52428800}},"cachereport":{"origin":"mw1251","timestamp":"20190926092100","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sobriquet","url":"https:\/\/en.wikipedia.org\/wiki\/Sobriquet","sameAs":"http:\/\/www.wikidata.org\/entity\/Q59577332","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q59577332","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-11T20:36:45Z","dateModified":"2019-08-03T05:37:32Z","headline":"nickname, sometimes assumed, but often given by another like Quaid e Azam (great leader) (original name is M. A. Jinnah) founder of Pakistan"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":659,"wgHostname":"mw1251"});});</script>
 </body>
 </html>

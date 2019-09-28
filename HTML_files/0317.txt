@@ -2,14 +2,14 @@
 <html class="client-nojs" lang="en" dir="ltr">
 <head>
 <meta charset="UTF-8"/>
-<title>Nieuw Nickerie - Wikipedia</title>
-<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nieuw_Nickerie","wgTitle":"Nieuw Nickerie","wgCurRevisionId":891409678,"wgRevisionId":891409678,"wgArticleId":2112547,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","Commons category link is on Wikidata","Resorts of Suriname","Guyana–Suriname border crossings","Populated places in Nickerie District","Nieuw Nickerie","Populated places established in 1879","1879 establishments in South America"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
-"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nieuw_Nickerie","wgRelevantArticleId":2112547,"wgRequestId":"XYqTYQpAADkAADmU1mEAAACF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Nieuw-Nickerie","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Nieuw_Nickerie","wgCoordinates":{"lat":5.933333333333334,"lon":-56.983333333333334},"wgWikibaseItemId":"Q738313",
-"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
-"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<title>Slovak name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Slovak_name","wgTitle":"Slovak name","wgCurRevisionId":916520022,"wgRevisionId":916520022,"wgArticleId":28210036,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Slovak-language text","Names by culture","Slavic-language names","Slovak culture"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Slovak_name","wgRelevantArticleId":28210036,"wgRequestId":"XYqMlApAIDAAAHbb7AkAAAAB",
+"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7541579","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
+"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
 <script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 });});</script>
-<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
 <script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
 <meta name="ResourceLoaderDynamicStyles" content=""/>
 <link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
@@ -17,21 +17,20 @@
 <meta name="referrer" content="origin"/>
 <meta name="referrer" content="origin-when-crossorigin"/>
 <meta name="referrer" content="origin-when-cross-origin"/>
-<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/1200px-Nickerie.jpg"/>
-<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nieuw_Nickerie"/>
-<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit"/>
-<link rel="edit" title="Edit this page" href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Slovak_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Slovak_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Slovak_name&amp;action=edit"/>
 <link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
 <link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
 <link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
 <link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
 <link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
-<link rel="canonical" href="https://en.wikipedia.org/wiki/Nieuw_Nickerie"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Slovak_name"/>
 <link rel="dns-prefetch" href="//login.wikimedia.org"/>
 <link rel="dns-prefetch" href="//meta.wikimedia.org" />
 <!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
 </head>
-<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nieuw_Nickerie rootpage-Nieuw_Nickerie skin-vector action-view">
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Slovak_name rootpage-Slovak_name skin-vector action-view">
 <div id="mw-page-base" class="noprint"></div>
 <div id="mw-head-base" class="noprint"></div>
 <div id="content" class="mw-body" role="main">
@@ -40,403 +39,470 @@
 	<div class="mw-indicators mw-body-content">
 </div>
 
-	<h1 id="firstHeading" class="firstHeading" lang="en">Nieuw Nickerie</h1>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Slovak name</h1>
 	
 	<div id="bodyContent" class="mw-body-content">
 		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
-		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Nieuw-Nickerie&amp;redirect=no" class="mw-redirect" title="Nieuw-Nickerie">Nieuw-Nickerie</a>)</span></div>
+		<div id="contentSub"></div>
 		
 		
 		
 		<div id="jump-to-nav"></div>
 		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
 		<a class="mw-jump-link" href="#p-search">Jump to search</a>
-		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Resort and City in Nickerie, Suriname</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Nieuw Nickerie</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname">Resort</a> and City</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Nickerie.jpg" class="image" title="Street in Nieuw Nickerie"><img alt="Street in Nieuw Nickerie" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/250px-Nickerie.jpg" decoding="async" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/375px-Nickerie.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nickerie.jpg/500px-Nickerie.jpg 2x" data-file-width="3456" data-file-height="2304" /></a><div style="padding:0.4em 0 0 0;">Street in Nieuw Nickerie</div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Suriname_location_map.svg" class="image" title="Nieuw Nickerie is located in Suriname"><img alt="Nieuw Nickerie is located in Suriname" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/250px-Suriname_location_map.svg.png" decoding="async" width="250" height="255" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/375px-Suriname_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Suriname_location_map.svg/500px-Suriname_location_map.svg.png 2x" data-file-width="1181" data-file-height="1205" /></a><div style="position:absolute;top:9.157%;left:32.34%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Nieuw Nickerie" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Nieuw Nickerie" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Nieuw Nickerie</div></div></div></div><div>Location in Suriname</div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nieuw_Nickerie&amp;params=05_56_N_56_59_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">05°56′N</span> <span class="longitude">56°59′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.933°N 56.983°W</span><span style="display:none">&#xfeff; / <span class="geo">5.933; -56.983</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Nieuw_Nickerie&amp;params=05_56_N_56_59_W_region:SR_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">05°56′N</span> <span class="longitude">56°59′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">5.933°N 56.983°W</span><span style="display:none">&#xfeff; / <span class="geo">5.933; -56.983</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td><a href="/wiki/Suriname" title="Suriname">Suriname</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">District</a></th><td><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>30&#160;km<sup>2</sup> (10&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>0&#160;m (0&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2012 census)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>12,818</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>430/km<sup>2</sup> (1,100/sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/K%C3%B6ppen_climate_classification" title="Köppen climate classification">Climate</a></th><td><a href="/wiki/Tropical_monsoon_climate" title="Tropical monsoon climate">Am</a></td></tr></tbody></table>
-<p><b>Nieuw Nickerie</b><sup id="cite_ref-GEOnet_1-0" class="reference"><a href="#cite_note-GEOnet-1">&#91;1&#93;</a></sup> (pronounced 'Niekérie') is the third largest city in <a href="/wiki/Suriname" title="Suriname">Suriname</a> with a population estimated at 12,818. It is the <a href="/wiki/Capital_(political)" class="mw-redirect" title="Capital (political)">capital city</a> of the <a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie</a> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname">district</a>, and the terminus of the <a href="/wiki/East-West_Link_(Suriname)" title="East-West Link (Suriname)">East-West Link</a>.
-</p><p>Nieuw Nickerie lies on the mouth of the <a href="/wiki/Nickerie_(river)" class="mw-redirect" title="Nickerie (river)">Nickerie river</a> on the <a href="/wiki/Atlantic" class="mw-redirect" title="Atlantic">Atlantic</a> coast, opposite the mouth of the <a href="/wiki/Courantyne_River" title="Courantyne River">Corantijn river</a> (Courantyne) and the Guyanese town of <a href="/wiki/Corriverton" title="Corriverton">Corriverton</a> (Springlands), to which a <a href="/wiki/Ferry" title="Ferry">ferry</a> service operates.
-</p><p>The main industries are <a href="/wiki/Banana" title="Banana">bananas</a> and <a href="/wiki/Rice" title="Rice">rice</a>. The town contains a market and several hotels, including the Hotel Ameerali, Hotel de President, Hotel Tropical, Hotel de Vesting and Residence Inn. The only Surinamese hospital outside of Paramaribo, <a href="/wiki/Lachmipersad_Mungra_Regional_Hospital_Nickerie" title="Lachmipersad Mungra Regional Hospital Nickerie">Lachmipersad Mungra Regional Hospital Nickerie</a>, is located on the Annastraat in Nieuw-Nickerie.
-</p><p>Nieuw Nickerie was built in 1879 after the former center of the district, <a href="/wiki/Nieuw_Rotterdam" title="Nieuw Rotterdam">Nieuw Rotterdam</a>, was destroyed by floods.
-</p><p><a href="/wiki/Majoor_Henry_Fernandes_Airport" title="Majoor Henry Fernandes Airport">Majoor Henry Fernandes Airport</a>, also known as <i>Nieuw Nickerie Airport</i>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> is located near the city.
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>Slovak names</b> consist of a <a href="/wiki/Given_name" title="Given name">given name</a> and a <a href="/wiki/Surname" title="Surname">family name</a> (surname). <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> uses the <a href="/wiki/Personal_name#Name_order" title="Personal name">Western name order</a> with the given name first and the surname last, although there is a historical tradition to reverse this order, especially in official context (like in administrative papers and legal documents) as well as on gravestones and memorials. 
+</p><p>Most <a href="/wiki/Slovak_people" class="mw-redirect" title="Slovak people">Slovaks</a> do not have a middle name. The family name forms for males and females are distinct in Slovakia, making it possible to identify <a href="/wiki/Gender" title="Gender">gender</a> from the name alone. As of 2003 there were 185,288 different family names in use among 5.4 million Slovaks, or one family name for every 29 citizens. There is an estimated 90,000 lineages in Slovakia.<sup id="cite_ref-Geni_1-0" class="reference"><a href="#cite_note-Geni-1">&#91;1&#93;</a></sup> With marriage, the bride typically adopts the bridegroom's surname. Slovak names are very similar to <a href="/wiki/Czech_name" title="Czech name">Czech names</a>.
+</p><p>The most common Slovak given name are <a href="/wiki/Joseph_(given_name)" class="mw-redirect" title="Joseph (given name)">Jozef</a> (male) and <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Mária</a> (female); the most common family name in Slovakia is <a href="/wiki/Horv%C3%A1th" title="Horváth">Horváth</a> (male) and Horváthová (female).
 </p>
-<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit&amp;section=1" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<div style="width:100%">
-<div>
-<table class="wikitable collapsible collapsed" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;">
-
-<tbody><tr>
-<th colspan="14">Climate data for Nickerie, Suriname
-</th></tr>
-<tr>
-<th scope="row">Month
-</th>
-<th scope="col">Jan
-</th>
-<th scope="col">Feb
-</th>
-<th scope="col">Mar
-</th>
-<th scope="col">Apr
-</th>
-<th scope="col">May
-</th>
-<th scope="col">Jun
-</th>
-<th scope="col">Jul
-</th>
-<th scope="col">Aug
-</th>
-<th scope="col">Sep
-</th>
-<th scope="col">Oct
-</th>
-<th scope="col">Nov
-</th>
-<th scope="col">Dec
-</th>
-<th scope="col" style="border-left-width:medium">Year
-</th></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Record high °C (°F)
-</th>
-<td style="background: #FF3E00; color:#000000;">32.5<br />(90.5)
-</td>
-<td style="background: #FF3E00; color:#000000;">32.4<br />(90.3)
-</td>
-<td style="background: #FF3E00; color:#000000;">32.5<br />(90.5)
-</td>
-<td style="background: #FF3900; color:#000000;">33.2<br />(91.8)
-</td>
-<td style="background: #FF2E00; color:#000000;">34.8<br />(94.6)
-</td>
-<td style="background: #FF3300; color:#000000;">34.0<br />(93.2)
-</td>
-<td style="background: #FF3000; color:#000000;">34.5<br />(94.1)
-</td>
-<td style="background: #FF2800; color:#000000;">35.6<br />(96.1)
-</td>
-<td style="background: #FF2A00; color:#000000;">35.4<br />(95.7)
-</td>
-<td style="background: #FF2300; color:#000000;">36.3<br />(97.3)
-</td>
-<td style="background: #FF2D00; color:#000000;">34.9<br />(94.8)
-</td>
-<td style="background: #FF3500; color:#000000;">33.8<br />(92.8)
-</td>
-<td style="background: #FF2300; color:#000000; border-left-width:medium">36.3<br />(97.3)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Average high °C (°F)
-</th>
-<td style="background: #FF5600; color:#000000;">28.9<br />(84.0)
-</td>
-<td style="background: #FF5600; color:#000000;">29.0<br />(84.2)
-</td>
-<td style="background: #FF5400; color:#000000;">29.2<br />(84.6)
-</td>
-<td style="background: #FF5200; color:#000000;">29.5<br />(85.1)
-</td>
-<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
-</td>
-<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
-</td>
-<td style="background: #FF4D00; color:#000000;">30.3<br />(86.5)
-</td>
-<td style="background: #FF4700; color:#000000;">31.1<br />(88.0)
-</td>
-<td style="background: #FF4300; color:#000000;">31.7<br />(89.1)
-</td>
-<td style="background: #FF4300; color:#000000;">31.7<br />(89.1)
-</td>
-<td style="background: #FF4900; color:#000000;">30.9<br />(87.6)
-</td>
-<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
-</td>
-<td style="background: #FF4E00; color:#000000; border-left-width:medium">30.1<br />(86.2)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Daily mean °C (°F)
-</th>
-<td style="background: #FF6700; color:#000000;">26.5<br />(79.7)
-</td>
-<td style="background: #FF6600; color:#000000;">26.6<br />(79.9)
-</td>
-<td style="background: #FF6400; color:#000000;">26.9<br />(80.4)
-</td>
-<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
-</td>
-<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
-</td>
-<td style="background: #FF6300; color:#000000;">27.1<br />(80.8)
-</td>
-<td style="background: #FF6200; color:#000000;">27.2<br />(81.0)
-</td>
-<td style="background: #FF5E00; color:#000000;">27.8<br />(82.0)
-</td>
-<td style="background: #FF5A00; color:#000000;">28.3<br />(82.9)
-</td>
-<td style="background: #FF5B00; color:#000000;">28.2<br />(82.8)
-</td>
-<td style="background: #FF5E00; color:#000000;">27.8<br />(82.0)
-</td>
-<td style="background: #FF6300; color:#000000;">27.0<br />(80.6)
-</td>
-<td style="background: #FF6100; color:#000000; border-left-width:medium">27.3<br />(81.1)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Average low °C (°F)
-</th>
-<td style="background: #FF7C00; color:#000000;">23.5<br />(74.3)
-</td>
-<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
-</td>
-<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
-</td>
-<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
-</td>
-<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
-</td>
-<td style="background: #FF7900; color:#000000;">23.9<br />(75.0)
-</td>
-<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
-</td>
-<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
-</td>
-<td style="background: #FF7700; color:#000000;">24.2<br />(75.6)
-</td>
-<td style="background: #FF7800; color:#000000;">24.0<br />(75.2)
-</td>
-<td style="background: #FF7900; color:#000000;">23.9<br />(75.0)
-</td>
-<td style="background: #FF7A00; color:#000000;">23.7<br />(74.7)
-</td>
-<td style="background: #FF7800; color:#000000; border-left-width:medium">24.0<br />(75.2)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Record low °C (°F)
-</th>
-<td style="background: #FF9F40; color:#000000;">18.3<br />(64.9)
-</td>
-<td style="background: #FFA042; color:#000000;">18.2<br />(64.8)
-</td>
-<td style="background: #FF9A35; color:#000000;">19.1<br />(66.4)
-</td>
-<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
-</td>
-<td style="background: #FF8F1F; color:#000000;">20.7<br />(69.3)
-</td>
-<td style="background: #FF9021; color:#000000;">20.6<br />(69.1)
-</td>
-<td style="background: #FF8D1C; color:#000000;">20.9<br />(69.6)
-</td>
-<td style="background: #FF942A; color:#000000;">19.9<br />(67.8)
-</td>
-<td style="background: #FF8D1C; color:#000000;">20.9<br />(69.6)
-</td>
-<td style="background: #FF9225; color:#000000;">20.3<br />(68.5)
-</td>
-<td style="background: #FF9429; color:#000000;">20.0<br />(68.0)
-</td>
-<td style="background: #FF9327; color:#000000;">20.1<br />(68.2)
-</td>
-<td style="background: #FFA042; color:#000000; border-left-width:medium">18.2<br />(64.8)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
-</th>
-<td style="background: #00E100; color:#000000;">191<br />(7.5)
-</td>
-<td style="background: #44FF44; color:#000000;">114<br />(4.5)
-</td>
-<td style="background: #59FF59; color:#000000;">111<br />(4.4)
-</td>
-<td style="background: #00D700; color:#000000;">191<br />(7.5)
-</td>
-<td style="background: #008F00; color:#FFFFFF;">246<br />(9.7)
-</td>
-<td style="background: #003000; color:#FFFFFF;">316<br />(12.4)
-</td>
-<td style="background: #007100; color:#FFFFFF;">266<br />(10.5)
-</td>
-<td style="background: #04FF04; color:#000000;">168<br />(6.6)
-</td>
-<td style="background: #A1FFA1; color:#000000;">61<br />(2.4)
-</td>
-<td style="background: #A4FFA4; color:#000000;">61<br />(2.4)
-</td>
-<td style="background: #85FF85; color:#000000;">79<br />(3.1)
-</td>
-<td style="background: #00F700; color:#000000;">176<br />(6.9)
-</td>
-<td style="background: #04FF04; color:#000000; border-left-width:medium">1,980<br />(77.9)
-</td></tr>
-<tr style="text-align: center;">
-<th scope="row" style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)
-</th>
-<td style="background: #0000C4; color:#FFFFFF;">82
-</td>
-<td style="background: #0000C8; color:#FFFFFF;">81
-</td>
-<td style="background: #0000CB; color:#FFFFFF;">80
-</td>
-<td style="background: #0000CB; color:#FFFFFF;">80
-</td>
-<td style="background: #0000C4; color:#FFFFFF;">82
-</td>
-<td style="background: #0000C0; color:#FFFFFF;">83
-</td>
-<td style="background: #0000C4; color:#FFFFFF;">82
-</td>
-<td style="background: #0000CB; color:#FFFFFF;">80
-</td>
-<td style="background: #0000D3; color:#FFFFFF;">78
-</td>
-<td style="background: #0000D3; color:#FFFFFF;">78
-</td>
-<td style="background: #0000CF; color:#FFFFFF;">79
-</td>
-<td style="background: #0000C4; color:#FFFFFF;">82
-</td>
-<td style="background: #0000C8; color:#FFFFFF; border-left-width:medium">81
-</td></tr>
-<tr>
-<td colspan="14" style="text-align:center;font-size:95%;">Source: <a href="/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
-</td></tr></tbody></table>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Given_names"><span class="tocnumber">1</span> <span class="toctext">Given names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surnames"><span class="tocnumber">2</span> <span class="toctext">Surnames</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
 </div>
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
+<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slovak_name&amp;action=edit&amp;section=1" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Name_days_in_Slovakia" title="Name days in Slovakia">Name days in Slovakia</a></div>
+<p><a href="/wiki/Given_name" title="Given name">Given names</a> in <a href="/wiki/Slovakia" title="Slovakia">Slovakia</a> are called <i>baptismal names</i> (<a href="/wiki/Slovak_language" title="Slovak language">Slovak</a>: <i lang="sk">krstné mená</i>) even though today they are completely separate from the Christian <a href="/wiki/Baptismal_name" class="mw-redirect" title="Baptismal name">baptismal names</a>. Proper baptismal names given during <a href="/wiki/Infant_baptism" title="Infant baptism">infant baptism</a> are still common in the countryside, yet they are only seldom used within the official name (if they are, they form the person's middle name). Generally, names in Slovakia can be of several distinct origins:
+</p>
+<ul><li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a> of pre-Christian origin (e.g. <a href="/wiki/Dobromil_(given_name)" title="Dobromil (given name)">Dobromil</a>)</li>
+<li><a href="/wiki/Christian_name" title="Christian name">Christian names</a> often inspired by <a href="/wiki/Saint" title="Saint">saints</a> (e.g. <a href="/wiki/Vojtech" title="Vojtech">Vojtech</a>)</li>
+<li>Names of past kings and rulers (e.g. <a href="/wiki/Ladislav" title="Ladislav">Ladislav</a>)</li>
+<li>Modern names (e.g. <a href="/wiki/Lukas" title="Lukas">Lukas</a>)</li>
+<li>Names of ethnic minorities living in Slovakia (e.g. <a href="/wiki/B%C3%A9la_(given_name)" title="Béla (given name)">Béla</a>)</li></ul>
+<p>Traditionally, it was common to choose a given name for the newborn from within the family; grandfather and grandmother names being particularly popular. While this is no longer as common as in the past, it is still widely practiced especially in the rural areas.
+</p><p>Many Slovak given names, like in most other Slavic naming systems, have a <a href="/wiki/Diminutive" title="Diminutive">diminutive</a> and shorter version, which is used in an informal context. For example, the diminutive of Slavomír is Slavo, of Vojtech — Vojto, of Alexandra — Saša, etc. Sometimes these diminutive names become independent and "official" given names. Some older, traditional given names have distinct shortened forms, quite different from the original, for example Štefan — Pišta, etc. These traditional shortened forms are becoming quite rare in everyday usage.
+</p>
+<table class="wikitable" style="margin: 1em auto 1em auto;">
+<caption>The most common given names in Slovakia (as of 2010)<sup id="cite_ref-MINV1_2-0" class="reference"><a href="#cite_note-MINV1-2">&#91;2&#93;</a></sup>
+</caption>
+<tbody><tr>
+<th>Male names
+</th>
+<th>Total people
+</th>
+<th>Female names
+</th>
+<th>Total people
+</th></tr>
+<tr>
+<td>Jozef
+</td>
+<td>175,593
+</td>
+<td>Mária
+</td>
+<td>225,471
+</td></tr>
+<tr>
+<td>Ján
+</td>
+<td>174,949
+</td>
+<td>Anna
+</td>
+<td>161,812
+</td></tr>
+<tr>
+<td>Peter
+</td>
+<td>158,593
+</td>
+<td>Zuzana
+</td>
+<td>88,276
+</td></tr>
+<tr>
+<td>Martin
+</td>
+<td>87,283
+</td>
+<td>Katarína
+</td>
+<td>88,001
+</td></tr>
+<tr>
+<td>Štefan
+</td>
+<td>80,647
+</td>
+<td>Eva
+</td>
+<td>85,952
+</td></tr>
+<tr>
+<td>Milan
+</td>
+<td>78,781
+</td>
+<td>Jana
+</td>
+<td>85,518
+</td></tr>
+<tr>
+<td>Michal
+</td>
+<td>78,548
+</td>
+<td>Helena
+</td>
+<td>66,898
+</td></tr>
+<tr>
+<td>Miroslav
+</td>
+<td>78,093
+</td>
+<td>Monika
+</td>
+<td>48,667
+</td></tr>
+<tr>
+<td>Tomáš
+</td>
+<td>59,653
+</td>
+<td>Marta
+</td>
+<td>47,586
+</td></tr>
+<tr>
+<td>Ladislav
+</td>
+<td>58,927
+</td>
+<td>Martina
+</td>
+<td>44,738
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Surnames">Surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slovak_name&amp;action=edit&amp;section=2" title="Edit section: Surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Surnames differ according to gender. Generally feminine form is created by adding suffix "ová" to the masculine form. In some cases a "y"/"ý" at the end of a masculine name is replaced with an "á".  Feminine names almost always end in "á" while masculine names almost never do. Note that <a href="/wiki/%C3%81" title="Á">á</a> is a different character from <a href="/wiki/A" title="A">a</a>. For example, Bača is a masculine form while Bačová would be feminine.  Because Slovakia also has people with Hungarian, German, and other ancestors, some surnames in Slovakia will follow the convention of those languages and not conform to these norms.
+</p><p>Some popular surnames include:<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<ul><li><b>derived from professions:</b></li></ul>
+<p><a href="/wiki/Kov%C3%A1%C4%8D" class="mw-redirect" title="Kováč">Kováč</a> – smith,
+Mlynár – miller,
+Bača – shepherd,
+Rybár – fisher,
+Kráľ – king,
+Pekár – baker,
+Kuchár – cook,
+Mäsiar – butcher,
+Holič – barber,
+Maliar – painter,
+Kľúčiar – key maker,
+Mečiar – sword maker,
+Sklenár – glass maker.
+</p>
+<ul><li><b>derived from adjectives:</b></li></ul>
+<p>Čierny – black,
+Biely – white,
+<a href="/wiki/Suchy_(surname)" title="Suchy (surname)">Suchý</a> – dry,
+Mokrý – wet,
+Slaný – salty,
+Smutný – sad,
+Šťastný – happy/lucky,
+Malý – small,
+Široký – wide,
+Tichý – quiet,
+Surový – raw.
+</p>
+<ul><li><b>other:</b></li></ul>
+<p>Koreň – root,
+Chren – horseradish,
+Repa – beet,
+Slanina – bacon,
+Polievka – soup,
+Cibuľka – little onion,
+Malina – raspberry,
+Dobrovodský – good water,
+Holub – pigeon,
+Chrobák – beetle,
+Komár – mosquito,
+Medvedík – little bear,
+Koleno – knee,
+Mráz – frost,
+Okienka – little window,
+Otčenáš – our father (as in the “Our Father” prayer),
+Bezdeda – without a grandpa,
+Dolina – valley,
+Kocur – tom cat.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slovak_name&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li>
+<li><a href="/wiki/Name_days_in_Slovakia" title="Name days in Slovakia">Name days in Slovakia</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech name</a></li>
+<li><a href="/wiki/Slovak_identity_card" title="Slovak identity card">Slovak identity card</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slovak_name&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap"><ol class="references">
-<li id="cite_note-GEOnet-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-GEOnet_1-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://geonames.nga.mil/namesgaz/detaillinksearch.asp?G_NAME=&#39;32FA8839F6053774E0440003BA962ED3&#39;&amp;Diacritics=DC">Nieuw Nickerie, Nickerie, Suriname</a> at <a href="/wiki/GEOnet_Names_Server" title="GEOnet Names Server">GEOnet Names Server</a>. Retrieved 17 November 2009.</span>
+<li id="cite_note-Geni-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Geni_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geni.sk/najcastejsie-priezviska-na-slovensku/">"Najčastejšie priezviská na Slovensku (Most common family names in Slovakia)"</a>. Geni.sk<span class="reference-accessdate">. Retrieved <span class="nowrap">17 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Naj%C4%8Dastej%C5%A1ie+priezvisk%C3%A1+na+Slovensku+%28Most+common+family+names+in+Slovakia%29&amp;rft.pub=Geni.sk&amp;rft_id=http%3A%2F%2Fwww.geni.sk%2Fnajcastejsie-priezviska-na-slovensku%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlovak+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
 </li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.gcmap.com/airport/SMNI">Airport information for SMNI</a> at Great Circle Mapper. </span>
+<li id="cite_note-MINV1-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-MINV1_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.minv.sk/?tlacove-spravy-8&amp;sprava=najcastejsim-menom-ktorym-rodicia-pomenovali-svoje-dieta-v-roku-2010-je-jakub">"Najčastejším menom, ktorým rodičia pomenovali svoje dieťa v roku 2010, je Jakub. (The most common name given by parents in 2010 is Jakub)"</a>. Slovak Ministry of Interior<span class="reference-accessdate">. Retrieved <span class="nowrap">16 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Naj%C4%8Dastej%C5%A1%C3%ADm+menom%2C+ktor%C3%BDm+rodi%C4%8Dia+pomenovali+svoje+die%C5%A5a+v+roku+2010%2C+je+Jakub.+%28The+most+common+name+given+by+parents+in+2010+is+Jakub%29&amp;rft.pub=Slovak+Ministry+of+Interior&amp;rft_id=http%3A%2F%2Fwww.minv.sk%2F%3Ftlacove-spravy-8%26sprava%3Dnajcastejsim-menom-ktorym-rodicia-pomenovali-svoje-dieta-v-roku-2010-je-jakub&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlovak+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
-<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://aviation-safety.net/database/airport/airport.php?id=ICK">Accident history for ICK</a> at <a href="/wiki/Aviation_Safety_Network" title="Aviation Safety Network">Aviation Safety Network</a></span>
-</li>
-<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">
-<cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dwd.de/DWD/klima/beratung/ak/ak_812020_kt.pdf">"Klimatafel von Nickerie / Surinam"</a> <span class="cs1-format">(PDF)</span>. Federal Ministry of Transport and Digital Infrastructure<span class="reference-accessdate">. Retrieved <span class="nowrap">21 June</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Klimatafel+von+Nickerie+%2F+Surinam&amp;rft.pub=Federal+Ministry+of+Transport+and+Digital+Infrastructure&amp;rft_id=http%3A%2F%2Fwww.dwd.de%2FDWD%2Fklima%2Fberatung%2Fak%2Fak_812020_kt.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANieuw+Nickerie" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fgslovakia.com/2007/11/23/slovak-surnames">"Slovak surnames"</a>. <i>The foreigner's guide to Slovakia</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+foreigner%27s+guide+to+Slovakia&amp;rft.atitle=Slovak+surnames&amp;rft_id=http%3A%2F%2Fwww.fgslovakia.com%2F2007%2F11%2F23%2Fslovak-surnames&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlovak+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
 </li>
 </ol></div></div>
-<p><br />
-</p>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tbody><tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Nieuw-Nickerie" class="extiw" title="commons:Category:Nieuw-Nickerie">Nieuw-Nickerie</a></b></i>.</td></tr>
-</tbody></table>
-<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#228B22;color:#FFFFFF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Resorts_of_Suriname" title="Template:Resorts of Suriname"><abbr title="View this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Resorts_of_Suriname" title="Template talk:Resorts of Suriname"><abbr title="Discuss this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Resorts_of_Suriname&amp;action=edit"><abbr title="Edit this template" style=";background:#228B22;color:#FFFFFF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=&amp;#124;link=_Districts_and_resorts_of_Suriname" style="font-size:114%;margin:0 4em"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/35px-Flag_of_Suriname.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/45px-Flag_of_Suriname.svg.png 2x" data-file-width="900" data-file-height="600" /></span> <a href="/wiki/Districts_of_Suriname" title="Districts of Suriname"><span style="color:#FFFFFF">Districts</span></a>  and   <a href="/wiki/Resorts_of_Suriname" title="Resorts of Suriname"><span style="color:#FFFFFF">resorts of Suriname</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Brokopondo_District" title="Brokopondo District">Brokopondo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Brownsweg" title="Brownsweg">Brownsweg</a></li>
-<li><a href="/wiki/Centrum,_Brokopondo" title="Centrum, Brokopondo">Centrum</a></li>
-<li><a href="/wiki/Klaaskreek" title="Klaaskreek">Klaaskreek</a></li>
-<li><a href="/wiki/Kwakoegron" title="Kwakoegron">Kwakoegron</a></li>
-<li><a href="/wiki/Marshallkreek" title="Marshallkreek">Marshallkreek</a></li>
-<li><a href="/wiki/Sarakreek" title="Sarakreek">Sarakreek</a></li></ul>
-</div></td><td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Suriname_resorts.png" class="image"><img alt="Suriname resorts.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/200px-Suriname_resorts.png" decoding="async" width="200" height="137" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/300px-Suriname_resorts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Suriname_resorts.png/400px-Suriname_resorts.png 2x" data-file-width="1281" data-file-height="878" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Commewijne_District" title="Commewijne District">Commewijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Alkmaar,_Suriname" title="Alkmaar, Suriname">Alkmaar</a></li>
-<li><a href="/wiki/Bakkie,_Suriname" title="Bakkie, Suriname">Bakkie</a></li>
-<li><a href="/wiki/Johan_%26_Margaretha" title="Johan &amp; Margaretha">Margaretha</a></li>
-<li><a href="/wiki/Meerzorg" title="Meerzorg">Meerzorg</a></li>
-<li><a href="/wiki/Nieuw_Amsterdam,_Suriname" title="Nieuw Amsterdam, Suriname">Nieuw Amsterdam</a></li>
-<li><a href="/wiki/Tamanredjo" title="Tamanredjo">Tamanredjo</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coronie_District" title="Coronie District">Coronie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Johanna_Maria" title="Johanna Maria">Johanna Maria</a></li>
-<li><a href="/wiki/Totness,_Suriname" title="Totness, Suriname">Totness</a></li>
-<li><a href="/wiki/Welgelegen,_Coronie_District" title="Welgelegen, Coronie District">Welgelegen</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Marowijne_District" title="Marowijne District">Marowijne District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Albina,_Suriname" title="Albina, Suriname">Albina</a></li>
-<li><a href="/wiki/Galibi,_Suriname" title="Galibi, Suriname">Galibi</a></li>
-<li><a href="/wiki/Moengo" title="Moengo">Moengo</a></li>
-<li><a href="/wiki/Moengotapoe" title="Moengotapoe">Moengotapoe</a></li>
-<li><a href="/wiki/Patamacca" title="Patamacca">Patamacca</a></li>
-<li><a href="/wiki/Wanhatti" title="Wanhatti">Wanhatti</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nickerie_District" title="Nickerie District">Nickerie District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Groot_Henar" title="Groot Henar">Groot Henar</a></li>
-<li><a class="mw-selflink selflink">Nieuw Nickerie</a></li>
-<li><a href="/wiki/Oostelijke_Polders" title="Oostelijke Polders">Oostelijke Polders</a></li>
-<li><a href="/wiki/Wageningen,_Suriname" title="Wageningen, Suriname">Wageningen</a></li>
-<li><a href="/wiki/Westelijke_Polders" title="Westelijke Polders">Westelijke Polders</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Para_District" title="Para District">Para District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Bigi_Poika" title="Bigi Poika">Bigi Poika</a></li>
-<li><a href="/wiki/Carolina,_Suriname" title="Carolina, Suriname">Carolina</a></li>
-<li><a href="/wiki/Noord,_Suriname" title="Noord, Suriname">Noord</a></li>
-<li><a href="/wiki/Oost,_Suriname" title="Oost, Suriname">Oost</a></li>
-<li><a href="/wiki/Zuid,_Suriname" title="Zuid, Suriname">Zuid</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paramaribo_District" title="Paramaribo District">Paramaribo District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Beekhuizen" title="Beekhuizen">Beekhuizen</a></li>
-<li><a href="/wiki/Blauwgrond" title="Blauwgrond">Blauwgrond</a></li>
-<li><a href="/wiki/Centrum,_Paramaribo" title="Centrum, Paramaribo">Centrum</a></li>
-<li><a href="/wiki/Flora,_Suriname" title="Flora, Suriname">Flora</a></li>
-<li><a href="/wiki/Latour,_Suriname" title="Latour, Suriname">Latour</a></li>
-<li><a href="/wiki/Livorno,_Suriname" title="Livorno, Suriname">Livorno</a></li>
-<li><a href="/wiki/Munder,_Suriname" title="Munder, Suriname">Munder</a></li>
-<li><a href="/wiki/Pontbuiten" title="Pontbuiten">Pontbuiten</a></li>
-<li><a href="/wiki/Rainville,_Suriname" title="Rainville, Suriname">Rainville</a></li>
-<li><a href="/wiki/Tammenga" title="Tammenga">Tammenga</a></li>
-<li><a href="/wiki/Weg_naar_See" class="mw-redirect" title="Weg naar See">Weg naar See</a></li>
-<li><a href="/wiki/Welgelegen,_Paramaribo_District" title="Welgelegen, Paramaribo District">Welgelegen</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Saramacca_District" title="Saramacca District">Saramacca District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Calcutta,_Suriname" title="Calcutta, Suriname">Calcutta</a></li>
-<li><a href="/wiki/Groningen,_Suriname" title="Groningen, Suriname">Groningen</a></li>
-<li><a href="/wiki/Jarikaba" title="Jarikaba">Jarikaba</a></li>
-<li><a href="/wiki/Kampong_Baroe" title="Kampong Baroe">Kampong Baroe</a></li>
-<li><a href="/wiki/Tijgerkreek" title="Tijgerkreek">Tijgerkreek</a></li>
-<li><a href="/wiki/Wayamboweg" title="Wayamboweg">Wayamboweg</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sipaliwini_District" title="Sipaliwini District">Sipaliwini District</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/Boven_Coppename" title="Boven Coppename">Boven Coppename</a></li>
-<li><a href="/wiki/Boven_Saramacca" title="Boven Saramacca">Boven Saramacca</a></li>
-<li><a href="/wiki/Boven_Suriname" title="Boven Suriname">Boven Suriname</a></li>
-<li><a href="/wiki/Coeroeni" title="Coeroeni">Coeroeni</a></li>
-<li><a href="/wiki/Kabalebo" title="Kabalebo">Kabalebo</a></li>
-<li><a href="/wiki/Tapanahony" title="Tapanahony">Tapanahony</a></li></ul>
-</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Wanica_District" title="Wanica District">Wanica District</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
-<ul><li><a href="/wiki/De_Nieuwe_Grond" title="De Nieuwe Grond">De Nieuwe Grond</a></li>
-<li><a href="/wiki/Domburg,_Suriname" title="Domburg, Suriname">Domburg</a></li>
-<li><a href="/wiki/Houttuin" title="Houttuin">Houttuin</a></li>
-<li><a href="/wiki/Koewarasan" title="Koewarasan">Koewarasan</a></li>
-<li><a href="/wiki/Kwatta" title="Kwatta">Kwatta</a></li>
-<li><a href="/wiki/Lelydorp" title="Lelydorp">Lelydorp</a></li>
-<li><a href="/wiki/Saramacca_Polder" title="Saramacca Polder">Saramacca Polder</a></li></ul>
-</div></td></tr></tbody></table></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slovak_name&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.behindthename.com/nmc/cze.php">Czech and Slovak given names</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a class="mw-selflink selflink">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
 <!-- 
 NewPP limit report
-Parsed by mw1254
-Cached time: 20190914044658
+Parsed by mw1283
+Cached time: 20190919092401
 Cache expiry: 2592000
 Dynamic content: false
 Complications: [vary‐revision‐sha1]
-CPU time usage: 0.496 seconds
-Real time usage: 0.657 seconds
-Preprocessor visited node count: 4446/1000000
+CPU time usage: 0.324 seconds
+Real time usage: 0.417 seconds
+Preprocessor visited node count: 348/1000000
 Preprocessor generated node count: 0/1500000
-Post‐expand include size: 62350/2097152 bytes
-Template argument size: 9659/2097152 bytes
-Highest expansion depth: 25/40
-Expensive parser function count: 1/500
+Post‐expand include size: 41323/2097152 bytes
+Template argument size: 75/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
 Unstrip recursion depth: 1/20
-Unstrip post‐expand size: 4210/5000000 bytes
-Number of Wikibase entities loaded: 1/400
-Lua time usage: 0.196/10.000 seconds
-Lua memory usage: 4.24 MB/50 MB
+Unstrip post‐expand size: 8830/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.214/10.000 seconds
+Lua memory usage: 10.4 MB/50 MB
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  562.574      1 -total
- 60.81%  342.108      1 Template:Infobox_settlement
- 41.12%  231.315      1 Template:Infobox
- 17.53%   98.622      1 Template:Reflist
- 14.58%   82.018      1 Template:Cite_web
-  9.19%   51.722      7 Template:Both
-  8.85%   49.781      3 Template:Main_other
-  8.56%   48.183      1 Template:Commons_category
-  8.40%   47.258      1 Template:Coord
-  7.14%   40.168      1 Template:Weather_box
+100.00%  342.901      1 -total
+ 51.53%  176.703      1 Template:Lang-sk
+ 30.16%  103.423      1 Template:Reflist
+ 25.39%   87.064      3 Template:Cite_web
+  9.77%   33.489      1 Template:Further
+  7.73%   26.522      1 Template:Names_in_world_cultures
+  6.36%   21.801      2 Template:Navbox
+  0.94%    3.215      1 Template:Main_other
 -->
 
-<!-- Saved in parser cache with key enwiki:pcache:idhash:2112547-0!canonical and timestamp 20190914044658 and revision id 891409678
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28210036-0!canonical and timestamp 20190919092401 and revision id 916520022
  -->
 </div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
 		
-		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678">https://en.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678</a>"</div>
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Slovak_name&amp;oldid=916520022">https://en.wikipedia.org/w/index.php?title=Slovak_name&amp;oldid=916520022</a>"</div>
 		
-		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Resorts_of_Suriname" title="Category:Resorts of Suriname">Resorts of Suriname</a></li><li><a href="/wiki/Category:Guyana%E2%80%93Suriname_border_crossings" title="Category:Guyana–Suriname border crossings">Guyana–Suriname border crossings</a></li><li><a href="/wiki/Category:Populated_places_in_Nickerie_District" title="Category:Populated places in Nickerie District">Populated places in Nickerie District</a></li><li><a href="/wiki/Category:Nieuw_Nickerie" title="Category:Nieuw Nickerie">Nieuw Nickerie</a></li><li><a href="/wiki/Category:Populated_places_established_in_1879" title="Category:Populated places established in 1879">Populated places established in 1879</a></li><li><a href="/wiki/Category:1879_establishments_in_South_America" title="Category:1879 establishments in South America">1879 establishments in South America</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Slavic-language_names" title="Category:Slavic-language names">Slavic-language names</a></li><li><a href="/wiki/Category:Slovak_culture" title="Category:Slovak culture">Slovak culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Slovak-language_text" title="Category:Articles containing Slovak-language text">Articles containing Slovak-language text</a></li></ul></div></div>
 		<div class="visualClear"></div>
 		
 	</div>
@@ -452,13 +518,13 @@ Transclusion expansion time report (%,ms,calls,template)
 									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
 						<h3 id="p-personal-label">Personal tools</h3>
 						<ul>
-							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nieuw+Nickerie" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nieuw+Nickerie" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Slovak+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Slovak+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
 					</div>
 									<div id="left-navigation">
 										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
 						<h3 id="p-namespaces-label">Namespaces</h3>
 						<ul>
-							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nieuw_Nickerie" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nieuw_Nickerie" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Slovak_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Slovak_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
 					</div>
 										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
 												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
@@ -473,7 +539,7 @@ Transclusion expansion time report (%,ms,calls,template)
 										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
 						<h3 id="p-views-label">Views</h3>
 						<ul>
-							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nieuw_Nickerie">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Slovak_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Slovak_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Slovak_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
 					</div>
 										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
 						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
@@ -512,35 +578,28 @@ Transclusion expansion time report (%,ms,calls,template)
 			<h3 id="p-tb-label">Tools</h3>
 			<div class="body">
 								<ul>
-					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nieuw_Nickerie" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nieuw_Nickerie" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nieuw_Nickerie&amp;oldid=891409678" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nieuw_Nickerie&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738313" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nieuw_Nickerie&amp;id=891409678" title="Information on how to cite this page">Cite this page</a></li>				</ul>
-							</div>
-		</div>
-			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
-			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
-			<div class="body">
-								<ul>
-					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nieuw-Nickerie" hreflang="en">Wikimedia Commons</a></li>				</ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Slovak_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Slovak_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Slovak_name&amp;oldid=916520022" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Slovak_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7541579" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Slovak_name&amp;id=916520022" title="Information on how to cite this page">Cite this page</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
 			<h3 id="p-coll-print_export-label">Print/export</h3>
 			<div class="body">
 								<ul>
-					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nieuw+Nickerie">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nieuw+Nickerie&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nieuw_Nickerie&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Slovak+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Slovak+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Slovak_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
 							</div>
 		</div>
 			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
 			<h3 id="p-lang-label">Languages</h3>
 			<div class="body">
 								<ul>
-					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%88_%D9%86%DB%8C%DA%A9%D8%B1%DB%8C" title="نیو نیکری – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8B%88%EC%9A%B0%EB%8B%88%EC%BC%80%EB%A6%AC" title="니우니케리 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A0%D7%99%D7%90%D7%91_%D7%A0%D7%99%D7%A7%D7%A8%D7%99" title="ניאב ניקרי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Naujasis_Nikeris" title="Naujasis Nikeris – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%A6%E3%83%BB%E3%83%8B%E3%83%83%E3%82%B1%E3%83%AA%E3%83%BC" title="ニウ・ニッケリー – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D1%8C%D0%B8%D0%B2-%D0%9D%D0%B8%D0%BA%D0%BA%D0%B5%D1%80%D0%B8" title="Ньив-Никкери – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-srn"><a href="https://srn.wikipedia.org/wiki/Nieuw_Nickerie" title="Nieuw Nickerie – Sranan Tongo" lang="srn" hreflang="srn" class="interlanguage-link-target">Sranantongo</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nieuw-Nickerie" title="Nieuw-Nickerie – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%8C%D1%97%D0%B2-%D0%9D%D1%96%D0%BA%D0%BA%D0%B5%D1%80%D1%96" title="Ньїв-Ніккері – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%86%DB%8C%D9%88_%D9%86%DB%8C%DA%A9%D8%A7%D8%B1%DB%8C" title="نیو نیکاری – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Uz%27_Nikkeri" title="Uz&#039; Nikkeri – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%96%B0%E5%B0%BC%E5%85%8B%E9%87%8C" title="新尼克里 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
-				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q738313#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7541579#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
 		</div>
 				</div>
 		</div>
 				<div id="footer" role="contentinfo">
 						<ul id="footer-info">
-								<li id="footer-info-lastmod"> This page was last edited on 7 April 2019, at 19:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 09:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
 								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
 additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
 							</ul>
@@ -551,7 +610,7 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
 								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
 								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
-								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nieuw_Nickerie&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Slovak_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
 							</ul>
 										<ul id="footer-icons" class="noprint">
 										<li id="footer-copyrightico">
@@ -563,8 +622,8 @@ additional terms may apply.  By using this site, you agree to the <a href="//fou
 		</div>
 		
 
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.657","ppvisitednodes":{"value":4446,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62350,"limit":2097152},"templateargumentsize":{"value":9659,"limit":2097152},"expansiondepth":{"value":25,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":4210,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  562.574      1 -total"," 60.81%  342.108      1 Template:Infobox_settlement"," 41.12%  231.315      1 Template:Infobox"," 17.53%   98.622      1 Template:Reflist"," 14.58%   82.018      1 Template:Cite_web","  9.19%   51.722      7 Template:Both","  8.85%   49.781      3 Template:Main_other","  8.56%   48.183      1 Template:Commons_category","  8.40%   47.258      1 Template:Coord","  7.14%   40.168      1 Template:Weather_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.196","limit":"10.000"},"limitreport-memusage":{"value":4445639,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20190914044658","ttl":2592000,"transientcontent":false}}});});</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nieuw Nickerie","url":"https:\/\/en.wikipedia.org\/wiki\/Nieuw_Nickerie","sameAs":"http:\/\/www.wikidata.org\/entity\/Q738313","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q738313","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-25T11:03:15Z","dateModified":"2019-04-07T19:48:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Nickerie.jpg","headline":"resort of Suriname"}</script>
-<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1262"});});</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.417","ppvisitednodes":{"value":348,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41323,"limit":2097152},"templateargumentsize":{"value":75,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8830,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  342.901      1 -total"," 51.53%  176.703      1 Template:Lang-sk"," 30.16%  103.423      1 Template:Reflist"," 25.39%   87.064      3 Template:Cite_web","  9.77%   33.489      1 Template:Further","  7.73%   26.522      1 Template:Names_in_world_cultures","  6.36%   21.801      2 Template:Navbox","  0.94%    3.215      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.214","limit":"10.000"},"limitreport-memusage":{"value":10902023,"limit":52428800}},"cachereport":{"origin":"mw1283","timestamp":"20190919092401","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Slovak name","url":"https:\/\/en.wikipedia.org\/wiki\/Slovak_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7541579","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7541579","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-07-31T07:33:17Z","dateModified":"2019-09-19T09:24:01Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1327"});});</script>
 </body>
 </html>
