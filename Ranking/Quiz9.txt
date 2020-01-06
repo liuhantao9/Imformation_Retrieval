@@ -1,0 +1,16 @@
+F1:         1,      2,      3,      4,      5,      6,      7,      8,      9,      10
+Recall: 1/5 = 0.2,  0.2,﻿﻿2/5=0.4, 0.4,  3/5=0.6,  0.6,  4/5=0.8,  0.8,   5/5=1,    1
+Precis: 1/1 = 1,  1/2=0.5,﻿0.67,   0.5,  3/5=0.6,  0.5,  4/7=0.57, 0.5,   5/9=0.56, 0.5
+
+F2:         1,      2,      3,      4,      5,      6,      7,      8,      9,      10
+Recall:  0/5 = 0,  0.2,﻿﻿1/5=0.2,  0.4,  2/5=0.4,  0.6,  3/5=0.6,  0.8,   4/5=0.8,   1
+Precis:  0/1 = 0, 1/2=0.5,﻿0.33,   0.5,  2/5=0.4,  0.5,  3/7=0.43, 0.5,   4/9=0.4,  0.5
+
+
+AvgPrecision(Ranking A)= (1+0.67+0.6+0.57+0.56)/5 = 0.68
+AvgPrecision(Ranking B)= (0.5+0.5+0.5+0.5+0.5)/5 = 0.5
+
+
+I will use precision and recall measurement to evaluate these search engine.
+The precision and recall measurement is very easy calculated and you only need to label a result as relevant or irrelevant. The measurement is very straight forward
+The disadvantage for precision are recall are such as the collection should be large for it to generate a good result. There are also a lot of human judgement. There are only two classes for classification and evaluation, it is binary classification

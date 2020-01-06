@@ -1,0 +1,290 @@
+crawler algorithm
+['crawler', 'algorithm']
+ID: 16 Document Name: Natural language processing - Wikipedia
+Not to be confused with Non-linear programming (also NLP)Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerne...
+Score: 0.9814148631055271
+crawler: 0.0; algorithm: 0.9814148631055271; 
+
+ID: 59 Document Name: Virtual International Authority File - Wikipedia
+The Virtual International Authority File (VIAF) is an international authority file. It is a joint project of several national libraries and operated by the Online Computer Library Center (OCLC).&#91;1...
+Score: 0.9814148631055271
+crawler: 0.0; algorithm: 0.9814148631055271; 
+
+ID: 934 Document Name: MusicBrainz - Wikipedia
+MusicBrainz is a project that aims to create a collaborative music database that is similar to the freedb project. MusicBrainz was founded in response to the restrictions placed on the Compact Disc Da...
+Score: 0.9814148631055271
+crawler: 0.0; algorithm: 0.9814148631055271; 
+
+ID: 964 Document Name: Needham–Schroeder protocol - Wikipedia
+The Needham–Schroeder protocol is one of the two key transport protocols intended for use over an insecure network, both proposed by Roger Needham and Michael Schroeder.&#91;1&#93; These are:Here, Ali...
+Score: 0.9814148631055271
+crawler: 0.0; algorithm: 0.9814148631055271; 
+
+ID: 995 Document Name: XTEA - Wikipedia
+In cryptography, XTEA (eXtended TEA) is a block cipher designed to correct weaknesses in TEA. The cipher's designers were David Wheeler and Roger Needham of the Cambridge Computer Laboratory, and the ...
+Score: 0.9814148631055271
+crawler: 0.0; algorithm: 0.9814148631055271; 
+
+
+
+Hello world
+['Hello', 'world']
+ID: 3 Document Name: Huddersfield - Wikipedia
+Huddersfield is a large market and university town&#91;1&#93; in West Yorkshire, England. It is the 11th largest town in the United Kingdom, with a population of 162,949 at the 2011 census.&#91;2&#93;...
+Score: 0.9995927634464842
+Hello: 0.0; world: 0.9995927634464842; 
+
+ID: 7 Document Name: Thesis - Wikipedia
+A thesis or dissertation&#91;1&#93; is a document submitted in support of candidature for an academic degree or professional qualification presenting the author's research and findings.&#91;2&#93; In ...
+Score: 0.9995927634464842
+Hello: 0.0; world: 0.9995927634464842; 
+
+ID: 30 Document Name: British Computer Society - Wikipedia
+The British Computer Society (BCS) is a professional body and a learned society that represents those working in information technology (IT) and computer science, both in the United Kingdom and intern...
+Score: 0.9995927634464842
+Hello: 0.0; world: 0.9995927634464842; 
+
+ID: 31 Document Name: Microsoft Research - Wikipedia
+Microsoft Research is the research subsidiary of Microsoft. It was formed in 1991, with the intent to advance state-of-the-art computing and solve difficult world problems through technological innova...
+Score: 0.9995927634464842
+Hello: 0.0; world: 0.9995927634464842; 
+
+ID: 62 Document Name: Surname - Wikipedia
+A surname, family name, or last name is the portion (in some cultures) of a personal name that indicates a person's family (or tribe or community, depending on the culture).&#91;1&#93; Depending on th...
+Score: 0.9995927634464842
+Hello: 0.0; world: 0.9995927634464842; 
+
+
+
+Karen website search
+['Karen', 'website', 'search']
+ID: 985 Document Name: Computer security - Wikipedia
+Computer security, cybersecurity&#91;1&#93; or information technology security (IT security) is the protection of computer systems from the theft of or damage to their hardware, software, or electroni...
+Score: 0.9497922898943889
+Karen: 0.0; website: 0.6107770208507678; search: 0.3390152690436211; 
+
+ID: 443 Document Name: Listed building - Wikipedia
+A listed building, or listed structure, is one that has been placed on one of the four statutory lists maintained by Historic England in England, Historic Environment Scotland in Scotland, Cadw in Wal...
+Score: 0.9496629990277179
+Karen: 0.0; website: 0.5608257744546788; search: 0.3888372245730391; 
+
+ID: 828 Document Name: Netflix - Wikipedia
+Netflix, Inc. (/nɛtflɪks/) is an American media-services provider and production company headquartered in Los Gatos, California, founded in 1997 by Reed Hastings and Marc Randolph in Scotts Valley, Ca...
+Score: 0.9481089013640923
+Karen: 0.0; website: 0.6220959097193757; search: 0.32601299164471664; 
+
+ID: 878 Document Name: Encyclopædia Britannica - Wikipedia
+The Encyclopædia Britannica (Latin for "British Encyclopaedia"), formerly published by Encyclopædia Britannica, Inc., is a general knowledge English-language encyclopaedia. It was written by about 100...
+Score: 0.9463564559374963
+Karen: 0.0; website: 0.5381278528338899; search: 0.4082286031036064; 
+
+ID: 197 Document Name: Wayback Machine - Wikipedia
+The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet. It was launched in 2001 by the Internet Archive, a nonprofit organization based in San Francisco, ...
+Score: 0.9459489426812454
+Karen: 0.0; website: 0.6321556702099296; search: 0.31379327247131583; 
+
+
+
+deep learning
+['deep', 'learning']
+ID: 455 Document Name: Anglo-Saxons - Wikipedia
+The Anglo-Saxons were a cultural group who inhabited Great Britain from the 5th century. They comprise people from Germanic tribes who migrated to the island from continental Europe, their descendants...
+Score: 0.9987749601314725
+deep: 0.42412773573265605; learning: 0.5746472243988164; 
+
+ID: 161 Document Name: Poland - Wikipedia
+Coordinates: 52°N 20°E&#xfeff; / &#xfeff;52°N 20°E&#xfeff; / 52; 20–&#160;in Europe&#160;(green &amp;&#160;dark grey)–&#160;in the European Union&#160;(green)&#160; –&#160; &#91;Legend&#93;Poland (Pol...
+Score: 0.9987102013773337
+deep: 0.47396842276083817; learning: 0.5247417786164955; 
+
+ID: 572 Document Name: Buddhism - Wikipedia
+Buddhism (/ˈbʊdɪzəm/, US: /ˈbuːd-/)&#91;1&#93;&#91;2&#93; is the world's fourth-largest religion&#91;3&#93;&#91;4&#93; with over 520 million followers, or over 7% of the global population, known as Bu...
+Score: 0.9968581906534527
+deep: 0.4084812352450593; learning: 0.5883769554083934; 
+
+ID: 16 Document Name: Natural language processing - Wikipedia
+Not to be confused with Non-linear programming (also NLP)Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerne...
+Score: 0.9961860124698166
+deep: 0.40417599299284135; learning: 0.5920100194769753; 
+
+ID: 63 Document Name: Western culture - Wikipedia
+Western culture, sometimes equated with Western civilization, Occidental culture, the Western world, Western society, and European civilization, is the heritage of social norms, ethical values, tradit...
+Score: 0.9947070797622409
+deep: 0.39580331028815596; learning: 0.598903769474085; 
+
+
+
+Seattle
+['Seattle']
+ID: 169 Document Name: Antonio Villaraigosa - Wikipedia
+Antonio Ramón Villaraigosa (/ˌviːəraɪˈɡoʊsə/; né Villar Jr.; born January 23, 1953) is an American politician who was the 41st Mayor of Los Angeles, California, from 2005 to 2013.Before becoming mayor...
+Score: 1.0
+Seattle: 1.0; 
+
+ID: 797 Document Name: Patrick Stewart - Wikipedia
+Sir Patrick Stewart OBE (born 13 July 1940)&#91;1&#93; is an English actor whose work has included roles on stage, television, and film in a career spanning almost six decades. He has been nominated f...
+Score: 1.0
+Seattle: 1.0; 
+
+ID: 643 Document Name: YMCA - Wikipedia
+YMCA [pronounced Y-M-C-A], sometimes regionally called the Y, is a worldwide organisation based in Geneva, Switzerland, with more than 64 million beneficiaries from 120 national associations.&#91;1&#9...
+Score: 1.0
+Seattle: 1.0; 
+
+ID: 698 Document Name: Drum and bass - Wikipedia
+Drum and bass (also written as "drum 'n' bass" or "drum &amp; bass"; commonly abbreviated as "D&amp;B", "DnB" or "D'n'B") is a genre and branch of electronic music characterised by fast breakbeats (ty...
+Score: 1.0
+Seattle: 1.0; 
+
+ID: 744 Document Name: Pizza Hut - Wikipedia
+Pizza Hut is an American restaurant chain and international franchise which was founded in 1958 in Wichita, Kansas by Dan and Frank Carney. The company is known for its Italian-American cuisine menu, ...
+Score: 1.0
+Seattle: 1.0; 
+
+
+
+Seattle scientist
+['Seattle', 'scientist']
+ID: 1 Document Name: Karen Spärck Jones - Wikipedia
+Karen Spärck Jones FBA (26 August 1935 – 4 April 2007) was a British computer scientist who was responsible for the concept of inverse document frequency, a technology that underlies most modern searc...
+Score: 0.9571940636153826
+Seattle: 0.0; scientist: 0.9571940636153826; 
+
+ID: 28 Document Name: BCS Lovelace Medal - Wikipedia
+The Lovelace Medal was established by the British Computer Society in 1998, and is presented to individuals who have made outstanding contributions to the understanding or advancement of Computing.&#9...
+Score: 0.9571940636153826
+Seattle: 0.0; scientist: 0.9571940636153826; 
+
+ID: 61 Document Name: Karen Spärck Jones - Wikipedia
+Karen Spärck Jones FBA (26 August 1935 – 4 April 2007) was a British computer scientist who was responsible for the concept of inverse document frequency, a technology that underlies most modern searc...
+Score: 0.9571940636153826
+Seattle: 0.0; scientist: 0.9571940636153826; 
+
+ID: 967 Document Name: Karen Spärck Jones - Wikipedia
+Karen Spärck Jones FBA (26 August 1935 – 4 April 2007) was a British computer scientist who was responsible for the concept of inverse document frequency, a technology that underlies most modern searc...
+Score: 0.9571940636153826
+Seattle: 0.0; scientist: 0.9571940636153826; 
+
+ID: 992 Document Name: Michael Schroeder - Wikipedia
+Michael Schroeder is an American computer scientist. His areas of research include computer security, distributed systems and operating systems and he is perhaps best known as the co-inventor of the N...
+Score: 0.9571940636153826
+Seattle: 0.0; scientist: 0.9571940636153826; 
+
+
+
+term frequency
+['term', 'frequency']
+ID: 963 Document Name: University of Cambridge - Wikipedia
+The University of Cambridge (legally The Chancellor, Masters, and Scholars of the University of Cambridge) is a collegiate public research university in Cambridge, United Kingdom. Founded in 1209 and ...
+Score: 0.9893017424562587
+term: 0.8257983998765721; frequency: 0.16350334257968657; 
+
+ID: 970 Document Name: University of Cambridge - Wikipedia
+The University of Cambridge (legally The Chancellor, Masters, and Scholars of the University of Cambridge) is a collegiate public research university in Cambridge, United Kingdom. Founded in 1209 and ...
+Score: 0.9893017424562587
+term: 0.8257983998765721; frequency: 0.16350334257968657; 
+
+ID: 984 Document Name: Computer - Wikipedia
+A computer is a machine that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. Modern computers have the ability to follow generalize...
+Score: 0.9893017424562587
+term: 0.8257983998765721; frequency: 0.16350334257968657; 
+
+ID: 65 Document Name: Hyphen - Wikipedia
+؋&#x20;&#x200b;₳&#x20;&#x200b;฿&#x20;&#x200b;₿&#x20;&#x200b;₵&#x20;&#x200b;¢&#x20;&#x200b;₡&#x20;&#x200b;₢&#x20;&#x200b;$&#x20;&#x200b;₫&#x20;&#x200b;₯&#x20;&#x200b;֏&#x20;&#x200b;₠&#x20;&#x200b;€&#x2...
+Score: 0.978494371966432
+term: 0.7967996179025729; frequency: 0.18169475406385902; 
+
+ID: 466 Document Name: H. H. Asquith - Wikipedia
+Herbert Henry Asquith, 1st Earl of Oxford and Asquith, KG&#44;&#32;PC&#44;&#32;KC&#44;&#32;FRS (12 September 1852&#160;– 15 February 1928), generally known as H. H. Asquith, was a British statesman an...
+Score: 0.978494371966432
+term: 0.7967996179025729; frequency: 0.18169475406385902; 
+
+
+
+tokenizing
+['tokenizing']
+ID: 1 Document Name: Karen Spärck Jones - Wikipedia
+Karen Spärck Jones FBA (26 August 1935 – 4 April 2007) was a British computer scientist who was responsible for the concept of inverse document frequency, a technology that underlies most modern searc...
+Score: 0.0
+tokenizing: 0.0; 
+
+ID: 3 Document Name: Huddersfield - Wikipedia
+Huddersfield is a large market and university town&#91;1&#93; in West Yorkshire, England. It is the 11th largest town in the United Kingdom, with a population of 162,949 at the 2011 census.&#91;2&#93;...
+Score: 0.0
+tokenizing: 0.0; 
+
+ID: 7 Document Name: Thesis - Wikipedia
+A thesis or dissertation&#91;1&#93; is a document submitted in support of candidature for an academic degree or professional qualification presenting the author's research and findings.&#91;2&#93; In ...
+Score: 0.0
+tokenizing: 0.0; 
+
+ID: 15 Document Name: Department of Computer Science and Technology, University of Cambridge - Wikipedia
+The Department of Computer Science and Technology, formerly the Computer Laboratory, is the computer science department of the University of Cambridge. As of 2007&#91;update&#93; it employed 35 academ...
+Score: 0.0
+tokenizing: 0.0; 
+
+ID: 31 Document Name: Microsoft Research - Wikipedia
+Microsoft Research is the research subsidiary of Microsoft. It was formed in 1991, with the intent to advance state-of-the-art computing and solve difficult world problems through technological innova...
+Score: 0.0
+tokenizing: 0.0; 
+
+
+
+internationalism
+['internationalism']
+ID: 35 Document Name: Dictionary of National Biography - Wikipedia
+The Dictionary of National Biography (DNB) is a standard work of reference on notable figures from British history, published since 1885. The updated Oxford Dictionary of National Biography (ODNB) was...
+Score: 1.0
+internationalism: 1.0; 
+
+ID: 3 Document Name: Huddersfield - Wikipedia
+Huddersfield is a large market and university town&#91;1&#93; in West Yorkshire, England. It is the 11th largest town in the United Kingdom, with a population of 162,949 at the 2011 census.&#91;2&#93;...
+Score: 0.0
+internationalism: 0.0; 
+
+ID: 7 Document Name: Thesis - Wikipedia
+A thesis or dissertation&#91;1&#93; is a document submitted in support of candidature for an academic degree or professional qualification presenting the author's research and findings.&#91;2&#93; In ...
+Score: 0.0
+internationalism: 0.0; 
+
+ID: 15 Document Name: Department of Computer Science and Technology, University of Cambridge - Wikipedia
+The Department of Computer Science and Technology, formerly the Computer Laboratory, is the computer science department of the University of Cambridge. As of 2007&#91;update&#93; it employed 35 academ...
+Score: 0.0
+internationalism: 0.0; 
+
+ID: 31 Document Name: Microsoft Research - Wikipedia
+Microsoft Research is the research subsidiary of Microsoft. It was formed in 1991, with the intent to advance state-of-the-art computing and solve difficult world problems through technological innova...
+Score: 0.0
+internationalism: 0.0; 
+
+
+
+page rank
+['page', 'rank']
+ID: 235 Document Name: Pen name - Wikipedia
+A pen name (nom de plume or literary double) is a pseudonym (or, in some cases, a variant form of a real name) adopted by an author and printed on the title page or by-line of their works in place of ...
+Score: 0.9996980365531758
+page: 0.32559150382295765; rank: 0.6741065327302181; 
+
+ID: 804 Document Name: Liberal Party (UK) - Wikipedia
+The Liberal Party was one of the two major parties in the United Kingdom with the opposing Conservative Party in the 19th and early 20th centuries.&#91;2&#93; The party arose from an alliance of Whigs...
+Score: 0.9993656694867107
+page: 0.3539347118720687; rank: 0.645430957614642; 
+
+ID: 93 Document Name: Ralph Vaughan Williams - Wikipedia
+Ralph Vaughan Williams OM (/reɪf vɔːn/&#32;(listen);&#91;n 1&#93; 12 October 1872&#160;– 26 August 1958) was an English composer. His works include operas, ballets, chamber music, secular and religiou...
+Score: 0.9863022470234345
+page: 0.41067707074885795; rank: 0.5756251762745765; 
+
+ID: 197 Document Name: Wayback Machine - Wikipedia
+The Wayback Machine is a digital archive of the World Wide Web and other information on the Internet. It was launched in 2001 by the Internet Archive, a nonprofit organization based in San Francisco, ...
+Score: 0.9437692739912498
+page: 0.47465141489604395; rank: 0.46911785909520576; 
+
+ID: 92 Document Name: David Lloyd George - Wikipedia
+David Lloyd George, 1st Earl Lloyd-George of Dwyfor,&#91;a&#93; OM&#44;&#32;PC (17 January 1863 – 26 March 1945) was a British statesman and Liberal politician.  He is best known for his roles in mobi...
+Score: 0.934573378466116
+page: 0.4834476309178129; rank: 0.4511257475483031; 
+
+
+

@@ -1,0 +1,5 @@
+Total file size:        188969666
+Number of unique Token: 106182
+Number of tokens:       2902314
+Size of index:          248
+Ratio of index to file: 1.312379945678689e-06
